@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-Hant"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>LEX-01 · 多語單字卡</title>
+<link rel="icon" href="icon.png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0b0b0c">
+<style>
+:root{color-scheme:light dark;--bg:#f2f2f5;--ink:#0b0b0c;--mut:#6b6b72;--pn:rgba(255,255,255,.62);--ln:rgba(0,0,0,.08);--s:rgba(20,22,30,.13)}
+@media (prefers-color-scheme:dark){:root{--bg:#0b0b0c;--ink:#f4f4f6;--mut:#9a9aa2;--pn:rgba(255,255,255,.07);--ln:rgba(255,255,255,.1);--s:rgba(255,255,255,.06)}}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Noto Sans TC","PingFang TC",sans-serif;display:grid;place-items:center;overflow-x:hidden;padding:24px 0}
+.sh{position:fixed;inset:-10%;pointer-events:none;filter:blur(12px);background:linear-gradient(90deg,transparent 0 31%,var(--s) 31% 34%,transparent 34% 64%,var(--s) 64% 67%,transparent 67%),linear-gradient(0deg,transparent 0 46%,var(--s) 46% 49.5%,transparent 49.5%);transform:perspective(900px) rotateX(18deg) rotateZ(-14deg) skewX(-10deg);animation:d 26s ease-in-out infinite alternate}
+@keyframes d{to{translate:3% 2%}}@media (prefers-reduced-motion:reduce){.sh{animation:none}}
+main{position:relative;width:min(560px,92vw);padding:34px 28px;border-radius:28px;background:var(--pn);border:.5px solid var(--ln);-webkit-backdrop-filter:blur(24px) saturate(1.6);backdrop-filter:blur(24px) saturate(1.6);box-shadow:inset 0 .5px 0 rgba(255,255,255,.6),0 20px 60px rgba(0,0,0,.12);animation:in .6s cubic-bezier(.2,.9,.3,1.2)}
+@keyframes in{from{opacity:0;transform:translateY(14px) scale(.98)}}
+img.ic{width:84px;height:84px;display:block;margin:0 0 14px -8px}
+h1{margin:0;font-size:34px;letter-spacing:.02em}p{color:var(--mut);margin:6px 0 18px}
+.b{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:14px;border-radius:16px;font:inherit;font-weight:700;text-decoration:none;color:var(--ink);background:var(--pn);border:.5px solid var(--ln);margin-top:10px;transition:transform .15s;cursor:pointer}
+.b:active{transform:scale(.97)}.b.p{background:var(--ink);color:var(--bg)}
+.tabs{display:flex;gap:6px;margin:22px 0 10px;flex-wrap:wrap}
+.tabs button{font:inherit;font-size:14px;padding:6px 12px;border-radius:999px;border:.5px solid var(--ln);background:transparent;color:var(--mut);cursor:pointer}
+.tabs button.on{background:var(--ink);color:var(--bg);border-color:transparent}
+.how{display:none;font-size:14.5px}.how.on{display:block}
+.how ol{margin:6px 0 0;padding-left:1.3em}.how li{margin:4px 0}
+.note{font-size:13px;color:var(--mut);margin-top:8px}
+small{display:block;color:var(--mut);margin-top:18px;font-size:13px}
+</style></head><body><div class="sh"></div>
+<main>
+<img class="ic" src="icon.png" alt="">
+<h1>LEX-01</h1>
+<p>英文・日本語・中文 單字卡 + 抽卡。第一次打開要用 Google 帳號登入，並貼上你自己的免費 Gemini 金鑰；進度存在你自己的 Google 雲端硬碟，換手機或電腦都能接著學。</p>
+<a class="b p" href="app.html">打開 LEX-01 · Open</a>
+<button class="b" id="inst" hidden>安裝成 App · Install</button>
+
+<div class="tabs" id="tabs">
+ <button data-k="ios">iPhone / iPad</button><button data-k="and">Android</button><button data-k="win">Windows</button><button data-k="mac">Mac</button>
+</div>
+<div class="how" data-k="ios"><b>用 Safari 加入主畫面</b><ol><li>用 <b>Safari</b> 打開這個網頁，按「打開 LEX-01」</li><li>按下方的「分享」按鈕（方框加向上箭頭）</li><li>選「加入主畫面」→「加入」</li></ol><div class="note">之後從主畫面的 LEX-01 圖示打開，就像一般 App（全螢幕、可離線）。</div></div>
+<div class="how" data-k="and"><b>用 Chrome 安裝</b><ol><li>用 <b>Chrome</b> 打開這個網頁</li><li>按上面的「安裝成 App」；沒看到的話，按右上角「⋮」→「安裝應用程式」或「加到主畫面」</li></ol><div class="note">安裝後會出現在主畫面和 App 清單裡。</div></div>
+<div class="how" data-k="win"><b>用 Chrome 或 Edge 安裝</b><ol><li>用 <b>Chrome</b> 或 <b>Edge</b> 打開這個網頁</li><li>按上面的「安裝成 App」，或網址列右邊的「安裝」小圖示（螢幕加箭頭）</li></ol><div class="note">安裝後會有自己的視窗和開始功能表圖示。</div></div>
+<div class="how" data-k="mac"><b>用 Chrome 或 Edge 安裝（建議）</b><ol><li>用 <b>Chrome</b> 或 <b>Edge</b> 打開這個網頁</li><li>按上面的「安裝成 App」，或網址列右邊的「安裝」小圖示</li></ol><div class="note">會出現在「應用程式」和 Launchpad。也可以直接在 Safari 的分頁裡用。<br>舊的「Mac 版」安裝檔不能登入 Google，請改用這個方式。</div></div>
+<small>每次打開都會自動檢查新版本，有更新就自己換成最新版（不會打斷你正在做的題目）。<br>版本 <span id="v">—</span></small>
+</main>
+<script>
+fetch('version.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{document.getElementById('v').textContent=j.version+(j.date?' · '+j.date:'')}).catch(()=>{});
+(function(){const ua=navigator.userAgent,k=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&navigator.maxTouchPoints>1)?'ios':/Android/.test(ua)?'and':/Windows/.test(ua)?'win':/Macintosh/.test(ua)?'mac':'ios';
+  const pick=x=>{document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.k===x));document.querySelectorAll('.how').forEach(h=>h.classList.toggle('on',h.dataset.k===x))};
+  document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>pick(b.dataset.k));pick(k)})();
+let dp=null;addEventListener('beforeinstallprompt',e=>{e.preventDefault();dp=e;document.getElementById('inst').hidden=false});
+document.getElementById('inst').onclick=async()=>{if(!dp)return;dp.prompt();try{await dp.userChoice}catch(e){}dp=null;document.getElementById('inst').hidden=true};
+if('serviceWorker' in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script>
+</body></html>
