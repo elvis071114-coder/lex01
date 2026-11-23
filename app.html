@@ -91,7 +91,7 @@ ${k?`<div class="set-row"><div class="tx"><b>${t('測試金鑰','Test the key','
 ${isInstalled()?'':`<div class="set-row"><div class="tx"><b>${t('安裝成 App','Install as an app','アプリとしてインストール')}</b><span>${t('放到主畫面或電腦的應用程式裡，全螢幕、可離線','On your home screen or in your apps: full screen, works offline','ホーム画面に追加（全画面・オフライン可）')}</span></div><button class="btn" id="instB">${t('安裝','Install','インストール')}</button></div>`}
 <div class="set-row"><div class="tx"><b>${t('版本','Version','バージョン')} ${APP_VER}</b><span>${t('有新版本會自動更新（不會打斷你正在做的事）','Updates itself when a new version is out (never mid-task)','新しい版は自動で更新')}</span></div><button class="btn" id="updB">${t('檢查更新','Check now','更新を確認')}</button></div></div>`}
 function bindWebPanel(m){const st=$('#gmSt',m);
-$('#gmSave',m).onclick=async()=>{const v=$('#gmK',m).value.trim(),old=gmKey();if(!v){toast(t('請先貼上金鑰','Paste a key first'));return}
+$('#gmSave',m).onclick=async()=>{const v=$('#gmK',m).value.replace(/\s+/g,''),old=gmKey();if(!v){toast(t('請先貼上金鑰','Paste a key first'));return}
 webSetKey(v);st.textContent=t('測試中…','Testing…');const r=await webTestKey();
 if(r==='ok'||r==='odd'||r==='rate_limited'){toast(t('金鑰可以用了 ✓','Key works ✓'));gSyncKey();render()}else{if(r==='bad_key')webSetKey(old);st.textContent=webKeyMsg(r)}};
 $('#gmM',m).onchange=e=>{webSetKey(gmKey(),e.target.value);toast(t('已換模型','Model changed'))};
@@ -276,9 +276,9 @@ busy=true;draw();
 try{await gAuth('select_account');const u=await gInfo();await ownerCheck(u);
 busy=false;if(await gPullKey()){finish();return}step='key';draw()}
 catch(e){busy=false;draw(e.code==='popup_closed'?'':gMsg(e.code))}}
-async function checkKey(){if(busy)return;const v=($('#wgK',box).value||'').trim();
+async function checkKey(){if(busy)return;const v=($('#wgK',box).value||'').replace(/\s+/g,'');
 if(!v){draw(gt('請先貼上金鑰','Paste the key first','キーを貼り付けてください'));return}
-if(!/^[A-Za-z0-9_\-]{20,}$/.test(v)){draw(gt('這看起來不像金鑰：應該是一串英文和數字（通常 AIza 開頭），中間沒有空格','That doesn’t look like a key: it should be letters and numbers (usually starting with AIza), no spaces','キーの形式ではありません（通常 AIza で始まる英数字）'));return}
+if(!/^[A-Za-z0-9_.\-]{20,}$/.test(v)){draw(gt('這看起來不像金鑰：應該是一串英文和數字（通常 AIza 開頭），中間沒有空格','That doesn’t look like a key: it should be letters and numbers (usually starting with AIza), no spaces','キーの形式ではありません（通常 AIza で始まる英数字）'));return}
 busy=true;draw();webSetKey(v);const r=await webTestKey();busy=false;
 if(r==='ok'||r==='odd'||r==='rate_limited'){gSyncKey();finish()}
 else{webSetKey('');draw(r==='bad_key'?gt('這個金鑰不能用：請重新複製一次（整串都要複製）','That key was refused — copy the whole key again','このキーは使えません。もう一度コピーしてください'):r==='network'?gt('連不上 Gemini，請確認網路','Can’t reach Gemini — check the network','Gemini に接続できません'):gt('測試失敗：','Test failed: ','テスト失敗：')+r)}}
@@ -3156,7 +3156,7 @@ Audio needs a user gesture, so it starts on the first tap inside onboarding. */
 function lexStart(direct){
 if(!S.onb||!S.cur||!S.L[S.cur]){const sp=$('#splash');sp&&sp.remove();BOOTED=true;$('#app').style.display='none';onboard();
 document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true})}
-else if(direct){document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true});boot()}
+else if(direct){/* just signed in: no boot animation, straight to the home page */const sp=$('#splash');sp&&sp.remove();document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true});startMain(false)}
 else $('#splash').addEventListener('click',()=>{window.LEX_WEB&&webTapReconnect();boot()})}
 /* web version: Google sign-in + Gemini key first; then the cloud copy is read before deciding what to show,
 so a new phone or computer continues where the account left off */
