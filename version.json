@@ -1,6 +1,6 @@
 {
- "version": "1.1.43",
+ "version": "1.1.44",
  "date": "2026-11-23",
- "notes": "全球排行榜（Firebase）、兩台裝置開著時自動同步進度",
+ "notes": "電腦版排版更平衡、Gemini 自動選模型並告訴你額度、視窗沒在用時暫停背景更省電、已安裝就不再顯示「安裝成 App」",
  "page": "https://elvis071114-coder.github.io/lex01/app.html"
 }
