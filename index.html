@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="zh-Hant"><head><meta charset="utf-8">
+<script>/* opened inside the installed app window (an older install may still start here): go straight into the app */
+(function(){try{var m=function(q){return window.matchMedia&&matchMedia('(display-mode: '+q+')').matches};
+if(navigator.standalone===true||m('standalone')||m('window-controls-overlay')||m('minimal-ui')||m('fullscreen')){try{localStorage.setItem('lex-installed','1')}catch(e){}location.replace('app.html'+location.search+location.hash)}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>LEX-01 · 多語單字卡</title>
 <link rel="icon" href="icon.png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="manifest" href="manifest.webmanifest">
