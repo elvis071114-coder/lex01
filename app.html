@@ -9,7 +9,7 @@
 <div class="bg"></div><div class="bgtxt" aria-hidden="true"><span>LEX-01</span></div>
 <div id="app"><header class="top" id="top"></header><main id="view"></main><div class="tbhost" id="tbhost"></div></div>
 <canvas id="fx"></canvas><div id="hoverFx"><i></i><i></i><i></i><i></i></div>
-<div id="splash"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
+<div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
 <script>const APP_VER="1.1.43";</script>
@@ -3157,10 +3157,10 @@ function lexStart(direct){
 if(!S.onb||!S.cur||!S.L[S.cur]){const sp=$('#splash');sp&&sp.remove();BOOTED=true;$('#app').style.display='none';onboard();
 document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true})}
 else if(direct){/* just signed in: no boot animation, straight to the home page */const sp=$('#splash');sp&&sp.remove();document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true});startMain(false)}
-else $('#splash').addEventListener('click',()=>{window.LEX_WEB&&webTapReconnect();boot()})}
+else{const sp=$('#splash');sp.style.visibility='';sp.addEventListener('click',()=>{window.LEX_WEB&&webTapReconnect();boot()})}}
 /* web version: Google sign-in + Gemini key first; then the cloud copy is read before deciding what to show,
 so a new phone or computer continues where the account left off */
-if(window.LEX_WEB&&webGateNeeded())webGate(async()=>{daily();await initCaps();lexStart(true)});
+if(window.LEX_WEB&&webGateNeeded()){const sp=$('#splash');sp&&sp.remove();webGate(async()=>{daily();await initCaps();lexStart(true)})}
 else{initCaps();lexStart(false)}
 addEventListener('keydown',e=>{if(!BOOTED&&$('#splash')&&(e.key==='Enter'||e.key===' '))boot()});
 function dayCheck(){if(!BOOTED||!S.cur)return;if(daily()&&!$('.ov')){rTop();render()}}
