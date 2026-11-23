@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.66";</script>
+<script>const APP_VER="1.1.67";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -183,7 +183,7 @@ const ov=overlay(`<div class="sess" style="justify-content:center"><div class="p
 <div class="row"><button class="btn s grow" id="admN">${t('取消','Cancel','キャンセル')}</button><button class="btn p grow warn" id="admY" disabled>${t('全部重設','Reset all','すべてリセット')}</button></div></div></div>`);
 const c=$('#admC',ov),y=$('#admY',ov),msg=$('#admM',ov);c.oninput=()=>{y.disabled=c.value.trim()!=='RESET'};$('#admN',ov).onclick=()=>ov.close();
 y.onclick=async()=>{y.disabled=true;msg.textContent=t('處理中…','Working…','処理中…');
-try{const n=await adminResetAll();msg.textContent=t(`已清除排行榜 ${n} 筆，正在重設你自己的資料…`,`Removed ${n} leaderboard rows; resetting your own data…`,`ランキング${n}件を削除。自分のデータをリセット中…`);GLS('lex-reset-seen','0');await webResetCheck();setTimeout(()=>location.reload(),600)}
+try{const n=await adminResetAll();msg.textContent=t(`已清除排行榜 ${n} 筆，正在重設你自己的資料…`,`Removed ${n} leaderboard rows; resetting your own data…`,`ランキング${n}件を削除。自分のデータをリセット中…`);GLS('lex-reset-seen','0');await webResetCheck(true);setTimeout(()=>location.reload(),600)}
 catch(e){msg.textContent=(e&&/fs_403|fs_401/.test(e.message))?t('✗ 這個帳號不是管理員（或 Firebase 規則還沒更新），什麼都沒有改動。','✗ This account is not the admin (or the Firebase rules are not updated yet). Nothing was changed.','✗ このアカウントは管理者ではありません（またはルール未更新）。変更はありません。'):(e&&/fb_auth|no_token|401/.test(e.message))?t('✗ Google 登入已過期或沒有連上，什麼都沒有改動。請到上面的帳號區按「重新連線」後再試。','✗ Google sign-in expired or not connected. Nothing was changed. Reconnect in the account section above and try again.','✗ Google ログインが切れています。変更はありません。上のアカウント欄で再接続してから再試行してください。'):t('✗ 失敗，請再按一次（已刪的不會恢復，會從剩下的繼續）：','✗ Failed — press again (it continues from where it stopped): ','✗ 失敗。もう一度押してください（続きから再開します）：')+(e&&e.message||e);y.disabled=false}}}}
 function bindWebPanel(m){bindAdmin(m);const st=$('#gmSt',m);
 if(gmKey())gmModels(true).then(()=>{const sel=$('#gmM',m);if(sel&&sel.isConnected)sel.innerHTML=gmOpts(gmModel())}).catch(()=>{});
@@ -335,15 +335,16 @@ return{collection:col,doc}}
 /* Reset-all (set only by the owner's private admin page): Firestore doc config/reset {t}. When t is newer than the last one this device saw,
 and the cloud save is older than t, the cloud save and this device's progress are replaced by a blank one (the Gemini key stays).
 A cloud save written after t (e.g. from another device that already restarted) is kept. */
-async function webResetCheck(){try{
+async function webResetCheck(force){try{
 const d=await Promise.race([fsDoc('config','reset').get(),new Promise((_,j)=>setTimeout(j,6000))]);if(!d.exists)return false;
 const T=+d.data().t||0;if(T<=(+GLS('lex-reset-seen')||0))return false;
 const r=await stGet();GLS('lex-reset-seen',String(T));
-if(r&&(r.savedAt||0)>=T)return false;
+if(!force&&r&&(r.savedAt||0)>=T)return false;
+window.LEX_RESETTING=true;/* nothing may write the old progress back before the reload */
 const blank=JSON.parse(JSON.stringify(DEF()));blank.v=3;blank.savedAt=Date.now();
 GA.pulled=true;await gQueue(ST_FILE,blank);await gFlush();
 try{localStorage.removeItem(KEY)}catch(e){}
-location.reload();return true}catch(e){return false}}
+location.reload();return true}catch(e){window.LEX_RESETTING=false;if(force)throw e;return false}}
 function webPulled(){webResetCheck().then(w=>{if(w)return;GA.pulled=true;gChip();try{S.onb&&pushRemote()}catch(e){}})}
 async function livePull(){if(document.hidden||!GA.pulled||!(FB.refresh||gTok())||GA.busy||GA.pend||!S.onb||!BOOTED)return;if(document.querySelector('.ov,.coach,.gacha,.play,.quiz,.sess'))return;
 try{const mt=await stMeta();if(!mt||mt.t<=(GA.stT||0))return;const r=await stGet();if(r&&r.v===3&&r.onb&&(r.savedAt||0)>(S.savedAt||0)+500&&!GA.pend){S=merge(DEF(),JSON.parse(JSON.stringify(r)));afterLoad();try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}onRemoteLoad();toast(t('已同步另一台裝置的進度','Synced from your other device','別の端末の進捗を同期しました'))}}catch(e){}}
@@ -1503,8 +1504,8 @@ const exTr=w=>S.main==='en'?(w.exen||w.exzh):S.main==='ja'?(w.exja||w.exen||w.ex
 const TLN=()=>S.main==='en'?'English':S.main==='ja'?'Japanese (日本語)':'Traditional Chinese (繁體中文)';
 function afterLoad(){for(const [id,w] of Object.entries(S.ai||{}))WORDS[id]={...w,id,no:'AI'};applyFix();WV++;if(window.LEX_BANK_EXT&&typeof BOOTED!=='undefined'&&BOOTED)loadBanks().then(()=>{try{render()}catch(e){}})}
 let DB=null,UID=null,USR=null,SAMPLE=null,TTS=null,DICT=null,AIST='pending',SYNC='local',saveT=null,saving=false,again=false;
-function save(){typeof rerollHook==='function'&&rerollHook();if(TEST_MODE){try{localStorage.setItem(KEY+'-prefs',JSON.stringify({set:S.set,preset:S.preset,scheme:S.scheme,edge:S.edge,font:S.font,acc:S.acc,accC:S.accC,env:S.env}))}catch(e){}return}S.savedAt=Date.now();try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}clearTimeout(saveT);saveT=setTimeout(pushRemote,1200)}
-async function pushRemote(){if(!DB||!UID)return;if(saving){again=true;return}saving=true;
+function save(){if(window.LEX_RESETTING)return;typeof rerollHook==='function'&&rerollHook();if(TEST_MODE){try{localStorage.setItem(KEY+'-prefs',JSON.stringify({set:S.set,preset:S.preset,scheme:S.scheme,edge:S.edge,font:S.font,acc:S.acc,accC:S.accC,env:S.env}))}catch(e){}return}S.savedAt=Date.now();try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}clearTimeout(saveT);saveT=setTimeout(pushRemote,1200)}
+async function pushRemote(){if(window.LEX_RESETTING||!DB||!UID)return;if(saving){again=true;return}saving=true;
 try{await DB.collection('data/users/'+UID).doc('state3').set(JSON.parse(JSON.stringify(S)));SYNC='cloud';try{lbPublish()}catch(e){}}catch(e){SYNC='err'}
 saving=false;if(again){again=false;pushRemote()}}
 /* which copy to keep when this device and the cloud differ: real progress always beats a blank copy that hasn't been set up yet

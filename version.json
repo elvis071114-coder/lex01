@@ -1,6 +1,6 @@
 {
- "version": "1.1.66",
+ "version": "1.1.67",
  "date": "2026-11-23",
- "notes": "Gemini：Flash-Lite（3.5）預設開啟，只在其他模型額度用完時當最後備援",
+ "notes": "修正管理員重設：按下重設後一定會重設自己的進度，且重設期間不會有舊進度被寫回雲端",
  "page": "https://elvis071114-coder.github.io/lex01/app.html"
 }
