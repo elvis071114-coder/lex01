@@ -1,6 +1,6 @@
 {
- "version": "1.1.60",
+ "version": "1.1.66",
  "date": "2026-11-23",
- "notes": "補齊 10 個缺漏的釋義／翻譯、移除 2 個殘缺日文條目（英文 29,443／日文 27,858／中文 28,000）",
+ "notes": "Gemini：Flash-Lite（3.5）預設開啟，只在其他模型額度用完時當最後備援",
  "page": "https://elvis071114-coder.github.io/lex01/app.html"
 }

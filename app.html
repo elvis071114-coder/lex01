@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.60";</script>
+<script>const APP_VER="1.1.66";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -34,24 +34,26 @@ const lsJ=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){ret
 function gmErr(code,msg){const e=new Error(msg||code);e.code=code;return e}
 function pacificMidnight(){const now=Date.now();try{const p=Object.fromEntries(new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit'}).formatToParts(new Date(now)).map(x=>[x.type,x.value]));
 const passed=((+p.hour%24)*3600+(+p.minute)*60+(+p.second))*1000;return now-passed+864e5}catch(e){return now+864e5}}
-const gmFam=id=>/flash-lite/.test(id)?1:/flash/.test(id)?0:/pro/.test(id)?2:3;
+const gmFam=id=>/^gemini-4-/.test(id)?4:/flash-lite/.test(id)?1:/flash/.test(id)?0:/pro/.test(id)?2:3;
 const gmVer=id=>{const m=id.match(/gemini-(\d+(?:\.\d+)?)/);return m?parseFloat(m[1]):0};
 function gmRank(list){/* best first: newest stable Flash, then Flash-Lite, then Pro; previews after stable, "-latest" aliases last in each family */
 const sc=x=>{const id=x.id,pre=/preview|exp/.test(id)?1:0,al=/latest/.test(id)?2:0;return [gmFam(id),al||pre,-gmVer(id)]};
 return list.slice().sort((a,b)=>{const A=sc(a),B=sc(b);for(let i=0;i<3;i++)if(A[i]!==B[i])return A[i]-B[i];return a.id<b.id?-1:1})}
-async function gmModels(force){const c=lsJ('lex-gm-list',null),key=gmKey();
+async function gmModels(force){const c=lsJ('lex-gm-list3',null),key=gmKey();
 if(!force&&c&&c.k===key.slice(-6)&&Date.now()-c.t<12*36e5&&c.ids&&c.ids.length)return c.ids;
 try{const r=await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200',{headers:{'x-goog-api-key':key}});if(!r.ok)throw 0;const j=await r.json();
-const ids=gmRank((j.models||[]).filter(m=>/^models\/gemini-/.test(m.name)&&(m.supportedGenerationMethods||[]).includes('generateContent')&&!/embed|tts|image|live|audio|aqa|computer|robot|learnlm|gemma|nano|thinking|vision|1\.0|1\.5/.test(m.name))
+const ids=gmRank((j.models||[]).filter(m=>/^models\/gemini-/.test(m.name)&&(m.supportedGenerationMethods||[]).includes('generateContent')&&!/gemini-3\.7-flash$|gemini-3\.5-flash$|gemini-2\.5-(?:pro|flash)$/.test(m.name)&&!/embed|tts|image|live|audio|aqa|computer|robot|learnlm|gemma|nano|thinking|vision|1\.0|1\.5|transcri|custom-tools|omni/.test(m.name))
 .map(m=>({id:m.name.slice(7),name:m.displayName||m.name.slice(7)})));
-if(ids.length){lsS('lex-gm-list',{t:Date.now(),k:key.slice(-6),ids});return ids}}catch(e){}
+if(ids.length){lsS('lex-gm-list3',{t:Date.now(),k:key.slice(-6),ids});return ids}}catch(e){}
 return c&&c.ids&&c.ids.length?c.ids:GM_FALLBACK.map(([id,name])=>({id,name}))}
-const gmLiteOK=()=>{try{return localStorage.getItem('lex-gm-lite')==='1'}catch(e){return false}};
-function gmAutoOrder(list){const f=list.filter(x=>gmFam(x.id)===0),l=list.filter(x=>gmFam(x.id)===1),p=list.filter(x=>gmFam(x.id)===2);
-return [...f.slice(0,4),...p.slice(0,2),...(gmLiteOK()?l.slice(0,2):[])].map(x=>x.id).filter((v,i,a)=>a.indexOf(v)===i)}
+const gmLiteOK=()=>{try{return localStorage.getItem('lex-gm-lite')!=='0'}catch(e){return true}};
+function gmAutoOrder(list){const f=list.filter(x=>gmFam(x.id)===0),l=list.filter(x=>gmFam(x.id)===1),p=list.filter(x=>gmFam(x.id)===2),by=n=>list.find(x=>x.id==='gemini-4-'+n),pl=lsJ('lex-gm-plan',null);
+const g4=[by('hydrogen'),...(pl&&pl.tier==='paid'?[by('argon')]:[])].filter(Boolean);
+const pro=pl&&pl.tier==='free'?[]:p.slice().sort((a,b)=>gmVer(b.id)-gmVer(a.id)).slice(0,1);/* Pro (3.1 Pro Preview) has no free tier either */
+return [...g4.slice(0,1),...f.slice(0,3),...g4.slice(1),...pro,...(gmLiteOK()?l.slice(0,1):[])].map(x=>x.id).filter((v,i,a)=>a.indexOf(v)===i)}
 const gmEx=()=>{const e=lsJ('lex-gm-ex',{}),now=Date.now();for(const k in e)if(e[k].until<=now)delete e[k];return e};
 const gmPlan=()=>lsJ('lex-gm-plan',null);
-const gmName=id=>{const c=lsJ('lex-gm-list',null),x=c&&c.ids&&c.ids.find(m=>m.id===id);return x?x.name:id};
+const gmName=id=>{const c=lsJ('lex-gm-list3',null),x=c&&c.ids&&c.ids.find(m=>m.id===id);return x?x.name:id};
 const hhmm=ts=>new Date(ts).toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
 function gmNote429(model,tx){let j=null;try{j=JSON.parse(tx)}catch(e){}
 const det=(j&&j.error&&j.error.details)||[],vio=[].concat(...det.filter(d=>/QuotaFailure/.test(d['@type']||'')).map(d=>d.violations||[]));
@@ -78,7 +80,7 @@ if(r.status===400&&gc.thinkingConfig){const tx=await r.text();if(/thinking/i.tes
 if(/API key|API_KEY|permission/i.test(tx)){clearTimeout(tm);throw gmErr('bad_key')}clearTimeout(tm);throw gmErr('bad_request',tx.slice(0,200))}
 if(r.status===400||r.status===401||r.status===403){clearTimeout(tm);const tx=await r.text();if(/API key|API_KEY|permission/i.test(tx))throw gmErr('bad_key');throw gmErr('bad_request',tx.slice(0,200))}
 if(r.status===429){gmNote429(model,await r.text());last=gmErr('rate_limited');continue}
-if(r.status===404||r.status>=500){if(r.status===404)lsS('lex-gm-list',null);last=gmErr('model_unavailable');continue}
+if(r.status===404||r.status>=500){if(r.status===404)lsS('lex-gm-list3',null);last=gmErr('model_unavailable');continue}
 if(model!==GM_LAST){const first=pick==='auto'?auto[0]:pick;if(model!==first&&typeof toast==='function')toast(t(`${gmName(first)} 額度用完，先改用 ${gmName(model)}`,`${gmName(first)} is used up — using ${gmName(model)} for now`,`${gmName(first)} の上限に達したため ${gmName(model)} を使用`));GM_LAST=model}
 if(!onText){let j;try{j=await r.json()}catch(e){clearTimeout(tm);last=gmErr('timeout');continue}clearTimeout(tm);return (j.candidates&&j.candidates[0]&&j.candidates[0].content&&j.candidates[0].content.parts||[]).map(p=>p.text||'').join('')}
 const rd=r.body.getReader(),dec=new TextDecoder();let buf='',text='';
@@ -111,7 +113,7 @@ if(name==='dictation'){const d=webDictation();return d?Promise.resolve(d):Promis
 if(name==='db')return gSigned()?Promise.resolve(driveDB()):Promise.reject(gmErr('unavailable'));
 if(name==='user')return gSigned()?Promise.resolve(gUserApi):Promise.reject(gmErr('unavailable'));
 return Promise.reject(gmErr('unavailable'))}};
-function webSetKey(k,model){try{if(k&&k.trim()!==gmKey()){['lex-gm-list','lex-gm-ex','lex-gm-plan'].forEach(x=>localStorage.removeItem(x))}if(k)localStorage.setItem(GM_KEY,k.trim());else localStorage.removeItem(GM_KEY);if(model)localStorage.setItem(GM_MODEL,model)}catch(e){}
+function webSetKey(k,model){try{if(k&&k.trim()!==gmKey()){['lex-gm-list3','lex-gm-ex','lex-gm-plan'].forEach(x=>localStorage.removeItem(x))}if(k)localStorage.setItem(GM_KEY,k.trim());else localStorage.removeItem(GM_KEY);if(model)localStorage.setItem(GM_MODEL,model)}catch(e){}
 if(gmKey()){SAMPLE=gmSample();AIST=true}else{SAMPLE=null;AIST=false}}
 let WT_ERR=null;async function webTestKey(){try{const tx=await gmCall([{role:'user',parts:[{text:'Reply with the single word OK.'}]}]);return /ok/i.test(tx)?'ok':'odd'}catch(e){WT_ERR=e;return e.code||'error'}}
 const LEX_REMOTE='https://elvis071114-coder.github.io/lex01/';
@@ -145,13 +147,13 @@ return `<div class="panel rf in"><span class="hud">AI · GEMINI</span>
 <div class="set-row" style="flex-wrap:wrap"><div class="tx"><b>${t('Gemini 金鑰','Gemini key','Gemini キー')}</b><span>${t('你自己的免費金鑰，存在這台裝置和你的雲端硬碟隱藏資料夾。要換金鑰就貼上新的','Your own free key, kept on this device and in your hidden Drive folder. Paste a new one to replace it','自分の無料キー（この端末とドライブの隠しフォルダに保存）')}</span></div>
 <div style="display:flex;gap:8px;flex:1 1 100%;margin-top:8px"><input class="inp" id="gmK" type="password" autocomplete="off" spellcheck="false" placeholder="${k?t('已設定 · 輸入新的可取代','Saved · type to replace'):'AIza…'}" style="flex:1;padding:8px 12px;font-size:calc(14px * var(--fs))"><button class="btn" id="gmSave">${t('儲存','Save','保存')}</button></div>
 <div class="fb" id="gmSt" style="flex:1 1 100%;margin-top:6px">${k?t('✓ 已設定金鑰','✓ Key saved','✓ キー設定済み'):t('還沒有金鑰','No key yet','キー未設定')}</div></div>
-<div class="set-row"><div class="tx"><b>${t('允許用 Flash-Lite 當備用','Allow Flash-Lite as a fallback','Flash-Lite を予備に使う')}</b><span>${t('品質比較差，預設不用；Flash 額度用完時會改用較舊的 Flash 或 Pro','Weaker quality, off by default; when Flash is used up Auto tries older Flash or Pro','品質が低いため既定はオフ。Flash が上限なら旧Flash/Proへ')}</span></div><button class="btn s sm" id="gmLite">${gmLiteOK()?t('已開啟','On','オン'):t('已關閉','Off','オフ')}</button></div>
+<div class="set-row"><div class="tx"><b>${t('允許用 Flash-Lite 當備用','Allow Flash-Lite as a fallback','Flash-Lite を予備に使う')}</b><span>${t('品質比較差，只在其他模型額度都用完時才當最後備援（預設開啟）','Weaker quality; only used as the last fallback when the other models are used up (on by default)','品質は低め。他のモデルが上限のときだけ最後の予備として使います（既定はオン）')}</span></div><button class="btn s sm" id="gmLite">${gmLiteOK()?t('已開啟','On','オン'):t('已關閉','Off','オフ')}</button></div>
 <div class="set-row"><div class="tx"><b>${t('模型','Model','モデル')}</b><span>${t('「自動」會用這把金鑰能用的最新模型，額度用完自動換下一個','"Auto" uses the newest model your key can use and moves on when one is used up','「自動」は使える最新モデルを選び、上限で次へ切替')}</span></div><select id="gmM">${gmOpts(m)}</select></div>
 ${k?`<div class="set-row" style="flex-wrap:wrap"><div class="tx"><b>${t('方案與額度','Plan & quota','プランと上限')}</b><span id="gmPlan">${gmPlanHTML()}</span></div></div>`:''}
 ${k?`<div class="set-row"><div class="tx"><b>${t('測試金鑰','Test the key','キーをテスト')}</b></div><div style="display:flex;gap:8px"><button class="btn" id="gmTest">${t('測試','Test','テスト')}</button></div></div>`:''}
 ${isInstalled()?'':`<div class="set-row" id="instRow"><div class="tx"><b>${t('安裝成 App','Install as an app','アプリとしてインストール')}</b><span>${t('放到主畫面或電腦的應用程式裡，全螢幕、可離線','On your home screen or in your apps: full screen, works offline','ホーム画面に追加（全画面・オフライン可）')}</span></div><button class="btn" id="instB">${t('安裝','Install','インストール')}</button></div>`}
 <div class="set-row"><div class="tx"><b>${t('版本','Version','バージョン')} ${APP_VER}${window.LEX_ADMIN?' · ADMIN':''}</b><span>${t('有新版本會自動更新（不會打斷你正在做的事）','Updates itself when a new version is out (never mid-task)','新しい版は自動で更新')}</span></div><button class="btn" id="updB">${t('檢查更新','Check now','更新を確認')}</button></div></div>${window.LEX_ADMIN?adminPanel():''}`}
-function gmOpts(m){const c=lsJ('lex-gm-list',null),l=(c&&c.ids)||[];const has=m==='auto'||l.some(x=>x.id===m);
+function gmOpts(m){const c=lsJ('lex-gm-list3',null),l=(c&&c.ids)||[];const has=m==='auto'||l.some(x=>x.id===m);
 return `<option value="auto" ${m==='auto'?'selected':''}>${t('自動（建議）','Auto (recommended)','自動（おすすめ）')}</option>`+l.map(x=>`<option value="${x.id}" ${x.id===m?'selected':''}>${esc(x.name)}${gmFam(x.id)===1?t('（較弱）','（weaker）','（弱め）'):''}</option>`).join('')+(has?'':`<option value="${m}" selected>${esc(m)}</option>`)}
 function gmPlanHTML(){const pl=gmPlan(),ex=gmEx(),now=Date.now();
 const tier=!pl?t('還不知道 — Google 不會直接告訴 App；第一次碰到上限時就會顯示是免費還是付費方案','Not known yet — Google does not tell apps directly; it shows once a limit is hit','まだ不明（上限に達すると判明します）'):pl.tier==='free'?t('免費方案（Free）','Free plan','無料プラン'):t('付費方案（Tier 1 以上）','Paid plan (Tier 1+)','有料プラン（Tier 1以上）');
