@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.97";</script>
+<script>const APP_VER="1.1.105";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -50,7 +50,7 @@ const gmLiteOK=()=>{try{return localStorage.getItem('lex-gm-lite')!=='0'}catch(e
 function gmAutoOrder(list){const f=list.filter(x=>gmFam(x.id)===0),l=list.filter(x=>gmFam(x.id)===1),p=list.filter(x=>gmFam(x.id)===2),by=n=>list.filter(x=>x.id.indexOf('gemini-4-'+n)===0).sort((a,b)=>a.id.length-b.id.length)[0],pl=lsJ('lex-gm-plan',null);
 const g4=[by('hydrogen'),...(pl&&pl.tier==='paid'?[by('argon')]:[])].filter(Boolean);
 const pro=pl&&pl.tier==='paid'?p.slice().sort((a,b)=>gmVer(b.id)-gmVer(a.id)).slice(0,1):[];/* Pro (3.1 Pro Preview) has no free tier: only when a 429 proved a paid plan (unknown = treated as free) */
-return [...g4.slice(0,1),...f.slice(0,3),...g4.slice(1),...pro,...(gmLiteOK()?l.slice(0,1):[])].map(x=>x.id).filter((v,i,a)=>a.indexOf(v)===i)}
+return [...g4.slice(0,1),...f.slice(0,3),...g4.slice(1),...pro,...(gmLiteOK()?l.filter(x=>!/-latest$/.test(x.id)&&!/gemini-2\.5/.test(x.id)).slice(0,3):[])].map(x=>x.id).filter((v,i,a)=>a.indexOf(v)===i)}
 const gmEx=()=>{const e=lsJ('lex-gm-ex',{}),now=Date.now();for(const k in e)if(e[k].until<=now)delete e[k];return e};
 const gmPlan=()=>lsJ('lex-gm-plan',null);
 const gmName=id=>{const c=lsJ('lex-gm-list4',null),x=c&&c.ids&&c.ids.find(m=>m.id===id);return x?x.name:id};
@@ -61,11 +61,23 @@ const ids=vio.map(v=>(v.quotaId||'')+' '+(v.quotaMetric||'')).join(' ')+' '+((j&
 const ri=det.find(d=>/RetryInfo/.test(d['@type']||'')),wait=ri&&parseFloat(ri.retryDelay)||0;
 const free=/FreeTier|free_tier/i.test(ids),day=/PerDay|per_day|daily/i.test(ids);
 if(vio.length||/quota/i.test(ids))lsS('lex-gm-plan',{tier:free?'free':'paid',t:Date.now()});
-const dv=vio.find(v=>/PerDay|per_day|daily/i.test((v.quotaId||'')+' '+(v.quotaMetric||''))),lim=dv&&+dv.quotaValue||0;const ex=gmEx();try{window.dispatchEvent(new Event('lexquota'))}catch(e){}ex[model]={until:day?pacificMidnight():Date.now()+Math.max(15,Math.min(300,wait||60))*1000,day,limit:lim};lsS('lex-gm-ex',ex);return day}
+const dv=vio.find(v=>/PerDay|per_day|daily/i.test((v.quotaId||'')+' '+(v.quotaMetric||''))),lim=dv&&+dv.quotaValue||0;const ex=gmEx();ex[model]={until:day?pacificMidnight():Date.now()+Math.max(15,Math.min(300,wait||60))*1000,day,limit:lim};lsS('lex-gm-ex',ex);try{window.dispatchEvent(new Event('lexquota'))}catch(e){}qSchedule();return day}
 let GM_LAST='';const GM_NOTHINK=new Set();
 const GM_FREE=20;/* free plan: about 20 calls per model per day (Google's own 429 says so; updated from real replies via ex[model].limit) */
-function gmCount(m){try{let c=lsJ('lex-gm-cnt',null);const d=pacificMidnight();if(!c||c.d!==d)c={d,c:{}};c.c[m]=(c.c[m]||0)+1;lsS('lex-gm-cnt',c);try{window.dispatchEvent(new Event('lexquota'))}catch(e){}}catch(e){}}
-const gmCounts=()=>{const c=lsJ('lex-gm-cnt',null);return c&&c.d===pacificMidnight()?c.c:{}};
+const DEVID=(()=>{try{let d=localStorage.getItem('lex-dev');if(!d){d=Math.random().toString(36).slice(2,10);localStorage.setItem('lex-dev',d)}return d}catch(e){return 'x'}})();
+function gmCount(m){try{let c=lsJ('lex-gm-cnt',null);const d=pacificMidnight();if(!c||c.d!==d)c={d,dev:{}};if(c.c){c.dev=c.dev||{};c.dev[DEVID]=c.c;c.c=undefined}c.dev=c.dev||{};const me=c.dev[DEVID]=c.dev[DEVID]||{};me[m]=(me[m]||0)+1;lsS('lex-gm-cnt',c);try{window.dispatchEvent(new Event('lexquota'))}catch(e){}qSchedule()}catch(e){}}
+const gmCounts=()=>{const c=lsJ('lex-gm-cnt',null);if(!c||c.d!==pacificMidnight())return{};const out={},devs=c.dev||(c.c?{[DEVID]:c.c}:{});for(const k in devs)for(const m in devs[k])out[m]=(out[m]||0)+(devs[k][m]||0);return out};
+let Q_T=0,Q_BUSY=false;const qSchedule=()=>{clearTimeout(Q_T);Q_T=setTimeout(qSync,12e3)};
+async function qSync(){if(Q_BUSY||!gmKey()||!(FB&&FB.refresh))return;Q_BUSY=true;
+try{const uid=await fbUid(),ref=fsDoc('saves',uid+'_9000'),r=await ref.get();let rem=null;try{rem=r.exists?JSON.parse(r.data().q):null}catch(e){}
+const d=pacificMidnight();let loc=lsJ('lex-gm-cnt',null);if(!loc||loc.d!==d)loc={d,dev:{}};if(loc.c){loc.dev=loc.dev||{};loc.dev[DEVID]=loc.c;loc.c=undefined}loc.dev=loc.dev||{};const ex=lsJ('lex-gm-ex',{});
+if(rem&&rem.d===d){for(const k in rem.dev||{}){const a=loc.dev[k]||{},b=rem.dev[k]||{},m={...a};for(const mm in b)if((b[mm]||0)>(m[mm]||0))m[mm]=b[mm];loc.dev[k]=m}
+for(const mm in rem.ex||{}){const e=rem.ex[mm];if(e&&e.day&&e.until>Date.now()&&(!ex[mm]||ex[mm].until<e.until))ex[mm]=e}}
+lsS('lex-gm-cnt',loc);lsS('lex-gm-ex',ex);
+await ref.set({q:JSON.stringify({d,dev:loc.dev,ex:Object.fromEntries(Object.entries(ex).filter(([k,v])=>v&&v.day&&v.until>Date.now()))}),t:Date.now()});
+try{window.dispatchEvent(new Event('lexquota'))}catch(e){}}catch(e){}
+Q_BUSY=false}
+setTimeout(qSync,5000);setInterval(()=>{if(!document.hidden)qSync()},90e3);document.addEventListener('visibilitychange',()=>{if(!document.hidden)setTimeout(qSync,1500)});
 let GM_CUR='';const gmCur=()=>GM_CUR;
 function gmSetCur(m){if(m===GM_CUR)return;GM_CUR=m;try{window.dispatchEvent(new Event('lexmodel'))}catch(e){}}
 const gmSpeed=m=>/lite/.test(m)?.6:/pro/.test(m)?1.8:1;
@@ -76,20 +88,21 @@ const all=(pick==='auto'?auto:[pick,...auto.filter(m=>m!==pick)]);
 let ex=gmEx(),order=all.filter(m=>!ex[m]);let last=null,tried=0;
 if(tier==='lite'&&pick==='auto'){const lites=list.filter(x=>gmFam(x.id)===1&&!/gemini-2\.5-flash-lite$/.test(x.id)).sort((a,b)=>gmVer(b.id)-gmVer(a.id)).map(x=>x.id).filter(m=>!ex[m]);order=[...lites,...order.filter(m=>!lites.includes(m))]}
 if(!order.length){const u=Math.min(...all.map(m=>ex[m]?ex[m].until:Infinity)),day=all.every(m=>ex[m]&&ex[m].day);throw gmErr(day?'quota_day':'rate_limited',String(u))}
-for(const model of order){tried++;if(tried>3&&last)break;const left=TOTAL-(Date.now()-T0);if(left<3000&&last)break;gmSetCur(model);
+const want0=order[0];let fails=0;
+for(const model of order){tried++;if(fails>=3&&last)break;const left=TOTAL-(Date.now()-T0);if(left<3000&&last)break;gmSetCur(model);
 const gc=json?{responseMimeType:'application/json',temperature:.7}:{temperature:.8};
 if(!GM_NOTHINK.has(model)&&!/pro/.test(model))gc.thinkingConfig=/gemini-2\./.test(model)?{thinkingBudget:/lite/.test(model)?0:512}:{thinkingLevel:'low'};
 const body={contents,generationConfig:gc};
 const url=`https://generativelanguage.googleapis.com/v1beta/models/${model}:${onText?'streamGenerateContent?alt=sse':'generateContent'}`;
 const ac=new AbortController(),tm=setTimeout(()=>ac.abort(),Math.max(3000,Math.min(left,(ms||(onText?60e3:45e3))*gmSpeed(model))));
-let r;try{r=await fetch(url,{method:'POST',signal:ac.signal,headers:{'Content-Type':'application/json','x-goog-api-key':key},body:JSON.stringify(body)})}catch(e){clearTimeout(tm);if(e&&e.name==='AbortError'){last=gmErr('timeout');continue}throw gmErr('network')}
+let r;try{r=await fetch(url,{method:'POST',signal:ac.signal,headers:{'Content-Type':'application/json','x-goog-api-key':key},body:JSON.stringify(body)})}catch(e){clearTimeout(tm);if(e&&e.name==='AbortError'){last=gmErr('timeout');fails++;continue}throw gmErr('network')}
 if(r.status===400&&gc.thinkingConfig){const tx=await r.text();if(/thinking/i.test(tx)){clearTimeout(tm);GM_NOTHINK.add(model);order.splice(order.indexOf(model)+1,0,model);continue}
 if(/API key|API_KEY|permission/i.test(tx)){clearTimeout(tm);throw gmErr('bad_key')}clearTimeout(tm);throw gmErr('bad_request',tx.slice(0,200))}
 if(r.status===400||r.status===401||r.status===403){clearTimeout(tm);const tx=await r.text();if(/API key|API_KEY|permission/i.test(tx))throw gmErr('bad_key');throw gmErr('bad_request',tx.slice(0,200))}
 if(r.status===429){gmNote429(model,await r.text());last=gmErr('rate_limited');continue}
-if(r.status===404||r.status>=500){if(r.status===404)lsS('lex-gm-list4',null);last=gmErr('model_unavailable');continue}
-gmCount(model);if(model!==GM_LAST){const first=pick==='auto'?auto[0]:pick;if(model!==first&&typeof toast==='function')toast(t(`${gmName(first)} 額度用完，先改用 ${gmName(model)}`,`${gmName(first)} is used up — using ${gmName(model)} for now`,`${gmName(first)} の上限に達したため ${gmName(model)} を使用`));GM_LAST=model}
-if(!onText){let j;try{j=await r.json()}catch(e){clearTimeout(tm);last=gmErr('timeout');continue}clearTimeout(tm);return (j.candidates&&j.candidates[0]&&j.candidates[0].content&&j.candidates[0].content.parts||[]).map(p=>p.text||'').join('')}
+if(r.status===404||r.status>=500){if(r.status===404)lsS('lex-gm-list4',null);last=gmErr('model_unavailable');fails++;continue}
+gmCount(model);if(model!==GM_LAST){const first=want0;if(model!==first&&typeof toast==='function')toast(t(`${gmName(first)} 暫時用不了，先改用 ${gmName(model)}`,`${gmName(first)} is unavailable — using ${gmName(model)} for now`,`${gmName(first)} が利用できないため ${gmName(model)} を使用`));GM_LAST=model}
+if(!onText){let j;try{j=await r.json()}catch(e){clearTimeout(tm);last=gmErr('timeout');fails++;continue}clearTimeout(tm);return (j.candidates&&j.candidates[0]&&j.candidates[0].content&&j.candidates[0].content.parts||[]).map(p=>p.text||'').join('')}
 const rd=r.body.getReader(),dec=new TextDecoder();let buf='',text='';
 for(;;){let chunk;try{chunk=await rd.read()}catch(e){clearTimeout(tm);if(text)return text;throw gmErr('timeout')}const {value,done}=chunk;if(done)break;buf+=dec.decode(value,{stream:true});let i;
 while((i=buf.indexOf('\n'))>=0){const line=buf.slice(0,i).trim();buf=buf.slice(i+1);if(!line.startsWith('data:'))continue;
@@ -156,7 +169,7 @@ return `<div class="panel rf in"><span class="hud">AI · GEMINI</span>
 <div class="fb" id="gmSt" style="flex:1 1 100%;margin-top:6px">${k?t('✓ 已設定金鑰','✓ Key saved','✓ キー設定済み'):t('還沒有金鑰','No key yet','キー未設定')}</div></div>
 <div class="set-row"><div class="tx"><b>${t('允許用 Flash-Lite 當備用','Allow Flash-Lite as a fallback','Flash-Lite を予備に使う')}</b><span>${t('品質比較差，只在其他模型額度都用完時才當最後備援（預設開啟）','Weaker quality; only used as the last fallback when the other models are used up (on by default)','品質は低め。他のモデルが上限のときだけ最後の予備として使います（既定はオン）')}</span></div><button class="btn s sm" id="gmLite">${gmLiteOK()?t('已開啟','On','オン'):t('已關閉','Off','オフ')}</button></div>
 <div class="set-row"><div class="tx"><b>${t('模型','Model','モデル')}</b><span>${t('「自動」會用這把金鑰能用的最新模型，額度用完自動換下一個','"Auto" uses the newest model your key can use and moves on when one is used up','「自動」は使える最新モデルを選び、上限で次へ切替')}</span></div><select id="gmM">${gmOpts(m)}</select></div>
-${k?`<div class="set-row" style="flex-wrap:wrap"><div class="tx"><b>${t('方案與額度','Plan & quota','プランと上限')}</b><span id="gmPlan">${gmPlanHTML()}</span></div><div style="display:flex;gap:8px;flex:1 1 100%;flex-wrap:wrap"><button class="btn s sm" id="gmProbe">${t('實測每個模型','Test every model','全モデルを確認')}</button><a class="btn s sm" target="_blank" rel="noopener" href="https://aistudio.google.com/rate-limit">${t('看 Google 公布的每日上限','See daily limits at Google','Google の上限を見る')}</a></div></div>`:''}
+${k?`<div class="set-row" style="flex-wrap:wrap"><div class="tx"><b>${t('方案與額度','Plan & quota','プランと上限')}</b><span id="gmPlan">${gmPlanHTML()}</span></div><div style="display:flex;gap:8px;flex:1 1 100%;flex-wrap:wrap"><button class="btn s sm" id="gmProbe">${t('實測每個模型（每個用 1 次）','Test every model (1 call each)','全モデルを確認（各1回）')}</button><a class="btn s sm" target="_blank" rel="noopener" href="https://aistudio.google.com/rate-limit">${t('看 Google 公布的每日上限','See daily limits at Google','Google の上限を見る')}</a></div></div>`:''}
 ${k?`<div class="set-row"><div class="tx"><b>${t('測試金鑰','Test the key','キーをテスト')}</b></div><div style="display:flex;gap:8px"><button class="btn" id="gmTest">${t('測試','Test','テスト')}</button></div></div>`:''}
 ${isInstalled()?'':`<div class="set-row" id="instRow"><div class="tx"><b>${t('安裝成 App','Install as an app','アプリとしてインストール')}</b><span>${t('放到主畫面或電腦的應用程式裡，全螢幕、可離線','On your home screen or in your apps: full screen, works offline','ホーム画面に追加（全画面・オフライン可）')}</span></div><button class="btn" id="instB">${t('安裝','Install','インストール')}</button></div>`}
 <div class="set-row"><div class="tx"><b>${t('版本','Version','バージョン')} ${APP_VER}${window.LEX_ADMIN?' · ADMIN':''}</b><span>${t('有新版本會自動更新（不會打斷你正在做的事）','Updates itself when a new version is out (never mid-task)','新しい版は自動で更新')}</span></div><button class="btn" id="updB">${t('檢查更新','Check now','更新を確認')}</button></div></div>${window.LEX_ADMIN?adminPanel():''}`}
@@ -2677,7 +2690,7 @@ lesson:a=>runLesson(a),mist:()=>runMistakes(),plan:()=>makePlan(),route:()=>rout
 document.addEventListener('click',e=>{const a=e.target.closest('[data-act]');if(!a||a.closest('.ov'))return;e.preventDefault();askGyro();ACT[a.dataset.act]&&ACT[a.dataset.act](a.dataset.arg,a)});
 const taskRow=(src,k,n,zh,en,rw)=>{const v=Math.min(n,src[k]||0),done=v>=n;return `<div class="task ${done?'done':''}"><span class="ck">${done?svg('check'):''}</span><div class="grow"><b style="font-size:calc(14px * var(--fs))">${t(zh,en)}</b><div class="bar"><i style="--w:${v/n*100}%"></i></div></div><span class="rw">${done?t('已領','Done'):`${v}/${n}`}<small>+${rw} ${t('抽','pulls')}</small></span></div>`};
 const sh=(en,cn,r='')=>`<div class="sh in"><div class="t"><span>${en}</span><b>${cn}</b></div>${r?`<div class="r">${r}</div>`:''}</div>`;
-const lrow=(act,arg,ic,ti,sub,ai)=>`<button class="lrow panel rf in" data-act="${act}" ${arg!=null?`data-arg="${arg}"`:''}><span class="ic">${svg(ic)}</span><span class="tx"><b>${ti}${ai?`<span class="badge ${AIST===false?'no':''}">${AIST===false?t('需要 AI','NEEDS AI'):'AI'}</span>`:''}</b><span>${sub}</span></span><span class="go">›</span></button>`;
+const lrow=(act,arg,ic,ti,sub,ai)=>`<button class="lrow panel rf in" data-act="${act}" ${arg!=null?`data-arg="${arg}"`:''}><span class="ic">${svg(ic)}</span><span class="tx"><b>${ti}${ai?`<span class="badge ${AIST===false?'no':''}">${AIST===false?t('需要 AI','NEEDS AI'):'AI'}${typeof ai==='string'?' · '+ai:''}</span>`:''}</b><span>${sub}</span></span><span class="go">›</span></button>`;
 function rTop(){
 const l=S.cur,L=curL();
 $('#top').innerHTML=`<div class="logo"><div class="emblem">LEX-01</div></div>
@@ -2778,7 +2791,7 @@ function aiQuotaHTML(){let q=[];try{q=gmQuota()}catch(e){}if(!q.length)return `<
 const hh=ts=>new Date(ts).toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
 return `<div class="aiq">`+q.map(x=>{const f=x.lim?x.left/x.lim:1;return `<div class="pr"><span class="nm">${esc(x.name.replace(/^Gemini\s+/,''))}</span><span class="tr"><i style="--w:${(f*100).toFixed(0)}%;background:${f<=.15?'var(--bad,#e5484d)':'var(--atext,var(--accent))'}"></i></span><span class="dim" style="text-align:right">${x.lim?(x.out?t('用完 '+hh(x.until),'out '+hh(x.until)):x.left+'/'+x.lim):x.used+t(' 次',' calls')}</span></div>`}).join('')+`</div><div class="dim" style="margin-top:8px;font-size:11px;line-height:1.5">${t('每個模型每天約 20 次 · 台灣下午 4 點重置','About 20 calls per model per day · resets 4 pm Taiwan time')}</div>`}
 function xpRingSVG(){const L=curL(),d=ltd(L);let g=0,m=0;for(const k of Object.keys(XPCAP)){g+=Math.min(XPCAP[k][0],(d.xpg&&d.xpg[k])||0);m+=XPCAP[k][0]}
-const f=m?g/m:0,R=9,C=2*Math.PI*R;return `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="12" r="${R}" fill="none" stroke="currentColor" stroke-opacity=".22" stroke-width="3"/><circle cx="12" cy="12" r="${R}" fill="none" stroke="${f>=1?'var(--ok)':'var(--atext,var(--accent))'}" stroke-width="3" stroke-linecap="round" stroke-dasharray="${(C*f).toFixed(1)} ${C.toFixed(1)}" transform="rotate(-90 12 12)"/></svg>`}
+const f=m?g/m:0,R=9,C=2*Math.PI*R;return `<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="12" cy="12" r="${R}" fill="none" stroke="currentColor" stroke-opacity=".22" stroke-width="3"/><circle cx="12" cy="12" r="${R}" fill="none" stroke="${f>=1?'var(--ok)':'var(--atext,var(--accent))'}" stroke-width="3" stroke-linecap="round" stroke-dasharray="${(C*f).toFixed(1)} ${C.toFixed(1)}" transform="rotate(-90 12 12)"/><text x="12" y="15" text-anchor="middle" font-size="8" font-weight="800" fill="currentColor">XP</text></svg>`}
 function xpLimitHTML(){const L=curL(),N={rev:t('複習','Review','復習'),quiz:t('測驗','Quizzes','テスト'),lesson:t('課程','Lessons','レッスン')};
 const bar=(lab,cur,max)=>{const f=Math.min(1,cur/max);return `<div class="pr"><span>${lab}</span><span class="tr"><i style="--w:${(f*100).toFixed(0)}%;background:${f>=1?'var(--ok)':'var(--atext,var(--accent))'}"></i></span><span class="dim" style="text-align:right">${cur}/${max}</span></div>`};
 const d=ltd(L),w=ltw(L);
@@ -2848,13 +2861,13 @@ ${gate?`<div class="panel rf in" style="border:2px solid var(--accent)"><div cla
 <div class="list">${routeLessons(l,L.lv).map(x=>lrow('lesson',x.id,rDone(L,x.id)?'check':x.kind==='talk'?'chat':'book',esc(x.title),(rDone(L,x.id)?t('已完成 · ','Done · ','完了 · '):'')+(x.kind==='talk'?t('情境會話','Conversation','会話'):t('文法・句型','Grammar & patterns','文法・文型')),1)).join('')}</div>
 ${lrow('route',null,'layers',t('課程路線圖','Course route','コースマップ'),t('10 個單元的全部課程，做過的可以複習','All 10 units — review anything you have done','全10ユニット、受けたレッスンは復習可'))}
 ${sh('ASK',t('問 AI 老師','Ask the AI tutor'))}
-${lrow('chat','','chat',t('問任何問題','Ask anything'),t(`會用${t('中文','English')}解釋，配合你的程度`,`Explains in ${t('Chinese','English')} at your level`,`あなたのレベルに合わせて${t('中文','English','日本語')}で解説します`),1)}
+${lrow('chat','','chat',t('問任何問題','Ask anything'),t(`會用${t('中文','English')}解釋，配合你的程度`,`Explains in ${t('Chinese','English')} at your level`,`あなたのレベルに合わせて${t('中文','English','日本語')}で解説します`),t('每則 1 次','1 per msg','1通ごと1回'))}
 </div><div>
 ${sh('QUIZ',t('測驗','Quizzes'))}
 <div class="list">${lrow('mist',null,'brain',t('錯題本','Mistake book','間違いノート'),(L.mist||[]).length?t(`${(L.mist||[]).length} 題 · 所有題型答錯的都在這裡，重考到答對為止`,`${(L.mist||[]).length} items · everything you got wrong, re-test until right`,`${(L.mist||[]).length}問 · 間違えた問題を正解するまで復習`):t('還沒有錯題 · 答錯的題目會自動收進來','Empty for now — wrong answers are collected here','まだありません'))}
-${lrow('quiz','quick','quiz',t('快速測驗','Quick quiz'),t('約 10 題 · 你的單字 + 文法 + 用法（不含閱讀）','~10 items · your words + grammar + usage (no reading)'))}
-${lrow('quiz','detail','layers',t('詳細測驗','Full quiz'),t('約 22 題 · 多了閱讀與翻譯，花比較久','~22 items · adds reading & translation, takes longer'),1)}
-${lrow('quiz','read','book',t('閱讀測驗','Reading quiz'),t('一篇短文 + 5 題理解','One short passage + 5 questions'),1)}
+${lrow('quiz','quick','quiz',t('快速測驗','Quick quiz'),t('約 10 題 · 你的單字 + 文法 + 用法（不含閱讀）','~10 items · your words + grammar + usage (no reading)'),t('約 .5 次','~.5','約.5回'))}
+${lrow('quiz','detail','layers',t('詳細測驗','Full quiz'),t('約 22 題 · 多了閱讀與翻譯，花比較久','~22 items · adds reading & translation, takes longer'),t('約 1 次','~1','約1回'))}
+${lrow('quiz','read','book',t('閱讀測驗','Reading quiz'),t('一篇短文 + 5 題理解','One short passage + 5 questions'),t('1 次','1','1回'))}
 ${weak?`<button class="lrow panel rf in" data-act="swipe" data-arg="weak"><span class="ic">${svg('brain')}</span><span class="tx"><b>${t('錯題加強','Review mistakes')}<span class="badge wkb">${weak}</span></b><span>${t('只複習你答錯、標了「多複習」的單字','Only the words you got wrong')}</span></span><span class="go">›</span></button>`:''}</div>
 ${sh('SKILLS',t('單項練習','Single skills'))}
 <div class="panel in" style="padding:12px 14px"><div class="hud" style="margin-bottom:8px">${t('現在的情境 · 決定會出哪些題型','Right now · decides which question types appear')}</div><div class="row wrap" id="scn">
@@ -3076,6 +3089,11 @@ const ov=overlay(`<div class="lvup"><span class="hud">${q.exam?t('進階考試�
 sfx('levelup');setTimeout(()=>{burst(innerWidth/2,innerHeight*.4,['#FFC93C','#fff',getComputedStyle(document.documentElement).getPropertyValue('--accent').trim()||'#FF7A3D'],120,11)},200);
 $('#lvok',ov).onclick=()=>ov.close();
 }
+function srcBadge(id,w){const c=(S.chkd&&S.chkd[id]&&S.chkd[id].ok)?'k':(w.cf||'');
+const M={a:['✓',t('兩個辭典一致','Two sources agree','2辞書一致'),'#4cc38a'],d:['✓',t('辭典已確認','Dictionary-checked','辞書確認済'),'#4cc38a'],g:['✓',t('人工補充','Hand-added','手動追加'),'#4cc38a'],f:['✓',t('你已修正','You fixed it','修正済'),'#4cc38a'],k:['✓',t('AI 檢查過','AI-checked','AIチェック済'),'#4cc38a'],
+b:['◐',t('單一來源','Single source','単一ソース'),'#e0b341'],h:['⚠',t('AI 補譯，未驗證','AI-filled, unverified','AI補訳・未検証'),'#e08a41']};
+const m=M[c]||['?',t('只有字表釋義','Word-list only','単語表のみ'),'#999'];
+return `<span class="badge" style="background:${m[2]};color:#111;font-size:calc(11px * var(--fs))">${m[0]} ${m[1]}</span>`}
 function cardDetail(id,list){
 const seq=(list&&list.length?list:[{id}]).filter(x=>WORDS[x.id]);if(!seq.length)return;
 let k=Math.max(0,seq.findIndex(x=>x.id===id));
@@ -3085,9 +3103,9 @@ const go=d=>{k=(k+d+seq.length)%seq.length;show(d)};
 function show(dir){
 const cur=seq[k],w=WORDS[cur.id],e=curL().col[cur.id],r=cur.rar||(e?e.r:'B');
 host.innerHTML=`<div id="dc"></div>
-<div class="row wrap" style="justify-content:center"><span class="badge" style="background:${RCOL[r]};color:#111;font-size:calc(11px * var(--fs))">${RCN(r)} · ${RNAME(r)}</span>${e?`<span class="badge no">${t('記憶','Memory')} ${e.box}/${BOXMAX}</span><span class="badge no">${t('看過','Seen')} ${e.seen}</span>`:''}</div>
+<div class="row wrap" style="justify-content:center"><span class="badge" style="background:${RCOL[r]};color:#111;font-size:calc(11px * var(--fs))">${RCN(r)} · ${RNAME(r)}</span>${srcBadge(cur.id,w)}${e?`<span class="badge no">${t('記憶','Memory')} ${e.box}/${BOXMAX}</span><span class="badge no">${t('看過','Seen')} ${e.seen}</span>`:''}</div>
 ${w.ex?`<div class="dim" style="text-align:center;font-size:calc(13.5px * var(--fs));line-height:1.6;max-width:440px">${esc(w.ex)}<br>${esc(exTr(w))}</div>`:''}
-<div class="row wrap" style="justify-content:center">${S.env.listen?`<button class="btn s" id="d-spk">${svg('spk')}${t('發音','Listen')}</button>`:''}<button class="btn s" id="d-ask">${svg('chat')}${t('問 AI','Ask AI')}</button><button class="btn s" id="d-chk">${svg('check')}${t('檢查翻譯','Check meaning')}</button>${e?`<button class="btn p" id="d-rev">${svg('cards')}${t('今天複習','Review today')}</button>`:''}</div>
+<div class="row wrap" style="justify-content:center">${S.env.listen?`<button class="btn s" id="d-spk">${svg('spk')}${t('發音','Listen')}</button>`:''}<button class="btn s" id="d-ask">${svg('chat')}${t('問 AI · 每則 1 次','Ask AI · 1 per msg','AIに質問 · 1通1回')}</button><button class="btn s" id="d-chk">${svg('check')}${t('檢查翻譯 · AI 1 次','Check meaning · AI ×1','翻訳チェック · AI 1回')}</button>${e?`<button class="btn p" id="d-rev">${svg('cards')}${t('今天複習','Review today')}</button>`:''}</div>
 ${seq.length>1?`<div class="row" style="justify-content:center;gap:14px;align-items:center"><button class="btn s sm" id="d-prev" aria-label="prev">‹</button><span class="hud">${k+1} / ${seq.length}</span><button class="btn s sm" id="d-next" aria-label="next">›</button></div>`:''}`;
 const c=cardEl(w,r,{fx:true,glow:true});c.style.setProperty('--cw','min(66vw,300px)');$('#dc',host).append(c);attachTilt(c);
 c.animate([{transform:`translateX(${(dir||0)*60}px) scale(.7) rotateY(${dir?dir*-30:-40}deg)`,opacity:0},{transform:'none',opacity:1}],{duration:420,easing:'cubic-bezier(.34,1.5,.64,1)'});
@@ -3096,16 +3114,18 @@ const sp=$('#d-spk',host);if(sp)sp.onclick=ev=>speak(w.w,w.lang,ev.currentTarget
 $('#d-ask',host).onclick=()=>{ov.close();setTimeout(()=>openChat(t(`請教我「${w.w}」怎麼用：意思、常見搭配、容易搞混的字，再給我 3 個符合我程度的例句。`,`Teach me how to use "${w.w}": meaning, collocations, confusables, and 3 example sentences at my level.`,`「${w.w}」の使い方を教えて：意味、よく使う組み合わせ、紛らわしい語、私のレベルに合う例文を3つ。`)),250)};
 const ck=$('#d-chk',host);if(ck)ck.onclick=async()=>{
 if(typeof SAMPLE==='undefined'||!SAMPLE){toast(t('這個功能需要 AI（到「我的」設定金鑰）','This needs AI (add a key in Me)','この機能には AI が必要です'));return}
+S.chkd=S.chkd||{};{const c0=S.chkd[w.id];if(c0&&Date.now()-c0.t<30*864e5){toast(c0.ok?t('這個字已經檢查過了（不再花 AI 額度）','Already checked (no AI call spent)','確認済みです（AIは使いません）'):t('這個字已經檢查過，修正已套用或已略過','Already checked'));return}}
 ck.disabled=true;ck.style.opacity=.6;
 try{const mn={zh:w.zh,en:w.en,ja:w.ja};
 const out=await SAMPLE.json(`You are a careful lexicographer checking a vocabulary card. Word (${LANGS[w.lang].full}): "${w.w}", reading/pos: "${w.r}". The app currently shows these glosses (empty = missing): zh-Hant: "${mn.zh}", English: "${mn.en}", Japanese: "${mn.ja}". Example: "${w.ex||''}".
 For each of the three languages decide whether the gloss is correct and natural for the MOST COMMON meaning of the word. Fill in a missing gloss (skip the gloss that is the word's own language). Keep glosses short (max 3 senses, ";" separated). Traditional Chinese for zh.
-Reply with JSON only: {"ok":true|false,"zh":"","en":"","ja":"","note":"one short sentence in ${TLN()}"} — zh/en/ja are your corrected or filled glosses ("" when the word is in that language or you are unsure).`,{modelTier:'default'});
+Reply with JSON only: {"ok":true|false,"zh":"","en":"","ja":"","note":"one short sentence in ${TLN()}"} — zh/en/ja are your corrected or filled glosses ("" when the word is in that language or you are unsure).`,{modelTier:'lite',total:40000});
+S.chkd[w.id]={t:Date.now(),ok:!!(out&&out.ok)};save();
 const fx={};for(const k of ['zh','en','ja']){const v=String(out&&out[k]||'').trim();if(v&&v!==w[k]&&k!==w.lang&&v.length<80&&!/[<>{}|`]/.test(v))fx[k]=v}
 const box=document.createElement('div');box.className='dim';box.style.cssText='text-align:center;font-size:calc(13px * var(--fs));line-height:1.6;max-width:440px';
 const note=esc(String(out&&out.note||'')).slice(0,220);
 if(out&&out.ok&&!Object.keys(fx).length)box.innerHTML=`✓ ${t('AI 認為翻譯正確','The AI finds the meaning correct','AI は訳が正しいと判断しました')}${note?'<br>'+note:''}`;
-else if(Object.keys(fx).length){box.innerHTML=`${note}<br>${Object.entries(fx).map(([k,v])=>`<b>${k}</b>: ${esc(v)}`).join(' · ')}<br><button class="btn p sm" id="d-fix">${t('套用修正','Apply fix','修正を適用')}</button>`;
+else if(Object.keys(fx).length){autoRpt(w.id,w.w,Object.entries(fx).map(([k,v])=>k+': '+(w[k]||'')+' → '+v).join('; '));box.innerHTML=`${note}<br>${Object.entries(fx).map(([k,v])=>`<b>${k}</b>: ${esc(v)}`).join(' · ')}<br><span class="dim">${t('已自動回報給開發者','Auto-reported to the developer','開発者に自動報告しました')}</span><br><button class="btn p sm" id="d-fix">${t('套用修正','Apply fix','修正を適用')}</button>`;
 ck.after(box);box.querySelector('#d-fix').onclick=()=>{S.fix=S.fix||{};S.fix[w.id]={...(S.fix[w.id]||{}),...fx};Object.assign(w,fx);WV++;save();toast(t('已修正','Fixed','修正しました'));show(0)}}
 else box.textContent=note||t('AI 沒有給出結果','No result','結果なし');
 if(!box.isConnected)host.querySelector('#dc').after(box)}
@@ -3386,7 +3406,7 @@ Create exactly ${nAsk} items. ${itemRules(lang)}
 Reply with JSON only: ${ITEM_SCHEMA}
 Optionally add a top-level "dict_issues" list (at most 2) ONLY when a collected word's dictionary meaning above is clearly wrong: {"dict_issues":[{"w":"the collected word","fix":"correct short meaning in ${TLN()}"}]}.`;
 const out=await SAMPLE.json(prompt,{modelTier:'lite',ms:opt.fast?20000:0,total:opt.fast?25000:75000});
-try{DIQ.length=0;for(const d of (out&&out.dict_issues)||[]){const w=rec.find(x=>x.w===d.w);const f=String(d.fix||'').trim();if(w&&f&&f!==meaning(w)&&f.length<60&&!/[<>{}|`]/.test(f))DIQ.push({id:w.id,w:w.w,old:meaning(w),fix:f})}}catch(e){}
+try{DIQ.length=0;for(const d of (out&&out.dict_issues)||[]){const w=rec.find(x=>x.w===d.w);const f=String(d.fix||'').trim();if(w&&f&&f!==meaning(w)&&f.length<60&&!/[<>{}|`]/.test(f)){DIQ.push({id:w.id,w:w.w,old:meaning(w),fix:f});autoRpt(w.id,w.w,meaning(w)+' → '+f)}}}catch(e){}
 let items=(out&&(out.items||out.questions)||[]).filter(q=>q&&q.type&&(q.q||q.audio)&&q.answer!=null);
 const bq=new Set(S.badq||[]);items=items.filter(q=>!bq.has(rptKey(q)));
 const seen=new Set();items=items.filter(q=>validItem(lang,q)).filter(q=>{const k=norm(String(q.q||q.audio));if(seen.has(k))return false;seen.add(k);return true});
@@ -3406,7 +3426,7 @@ function runItems(box,foot,items,lang,{label='',more=null,extraN=0}={}){return n
 let moreP=more;items=items.map(q=>({...q,mode:uiMode(q)})).filter(q=>q.mode);if(!items.length&&!moreP){resolve({items:[],ans:[],total:0});return}
 const ans=[];let qi=0,xpv=0;const TL={choice:t('選擇','Choice'),fill:t('填空','Fill in'),translate:t('翻譯','Translate'),write:t('寫作','Writing'),listen:t('聽力','Listening'),speak:t('口說','Speaking'),order:t('排序','Order')};
 function show(){const q=items[qi];let done=false;
-let h=`<div class="row"><span class="hud">${label} ${qi+1}/${items.length+(moreP?extraN:0)}${q.again?' · '+t('再答一次','Retry'):''}</span><div class="prog"><i style="--w:${qi/(items.length+(moreP?extraN:0))*100}%"></i></div></div><span class="hud">${TL[q.type]||q.type}${+q.d?' · Lv '+(+q.d)+' · '+cefr(lang,+q.d):''}</span>`;
+let h=`<div class="row"><span class="hud">${label} ${qi+1}/${items.length+(moreP?extraN:0)}${q.again?' · '+t('再答一次','Retry'):''}</span><div class="prog"><i style="--w:${qi/(items.length+(moreP?extraN:0))*100}%"></i></div></div><span class="hud">${TL[q.type]||q.type}${+q.d?' · Lv '+(+q.d)+' · '+cefr(lang,+q.d):''}<span style="float:right;opacity:.5;font-size:.85em">${q.mode==='type'||q.mode==='speak'?t('批改 · 整份共用 1 次','Grading · 1 call per quiz','採点 · 1回を共有'):t('本機評分 · 不用 AI','Local grading · no AI','ローカル採点 · AI不要')}</span></span>`;
 if(q.passage)h+=`<div class="panel" style="font-size:calc(14.5px * var(--fs));line-height:1.7;max-height:34vh;overflow:auto">${esc(q.passage)}</div>`;
 if(q.type==='listen')h+=`<div style="display:grid;place-items:center;gap:8px"><button class="spk big" id="as" data-mute="1">${svg('spk')}</button><span class="q-sub">${esc(q.q||t('聽完作答','Listen and answer'))}</span></div>`;
 else h+=`<div class="q-main" style="font-size:calc(clamp(18px,4.6vw,25px) * var(--fs));white-space:pre-wrap">${esc(q.q)}</div>`;
@@ -3450,6 +3470,8 @@ try{bi.forEach((q,i)=>{const a=ba[i];if(a&&(a.score||0)<60&&q.type!=='speak')mis
 show()})}
 const RPTQ=[],DIQ=[];
 function rptKey(q){return norm(String(q.q||q.audio||'')).slice(0,80)}
+function autoRpt(id,w,note){try{const k='lex-rptd';let a=[];try{a=JSON.parse(localStorage.getItem(k)||'[]')}catch(e){}
+const key=id+'|'+S.main;if(a.includes(key))return;a.push(key);localStorage.setItem(k,JSON.stringify(a.slice(-400)));sendReport({kind:'dict-auto',wid:id,w:w,note:String(note||'').slice(0,200)})}catch(e){}}
 function sendReport(rep){try{rep.t=Date.now();rep.ver=typeof APP_VER!=='undefined'?APP_VER:'';rep.lang=rep.lang||S.cur;if(typeof window.webReport==='function')window.webReport(rep)}catch(e){}}
 function dictIssuesHTML(){return DIQ.length?`<div class="panel" style="margin:12px 0"><span class="hud">${t('AI 覺得這些字的翻譯可能有誤','The AI thinks these meanings may be wrong','AIが訳の誤りを疑っている語')}</span>${DIQ.map((d,i)=>`<div class="di-row" style="padding:6px 0"><b>${esc(d.w)}</b><div class="dim">${esc(d.old)} → <b style="color:var(--ink,inherit)">${esc(d.fix)}</b></div><div class="row" style="gap:8px;margin-top:4px"><button class="btn p sm di-apply" data-i="${i}">${t('套用修正','Apply fix','修正を適用')}</button><button class="btn s sm di-skip" data-i="${i}">${t('略過','Skip','スキップ')}</button></div></div>`).join('')}</div>`:''}
 document.addEventListener('click',e=>{const T=e.target&&e.target.closest?e.target:null;if(!T)return;
@@ -4114,7 +4136,7 @@ function lexStart(direct){requestAnimationFrame(preKill);setTimeout(preKill,350)
 if(!S.onb||!S.cur||!S.L[S.cur]){const sp=$('#splash');sp&&sp.remove();BOOTED=true;$('#app').style.display='none';onboard();
 document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true})}
 else if(direct){/* just signed in: no boot animation, straight to the home page */const sp=$('#splash');sp&&sp.remove();document.addEventListener('pointerdown',()=>audioInit(),{once:true,capture:true});startMain(false)}
-else{const sp=$('#splash');sp.style.visibility='';sp.addEventListener('click',()=>{window.LEX_WEB&&webTapReconnect();boot()})}}
+else{const sp=$('#splash');sp.style.visibility='';const g=$('.sp-go');g&&(g.style.display='none');/* auto-start: no tap needed; the first tap anywhere still renews the cloud login (popup needs a gesture) and unlocks audio */document.addEventListener('pointerdown',()=>{window.LEX_WEB&&webTapReconnect();audioInit()},{once:true,capture:true});boot()}}
 /* web version: Google sign-in + Gemini key first; then the cloud copy is read before deciding what to show,
 so a new phone or computer continues where the account left off */
 if(window.LEX_WEB&&webGateNeeded()){const sp=$('#splash');sp&&sp.remove();webGate(async()=>{daily();await initCaps();lexStart(true)});requestAnimationFrame(preKill);setTimeout(preKill,350)}
