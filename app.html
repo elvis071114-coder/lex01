@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.107";</script>
+<script>const APP_VER="1.1.109";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -32,7 +32,7 @@ const gmKey=()=>{try{return localStorage.getItem(GM_KEY)||''}catch(e){return ''}
 const gmModel=()=>{try{return localStorage.getItem(GM_MODEL)||'auto'}catch(e){return 'auto'}};
 const lsJ=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}},lsS=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
 function gmErr(code,msg){const e=new Error(msg||code);e.code=code;return e}
-function pacificMidnight(){const now=Date.now();try{const p=Object.fromEntries(new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit'}).formatToParts(new Date(now)).map(x=>[x.type,x.value]));
+function pacificMidnight(){const now=Math.floor(Date.now()/1000)*1000;/* whole seconds: the value is used as a day key, so it must not change between calls */try{const p=Object.fromEntries(new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',hourCycle:'h23',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit'}).formatToParts(new Date(now)).map(x=>[x.type,x.value]));
 const passed=((+p.hour%24)*3600+(+p.minute)*60+(+p.second))*1000;return now-passed+864e5}catch(e){return now+864e5}}
 const gmFam=id=>/^gemini-4-/.test(id)?4:/flash-lite/.test(id)?1:/flash/.test(id)?0:/pro/.test(id)?2:3;
 const gmVer=id=>{const m=id.match(/gemini-(\d+(?:\.\d+)?)/);return m?parseFloat(m[1]):0};
@@ -2977,7 +2977,7 @@ const up=ownMark(ov,'tog','.tg-cell',()=>(x=>t(x.z,x.n))(TOGGLES[curTog()]));$('
 const box=$('#tgl',ov);const draw=()=>{box.innerHTML='';Object.entries(TOGGLES).filter(([k])=>ALLOW.tog.includes(k)).forEach(([k,x],i)=>{const c=el(`<div class="tg-cell panel ${curTog()===k?'sel':''}" data-k="${k}" data-cat="${CATOF.tog[k]||''}"><div class="nm"><b>${t(x.z,x.n)}</b>${String(i+1).padStart(2,'0')} · ${x.n}</div><button class="btn ${curTog()===k?'p':'s'} sm">${curTog()===k?t('使用中','Active'):t('套用','Use')}</button></div>`);
 const tg=makeToggle(i%2===0,null,x.n,k);tg.style.fontSize='24px';c.prepend(tg);$('.btn',c).onclick=()=>{S.set.tog=k;save();draw()};box.append(c)});applyCat(ov);up()};draw();
 }
-addEventListener('lexquota',()=>setTimeout(()=>{const b=document.getElementById('aiRing');if(b)b.innerHTML=aiRingSVG()},0));</script>
+addEventListener('lexquota',()=>setTimeout(()=>{const b=document.getElementById('aiRing');if(b)b.innerHTML=aiRingSVG();/* refresh an AI popup that is already open (sync finishes after it was drawn) */const q=document.querySelector('.xptip .pity .aiq');if(q&&q.parentElement)q.parentElement.innerHTML=aiQuotaHTML()},0));</script>
 <script>/* ================= COURSE ROUTE (v1.1.46) =================
 A fixed syllabus per language: 10 units × 10 levels (unit u = Lv 10u+1 … 10u+10, ends with the level exam).
 Every level has 3 lessons: two grammar / pattern points (ROUTE[lang][u][2k], [2k+1]) and one conversation
