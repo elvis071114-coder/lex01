@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.109";</script>
+<script>const APP_VER="1.1.113";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -1540,7 +1540,10 @@ function applyFix(){for(const [id,f] of Object.entries(S.fix||{}))if(WORDS[id])O
 const wordsOf=lang=>{const c=WLC[lang];if(c&&c.v===WV)return c.a;const a=Object.values(WORDS).filter(w=>w.lang===lang);WLC[lang]={v:WV,a};return a};
 const WBD={};
 function byDiff(lang){const c=WBD[lang];if(c&&c.v===WV)return c.m;const m=new Map();for(const w of wordsOf(lang)){let a=m.get(w.d);if(!a)m.set(w.d,a=[]);a.push(w)}WBD[lang]={v:WV,m};return m}
-function nearWords(lang,w,k=3){const m=byDiff(lang),out=[],mw=meaning(w),ok=x=>x.id!==w.id&&x.w!==w.w&&meaning(x)!==mw&&!out.includes(x);
+function nearWords(lang,w,k=3){const c=nearWords0(lang,w,Math.max(k*4,10));if(c.length<=k)return c;
+const A=[...w.w],sim=x=>{const B=[...x.w];let v=-Math.abs(A.length-B.length)*.7;if(lang==='en'&&x.r&&x.r===w.r)v+=2;if(B[0]===A[0])v+=1;if(B[B.length-1]===A[A.length-1])v+=1;if(lang!=='en'){const sh=B.filter(ch=>A.includes(ch)).length;v+=Math.min(2,sh)}return v+Math.random()*1.6};
+return c.map(x=>({x,s:sim(x)})).sort((a,b)=>b.s-a.s).slice(0,k).map(o=>o.x)}
+function nearWords0(lang,w,k=3){const m=byDiff(lang),out=[],mw=meaning(w),ok=x=>x.id!==w.id&&x.w!==w.w&&meaning(x)!==mw&&!out.includes(x);
 for(let dist=0;dist<100&&out.length<k;dist++){const ds=dist?(Math.random()<.5?[w.d-dist,w.d+dist]:[w.d+dist,w.d-dist]):[w.d];
 for(const d of ds){const a=m.get(d);if(!a)continue;const n=a.length;let tries=0;
 while(out.length<k&&tries<24){const x=a[Math.floor(Math.random()*n)];tries++;if(ok(x))out.push(x)}
@@ -1558,6 +1561,8 @@ let S=(()=>{const prefs=()=>{try{const p=JSON.parse(localStorage.getItem(KEY+'-p
 const t=(zh,en,ja)=>S.main==='en'?en:S.main==='ja'?(ja??JA[zh]??en):zh;
 const lname=l=>t(LANGS[l].zh,LANGS[l].en);
 const meaning=w=>S.main==='en'?(w.en||w.zh):S.main==='ja'?(w.ja||w.en||w.zh):(w.zh||w.en);
+const sameLang=w=>S.main===(w&&w.lang);
+const gl=w=>{if(!sameLang(w))return meaning(w);return w.lang==='en'?`${w.r?w.r+' · ':''}${w.w[0]}${'_'.repeat(Math.max(0,w.w.length-1))} (${w.w.length})`:(w.r&&w.r!==w.w?w.r:w.w)};
 const exTr=w=>S.main==='en'?(w.exen||w.exzh):S.main==='ja'?(w.exja||w.exen||w.exzh):(w.exzh||w.exen);
 const TLN=()=>S.main==='en'?'English':S.main==='ja'?'Japanese (日本語)':'Traditional Chinese (繁體中文)';
 function afterLoad(){for(const [id,w] of Object.entries(S.ai||{}))WORDS[id]={...w,id,no:'AI'};applyFix();WV++;if(window.LEX_BANK_EXT&&typeof BOOTED!=='undefined'&&BOOTED)loadBanks().then(()=>{try{render()}catch(e){}})}
@@ -3324,7 +3329,7 @@ const l=S.cur,L=curL();let pool=Object.keys(L.col).filter(id=>WORDS[id]).map(id=
 if(pool.length<4){toast(t('先抽卡收集至少 4 個單字再來測驗','Collect at least 4 words first'));return}
 let types=allowedTypes(l);if(kind!=='mix'){if(kind==='speak'&&!DICT){toast(t('這個瀏覽器不支援麥克風','Microphone not available here'));return}types=[kind]}
 const all=wordsOf(l),n=Math.min(10,Math.max(5,pool.length));
-const qs=shuffle(pool).sort((a,b)=>(L.col[a.id].box-L.col[b.id].box)).slice(0,n).map(w=>{let ty=rnd(types);if(ty==='spell'&&[...(l==='ja'?w.r:w.w)].length<=12)ty='tiles';if(ty==='tiles'&&[...(l==='ja'?w.r:w.w)].length>13)ty='choice';
+const qs=shuffle(pool).sort((a,b)=>(L.col[a.id].box-L.col[b.id].box)).slice(0,n).map(w=>{let ty=rnd(types);if(l==='en'&&S.main==='en'&&ty==='choice')ty='reverse';if(ty==='spell'&&[...(l==='ja'?w.r:w.w)].length<=12)ty='tiles';if(ty==='tiles'&&[...(l==='ja'?w.r:w.w)].length>13)ty='choice';
 const dis=nearWords(l,w,3);return{w,ty,opts:shuffle([w,...dis])}});
 let qi=0,right=0,xp=0,answered=false,qdone=false;const wrong=[];
 const ov=overlay(`<div class="sess"><div class="sess-top"><span class="hud" id="qc"></span><div class="prog"><i id="qp"></i></div></div><div class="sess-body" id="qb"></div><div id="qf"></div></div>`,{onClose:()=>{if(!qdone&&qi>0)toast(t('中途離開，這次沒有獲得經驗值（要做完才算）','Left early — no XP this time (finish the quiz to earn it)','途中で終了：今回はXPなし（最後までやると獲得）'));render()}});
@@ -3334,10 +3339,10 @@ function show(){
 if(qi>=qs.length)return end();answered=false;const q=qs[qi],w=q.w;$('#qc',ov).textContent=`${qi+1}/${qs.length}`;progSet($('#qp',ov),qi,qs.length);
 let h=`<span class="hud" style="text-align:center">${TT[q.ty]} · Lv ${w.d} · ${cefr(l,w.d)}</span>`;
 if(q.ty==='choice')h+=`<div class="q-main">${esc(w.w)}</div>${w.r&&w.r!==w.w&&l!=='en'?`<div class="q-sub">${esc(w.r)}</div>`:''}${S.env.listen?`<div style="display:grid;place-items:center"><button class="spk" id="qs" data-mute="1">${svg('spk')}</button></div>`:''}`;
-if(q.ty==='reverse'||q.ty==='spell'||q.ty==='tiles')h+=`<div class="q-main">${esc(meaning(w))}</div>`;
+if(q.ty==='reverse'||q.ty==='spell'||q.ty==='tiles')h+=`<div class="q-main">${esc(gl(w))}</div>`;
 if(q.ty==='listen')h+=`<div style="display:grid;place-items:center;gap:8px"><button class="spk big" id="qs" data-mute="1">${svg('spk')}</button><span class="q-sub">${t('點喇叭再聽一次','Tap to replay')}</span></div>`;
 if(q.ty==='speak')h+=`<div class="q-main">${esc(w.w)}</div>${w.r&&w.r!==w.w?`<div class="q-sub">${esc(w.r)}</div>`:''}<button class="mic" id="mic" data-mute="1">${svg('mic')}</button><div class="q-sub" id="heard">${t('點麥克風開始說','Tap the mic and speak')}</div>`;
-if(q.ty==='choice'||q.ty==='reverse'||q.ty==='listen')h+=`<div class="opts">${q.opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(q.ty==='choice'?meaning(o):o.w)}</span></button>`).join('')}</div>`;
+if(q.ty==='choice'||q.ty==='reverse'||q.ty==='listen')h+=`<div class="opts">${q.opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(q.ty==='choice'?gl(o):o.w)}</span></button>`).join('')}</div>`;
 if(q.ty==='spell')h+=`<input class="inp" id="qi" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="${t('輸入答案…','Type here…')}"><div class="q-sub">${esc(typeHint(l)||(l==='en'?`${w.w[0]}${'_'.repeat(w.w.length-1)} (${w.w.length})`:''))}</div>`;
 if(q.ty==='tiles'){const target=[...(l==='ja'?w.r:w.w)];const extra=randWords(l,w,4).flatMap(x=>[...(l==='ja'?x.r:x.w)]).filter(c=>c.trim()&&!target.includes(c));q.target=target;q.tiles=shuffle([...target,...shuffle(extra).slice(0,Math.min(3,Math.max(2,6-target.length)))]);q.built=[];
 h+=`<div class="answer-line" id="al" data-blank="${q.target.slice(0,14).map(()=>'▢').join(' ')}"></div><div class="tiles" id="tl">${q.tiles.map((c,i)=>`<button class="tile" data-i="${i}" data-mute="1">${esc(c)}</button>`).join('')}</div>${canType(l)?`<input class="inp" id="ti" style="display:none" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="${t('輸入答案…','Type here…')}"><div class="q-sub">${t('也可以點上面的空格直接打字','Or tap the blanks to type')}</div>`:''}`}
@@ -3356,8 +3361,8 @@ DICT.start().catch(e=>{mic.classList.remove('on');toast(e&&e.code==='not_granted
 const ok=$('#qok',qf);if(ok)ok.onclick=()=>answered?next():submit();const sk=$('#qskip',qf);if(sk)sk.onclick=()=>{if(!answered)result(false)};
 }
 function judgeSpeak(txt){const w=qs[qi].w,a=norm(k2h(txt));const ts=[w.w,w.r].filter(Boolean).map(x=>norm(k2h(x)));const ok=ts.some(x=>a.includes(x)||lev(a,x)<=Math.max(1,Math.floor(x.length/4)));result(ok,`<br>${t('聽到：','Heard:')} ${esc(txt.trim())}`)}
-function result(ok,extra=''){answered=true;const w=qs[qi].w;S.stats.quiz++;const again=qs[qi].again;if(ok){if(!again)right++;xp+=again?1:2}else{if(!again){wrong.push(w);try{const ms=qs[qi].opts.map(meaning);mistAdd(l,{type:'choice',q:t(`「${w.w}」是什麼意思？`,`What does "${w.w}" mean?`,`「${w.w}」はどういう意味？`),options:ms,answer:meaning(w),d:w.d,skill:'vocab',explain:w.ex||''})}catch(e){}qs.push({...qs[qi],again:true,opts:shuffle([...qs[qi].opts])})}}sfx(ok?'ok':'bad');
-$('#qfb',qb).innerHTML=`<div class="fb ${ok?'ok':'bad'}"><b>${ok?t('答對了！','Correct!'):t('答案：','Answer:')}</b> ${esc(w.w)}${w.r&&w.r!==w.w?`（${esc(w.r)}）`:''} — ${esc(meaning(w))}${extra}${w.ex?`<br><span class="dim">${esc(w.ex)}</span>`:''}</div>`;
+function result(ok,extra=''){answered=true;const w=qs[qi].w;S.stats.quiz++;const again=qs[qi].again;if(ok){if(!again)right++;xp+=again?1:2}else{if(!again){wrong.push(w);try{if(sameLang(w))throw 0;const ms=qs[qi].opts.map(meaning);mistAdd(l,{type:'choice',q:t(`「${w.w}」是什麼意思？`,`What does "${w.w}" mean?`,`「${w.w}」はどういう意味？`),options:ms,answer:meaning(w),d:w.d,skill:'vocab',explain:w.ex||''})}catch(e){}qs.push({...qs[qi],again:true,opts:shuffle([...qs[qi].opts])})}}sfx(ok?'ok':'bad');
+$('#qfb',qb).innerHTML=`<div class="fb ${ok?'ok':'bad'}"><b>${ok?t('答對了！','Correct!'):t('答案：','Answer:')}</b> ${esc(w.w)}${w.r&&w.r!==w.w?`（${esc(w.r)}）`:''}${sameLang(w)?'':' — '+esc(meaning(w))}${extra}${w.ex?`<br><span class="dim">${esc(w.ex)}</span>`:''}</div>`;
 qf.innerHTML=`<button class="btn p block" id="qn">${qi<qs.length-1?t('下一題','Next'):t('看結果','Results')} →</button>`;$('#qn',qf).onclick=next;
 const e=curL().col[w.id];if(e&&!ok){e.box=Math.max(0,e.box-1);e.due=Date.now();if(!again){e.weak=1;e.wk=0}}else if(e&&ok&&!again&&e.due<=Date.now()){e.box=Math.min(BOXMAX,e.box+1);e.due=Date.now()+INT[e.box];e.ok++;e.seen++;e.lt=Date.now()}if(ok&&qs[qi].ty!=='listen'&&S.env.listen)speak(w.w,l);save()}
 function pick(i){if(answered)return;const q=qs[qi],ok=q.opts[i].id===q.w.id;$$('.opt',qb).forEach((b,j)=>{if(q.opts[j].id===q.w.id)b.classList.add('right');else if(j===i)b.classList.add('wrong')});result(ok)}
@@ -3409,7 +3414,10 @@ const out=await SAMPLE.json(prompt,{modelTier:'lite',ms:opt.fast?20000:0,total:o
 try{DIQ.length=0;for(const d of (out&&out.dict_issues)||[]){const w=rec.find(x=>x.w===d.w);const f=String(d.fix||'').trim();if(w&&f&&f!==meaning(w)&&f.length<60&&!/[<>{}|`]/.test(f)){DIQ.push({id:w.id,w:w.w,old:meaning(w),fix:f});autoRpt(w.id,w.w,meaning(w)+' → '+f)}}}catch(e){}
 let items=(out&&(out.items||out.questions)||[]).filter(q=>q&&q.type&&(q.q||q.audio)&&q.answer!=null);
 const bq=new Set(S.badq||[]);items=items.filter(q=>!bq.has(rptKey(q)));
-const seen=new Set();items=items.filter(q=>validItem(lang,q)).filter(q=>{const k=norm(String(q.q||q.audio));if(seen.has(k))return false;seen.add(k);return true});
+const seen=new Set();{const bad=items.filter(q=>!validItem(lang,q));/* AI wrote a broken question (answer not in options, duplicate options, wrong language...): drop it and tell the developer, max 3 per batch */
+bad.slice(0,3).forEach(q=>{try{const k='lex-rptq';let a=[];try{a=JSON.parse(localStorage.getItem(k)||'[]')}catch(e){}const key=norm(String(q.q||q.audio||'')).slice(0,60);if(!key||a.includes(key))return;a.push(key);localStorage.setItem(k,JSON.stringify(a.slice(-200)));
+sendReport({kind:'quiz-auto',lang,wid:'',w:'',item:JSON.stringify({type:q.type,q:q.q,options:q.options,answer:q.answer,tokens:q.tokens}).slice(0,1200)})}catch(e){}})}
+items=items.filter(q=>validItem(lang,q)).filter(q=>{const k=norm(String(q.q||q.audio));if(seen.has(k))return false;seen.add(k);return true});
 if(opt.verify!==false&&(!window.LEX_WEB||(typeof gmPlan==='function'&&gmPlan()&&gmPlan().tier==='paid')))items=await verifyItems(lang,items,opt.vms);
 if(items.length>n){const keys=Object.keys(L.pool);if(keys.length>6)delete L.pool[keys[0]];L.pool[pk]={lv:L.lv,t:Date.now(),it:items.slice(n)};items=items.slice(0,n)}
 try{memGen(lang,items);save()}catch(e){}
@@ -3490,18 +3498,19 @@ const weakHTML=r=>{const ws=r.items.map((q,i)=>({q,a:r.ans[i]})).filter(x=>x.q.w
 function vocabItems(l,n){const L=S.L[l],E=S.env,all=wordsOf(l);
 let pool=Object.keys(L.col).filter(id=>WORDS[id]).map(id=>WORDS[id]);
 if(pool.length<n){const have=new Set(pool.map(w=>w.id)),near=wordsOf(l).filter(w=>!have.has(w.id)&&meaning(w)&&Math.abs(w.d-L.lv)<=8);pool=pool.concat(shuffle(near).slice(0,n-pool.length))}
+if(S.main===l){const hard=pool.filter(w=>gl(w)!==w.w);if(hard.length>=Math.min(n,4))pool=hard}
 if(pool.length<4)return[];
 const cl=id=>L.col[id]||{};
 const pick=shuffle(pool).sort((a,b)=>((cl(b.id).weak?1:0)-(cl(a.id).weak?1:0))||((cl(a.id).box||0)-(cl(b.id).box||0))).slice(0,n);
 return pick.map(w=>{const dis=nearWords(l,w,3);
-const rd=w.r&&w.r!==w.w&&l!=='en'?` (${w.r})`:'';const kinds=['m','r','s'];if(E.listen&&canSpeak())kinds.push('l');
+const rd=w.r&&w.r!==w.w&&l!=='en'?` (${w.r})`:'';const kinds=(l==='en'&&S.main==='en')?['r','s']:['m','r','s'];if(E.listen&&canSpeak())kinds.push('l');
 const chars=[...(l==='ja'?w.r:w.w)];let k=rnd(kinds);if(k==='s'&&(chars.length>12||chars.length<2))k='m';
 const base={wid:w.id,skill:'vocab',d:w.d,explain:w.ex||''};
-if(k==='m')return{...base,type:'choice',q:w.w+rd,options:shuffle([w,...dis]).map(meaning),answer:meaning(w)};
-if(k==='r')return{...base,type:'choice',q:t('哪一個是這個意思？','Which word means this?')+'\n'+meaning(w),options:shuffle([w,...dis]).map(x=>x.w),answer:w.w};
+if(k==='m')return{...base,type:'choice',q:w.w+rd,options:shuffle([w,...dis]).map(gl),answer:gl(w)};
+if(k==='r')return{...base,type:'choice',q:t('哪一個是這個意思？','Which word means this?')+'\n'+gl(w),options:shuffle([w,...dis]).map(x=>x.w),answer:w.w};
 if(k==='l')return{...base,type:'listen',q:t('聽發音，選出單字','Listen and pick'),audio:w.w,options:shuffle([w,...dis]).map(x=>x.w),answer:w.w};
 const extra=shuffle(all.filter(x=>x.id!==w.id)).slice(0,4).flatMap(x=>[...(l==='ja'?x.r:x.w)]).filter(c=>c.trim()&&!chars.includes(c));
-return{...base,type:'order',q:t('點方塊拼出單字','Build the word')+'\n'+meaning(w),tokens:chars,extra:shuffle(extra).slice(0,Math.min(3,Math.max(2,6-chars.length))),sep:'',typeOK:true,w,answer:chars.join('')}})}
+return{...base,type:'order',q:t('點方塊拼出單字','Build the word')+'\n'+gl(w),tokens:chars,extra:shuffle(extra).slice(0,Math.min(3,Math.max(2,6-chars.length))),sep:'',typeOK:true,w,answer:chars.join('')}})}
 const QUICK_PURPOSE='Write a balanced mixed quiz: 2 grammar, 2 word-usage or fill-in, 1 short translation or sentence-building. NO reading passages. Around the learner level, one item slightly harder. Set "skill" on every item.';
 let PRE=null,PREBUSY=false;
 function warmQuick(){try{if(!SAMPLE||PRE||PREBUSY||document.hidden)return;if(window.LEX_WEB&&!(typeof gmPlan==='function'&&gmPlan()&&gmPlan().tier==='paid'))return;/* free plan = about 20 calls per model per day: no silent background calls */if(window.LEX_WEB&&typeof gmKey==='function'&&!gmKey())return;const l=S.cur;if(!l||!S.L||!S.L[l]||!S.onb)return;
@@ -3513,6 +3522,7 @@ const l=S.cur,L=curL();
 const cfg={quick:{v:5,ai:5,xp:25,name:t('快速測驗','Quick quiz'),purpose:QUICK_PURPOSE},
 detail:{v:8,ai:14,xp:50,name:t('詳細測驗','Full quiz'),purpose:'Write a thorough practice test: 4 grammar, 3 word usage, 1 translation, plus TWO short reading passages (60-120 words each; put the SAME passage text in the "passage" field of each of its 3 comprehension items, so 6 items), plus listening/speaking only if allowed. Around the learner level, a few items slightly harder. Set "skill" on every item.'},
 read:{v:0,ai:5,xp:30,name:t('閱讀測驗','Reading quiz'),purpose:'Write ONE reading passage of 90-150 words suited to the learner level (short story, notice, dialogue or article). Put the SAME passage in the "passage" field of exactly 5 comprehension items (main idea, detail, inference, vocabulary in context, true/false as choice). skill must be "reading".'}}[kind];
+if(S.main===l&&SAMPLE){if(kind==='quick'){cfg.v=2;cfg.ai=8}else if(kind==='detail')cfg.v=3}
 if(kind!=='quick'&&!SAMPLE){toast(noAI());return}
 if(!SAMPLE&&Object.keys(L.col).filter(id=>WORDS[id]).length<4){toast(t('先抽卡收集至少 4 個單字再來測驗','Collect at least 4 words first'));return}
 const ov=overlay(`<div class="sess"><div class="sess-top"><span class="badge" style="background:var(--accent);color:var(--aink)">${cfg.name}</span>${SAMPLE?aiChip():''}</div><div class="sess-body" id="ab">${loadHTML(SAMPLE?t('正在出題','Writing questions'):t('準備題目','Preparing'))}</div><div id="af"></div></div>`,{onClose:()=>render()});
@@ -3549,7 +3559,7 @@ if(!ov.isConnected)return;
 let r;if(items&&items.length>=8){r=await runItems(ab,af,items,l,{label:t('考試','Exam')})}
 else{// offline fallback: vocab exam from bank around level
 const pool=shuffle(wordsOf(l).filter(w=>Math.abs(w.d-L.lv)<=14)).slice(0,15);const all=wordsOf(l);
-items=pool.map(w=>{const dis=shuffle(all.filter(x=>x.id!==w.id)).slice(0,3);const opts=shuffle([w,...dis]).map(meaning);return{type:'choice',q:`${w.w}${w.r&&w.r!==w.w&&l!=='en'?` (${w.r})`:''}`,options:opts,answer:meaning(w),d:w.d,explain:w.ex||''}});
+items=pool.map(w=>{const dis=shuffle(all.filter(x=>x.id!==w.id)).slice(0,3);const opts=shuffle([w,...dis]).map(gl);return{type:'choice',q:`${w.w}${w.r&&w.r!==w.w&&l!=='en'?` (${w.r})`:''}`,options:opts,answer:gl(w),d:w.d,explain:w.ex||''}});
 r=await runItems(ab,af,items,l,{label:t('考試','Exam')})}
 if(!ov.isConnected)return;const pass=r.total>=75;
 if(pass){passExam(l);sfx('levelup')}else{L.xp=Math.floor(need(L.lv)*.7);sfx('bad')}save();
@@ -3608,10 +3618,10 @@ ${itemRules(l)}
 Reply with JSON only: {"title":"","intro":"","points":[{"head":"","body":"","ex":[{"t":"","tr":""}]}],"words":[{"w":"","r":"","m":"","d":0}],"items":${ITEM_SCHEMA.replace('{"items":','').slice(0,-1)}}`}
 function offlineLesson(l,L,it){const now=Date.now(),sc=id=>{const e=L.col[id];return (e.weak?-3:0)+(e.due<=now?-2:0)+e.box+Math.random()*1.5},ws=Object.keys(L.col).filter(id=>WORDS[id]).sort((a,b)=>sc(a)-sc(b)).slice(0,5).map(id=>WORDS[id]);const all=wordsOf(l);
 return {one:1,offline:1,title:it.title,intro:(it.kind==='grammar'?t(`「${it.title}」這堂文法課需要 AI 才能講解。先用你卡冊裡的單字練習用法：`,`The grammar lesson "${it.title}" needs AI. Meanwhile, practise words from your collection:`,`「${it.title}」の解説には AI が必要です。まずはカードの単語で練習しましょう：`)+' ':'')+t('看看這些字在句子裡怎麼用。','See how these words are used in sentences.','文の中での使い方を見てみましょう。'),points:ws.map(w=>({head:`${w.w}${w.r&&w.r!==w.w?` · ${w.r}`:''} — ${meaning(w)}`,body:'',ex:w.ex?[{t:w.ex,tr:exTr(w)}]:[]})),words:[],
-items:ws.map((w,k)=>{const oth=shuffle(shuffle(all.filter(x=>x.id!==w.id&&meaning(x)!==meaning(w)&&x.w!==w.w)).sort((a,b)=>Math.abs(a.d-w.d)-Math.abs(b.d-w.d)).slice(0,6)).slice(0,3),blank=w.ex&&w.ex.includes(w.w)?w.ex.split(w.w).join('＿＿'):'',ty=k%3===2&&blank?2:k%3===1?1:0;
+items:ws.map((w,k)=>{const oth=shuffle(shuffle(all.filter(x=>x.id!==w.id&&gl(x)!==gl(w)&&x.w!==w.w)).sort((a,b)=>Math.abs(a.d-w.d)-Math.abs(b.d-w.d)).slice(0,6)).slice(0,3),blank=w.ex&&w.ex.includes(w.w)?w.ex.split(w.w).join('＿＿'):'',ty=k%3===2&&blank?2:k%3===1?1:0;
 if(ty===2)return{type:'choice',q:t('哪個字放進空格？','Which word fits the blank?','空欄に入る語は？')+`\n${blank}`,options:shuffle([w.w,...oth.map(x=>x.w)]),answer:w.w,explain:`${w.ex}${exTr(w)?' — '+exTr(w):''}`};
-if(ty===1)return{type:'choice',q:t(`哪個字是「${meaning(w)}」？`,`Which word means "${meaning(w)}"?`,`「${meaning(w)}」はどれ？`),options:shuffle([w.w,...oth.map(x=>x.w)]),answer:w.w,explain:w.ex||''};
-return{type:'choice',q:t(`「${w.w}」是什麼意思？`,`What does "${w.w}" mean?`,`「${w.w}」はどういう意味？`),options:shuffle([meaning(w),...oth.map(meaning)]),answer:meaning(w),explain:w.ex||''}})}}
+if(ty===1)return{type:'choice',q:t(`哪個字是「${gl(w)}」？`,`Which word means "${gl(w)}"?`,`「${gl(w)}」はどれ？`),options:shuffle([w.w,...oth.map(x=>x.w)]),answer:w.w,explain:w.ex||''};
+return{type:'choice',q:t(`「${w.w}」是什麼意思？`,`What does "${w.w}" mean?`,`「${w.w}」はどういう意味？`),options:shuffle([gl(w),...oth.map(gl)]),answer:gl(w),explain:w.ex||''}})}}
 async function runLesson(id){
 const l=S.cur,L=curL();L.rd=L.rd||{};L.rc=L.rc||{};L.rtt=L.rtt||{};
 let it=routeById(l,id);if(!it||it.lv>L.lv){const ls=routeLessons(l,L.lv);it=ls.find(x=>!rDone(L,x.id))||ls[0]}
