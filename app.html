@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.120";</script>
+<script>const APP_VER="1.1.122";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -1562,6 +1562,21 @@ const t=(zh,en,ja)=>S.main==='en'?en:S.main==='ja'?(ja??JA[zh]??en):zh;
 const lname=l=>t(LANGS[l].zh,LANGS[l].en);
 const meaning=w=>S.main==='en'?(w.en||w.zh):S.main==='ja'?(w.ja||w.en||w.zh):(w.zh||w.en);
 const sameLang=w=>S.main===(w&&w.lang);
+const clozeOK=w=>!!(w&&w.ex&&(w.lang==='en'||[...w.w].length>=2)&&w.ex.split(w.w).length===2&&w.ex.length<=90&&w.ex.replace(w.w,'').trim().length>=4);
+const GSETS={en:[['a','an','the'],['in','on','at','of','to','for','with','by','from'],['is','are','was','were','has','have','had','will','would','can','could','do','does','did'],['he','she','they','we','you','it','his','her','their','our','my']],
+ja:[['を','に','で','へ','と','から','まで']],
+zh:[['的','得','地'],['了','过','着'],['在','从','向','对','给','把','被','和','跟'],['很','都','也','就','才','还','又','不','没']]};
+function grammarItem(lang,lv,not){const sets=GSETS[lang];if(!sets)return null;const pool=wordsOf(lang).filter(w=>w.ex&&Math.abs(w.d-lv)<=14&&w.ex.length<=70&&!(not&&not.has(w.id)));
+for(let tries=0;tries<60&&pool.length;tries++){const w=pool[Math.floor(Math.random()*pool.length)],s=w.ex;
+const toks=lang==='en'?s.split(/(\b)/):[...s];const set=sets[Math.floor(Math.random()*sets.length)];
+const idx=[];toks.forEach((c,i)=>{if(set.includes(lang==='en'?c.toLowerCase():c))idx.push(i)});
+if(idx.length!==1)continue;const i=idx[0],ans=toks[i],low=lang==='en'?ans.toLowerCase():ans;
+if(lang!=='en'&&w.w.includes(ans))continue;
+const opts=[low,...set.filter(x=>x!==low).sort(()=>Math.random()-.5).slice(0,3)];if(opts.length<3)continue;
+const cap=lang==='en'&&ans[0]!==ans[0].toLowerCase();const fmt=o=>cap?o[0].toUpperCase()+o.slice(1):o;
+const q=toks.map((c,j)=>j===i?'＿＿＿':c).join('');return{w,q,ans:fmt(low),opts:opts.sort(()=>Math.random()-.5).map(fmt)}}
+return null}
+const clozeText=w=>w.ex.split(w.w).join('＿＿＿');
 const gl=w=>{if(!sameLang(w))return meaning(w);return w.lang==='en'?`${w.r?w.r+' · ':''}${w.w[0]}${'_'.repeat(Math.max(0,w.w.length-1))} (${w.w.length})`:(w.r&&w.r!==w.w?w.r:w.w)};
 const exTr=w=>S.main==='en'?(w.exen||w.exzh):S.main==='ja'?(w.exja||w.exen||w.exzh):(w.exzh||w.exen);
 const TLN=()=>S.main==='en'?'English':S.main==='ja'?'Japanese (日本語)':'Traditional Chinese (繁體中文)';
@@ -3330,17 +3345,18 @@ const l=S.cur,L=curL();let pool=Object.keys(L.col).filter(id=>WORDS[id]).map(id=
 if(pool.length<4){toast(t('先抽卡收集至少 4 個單字再來測驗','Collect at least 4 words first'));return}
 let types=allowedTypes(l);if(kind!=='mix'){if(kind==='speak'&&!DICT){toast(t('這個瀏覽器不支援麥克風','Microphone not available here'));return}types=[kind]}
 const all=wordsOf(l),n=Math.min(10,Math.max(5,pool.length));
+if(S.main===l){const ok=pool.filter(w=>clozeOK(w)||gl(w)!==w.w);if(ok.length>=4)pool=ok}
 const qs=shuffle(pool).sort((a,b)=>(L.col[a.id].box-L.col[b.id].box)).slice(0,n).map(w=>{let ty=rnd(types);if(l==='en'&&S.main==='en'&&ty==='choice')ty='reverse';if(ty==='spell'&&[...(l==='ja'?w.r:w.w)].length<=12)ty='tiles';if(ty==='tiles'&&[...(l==='ja'?w.r:w.w)].length>13)ty='choice';
-const dis=nearWords(l,w,3);return{w,ty,opts:shuffle([w,...dis])}});
+let cz=false;if(S.main===l&&(ty==='choice'||ty==='reverse')){ty='reverse';cz=clozeOK(w)}const dis=nearWords(l,w,3);return{w,ty,cz,opts:shuffle([w,...dis])}});
 let qi=0,right=0,xp=0,answered=false,qdone=false;const wrong=[];
 const ov=overlay(`<div class="sess"><div class="sess-top"><span class="hud" id="qc"></span><div class="prog"><i id="qp"></i></div></div><div class="sess-body" id="qb"></div><div id="qf"></div></div>`,{onClose:()=>{if(!qdone&&qi>0)toast(t('中途離開，這次沒有獲得經驗值（要做完才算）','Left early — no XP this time (finish the quiz to earn it)','途中で終了：今回はXPなし（最後までやると獲得）'));render()}});
 const qb=$('#qb',ov),qf=$('#qf',ov);
 const TT={choice:t('選出正確意思','Pick the meaning'),reverse:t('哪一個是這個意思？','Which word means this?'),listen:t('聽發音，選出單字','Listen and pick'),spell:t('寫出這個單字','Write the word'),tiles:t('點方塊拼出單字','Build the word'),speak:t('唸出這個單字','Say this word')};
 function show(){
 if(qi>=qs.length)return end();answered=false;const q=qs[qi],w=q.w;$('#qc',ov).textContent=`${qi+1}/${qs.length}`;progSet($('#qp',ov),qi,qs.length);
-let h=`<span class="hud" style="text-align:center">${TT[q.ty]} · Lv ${w.d} · ${cefr(l,w.d)}</span>`;
+let h=`<span class="hud" style="text-align:center">${q.cz?t('哪個字放進空格最自然？','Which word fits the blank?','空欄に入る言葉はどれ？'):TT[q.ty]} · Lv ${w.d} · ${cefr(l,w.d)}</span>`;
 if(q.ty==='choice')h+=`<div class="q-main">${esc(w.w)}</div>${w.r&&w.r!==w.w&&l!=='en'?`<div class="q-sub">${esc(w.r)}</div>`:''}${S.env.listen?`<div style="display:grid;place-items:center"><button class="spk" id="qs" data-mute="1">${svg('spk')}</button></div>`:''}`;
-if(q.ty==='reverse'||q.ty==='spell'||q.ty==='tiles')h+=`<div class="q-main">${esc(gl(w))}</div>`;
+if(q.cz)h+=`<div class="q-main" style="font-size:calc(22px * var(--fs));line-height:1.5">${esc(clozeText(w))}</div>`;else if(q.ty==='reverse'||q.ty==='spell'||q.ty==='tiles')h+=`<div class="q-main">${esc(gl(w))}</div>`;
 if(q.ty==='listen')h+=`<div style="display:grid;place-items:center;gap:8px"><button class="spk big" id="qs" data-mute="1">${svg('spk')}</button><span class="q-sub">${t('點喇叭再聽一次','Tap to replay')}</span></div>`;
 if(q.ty==='speak')h+=`<div class="q-main">${esc(w.w)}</div>${w.r&&w.r!==w.w?`<div class="q-sub">${esc(w.r)}</div>`:''}<button class="mic" id="mic" data-mute="1">${svg('mic')}</button><div class="q-sub" id="heard">${t('點麥克風開始說','Tap the mic and speak')}</div>`;
 if(q.ty==='choice'||q.ty==='reverse'||q.ty==='listen')h+=`<div class="opts">${q.opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(q.ty==='choice'?gl(o):o.w)}</span></button>`).join('')}</div>`;
@@ -3499,19 +3515,21 @@ const weakHTML=r=>{const ws=r.items.map((q,i)=>({q,a:r.ans[i]})).filter(x=>x.q.w
 function vocabItems(l,n){const L=S.L[l],E=S.env,all=wordsOf(l);
 let pool=Object.keys(L.col).filter(id=>WORDS[id]).map(id=>WORDS[id]);
 if(pool.length<n){const have=new Set(pool.map(w=>w.id)),near=wordsOf(l).filter(w=>!have.has(w.id)&&meaning(w)&&Math.abs(w.d-L.lv)<=8);pool=pool.concat(shuffle(near).slice(0,n-pool.length))}
-if(S.main===l){const hard=pool.filter(w=>gl(w)!==w.w);if(hard.length>=Math.min(n,4))pool=hard}
+if(S.main===l){const hard=pool.filter(clozeOK);if(hard.length<Math.min(n,4)){const have=new Set(hard.map(w=>w.id)),more=wordsOf(l).filter(w=>!have.has(w.id)&&clozeOK(w)&&Math.abs(w.d-L.lv)<=10);pool=hard.concat(shuffle(more).slice(0,n-hard.length))}else pool=hard}
 if(pool.length<4)return[];
 const cl=id=>L.col[id]||{};
 const pick=shuffle(pool).sort((a,b)=>((cl(b.id).weak?1:0)-(cl(a.id).weak?1:0))||((cl(a.id).box||0)-(cl(b.id).box||0))).slice(0,n);
-return pick.map(w=>{const dis=nearWords(l,w,3);
+const gcount=n>=5?Math.min(2,Math.floor(n/4)):0,gits=[],gseen=new Set();
+for(let k=0;k<gcount;k++){const g=grammarItem(l,L.lv,gseen);if(g){gseen.add(g.w.id);gits.push({wid:g.w.id,skill:'grammar',d:g.w.d,explain:g.w.ex||'',type:'choice',q:t('哪個字放進空格才通順？','Which word completes the sentence?','空欄に入る正しいものはどれ？')+'\n'+g.q,options:g.opts,answer:g.ans})}}
+const vitems=pick.slice(0,n-gits.length).map(w=>{const dis=nearWords(l,w,3);
 const rd=w.r&&w.r!==w.w&&l!=='en'?` (${w.r})`:'';const kinds=(l==='en'&&S.main==='en')?['r','s']:['m','r','s'];if(E.listen&&canSpeak())kinds.push('l');
 const chars=[...(l==='ja'?w.r:w.w)];let k=rnd(kinds);if(k==='s'&&(chars.length>12||chars.length<2))k='m';
-const base={wid:w.id,skill:'vocab',d:w.d,explain:w.ex||''};
+const base={wid:w.id,skill:'vocab',d:w.d,explain:w.ex||''};if(S.main===l&&clozeOK(w))return{...base,type:'choice',q:t('哪個字放進空格最自然？','Which word fits the blank?','空欄に入る言葉はどれ？')+'\n'+clozeText(w),options:shuffle([w,...nearWords(l,w,3)]).map(x=>x.w),answer:w.w};
 if(k==='m')return{...base,type:'choice',q:w.w+rd,options:shuffle([w,...dis]).map(gl),answer:gl(w)};
 if(k==='r')return{...base,type:'choice',q:t('哪一個是這個意思？','Which word means this?')+'\n'+gl(w),options:shuffle([w,...dis]).map(x=>x.w),answer:w.w};
 if(k==='l')return{...base,type:'listen',q:t('聽發音，選出單字','Listen and pick'),audio:w.w,options:shuffle([w,...dis]).map(x=>x.w),answer:w.w};
 const extra=shuffle(all.filter(x=>x.id!==w.id)).slice(0,4).flatMap(x=>[...(l==='ja'?x.r:x.w)]).filter(c=>c.trim()&&!chars.includes(c));
-return{...base,type:'order',q:t('點方塊拼出單字','Build the word')+'\n'+gl(w),tokens:chars,extra:shuffle(extra).slice(0,Math.min(3,Math.max(2,6-chars.length))),sep:'',typeOK:true,w,answer:chars.join('')}})}
+return{...base,type:'order',q:t('點方塊拼出單字','Build the word')+'\n'+gl(w),tokens:chars,extra:shuffle(extra).slice(0,Math.min(3,Math.max(2,6-chars.length))),sep:'',typeOK:true,w,answer:chars.join('')}});return shuffle(vitems.concat(gits))}
 const QUICK_PURPOSE='Write a balanced mixed quiz: 2 grammar, 2 word-usage or fill-in, 1 short translation or sentence-building. NO reading passages. Around the learner level, one item slightly harder. Set "skill" on every item.';
 let PRE=null,PREBUSY=false;
 function warmQuick(){try{if(!SAMPLE||PRE||PREBUSY||document.hidden)return;if(window.LEX_WEB&&!(typeof gmPlan==='function'&&gmPlan()&&gmPlan().tier==='paid'))return;/* free plan = about 20 calls per model per day: no silent background calls */if(window.LEX_WEB&&typeof gmKey==='function'&&!gmKey())return;const l=S.cur;if(!l||!S.L||!S.L[l]||!S.onb)return;
@@ -4058,11 +4076,11 @@ draw();
 /* adaptive placement test — a staircase: right → a little harder, wrong → a little easier,
 ends after 20 correct answers (or 36 questions). The level is the average difficulty where the answers flip. */
 function placement(lang,box,done,skip){
-if(window.LEX_BANK_EXT&&BANKS[lang]!=='done'){box.innerHTML=`<div class="dim" style="padding:20px;text-align:center">${t('載入單字庫…','Loading the word bank…','単語データを読み込み中…')}</div>`;loadBank(lang).then(()=>placement(lang,box,done,skip));return}
+if(window.LEX_BANK_EXT&&BANKS[lang]!=='done'){box.innerHTML=`<div class="dim" style="padding:20px;text-align:center">${t('載入單字庫…','Loading the word bank…','単語データを読み込み中…')}</div>`;loadBank(lang).then(()=>{if(BANKS[lang]!=='done'){/* the word file did not load (offline / not uploaded): show a retry instead of looping forever */box.innerHTML=`<div class="dim" style="padding:20px;text-align:center;display:flex;flex-direction:column;gap:10px;align-items:center">${t('單字庫載入失敗，請檢查網路','Could not load the word bank — check your connection','単語データを読み込めませんでした')}<button class="btn p" id="bkr">${t('重試','Retry','再試行')}</button></div>`;box.querySelector('#bkr').onclick=()=>placement(lang,box,done,skip);return}placement(lang,box,done,skip)});return}
 if(!box._st){const nb0=(box.parentElement&&box.parentElement.querySelector('#newb'))||$('#newb');nb0&&(nb0.onclick=()=>{sfx('tick');skip()});const PK={ja:[['N5',8],['N4',22],['N3',37],['N2',52],['N1',68]],zh:[['HSK1',6],['HSK2',17],['HSK3',28],['HSK4',41],['HSK5',55],['HSK6',69],['HSK7+',82]],en:[['A1',8],['A2',22],['B1',37],['B2',52],['C1',68],['C2',85]]}[lang]||[];
 box.innerHTML=`<div class="hud">${t('你大概從哪裡開始？','Where do you roughly start?','どのあたりから始めますか？')}</div><div class="row wrap" style="gap:8px">${PK.map(([n,d])=>`<button class="chipbtn" data-d="${d}">${n}</button>`).join('')}<button class="chipbtn" data-d="24">${t('不確定','Not sure','わからない')}</button></div>`;
 $$('[data-d]',box).forEach(b=>b.onclick=()=>{sfx('tick');box._st=+b.dataset.d;placement(lang,box,done,skip)});return}
-const same=S.main===lang,gm=w=>same?gl(w):meaning(w);/* same language: the word bank has no gloss in that language, so show readings (zh/ja) or part of speech + masked letters (en) instead of falling back to English */const pool=wordsOf(lang).filter(w=>same?(gm(w)&&gm(w)!==w.w):meaning(w));const asked=new Set();
+const same=S.main===lang,gm=w=>same?gl(w):meaning(w);/* same language: the word bank has no gloss in that language, so show readings (zh/ja) or part of speech + masked letters (en) instead of falling back to English */const pool=wordsOf(lang).filter(w=>same?clozeOK(w):meaning(w));const asked=new Set();
 /* Chinese speakers can read Japanese kanji (and Japanese speakers Chinese hanzi) without knowing the language:
 then the word is shown only by its reading (kana / pinyin), and the options use readings too */
 const byRead=(lang==='ja'&&S.main==='zh')||(lang==='zh'&&S.main==='ja');const face=w=>byRead&&w.r&&(lang==='zh'||/[\u3400-\u9fff]/.test(w.w))?w.r:w.w;/* katakana / kana words stay as written */
@@ -4070,18 +4088,22 @@ const TOTAL=30,MAXQ=40;let est=box._st||24,step=12,q=0,right=0,last=null,wrongRu
 const nb=(box.parentElement&&box.parentElement.querySelector('#newb'))||$('#newb');nb&&(nb.onclick=()=>{sfx('tick');skip()});
 function result(){if(right<=1)return 1;const pts=rev.length>=3?rev.slice(-6):hist.slice(-8);const avg=pts.reduce((a,b)=>a+b,0)/Math.max(1,pts.length);
 return clamp(Math.round((pts.length?avg:est)-2),1,90)}
+function gramQ(g){const opts=g.opts;box.innerHTML=`<div class="prog" style="flex:none"><i style="--w:${q/TOTAL*100}%"></i></div><div class="row" style="justify-content:space-between"><span class="hud">${t('第','Q','第')} ${q+1}${t(' 題','',' 問')}</span><span class="hud">${q+1} / ${TOTAL}</span></div><div class="q-main" style="font-size:calc(22px * var(--fs));line-height:1.5">${esc(g.q)}</div><div class="q-sub">${t('哪個字放進空格才通順？','Which word completes the sentence?','空欄に入る正しいものはどれ？')}</div><div class="opts">${opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(o)}</span></button>`).join('')}</div><button class="btn s" id="idk">${t('不知道','Don\'t know','わからない')}</button>`;
+const fin=(ok,o)=>{document.querySelectorAll('.opt').forEach(x=>{x.disabled=true;if(x===o)x.classList.add('sel')});sfx('tick');hist.push(est);if(last!==null&&last!==ok){rev.push(est);step=Math.max(3,step*.7)}last=ok;if(ok){right++;wrongRun=0;est=clamp(est+step,1,92)}else{wrongRun++;est=clamp(est-step*1.2,1,92)}q++;setTimeout(next,300)};
+box.querySelectorAll('.opt').forEach((o,i)=>{o.onclick=()=>fin(opts[i]===g.ans,o)});box.querySelector('#idk').onclick=()=>fin(false,null)}
 function next(){
 if(q>=TOTAL||(wrongRun>=6&&est<=4&&q>=12)){const lv=result();box.innerHTML=`<div style="text-align:center;display:flex;flex-direction:column;gap:8px;align-items:center"><span class="hud">${t('你的程度','YOUR LEVEL','あなたのレベル')}</span><div class="big-score">Lv ${lv}</div><div class="dim">${cefr(lang,lv)}</div><button class="btn p big" id="plok" style="margin-top:6px">${t('就從這裡開始','Start here','ここから始める')} →</button></div>`;sfx('win');$('#plok',box).onclick=()=>done(lv);const nb2=box.parentElement&&box.parentElement.querySelector('#newb');nb2&&(nb2.style.display='none');return}
 const near=pool.filter(w=>!asked.has(w.id)&&Math.abs(w.d-est)<=Math.max(6,step));
 const cand=(near.length>=4?near:pool.filter(w=>!asked.has(w.id)).sort((a,b)=>Math.abs(a.d-est)-Math.abs(b.d-est)).slice(0,8));if(!cand.length){q=MAXQ;return next()}
-const w=rnd(cand);asked.add(w.id);const flip=q%3===2;/* every third question goes the other way: meaning → word */
+if(q%5===4){const g=grammarItem(lang,est,asked);if(g){asked.add(g.w.id);return gramQ(g)}}
+const w=rnd(cand);asked.add(w.id);const flip=!same&&q%3===2;/* every third question goes the other way: meaning → word */
 const dpool=pool.filter(x=>x.id!==w.id&&gm(x)!==gm(w)&&face(x)!==face(w));
-const okd=x=>x.id!==w.id&&gm(x)!==gm(w)&&face(x)!==face(w)&&(!same||gm(x)!==x.w);let ds=nearWords(lang,w,10).filter(okd).slice(0,4);if(ds.length<3)ds=shuffle(dpool).sort((a,b)=>Math.abs(a.d-w.d)-Math.abs(b.d-w.d)).slice(0,6).sort(()=>Math.random()-.5).slice(0,4);
+const okd=x=>x.id!==w.id&&gm(x)!==gm(w)&&face(x)!==face(w)&&(!same||!!x.w);let ds=nearWords(lang,w,10).filter(okd).slice(0,4);if(ds.length<3)ds=shuffle(dpool).sort((a,b)=>Math.abs(a.d-w.d)-Math.abs(b.d-w.d)).slice(0,6).sort(()=>Math.random()-.5).slice(0,4);
 const opts=shuffle([w,...ds]);
-const main=flip?`<div class="q-main" style="font-size:calc(26px * var(--fs))">${esc(gm(w))}</div><div class="q-sub">${t(`選出對應的${lname(lang)}`,`Pick the ${lname(lang)} word`,`${lname(lang)}を選んでください`)}</div>`
+const main=same?`<div class="q-main" style="font-size:calc(22px * var(--fs));line-height:1.5">${esc(clozeText(w))}</div><div class="q-sub">${t('哪個字放進空格最自然？','Which word fits the blank?','空欄に入る言葉はどれ？')}</div>`:flip?`<div class="q-main" style="font-size:calc(26px * var(--fs))">${esc(gm(w))}</div><div class="q-sub">${t(`選出對應的${lname(lang)}`,`Pick the ${lname(lang)} word`,`${lname(lang)}を選んでください`)}</div>`
 :`<div class="q-main">${esc(face(w))}</div>${!byRead&&w.r&&w.r!==w.w&&lang!=='en'?`<div class="q-sub">${esc(w.r)}</div>`:''}`;
 box.innerHTML=`<div class="prog" style="flex:none"><i style="--w:${q/TOTAL*100}%"></i></div><div class="row" style="justify-content:space-between"><span class="hud">${t('第','Q','第')} ${q+1}${t(' 題','',' 問')}</span><span class="hud">${q+1} / ${TOTAL}</span></div>${main}
-<div class="opts">${opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(flip?face(o):gm(o))}</span></button>`).join('')}</div><button class="btn s" id="idk">${t('不知道','Don\'t know','わからない')}</button>`;
+<div class="opts">${opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(same?o.w:flip?face(o):gm(o))}</span></button>`).join('')}</div><button class="btn s" id="idk">${t('不知道','Don\'t know','わからない')}</button>`;
 $$('.opt',box).forEach((o,i)=>{o.animate([{transform:'translateY(10px)',opacity:.2},{transform:'none',opacity:1}],{duration:320,delay:i*40,easing:SPRING_SOFT,fill:'backwards'});o.onclick=()=>ans(opts[i].id===w.id,o)});
 $('#idk',box).onclick=()=>ans(false,null);
 function ans(ok,o){/* no right/wrong feedback: it would hint at answers */$$('.opt',box).forEach(x=>{x.disabled=true;if(x===o)x.classList.add('sel')});sfx('tick');
