@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.113";</script>
+<script>const APP_VER="1.1.114";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -4051,7 +4051,7 @@ draw();
 ends after 20 correct answers (or 36 questions). The level is the average difficulty where the answers flip. */
 function placement(lang,box,done,skip){
 if(window.LEX_BANK_EXT&&BANKS[lang]!=='done'){box.innerHTML=`<div class="dim" style="padding:20px;text-align:center">${t('載入單字庫…','Loading the word bank…','単語データを読み込み中…')}</div>`;loadBank(lang).then(()=>placement(lang,box,done,skip));return}
-const pool=wordsOf(lang).filter(w=>meaning(w));const asked=new Set();
+const same=S.main===lang,gm=w=>same?gl(w):meaning(w);/* same language: the word bank has no gloss in that language, so show readings (zh/ja) or part of speech + masked letters (en) instead of falling back to English */const pool=wordsOf(lang).filter(w=>same?(gm(w)&&gm(w)!==w.w):meaning(w));const asked=new Set();
 /* Chinese speakers can read Japanese kanji (and Japanese speakers Chinese hanzi) without knowing the language:
 then the word is shown only by its reading (kana / pinyin), and the options use readings too */
 const byRead=(lang==='ja'&&S.main==='zh')||(lang==='zh'&&S.main==='ja');const face=w=>byRead&&w.r&&(lang==='zh'||/[\u3400-\u9fff]/.test(w.w))?w.r:w.w;/* katakana / kana words stay as written */
@@ -4064,12 +4064,12 @@ if(right>=GOAL||q>=MAXQ||(wrongRun>=6&&est<=4)){const lv=result();box.innerHTML=
 const near=pool.filter(w=>!asked.has(w.id)&&Math.abs(w.d-est)<=Math.max(6,step));
 const cand=(near.length>=4?near:pool.filter(w=>!asked.has(w.id)).sort((a,b)=>Math.abs(a.d-est)-Math.abs(b.d-est)).slice(0,8));if(!cand.length){q=MAXQ;return next()}
 const w=rnd(cand);asked.add(w.id);const flip=q%3===2;/* every third question goes the other way: meaning → word */
-const dpool=pool.filter(x=>x.id!==w.id&&meaning(x)!==meaning(w)&&face(x)!==face(w));
+const dpool=pool.filter(x=>x.id!==w.id&&gm(x)!==gm(w)&&face(x)!==face(w));
 const opts=shuffle([w,...shuffle(dpool).sort((a,b)=>Math.abs(a.d-w.d)-Math.abs(b.d-w.d)).slice(0,6).sort(()=>Math.random()-.5).slice(0,3)]);
-const main=flip?`<div class="q-main" style="font-size:calc(26px * var(--fs))">${esc(meaning(w))}</div><div class="q-sub">${t(`選出對應的${lname(lang)}`,`Pick the ${lname(lang)} word`,`${lname(lang)}を選んでください`)}</div>`
+const main=flip?`<div class="q-main" style="font-size:calc(26px * var(--fs))">${esc(gm(w))}</div><div class="q-sub">${t(`選出對應的${lname(lang)}`,`Pick the ${lname(lang)} word`,`${lname(lang)}を選んでください`)}</div>`
 :`<div class="q-main">${esc(face(w))}</div>${!byRead&&w.r&&w.r!==w.w&&lang!=='en'?`<div class="q-sub">${esc(w.r)}</div>`:''}`;
 box.innerHTML=`<div class="prog" style="flex:none"><i style="--w:${right/GOAL*100}%"></i></div><div class="row" style="justify-content:space-between"><span class="hud">${t('第','Q','第')} ${q+1}${t(' 題','',' 問')}</span><span class="hud">${t('答對','CORRECT','正解')} ${right} / ${GOAL}</span></div>${main}
-<div class="opts">${opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(flip?face(o):meaning(o))}</span></button>`).join('')}</div><button class="btn s" id="idk">${t('不知道','Don\'t know','わからない')}</button>`;
+<div class="opts">${opts.map((o,i)=>`<button class="opt panel" data-i="${i}"><span class="k">${i+1}</span><span>${esc(flip?face(o):gm(o))}</span></button>`).join('')}</div><button class="btn s" id="idk">${t('不知道','Don\'t know','わからない')}</button>`;
 $$('.opt',box).forEach((o,i)=>{o.animate([{transform:'translateY(10px)',opacity:.2},{transform:'none',opacity:1}],{duration:320,delay:i*40,easing:SPRING_SOFT,fill:'backwards'});o.onclick=()=>ans(opts[i].id===w.id,o)});
 $('#idk',box).onclick=()=>ans(false,null);
 function ans(ok,o){$$('.opt',box).forEach((x,j)=>{x.disabled=true;if(opts[j].id===w.id)x.classList.add('right');else if(x===o)x.classList.add('wrong')});sfx(ok?'ok':'bad');
