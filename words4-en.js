@@ -10,12 +10,12 @@ at|prep.|在；向；對|1|に；で|a|Look at me when I talk to you!|我跟你�
 be|v.|是；表示；在|1|だ；です|a|That was the best day of my life.|那是我生命中最美的一天。|あの日が私の人生で最高の日だった。
 but|prep.|除了；但是|1|けど；でも|a|I'd be unhappy, but I wouldn't kill myself.|我會不高興，但我不會自殺。|僕は不幸かも知れないけれど自殺はしない。
 by|prep.|被；經；由；經過|1|ことにより|a|We will make the payment by bank transfer.|我們會用銀行轉帳付款。|銀行振込でお支払いします。
-can|v.|裝罐；罐頭；容器|1|缶|a|We could see the sunset from the window.|我們能從窗戶看到日落。|窓から日が沈むのを見ることができるだろう。
+can|v.|裝罐；罐頭；容器|1|缶；できる|v|We could see the sunset from the window.|我們能從窗戶看到日落。|窓から日が沈むのを見ることができるだろう。
 do|v.|做；進行；完成|1|する；やる|a|What you are saying does not make sense.|你說的話沒有道理。|雲を掴むような話だな。
 for|prep.|為；因為；至於|1|ために；対して|a|"Thank you for helping me." "Don't mention it."|“謝謝你的幫助。” “不用謝。”|「手伝ってくれてありがとう」「どういたしまして」
 from|prep.|從；來自；根據|1|から|a|We could see the sunset from the window.|我們能從窗戶看到日落。|窓から日が沈むのを見ることができるだろう。
 get|v.|得到；獲得；變成；到達|1|得る；得|a|You've got to learn to hold your tongue.|你應該學著閉上你的嘴。|君は口の利き方を知らなければならない。
-go|v.|去；走；達到；以...打賭|1|碁；行く|a|Tomorrow, I'm going to study at the library.|我明天去圖書館溫習。|明日図書館で勉強するつもりです。
+go|v.|去；走；達到；以...打賭|1|行く；進む|v|Tomorrow, I'm going to study at the library.|我明天去圖書館溫習。|明日図書館で勉強するつもりです。
 have|v.|有；懷有；拿；已經|1|とる；有する|a|I think you had better call on him.|我認為你最好去拜訪他。|君は彼を訪問した方がよいと思う。
 he|n.|男孩；男人；雄性動物；他|1|彼；こいつ|a|He told me the story of his life.|他給我講述了他的一生。|彼は彼の人生の話を私にしてくれた。
 her|pron.|她的；她|1|彼女の；彼女を|h|There was a sudden change in her tone.|她聲調突然變了。|急に彼女の声の調子が変った。
@@ -45,8 +45,8 @@ they|pron.|他們；它們|2|彼ら；奴ら|a|You had better not start until th
 think|v.|想；考慮；想起；思考|2|思う；考える|a|I think you had better call on him.|我認為你最好去拜訪他。|君は彼を訪問した方がよいと思う。
 this|pron.|這；本|2|この；これ|a|This is the town I told you about.|這就是我跟你說的那個鎮。|ここが前に話した街です。
 time|n.|時間；時侯；時機；測定...的時間|2|時；時間|a|We eat a meal three times a day.|我們一日三餐。|我々は１日に３回食事をする。
-to|prep.|到；向；趨於；向前|2|斗；へ|a|I told them to send me another ticket.|我請他們再寄給我一張票。|私は彼らにチケットをもう一枚送ってくれるように頼んだ。
-up|adj.|向上的；起床的；漲的；向上|2|上へ；起きて；上昇した|h|Why did you use up all the money?|為什麼你花了所有錢？|どうしてお金を全部使い切っちゃったの？
+to|prep.|到；向；趨於；向前|2|〜へ；〜まで|v|I told them to send me another ticket.|我請他們再寄給我一張票。|私は彼らにチケットをもう一枚送ってくれるように頼んだ。
+up|adj.|向上的；起床的；漲的；向上|2|上へ；起きている；上昇した|v|Why did you use up all the money?|為什麼你花了所有錢？|どうしてお金を全部使い切っちゃったの？
 we|pron.|我們|2|我々；僕ら|a|"Haven't we met somewhere before?" asked the student.|“以前我們沒在哪兒見過嗎？”學生問道。|「以前にどこかで会ったことがありませんか」とその学生はたずねた。
 what|pron.|什麼；怎麼；多麼|2|何；何と|a|What... you still don't know how to drive?|什麼……？你還是不會開車？|何だって・・・いまだに運転できないのか？
 when|conj.|當...的時候；何時；什麼時候|2|いつ；いつになったら|a|I'll call them tomorrow when I come back.|我明天回來的時候會跟他們聯絡。|明日帰ったら電話します。
@@ -84,9 +84,9 @@ feel|v.|感覺；覺得；觸控；有知覺|2|感じる；感触|a|My throat fe
 few|adj.|很少的；不多的；少數的；少數|2|少ない；いくつか|a|You must keep quiet for a few days.|你該安靜幾天。|数日はおとなしくしていなさいよ。
 find|v.|發現；感到；找到；裁決|2|見つける；掘り出し物|a|Put the book back where you found it.|把書放回原來的地方。|その本は元のところに戻しなさい。
 first|adv.|首先；第一；優先；第一的|2|初；まず|a|Corporate earnings in the first quarter improved sharply.|企業第一季度收益大幅增長。|企業収益は第１四半期に大きく改善した。
-give|n.|彈性；適應性；給；授予|2|くれる；与える|a|Information is given in English at every airport.|每個機場都有英文指示。|どこの空港でもお知らせは英語でされます。
+give|n.|彈性；適應性；給；授予|2|与える；弾力性|v|Information is given in English at every airport.|每個機場都有英文指示。|どこの空港でもお知らせは英語でされます。
 good|n.|善行；好處；利益；好的|3|いい；ため|a|Your composition was good except for the spelling.|你的文章寫得很好，但卻有很多字拼錯了。|君の作文は綴り字以外はよく書けていた。
-great|adj.|大的；非常的；主要的；順利地|3|偉大；偉い|a|With great effort he climbed up the tree.|他費了不少勁，爬上了那棵樹。|一所懸命になって彼はその木に登った。
+great|adj.|大的；非常的；主要的；順利地|3|素晴らしい；大きい|v|With great effort he climbed up the tree.|他費了不少勁，爬上了那棵樹。|一所懸命になって彼はその木に登った。
 group|n.|團體；組；團；聚合|3|派；グループ|a|The group is made up of six members.|那組有六個組員。|そのグループは６人のメンバーで成り立っている。
 hand|n.|手；爪；指標；交給|3|手；ハンド|a|All essays must be handed in on time.|所有文章都必須在規定時間內交上來。|すべてのレポートは期限を守って提出されなければならない。
 help|n.|幫忙；幫助者；補救辦法；幫助|3|救い；手助け|a|You should have helped him with his work.|你應該幫他工作的。|君は彼の仕事を手伝うべきだった。
@@ -96,8 +96,8 @@ him|pron.|他|3|彼を；彼に|h|I think you had better call on him.|我認為�
 how|adv.|如何；怎樣；多少；方式|3|どう；どうして|a|How do you find food in outer space?|你怎麼在太空裡找到食物？|宇宙でどうやって食べ物をみつけるの？
 into|prep.|進入...之內；朝...；深入...之中|3|〜の中へ；〜へ；〜に深く|h|We should have taken the schedule into consideration.|我們本該考慮一下行程。|我々は日程を考慮に入れるべきだった。
 its|pron.|它的|3|それの；その|h|Kyoto is famous for its shrines and temples.|京都以它的祭壇和寺院而聞名。|京都は神社や仏閣で有名だ。
-just|adj.|正直的；合理的；正確的；剛剛|3|まあ；つい|a|To be perfect she lacked just one defect.|要變得完美，她就是少了一個缺點。|完璧であるには、欠点だけが欠けていた。
-keep|n.|生計；維持；保持|3|保つ；キープ|a|I don't have the strength to keep trying.|我沒力氣繼續嘗試了。|私にはやり続けるだけの強さがない。
+just|adj.|正直的；合理的；正確的；剛剛|3|ちょうど；ただ；公正な|v|To be perfect she lacked just one defect.|要變得完美，她就是少了一個缺點。|完璧であるには、欠点だけが欠けていた。
+keep|n.|生計；維持；保持|3|保つ；維持する|v|I don't have the strength to keep trying.|我沒力氣繼續嘗試了。|私にはやり続けるだけの強さがない。
 leave|n.|許可；告別；請假；離開|3|出る；残す|a|Let me know the time you are leaving.|告訴我你幾點出發。|ご出発の時刻をお知らせ下さい。
 let|v.|讓；假設；出租|3|させる；貸す；仮定する|h|Let's proceed with the items on the agenda.|讓我們繼續進行議程上的專案。|議題に上っている項目の議論を続けましょう。
 life|n.|生活；生命；人生|3|生活；人生|a|Many people drift through life without a purpose.|許多人毫無目的地隨波逐流。|多くの人が目的なく人生を漂う。
@@ -160,7 +160,7 @@ use|n.|使用；習慣；使用價值|4|使用；利用|a|Miyazaki is not what i
 very|adj.|真正的；恰好的；十足的；非常|4|とても；大変|a|You have made the very same mistake again.|你又犯了相同的錯誤。|君はまったく同じ間違いをまたやったね。
 want|n.|需要的東西；缺乏；貧困；要|4|求める；欲する|a|I want you to tell me the truth.|我想要你把真相告訴我。|私には本当のことを話してもらいたい。
 way|n.|路；路線；路途；遠遠地|4|途；式|a|Look both ways before you cross the street.|過馬路前先左右看一看。|道を渡る前には、右左を見るんだよ。
-well|n.|井；泉水；源泉；湧出|4|よろしく；さて|a|Well, the night is quite long, isn't it?|夜晚很長，不是嗎？|あぁまだ、宵の口だね。
+well|n.|井；泉水；源泉；湧出|4|よく；うまく；井戸|v|Well, the night is quite long, isn't it?|夜晚很長，不是嗎？|あぁまだ、宵の口だね。
 where|adv.|在哪裡；哪裡|4|どこ；どこら|a|Where do you suppose you'll spend your vacation?|你認為你會到哪兒度假？|休暇はどちらで過ごすおつもりなんですか？
 while|n.|一會兒；時間；當...的時候；雖然|4|ながら；つつ|a|You had better not smoke while on duty.|當你值勤時最好不要抽煙。|勤務中はタバコを吸わない方がいいよ。
 why|adv.|為什麼；原因；理由|4|なぜ；何故|a|Why did you not go to the office?|您為什麼沒去辦公室？|どうして会社に行かなかったの？
@@ -221,13 +221,13 @@ kind|n.|種類；性質；方式；親切的|5|類；一種|a|You'll have to man
 large|adj.|大的；大量的；寬大的；大大地|5|大；大型|a|The town was defended by a large army.|城市由一支大軍守衛。|街は大軍によって守られた。
 law|n.|法律；法則；定律；起訴|5|法；法律|a|Mother-in-law and daughter-in-law are a tempest and hailstorm.|婆婆和媳婦就像是暴風雨和冰雹。|嫁と姑の仲は大嵐。
 learn|v.|學習；認識到；得知|5|学ぶ；身につける|a|Ben learned to make a fire without matches.|Ben學會了不用火柴就能生火。|ベンはマッチなしで火を起こすことを学んだ。
-least|n.|最少；最小；最小限度；最少的|5|最低|a|The trip will take at least a week.|這次旅行至少得花一星期時間。|その旅行は少なくとも１週間はかかるだろう。
+least|n.|最少；最小；最小限度；最少的|5|最も少ない；最小限|v|The trip will take at least a week.|這次旅行至少得花一星期時間。|その旅行は少なくとも１週間はかかるだろう。
 line|n.|列；線；繩；排成一行|5|線；ライン|a|The boat was tied with a short line.|船被用短繩繫著。|そのボートは短い紐でつながれていた。
 little|n.|一點點；少許；一會兒；小的|5|ちょっと；少し|a|You have a little fever today, don't you?|你今天有點發燒，是吧？|今日はちょっと熱があるんだろ？
-live|adj.|活的；生動的；精力充沛的；活|5|ライブ；生きる|a|Modern technology has made our lives more comfortable.|現代科學技術讓我們的生活更加舒適。|現代科学技術は私たちの生活をより快適にしてくれている。
+live|adj.|活的；生動的；精力充沛的；活|5|生きる；生放送の；生きている|v|Modern technology has made our lives more comfortable.|現代科學技術讓我們的生活更加舒適。|現代科学技術は私たちの生活をより快適にしてくれている。
 long|adj.|長的；長久的；冗長的；渴望|5|長い；ロング|a|Well, the night is quite long, isn't it?|夜晚很長，不是嗎？|あぁまだ、宵の口だね。
 lose|v.|遺失；損失；丟失；受損失|5|負ける；失う|a|The boy lost his way in the forest.|小男孩在森林中迷路了。|その少年は森の中で道に迷った。
-lot|n.|運氣；籤；抽籤；劃分|5|たくさん；ロット|a|Your behavior is creating a lot of problems.|你的行為引起了許多的麻煩。|君の振る舞いは多くの問題を引き起こしている。
+lot|n.|運氣；籤；抽籤；劃分|5|たくさん；くじ；区画|v|Your behavior is creating a lot of problems.|你的行為引起了許多的麻煩。|君の振る舞いは多くの問題を引き起こしている。
 meet|n.|會；集會；適宜的；合適的|5|添う；会う|a|We happened to meet her in the park.|我們在公園裡踫到她。|私たちは公園で偶然、彼女に会った。
 member|n.|成員；會員|5|員；メンバー|a|Are you a member of the baseball team?|你是棒球隊的一員嗎？|君は野球チームのメンバーですか。
 minute|n.|分；分鐘；片刻；記錄|5|分；微細|a|Because just one minute costs nearly four pounds.|因為僅一分鐘就要差不多花費4鎊。|１分だってほぼ４ポンドかかるんだから。
@@ -249,10 +249,10 @@ pay|n.|薪資；付款；補償；支付|5|払う；給与|a|You should pay more
 play|n.|遊戲；遊玩；玩笑；玩|5|プレイ；遊び|a|Quite a few students played truant from school.|不少學生逃學了。|かなり多くの学生が学校をサボった。
 point|n.|點；小數點；標點；弄尖|5|先；ポイント|a|The point of the pencil has become dull.|鉛筆頭鈍了。|鉛筆の先が丸くなった。
 president|n.|總統；總裁；董事長|5|大統領；会長|a|The president said, "I don't give a damn."|總統說，我才不屌呢。|大統領はかまうものかと言った。
-provide|v.|提供；供應；規定；作準備|5|備え付ける|a|Japanese companies generally provide their employees with uniforms.|日本的公司通常都會為員工提供製服。|日本の企業はふつう従業員に制服を与える。
+provide|v.|提供；供應；規定；作準備|5|提供する；供給する|v|Japanese companies generally provide their employees with uniforms.|日本的公司通常都會為員工提供製服。|日本の企業はふつう従業員に制服を与える。
 question|n.|問題；詢問；審問|5|問題；質問|a|I need to ask you a silly question.|我必須問你一個蠢問題。|バカな質問があるんだ。
-real|adj.|真的；真實的；實際的；實數|5|リアル；レ|a|Artificial leather can't compare with the real thing.|人造皮革是比不上真皮的。|人造皮革は本物の皮にかなわない。
-right|n.|權利；右邊；正義；正確的|5|権；右|a|You will soon be convinced I am right.|你很快就會相信我是對的了。|遠からず私が正しいと納得しますよ。
+real|adj.|真的；真實的；實際的；實數|5|本当の；実際の|v|Artificial leather can't compare with the real thing.|人造皮革是比不上真皮的。|人造皮革は本物の皮にかなわない。
+right|n.|權利；右邊；正義；正確的|5|右；正しい；権利|v|You will soon be convinced I am right.|你很快就會相信我是對的了。|遠からず私が正しいと納得しますよ。
 room|n.|房間；空位；場所；住宿|5|部屋；室|a|You can eat lunch here in this room.|你可以在這房間吃午飯。|この部屋で昼食をとってもいいですよ。
 run|n.|跑；賽跑；奔跑|5|駆ける；走る|a|Generally speaking, boys can run faster than girls.|一般來說，男生跑得比女生快。|一般に女子よりも男子の方が足が速い。
 service|n.|服務；貢獻；僱傭；保養|5|サービス；勤務|a|The restaurant can't be matched for good service.|這家餐館的服務沒有其它餐館可以比得上。|サービスの点でそのレストランに匹敵するところはない。
@@ -280,7 +280,7 @@ write|v.|書寫；著述；寫|6|書く；著す|a|Do you have a book written in
 yes|adv.|是；同意|6|うん；はい|a|Yes, he's almost as tall as I am.|是的，他幾乎和我一樣高。|ええ、ほとんど私と同じくらいの背丈になっていますよ。
 yet|adv.|還；尚；仍然；然而|6|まだ；もう；けれども|d|You haven't washed your hands yet, have you?|你還沒洗手，不是嗎？|君はまだ手を洗っていませんね。
 young|adj.|年輕的；無經驗的；朝氣蓬勃的；青年們|6|若い；ヤング|a|The job is not suitable for young girls.|這個崗位不合適小姑娘。|その仕事は若い女性には適当ではない。
-able|adj.|能幹的；能夠的|6|有能|a|Enjoy your life while you are able to.|能夠的時候就好好享受人生吧。|できるあいだに人生を楽しみなさい。
+able|adj.|能幹的；能夠的|6|できる；有能な|v|Enjoy your life while you are able to.|能夠的時候就好好享受人生吧。|できるあいだに人生を楽しみなさい。
 across|prep.|越過；穿過；與...相交叉；交叉|6|越し|a|The old man walked across the road carefully.|老人小心翼翼地過了馬路。|その老人は道路を注意深く横断した。
 add|v.|增加；新增；附帶說明；做加法|6|加える；足す|a|How about adding a little bit more salt?|再加點鹽好嗎？|もうちょっと塩味をきかせてみたら？
 age|n.|年齡；老年；成年；變老|6|年齢；年代|a|The difference in their ages is six years.|他們差六歲。|彼らの年齢差は六歳です。
@@ -293,11 +293,11 @@ although|conj.|雖然；儘管|6|のに；ものの|a|Although old, he is still 
 anything|pron.|任何事|6|何にも；何も|a|You are welcome to do anything you like.|您可以做任何您想做的事。|君は勝手に好きな事をしてよろしい。
 appear|v.|出現；顯得；來到|6|現れる|a|She stopped appearing in public after her accident.|發生了那次意外以後，她就沒有再公開露面了。|事故のあと彼女は人前に出ることをやめた。
 art|n.|藝術；人文科學；技術|6|術；芸術|a|That painting is a masterpiece of impressionist art.|那幅畫是印象派的大師級作品。|あの絵画は印象派美術の傑作である。
-behind|adv.|在後地；在...背後|6|後|a|My happy schooldays will soon be behind me.|我快樂的校園時光，很快就要離我而去了。|楽しい学生時代もやがて過ぎ去るでしょう。
+behind|adv.|在後地；在...背後|6|後ろに；遅れて|v|My happy schooldays will soon be behind me.|我快樂的校園時光，很快就要離我而去了。|楽しい学生時代もやがて過ぎ去るでしょう。
 boy|n.|男孩|6|少年；男子|a|He is a clever boy, to be sure.|他確實是個聰明的小孩。|確かに彼は利口な少年だ。
 build|v.|建立；建築；構造；體格|6|建てる；体格|a|The building on the hill is our school.|山上的那棟建築物就是我們的學校了。|その丘の上の建物が私達の学校です。
 buy|v.|買；獲得|6|買う；仕入れる|a|My mother bought two bottles of orange juice.|我母親買了兩瓶橙汁。|私の母はオレンジジュースを二本買った。
-care|n.|小心；照料；憂慮；關心|6|ケア；世話|a|You should take care of your sick mother.|你應該照顧你生病的母親。|病気のお母さんを看てあげなさい。
+care|n.|小心；照料；憂慮；關心|6|世話；注意；気にかける|v|You should take care of your sick mother.|你應該照顧你生病的母親。|病気のお母さんを看てあげなさい。
 centre|n.|中心；中心點；中鋒；中央的|6|センター；中央|a|At this language centre, about 15 international languages are taught, including English.|在這個語言中心，教授約15種國際語言，包括英語。|この語学センターでは、英語をはじめ世界１５か国の外国語が学べる。
 class|n.|班級；階級；種類；分類|6|組；クラス|a|Why did you absent yourself from class yesterday?|你昨天為何逃課？|君はなぜ昨日授業をさぼったのか。
 college|n.|學院；大學；學會|6|カレッジ|a|My brother seems to enjoy himself at college.|我弟弟似乎在大學過得很愉快。|弟は大学生活を楽しんでるみたいよ。
@@ -345,7 +345,7 @@ morning|n.|早晨；早上；初期|7|朝；午前|a|We agreed to start early th
 music|n.|音樂；樂曲|7|音楽；ミュージック|a|I cheered myself up by listening to music.|我藉由聽音樂來鼓舞我自己。|音楽を聞いて気を晴らした。
 offer|n.|給予；出價；提議；提供|7|提供；申し出る|a|He offered his seat to an old woman.|他把座位讓給了一個老婆婆。|彼は老婦人に席をゆずった。
 office|n.|辦公室；部；公職|7|事務所；オフィス|a|Why did you not go to the office?|您為什麼沒去辦公室？|どうして会社に行かなかったの？
-open|n.|公開；戶外；空曠；開著的|7|開く；開ける|a|Open the door and let me in, please.|拜託你開門讓我進來吧。|ドアを開けて中に入れて下さい。
+open|n.|公開；戶外；空曠；開著的|7|開ける；開いている；公開の|v|Open the door and let me in, please.|拜託你開門讓我進來吧。|ドアを開けて中に入れて下さい。
 parent|n.|父母；父母親；根源|7|親|a|Those young men are independent of their parents.|那些年輕人脫離父母獨立。|あの若者達は両親から独立している。
 party|n.|宴會；黨；政黨；舉辦聚會|7|党；パーティー|a|You ought to have come to our party.|你應該到我們的派對的。|君は私たちのパーティーに来るべきだったのに。
 pass|n.|經過；要隘；途徑|7|経つ；峠|a|He was happy to have passed the examination.|他為考試及格感到高興。|その試験に合格し、彼は喜んだ。
@@ -354,7 +354,7 @@ person|n.|人；人身；人稱|7|人；者|a|The king will appear in person tom
 plan|n.|計劃；方案；策略|7|計画；設計|a|Our plans for the summer are taking shape.|我們夏天的計劃成型了。|夏休みの計画が具体化してきた。
 policy|n.|政策；方針；策略|7|方針；施策|a|This measure is in accord with our policy.|這個議案合符我們的政策內容。|この議案は我々の政策に合っている。
 probably|adv.|大概；或許|7|だろう；多分|a|That boy over there is probably Tom's brother.|那邊的那個男孩很可能是湯姆的兄弟。|あそこにいる男の子はトムの弟でしょう。
-programme|n.|節目；節目單；程式；規劃|7|段取り|a|Only a few TV programs are worth watching.|值得觀看的電視節目寥寥無幾。|見るに値するテレビ番組はごくわずかである。
+programme|n.|節目；節目單；程式；規劃|7|番組；プログラム；計画|v|Only a few TV programs are worth watching.|值得觀看的電視節目寥寥無幾。|見るに値するテレビ番組はごくわずかである。
 public|n.|公眾；民眾；公眾的；公共的|7|公共；公的|a|Those records are not accessible to the public.|這些記錄不對公眾開放。|その記録は一般に公開されていない。
 raise|n.|上升；高地；增高；升起|7|上げる；起こす|a|Raise your hand when I call your name.|我叫你的名字的時候，請你把手舉起來。|私が名前を呼んだら手を挙げなさい。
 reach|n.|伸出；延伸；區域；到達|7|届く；及ぶ|a|Communism will never be reached in my lifetime.|在我有生之年，共產主義不可能達到。|私の生きているうちに共産主義が効力を持つことは無いだろう。
@@ -522,7 +522,7 @@ brother|n.|兄弟|10|兄；弟；兄弟|h|My brother seems to enjoy himself at c
 chance|n.|機會；意外；可能性；偶然發生|10|機；機会|a|The chances are he's already heard the news.|他有可能已經得知這訊息。|おそらく彼はその知らせをもう耳にしただろう。
 choice|n.|選擇；精選品；選擇權；精選的|10|選択；チョイス|a|You have the choice of soup or salad.|你有兩種選擇，湯，或沙拉。|スープかサラダのどちらかを選べます。
 church|n.|教堂；禮拜；教會；使人接受宗教儀式|10|教会；チャーチ|a|This is the church where we got married.|這裡是我們結婚的教堂。|ここは私達が結婚した教会です。
-close|n.|結束；完結；靠近的；親近的|10|親しい；密接|a|Our school is very close to the park.|我們學校離公園非常近。|我々の学校は公園のすぐ近くにある。
+close|n.|結束；完結；靠近的；親近的|10|閉じる；近い；親しい|v|Our school is very close to the park.|我們學校離公園非常近。|我々の学校は公園のすぐ近くにある。
 colour|n.|顏色；面色；顏料；把...塗上顏色|10|色；色彩|a|The colour is a bit too dark.|顏色深了些。|色がちょっと濃すぎるね。
 common|adj.|通常的；共同的；通俗的|10|共通；尋常|a|In common with many people he likes holidays.|跟很多人一樣, 他喜歡假期。|多くの人と同じように彼は休日が好きだ。
 condition|n.|情況；條件；使健康；以...為條件|10|条件；具合|a|He does not seem pleased with his condition.|他似乎對自己的狀況不滿意。|彼は自分の境遇をよろこんではいないようです。
@@ -534,14 +534,14 @@ deal|n.|交易；協定；數量；處理|10|取引；協定；扱う|h|I have a
 degree|n.|程度；度數；學位|10|度；程度|a|To what degree are you interested in baseball?|你喜歡棒球到什麼程度？|あなたはどの程度野球に興味があるのですか。
 disease|n.|疾病；弊病|10|疾患；病|a|These measures can prevent the disease from spreading.|這些措施可以預防疾病蔓延。|これらの対策は、その疫病の感染拡大を防止することができます。
 dog|n.|狗；壞蛋；跟蹤；尾隨|10|戌；ワンこ|a|I heard a dog barking in the distance.|我聽到了遠處的狗叫聲。|遠いところで犬が吠えているのが聞こえた。
-drop|n.|滴；微量；落下；放下|10|落とす；ドロップ|a|That boy used to drop in on me.|那男孩兒來訪過我家。|その少年は私をひょっこり訪ねてきたものでした。
+drop|n.|滴；微量；落下；放下|10|落とす；落ちる；しずく|v|That boy used to drop in on me.|那男孩兒來訪過我家。|その少年は私をひょっこり訪ねてきたものでした。
 east|n.|東方；東；東方的；向東的|10|東；東洋|a|The sun always rises in the east.|太陽總是從東方升起。|太陽は常に東から昇る。
 eight|num.|八；八個|10|八；八つ|a|Subtract three from eight and you get five.|八減去三就能得到五。|８から３を引けば５になる。
 energy|n.|精力；精神；活力|10|エネルギー；精力|a|All his energies were devoted to the experiment.|他把全部精力放到實驗中了。|彼の全精力はその実験に捧げられた。
 enter|v.|進入；參加；開始；進去|10|入る；エンター|a|Entering the house, I tripped over the mat.|進家門後，我被墊子絆倒了。|家に上がる時、マットに躓いた。
 fight|n.|打架；爭吵；鬥志；對抗|10|争い；格闘|a|He had plenty of fight left in him.|他的胸中還有足夠的鬥志。|彼にはまだ多くの闘志が残っていた。
 fill|v.|裝滿；填充；瀰漫；充滿|10|満ちる；フィル|a|We were filled with anger against the murderer.|我們對殺人犯感到悲憤填膺。|我々は殺人者に対する怒りで胸一杯になった。
-fine|n.|罰款；罰金；晴天；好的|10|罰金；緻密|a|Will the fine weather keep up till tomorrow?|好天氣能持續到明天嗎？|この天気は明日までもちますか。
+fine|n.|罰款；罰金；晴天；好的|10|素晴らしい；元気な；罰金|v|Will the fine weather keep up till tomorrow?|好天氣能持續到明天嗎？|この天気は明日までもちますか。
 fire|n.|火；爐火；電爐；點燃|11|火；火事|a|The cause of the fire is not known.|起火原因不明。|火事の原因は不明だ。
 floor|n.|地板；樓層；底部；鋪地板|11|床；フロア|a|The toy department is on the fifth floor.|玩具部門在第五層。|おもちゃ売り場は５階です。
 foreign|adj.|外國的；外交的；外省的|11|海外；外来|a|The Foreign Minister said that war was inevitable.|外交部長稱戰爭在所難免。|外相は、戦争は避けられないと言った。
@@ -565,7 +565,7 @@ medical|n.|醫生；體格檢查；醫學的；內科的|11|医学の；医療�
 meeting|n.|會議；會面|11|会；出会い|a|Ask him if he will attend the meeting.|問他會不會來參加會議。|会に出席するかどうか彼に聞きなさい。
 mile|n.|英里；很大距離|11|マイル|a|My house is only a mile from here.|我的家離這裡只有一英里。|わたしの家はここからたった１マイルの所にある。
 myself|pron.|我自己；我親自；我獨自|11|自分；私自身|a|I'd be unhappy, but I wouldn't kill myself.|我會不高興，但我不會自殺。|僕は不幸かも知れないけれど自殺はしない。
-natural|adj.|自然的；自然界的；本能的；白痴|11|当然；当たり前|a|It comes natural to him to speak French.|說法語對他來說很自然。|フランス語を話す彼にとってわけないことだ。
+natural|adj.|自然的；自然界的；本能的；白痴|11|自然な；当然の|v|It comes natural to him to speak French.|說法語對他來說很自然。|フランス語を話す彼にとってわけないことだ。
 nature|n.|自然；大自然；本性|11|性；自然|a|Nature plays an important role in our life.|大自然在我們的生活中扮演著重要的角色。|自然は我々の生活に大切な役割を果たしています。
 near|adj.|近的；近親的；近似的；接近|11|近く；近い|a|I wish I could live near your house.|我希望住在你家附近。|君の家の近くに住めたらいいのに。
 note|n.|筆記；記錄；註解|11|メモ；備考|a|Korean food is noted for its spicy flavor.|韓國菜以辛辣聞名。|韓国料理は、香辛料のきいた味でよく知られている。
@@ -575,7 +575,7 @@ page|n.|頁；記錄；事件；標明...的頁數|11|ページ；小姓|a|Pleas
 past|n.|過去；昔時；往事；過去的|11|過ぎ；過去|a|Air quality has deteriorated these past few years.|這些年空氣質量惡化了。|大気の質は過去数年において悪化した。
 period|n.|時期；節段；節；當時特有的|11|時代；期間|a|The students' lunch period is from twelve to one.|學生的午飯時間是十二點到一點。|学生の昼食時間は１２時から１時までです。
 plant|n.|植物；作物；工廠；種植|11|植物；プラント|a|Many workers were laid off at that plant.|那個工廠開除了很多工人。|その工場では多くの労働者が解雇された。
-poor|adj.|貧窮的；貧乏的；不幸的|11|苦手；かわいそう|a|I'm not ashamed of my father being poor.|我父親很窮並不讓我覺得丟臉。|私は父が貧しいことを恥ずかしいとは思わない。
+poor|adj.|貧窮的；貧乏的；不幸的|11|貧しい；かわいそうな；下手な|v|I'm not ashamed of my father being poor.|我父親很窮並不讓我覺得丟臉。|私は父が貧しいことを恥ずかしいとは思わない。
 population|n.|人口；人口數|11|人口；口数|a|We must not ignore populations suffering under misgovernment.|我們不能忽視暴政之下飽受苦難的人民。|悪政に苦しむ国民を無視するわけにはいけません。
 prepare|v.|準備；籌備；使在思想上有準備；預備|11|設ける|a|It is necessary to prepare for the worst.|必須為最壞的情況作好準備。|最悪の事態に備えることが必要です。
 pretty|adj.|漂亮的；優美的；機靈的；相當|11|綺麗；プリティ|a|She looks pretty no matter what she wears.|她穿甚麼都好看。|あの娘はなにを着てもかわいい。
@@ -629,7 +629,7 @@ camera|n.|照相機；攝影機；密談室|12|カメラ|a|Don't forget to take 
 card|n.|卡片；紙牌；節目單；備置卡片|12|カード|a|"I feel like playing cards." "So do I."|“我想打牌。”“我也是。”|「トランプやりたい」「俺も俺も！」
 chair|n.|椅子；顯要的席位；主席；使入座|12|椅子；議長|a|Unconsciously my mom took hold of the chair.|母親無意中握住了椅子。|お母さんは無意識に椅子をつかんだ。
 check|n.|檢查；支票；阻止物|12|チェック；抑圧|a|I just wanted to check my email.|我只想查一下我的電子郵件。|メールをチェックしたかっただけ。
-cold|n.|感冒；寒冷；寒冷的；冷淡的|12|寒い；風邪|a|You'll soon get accustomed to this cold weather.|你很快就會習慣這種冷天氣。|この寒さもすぐに慣れるって。
+cold|n.|感冒；寒冷；寒冷的；冷淡的|12|寒い；冷たい；風邪|v|You'll soon get accustomed to this cold weather.|你很快就會習慣這種冷天氣。|この寒さもすぐに慣れるって。
 compare|v.|比較；比喻；對照；相比|12|比べる；比する|a|Compared with her sister, she isn't very punctual.|與她的妹妹相比，她不是很準時。|姉さんと比べると、彼女はあまり時間を取らない。
 conference|n.|會議|12|協議；評議|a|The conference is to be held in Tokyo.|會議將在東京舉行。|会議は東京で開かれる予定です。
 dark|n.|黑暗；夜；黃昏；黑暗的|12|暗い；ダーク|a|You should return home before it gets dark.|你應該在天黑之前回家。|君は暗くならないうちに家に帰るべきです。
@@ -648,17 +648,17 @@ fail|v.|失敗；缺乏；中斷；忘記|12|しくじる；あぶれる|a|The t
 fear|n.|恐怖；害怕；擔心|12|恐怖；恐れ|a|He closed the window for fear of rain.|他怕會下雨，所以就把窗關上了。|雨がふるといけないから窓を閉めた。
 feeling|n.|摸；觸覺；知覺；有同情心的|12|感じ；感|a|You should not trifle with his feelings.|你不該玩弄他的感情。|あなたは彼の気持ちを弄んではいけない。
 final|n.|期末考試；結局；決賽；最後的|12|ファイナル；最終的|a|Most students are preparing for the final exams.|大多數學生都在為期末考試複習。|たいていの学生は期末試験の準備をしている。
-finish|n.|完成；結束；末道漆|12|しまう；済む|a|My elder brother finished his homework very quickly.|我哥哥很快就把功課做完了。|私の兄は宿題をさっさと済ませた。
+finish|n.|完成；結束；末道漆|12|終える；終わる；仕上げ|v|My elder brother finished his homework very quickly.|我哥哥很快就把功課做完了。|私の兄は宿題をさっさと済ませた。
 fish|n.|魚；魚肉；魚類；釣|12|魚；釣る|a|If today was Sunday, I would go fishing.|如果今天是星期日，我會去釣魚。|もし今日が日曜日なら、私は釣りにいくのだが。
 fly|n.|蒼蠅；兩翼昆蟲；飛行；飛|12|飛ぶ；はえ|a|An ostrich does not fly through the air.|駝鳥不會在空中飛。|ダチョウは空中を飛ばない。
 forget|v.|忘記；忽略；忘|12|忘れる|a|Don't forget to take a camera with you.|別忘了帶個相機。|カメラを持っていくのを忘れないでください。
-forward|adj.|向前的；早的；迅速的；促進...的生長|12|フォワード；差し出がましい|a|I'm looking forward to hearing from you soon.|我期待您的訊息。|すぐに返事がもらえることを楽しみにしていますね。
+forward|adj.|向前的；早的；迅速的；促進...的生長|12|前へ；前向きの|v|I'm looking forward to hearing from you soon.|我期待您的訊息。|すぐに返事がもらえることを楽しみにしていますね。
 general|n.|一般；將軍；大體；全面的|12|一般；将軍|a|In general, consumers prefer quantity to quality.|一般來說，消費者喜歡數量勝於質量。|一般的に、消費者は質よりも量を選ぶ。
 glass|n.|玻璃；玻璃杯；透鏡；裝玻璃於|12|ガラス；グラス|a|I'd like to have a glass of wine.|請給我一杯酒。|ワインを一杯いただけますか。
 green|n.|綠色；綠色顏料；綠色的；未成熟的|12|緑；グリーン|a|What is that building with the green roof?|那幢綠色屋頂的建築是什麼？|あの緑の屋根の建物は何ですか？
 guess|n.|猜測；臆測|12|推測；憶測|a|I guess I'm never going to get married.|我想我會一輩子單身。|私って絶対に結婚できないと思うんだ。
 gun|n.|槍|13|砲；ガン|a|The policeman aimed his gun at the man.|警察瞄準了那個男人。|警官は拳銃でその男を狙った。
-hang|n.|懸掛；訣竅；意義|13|吊る；下げる|a|Some people were hanging around at the entrance.|有些人在入口處停留。|数人が入口でたむろしていた。
+hang|n.|懸掛；訣竅；意義|13|掛ける；吊るす|v|Some people were hanging around at the entrance.|有些人在入口處停留。|数人が入口でたむろしていた。
 heat|n.|熱；熱度；體溫；加熱|13|熱；熱気|a|How are you keeping off this intense heat?|你是怎麼避開這酷暑的？|猛暑をどうしのいでいますか。
 heavy|adj.|重的；巨大的；沉重的；沉重地|13|重い；ヘビー|a|The train was delayed because of heavy snowfall.|火車因大雪被耽擱了。|大雪のため電車は遅延していた。
 hotel|n.|旅館；客棧|13|ホテル|a|Is there a flower shop in the hotel?|酒店中有花店嗎？|ホテルの中に花屋はありますか。
@@ -675,7 +675,7 @@ leg|n.|腿；假腿；路程；走|13|脚；足；区間|d|I had my leg hurt whi
 machine|n.|機器；機械裝置；機構；以機器製造|13|機械；マシン|a|Someday I will buy a cotton candy machine.|有一天我買了一臺棉花糖機。|いつか、綿菓子をつくる機械を買うんだ。
 magazine|n.|雜誌；倉庫；彈盒|13|誌；雑誌|a|Such magazines have a great influence on children.|這些雜誌對小孩的影響很大。|そのような雑誌は子供に大きな影響を与える。
 main|n.|主要部分；幹線；體力；主要的|13|メイン；主たる|a|Marriage is the main cause of all divorces.|結婚是所有離婚的主要原因。|あらゆる離婚の主たる原因は結婚である。
-manage|v.|管理；控制；維持；處理|13|取り締まる；処す|a|Betty always managed to get what she wanted.|貝蒂總是設法得到她想要的東西。|ベティはほしいと思うものを何とかしていつも手に入れた。
+manage|v.|管理；控制；維持；處理|13|管理する；なんとか〜する|v|Betty always managed to get what she wanted.|貝蒂總是設法得到她想要的東西。|ベティはほしいと思うものを何とかしていつも手に入れた。
 manager|n.|經理；管理員；管理器|13|マネージャー；支配人|a|He is the manager of the marketing department.|他是營銷部的負責人。|彼は営業部の部長です。
 marriage|n.|婚姻；結婚；婚禮|13|結婚；婚姻|a|Marriage is the main cause of all divorces.|結婚是所有離婚的主要原因。|あらゆる離婚の主たる原因は結婚である。
 memory|n.|記憶；記憶力；回憶；記憶體|13|覚え；記憶|a|The picture brought back a lot of memories.|照片使我憶起了很多往事。|その写真はいろいろな思い出をよみがえらせた。
@@ -719,7 +719,7 @@ ten|num.|十；十個|14|十|a|The work requires ten men for ten days.|這個工
 tonight|n.|今晚；今夜|14|今晩；トゥナイト|a|How about going to see a movie tonight?|今晚看電影怎麼樣？|今日の夜、映画を見に行かない？
 trade|n.|貿易；商業；交易；進行交易|14|商売；貿易|a|John likes to trade stamps with his friends.|約翰喜歡和朋友交換郵票。|ジョンは友達と切手を交換するのが好きだ。
 traditional|adj.|傳統的；慣例的|14|旧来；トラッド|a|Sumo is the traditional sport of Japan.|相撲是日本傳統的體育活動。|相撲は日本の伝統的なスポーツです。
-trip|n.|旅行；絆倒；摔倒；使跌倒|14|トリップ；つまずく|a|Round-trip fares to each destination are as follows.|往返各地的收費如下。|各目的地までの往復料金は下記の通りです。
+trip|n.|旅行；絆倒；摔倒；使跌倒|14|旅行；つまずく|v|Round-trip fares to each destination are as follows.|往返各地的收費如下。|各目的地までの往復料金は下記の通りです。
 trouble|n.|煩惱；麻煩；困難；困擾|14|面倒；迷惑|a|Tell me how you got over such troubles?|告訴我你是如果解決這些問題的？|その混乱をどうやって克服したか話して下さい。
 truth|n.|事實；實情|14|本当；真|a|I want you to tell me the truth.|我想要你把真相告訴我。|私には本当のことを話してもらいたい。
 unit|n.|單位；分隊；部隊；單位的|14|単位；ユニット|a|NTT cancelled telephone cards with over 300 units.||ＮＴＴは３００度数以上のテレホンカードを廃止した。
@@ -736,7 +736,7 @@ afternoon|n.|午後；下午|14|午後；アフタヌーン|a|Mummy has to do th
 agreement|n.|同意；合約；協議|14|決め；同意|a|There is not one person who is in agreement with the plan.|贊成計劃的人一個也沒有。|計画に賛成している人は一人もいない。
 alone|adj.|孤獨的；單獨的；獨自的；獨自地|14|単身；一人で|a|I always think of him when I'm alone.|我孤單的時候總會想起他。|ひとりのときは彼のことばかり考えている。
 basic|n.|基本原理；要素；基本規律；基本的|14|基本的な；基礎の；基本|h|I think your basic theory is wrong.|我認為你的基本理論是錯的。|君の基本的な理論はおかしいと思う。
-beat|n.|心跳；打；敲打聲|14|鼓動；ビート|a|It's four against you. You'll be beaten up.|你的對手有四人。你一定會輸的。|相手は４人だ。叩きのめされるぞ。
+beat|n.|心跳；打；敲打聲|14|打つ；鼓動；ビート|v|It's four against you. You'll be beaten up.|你的對手有四人。你一定會輸的。|相手は４人だ。叩きのめされるぞ。
 bird|n.|鳥；羽毛球；打鳥|14|鳥；バード|a|The girl released the birds from the cage.|女孩把鳥兒從籠中放了出來。|その女の子は鳥をかごから逃がしてやった。
 boat|n.|船；乘船|14|ボート；舟艇|a|The boat was tied with a short line.|船被用短繩繫著。|そのボートは短い紐でつながれていた。
 born|adj.|天生的|14|生まれつきの；生まれながらの|h|This is the town where he was born.|這是他出生的城市。|ここが彼の生まれた町です。
@@ -921,7 +921,7 @@ primary|n.|最主要者；原色；主要的；初期的|16|主要な；基本�
 progress|n.|進步；發展；前進|17|進み；進歩|a|In recent years, science has made remarkable progress.|這幾年，科學取得了顯著的進步。|近年科学は目覚しく進歩した。
 promise|n.|諾言；約定的事情；有指望；允諾|17|約束；予言|a|I promised him that I would come today.|我答應他我今天會來。|私は今日来ますと彼に約束しました。
 quarter|n.|四分之一；一刻鐘；季度；四等分|17|四半期；クォーター|a|Corporate earnings in the first quarter improved sharply.|企業第一季度收益大幅增長。|企業収益は第１四半期に大きく改善した。
-quiet|n.|安靜；閒適；平靜；安靜的|17|静か；ひっそり|a|You must keep quiet for a few days.|你該安靜幾天。|数日はおとなしくしていなさいよ。
+quiet|n.|安靜；閒適；平靜；安靜的|17|静かな；静けさ|v|You must keep quiet for a few days.|你該安靜幾天。|数日はおとなしくしていなさいよ。
 rain|n.|雨；下雨；雨天|17|雨；雨が降る|a|It may have rained a little last night.|也許昨晚下了一場雨。|昨日の夜、少し雨が降ったのかもね。
 review|n.|檢討；複習；回顧；溫習|17|レビュー；見直し|a|The movie received mixed reviews.|影片得到的評價褒貶不一。|その映画には賛否両論が出た。
 river|n.|河；江|17|川；リバー|a|We rowed up the river against the current.|我們在河裡劃著船逆流而上。|我々は流れに逆らって川の上流へとこいでいった。
@@ -933,7 +933,7 @@ soft|adj.|軟的；溫和的；柔和的；柔軟的東西|17|ソフト；柔ら
 speed|n.|速率；速度；迅速；加速|17|速度；スピード|a|In towns, speed is limited to 50 km/h.|在市區內，速度被限制在每小時五十公里以內。|町では速度は50キロに制限されています。
 spread|n.|傳播；散佈；伸展；雙唇展開的|17|広がる；伝わる|a|These measures can prevent the disease from spreading.|這些措施可以預防疾病蔓延。|これらの対策は、その疫病の感染拡大を防止することができます。
 supply|n.|補給；供給；供應品|17|供給；補給|a|This dam supplies us with water and electricity.|這個水壩給我們提供水和電。|このダムは水と電力を与えてくれる。
-sweet|n.|甜蜜；糖果；情人；甜的|17|可憐；スイート|a|I can't drink coffee as sweet as this.|我喝不下這麼甜的咖啡。|私はこんな甘いコーヒーは飲めない。
+sweet|n.|甜蜜；糖果；情人；甜的|17|甘い；優しい；お菓子|v|I can't drink coffee as sweet as this.|我喝不下這麼甜的咖啡。|私はこんな甘いコーヒーは飲めない。
 tall|adj.|高的；長的；誇大的；誇大地|17|背が高い；トール|a|Yes, he's almost as tall as I am.|是的，他幾乎和我一樣高。|ええ、ほとんど私と同じくらいの背丈になっていますよ。
 tape|n.|帶子；錄音帶；磁帶；以帶子綁起|17|テープ|a|He erased his speech from the tape.|他把他的那段話從磁帶裡刪除了。|彼はテープから自分の演説を消した。
 theatre|n.|戲院；電影院；劇場|17|劇場|a|Romeo and Juliet is on at the theatre.|羅密歐和朱麗葉正在劇場上演。|「ロミオとジュリエット」が劇場で上演されている。
@@ -974,7 +974,7 @@ cloud|n.|雲；陰暗；煙霧；以雲遮敝|17|雲；曇らせる|a|There isn'
 comfortable|adj.|舒服的；輕鬆的；蓋被|17|ゆったり；心地よい|a|Modern technology has made our lives more comfortable.|現代科學技術讓我們的生活更加舒適。|現代科学技術は私たちの生活をより快適にしてくれている。
 connect|v.|連線；聯合；聯絡|17|つなぐ；つなげる|a|The organization is not connected with any political parties.|這個組織跟任何政黨沒有聯絡。|その団体はどの政党とも関係がありません。
 copy|n.|副本；摹仿；一冊；影印|17|コピー；写し|a|Please make three copies of each page.|請把每一頁影印三份。|１ページにつき、３枚ずつコピーして下さい。
-correct|adj.|正確的；合適的；改正；訂正|17|正す；正則|a|I had my composition corrected by the teacher.|我把我的作文拿給老師訂正。|自分の作文を先生に添削してもらった。
+correct|adj.|正確的；合適的；改正；訂正|17|正しい；訂正する|v|I had my composition corrected by the teacher.|我把我的作文拿給老師訂正。|自分の作文を先生に添削してもらった。
 crazy|adj.|發狂的；狂熱的|17|クレイジー|a|How did you come up with this crazy idea?|你是怎麼想到這麼瘋狂的主意的？|こんな馬鹿げた考えをどうやって思いついたんだ？
 dad|n.|爸爸；爹爹|17|パパ；パパさん|a|When Dad came home, I was watching TV.|爸爸回到家的時候，我正在看電視。|お父さんが帰ってきたとき、私はテレビを見ていた。
 dance|n.|跳舞；舞蹈；舞會|17|ダンス；踊る|a|There's a book about dancing on the desk.|桌子上有一本關於舞蹈的書。|ダンスに関する本が机の上にあります。
@@ -990,8 +990,8 @@ everywhere|adv.|各處；到處|17|随所；いたるところ|a|I've looked eve
 except|v.|除；除外；反對|17|除いて|a|Your composition was good except for the spelling.|你的文章寫得很好，但卻有很多字拼錯了。|君の作文は綴り字以外はよく書けていた。
 expensive|adj.|貴的；奢華的；費用浩大的|17|高価な；高い；費用のかかる|d|I would like a less expensive double room.|我想要更便宜點的雙人間。|あまり高くない２人部屋を予約したいのですが。
 farmer|n.|農夫；農場主|17|農家；農民|a|"Get rid of it, of course!" answered the farmer.|"擺脫它, 當然!" 這個農夫回答。|「もちろん、捨ててくれ」と農家が答えました。
-fat|n.|脂肪；脂油；肥肉；肥的|17|デブ；脂肪|a|That fat girl consumes too much sugary food.|那個胖女孩吃了太多含高糖份的飲食。|その太った女の子は砂糖の多い甘い物を食べ過ぎています。
-fix|v.|使固定；修理；準備；固定|17|一定；期す|a|Why don't you have your motorcycle fixed up?|你為甚麼不把摩托車拿去修理？|オートバイを修理してもらいなさいよ。
+fat|n.|脂肪；脂油；肥肉；肥的|17|太った；脂肪|v|That fat girl consumes too much sugary food.|那個胖女孩吃了太多含高糖份的飲食。|その太った女の子は砂糖の多い甘い物を食べ過ぎています。
+fix|v.|使固定；修理；準備；固定|17|修理する；固定する|v|Why don't you have your motorcycle fixed up?|你為甚麼不把摩托車拿去修理？|オートバイを修理してもらいなさいよ。
 fruit|n.|水果；果類；結果|17|実；フルーツ|a|The tomato is a vegetable, not a fruit.|番茄是蔬菜而不是水果。|トマトは野菜で、果物ではない。
 fun|n.|樂趣；玩笑；娛樂；開玩笑|17|楽しみ；冗談；愉快な|d|He was made fun of by his classmates.|他被同學欺負。|彼は級友からからかわれた。
 funny|adj.|好笑的；有趣的；滑稽的；滑稽人物|17|おかしい；おかしな|a|The movie was less funny than the book.|電影不如原著好看。|その映画は原作ほどおもしろくなかった。
@@ -1002,7 +1002,7 @@ hero|n.|英雄；超越常人者；男主角|18|ヒーロー；英雄|a|I don't 
 hill|n.|小山；丘陵；小土堆；作成土堆|18|丘；小山|a|The building on the hill is our school.|山上的那棟建築物就是我們的學校了。|その丘の上の建物が私達の学校です。
 impossible|adj.|不可能的；難以置信的；令人無法忍受的|18|不可能；不能|a|The question was impossible for us to answer.|我們沒辦法回答這個問題。|その質問は私達には答えられなかった。
 invite|v.|邀請；請求；引起|18|誘う；招く|a|She invited Tom and me to the party.|她邀請我和湯姆去派對。|彼女、トムと僕をパーティーに招待してくれたんだ。
-kick|n.|踢；反衝；後座力|18|キック；蹴る|a|I get a kick out of life.|我為人生感到很開心。|僕は人生を大いに楽しんでいるんだよ。
+kick|n.|踢；反衝；後座力|18|蹴る；キック|v|I get a kick out of life.|我為人生感到很開心。|僕は人生を大いに楽しんでいるんだよ。
 lunch|n.|午餐|18|ランチ；お昼|a|Hurry up, otherwise you'll be late for lunch.|快點，不然你吃午飯就要遲到了。|急がないと昼食に遅れますよ。
 mark|n.|標誌；分數；馬克；做標記於|18|目印；マーク|a|At worst, I will get an average mark.|再不濟我也能拿個平均分。|最悪でも平均点は取れるだろう。
 master|n.|主人；碩士；大師；主人的|18|主；マスター|a|You are the master of your own destiny.|你才是自己命運的主人。|君は君自身の運命の主でもあります。
@@ -1024,7 +1024,7 @@ pilot|n.|飛行員；領航員；航船者；領航|18|パイロット；飛行�
 planet|n.|行星；命運星辰；傑出的人|18|惑星；遊星|a|Scientists can easily compute the distance between planets.|科學家們可以很容易地計算出行星之間的距離。|科学者は惑星間の距離を容易に計算できる。
 pleasure|n.|快樂；愉快；令人高興的事；高興|18|快楽；快|a|The lonely man derives pleasure from observing ants.|那個孤僻的人以觀察螞蟻取樂。|その孤独な男は蟻を観察することに楽しみを感じる。
 pocket|n.|口袋；錢袋；錢；裝...在口袋裡|18|ポケット；衣嚢|a|I don't have any money in my pockets.|我口袋裡沒錢。|ポケットの中にはお金が入っていない。
-repeat|n.|重複；反覆；重做|18|繰り返す；リピート|a|Could you please repeat what you just said?|您可以再重複一遍剛才說的話嗎？|さきほどおっしゃったことを、もう一度お願いできますか。
+repeat|n.|重複；反覆；重做|18|繰り返す；繰り返し|v|Could you please repeat what you just said?|您可以再重複一遍剛才說的話嗎？|さきほどおっしゃったことを、もう一度お願いできますか。
 ring|n.|環；環形物；拳擊場；包圍|18|輪；リング|a|The diamond was set in a gold ring.|鑽石被鑲在一個金戒指上。|ダイアモンドは金の指輪にはめ込まれていた。
 row|n.|排；行；街道；使成排|18|列；こぐ|a|We rowed up the river against the current.|我們在河裡劃著船逆流而上。|我々は流れに逆らって川の上流へとこいでいった。
 salt|n.|鹽；風趣；刺激；含鹽的|18|塩；塩分|a|"Pass me the salt, please." "Here you are."|“請把鹽遞給我。”“拿著。”|「塩を取って下さい」「はい、どうぞ」
@@ -1043,7 +1043,7 @@ storm|n.|暴風雨；騷動；風波；起風|18|嵐；ストーム|a|A big tree
 strange|adj.|奇怪的；陌生的；生疏的|18|変；妙|a|Strange to say, he didn't know the news.|說來奇怪，他不知道這個訊息。|奇妙なことに、彼はそのニュースを知らなかった。
 sugar|n.|糖；糖塊；甜言蜜語；加糖於|18|糖；砂糖|a|There is no sugar left in the pot.|壺裡面沒有砂糖了。|壷には砂糖が残っていない。
 surprise|n.|驚奇；奇襲；詫異；使驚奇|18|驚き；サプライズ|a|The whole neighborhood was surprised at the news.|整個小區對這個訊息很驚訝。|近所の人たちは皆その知らせに驚いた。
-telephone|n.|電話；電話機；打電話|18|電話機；テレホン|a|Please let me know the result by telephone.|請你打電話把結果告訴我。|どうか電話でその結果をお知らせ下さい。
+telephone|n.|電話；電話機；打電話|18|電話；電話をかける|v|Please let me know the result by telephone.|請你打電話把結果告訴我。|どうか電話でその結果をお知らせ下さい。
 temperature|n.|溫度；發燒；熱度|18|気温；温度|a|Milk boils at a higher temperature than water.|牛奶的沸點比水高。|牛乳は水よりも高い温度で沸騰する。
 terrible|adj.|可怕的；令人恐懼的；極壞的|18|すごい；恐ろしい|a|The terrible scene sent shivers down his spine.|恐怖的場面讓了他顫抖。|恐ろしい光景に彼は戦慄した。
 thick|adj.|厚的；粗壯的；濃的；厚地|18|厚い；分厚い|a|She was wearing a thick coat against the chill.|她穿著一件厚外套以防止冷。|彼女は寒気を防ぐために厚いコートを着ていた。
@@ -1055,7 +1055,7 @@ trust|n.|信任；信賴；相信；信託的|18|信頼；信託|a|All you can d
 used|adj.|使用過的；二手的；習慣的|18|中古；ユーズド|a|Miyazaki is not what it used to be.|宮崎不是它往日的樣子了。|宮崎は昔の姿とは違う。
 vegetable|n.|蔬菜；植物；無精打采之人；蔬菜的|18|野菜；ベジタブル|a|The tomato is a vegetable, not a fruit.|番茄是蔬菜而不是水果。|トマトは野菜で、果物ではない。
 visitor|n.|參觀者；遊客；訪客|18|来客；ビジター|a|Living in the country, I have few visitors.|當我住在鄉下的時候，我幾乎沒有訪客。|田舎に住んでいるので、来客はほとんどない。
-wake|v.|叫醒；激發；醒來；醒著|18|覚める；航跡|a|I'd just woken up and was still drowsy.|我那時剛剛起床，還迷迷糊糊的。|目が覚めたばかりで、まだウトウトしてたんだ。
+wake|v.|叫醒；激發；醒來；醒著|18|目覚める；起こす|v|I'd just woken up and was still drowsy.|我那時剛剛起床，還迷迷糊糊的。|目が覚めたばかりで、まだウトウトしてたんだ。
 warn|v.|警告；提醒；通知；發出警告|18|警告する；注意する；知らせる|h|I warned him, but he ignored the warning.|我警告過他，但他不理會警告。|私は彼に警告したが、彼はその警告を無視した。
 weather|n.|天氣；氣象；處境；迎風的|18|天気；気象|a|You'll soon get accustomed to this cold weather.|你很快就會習慣這種冷天氣。|この寒さもすぐに慣れるって。
 wing|n.|翅膀；翼；機翼；給...裝上翼|18|翼；ウイング|a|Speak of angels and you hear their wings.|說到天使，你就聽到他們翅膀揮動的聲音。|噂をすれば影がさす。
@@ -1166,7 +1166,7 @@ toy|n.|玩具；小玩藝兒；小型的東西；供玩耍的|20|おもちゃ；
 twenty|num.|二十；二十個|20|二十；二十個|d|China is twenty times as large as Japan.|中國是日本的20倍大。|中国は日本の２０倍の大きさがあります。
 useful|adj.|有用的；有益的|20|有用|a|This book may well be useful to you.|這本書對你有用。|この本は多分君の役に立つだろう。
 usual|adj.|平常的；通常的|20|通常；普段|a|I went to bed later than usual.|我比平常睡得晚。|普段より遅く寝たんです。
-wash|n.|洗；洗滌；沖洗|20|洗う；ウォッシュ|a|Mummy has to do the washing this afternoon.|媽媽下午要洗衣服。|ママは午後洗濯をしなくてはいけない。
+wash|n.|洗；洗滌；沖洗|20|洗う；洗濯|v|Mummy has to do the washing this afternoon.|媽媽下午要洗衣服。|ママは午後洗濯をしなくてはいけない。
 waste|n.|浪費；廢物；損耗；廢棄的|20|くず；浪費|a|Workaholics view holidays as a waste of time.|在工作狂的眼中，放假就是在浪費時間。|仕事中毒者は休日を時間の無駄とみなす。
 weak|adj.|不牢固的；弱的；虛弱的|20|弱い；脆弱|a|The spirit is willing, but the flesh is weak.|心有餘而力不足。|心熱けれど肉体は弱し。
 wet|n.|溼氣；潮溼；水分；溼的|20|ウェット；濡らす|a|She wiped her wet hair with a towel.|她用毛巾把頭髮抹乾了。|ぬれた髪の毛をタオルで拭いた。
@@ -1199,7 +1199,7 @@ courage|n.|勇氣；膽量|20|勇気；度胸|a|I mustered up my courage and wen
 cousin|n.|堂兄弟姊妹；表兄弟姊妹|20|いとこ；従兄|a|He went to stay with his cousin.|他去和他的表弟待在一起了。|彼はいとこのところへ泊まりに行きました。
 cow|n.|母牛；母獸；威脅|20|雌牛；牛；脅す|d|Cows supply us with many things we need.|牛提供給我們很多需要的東西。|牛は私達に必要なものをたくさん与えてくれる。
 dare|n.|挑戰；挑動；大膽；敢|20|あえて〜する；挑戦；挑む|d|How dare you speak to me like that?|你怎麼敢這麼跟我說話？|よくもまあ私にそんな口がきけるね。
-dear|adj.|親愛的；昂貴的；嚴重的；親愛的人|20|懐かしい；拝啓|a|Living is dear, accordingly we have to economize.||生活費は高い、だから私たちは倹約しなければならない。
+dear|adj.|親愛的；昂貴的；嚴重的；親愛的人|20|親愛なる；高価な|v|Living is dear, accordingly we have to economize.||生活費は高い、だから私たちは倹約しなければならない。
 dialogue|n.|對話|20|対話；ダイアログ|a|Diplomatic dialogue helped put an end to the conflict.|外交談判幫助結束了衝突。|外交対話のおかげでその紛争に終止符を打つ事が出来た。
 dirty|adj.|骯髒的；卑鄙的；弄髒|20|汚い；えげつない|a|I don't want to get my hands dirty.|我不想弄髒我的手。|自分の手を汚すようなことだけはごめんだ。
 dismiss|v.|解散；開除；解職|20|解散させる；解雇する；退ける|d|First of all, we must dismiss the cook.||まず第一に私たちはその料理人を解雇しなければならない。
@@ -1221,7 +1221,7 @@ heaven|n.|天堂；上帝；天空|20|天国；天；神の国|d|God created the
 helpful|adj.|有幫助的；有益的；有用的|20|役に立つ；有益な；助けになる|h|It would be helpful if you could do that for me.|您那樣做的話，可就幫到我了。|そうしていただけると助かります。
 honest|adj.|誠實的；坦直的；可靠的|20|正直；清廉|a|The boy I thought was honest deceived me.|那個我以為誠實的男孩欺騙了我。|正直だと思っていた少年が私をだました。
 hungry|adj.|飢餓的；荒年的；渴望的|20|ハングリー；腹ペコ|a|You can't be hungry. You've just had dinner.|你剛剛才吃過晚飯，不可能餓得這麼快的。|君が空腹であるはずがない。今、夕食を食べたばかりだもの。
-ill|n.|疾病；壞事；罪惡；生病的|20|病気の；悪い；不調な|h|Don't speak ill of others behind their back.|你不應該在背後說別人的壞話。|陰で人の悪口を言ってはいけない。
+ill|n.|疾病；壞事；罪惡；生病的|20|病気の；悪い|v|Don't speak ill of others behind their back.|你不應該在背後說別人的壞話。|陰で人の悪口を言ってはいけない。
 intention|n.|意圖；目的；含義|20|つもり；意思|a|I made known my intentions to my parents.|我把我的意圖告訴了我父母。|私は自分の意図を両親に知らせた。
 introduction|n.|介紹；傳入；採用|20|紹介；導入|a|Mr Gilmore is so well known as to need no introduction.|Gilmore先生如此有名，就不必介紹了。|ギルモアさんは非常に有名だから、紹介する必要がありません。
 invent|v.|發明；創作；虛構|20|発明する；創作する；でっち上げる|d|The telephone was invented in 1876 by Bell.|電話於1876年由貝爾所發明。|電話は１８７６年にベルによって発明された。
@@ -1229,7 +1229,7 @@ jeans|n.|工裝褲；牛仔褲|20|ジーンズ；ジーパン|a|Meg was the only
 joy|n.|歡喜；樂事；高興；使快樂|20|喜び；ジョイ|a|At last, they experienced the joy of victory.|最後，他們感受到了勝利的喜悅。|ついに彼らは勝利の喜びを味わった。
 laboratory|n.|實驗室；研究室；化工廠|20|研究室；実験室|a|This laboratory is equipped with the latest computers.|這個實驗室配備了最新的計算機。|このラボラトリーは最新のコンピューターを整備している。
 license|n.|執照；許可證；特許；許可|20|免許；ライセンス|a|Tom was arrested for driving without a license.|湯姆因無證駕駛而被逮捕。|トムは無免許運転で逮捕された。
-loud|adj.|大聲的；不斷的；喧吵的；高聲地|20|高らか；声高|a|I felt an impulse to cry out loud.|我突然好想大叫。|僕は大声で叫びたい衝動にかられた。
+loud|adj.|大聲的；不斷的；喧吵的；高聲地|20|大声の；うるさい|v|I felt an impulse to cry out loud.|我突然好想大叫。|僕は大声で叫びたい衝動にかられた。
 lovely|adj.|可愛的；有趣的|20|素敵；可愛らしい|a|Look at that lovely house of Mary's.|看看瑪麗那漂亮的房子。|あの美しいメアリーの家をごらんなさい。
 mad|adj.|瘋狂的；發瘋的；生氣的；狂怒|20|怒った；夢中の；狂った|h|He went mad when he heard the story.|他聽到訊息後失去了理智。|彼は話を聞いて激怒した。
 magic|n.|魔術；魔法；魔術的；有魔力的|20|魔法；マジック|a|Magic plays an important part in primitive society.|巫術在原始社會扮演重要角色。|呪術は未開社会においては重要な役割をもつ。
@@ -1292,7 +1292,7 @@ bee|n.|蜜蜂；聚會|21|蜂；ビー|a|You are always as busy as a bee.|你總
 bicycle|n.|腳踏車|21|自転車；チャリ|a|Jack can't afford to buy a new bicycle.|Jack買不起新腳踏車。|ジャックには新しい自転車を買う余裕がない。
 bitter|adj.|苦的；痛苦的；懷恨的；刺骨|21|苦い；辛辣|a|His bitter words still rankle in my mind.|他尖刻的話語仍然在我心中揮之不去。|彼の冷酷な言葉が今でも私の心の中でうずいている。
 brave|adj.|勇敢的；美好的；華麗的；勇敢者|21|勇敢；勇ましい|a|We know him to be a brave man.|我們知道他是個勇敢的人。|彼が勇気ある人として知られている。
-cancel|n.|取消；撤消；蓋銷|21|取り消す；取りやめる|a|We must cancel our trip to Japan.|我們必須取消我們去日本的旅行。|日本旅行は中止しなければいけない。
+cancel|n.|取消；撤消；蓋銷|21|取り消す；キャンセル|v|We must cancel our trip to Japan.|我們必須取消我們去日本的旅行。|日本旅行は中止しなければいけない。
 candle|n.|蠟燭；對著光檢查|21|キャンドル；ろうそく|a|Make a wish and blow out the candles.|許個願，然後吹熄蠟燭吧。|願いごとを言ってロウソクを吹いて消しなさい。
 cheat|n.|欺騙；作弊；騙子|21|だます；不正をする；詐欺師|d|I ask you, he's been cheating me!|什麼意思，他竟然一直在欺騙我！|参ったよ、彼は私をだましていたんだ。
 cheer|n.|愉快；振奮；歡呼|21|歓声；チア|a|I cheered myself up by listening to music.|我藉由聽音樂來鼓舞我自己。|音楽を聞いて気を晴らした。
@@ -1327,7 +1327,7 @@ handsome|adj.|英俊的；大方的；慷慨的|22|ハンサム；端正|a|He is
 headache|n.|頭痛；令人頭痛之事|22|頭痛|a|Tom told us that he had a headache.|湯姆告訴我們他頭疼。|トムは頭痛がすると私たちに言った。
 hers|pron.|她的|22|彼女のもの|h|Nancy ran across an old friend of hers yesterday.|Nancy昨天巧遇了她的一個老朋友。|ナンシーは昨日旧友の一人に偶然会った。
 homework|n.|家庭作業；家裡做的工作|22|宿題|a|I have a lot of homework to do.|我有很多作業要做。|しなくてはならない宿題がたくさんある。
-hurry|n.|匆忙；急忙；急促；急派|22|急ぐ；急かす|a|If you hurry, you'll catch up with him.|你動作快點就能趕上他。|急げば彼に追いつくでしょう。
+hurry|n.|匆忙；急忙；急促；急派|22|急ぐ；急ぎ|v|If you hurry, you'll catch up with him.|你動作快點就能趕上他。|急げば彼に追いつくでしょう。
 invention|n.|發明；創作能力；虛構的故事|22|発明；創製|a|Intel gets a huge royalty from the invention.|英特爾公司由那個發明取得著巨大的專利權收入|インテル社はその発明で膨大な特許料を得ている。
 kilometre|n.|公里；千米|22|キロメートル|d|A thousand metres is a kilometre.||1,000mは1kmです。
 lamp|n.|燈；照亮|22|ランプ；洋灯|a|He hung a lamp from the ceiling.|他把一盞燈掛在了天花板上。|彼は天井からランプをつるした。
@@ -1376,7 +1376,7 @@ sixth|num.|第六；六分之一|22|第六；六分の一|d|June is the sixth mo
 skirt|n.|裙子；下襬；邊緣；位於...邊緣|22|スカート；褄|a|She turned her old dress into a skirt.|她把舊連衣裙換了一條裙子。|彼女は古いドレスをスカートに直した。
 soap|n.|肥皂；阿諛；以肥皂洗|22|ソープ；石鹸|a|This soap is infused with natural fragrances.|這塊肥皂裡新增了天然香料。|この石けんには天然香料が入っている。
 sofa|n.|沙發|22|ソファ|a|We would like to buy a sofa.|我們想買張沙發。|ソファーを買いたいのですが。
-spare|n.|剩餘；備用品；備件；多餘的|22|スペア；惜しむ|a|I spend what time I can spare reading.|我把空閒時間全都花在閱讀上。|出来る限りの時間は読書に費やす。
+spare|n.|剩餘；備用品；備件；多餘的|22|予備の；割く；惜しむ|v|I spend what time I can spare reading.|我把空閒時間全都花在閱讀上。|出来る限りの時間は読書に費やす。
 spell|n.|符咒；魅力；輪值；拼寫|22|綴る；呪文|a|I don't know how to spell the word.|我不知道這個單詞怎麼拼寫。|その単語のスペルがわかりません。
 spoon|n.|匙；調羹；匙形工具；以匙舀起|22|さじ；スプーン|a|The baby cannot use a spoon yet.|寶寶還不會使用勺子。|この赤ん坊はまだスプーンが使えない。
 strict|adj.|嚴厲的；絕對的；詳盡的|22|厳格；厳重|a|It's important to follow a strict diet.|重要的是要遵循嚴格的飲食控制。|食事療法にきちんと従うように。
@@ -1529,7 +1529,7 @@ granny|n.|奶奶；老奶奶；老婆婆|24|ばあちゃん；おばあちゃん
 gymnasium|n.|健身房；體育館|24|体育館；ギムナジウム|a|The money was appropriated for building the gymnasium.||その金は体育館の建設に当てられた。
 handbag|n.|手提包|24|ハンドバッグ；手提げ|a|She had her handbag stolen.|她的手提包被偷了。|彼女はハンドバッグを盗まれた。
 honour|n.|榮譽；頭銜；信用；尊敬|24|光栄；栄誉|a|He is what we call an honour student.||彼はいわゆる優等生だ。
-hotdog|v.|賣弄|24|ホットドッグ；見せびらかす；かっこつける|h|There is a hotdog restaurant next door to the hotel.||ホテルの横にはホットドッグ専門店があるよ。
+hotdog|v.|賣弄|24|ホットドッグ；見せびらかす|v|There is a hotdog restaurant next door to the hotel.||ホテルの横にはホットドッグ専門店があるよ。
 housework|n.|家事；家務|24|家事|a|We agreed to share the housework.|我們同意分擔家務。|私達は、家事を分担することで合意した。
 humorous|adj.|富幽默感的；滑稽的；詼諧的|24|ユーモラス|a|The writer is very humorous.|作家很有幽默感。|その作家はユーモアに富んでいる。
 kilo|n.|千|24|キロ；千|h|How much is the kilo of pineapple?|菠蘿一公斤多少錢？|パイナップルは1キロあたりいくらですか？
@@ -1537,9 +1537,9 @@ kilogram|n.|千克；公斤|24|キログラム|a|I have put on two kilograms thi
 labour|n.|勞動；努力；工作|24|労力|a|They rarely spoke of the labour problem at their workplace.||彼女たちの口から職場の労働問題が出てくることはほとんどなかった。
 lemonade|n.|檸檬水|24|レモネード；レモン水|d|When life gives you lemons, make lemonade.||人生からレモンをもらったら、レモネードを作りなさい。
 madam|n.|女士；夫人|24|マダム|a|May I take your size, madam?||奥様、寸法をお測りしましょう。
-mend|n.|改進；修補；好轉；修改|24|繕う|a|He got his wife to mend his shirt.|他讓他的妻子補好襯衫。|彼は奥さんにシャツを縫ってもらった。
+mend|n.|改進；修補；好轉；修改|24|修理する；修繕する|v|He got his wife to mend his shirt.|他讓他的妻子補好襯衫。|彼は奥さんにシャツを縫ってもらった。
 overcoat|n.|外套大衣|24|オーバー；外套|a|In winter I wear an overcoat.|冬天我穿一件大衣。|冬にはコートを羽織ります。
-pacific|adj.|太平洋的；太平洋沿岸的；愛好和平的；太平洋|24|パシフィック|a|He crossed the Pacific Ocean in thirty days.|他用30天橫渡了太平洋。|彼は三十日で太平洋を渡った。
+pacific|adj.|太平洋的；太平洋沿岸的；愛好和平的；太平洋|24|太平洋の；穏やかな|v|He crossed the Pacific Ocean in thirty days.|他用30天橫渡了太平洋。|彼は三十日で太平洋を渡った。
 panda|n.|大熊貓；小熊貓|24|パンダ|a|Giant pandas live only in China.|大熊貓只住在中國裡。|パンダは中国にしかいません。
 postman|n.|郵遞員|24|郵便配達員|d|The postman delivers letters every morning.|郵遞員每天早上都去送信。|郵便屋さんは毎朝手紙を配達する。
 practise|v.|實踐；實行；練習|24|練習する；実践する|h|She practises the piano every day.|她每天都會練琴。|彼女は毎日ピアノを練習します。
@@ -1555,7 +1555,7 @@ snowy|adj.|多雪的；雪的；被雪所覆蓋著的|24|雪の多い；雪の�
 socks||短襪；襪子；鞋內的襯墊|24|靴下；ソックス|a|The boy went to bed with his socks on.|男孩穿著襪子就上床睡覺了。|その少年は靴下を履いたまま寝た。
 stairs|n.|樓梯|24|階段；階|a|The old lady climbed the stairs with difficulty.|這名老婦艱難地爬上樓梯。|その老婦人はやっとの事で階段を上った。
 thirsty|adj.|口渴的；渴望的；乾燥的|24|喉が渇いた；渇望する|h|I'm not particularly thirsty right now.|我現在不特別渴。|今はそれほど喉は渇いてません。
-tidy|n.|椅子的背罩；裝雜物的容器；整齊的；有條理的|24|整然とした；きちんとした；片付ける|h|That small house was clean and tidy.|小屋乾淨又整潔。|その小さな家は清潔でよく整理されていた。
+tidy|n.|椅子的背罩；裝雜物的容器；整齊的；有條理的|24|きちんとした；片付ける|v|That small house was clean and tidy.|小屋乾淨又整潔。|その小さな家は清潔でよく整理されていた。
 toothache|n.|牙痛|24|歯痛；歯の痛み|d|He often complains that he has a toothache.|他常常抱怨牙痛。|彼はしばしば歯痛を訴える。
 toothbrush|n.|牙刷|25|歯ブラシ|a|This toothbrush is not used by my mother.||この歯ブラシを使っているのは母ではない。
 toothpaste|n.|牙膏|25|歯磨き粉；歯磨き|d|Where can I find toothpaste?|在哪兒我能找到牙膏？|歯磨き粉はどこにありますか？
@@ -1600,7 +1600,7 @@ movement|n.|運動；動作；運轉|25|移動；動き|a|Each movement of the d
 nation|n.|國家；民族|25|国家；国民|d|The President spoke to the nation on TV.|總統在電視上對國民講話。|大統領はテレビで国民に語りかけた。
 occur|v.|發生；被想到；存在|25|起こる|a|A good idea occurred to me last night.|我昨晚想到了一個好點子。|昨日の夜、いいアイディアを思い付いたんだよ。
 official|n.|官員；公務員；職員；公務的|25|公式；公|a|He has gone to Paris on official business.||彼は公用でパリへ行っている。
-oh|int.|哦|25|そっか；いや|a|I'm back! Oh? Have we got a guest?|我回來了！啊？有人來看我們嗎？|ただいま！あら？お客様、見えてるの？
+oh|int.|哦|25|ああ；おや|v|I'm back! Oh? Have we got a guest?|我回來了！啊？有人來看我們嗎？|ただいま！あら？お客様、見えてるの？
 organization|n.|組織；結構；團體|25|組織；編制|a|The organization furnished the refugees with food.|那個團體為難民們提供食品供給。|その団体は難民たちに食物を供給した。
 per|prep.|每一；透過；經|25|〜につき；〜ごとに；〜によって|h|How many books do you read per month?|你一個月讀幾本書？|あなたは１ヶ月に何冊の本を読みますか。
 performance|n.|施行；工作情況；成績|25|パフォーマンス；本番|a|I am not satisfied with my performance today.|我對我今天的表演不滿意。|今日の演奏の出来は私の意にかなったものではない。
@@ -1618,7 +1618,7 @@ relationship|n.|關係；關聯|25|間柄；続柄|a|There is close relationship
 represent|v.|表現；表示；描繪；提出異議|25|表す|a|The blue lines on the map represent rivers.|地圖上的藍線代表河流。|地図上の青い線は川を示す。
 scene|n.|場；情景；鏡頭|25|シーン；場面|a|The beauty of the scene was beyond description.|那裡的景色美得無法以筆墨形容。|その光景は描写できないほど美しかった。
 security|n.|安全；安全性；防護物|25|セキュリティ；担保|a|Social security? Who do they think they're kidding.|社會保障嗎？他們在說什麼笑話？|社会保証がきいてあきれるよ。
-seek|v.|尋求；尋找；探索|25|シーク|a|They went out to Australia seeking gold.|他們為了找到黃金而前往澳大利亞。|彼らは金を求めてオーストラリアへ出かけた。
+seek|v.|尋求；尋找；探索|25|探す；求める|v|They went out to Australia seeking gold.|他們為了找到黃金而前往澳大利亞。|彼らは金を求めてオーストラリアへ出かけた。
 shoot|n.|射擊；狩獵；芽|25|射る；撃つ|a|All at once we heard a shot outside.|我們突然聽見外面傳來了一下槍聲。|突然外で銃声が聞こえた。
 sign|n.|符號；招牌；徵兆；簽名|25|記号；標識|a|The sign means that the answer is correct.|這個符號代表答案正確。|その記号は答えが正しいことを示す。
 simply|adv.|簡單地；只是；簡直|25|単に|a|The whole place was simply blotted out with the snow.|整個地方完全地被雪遮蓋住了。|その辺は全く消えてなくなったようにただ一面の雪だった。
@@ -1628,19 +1628,19 @@ system|n.|系統；體系；制度|25|系；制|a|This system is bristling with 
 tax|n.|稅；稅款；重負；課以稅|25|税金；税|a|He wanted to reduce the tax on imports.|他想要減少進口品的稅。|彼は輸入にかかる税を減らしたかった。
 thus|adv.|如此；因此；到如此程度|25|したがって；このように；ゆえに|h|Am I correct in thinking thus?|我這樣想是對的嗎？|こういうふうに考えてよろしいでしょうか。
 type|n.|型別；樣式；典型；打字|25|型；タイプ|a|I can type 50 words a minute.|我每分鐘能打五十個英文字。|私は１分間５０語タイプできます。
-usually|adv.|通常；大抵|25|常時|a|I usually take a shower in the evening.|我通常在晚上洗澡。|私はたいてい夕方シャワーを浴びます。
+usually|adv.|通常；大抵|25|普段は；通常|v|I usually take a shower in the evening.|我通常在晚上洗澡。|私はたいてい夕方シャワーを浴びます。
 view|n.|視野；風景；見解；看|25|展望；所見|a|Workaholics view holidays as a waste of time.|在工作狂的眼中，放假就是在浪費時間。|仕事中毒者は休日を時間の無駄とみなす。
 within|n.|內部；裡頭；在內部；在內心裡|25|内；以内|a|I live within walking distance of school.|我學校離我家只是幾步路的路程。|学校から徒歩圏内に住んでいます。
-wow|n.|巨大的成功；轟動一時的成功；十分有趣的事物；哇|25|ワウ；あや|a|Wow! It's been a long time.|哇! 好久不見了。|久しぶりです。
+wow|n.|巨大的成功；轟動一時的成功；十分有趣的事物；哇|25|わあ；大成功|v|Wow! It's been a long time.|哇! 好久不見了。|久しぶりです。
 access|n.|通路；入口；接近；訪問|25|アクセス|a|He has access to the American Embassy.|他有權出入美國大使館。|彼はアメリカ大使館に自由に出入りできる。
-account|n.|報告；解釋；估價；報帳|25|口座；記|a|That accounts for why the door was open.|那解釋了為什麼門是開著的。|それでドアが開いていたわけが分かる。
+account|n.|報告；解釋；估價；報帳|25|口座；説明；勘定|v|That accounts for why the door was open.|那解釋了為什麼門是開著的。|それでドアが開いていたわけが分かる。
 actually|adv.|事實上；竟然；如今|25|現に|a|She looks young. But actually, she's over forty.|她看起來是年輕的，但實際上她四十多歲了。|彼女は若く見えるけど実際は４０を超えているんだ。
 admit|v.|承認；接受；允許進入；開向|25|認める；入場を許す|d|I'm afraid he will never admit his guilt.|恐怕他永遠也不會承認自己的罪行。|彼は絶対に自分の罪を認めないだろう。
 adult|n.|成人；成蟲；成年的；成熟的|26|大人；成人|a|Children generally have a higher body temperature than adults.|小孩的體溫一般比大人的要高。|子供は一般に大人よりも体温が高い。
 affect|v.|影響；感動；假裝；自覺感情|26|影響する；感動させる；装う|d|Acid rain in drinking water affects human health.|飲用水中的酸雨影響人類的健康。|飲料水中の酸性雨は人間の健康に影響する。
 agent|n.|代理商；政府代表；動原|26|エージェント|a|Get in touch with your agent right away.|立刻聯絡你的經紀人。|すぐにあなたの代理人に連絡を取りなさい。
 ahead|adj.|領先的；預先的；向前的；領先|26|前方；お先|a|You can't get ahead if you don't work hard.|一分耕耘，一分收穫。|頑張らないと前には進めないんだよ。
-amount|n.|總數；總額；總計；等同|26|分量|a|Your plan requires a large amount of money.|你的計劃需要一大筆錢。|あなたの計画は多額の金を必要とします。
+amount|n.|總數；總額；總計；等同|26|量；金額；合計|v|Your plan requires a large amount of money.|你的計劃需要一大筆錢。|あなたの計画は多額の金を必要とします。
 analysis|n.|分析|26|分析；解析|a|She persists in saying that her analysis is correct.|她堅持認為自己的分析是正確的。|彼女は自分の分析が正しいと言い張る。
 announce|v.|宣佈；聲稱；顯示；當報幕員|26|言い渡す；宣す|a|The butler announced Mr. and Mrs. Smith.|男管家宣佈史密斯先生和夫人駕到。|執事はスミス夫妻の到着を告げた。
 anymore|adv.|再也不；不再|26|もはや〜ない；もう|h|Don't turn up the volume of TV anymore.|不要再調大電視的聲音了。|これ以上テレビの音を大きくしないでくれ。
@@ -1663,19 +1663,19 @@ budget|n.|預算；編預算|26|予算；家計；予算を組む|d|The House cu
 candidate|n.|候選人；投考者|26|候補；候補者|a|He was the strongest candidate for the position.|他是那個職位最有希望的候選人。|彼はその職の最も有力な候補者だった。
 cell|n.|單元；細胞；電池|26|細胞；セル|a|I'm going to buy a cell phone tomorrow.|明天我要買手機了。|明日、携帯買うんだよ。
 challenge|n.|挑戰；盤問；向...挑戰；要求|26|挑戦；相手取る|a|I don't get enough challenge in this job.|這份工作沒什麼挑戰性。|この仕事にはあまりやりがいを感じない。
-character|n.|個性；字元；人物|26|字；キャラ|a|He visited Japan in the character of President.|他以總統的身份訪問了日本。|彼は大統領の資格で訪日した。
-charge|n.|指控；費用；衝鋒；控訴|26|保管；係|a|I am charged with an important mission.|我身負一個重要的任務。|私は重大使命をおびている。
+character|n.|個性；字元；人物|26|性格；登場人物；文字|v|He visited Japan in the character of President.|他以總統的身份訪問了日本。|彼は大統領の資格で訪日した。
+charge|n.|指控；費用；衝鋒；控訴|26|料金；請求する；突撃|v|I am charged with an important mission.|我身負一個重要的任務。|私は重大使命をおびている。
 citizen|n.|市民；公民|26|市民；公民|a|She gave her seat to a senior citizen.|她把她的座位讓給了一個老人。|彼女は老人に席を譲った。
 civil|adj.|市民的；公民的；有禮貌的|26|市民の；民間の；礼儀正しい|h|The novel is centered on the Civil War.|這篇小說的中心點是南北戰爭。|その小説は南北戦争を軸にしている。
 clearly|adv.|清楚地|26|はっきり；くっきり|a|She speaks clearly enough to be easily understood.|她說得足夠清楚明白。|彼女ははっきりとした口調で話すので分かりやすい。
-collection|n.|收集；採集；收藏品|26|集；回収|a|I have a large collection of stamps.|我收集很多郵票。|切手をたくさん集めています。
+collection|n.|收集；採集；收藏品|26|収集；コレクション|v|I have a large collection of stamps.|我收集很多郵票。|切手をたくさん集めています。
 community|n.|社群；公眾；共有|26|コミュニティ；界|a|Do you take part in any community activities?|你參加社團活動嗎？|あなたは、なにか地域社会の活動に参加していますか。
 concept|n.|觀念；概念|26|コンセプト|a|They implemented a communication policy so as to promote their new concept.|他們到位了實行新概念的廣告策略。|彼らは自分たちの新しいコンセプトを広めるためにあるコミュニケーションポリシーを採用した。
 conduct|n.|行為；舉動；指導；為人|26|行い；行為；指揮する|d|One must be responsible for one's conduct.|人要為自己的行為負責。|自分の行為に対しては責任をとらなければならない。
 conflict|n.|戰鬥；衝突；矛盾；爭執|26|葛藤；コンフリクト|a|Diplomatic dialogue helped put an end to the conflict.|外交談判幫助結束了衝突。|外交対話のおかげでその紛争に終止符を打つ事が出来た。
 congress|n.|國會；會議；討論會|26|議会；コングレス|a|He came forward as a candidate for Congress.||彼は議員に自分から進んで立候補した。
 contain|v.|包含；容納；控制；自制|26|含む|a|This book contains the complete works of Shakespeare.|這本書是莎士比亞的作品全集。|この本にはシェークスピアの全作品が載っている。
-credit|n.|信用；信任；榮譽；歸功於|26|掛け；クレジット|a|I'd like to pay with a credit card.|我想用信用卡支付。|クレジットカードで支払いたいのですが。
+credit|n.|信用；信任；榮譽；歸功於|26|信用；クレジット；単位|v|I'd like to pay with a credit card.|我想用信用卡支付。|クレジットカードで支払いたいのですが。
 crime|n.|犯罪；罪行；罪惡|26|犯罪；罪|a|I have nothing to do with that crime.|這個犯罪和我一點關係都沒有。|私はその犯罪とは関係がない。
 current|n.|湧流；趨勢；流；流通的|26|当面；今|a|We rowed up the river against the current.|我們在河裡劃著船逆流而上。|我々は流れに逆らって川の上流へとこいでいった。
 customer|n.|消費者|26|顧客；カスタマー|a|I'm not fond of the customer service industry.|我不喜歡客服業。|接客業は好きじゃないんだ。
@@ -1691,7 +1691,7 @@ economy|n.|經濟；理財；節約|26|経済；エコノミー|a|The town devel
 entire|n.|整個；全部；全體的；完全的|26|全体の；全部の；完全な|h|We spent the entire day on the beach.|我們一整天在沙灘上。|私達は１日中浜辺で過ごした。
 eventually|adv.|最後；終於|26|最終的に；やがて|d|Such secrets are always eventually revealed.|這種秘密總有一天會被揭露的。|そのような内緒事はいつも結局は暴露される。
 exist|v.|存在；生存；發生|26|存在する；生存する|h|I wonder if life exists on other planets.|不知道別的星球上有沒有生物呢？|生命は他の惑星に存在しているのだろうか。
-expert|n.|專家；行家；老練的；內行的|26|博士；玄人|a|The aviation expert analyzed the statistics in detail.|航空專家詳細分析了統計資料。|その航空専門家は統計を詳細に分析した。
+expert|n.|專家；行家；老練的；內行的|26|専門家；熟練した|v|The aviation expert analyzed the statistics in detail.|航空專家詳細分析了統計資料。|その航空専門家は統計を詳細に分析した。
 federal|adj.|聯邦的；聯合的；同盟的|26|連邦の；連合の|h|Americans pay both federal taxes and state taxes.||アメリカ人は連邦税と州税の両方を払っている。
 finally|adv.|最後；終於|26|ついに；ようやく|a|The truth finally came out at his trial.|在他的裁判下，真相終於大白。|彼の裁判で真実がついに明らかになった。
 firm|n.|公司；商號；堅定的；堅強的|26|確固；強固|a|I have a firm belief in his innocence.|我堅信他是無辜的。|わたしは彼の無実を固く信じている。
@@ -1699,7 +1699,7 @@ freedom|n.|自由；坦率；特權|26|自由；フリーダム|a|Freedom of tho
 gain|n.|增益；獲得；利潤；得到|26|ゲイン；利得|a|You gain nothing by speaking ill of others.|透過詆譭別人，你得不到什麼。|人の悪口を言っても何の得にもならない。
 gas|n.|氣體；汽油；瓦斯|26|ガス；気体|a|The gas gives off a strong, unpleasant smell.|這個氣體散發出強烈難聞的氣味。|その気体は強い異臭を放つ。
 generation|n.|一代；一世；產生|26|世代；ジェネレーション|a|My parents' generation went through the war.|我父母那一代經歷過戰爭。|私の両親の世代は戦争を体験していた。
-goods|n.|貨物|26|グッズ；物資|a|I buy the goods at $3 a dozen.|我用三元一打的價錢買了這些東西。|その品物を１ダースにつき３ドルで買う。
+goods|n.|貨物|26|商品；貨物|v|I buy the goods at $3 a dozen.|我用三元一打的價錢買了這些東西。|その品物を１ダースにつき３ドルで買う。
 growth|n.|生長；栽培；增長|26|成長；伸び|a|More money for education will spur economic growth.|更多投資在教育的錢將會刺激經濟成長。|教育にもっとお金をかければ、経済成長に拍車がかかるだろう。
 guy|n.|傢伙；支索；用支索撐住；取笑|26|野郎；ガイ|a|The pizza delivery guy hasn't come by yet.|送比薩的人還沒來。|ピザの宅配の兄ちゃん、まだ来ないんだけど。
 handle|n.|柄；把手；把柄；觸控|26|柄；ハンドル|a|It is difficult for me to handle the case.|我處理這事有困難。|その事件を処理するのは私には難しい。
@@ -1720,7 +1720,7 @@ legal|adj.|法律的；法定的；合法的|27|法的；合法|a|"The accused" 
 loss|n.|損失；遺失；失敗|27|損；ロス|a|He was at a loss for an answer.|他不知道怎麼回答。|彼は返事に困った。
 majority|n.|多數；大半|27|大半；過半数|a|The majority of people marry sooner or later.|大部分人遲早要結婚。|大多数の人々は遅かれ早かれ結婚する。
 means|n.|方法；手段；工具|27|手段；手立て|a|The sign means that the answer is correct.|這個符號代表答案正確。|その記号は答えが正しいことを示す。
-measure|n.|尺寸；量度器；量度標準；測量|27|対策；措置|a|This measure is in accord with our policy.|這個議案合符我們的政策內容。|この議案は我々の政策に合っている。
+measure|n.|尺寸；量度器；量度標準；測量|27|測る；対策；寸法|v|This measure is in accord with our policy.|這個議案合符我們的政策內容。|この議案は我々の政策に合っている。
 military|adj.|軍事的；軍人的；適於戰爭的；軍隊|27|軍事の；軍の；軍隊|d|There is a military base near here.|這附近有一個軍事基地。|この近くに軍の基地がある。
 network|n.|網路；廣播網；網狀物|27|ネット；ネットワーク|a|A massive flood paralyzed the local transportation network.||大洪水がその地域の交通網を麻痺させた。
 nuclear|adj.|核子的；原子能的；核的|27|核の；原子力の|h|Nuclear power plants are dangerous, not to mention nuclear weapons.|核電廠具危險性，更不用說核武器了。|核兵器は言うまでもなく、原子力発電所も危険である。
@@ -1729,7 +1729,7 @@ opinion|n.|意見；評價；主張|27|意見；見解|a|It's on this point that
 opportunity|n.|機會；時機|27|折；ついで|a|You had better make use of the opportunity.|你應該好好利用這個機會。|あなたはその機会をぜひ利用すべきだ。
 pain|n.|痛苦；疼痛；辛苦；使痛苦|27|痛み；苦痛|a|Do you feel any pain in your stomach?|你的胃會痛嗎?|胃が痛みますか。
 painting|n.|畫；繪畫；油漆|27|絵画；画業|a|This is the picture of his own painting.|這是一幅他自己畫的畫。|これは彼自身がかいた絵だ。
-particular|n.|一項；個別專案；詳細說明；特別的|27|格別；さる|a|I have no particular reason to do so.|我沒有特別的理由去做。|私にはそうする特別な理由は何も無い。
+particular|n.|一項；個別專案；詳細說明；特別的|27|特定の；特別な|v|I have no particular reason to do so.|我沒有特別的理由去做。|私にはそうする特別な理由は何も無い。
 partner|n.|合夥人；股東；夥伴；與...合夥|27|パートナー；相棒|a|You and I are good partners in business.||あなたと私は仕事のよきパートナーです。
 pattern|n.|模範；典型；式樣；模仿|27|模様；パターン|a|India ink produces an interesting pattern when used as a dye.|墨汁用作染料時會產生有趣的圖案。|墨を染料として使うと面白い模様ができます。
 perform|v.|進行；履行；完成；行動|27|行う；演る|a|Doctors refused to perform a second operation.|醫生們拒絕做第二次手術。|医師団はもう一度手術を行うのを拒んだ。
@@ -1840,7 +1840,7 @@ complex|n.|綜合體；情結；絡合物；複雜的|28|複雑；コンプレ�
 conclude|v.|結束；作結論；推斷|28|結論づける；終わる；締結する|d|In 1978 a peace treaty was concluded between Japan and China.|1978年中國和日本簽署了和平條約。|１９７８年に日本と中国との間に平和条約が結ばれた。
 conclusion|n.|結論；結尾；推論|28|結論；完結|a|How did you arrive at this conclusion?|你們怎麼得出這個結論的？|どのようにしてこの結論に達したのですか。
 connection|n.|連線；關係；前後關係|28|接続；つながり|a|There is no connection between them.|兩者沒有關聯。|両者の間に関係はない。
-consequence|n.|結果；重要性|28|せい；帰結|a|He wanted to do it, whatever the consequences.|不管結果如何，他想要做。|どんな結果になろうと、彼はそれがやりたかった。
+consequence|n.|結果；重要性|28|結果；重要性|v|He wanted to do it, whatever the consequences.|不管結果如何，他想要做。|どんな結果になろうと、彼はそれがやりたかった。
 construction|n.|建築；構造；建築物|28|建設；建築|a|The first phase of construction has been completed.|工程的第一階段已經完成了。|建設工事の第一段階は終わった。
 consumer|n.|消費者|28|コンシューマー；消費者|a|In general, consumers prefer quantity to quality.|一般來說，消費者喜歡數量勝於質量。|一般的に、消費者は質よりも量を選ぶ。
 contribute|v.|有助於；捐助；投稿；出力|28|資する；資す|a|How do I contribute audio in Tatoeba?|我如何在Tatoeba貢獻音訊?|Tatoebaで音声を提供するにはどうすれば良いですか？
@@ -1949,15 +1949,15 @@ significant|adj.|重要的；有效的；有含義的|29|有意義；有意|a|Bu
 software|n.|軟體|29|ソフトウェア|a|Sixty-four-bit software will not run on 32-bit architecture.|64位的軟體在32位架構的系統上跑不起來。|６４ビットのソフトは３２ビット環境では動かないだろう。
 soul|n.|靈魂；心靈；精神；黑人的|29|魂；霊|a|The man sold his soul to the devil.|這人把靈魂賣給魔鬼。|その男は悪魔に魂を売った。
 stock|n.|樹幹；祖先；血統；存貨的|29|株；在庫|a|He lost a fortune in the stock market.|他玩股票賠了。|彼は株式市場で大損をした。
-straight|n.|直線；直；直的；筆直的|29|ストレート；まっすぐ|a|He drew a straight line on the wall.|他在牆上畫了一條直線。|彼は壁の上に直線を書いた。
+straight|n.|直線；直；直的；筆直的|29|まっすぐな；直接に|v|He drew a straight line on the wall.|他在牆上畫了一條直線。|彼は壁の上に直線を書いた。
 strategy|n.|戰略；策略|29|戦略；策謀|a|Let's take time out to elaborate a strategy.||タイムをとって作戦を練ろう。
 strength|n.|力量；實力；強度|29|力；強度|a|I don't have the strength to keep trying.|我沒力氣繼續嘗試了。|私にはやり続けるだけの強さがない。
 structure|n.|結構；構造；建築物；構成|29|構造；仕組み|a|The structure of the brain is complicated.|頭腦的結構很複雜。|脳の構造は複雑だ。
-struggle|n.|鬥爭；努力；奮鬥|29|争奪；もがく|a|I struggled to get out of the subway.|我掙扎著擠出地鐵。|地下鉄から出るのに私はもがいた。
+struggle|n.|鬥爭；努力；奮鬥|29|奮闘する；もがく；闘争|v|I struggled to get out of the subway.|我掙扎著擠出地鐵。|地下鉄から出るのに私はもがいた。
 studio|n.|工作室；畫室；演播室|29|スタジオ|a|The singer was standing by in the studio.||その歌手は放送室でスタンバイしていた。
-stuff|n.|原料；要素；東西；裝填|30|球威|a|What stuff is this jacket made of?|這外套是什麼材料作的？|この上着はどんな素材で出来ているのですか。
+stuff|n.|原料；要素；東西；裝填|30|物；材料；詰め込む|v|What stuff is this jacket made of?|這外套是什麼材料作的？|この上着はどんな素材で出来ているのですか。
 suddenly|adv.|突然；意外；忽然|30|ふと；突如|a|Suddenly the horse began to run about wildly.|馬突然狂暴地亂跑。|馬が急に暴れ出した。
-suit|n.|套裝；訴訟；請求；適合|30|スーツ；似合う|a|Father always has the tailor make his suits.|父親總是讓這位裁縫師為他做西裝。|父はいつもその洋服屋に服を作ってもらう。
+suit|n.|套裝；訴訟；請求；適合|30|スーツ；合う；訴訟|v|Father always has the tailor make his suits.|父親總是讓這位裁縫師為他做西裝。|父はいつもその洋服屋に服を作ってもらう。
 supreme|n.|至高；霸權；至高的；終極的|30|最高の；最上の；至高の|h|The embassy is located next to the Supreme Court.|大使館就在最高法院旁邊。|大使館は最高裁判所に隣接している。
 surround|v.|包圍；環繞；圍繞；圍繞物|30|取り巻く；囲む|a|The garden was surrounded by a wooden fence.|花園被木柵欄圍了起來。|庭園は木の柵で囲まれていました。
 survive|v.|比...活得長；生存；生還；活下來|30|生き残る；生き延びる|a|If it weren't for water, humans wouldn't survive.|沒有水，人類就活不下去。|水がなければ、人間は生きられない。
@@ -2013,13 +2013,13 @@ characteristic|n.|特性；特徵；特色；特性的|30|特有；固有|a|I go
 circumstance|n.|環境；狀況；事件|30|状況；事情；環境|h|Under the circumstances I cannot allow the request.|在這種情況之下,我不能允許這個要求。|そういう事情なのでその要請は認められない。
 client|n.|客戶；顧客；委託人|30|クライアント|a|The lawyer has a lot of wealthy clients.||その弁護士には金持ちの顧客が多い。
 compete|v.|競爭；對抗|30|競る；争う|a|Only four horses competed in the race.|只有四匹馬參加了比賽。|そのレースで争った馬は４頭だけだった。
-completely|adv.|完全地；十分地；圓滿地|30|一向に；まるっきり|a|My life would be completely empty without you.|如果沒有你，我的人生就會變得空白一片。|君がいなければ私の人生は全くむなしいだろう。
+completely|adv.|完全地；十分地；圓滿地|30|完全に；すっかり|v|My life would be completely empty without you.|如果沒有你，我的人生就會變得空白一片。|君がいなければ私の人生は全くむなしいだろう。
 component|n.|元件；元件；成分；組成的|30|コンポ；コンポーネント|a|The basic components of Chinese characters are called "radicals".|漢字的基本單位稱作「部首」。|
 concerned|adj.|關心的；有關的；參與的|30|心配している；関係する；関わっている|h|People are getting more concerned about the matter.|公眾對這件事越來越關心了。|そのことに対する人々の関心が高まってきている。
 confirm|v.|證實；確定；批准|30|確認する；確かめる；承認する|d|We will confirm your order as follows.|您的訂單確認如下。|ご注文を下記の通り確認します。
-contemporary|n.|同時代的人；同時代的；屬於同一時期的|30|コンテンポラリー|a|The professor is familiar with contemporary literature.||その教授は現代文学に詳しい。
+contemporary|n.|同時代的人；同時代的；屬於同一時期的|30|現代の；同時代の|v|The professor is familiar with contemporary literature.||その教授は現代文学に詳しい。
 content|n.|內容；滿足；意義；滿足的|30|内容；満足した；中身|d|He is not content with his present salary.|他不滿意他現在的工資。|彼は現在の給料に満足していない。
-contract|n.|合約；婚約；契約；使皺縮|30|契約；かかる|a|They made him sign the contract against his will.|他被強迫簽了約。|彼らは彼の意志に反して彼にその契約書に署名させた。
+contract|n.|合約；婚約；契約；使皺縮|30|契約；縮む|v|They made him sign the contract against his will.|他被強迫簽了約。|彼らは彼の意志に反して彼にその契約書に署名させた。
 contribution|n.|捐助；捐助之物；貢獻|30|投稿；貢献|a|He made a voluntary contribution to the school.||彼はその学校に自発的に寄付した。
 convince|v.|說服；使相信|30|納得させる；確信させる|h|You will soon be convinced I am right.|你很快就會相信我是對的了。|遠からず私が正しいと納得しますよ。
 cream|n.|乳酪；奶油；面霜|30|クリーム|a|You shouldn't have eaten so much ice cream.|你不應該吃這麼多冰淇淋。|あんなにたくさんアイス食べちゃ駄目だったんだよ。
@@ -2042,15 +2042,15 @@ due|n.|應得的東西；應付款；到期的；應得的|30|当然の；期限
 effective|adj.|有效的；有力的；實際的；有生力量|30|効果的|a|Patience is sometimes the most effective weapon.|耐心有時候是最有效的武器。|忍耐はもっとも効果的な武器になることがある。
 element|n.|元件；元素；要素|30|要素；素子|a|Iron and oxygen are elements.|鐵和氧都是化學元素。|鉄や酸素は元素である。
 emerge|v.|浮現；形成；出現|30|現れる；浮かび上がる；生じる|d|Five minutes later she emerged from the kitchen.||五分後、彼女は台所から現れた。
-emergency|n.|緊急狀況；緊急事件；緊急需要|30|非常；万一|a|In case of emergency, call the police.|在緊急情況下，打電話報警。|緊急の時は警察へ電話しなさい。
+emergency|n.|緊急狀況；緊急事件；緊急需要|30|緊急事態；非常時|v|In case of emergency, call the police.|在緊急情況下，打電話報警。|緊急の時は警察へ電話しなさい。
 employ|v.|僱用；使用；使從事於|30|雇う|a|The grammatical form employed here is the present progressive.|在這兒使用的語法形式是現在進行時。|ここで使われている文法形式は現在進行形である。
 engage|v.|答應；從事；交戰；使忙碌|30|従事する；雇う；かみ合わせる|d|My son is engaged to his secretary.|我的兒子和他的秘書訂婚了。|私の息子は、彼の秘書と婚約している。
-equal|n.|對手；匹敵；同輩；相等的|30|等しい；均等|a|A mile is equal to about 1,600 meters.|一英里大約是1600米。|１マイルは約１６００メートルにあたる。
+equal|n.|對手；匹敵；同輩；相等的|30|等しい；匹敵する|v|A mile is equal to about 1,600 meters.|一英里大約是1600米。|１マイルは約１６００メートルにあたる。
 escape|n.|逃亡；避難裝置；逃跑；逃脫|30|逃げ；脱出|a|I barely escaped being hit by the truck.|我差點被卡車撞上。|もう少しでトラックにはねられるところだった。
 expectation|n.|期待；指望；展望|30|期待；予想|a|I think Tom's expectations of us are too high.|我覺得湯姆對我們的期待太高了。|トムは僕らに期待しすぎだと思う。
 explanation|n.|解釋；說明；辯解|30|説明；解説|a|The explanation is by no means satisfactory.|這個解釋不是很令人滿意。|その説明は決して満足なものではない。
 expose|v.|使暴露；使曝光；揭穿|30|晒す；ばらす|a|Skin shouldn't be exposed to sunlight for too long.|不要把皮膚長時間暴露在陽光裡。|あまり長い時間肌を太陽にさらしてはいけない。
-extremely|adv.|極端地；非常地|30|めっちゃ；すごく|a|Computers are capable of doing extremely complicated work.|電腦可以做極為複雜的工作。|コンピューターは極めて複雑な仕事をすることが出来る。
+extremely|adv.|極端地；非常地|30|極めて；非常に|v|Computers are capable of doing extremely complicated work.|電腦可以做極為複雜的工作。|コンピューターは極めて複雑な仕事をすることが出来る。
 facility|n.|容易；靈巧；裝置|30|施設；ファシリティ|a|Any member can make use of these facilities.||会員はだれでもこれらの施設を利用できる。
 feature|n.|面孔的一部分；特徵；容貌；是...的特色|30|特徴；特集|a|It's not a bug, it's an undocumented feature.|這不是一個漏洞，而是一個沒有寫進文件的特性。|それはバグじゃなくて、ドキュメント化されてない仕様です。
 fee|n.|費用；小費；封地；付費給|30|料；料金|a|Is it OK to feed my dog lettuce?|我可以餵狗狗吃生菜嗎？|犬にレタスを食べさせても大丈夫でしょうか？
@@ -2058,7 +2058,7 @@ file|n.|檔案；公文箱；資料夾；列隊行進|30|ファイル；やす�
 flow|n.|流程；流動；流量|30|流れ；フロー|a|The immigrants entered the country in a steady flow.|移民川流不息地進入這個國家。|移民は流れを成してその国に入った。
 forever|adv.|永遠|30|いつまでも；末永く|a|A thing of beauty is a joy forever.|凡美的事物就是永恆的喜悅。|美しきものは永遠の喜びなり。
 gay|adj.|歡快的；豔麗的；快樂的|30|陽気な；華やかな；同性愛の|h|And if I were gay, would that be a crime?|如果我是同志那又怎樣？這能構成犯罪嗎？|それと俺がホモだとしたら、罪になるわけ？
-generally|adv.|通常；逐漸地；普遍地|30|だいたい；大概|a|Generally speaking, the climate of Japan is mild.|總體上說，日本的氣候溫和。|一般的に言えば、日本の気候は温暖です。
+generally|adv.|通常；逐漸地；普遍地|30|一般的に；大抵|v|Generally speaking, the climate of Japan is mild.|總體上說，日本的氣候溫和。|一般的に言えば、日本の気候は温暖です。
 global|adj.|通用的；全球的；球形的|30|グローバル|a|Japan's money power has a global reach now.||日本の資金力は今や世界のすみずみに及ぶ。
 golf|n.|高爾夫球；打高爾夫球|30|ゴルフ|a|Can I make a reservation for golf?|我能預定一下打高爾夫球嗎？|ゴルフの予約をお願いします。
 guide|n.|引導者；導遊；指南；指導|30|ガイド；導く|a|This book is a good guide for beginners.|這本書對新手來說是一本很好的手冊。|この本は初心者にとって良い手本となる。
@@ -2074,21 +2074,21 @@ interested|adj.|感興趣的|31|興味を持った；関心のある|h|To what d
 investigation|n.|調查；審查|31|調査；調べ|a|The reporter elaborated on the method of his investigation.|報告者詳盡地說明了他的研究方法。|報告者は自分の研究方法について詳しく述べた。
 journalist|n.|新聞記者；從事新聞雜誌業的人|31|ジャーナリスト|a|My boyfriend is a journalist.|我男朋友是個記者。|私の彼は、ジャーナリストです。
 league|n.|同盟；聯盟；盟約；組聯盟|31|リーグ；連盟|a|Our team has topped the league this season.||今シーズンは我々のチームがリーグで優勝した。
-length|n.|長度；長；期間|31|体長；長短|a|The length of this ship is 30 meters.|這艘船的長度是30米。|この船の長さは３０メートルだ。
+length|n.|長度；長；期間|31|長さ；期間|v|The length of this ship is 30 meters.|這艘船的長度是30米。|この船の長さは３０メートルだ。
 link|n.|環；連結物；連結；連結|31|リンク；一環|a|Don't click on that link.|不要點選那個連結。|そのリンクはクリックしないでください。
 lots|n.|大量；許多；一堆|31|たくさん；多量|d|There are lots of benefits from travelling abroad.|去國外旅行有很多好處。|外国旅行でプラスになることがたくさんあるでしょう。
 manner|n.|樣子；禮貌；風格|31|風；物腰|a|It is bad manners to point at people.|用手指點別人不禮貌。|人を指差すのは無作法だ。
 mass|n.|塊；大多數；質量；群眾的|31|マス；質量|a|Mass production reduced the price of many goods.|大量生產降低許多商品的價格。|大量生産が多くの商品価格を下げた。
 meanwhile|n.|其時；其間；同時；於此時|31|そうこうしているうちに|a|Meanwhile, you can get a little sleep.||それまでの間、少し寝るといいよ。
 merely|adv.|只|31|ただ〜だけ；単に|d|He said it merely as a joke.|他這麼說就是為了開玩笑。|彼は単に冗談としてそれを言った。
-minister|n.|部長；牧師；公使；服侍|31|相；大殿|a|The Foreign Minister said that war was inevitable.|外交部長稱戰爭在所難免。|外相は、戦争は避けられないと言った。
-mix|n.|混合物；混亂；糊塗；使混合|31|溶く；ミックス|a|I don't like to mix business with pleasure.|我不喜歡把生意和快樂混在一起。|仕事と娯楽を混合するのは好きじゃない。
+minister|n.|部長；牧師；公使；服侍|31|大臣；牧師|v|The Foreign Minister said that war was inevitable.|外交部長稱戰爭在所難免。|外相は、戦争は避けられないと言った。
+mix|n.|混合物；混亂；糊塗；使混合|31|混ぜる；混合物|v|I don't like to mix business with pleasure.|我不喜歡把生意和快樂混在一起。|仕事と娯楽を混合するのは好きじゃない。
 mostly|adv.|大概；大部分；主要|31|たいてい；あらかた|a|I mostly have fruit for breakfast.|我早飯主要吃水果。|私はたいてい朝食に果物を食べる。
 musical|n.|音樂片；音樂舞臺劇；音樂的；聲音美妙的|31|ミュージカル|a|Musical talent can be developed if it's properly trained.|如果訓練得當的話，音樂才能是可以培養出來的。|音楽の才能は適切な訓練でのばすことが出来ます。
 narrow|n.|狹窄部分；隘路；狹窄的；仔細的|31|狭い；窮屈|a|The road is too narrow for cars.|這條路太窄汽車無法通行。|その道は車が通るには狭すぎる。
-obvious|adj.|明顯的；明白的；顯然的|31|明白；一目瞭然|a|It was obvious that they had told a lie.|他們分明說了謊。|彼らがうそを言ったということは明白だった。
+obvious|adj.|明顯的；明白的；顯然的|31|明白な；明らかな|v|It was obvious that they had told a lie.|他們分明說了謊。|彼らがうそを言ったということは明白だった。
 obviously|adv.|顯而易見地；明顯地|31|明らかに；見るからに|h|He can speak French, and obviously English.|他能說法語，當然還有英語。|彼はフランス語を話せる、ましてや英語は無論のことだ。
-opening|n.|開始；口子；穴；開始的|31|オープン；開放|a|Excuse me for opening your letter by mistake.|對不起, 我錯開了你的信。|まちがってあなたの手紙を開けてしまってすみません。
+opening|n.|開始；口子；穴；開始的|31|開始；開口部；空き|v|Excuse me for opening your letter by mistake.|對不起, 我錯開了你的信。|まちがってあなたの手紙を開けてしまってすみません。
 oppose|v.|反對；以...對抗；抗爭|31|反対する；対抗する|h|The Catholic Church is opposed to divorce.|天主教教會反對離婚。|カトリック教会は離婚に反対している。
 original|adj.|最初的；原始的；有創意的；原物|31|オリジナル；独自|a|The translation is quite true to the original.|翻譯跟原文很貼切。|その翻訳はまったく原文に忠実である。
 ought|aux.|應該；大概；責任|31|〜すべきである；〜のはずだ|h|You ought to ask for your teacher's permission.|你應該請求你的老師允許。|君は先生の許可を受けるべきだ。
@@ -2099,7 +2099,7 @@ peter|v.|逐漸消失；逐漸減少|31|次第に消える；次第に減る|h|P
 physician|n.|醫師；內科醫師；解除痛苦者|31|医師；内科医|d|The physician prescribed his patient some medicine.|醫生給他的病人開了一些藥。|医者は患者に薬を処方した。
 plus|prep.|加上；加；外加；正的|31|プラス|a|One plus two is equal to three.|一加二等於三。|１足す２は３である。
 politician|n.|政客；政治家；從事黨派政治的人|31|政治家|a|Politicians never tell us their inner thoughts.|政治家從來不告訴我們他們的別有用心。|政治家は決して内心を見せない。
-pour|n.|流出；傾瀉；驟雨；倒|31|さす；注ぐ|a|Refugees poured in from all over the country.|難民從整個國家湧來。|難民が国中からなだれ込んだ。
+pour|n.|流出；傾瀉；驟雨；倒|31|注ぐ；土砂降りになる|v|Refugees poured in from all over the country.|難民從整個國家湧來。|難民が国中からなだれ込んだ。
 prayer|n.|祈禱；懇求；禱辭|31|願；祈り|a|Nothing has resulted from her prayer.||彼女の祈りから何も起こらなかった。
 prefer|v.|寧可；較喜歡；提出|31|〜のほうを好む；〜を選ぶ|h|Our children like dogs, but I prefer cats.|我們的孩子喜歡狗，但我更喜歡貓。|私たちの子供は犬が好きだが、私は猫の方が好きだ。
 presence|n.|出席；面前；存在|31|立会い；臨場感|a|Don't talk about it in my mother's presence.|我媽在的時候別討論這件事。|お母さんがいるところで、その話はしないで。
@@ -2130,7 +2130,7 @@ sharp|n.|半升音調；利刃；騙子；鋒利的|31|シャープ；鋭い|a|A
 sheet|n.|床單；張；紙張；蓋上被單|31|シート；シーツ|a|You are as white as a sheet.|你象紙一樣白.|君、顔面蒼白だよ。
 signal|n.|訊號；暗號；近因；向...作訊號|31|信号；シグナル|a|He gave us the signal to begin.|他給了我們訊號讓我們開始。|彼は私たちに始めるように合図した。
 slightly|adv.|些微地；苗條地|31|ほんのり；うっすら|a|He was slightly injured in a traffic accident.|他在車禍事故中只受了輕傷。|彼は交通事故で軽傷を負った。
-slip|n.|滑；滑行；事故；滑動|31|落ち；スリップ|a|Roger slipped on the ice and hurt his leg.|羅傑在冰上滑倒了，弄傷了腿。|ロジャーは氷で滑って脚に怪我をした。
+slip|n.|滑；滑行；事故；滑動|31|滑る；うっかりミス；伝票|v|Roger slipped on the ice and hurt his leg.|羅傑在冰上滑倒了，弄傷了腿。|ロジャーは氷で滑って脚に怪我をした。
 slowly|adv.|慢慢地；遲緩地|31|ゆっくり；ジワジワ|a|He asked me to speak more slowly.|他要求我講慢一點。|彼は私に、もっとゆっくり話すように言った。
 smith|n.|鐵匠；金屬品工匠|31|鍛冶屋；金属工|d|Mr. and Mrs. Smith are a good match.|史密斯先生和女士是很般配的一對夫妻。|スミス夫妻は似合いの夫婦だ。
 soil|n.|土壤；土地；國家；弄髒|31|土壌；土|a|Nothing seems to grow in this soil.|這個土壤似乎長不出任何東西來。|この土壌では何も育たないように思われる。
@@ -2167,7 +2167,7 @@ accompany|v.|陪伴；伴隨；補充；伴奏|31|伴う；ついていく|a|She
 accomplish|v.|完成；達到；實現|31|果たす；遂げる|a|He is sure to accomplish his purpose.|他很肯定可以達到目標。|彼は必ず目的を達成するだろう。
 ad|n.|廣告|31|アド|a|There are too many ads on YouTube.|YouTube 上的廣告太多了。|ユーチューブには、広告がありすぎだよ。
 adjust|v.|調整；使適應於；校準；適應於|31|調整する；適応させる；合わせる|d|Our eyes take time to adjust to the darkness.|我們的眼睛需要時間來適應黑暗。|我々の目は暗闇に慣れるのに時間がかかる。
-advance|n.|前進；進展；行過的路程|31|進む；進出|a|She finished her work an hour in advance.|她提前一小時完成了工作。|彼女は１時間早く仕事を終えた。
+advance|n.|前進；進展；行過的路程|31|前進する；進歩；事前の|v|She finished her work an hour in advance.|她提前一小時完成了工作。|彼女は１時間早く仕事を終えた。
 agenda||議程；日常工作事項|31|議題；予定表；計画|d|Let's proceed with the items on the agenda.|讓我們繼續進行議程上的專案。|議題に上っている項目の議論を続けましょう。
 album|n.|貼上簿；唱片套|31|アルバム|a|Will you show me your photo album?|你能讓我看看你的相簿嗎？|アルバムを見せてくれませんか。
 alcohol|n.|酒精；酒|31|酒；アルコール|a|Don't drive under the influence of alcohol.|酒後別開車 。|酒気帯び運転をするな。
@@ -2177,7 +2177,7 @@ anger|n.|忿怒；激怒；使發怒|31|怒り；怒気|a|We were filled with an
 anxiety|n.|焦慮；憂慮；令人焦慮的事|31|不安；憂慮|a|He caused his parents a lot of anxiety.|他讓父母很擔心。|彼は両親にいろいろ心配させた。
 apparent|adj.|清晰可見的；顯然的；表面上的|31|明らかな；見かけの|h|Her air of innocence is apparent, not real.||彼女の純真げなそぶりは見せかけで本物ではない。
 approximately|adv.|大約；大致；近於|31|くらい；約|a|This tree is approximately three hundred years old.||この木は樹齢約300年です。
-arrange|v.|安排；排列；達成協議|31|生ける|a|Rocks are beautifully arranged in the Japanese-style garden.|石頭被美麗得放置在日式庭園裡。|その日本庭園には石が見事に配置されている。
+arrange|v.|安排；排列；達成協議|31|手配する；並べる；編曲する|v|Rocks are beautifully arranged in the Japanese-style garden.|石頭被美麗得放置在日式庭園裡。|その日本庭園には石が見事に配置されている。
 arrangement|n.|排列；整齊；安排|31|配置；アレンジ|a|Flower arrangement is a part of Japanese culture.|花道是日本文化的一部分。|生け花は日本の文化です。
 arrest|n.|逮捕；監禁；拘捕；抑制|31|逮捕；検挙|a|Tom was arrested for driving without a licence.|湯姆因無證駕駛而被逮捕。|トムは無免許運転で逮捕された。
 assist|n.|幫助；協助；促進|31|手伝う；援助する|d|I would like you to assist me with my gardening.|我想請你幫我整理花園。|あなたに庭の手入れを手伝って頂きたいのですが。
@@ -2202,7 +2202,7 @@ concentrate|n.|濃縮；精選；集中；專心|32|集中する；濃縮する�
 consideration|n.|考慮；原因|32|検討；考慮|a|We should have taken the schedule into consideration.|我們本該考慮一下行程。|我々は日程を考慮に入れるべきだった。
 consist|v.|組成；存在於；一致|32|〜から成る；〜にある|h|Strictly speaking, Chinese consists of hundreds of dialects.|嚴格來說，中文包含幾百種方言。|厳密に言えば、中国語は何百もの方言から成り立っている。
 consistent|adj.|一致的；堅持的；並立的|32|一貫した；矛盾のない；安定した|h|His daily behavior is not consistent with his principles.|他的日常行為並不和他的原則相一致。|彼の日々の振る舞いは彼の主義主張と合致していない。
-constant|n.|常數；恆量；不變的；一定的|32|不断；コンスタント|a|Constant dripping wears away a stone.|滴水穿石。|雨垂れ石を穿つ。
+constant|n.|常數；恆量；不變的；一定的|32|絶え間ない；一定の；定数|v|Constant dripping wears away a stone.|滴水穿石。|雨垂れ石を穿つ。
 construct|v.|構造；建造；對...進行構思；構成物|32|組み立てる；建設する；構成する|d|I wonder when this building was constructed.|我很好奇那個建築物是什麼時候建造的。|いったいこの建物はいつ建設されたのだろう。
 consultant|n.|顧問；徵詢意見者|32|コンサルタント|a|I work as a web consultant on the side.||副業で、Webコンサルタントの仕事をしています。
 contact|n.|聯絡；交際；熟人；接觸|32|コンタクト；ふれあい|a|Have you been in contact with him recently?|你最近有沒有和他聯絡？|最近彼と連絡をとっていますか。
@@ -2244,7 +2244,7 @@ extent|n.|範圍；程度；區域|32|ほど；範囲|a|To what extent can he be
 fairly|adv.|美觀地；公平地；相當地|32|かなり；公平に；まさに|d|The surface of the object is fairly rough.|這件物件的表面頗為粗糙。|その物体の表面はかなり粗い。
 fellow|n.|男人；朋友；同事；同伴的|32|やつ；同士|a|He is hardly friendly with his fellow workers.|他幾乎不和他的同僚友好相處。|彼は同僚となかなか打ち解けない。
 fully|adv.|十分地；完全地；充分地|32|十分に；完全に|h|I am fully convinced of your innocence.|我完全相信你是清白的。|私は君の無実を十分確信している。
-fundamental|n.|基本原理；原則；基波；基本的|32|基本的；根本的|a|Respect for law is fundamental to our society.|尊重法律是我們社會的基礎。|法の尊重が我々の社会の基本だ。
+fundamental|n.|基本原理；原則；基波；基本的|32|基本的な；根本的な|v|Respect for law is fundamental to our society.|尊重法律是我們社會的基礎。|法の尊重が我々の社会の基本だ。
 generate|v.|產生；發生；導致|32|生み出す；発生させる|h|The machine generates a lot of electricity.|那臺機器可以發很多電。|その機械は大量の電気を発生させる。
 glance|n.|一瞥；閃光；掠過；掃視|32|一目；一瞥|a|At first glance, the question seemed easy.|第一眼看起來，那個問題似乎很容易。|一見したところ、その問題は易しそうにみえた。
 grab|n.|抓握；掠奪；強佔；抓取|32|つかむ；ひったくる；つかみ取る|d|Anybody wanna grab something to eat with me?|有誰想一起去吃飯嗎？|誰か一緒にご飯行かない？
@@ -2254,7 +2254,7 @@ heavily|adv.|很重地；嚴重地；難以忍受地|32|大量に；重く；ひ
 hell|n.|地獄；邪惡勢力；苦境；狂飲|32|ヘル|a|The road to hell is paved with good intentions.|通往地獄的路，都是由善意鋪成的。|地獄への道は善意で敷かれている。
 historical|adj.|歷史的；史實的；歷史上的|32|歴史的|a|The story approximates to historical truth.|故事與歷史真相接近。|その物語は歴史的真実に近い。
 holy|adj.|神聖的；聖潔的；至善的；神聖的東西|32|神聖な；聖なる；清らかな|d|Jerusalem is the Holy City of the Jews.|耶路撒冷是猶太人的聖城。|
-immediate|adj.|立即的；直接的；接近的|32|即座；早急|a|We received an immediate answer to our letter.||手紙の返事はすぐに届いた。
+immediate|adj.|立即的；直接的；接近的|32|即座の；直接の|v|We received an immediate answer to our letter.||手紙の返事はすぐに届いた。
 immigration|n.|移民；移居|32|移民；イミグレーション|a|The German Chancellor is plagued by immigration problems.||ドイツの首相は移民問題に悩まされています。
 increasingly|adv.|逐漸地；漸增地|32|ますます|a|Modern finance is becoming increasingly complicated and sophisticated.||現代の金融は一段と複雑かつ高度になってきている。
 independence|n.|獨立；自立；自主|32|独立；自主|a|India gained independence from Britain in 1947.|印度於1947年脫離英國獲得獨立。|インドは英国から１９４７年に独立した。
@@ -2370,13 +2370,13 @@ champion|n.|冠軍；擁護者；戰士；保衛|33|チャンピオン|a|Everyon
 channel|n.|海峽；航道；頻道；引導|33|チャネル；海峡|a|What is on Channel 10?|第十臺在播甚麼節目？|１０チャンネルは何をやっていますか。
 chart|n.|圖表；海圖；製成圖表|33|チャート；図表|a|This chart illustrates the function of ozone layer.||この図はオゾン層の機能を説明している。
 cheek|n.|頰；厚顏；臉蛋|33|頬；ほっぺた|a|He gave her a peck on the cheek.|他在她的臉上輕輕的親了一下。|彼は彼女の頬にキスをした。
-chemical|n.|化學藥品；化學的；化學上用的|33|ケミカル|a|Once the chemical plant caught fire, it exploded.|化學工廠一著火就爆炸了。|火がつくとすぐに、その化学工場は爆発した。
+chemical|n.|化學藥品；化學的；化學上用的|33|化学の；化学物質|v|Once the chemical plant caught fire, it exploded.|化學工廠一著火就爆炸了。|火がつくとすぐに、その化学工場は爆発した。
 classic|n.|古典作品；傑作；大藝術家；第一流的|33|古典|a|Almost no students get full marks in Chinese classics.|很少有學生能在古漢語考試上拿滿分。|漢文の試験で満点を取る生徒はほとんどいません。
 clothing|n.|衣服|33|衣装；衣料|a|You can't judge a person based on clothing.|不能根據服裝來判斷一個人。|身なりで人を判断することはできない。
 combination|n.|組合；合併；聯合|33|組み合わせ；コンビ|a|Steak and red wine make a good combination.||ステーキと赤ワインはいい取り合わせだ。
 complain|v.|抱怨；抗議；控訴|33|不平を言う；苦情を申し立てる|h|The dog stopped walking, as if to complain.|狗停下了腳步，好像在抗議。|犬は文句を垂れるように歩みを止めた。
 confidence|n.|信心|33|信用；信望|a|Where does all that confidence come from?|哪來那麼大的自信啊？|その自信はどこから来るの？
-confident|adj.|有信心的；有把握的|33|強気|a|I'm confident that you'll succeed.|我肯定你會成功。|僕は君の成功を確信しているよ。
+confident|adj.|有信心的；有把握的|33|自信がある；確信している|v|I'm confident that you'll succeed.|我肯定你會成功。|僕は君の成功を確信しているよ。
 conservation|n.|保護；儲存|33|保護；保全|d|The organization plays a principal role in wildlife conservation.||その団体は野生動物の保護において、最も重要な役割を果たしている。
 conventional|adj.|傳統的；習慣的；約定的|33|従来の；慣習的な；型にはまった|h|Plastics have taken the place of many conventional materials.|塑膠代替了許多傳統的原料。|プラスチックが従来の多くの材料に取って代わった。
 corporation|n.|公司；合作；法人團體|33|法人；コーポレーション|a|Toyota Corporation announced that it would cut 1,000 positions this year.|豐田公司宣佈將會在今年裁員一千人。|トヨタは今年従業員を１０００人削減することを発表した。
@@ -2388,7 +2388,7 @@ definitely|adv.|明確無疑地；清楚地|33|確実に；間違いなく|h|Tha
 depth|n.|深度；深處；深奧|33|深度；奥行き|a|We measured the depth of the river.|我們測量了這條河的深度。|われわれはその川の深さを測った。
 dirt|n.|汙垢；泥土|33|垢；汚れ|a|The children were playing in the dirt.|孩子們在塵土裡遊戲。|子供たちは泥んこの中で遊んでいた。
 disability|n.|無力；無能；殘疾|33|障害；身体の不自由|d|Damn, Jackson! You really have a learning disability!||わあ、ジャクソン！学習障害があるよね！
-disagree|v.|不一致；不適宜|33|もめる|a|They consider it impolite to disagree with someone they don't know very well.|他們認為，去反駁一個不認識的人有些不禮貌。|余りよく知り合っていない人に反対するのは、礼儀正しくないことだと考えるのである。
+disagree|v.|不一致；不適宜|33|反対する；意見が合わない|v|They consider it impolite to disagree with someone they don't know very well.|他們認為，去反駁一個不認識的人有些不禮貌。|余りよく知り合っていない人に反対するのは、礼儀正しくないことだと考えるのである。
 distant|adj.|遠的；疏遠的|33|遠隔；遠|a|We saw the gleam of a distant lighthouse.|我們看到了遠方燈塔的微光。|遠い灯台のかすかな光を見た。
 diverse|adj.|不同的；變化多的|33|多様；多岐|a|The vigorous man is engaged in diverse activities.||その精力的な男は様々な活動に携わっている。
 draft|n.|氣流；草稿；匯票；起草|33|ドラフト；草案|a|I am writing a draft of the speech.|我在寫演講的草稿。|私はスピーチの下書きを書いています。
@@ -2401,7 +2401,7 @@ entrance|n.|入口；進入點；入場；使出神|33|登場；入場|a|I have 
 essay|n.|隨筆；短文；評論；試圖|33|エッセイ；試論|a|All essays must be handed in on time.|所有文章都必須在規定時間內交上來。|すべてのレポートは期限を守って提出されなければならない。
 essential|n.|要素；要點；本質；必要的|33|肝心；本質的|a|Patience is essential for a teacher.|耐心對一個教師來說是必需的。|教師にとって忍耐力は不可欠だ。
 estate|n.|不動產；階段；階層|33|エステート；地所|a|The estate was adjudged to the oldest son.||その土地は長男に与えられた。
-estimate|n.|估計；判斷；評價|33|予算；見当|a|Try to estimate how much you spent on books.|算一算你花了多少錢買書。|どれだけ本に使ったかを、ざっと計算してみてください。
+estimate|n.|估計；判斷；評價|33|見積もる；推定；評価|v|Try to estimate how much you spent on books.|算一算你花了多少錢買書。|どれだけ本に使ったかを、ざっと計算してみてください。
 extraordinary|adj.|非常的；特別的；非凡的|33|破格；非凡|a|It was extraordinary that he did not agree.||彼が同意しなかったのは変だ。
 extreme|n.|極端；末端；極端的；盡頭的|33|過激；極端|a|Young people are apt to go to extremes.|青年人總愛挑戰極端。|若者は極端に走りがちだ。
 fade|v.|褪色；消失；凋謝；使褪色|33|薄れる；褪せる|a|This dress shrank, and what's more it faded.||この服は縮んで、おまけに色褪せてしまった。
@@ -2417,7 +2417,7 @@ frame|n.|框；結構；體格；構成|33|枠；額|a|The frame itself is worth
 frequently|adv.|頻繁；經常地|33|しきりに；しげく|a|She was frequently late for school.|她經常上學遲到。|彼女はよく学校に遅刻した。
 funeral|n.|葬禮；出殯|33|葬儀；葬式|a|A great many people attended his funeral.|很多人都參加了他的葬禮。|彼の葬式には大勢の人が参列した。
 governor|n.|州長；總督；統治者|33|知事；総督；統治者|d|Everybody wished he had been elected governor.|每個人都希望他當選州長。|皆は彼が知事に選ばれればよかったのにと思った。
-grant|n.|授予；授予物；允許|33|付与；叶える|a|We take health for granted until illness intervenes.|我們視健康為理所當然, 直到疾病侵襲。|病気になるまで、我々は健康を当たり前のものだと思っている。
+grant|n.|授予；授予物；允許|33|与える；助成金；認める|v|We take health for granted until illness intervenes.|我們視健康為理所當然, 直到疾病侵襲。|病気になるまで、我々は健康を当たり前のものだと思っている。
 gray|n.|灰色；暗淡；灰色的；灰白的|33|灰色；灰色の；地味な|d|Her hair is streaked with gray.|她的頭髮中夾有白髮。|彼女の髪は白髪まじりだ。
 guarantee|n.|擔保；抵押品；保證書；保證|33|保証；保する|a|A 6% yield is guaranteed on the investment.|這投資保證有 6% 的回報。|その投資には６％の利回りが保証されている。
 highway|n.|公路；大道；捷徑|33|街道；ハイウェイ|a|The accident took place on the highway.|事故發生在高速公路上。|ハイウエイで事故が起きた。
@@ -2438,14 +2438,14 @@ loose|n.|發射；放任；放縱；寬鬆的|33|緩やか；緩い|a|She wore a
 mask|n.|面具；假面具；掩飾；戴面具|33|マスク；仮面|a|The man wore a mask of a tiger.|男人戴了一個老虎面具。|その男はトラの面をかぶっていた。
 massive|adj.|大而重的；寬大的；宏偉的|33|巨大な；大規模な；重厚な|h|This is the most massive structure I've ever seen.|這是我所見過的最大型的構造了。|これは私が見た中で一番どっしりとした建造物です。
 motion|n.|移動；手勢；動作；打手勢|33|動；動議|a|They showed the scene in slow motion.|他們用慢動作把那一幕播了出來。|スローモーションでその場面を見せた。
-necessarily|adv.|必然地；必須地；必要地|33|あながち|a|Large houses are not necessarily comfortable to live in.|大房子不一定適合住。|大きな家が全て住み心地がよいとは限らない。
+necessarily|adv.|必然地；必須地；必要地|33|必ずしも；必然的に|v|Large houses are not necessarily comfortable to live in.|大房子不一定適合住。|大きな家が全て住み心地がよいとは限らない。
 negotiate|v.|商議；談判；交涉；談妥|33|交渉する；話し合う；乗り越える|h|She then proceeded to negotiate with her bank.||それから彼女は銀行との交渉を続けた。
 net|n.|網；網狀物；羅網；淨的|33|網；正味|a|The hunters captured the wild animal with a strong rope net.|獵人們用堅韌的繩網把野生動物捉住了。|ハンター達はその野生動物を丈夫なロープの網で捕まえた。
 onion|n.|洋蔥；因洋蔥使掉淚|33|玉ねぎ；オニオン|a|I grow tomatoes and onions in my garden.|我在花園種了番茄和洋蔥。|庭でトマトと玉ねぎを栽培しています。
 opposition|n.|反對；敵對；相反|33|反対；対抗|a|In the teeth of their strong opposition, we carried out our plan.|雖然受到他們的強烈反對，但我們還是實行了我們的計劃。|彼らの強い反対にあったが、われわれは計画を実行した。
 origin|n.|起源；起因；出身|33|元；始まり|a|What are the origins of the Olympics?|奧林匹克的起源是什麼？|オリンピックの起源は？
 overall|adj.|全部的；全體的；從頭至尾的；從頭到尾|33|全体的；サロペット|a|Relative to overall sales, that of software is insignificant.||売り上げ全体から見れば、ソフトウェアのは重要でない。
-overcome|v.|戰勝；克服；勝過；得勝|33|押し切る|a|You have to overcome the difficulties.|你們要排除萬難。|この難局を乗り切らないといけないんだぞ。
+overcome|v.|戰勝；克服；勝過；得勝|33|克服する；打ち勝つ|v|You have to overcome the difficulties.|你們要排除萬難。|この難局を乗り切らないといけないんだぞ。
 pace|n.|速度；步調；步法；踱步|33|ペース；ピッチ|a|He was walking up the hill at a steady pace.|他邁著穩健的步伐登上了山丘。|彼は着実な歩調で丘を登っていた。
 partly|adv.|部分地；在一定程度上|33|部分的に；一部は|h|The wall is partly covered with ivy.|牆被常青藤覆蓋了一部分。|その壁は部分的につたで覆われている。
 pause|n.|暫停；中止；停頓|33|休止；区切り|a|He spoke for ten minutes without a pause.|他不停頓地說了十分鐘。|彼は息もつかず１０分間話し続けた。
@@ -2456,7 +2456,7 @@ pollution|n.|汙染；玷汙|33|汚染；公害|a|Industrialization often goes h
 port|n.|港口；埠；艙門；左轉舵|33|ポート；左舷|a|Kobe is famous as a port city.|神戶是一個著名的港口城市。|神戸は港市として有名だ。
 possess|v.|持有；佔有；擁有|33|所有する；持つ；取りつく|d|My uncle is possessed of great wealth.|我叔叔擁有很多的財富。|私のおじは莫大な財産を所有している。
 pregnant|adj.|懷孕的；充滿的；思想豐富的|33|妊娠している；意味深い；豊かな|h|How many months have you been pregnant?|你懷孕幾個月了？|妊娠何か月ですか。
-presentation|n.|贈與；描述；介紹|33|提出；提示|a|It was a successful presentation of a play.||成功を収めた劇の上映。
+presentation|n.|贈與；描述；介紹|33|発表；プレゼンテーション；贈呈|v|It was a successful presentation of a play.||成功を収めた劇の上映。
 pretend|v.|假裝；偽稱；自命|33|ふりをする；装う；主張する|d|My brother pretended to be working very hard.|我哥哥假裝工作很努力。|私の兄は熱心に働いてるかのように振る舞った。
 producer|n.|生產者；製作者；製作人|33|プロデューサー；生産者|a|Australia is the world's fifth-largest coal producer.|澳大利亞是世界第五大煤炭產地。|
 profession|n.|職業；表白；宣告|33|職業；専門職；公言|d|Teaching is a profession of my own choosing.|教書是我自己選擇的職業。|教職は私が自分で選んだ職業です。
@@ -2468,9 +2468,9 @@ raw|n.|擦傷處；半成品；生的；未加工的|34|生の；未加工の；
 react|v.|起反應；起作用；反攻|34|反応する；反発する|h|If someone irritates you, it is best not to react immediately.|如果有人激怒你，你最好不要立刻做出反應。|人にいらいらさせられても、すぐに反応しないのが一番です。
 regardless|adj.|不管；不注意；不顧|34|〜にかかわらず；構わず|h|He says what he thinks regardless of other people's feelings.|他說話從來不理別人的感受。|彼は他人の感情にかまわず思っていることを口に出す。
 relevant|adj.|有關聯的；有關係的；適當的|34|関連した；適切な|h|I thought his opinion was relevant.|我認為他的意見很中肯。|彼の意見は適切だと思った。
-remote|adj.|遙遠的；偏僻的；疏遠的|34|リモート|a|The TV remote control is under the couch.|電視遙控器在沙發下面。|ソファーの下にテレビのリモコンがある。
+remote|adj.|遙遠的；偏僻的；疏遠的|34|遠い；遠隔の|v|The TV remote control is under the couch.|電視遙控器在沙發下面。|ソファーの下にテレビのリモコンがある。
 revolution|n.|革命；大變革；旋轉|34|革命；旋回|a|After the revolution, France became a republic.|革命之後，法國成為了一個共和國。|革命後、フランスは共和国になった。
-rough|n.|粗糙的東西；毛坯；未加工品；粗糙的|34|雑；ラフ|a|The surface of the object is fairly rough.|這件物件的表面頗為粗糙。|その物体の表面はかなり粗い。
+rough|n.|粗糙的東西；毛坯；未加工品；粗糙的|34|粗い；大まかな；荒れた|v|The surface of the object is fairly rough.|這件物件的表面頗為粗糙。|その物体の表面はかなり粗い。
 route|n.|路徑；途徑；路線；確定路線|34|ルート；路線|a|Whichever route you take, you will get there in time.|不管你選哪條路，你都能按時到那裡。|あなたがどのルートをとっても、そこに着くのは間に合うでしょう。
 routine|n.|常規；日常工作；慣例；日常的|34|ルーチン|a|Housewives may well complain about their daily routine.||主婦たちが日々の決まり切った仕事に不満を言うのももっともだ。
 satellite|n.|人造衛星|34|衛星；サテライト|a|The moon is the earth's only satellite.|月球是地球唯一的衛星。|月は地球の唯一の衛星である。
@@ -2487,7 +2487,7 @@ sink|n.|藏垢的場所；溝渠；汙水槽；下沉|34|流し；沈む|a|She p
 slave|n.|奴隸；從動裝置；卑鄙的人；拼命工作|34|奴隷；スレーブ|a|I refuse to be treated like a slave by you.|我拒絕被你像奴隸一樣對待。|お前に隷従する気なんかないからな。
 solar|adj.|太陽的；日光的；源自太陽的|34|ソーラー|a|Neptune is the eighth planet of the solar system.|海王星是太陽系第八個行星。|海王星は太陽系の8番目の惑星だ。
 solve|v.|解決；付給；溶解；求解|34|解決する；解く|d|None of the teachers could solve the problem.|這道題目沒有一位老師會做。|どの先生もその問題を解くことができなかった。
-somewhat|n.|某物；幾分；多少|34|幾分|a|With the approach of Christmas, business improved somewhat.|聖誕節快到了，生意也好了點。|クリスマスが近づくにつれて景気はいくらか回復した。
+somewhat|n.|某物；幾分；多少|34|いくぶん；多少|v|With the approach of Christmas, business improved somewhat.|聖誕節快到了，生意也好了點。|クリスマスが近づくにつれて景気はいくらか回復した。
 specialist|n.|專門醫師；專家；專業的；專家的|34|専門医；スペシャリスト|a|The specialist predicts international tension will build up.||その専門家は国際緊張が高まっていくと予測している。
 specifically|adv.|特定地；明確地；按特性|34|特に；具体的に|h|What are you going to do, specifically?||具体的には何すんの。
 spin|n.|旋轉；自旋；疾馳；紡織|34|スピン；紡ぐ|a|What do you think would happen if the earth stopped spinning?|如果地球停止自傳，你認為會發生什麼？|もしも地球の自転が止まったらどうなると思う？
@@ -2560,10 +2560,10 @@ chapter|n.|章；篇；重要章節|34|章；チャプター|a|We'll deal with t
 chef|n.|廚師|34|シェフ；板前|a|A brilliant, seductive chef turns to espionage in Napoleon-era France.|拿破崙時代的法國，魅力誘人的天才廚師搖身一變成為間諜。|ナポレオン時代のフランス、卓越した才能で魅了するシェフがスパイに転じる。
 chip|n.|屑片；薄片；碎片；削|34|欠ける；欠く|a|Help yourself to more potato chips.|隨意多吃點洋芋片吧。|もっとポテトチップスをご自由に召し上がれ。
 civilian|n.|平民；民法專家；平民的；百姓的|34|文民；シビリアン|a|Thousands upon thousands of soldiers and civilians died.|成千上萬計程車兵和市民死去了。|
-closely|adv.|接近地|34|びっしり；親しく|a|We observed this plant closely for a few weeks.|我們密切地關注這家工廠幾個星期了.|私達はその植物を数週間詳しく研究した。
-column|n.|專欄；圓柱；縱隊|34|桁；コラム|a|I found this column interesting.|我發現這個專欄很有趣。|このコラムは面白かった。
+closely|adv.|接近地|34|密接に；注意深く|v|We observed this plant closely for a few weeks.|我們密切地關注這家工廠幾個星期了.|私達はその植物を数週間詳しく研究した。
+column|n.|專欄；圓柱；縱隊|34|列；コラム；円柱|v|I found this column interesting.|我發現這個專欄很有趣。|このコラムは面白かった。
 comedy|n.|喜劇；有趣的事情|34|コメディ；喜劇|a|We were all amused with the comedy.|我們都被這出喜劇逗樂了。|我々は皆その喜劇を楽しんだ。
-comfort|n.|舒適；安慰；安慰者|34|楽；慰める|a|His high salary enabled him to live in comfort.|他的薪金很高，所以生活也過得很舒適。|高給をとっていたので、彼は安楽に暮らすことができた。
+comfort|n.|舒適；安慰；安慰者|34|快適さ；慰める|v|His high salary enabled him to live in comfort.|他的薪金很高，所以生活也過得很舒適。|高給をとっていたので、彼は安楽に暮らすことができた。
 comparison|n.|比較；對照；比喻|34|比較；比べ物|a|The comparison between the two was to his disadvantage.|兩相比較，他那邊的形勢更不利一些。|２人を比較すると彼の方が形勢不利だった。
 competitor|n.|競爭者|34|競争相手；ライバル|d|He is superior to his competitors in everything.||彼は競争相手よりもあらゆる点で優っている。
 concrete|n.|凝結物；混凝土；具體的；實在的|34|コンクリート；具体的|a|Bricks never take the place of ferro-concrete here.||ここでは決して、レンガは鉄筋コンクリートの代わりになりません。
@@ -2575,12 +2575,12 @@ curious|adj.|好奇的；求知的；古怪的|34|好奇心の強い；奇妙な
 custom|n.|習慣；風俗；海關；定製的|34|カスタム；慣習|a|These customs differ from those in our country.|這些習俗和我們國家不同。|これらの慣習は、わが国の慣習と異なる。
 definition|n.|定義；精確度；清晰度|34|定義|a|Above all, scientific terms call for precise definitions.||とりわけ、科学用語には正確な定義が要求される。
 delay|n.|耽擱；遲滯；延遲|34|遅れ；遅延|a|The train was delayed because of heavy snowfall.|火車因大雪被耽擱了。|大雪のため電車は遅延していた。
-desperate|adj.|不顧一切的；危急的；令人絕望的|34|躍起；デスパレート|a|The bishop took pity on the desperate immigrants.||宗教は、自暴自棄になった移民達を哀れんで助けを与えた。
+desperate|adj.|不顧一切的；危急的；令人絕望的|34|必死の；絶望的な|v|The bishop took pity on the desperate immigrants.||宗教は、自暴自棄になった移民達を哀れんで助けを与えた。
 devote|v.|投入於；獻身|34|捧げる；打ち込む|d|All his energies were devoted to the experiment.|他把全部精力放到實驗中了。|彼の全精力はその実験に捧げられた。
 differ|v.|不一致；不同|34|違う；異なる|a|These customs differ from those in our country.|這些習俗和我們國家不同。|これらの慣習は、わが国の慣習と異なる。
 discrimination|n.|差別；岐視；辨別力|34|鑑別；有心|a|He fought against racial discrimination.|他反對種族歧視。|彼は人種差別と戦った。
 display|n.|顯示；陳列；炫耀|34|ディスプレイ；オンパレード|a|When the counter value reaches the assigned 'lucky-number' it displays a congratulatory message.|當計數器的數值達到預設的「幸運號碼」時，就會顯示一則恭喜訊息。|カウンターの値が指定の「キリ番」になったら記念メッセージを表示させます。
-distinction|n.|區別|34|別；差別|a|He makes no distinction between right and wrong.|他是非不分。|
+distinction|n.|區別|34|区別；違い；優秀さ|v|He makes no distinction between right and wrong.|他是非不分。|
 distinguish|v.|區別；辨別|34|見分ける|a|I can't distinguish a frog from a toad.|我無法區分青蛙和蟾蜍。|カエルとヒキガエルの区別が出来ない。
 distribute|v.|分配；散佈；分發|34|配る；分け与える|a|The agenda for the meeting has been distributed.||会議の議題が配布された。
 divorce|n.|離婚；與...離婚|34|離婚；離縁|a|Marriage is the main cause of all divorces.|結婚是所有離婚的主要原因。|あらゆる離婚の主たる原因は結婚である。
@@ -2598,14 +2598,14 @@ extension|n.|延長；擴充；範圍；伸縮的|34|延長；引き伸ばし|a|
 fantasy|n.|幻想；想象的產物|35|ファンタジー；幻想|a|Reality and fantasy are hard to distinguish.|現實和幻想是很難區分的。|現実と幻想を区別するのは難しい。
 fighter|n.|鬥士；戰士；好戰者|35|ファイター；闘士|a|The fire fighters put out the fire.|消防隊員把火撲滅了。|消防士は火事を消した。
 fishing|n.|釣魚；魚業；釣魚的|35|釣り；漁|a|If today was Sunday, I would go fishing.|如果今天是星期日，我會去釣魚。|もし今日が日曜日なら、私は釣りにいくのだが。
-flame|n.|火焰；火舌；熱情；焚燒|35|炎；フレーム|a|Sulfur burns with a blue flame.|硫磺燃燒著藍色的火焰。|硫黄は青い炎を上げて燃える。
+flame|n.|火焰；火舌；熱情；焚燒|35|炎；情熱|v|Sulfur burns with a blue flame.|硫磺燃燒著藍色的火焰。|硫黄は青い炎を上げて燃える。
 flee|v.|逃避；逃跑；逃走；逃|35|逃げる；逃走する|d|God knows where he fled.|沒有人知道他逃到了哪裡。|彼がどこに逃げたのか誰も知らない。
 flesh|n.|肉；肉體；肉慾；以肉喂|35|肉；果肉|a|The spirit is willing, but the flesh is weak.|心有餘而力不足。|心熱けれど肉体は弱し。
 float|n.|漂流物；浮舟；漂浮；浮動|35|浮かぶ；浮く|a|The clouds floating in the sky are beautiful.|天空飄的雲很美。|空に浮かぶ雲が美しい。
 formal|adj.|正式的；形式的；禮儀的；正式的社交活動|35|正式；フォーマル|a|You don't need to prepare a formal speech.|您沒必要準備一個正式的演講。|ちゃんとしたスピーチの準備は必要ありませんよ。
 foundation|n.|基礎；根據；建立|35|基礎；財団|a|The rumor was without foundation.|謠言是毫無根據的。|その噂はなんの根拠もなかった。
 framework|n.|結構；骨架；參照標準|35|枠組み；構造；骨組み|d|Legal frameworks exist to hold war criminals accountable.|法律架構的存在，使戰爭罪犯的責任可以追究。|
-frequent|adj.|時常發生的；頻繁的；快速的；時常來訪|35|頻繁；しきり|a|Fiona's letters were becoming less and less frequent.|Fiona的信件越來越少。|フィオナの手紙は段々と頻度が減っていった。
+frequent|adj.|時常發生的；頻繁的；快速的；時常來訪|35|頻繁な；よくある|v|Fiona's letters were becoming less and less frequent.|Fiona的信件越來越少。|フィオナの手紙は段々と頻度が減っていった。
 gap|n.|縫隙；缺口；間斷；開啟缺口|35|隙；隙間|a|The gap between them has narrowed.|兩人之間的距離已拉近。|両者の溝が狭まった。
 garage|n.|車庫；汽車修理廠；機庫；把車送入修車場|35|ガレージ；車庫|a|I rented a house with a garage.|我租了一間有車庫的房子。|私は車庫付きの家を借りた。
 garlic|n.|大蒜|35|にんにく；ガーリック|a|The food tasted slightly of garlic.|這個食物嚐起來有一點大蒜味。|その食べ物には微かににんにくの風味があった。
@@ -2618,10 +2618,10 @@ heel|n.|腳後跟；踵；後部；尾隨|35|ヒール；かかと|a|She wears h
 helicopter|n.|直升機；由直升機運送|35|ヘリ；ヘリコプター|a|The government transported goods to the island by helicopter.|政府用直升機把物資送到了那個小島。|政府はその島にヘリコプターで物資を輸送した。
 honey|n.|蜂蜜；甜蜜；愛人；蜂蜜似的|35|はちみつ；ハニー|a|Honey in the mouth and poison in the heart.|口中有蜜，心中有毒。|口の中には蜜、心の中には毒。
 housing|n.|遮蓋；住房供給；居留|35|ハウジング|a|The government is not doing its best to solve the housing problem.|政府沒有盡他們最大的努力去處理住房問題。|住宅問題を解決するために、政府が最善を尽くしているとは思えない。
-humour|n.|幽默；詼諧；情緒；使滿足|35|機嫌|a|He has a great sense of humour.|他有很好的幽默感。|彼には素晴らしいユーモアのセンスがある。
+humour|n.|幽默；詼諧；情緒；使滿足|35|ユーモア；機嫌|v|He has a great sense of humour.|他有很好的幽默感。|彼には素晴らしいユーモアのセンスがある。
 hunter|n.|獵人；獵犬；追求者|35|ハンター；狩人|a|Man is the hunter, woman is his game.|男人是獵人而女人就是他的獵物。|男は狩人で、女はその獲物である。
 identification|n.|識別；身份證明；認同|35|身分証明；識別；同一視|d|Do you have your student identification card?|你有學生證嗎？|学生証は持ってる？
-impress|n.|印象；特徵；印記；使有印象|35|印象付ける|a|I was deeply impressed by the scenery.|我被這景色深深迷住了。|その景色は強く私の記憶に残っている。
+impress|n.|印象；特徵；印記；使有印象|35|感動させる；印象づける|v|I was deeply impressed by the scenery.|我被這景色深深迷住了。|その景色は強く私の記憶に残っている。
 initiative|n.|主動行動；首創精神；主動權；自發的|35|主導権；積極性；先導|d|This initiative will be evaluated in the future.||この取り組みについては後年、評価されるだろう。
 jet|n.|噴射流；噴嘴；煤玉；射出|35|ジェット；噴射|a|The jet landed at Tokyo.|這架客機降落在東京了。|ジェット機は東京に着陸した。
 joint|n.|連線處；接合；關節；共同的|35|節；関節|a|My joints ache when it gets cold.|當天氣變冷的時候，我的關節疼痛。|気温が下がると関節が痛むんだ。
@@ -2640,7 +2640,7 @@ nut|n.|堅果；核心；螺帽|35|ナット；堅果|a|The last person I told m
 observation|n.|觀察；注意；觀測|35|観察；観測|a|His observations are sharp, but he doesn't say much.|他的觀察是敏銳的，但他沒有說太多。|彼は観察が鋭いがとても無口だ。
 occasion|n.|場合；時機；機會；惹起|35|際；節|a|On gift-giving occasions, people generally avoid giving money, but there are exceptions.|人們送禮通常都不會送錢，但是也會有例外的情況。|贈り物をする場合に、人々は一般にお金を与えることはしないが、例外もある。
 operator|n.|操作員；行家；經紀人|35|オペレーター；作用素|a|The telephone operator asked the caller to hold on until a connection was made.|電話運營商提示來電人等候接通。|交換手は電話をかけた人に電話がつながるまで待つように言った。
-opponent|n.|對手；敵手；反對者；敵對的|35|敵|a|Our team defeated our opponent 5-4.|我們這隊5-4擊敗對手。|私たちのチームは５対４で相手を負かした。
+opponent|n.|對手；敵手；反對者；敵對的|35|対戦相手；反対者|v|Our team defeated our opponent 5-4.|我們這隊5-4擊敗對手。|私たちのチームは５対４で相手を負かした。
 overlook|v.|俯瞰；遠眺；沒注意到；眺望|35|見下ろす；見落とす|a|This kind of mistake is easy to overlook.|這種錯誤很容易被人忽視。|この手のミスは見過ごされがちだ。
 owe|v.|虧欠；負...債；歸功於；欠錢|35|借りがある；負っている；〜のおかげ|h|Many flights were canceled, owing to the typhoon.|由於颱風原因，很多航班被取消了。|台風のために多くの飛行機の便がとりやめられた。
 painful|adj.|痛苦的；困難的；令人煩惱的|35|痛い；つらい|a|Bee stings can be very painful.|蜜蜂螫人可以是非常痛苦的。|蜂に刺されるととても痛い。
@@ -2720,7 +2720,7 @@ apologize|v.|道歉；辯解|35|謝る；詫びる|a|You must apologize to her f
 architect|n.|建築師；設計者；締造者|35|建築家；アーキテクト|a|Despite adversity, the architect achieved worldwide fame.|儘管有逆境，建築師還是獲得了享譽全球的榮譽。|逆境にもかかわらず、その建築家は世界的名声を獲得した。
 architecture|n.|建築學；建築式樣|35|アーキテクチャ；建築学|a|Sixty-four-bit software will not run on 32-bit architecture.|64位的軟體在32位架構的系統上跑不起來。|６４ビットのソフトは３２ビット環境では動かないだろう。
 astronomer|n.|天文學家|35|天文学者|d|J. Kepler, astronomer and mathematician, made a study of planets and their movements.||天文学者で数学者であった、J.ケプラーは、惑星とその運動についての研究をした。
-attraction|n.|吸引；吸引人的事物；吸引力|35|誘致；アトラクション|a|Do you feel any attraction for this book?||この本に何か魅力感じますか。
+attraction|n.|吸引；吸引人的事物；吸引力|35|魅力；アトラクション|v|Do you feel any attraction for this book?||この本に何か魅力感じますか。
 bare|adj.|赤裸的；缺少的；無遮蔽的；使赤裸|35|裸の；むき出しの；空の|h|It's hard to catch a rabbit with your bare hands.|徒手逮兔挺難。|ウサギを素手で捕まえるのは難しいよ。
 basement|n.|地下室；牆腳|35|地下室；基礎|d|The burglar locked the couple in the basement.||強盗は夫婦を地下室にとじこめた。
 bat|n.|蝙蝠；球棒；用球棒打；眨眼|35|バット；こうもり|a|No wonder we associate bats with dark places.|難怪我們會把蝙蝠和黑暗的地方聯想在一起了。|私たちがこうもりを暗い場所と結び付けるのも当たり前だ。
@@ -2760,7 +2760,7 @@ decrease|n.|減少；減少量|36|減少；減る|a|This medicine will decrease 
 defeat|n.|敗北；失敗；擊敗；使落空|36|負け；敗北|a|Every team, without exception, was defeated.|每個隊都無一例外地被打敗了。|どのチームも例外なく打ち負かされた。
 delicate|adj.|細緻優雅的；微妙的；美味的|36|繊細な；微妙な；華奢な|h|He was a weak and delicate child.|他以前是個柔弱的小孩。|彼は体の弱い子供だった。
 detective|n.|偵探；偵探的|36|刑事；探偵|a|He suddenly took a liking to detective stories.|他突然喜歡上了偵探小說。|彼は突然探偵小説が好きになった。
-discipline|n.|訓練；紀律；懲罰|36|懲戒；しつけ|a|School discipline is not as it should be.||学校の規律が乱れている。
+discipline|n.|訓練；紀律；懲罰|36|規律；しつけ；分野|v|School discipline is not as it should be.||学校の規律が乱れている。
 distribution|n.|分配|36|配信；配布|a|There is little, if any, of such distribution of control.||そのような分配された支配はほとんど存在しない。
 dominate|v.|支配；佔優勢|36|支配する；優位に立つ；見下ろす|d|Some people say Japan is a male-dominated society.|有些人說日本是個男性統治的社會。|
 drunk|adj.|喝醉了的|36|酔った；酔っ払い|d|He must have drunk too much last night.|他昨晚一定是喝多了。|彼はゆうべ飲みすぎたに違いありません。
@@ -2813,7 +2813,7 @@ maximum|n.|極點；最大量；極大；最高的|36|最大限；極度|a|This 
 medal|n.|獎牌；勳章；授勳予|36|メダル；記章|a|He's been awarded a gold medal once.|他曾經被授予金牌。|彼はいちど金メダルをもらったことがある。
 mess|n.|食堂；伙食；用膳；將...弄糟|36|食堂；混乱；散らかす|h|My brother's room is always a mess.|我弟弟的房間總是很亂。|弟の部屋はいつも雑然としている。
 midnight|n.|午夜；子夜；半夜；午夜的|36|ミッドナイト；正子|a|During summer breaks, I ate dinner at midnight.|暑假裡，我半夜十二點才吃晚飯。|夏休みの間、私は夜中に夕食を食べていた。
-mike|v.|偷懶；遊手好閒；休息|36|マイク|a|Mike is the only man on the board.|Mike是董事會里唯一的男性。|マイクはその委員会で唯ひとりの男性です。
+mike|v.|偷懶；遊手好閒；休息|36|マイク；サボる|v|Mike is the only man on the board.|Mike是董事會里唯一的男性。|マイクはその委員会で唯ひとりの男性です。
 minimum|adj.|最小的；最低的；最小值|36|最低限；最小限|a|What's the minimum wage in your country?|你的國家的最低工資是多少？|あなたの国の最低賃金はいくらですか？
 mood|n.|心情；氣氛；生氣|36|ムード；気色|a|She sometimes goes into a mood of depression.|她有時變得心情抑鬱。|彼女は憂鬱状態になることがある。
 moreover|adv.|而且；此外|36|しかも；その上で|a|The house looked good; moreover, the price was right.|屋子物美價廉。|家はかなりにみえたし、しかも値段が手頃だった。
@@ -2848,7 +2848,7 @@ rebuild|v.|改建；重建；改造|36|再建する；作り直す|d|The castle,
 receiver|n.|接收器；接受者；收信機|36|レシーバー；受話器|a|I put the receiver to my ear.|我把聽筒放到了耳邊。|私は受話器を耳に当てた。
 recognition|n.|讚譽；認得；識別|36|認識；承認|a|She gave me a smile of recognition.|她給了我一個認可的微笑。|私だとわかって彼女はにっこりとした。
 reduction|n.|減少；縮影；變化|36|縮小；引き下げ|a|He advocated the reduction of taxes.|他提倡減稅。|彼は減税を唱えた。
-reliable|adj.|可靠的；可信賴的|36|頼もしい|a|The weather forecast is not reliable at all.|天氣預報一點也不可靠。|天気予報はまったく当てにならない。
+reliable|adj.|可靠的；可信賴的|36|信頼できる；頼りになる|v|The weather forecast is not reliable at all.|天氣預報一點也不可靠。|天気予報はまったく当てにならない。
 remark|n.|評論；注意|36|発言；言及；注目する|d|The beginning of the trouble was his careless remark.|麻煩的開頭是他草率的評論。|事の発端は彼の不注意な発言だった。
 rent|n.|租金；房租；出租物；租用|36|家賃；賃料|a|You should pay your rent in advance.|你應該提前付租金。|君は部屋代を前もって払うべきだ。
 republic|n.|共和國；共和政體；團體|36|共和国；リパブリック|a|After the revolution, France became a republic.|革命之後，法國成為了一個共和國。|革命後、フランスは共和国になった。
@@ -2864,13 +2864,13 @@ sigh|n.|嘆息；渴望|36|ため息；嘆息|a|When she heard the news, she sig
 signature|n.|簽字；識別標誌；調號|36|署名；調印|a|I attached my signature to the document.|我簽署了檔案。|私は書類に署名した。
 slice|n.|薄的切片；一部分；菜刀；切成薄片|37|スライス|a|Will you have another slice of pie?|你要再來一塊餡餅嗎？|パイをもう一ついかがですか。
 soccer|n.|英式足球|37|サッカー|a|Soccer is the most popular of all sports.|足球是所有體育運動中最受歡迎的。|サッカーはすべてのスポーツの中で一番人気がある。
-southeast|n.|東南；東南地區；東南的；向東南的|37|南東；辰巳|a|South-southeast is the lucky direction of the year.||今年の恵方は南南東です。
-southwest|n.|西南；西南方；西南地區；西南的|37|南西；未申|a|||
+southeast|n.|東南；東南地區；東南的；向東南的|37|南東；南東の|v|South-southeast is the lucky direction of the year.||今年の恵方は南南東です。
+southwest|n.|西南；西南方；西南地區；西南的|37|南西；南西の|v|||
 sponsor|n.|保證人；贊助者；發起者；發起|37|スポンサー；世話人|a|All the expenses will fall on the sponsor.||その費用はみな発起人にかかります。
-strongly|adv.|強有力地；堅強地；激烈地|37|プンプン；プーンと|a|Mariko's parents are strongly opposed to her marrying an American.|麻理子的父母強烈反對她和美國人結婚。|マリコの両親は、彼女がアメリカ人と結婚することに強く反対している。
+strongly|adv.|強有力地；堅強地；激烈地|37|強く；激しく|v|Mariko's parents are strongly opposed to her marrying an American.|麻理子的父母強烈反對她和美國人結婚。|マリコの両親は、彼女がアメリカ人と結婚することに強く反対している。
 substance|n.|物質；實質；主旨|37|本体；実質|a|The mixture of these substances is dangerous.|把這些物質混合起來是很危險的。|これらの物質の混合は危険です。
 suck|v.|吸；吮；吸入|37|吸う；吸い込む；しゃぶる|d|It sucks having a cold.|感冒真難受。|風邪引くなんて、最悪。
-superior|n.|長者；佔優勢的人；上級；上級的|37|優秀；上司|a|This carpet is superior to that one in quality.|這地毯在質量上比那箇好得多。|このカーペットはあれよりも質がいい。
+superior|n.|長者；佔優勢的人；上級；上級的|37|優れた；上司；上級の|v|This carpet is superior to that one in quality.|這地毯在質量上比那箇好得多。|このカーペットはあれよりも質がいい。
 supporter|n.|支持者；後盾；迫隨者|37|サポーター|a|Rev. King and his supporters were threatened.|金牧師和他的支持者們受到威脅。|キング牧師と彼の支持者は脅迫された。
 surely|adv.|的確地；安全地|37|きっと；てっきり|a|That is a criminal offense, and you will surely be punished!|那是犯罪行為，你肯定會受到懲罰的!|それは犯罪行為です。本当に罰せられますよ！
 surgeon|n.|外科醫生；軍醫；船醫|37|外科医|a|My father is an expert surgeon.|我父親是一名外科專家。|父は熟練した外科医です。
@@ -2882,9 +2882,9 @@ theoretical|adj.|理論的；理論上的；假設的|37|理論上の；理論�
 transfer|n.|遷移；移動；傳遞；使轉移|37|譲渡；乗り換え|a|We will make the payment by bank transfer.|我們會用銀行轉帳付款。|銀行振込でお支払いします。
 trap|n.|圈套；陷阱；詭計；設圈套|37|罠；トラップ|a|Many workers were trapped in the coal mine.|許多勞動者受困在煤礦場中。|炭鉱の内部に多くの労働者が閉じ込められた。
 traveler|n.|旅行者；遊客；旅客|37|旅行者；旅人|d|I'd like to cash a travelers' check.|我想兌換旅行支票。|このトラベラーズチェックを両替してください。
-trunk|n.|樹幹；幹線；軀幹；把...放入旅行箱內|37|胴；胴体|a|Go upstairs and bring down my trunk.|上樓把我的旅行箱拿下來。|２階へいって私のトランクを持ってきてくれ。
+trunk|n.|樹幹；幹線；軀幹；把...放入旅行箱內|37|幹；トランク；胴体|v|Go upstairs and bring down my trunk.|上樓把我的旅行箱拿下來。|２階へいって私のトランクを持ってきてくれ。
 tune|n.|歌曲；主旋律；心情；為...調音|37|調子；一曲|a|This piano has probably not been tuned for years.|這臺琴應該好多年沒調過音了。|このピアノ何年調律してないんだろうね。
-twist|n.|一扭；扭曲；曲折；擰|37|ひねる；縒り|a|Why would you say such a twisted thing?||もう、なんでそんなひねくれたこと言うの？
+twist|n.|一扭；扭曲；曲折；擰|37|ねじる；ひねり；展開|v|Why would you say such a twisted thing?||もう、なんでそんなひねくれたこと言うの？
 uncomfortable|adj.|不舒服的；不自在的；不安的|37|居心地の悪い；不快な；不安な|h|Stop it! You're making her feel uncomfortable!|得了！你弄得她不自在了！|やめて！あなたは彼女に不快感を与えている！
 unemployment|n.|失業；失業人數|37|失業|a|What is the unemployment rate at the moment?|目前的失業率是多少？|現在の失業率はどのくらいですか。
 upset|adj.|弄翻的；混亂的；心煩的；弄翻|37|動揺した；乱れた；ひっくり返す|d|Don't get an upset stomach by eating too much.|不要因為吃得太多而擾亂胃的正常消化。|食べ過ぎておなかを壊すなよ。
@@ -2919,7 +2919,7 @@ bet|n.|打賭；賭注|37|賭け；ベット|a|I bet ten dollars on that horse.|
 bid|v.|命令；吩咐；請求；出價|37|入札|a|He bade farewell to the students.|他向學生們告別了。|彼は学生に別れを告げた。
 biology|n.|生物學|37|生物学|a|He's a professor of biology at Harvard.|他是哈佛大學的生物學教授。|彼はハーバードの生物学教授だ。
 bless|v.|祝福；祈佑；使神聖化|37|恵む|a|It is more blessed to give than to receive.|贈與比接受更讓人覺得幸福。|受けるより与える方が幸いである。
-boil|n.|煮沸；沸騰；癤|37|煮る；茹でる|a|It made my blood boil to hear that.|聽到這個讓我感覺熱血沸騰。|それを聞いてはらわたが煮えくり返った。
+boil|n.|煮沸；沸騰；癤|37|沸騰する；ゆでる|v|It made my blood boil to hear that.|聽到這個讓我感覺熱血沸騰。|それを聞いてはらわたが煮えくり返った。
 bonus|n.|獎金；紅利|37|ボーナス；賞与|a|Performance-based methods are often used to calculate bonuses.||成果配分方式は賞与算出の際にしばしば用いられる。
 booth|n.|亭；攤棚|37|ブース|a|Telephone booths are as scarce as hen's teeth around here.|這裡附近的電話亭少得可憐。|このあたりは電話ボックスがとても少ない。
 bow|n.|弓；眼睛框；用弓拉琴；彎成弓形|37|弓；ボー|a|The girl made an awkward bow.|這個女孩做了一把不稱手的弓。|少女はぎこちなく頭を下げた。
@@ -2927,14 +2927,14 @@ businessman|n.|商人；實業家；工商業家|37|ビジネスマン|a|The bus
 cab|n.|計程車；出租汽車；出租馬車；乘出租馬車|37|タクシー；運転室|h|I left my umbrella in the cab.|我把我的傘忘在計程車上了。|タクシーに傘を忘れてしまった。
 cabinet|n.|櫥櫃；內閣；內閣的；細木工做的|37|内閣；キャビネット|a|The tablecloth is in the cabinet.|桌布在櫥櫃裡。|テーブルクロスは戸棚にありますよ。
 cage|n.|籠；牢房；戰俘營；關進籠內|37|檻；ケージ|a|The girl released the birds from the cage.|女孩把鳥兒從籠中放了出來。|その女の子は鳥をかごから逃がしてやった。
-calm|n.|平穩；風平浪靜；平靜的；冷靜的|37|穏やか；平静|a|I was calm until I saw the syringe.|我很平靜，直到我看到了注射器。|私は注射器を見るまでは平気だった。
+calm|n.|平穩；風平浪靜；平靜的；冷靜的|37|落ち着いた；穏やかな|v|I was calm until I saw the syringe.|我很平靜，直到我看到了注射器。|私は注射器を見るまでは平気だった。
 carpet|n.|地毯；地毯狀物；鋪以地毯；鋪蓋|37|カーペット；絨毯|a|We must buy a new carpet for this room.|我們要為這個房間買新地毯。|この部屋用に新しいじゅうたんを買わなきゃいけない。
 cartoon|n.|卡通畫；漫畫；畫漫畫|37|漫画；カートゥーン|a|Do you know this cartoon?|你知道這部漫畫嗎？|この漫画は知っていますか？
 casual|adj.|偶然的；不經意的；便裝的；臨時工|37|カジュアル；何気ない|a|I took a casual look at the magazine.||私は何気なくその雑誌を見た。
 chamber|n.|室；房間；槍膛；裝|37|部屋；室；議会；薬室|d|"My lady is in her chamber," said the servant.||「奥様は部屋にいらっしゃいます」と召し使いは言った。
 circuit|n.|電路；環道；巡迴|37|回線；回路|a|The protection circuit is built into the system.||そのシステム中には保護回路が組み込まれています。
 clerk|n.|辦事員；職員；文書；當店員|37|クラーク；書記|a|She is a clerk in the supermarket.|她在超市做秘書。|彼女はスーパーマーケットの店員である。
-condemn|v.|判刑；責備；譴責|37|責める|a|The doctors were wrong to condemn the couple.||その夫婦を責めるなんて、医師達は間違っていた。
+condemn|v.|判刑；責備；譴責|37|非難する；有罪判決を下す|v|The doctors were wrong to condemn the couple.||その夫婦を責めるなんて、医師達は間違っていた。
 constantly|adv.|不變地；不斷地；時常地|37|絶えず|a|Our troops were constantly attacked by the guerrillas.|我們軍隊總是被遊擊隊騷擾。|我が軍は絶えずゲリラの攻撃を受けた。
 constitution|n.|構成；憲法；體格|37|憲法；体質|a|Freedom of thought is guaranteed by the constitution.|思想自由為憲法所保障。|思想の自由は憲法で保証されている。
 continent|n.|大陸；洲；自制的|37|大陸；大州|a|Africa is a continent, but Greenland is not.|非洲是一個大陸, 而格陵蘭不是。|アフリカは大陸であるが、グリーンランドはそうではない。
@@ -3010,12 +3010,12 @@ needle|n.|針；尖；用針縫|38|針；指針|a|It is like looking for a needl
 nest|n.|巢；窩；休息所；築巢|38|巣；ネスト|a|Children all leave the nest one day.|總有一天孩子們會離開自己的小窩。|子供はいつか巣立って行くんだよね。
 nevertheless|adv.|然而；雖然如此|38|それにしても|a|It's just five in the morning, but nevertheless it is light out.|才早晨5點，但天已經亮了。|朝の5時だというのに明るい。
 normally|adv.|正規地；合規則；正常地|38|普通は；通常；正常に|h|We can normally conceal our thoughts from others.|我們通常會對其他人隱瞞自己的想法.|わたしたちは普通他人に自分の気持ちを隠す事ができる。
-northeast|adj.|東北的；向東北的；來自東北的；東北|38|北東；丑寅|a|The land to the northeast was low-lying.||北東方向に土地が低く横たわっていた。
+northeast|adj.|東北的；向東北的；來自東北的；東北|38|北東；北東の|v|The land to the northeast was low-lying.||北東方向に土地が低く横たわっていた。
 occasionally|adv.|有時候；偶而|38|たまに；折々|a|I am occasionally mistaken for being a woman.||俺たまに女子って勘違いされることあるんだよね。
 occupy|v.|佔領；佔；住進|38|占領する；占める；住む|d|The city was soon occupied by the soldiers.|很快，城市就被士兵佔領了。|その市はやがて兵隊によって占領された。
 opera|n.|歌劇|38|オペラ；歌劇|a|This is an opera in five acts.|這是一部五幕歌劇。|この歌劇は５幕ものです。
 optimistic|adj.|樂觀的；樂觀主義的；樂天的|38|楽天的；楽観的|a|His view seems to be too optimistic.|他的看法似乎太樂觀了。|彼の考えはどうもあまい。
-oral|adj.|口頭的；口述的；口部的；口試|38|口頭；口内|a|She gave an oral report to her boss.||彼女は上司に口頭で報告をした。
+oral|adj.|口頭的；口述的；口部的；口試|38|口頭の；口腔の|v|She gave an oral report to her boss.||彼女は上司に口頭で報告をした。
 orbit|n.|軌道；常軌；眼眶；繞...軌道而行|38|軌道；眼窩|a|The satellite made 10 orbits of the earth.||その衛星は地球の軌道を１０周した。
 output|n.|輸出；產品；產量|38|出力；産量|a|The output is way below last year's level.||生産高は昨年の水準よりはるかに落ちこんでいる。
 outstanding|adj.|傑出的；突出的；未償付的|38|抜群；出色|a|I have an outstanding debt of 10 dollars.||私には１０ドル未払いの借金がある。
@@ -3028,7 +3028,7 @@ pin|n.|大頭針；針；別針；將...用針別住|38|ピン|a|It was so still
 pint|n.|品脫|38|パイント|d|Two pints are equal to a quart.||２パイントは１クオートと等しい。
 poster|n.|海報；招貼；驛馬|38|ポスター|a|He paused to look at the poster.|他停下腳步看起海報。|彼は立ち止まってポスターをのぞき込んだ。
 precious|adj.|寶貴的；珍貴的；過於精緻的|38|貴重；尊い|a|There is no treasure more precious than a child.|孩子是寶中之寶。|子に過ぎたる宝なし。
-precise|adj.|精確的；嚴謹的；明確的|38|精密|a|He gave me precise instructions to do the job.|他給我的工作作出了明確指示。|彼は私にその仕事をするための明確な指示を与えた。
+precise|adj.|精確的；嚴謹的；明確的|38|正確な；精密な|v|He gave me precise instructions to do the job.|他給我的工作作出了明確指示。|彼は私にその仕事をするための明確な指示を与えた。
 precisely|adv.|精確地；明確地；刻板地|38|正確に；まさに|d|Please come here at 3 o'clock precisely.||３時きっかりにここに来てください。
 proceed|v.|繼續進行；進行；開始|38|進む；続行する；着手する|h|Let's proceed with the items on the agenda.|讓我們繼續進行議程上的專案。|議題に上っている項目の議論を続けましょう。
 prohibit|v.|禁止；阻止|38|禁止する；妨げる|h|Poor health prohibited him from traveling.|因為健康狀況不佳，他沒去成旅行。|健康がすぐれないため彼は旅行に行けなかった。
@@ -3041,7 +3041,7 @@ rapidly|adv.|飛快地；迅速地；趕緊地|38|急速に；すばやく|h|Tha
 reception|n.|接待；接受；招待會|38|受付；披露宴|a|There were beautiful flowers on the reception desk.||きれいな花が受付のデスクに飾ってありました。
 refrigerator|n.|電冰箱；冷藏庫|38|冷蔵庫；冷|a|Put the tomato salad in the refrigerator.|把蕃茄沙拉放進冰箱裡。|冷蔵庫の中にトマトサラダを入れなさい。
 remarkable|adj.|不平常的；值得注意的；顯著的|38|顕著；目覚ましい|a|In recent years, science has made remarkable progress.|這幾年，科學取得了顯著的進步。|近年科学は目覚しく進歩した。
-rescue|n.|援救；解救；營救|38|救う；救出|a|A stewardess was rescued from the wreck.|一名空姐從飛機殘骸中被救出來了。|スチュワーデスが旅客機の残骸から救出された。
+rescue|n.|援救；解救；營救|38|救助する；救助|v|A stewardess was rescued from the wreck.|一名空姐從飛機殘骸中被救出來了。|スチュワーデスが旅客機の残骸から救出された。
 resort|n.|度假勝地；手段；憑藉；訴諸|38|リゾート|a|Karuizawa is famous as a summer resort.|輕井澤是著名的避暑勝地。|軽井沢は避暑地として有名である。
 restore|v.|回覆；恢復；歸還；還原|38|復元する；回復させる；返還する|h|After decades of civil war, order was restored.|經過幾十年的內戰，秩序恢復了。|数十年の内戦の後に秩序が回復した。
 ridiculous|adj.|荒謬的；可笑的|38|ばかげた；滑稽な|h|Such a ridiculous superstition no longer exists.|這種荒謬的迷信已不復存在了。|そんなばかげた迷信はもう存在しない。
@@ -3059,11 +3059,11 @@ shell|n.|貝殼；殼；外形；去殼|38|殻；シェル|a|I found a beautiful
 shuttle|n.|穿梭；梭子；往返移動之物；穿梭移動|38|往復便；シャトル；杼|d|How long does it take for the airport shuttle to get to the airport?|穿梭班車到機場需要多長時間？|空港バスで空港まで行くにはどのくらいかかりますか。
 sock|n.|短襪；鞋墊；一擊；重擊|38|靴下；一撃|d|The boy went to bed with his socks on.|男孩穿著襪子就上床睡覺了。|その少年は靴下を履いたまま寝た。
 stadium|n.|露天大型運動場|38|スタジアム；競技場|a|There were lots of people in the stadium.|體育場裡人山人海。|スタジアムには大勢の人がいた。
-statue|v.|以雕像裝飾；雕像|38|彫像；スタチュー|a|This statue is as large as life.|這座雕像和真人的尺寸一樣。|この像は実物大です。
+statue|v.|以雕像裝飾；雕像|38|彫像；像|v|This statue is as large as life.|這座雕像和真人的尺寸一樣。|この像は実物大です。
 steam|n.|蒸汽；精力；蒸汽的|38|蒸気；蒸す|a|Water turns into steam when it is boiled.|水沸騰後變為蒸汽。|水は沸騰すると水蒸気になる。
 steep|n.|浸漬；懸崖；險峻的；陡峭的|38|急な；険しい；ひどい；浸す|d|The path zigzagged up the steep slope.|蜿蜒的小路爬上了陡坡。|道は急斜面をジグザグにのぼっていた。
 substantial|n.|重要材料；有實際價值的東西；實質上的；物質的|38|実質的|a|We have a substantial stake in the venture.||我々は、その事業にかなりの金をつぎ込んでいる。
-suffering|n.|苦難；受苦|38|被災；苦難|a|We must not ignore populations suffering under misgovernment.|我們不能忽視暴政之下飽受苦難的人民。|悪政に苦しむ国民を無視するわけにはいけません。
+suffering|n.|苦難；受苦|38|苦しみ；苦痛|v|We must not ignore populations suffering under misgovernment.|我們不能忽視暴政之下飽受苦難的人民。|悪政に苦しむ国民を無視するわけにはいけません。
 sunlight|n.|日光|38|日光；日差し|a|The icy road sparkled in the sunlight.|結冰的道路在陽光下閃閃發亮。|凍結した道路が日光を浴びてまばゆく光った。
 sword|n.|刀；劍；戰爭|38|剣；刀|a|This sword has a strange history.|此劍際遇不凡。|この刀には不思議ないわれがある。
 sympathy|n.|同情；贊同；憐憫|38|共感；同情|a|Everybody showed sympathy toward the prisoner.|每個人都對囚犯表示同情。|だれもがその囚人に情けをかけた。
@@ -3083,8 +3083,8 @@ academy|n.|學院；院校；學會|38|アカデミー|a|His new movie earned hi
 accelerate|v.|加速；促進|38|加速する；早める|d|The yen's appreciation accelerated the decline of that company.||円高がその会社の経営不振に拍車をかけた。
 accessible|adj.|易接近的；可進入的；可使用的|38|利用しやすい；近づきやすい；アクセス可能な|h|New York is accessible by train from Washington.|從華盛頓乘火車可以到紐約。|ニューヨークはワシントンから列車でいける。
 accumulate|v.|積聚；堆積|38|蓄積する；積み重ねる；たまる|d|Dust had accumulated in the attic.|閣樓上積了灰。|屋根裏にほこりがたまっていた。
-accurate|adj.|正確的；精確的|38|正確；的確|a|This data isn't accurate at all.|這個資料一點也不準確。|これらのデータはちっとも正確ではない。
-advanced|adj.|在前的；高階的；先進的|38|先進；アドバンスド|a|The squirrel advanced against the strong wind.|松鼠在前面頂著強風。|栗鼠が激しい風に逆らって進んでいた。
+accurate|adj.|正確的；精確的|38|正確な；的確な|v|This data isn't accurate at all.|這個資料一點也不準確。|これらのデータはちっとも正確ではない。
+advanced|adj.|在前的；高階的；先進的|38|高度な；先進の|v|The squirrel advanced against the strong wind.|松鼠在前面頂著強風。|栗鼠が激しい風に逆らって進んでいた。
 aggression|n.|侵犯；侵略|38|侵略；攻撃性|d|People who are prone to aggression can be dangerous.||攻撃的な行動に出やすい人は、危険な人間になり得る。
 alike|adj.|相似的；同樣的；一樣；以同樣的方式|38|似ている；同様に|h|Those two are exactly alike.|那兩個是一模一樣的。|あの二人は全く瓜二つだね。
 alter|v.|改變|38|変える；改める|d|The slave was anxious to alter his destiny.||その奴隷は自分の運命を変えたいと強く思っていた。
@@ -3100,7 +3100,7 @@ bargain|n.|交易；買賣協定；特價商品；講價|38|お買い得；バ�
 beard|n.|鬍鬚；抓住鬍鬚；公開反對|38|ひげ；あごひげ；立ち向かう|d|It is pleasant to shave off my beard.|刮完鬍子感覺很舒服。|ひげをそるのは気持ちがいい。
 beast|n.|畜生；動物；野獸|38|獣；ビースト|a|The lion is the king of the beasts.|獅子是萬獸之王。|ライオンは百獣の王です。
 behalf|n.|利益；方面|38|代わり；利益；〜の代理として|h|On behalf of the company, I welcome you.|我代表公司歡迎你的來臨。|一同を代表して、あなたを歓迎します。
-beneficial|adj.|有益的；受益的|38|有益|a|Regular exercise is beneficial to good health.|多運動有益健康。|規則的な運動は健康によい。
+beneficial|adj.|有益的；受益的|38|有益な；有利な|v|Regular exercise is beneficial to good health.|多運動有益健康。|規則的な運動は健康によい。
 betray|v.|出賣；背叛；辜負|38|裏切る|a|A true gentleman would not betray his friends.|一個真正的紳士不會出賣他的朋友。|本当の紳士なら、友達を裏切ったりしないだろう。
 biography|n.|傳記|38|伝記；紀伝|a|He wrote a biography of a famous poet.||彼はある有名な詩人の伝記を書いた。
 bitch|n.|母狗；母狼；母狐|38|雌犬；性悪な女|d|||
@@ -3114,7 +3114,7 @@ challenging|adj.|挑戰的；引起爭論的|38|困難な；やりがいのあ�
 chat|n.|閒談；聊天|38|チャット；漫談|a|Nancy is having a chat with her friends.|Nancy正在和她的朋友們聊天。|ナンシーは今、友人たちとおしゃべりしている。
 chew|v.|咀嚼；嚼碎；細想|38|噛む；咀嚼する；じっくり考える|d|Food should be chewed before being swallowed.|食物在吞嚥前要經過咀嚼。|食べ物は飲み込む前にかまなければならない。
 clarify|v.|澄清；闡明；使明晰|38|明確にする；明らかにする|d|I appreciate your help in clarifying this.|感謝你幫我解釋明白。|この件を明らかにするのを手伝っていただいて感謝してます。
-classify|v.|分類；歸類；分等|38|選り分ける|a|These can be classified roughly into three types.||これらは３つのタイプに大別される。
+classify|v.|分類；歸類；分等|38|分類する；区分する|v|These can be classified roughly into three types.||これらは３つのタイプに大別される。
 clay|n.|泥土；肉體；黏土|38|クレー；粘土|a|Tom worked the clay into a vase.|湯姆把黏土塑成了一個花瓶。|トムは粘土で花瓶を作った。
 collar|n.|衣領；頸圈；控制；扭住衣領|38|カラー；襟|a|Iron the inside of collars first, and then the outside.|先熨燙領子的裡面，然後是外面。|えりはまず裏側にアイロンをかけ次に表側をかけなさい。
 compensate|v.|償還；補償；付報酬|38|償う；補償する；埋め合わせる|h|You must compensate him for the money he lost.|你需要賠償他損失的錢。|君は彼に彼がなくしたお金を戻すべきだ。
@@ -3124,7 +3124,7 @@ conscience|n.|良心|38|良心|a|His conscience suddenly awoke in him.|他突然
 considerable|adj.|相當的；可觀的；重要的|38|大した；ひとかど|a|A considerable amount of time and effort have been spent already.|已經花費了很多的時間和精力。|すでにかなりの時間と努力が費やされた。
 convenience|n.|方便；便利的事物；方便的時候|38|利便；便宜|a|Why don't you drop in for tea at your convenience?|你有空的時候來喝杯茶吧。|ご都合のよいときにお茶を飲みにお寄りになりませんか。
 convert|n.|皈依者；改變宗教信仰者；使改變信仰；轉換|38|改宗者；転換する；変換する|d|He is a recent convert to Catholicism.|他新近皈依的天主教徒。|彼は最近改宗したカトリック信者です。
-cottage|n.|小屋；茅舍|38|コテージ|a|There is a cottage beyond the bridge.|橋對面有一間小屋。|橋の向こうに小屋がある。
+cottage|n.|小屋；茅舍|38|小屋；コテージ|v|There is a cottage beyond the bridge.|橋對面有一間小屋。|橋の向こうに小屋がある。
 cowboy|n.|牛仔；牛郎；牧童|38|カウボーイ|a|The cowboys rounded up the herd of cattle.||牧童たちは牛の群れを駆り集めた。
 craft|n.|技藝；手藝；詭計；精心製作|38|クラフト；技工|a|I greatly recommend reading it to anybody thinking of learning a craft.|我強烈推薦任何想學習一門手藝的人都去讀這本書。|これから何か手職を身に付けたいと思う方は、是非お読みになることをおすすめします。
 crowded|adj.|擁擠的；塞滿的|38|混雑した；ぎゅうぎゅうの|h|It being Sunday, the supermarket was very crowded.|因為是星期天，超市非常擁擠。|日曜日だったので、スーパーは非常に混雑していた。
@@ -3148,7 +3148,7 @@ equality|n.|平等；均勻；相等|39|同等；平等|a|Equality is guaranteed
 explicit|adj.|詳述的；清楚的；直言的|39|明示的な；露骨な；明白な|h|I gave you explicit instructions not to touch anything.||私はあなたに何にも触るなとはっきりと指示しました。
 exploit|n.|功績；勳績；開發；利用|39|功績；利用する；搾取する|h|The capitalists tend to exploit the working people.|資本家傾向於壓榨工人。|
 extensive|adj.|廣的；廣泛的；多方面的|39|幅広い；広範囲|a|Extensive reading is as important as intensive reading.||多読は精読と同様重要である。
-fare|n.|費用；旅客；食物；進展|39|運賃|a|What is the fare from Osaka to Akita?|從大阪到秋田的車費是多少？|大阪から秋田までの料金はいくらですか。
+fare|n.|費用；旅客；食物；進展|39|運賃；料金|v|What is the fare from Osaka to Akita?|從大阪到秋田的車費是多少？|大阪から秋田までの料金はいくらですか。
 feather|n.|羽毛；長羽毛|39|羽；羽毛|a|The bird was covered with white feathers.|鳥兒身上鋪滿了白色的羽毛。|その鳥は白い羽に覆われていた。
 fierce|adj.|兇猛的；猛烈的；熱烈的|39|猛烈；熾烈|a|A fierce battle was fought by the soldiers.||激しい戦いが兵士によってなされた。
 fog|n.|霧；迷惑；最生草；被霧籠罩|39|霧；フォグ|a|London is no longer a city of fog.|倫敦不再是霧都了。|ロンドンはもはや霧の都ではない。
@@ -3224,7 +3224,7 @@ slavery|n.|奴隸的身分；奴隸狀態；奴隸制度|39|奴隷制度；奴�
 sleeve|n.|袖子；套管；縫上袖子|39|袖；スリーブ|a|The men are wearing short sleeve shirts.|男人們穿著短袖上衣。|男性たちは半袖のシャツを着ている。
 smoking|n.|抽菸；冒煙|39|喫煙；スモーキング|a|You should make an effort to stop smoking.|你應該努力去戒煙。|君は禁煙するよう努力すべきだ。
 spit|n.|唾液；唾吐；小雨|39|唾；唾を吐く；小雨|d|In Singapore, it is a crime to spit on the ground.|隨地吐痰在新加坡算是犯罪行為。|シンガポールでは、地面に唾を吐くことは犯罪です。
-spray|n.|水沫；浪花；水花；噴霧|39|スプレー；しぶき|a|The waves sprayed the rocks with water.||波は岩に水しぶきをかけた。
+spray|n.|水沫；浪花；水花；噴霧|39|スプレー；しぶき；吹きかける|v|The waves sprayed the rocks with water.||波は岩に水しぶきをかけた。
 spy|n.|間諜；偵探；偵察|39|スパイ；工作員|a|He was under suspicion of being a spy.|人們懷疑他是間諜。|彼はスパイの疑いをかけられた。
 steak|n.|牛排；魚排；肉排|39|ステーキ|a|How would you like your steak?|您的牛排要幾分熟？|ステーキの焼き加減はどういたしましょう？
 stove|n.|火爐；窯；用火爐烤|39|窯|a|A plastic dish will melt on the stove.|塑膠盤子在烤箱裡會化的。|プラスチックの皿はこんろにかけると溶ける。
@@ -3255,11 +3255,11 @@ ward|n.|病房；守衛；保衛；使入病房|39|区；病棟|a|We sprinkle sa
 warehouse|n.|倉庫；貨棧；大商店；儲入倉庫|39|蔵|a|Who was it that forgot to lock the door of the warehouse?|是誰忘了把倉庫的門鎖上？|倉庫のドアの鍵をかけ忘れたのは誰なの？
 warmth|n.|溫暖；溫情；暖和|39|ぬくもり；暖かみ|a|I can remember the warmth of her hands.||私は彼女の手の温かさを覚えている。
 weed|n.|雜草；野草；除草|39|雑草；ウィード|a|He pulled up the weed and threw it away.|他拔起雜草就扔掉。|彼は雑草をぬいて捨てた。
-whereas|conj.|然而；鑑於|39|一方；〜なのに|d|I am poor, whereas my brothers are very rich.||私は貧しい、それに対して私の兄弟たちはとても裕福だ。
+whereas|conj.|然而；鑑於|39|〜である一方；〜なのに|v|I am poor, whereas my brothers are very rich.||私は貧しい、それに対して私の兄弟たちはとても裕福だ。
 working|n.|工作；運轉；勞動；工作的|39|就労；ワーキング|a|The writer is working on a new book.|那個作家正在寫新書。|その作家は新しい本に取り組んでいる。
 worldwide|adj.|全世界的|39|世界的|a|Despite adversity, the architect achieved worldwide fame.|儘管有逆境，建築師還是獲得了享譽全球的榮譽。|逆境にもかかわらず、その建築家は世界的名声を獲得した。
 worm|n.|蟲；蠕蟲；小人物；蠕行|39|虫；ミミズ；卑しい人|d|The mother bird brought worms for her young ones.|母鳥叼來蟲子餵幼鳥。|母鳥が雛に虫を持ってきた。
-worthy|adj.|有價值的；可敬的；值得的；傑出人物|39|価値のある；立派な；ふさわしい|d|Your proposal is worthy of being considered.|你的建議值得考慮。|あなたの提案は考慮するに値する。
+worthy|adj.|有價值的；可敬的；值得的；傑出人物|39|価値がある；ふさわしい|v|Your proposal is worthy of being considered.|你的建議值得考慮。|あなたの提案は考慮するに値する。
 accommodation|n.|膳宿；預訂鋪位；適應性調節|39|収容；宿泊|a|This hotel has accommodations for 1,000 guests.|這家酒店可以容納一千人。|このホテルは千人を収容する設備がある。
 acute|adj.|尖銳的；敏銳的；激烈的|40|急性|a|A blind person's hearing is often very acute.|盲人的耳朵通常十分靈敏。|目が見えない人の聴力は鋭敏な場合が多い。
 adaptation|n.|適應；改編；改編本|40|適応；順応|a|This film is an adaptation of a novel.||この映画は小説をもとにしている。
@@ -3304,8 +3304,8 @@ collision|n.|碰撞；衝突；牴觸|40|衝突；ぶつかり|a|His story of th
 communist|n.|共產主義者；共產黨員|40|共産主義者；共産党員|d|I willingly join the Chinese Communist Party.|我自願加入中國共產黨。|喜んで中国共産党に入ります。
 competence|n.|勝任；職稱；能力|40|能力；技量；適性|h|Ted doesn't have the competence to teach English.||テッドは英語を教える能力がない。
 contest|n.|競賽；爭論；競爭；爭取|40|くらべ；コンテスト|a|She won first prize in the speech contest.|她在演講比賽中取得了第一名。|彼女はスピーチコンテストで１等賞を獲った。
-contrary|adj.|相反的；矛盾的；對立的；相反|40|あべこべ|a|And yet, the contrary is always true as well.|然而，相反的理論往往也是真的。|しかし、逆もまた真である。
-convenient|adj.|方便的；合宜的|40|便利；重宝|a|He stressed the convenient aspects of city life.|他強調了城市生活方便的一面。|彼は都会生活の便利な面を強調した。
+contrary|adj.|相反的；矛盾的；對立的；相反|40|反対の；逆の|v|And yet, the contrary is always true as well.|然而，相反的理論往往也是真的。|しかし、逆もまた真である。
+convenient|adj.|方便的；合宜的|40|便利な；都合のよい|v|He stressed the convenient aspects of city life.|他強調了城市生活方便的一面。|彼は都会生活の便利な面を強調した。
 cooking|n.|烹飪|40|料理；調理|a|Tom is used to cooking on a campfire.|湯姆習慣用營火做菜。|トムはキャンプファイヤーで料理を作るのには慣れてるよ。
 cope|v.|競爭；應付；長袍|40|対処する；うまくやる|h|We have to cope with hosts of difficulties.|我們要面對許多的困難。|我々は幾多の困難を克服しなければならない。
 correspond|v.|符合；通訊；相當|40|一致する；対応する；文通する|h|This red hat corresponds well to her dress.|這頂紅帽子很襯她的裙子。|この赤い帽子は彼女の服によく合ってますよ。
@@ -3323,16 +3323,16 @@ dioxide|n.|二氧化物|40|二酸化物|h|Trees give off oxygen and absorb carbo
 disagreement|n.|不合；爭論；不一致|40|意見の相違；不一致；口論|d|Jim sometimes has disagreements with his wife.|吉姆有時與他的妻子意見分歧。|ジムさんは時々、妻といさかいをする。
 dive|n.|潛水；跳水；俯衝|40|飛び込む；潜る；急降下する|d|Have you ever tried scuba diving?|你曾試過用水肺潛水嗎？|スキューバダイビングをやったことがありますか。
 dusty|adj.|灰塵多的；無聊的；含糊的|40|ほこりっぽい；ほこりまみれの|d|The dusty track descends to a valley.||その埃っぽい小道は谷へと下って行く。
-efficient|adj.|有效率的；能幹的|40|効率的|a|There is no denying that she is very efficient.|無可否認她非常有能力。|彼女が非常に有能であることは否定できない。
+efficient|adj.|有效率的；能幹的|40|効率的な；有能な|v|There is no denying that she is very efficient.|無可否認她非常有能力。|彼女が非常に有能であることは否定できない。
 embassy|n.|大使館；大使館全體人員|40|大使館|a|He is a diplomat at the American Embassy.|他是美國大使館的外交官。|彼はアメリカ大使館の外交官です。
 ending|n.|終止；終了；收場|40|エンディング；結び|a|I like stories that have sad endings.|我喜歡以悲劇收場的故事。|悲しい結末の物語が好きです。
 enthusiastic|adj.|狂熱的；熱心的；熱烈的|40|熱心な；熱狂的な|h|George is very enthusiastic about his new job.|喬治對自己的新工作充滿熱情。|今度の新しい仕事にジョージはとても熱中している。
 erupt|v.|爆發；噴出|40|噴火する；突然起こる；噴出する|h|The volcano erupted suddenly, killing many people.|火山突然噴發，造成了多人死亡。|その火山は突然噴火し、多くの人が亡くなった。
-exciting|adj.|令人興奮的；刺激的|40|エキサイティング|a|Cities are exciting places, but also stressful.|城市是令人興奮的地方，但也會讓人產生壓力。|都会は刺激的な場所だが、ストレスも多い。
+exciting|adj.|令人興奮的；刺激的|40|興奮させる；わくわくする|v|Cities are exciting places, but also stressful.|城市是令人興奮的地方，但也會讓人產生壓力。|都会は刺激的な場所だが、ストレスも多い。
 explosion|n.|爆發；激增；爆炸|40|爆発；エクスプロージョン|a|What was the cause of the explosion?|爆炸是由甚麼導致的呢？|その爆発の原因は何ですか。
-facial|n.|美顏；臉部按摩；臉的；表面的|40|顔の；美顔術|d|I want to pluck your facial hair.|我想拔你的鬍鬚。|あなたの髭を抜きたいです。
+facial|n.|美顏；臉部按摩；臉的；表面的|40|顔の；フェイシャル|v|I want to pluck your facial hair.|我想拔你的鬍鬚。|あなたの髭を抜きたいです。
 fancy|n.|想象力；幻想；喜好；想象的|40|空想；好み；装飾の凝った|d|Tom and Mary stayed at a fancy hotel.|湯姆和瑪麗入住了一家高檔酒店。|トムとメアリーは高級ホテルに宿泊した。
-fighting|adj.|戰鬥的；容易引起爭鬥的；適於格鬥的；戰鬥|40|対戦；ファイティング|a|A group of young men were fighting.|一群年輕人在打架。|若者の一団がけんかをしていた。
+fighting|adj.|戰鬥的；容易引起爭鬥的；適於格鬥的；戰鬥|40|戦い；戦う|v|A group of young men were fighting.|一群年輕人在打架。|若者の一団がけんかをしていた。
 firefighter|n.|<美>消防隊員|40|消防士；消防隊員|d|My dream is to become a firefighter.|我的夢想是成為一名消防員。|私の夢は消防士になることよ。
 fireplace|n.|壁爐|40|暖炉|a|The clock is above the fireplace.|時鐘在壁爐的上方。|暖炉の上に時計が掛かっている。
 foolish|adj.|愚蠢的；傻的|40|愚か；愚かしい|a|He is no more foolish than you are.|你們倆都不傻。|君が馬鹿でないのと同様に、彼も馬鹿ではない。
@@ -3341,7 +3341,7 @@ fountain|n.|水源；源；噴泉|40|噴水；泉；水源|d|He wrote the letter
 fried|adj.|油炸的|40|油で揚げた；炒めた|h|I ate fried rice and drank some beer.|我吃了炒飯，也喝了啤酒。|
 frighten|v.|使驚嚇；驚恐|40|怖がらせる；脅かす|d|But earthquakes are still as frightening as ever.|但是地震仍然是最可怕的事。|しかし地震だけは今でも、これまでと同じように恐ろしい存在である。
 girlfriend|n.|女朋友|40|恋人；ガールフレンド；彼女|d|Tom took his girlfriend out on Saturday night.|週六晚上湯姆帶他女朋友出去約會了。|トムは土曜の夜にガールフレンドを連れ出した。
-goodness|n.|仁慈；善良|40|良き|a|For goodness' sake, please be nice to him.||一生のお願い。彼に優しくしてあげて。
+goodness|n.|仁慈；善良|40|善良；親切|v|For goodness' sake, please be nice to him.||一生のお願い。彼に優しくしてあげて。
 gown|n.|睡衣；法衣；大學全體師生；使穿睡衣|40|ガウン|a|Life is a magnificent gown full of lice.|生命是一襲華美的袍子，爬滿了蝨子。|
 grill|n.|烤架；鐵格子；烤肉；燒|40|グリル；グリエ|a|Tom took the meat off the grill.||トムはグリルから肉を取り出した。
 harmful|adj.|有害的；傷害的|40|有害|a|This medicine doesn't have any harmful side effects.|這個藥沒有有害的副作用效果。|この薬には有害な副作用がありません。
@@ -3375,9 +3375,9 @@ nursery|n.|託兒所；苗圃；溫床|40|保育園；苗木畑；育児室|d|Th
 nursing|n.|看護；養育|40|看護；介護|a|The old man escaped from the nursing home.||おじいちゃんが、老人ホームを抜け出しちゃったよ。
 nutrition|n.|營養；營養學|40|栄養；養い|a|She is careful about her child's nutrition.|她很關心孩子的營養問題。|彼女は子供の栄養に気をつけている。
 obey|v.|服從；遵從；順從|40|従う；服す|a|Bill was adamant that she should obey him.|比爾堅持她必須聽從他的話。|ビルは絶対に彼女が彼に従うべきだと譲らなかった。
-offensive|adj.|令人不快的；侮辱的；攻擊性的|40|攻勢；オフェンシブ|a|I hear a noise offensive to the ear.||耳障りな音が聞こえる。
+offensive|adj.|令人不快的；侮辱的；攻擊性的|40|攻撃的な；不快な|v|I hear a noise offensive to the ear.||耳障りな音が聞こえる。
 optional|adj.|可選擇的；隨意的|40|任意；オプショナル|a|An air conditioner is available as an optional extra.||エアコンはオプションの付属品です。
-overhead|n.|經常開支；普通用費；天花板；在頭上的|40|頭上；オーバーヘッド|a|A couple of swallows are flying overhead.||つばめが二羽頭上を飛んでいる。
+overhead|n.|經常開支；普通用費；天花板；在頭上的|40|頭上の；諸経費|v|A couple of swallows are flying overhead.||つばめが二羽頭上を飛んでいる。
 parallel|n.|平行；對比；相匹敵之物；平行的|40|平行の；類似の；並行して；類似点|h|The two streets run parallel to one another.|兩條街道互相平行。|２本の道路は平行に走っている。
 passive|adj.|消極的；被動的；冷漠的|40|消極；受動的|a|Watching TV is a passive activity.|看電視是一種被動的活動。|テレビを見ることは受動的活動である。
 pea|n.|豌豆；似豌豆的東西|40|エンドウ豆；豆|d|Those twins look like two peas in a pod.|這對雙胞胎長得一模一樣。|あの双子は瓜二つだな。
@@ -3446,7 +3446,7 @@ weep|n.|哭；哭泣；流淚|41|泣く；涙を流す|d|My mother did nothing b
 wounded|adj.|受傷的|41|負傷した；傷ついた|h|Many thousands on both sides had been wounded.|雙方都有幾千人受傷。|両陣営ともに数千人単位の負傷者が出た。
 absurd|adj.|荒謬的；不合理的；可笑的；荒誕|41|めちゃくちゃ；無茶|a|It is absurd of you to do that.|你那麼做真是太過荒謬了.|君がそんなことをするなんてばかげている。
 abundant|adj.|豐富的；充分的；大量的|41|豊か；豊富|a|The United States is abundant in natural resources.|美國的自然資源很豐富。|米国は天然資源に富んでいる。
-acceptable|adj.|可接受的；合意的；可忍受的|41|可|a|Driving after drinking alcohol is not acceptable behavior.||飲酒運転は許される行為ではない。
+acceptable|adj.|可接受的；合意的；可忍受的|41|受け入れられる；満足できる|v|Driving after drinking alcohol is not acceptable behavior.||飲酒運転は許される行為ではない。
 accountant|n.|會計人員；會計師|41|会計士|a|Allan was lucky and passed the tax accountant examination.|艾倫很幸運地考過了稅務師考試。|アラン君は運良く税理士試験に合格しました。
 acquaintance|n.|認識；相識者|41|知り合い；近づき|a|She had plenty of acquaintances, but no friends.|她認識的人很多，但卻沒有一個算得上是朋友。|彼女には知人はたくさんいたが、友人といえる人は一人もいなかった。
 adolescence|n.|青春期|41|青年期；思春期|d|That very tune reminded me of my adolescence.||まさにあの曲が、私に青春時代を思い出させた。
@@ -3457,7 +3457,7 @@ amusement|n.|興味；娛樂；消遣|41|娯楽；アミューズメント|a|The
 arch|n.|拱門；拱形；足弓；使成弓形|41|アーチ|a|The cat arched its back and stretched itself.|貓弓起背，伸了個懶腰。|
 arctic|adj.|北極的；極寒的；北極圈；北極|41|北極の；極寒の|h|A few months later they return to their breeding grounds in the Arctic.|數月後，牠們回到了北極的繁殖地。|２、３ヶ月後、彼らは北極にある繁殖地へと戻っていきます。
 astronomy|n.|天文學|41|天文学；天文|a|It seems that he is interested in astronomy.|他好像對天文學挺有興趣。|彼は天文学に興味があるようだ。
-awesome|adj.|引起敬畏的；可怕的|41|畏怖すべき；すさまじい|h|Awesome! The cherry trees are blooming already.||すごい！もう桜が咲いてるよ。
+awesome|adj.|引起敬畏的；可怕的|41|素晴らしい；畏敬の念を起こさせる|v|Awesome! The cherry trees are blooming already.||すごい！もう桜が咲いてるよ。
 bachelor|n.|單身漢；學士|41|独身男性；学士|d|Tom remained a bachelor until his death.|湯姆終身未娶。|トムは死ぬまで独身だった。
 bacon|n.|燻豬肉|41|ベーコン|a|Would you like bacon or sausage?|你要培根還是要香腸?|ベーコンかソーセージはいかがか。
 ballet|n.|芭蕾舞|41|バレエ|a|Her ambition is to be a ballet dancer.||彼女の大望はバレーダンサーになることです。
@@ -3478,7 +3478,7 @@ chase|n.|追求；狩獵；追逐；追捕|41|追う；追跡|a|This cat doesn't
 circulate|v.|流通；迴圈；傳播|41|流通する；循環する；広める|h|He circulated the letter among the members.||彼はその手紙を全員に回覧した。
 circus|n.|馬戲團；馬戲；競技場|41|サーカス|a|The clown at the circus pleased my children.||サーカスの道化師は子供たちを楽しませた。
 claw|n.|爪；螯；抓傷；用爪抓|41|爪；かぎ爪|d|"I cannot claw my owner", said the cat.|“我不能抓我的主人。”貓說。|
-cleaner|n.|清潔工人；清潔劑；乾洗商|41|クリーナー；拭き|a|I got this vacuum cleaner for nothing.|我免費得到了這個吸塵器。|私はこの電気掃除機をただで手に入れました。
+cleaner|n.|清潔工人；清潔劑；乾洗商|41|清掃員；クリーナー|v|I got this vacuum cleaner for nothing.|我免費得到了這個吸塵器。|私はこの電気掃除機をただで手に入れました。
 closet|n.|壁櫥；小室；秘密的；空談的|41|押入れ；クローゼット|a|The burglar shut the child in the closet.|強盜把小孩關在了衣櫃裡。|強盗はその子供を押し入れに閉じ込めた。
 concerning|prep.|關於|41|～に関して|h|Concerning this issue, I feel that the trash media only report biased information.|關於這個問題，我覺得垃圾媒體只報道了很片面的資訊。|この問題についてマスゴミは偏った報道ばかりしている気がする。
 conductor|n.|領導者；指揮者；售票員|41|車掌；コンダクター|a|Generally speaking, orchestra conductors wear tailcoats at concerts.||一般的に言って、オーケストラの指揮者は演奏会で燕尾服を着ます。
@@ -3526,22 +3526,22 @@ greatly|adv.|很；非常|41|大いに；非常に|d|We were all greatly amused 
 grocery|n.|食品雜貨店；食品雜貨業|41|食料品店；食料品|h|Bob worked as a clerk in the grocery store on Saturday.|每週六鮑勃在雜貨店做店員。|ボブは土曜日には食料品店で店員として働いた。
 hammer|n.|錘；鐵錘；釘錘；錘打|41|ハンマー；金槌|a|The nail that sticks up gets hammered down.||出る釘は打たれる。
 handy|adj.|便利的；敏捷的；容易取得的|41|手ごろ；軽便|a|She is handy with a needle.|她擅長針線活。|彼女は針仕事が上手だ。
-hardship|n.|艱難；辛苦；苦難|41|辛苦|a|There are lots of hardships in our life.||生きていくうちには、辛いことはたくさんあります。
+hardship|n.|艱難；辛苦；苦難|41|困難；苦難|v|There are lots of hardships in our life.||生きていくうちには、辛いことはたくさんあります。
 highlight|n.|加亮區；精彩場面；加亮；使顯著|41|ハイライト；圧巻|a|Read the highlighted line out loud.||マーカー部分を声に出して読みなさい。
 hillside|n.|山坡；山腹|42|山腹；丘の斜面|d|I'm planning to stay at the Hillside Hotel.||ヒルサイドホテルに滞在する予定です。
-horror|n.|驚駭；恐怖；慘狀|42|ホラー|a|I'm going to see a horror film.|我要去看恐怖電影。|ホラー映画を見るつもりです。
+horror|n.|驚駭；恐怖；慘狀|42|恐怖；ホラー|v|I'm going to see a horror film.|我要去看恐怖電影。|ホラー映画を見るつもりです。
 indication|n.|指示；象徵；暗示|42|表示；指示|a|The resignations would have little or no effect on upcoming indications.||辞任劇は来るべき徴兵事務にはさして影響はないであろう。
-inevitable|adj.|不可避免的；必然的|42|必然；不可避|a|The Foreign Minister said that war was inevitable.|外交部長稱戰爭在所難免。|外相は、戦争は避けられないと言った。
+inevitable|adj.|不可避免的；必然的|42|避けられない；必然的な|v|The Foreign Minister said that war was inevitable.|外交部長稱戰爭在所難免。|外相は、戦争は避けられないと言った。
 inn|n.|旅館；客棧；住旅館|42|宿屋；室積み|a|A fire broke out at the inn where they were staying.|火警發生在他們住的旅館。|彼らの泊まっていた宿屋で火事が起こった。
 inquiry|n.|質詢；探索；調查|42|問い合わせ；照会|a|We made inquiries into his past.|我們對他的過去進行了調查。|彼の前歴について私たちは調査した。
 insure|v.|保險；確保；投保|42|保険をかける；保証する|d|My house is fully insured.|我的房子絕對保險。|うちの家の保険はばっちりだよ。
 interior|n.|內部；內政；內部的；心靈的|42|内部；インテリア|a|He made over the interior of his house.|他把屋子重新裝修了。|彼は家の内装を変えた。
-jewel|n.|珠寶；貴重物；鑲珠寶的飾物；飾以珠寶|42|珠玉；ジュエル|a|The guards must keep watch over the jewels.||そのガードマンたちは宝石の見張りをしなければならない。
+jewel|n.|珠寶；貴重物；鑲珠寶的飾物；飾以珠寶|42|宝石|v|The guards must keep watch over the jewels.||そのガードマンたちは宝石の見張りをしなければならない。
 killing|n.|謀殺；殺戮；殺害的；疲憊的|42|殺害；殺生|a|The volcano erupted suddenly, killing many people.|火山突然噴發，造成了多人死亡。|その火山は突然噴火し、多くの人が亡くなった。
 kindergarten|n.|幼稚園|42|幼稚園|a|She is a child-care worker in a kindergarten.|她是幼兒園裡的保育員。|
 liberation|n.|釋放；解放|42|解放|d|Women's Liberation is a broad-based but informal popular movement.||ウーマン・リブは底辺は広いが、非公式な民衆の運動である。
-lightly|adv.|輕輕地；少許；不費力地|42|ふわふわ；軽々|a|The girls were dancing lightly like so many butterflies.||少女たちはさながら蝶のように軽やかに踊っていた。
-loaf|n.|一條麵包；塊；遊蕩；遊手好閒|42|一斤；ぶらぶらする|h|Half a loaf is better than none.|聊勝於無、有比沒有好。|パン半分でもないよりはまし。
+lightly|adv.|輕輕地；少許；不費力地|42|軽く；そっと|v|The girls were dancing lightly like so many butterflies.||少女たちはさながら蝶のように軽やかに踊っていた。
+loaf|n.|一條麵包；塊；遊蕩；遊手好閒|42|一斤のパン；ぶらぶらする|v|Half a loaf is better than none.|聊勝於無、有比沒有好。|パン半分でもないよりはまし。
 logic|n.|邏輯；邏輯學；推理的方法|42|論理；ロジック|a|I cannot follow your logic.|我跟不上你的邏輯。|君の論理にはついて行けないよ。
 lounge|n.|閒逛；休閒室；長沙發；閒混|42|ラウンジ|a|Let's drop in at that coffee lounge.||ちょっとあの喫茶店に立ち寄ろう。
 maid|n.|少女；未婚女子；女僕|42|メイド；お手伝い|a|He has a maid to wait on him.||彼はメイドを使っている。
@@ -3561,7 +3561,7 @@ necklace|n.|項鍊|42|ネックレス；首飾り|a|The necklace is cheap at a h
 nephew|n.|侄子；外甥|42|甥；猶子|a|My nephew is allergic to eggs.|我侄子對雞蛋過敏。|私の甥っ子、卵アレルギーなんだ。
 noisy|adj.|嘈雜的；喧鬧的|42|うるさい；やかましい|a|It's noisy around here, so speak a little louder.|這裡有點吵，請你講話大點聲。|周りが騒がしいから、もう少し大きな声で話しなさい。
 novelist|n.|小說家|42|小説家|a|He is not a poet but a novelist.|他不是詩人，是小說家。|彼は、詩人ではなくて小説家だ。
-nowadays|n.|現在；現時；當今；時下|42|近頃；今日では|d|Without an air conditioner, people nowadays cannot live.|現今人們沒有空調無法生活。|エアコンが無ければ、最近の人々は生活できない。
+nowadays|n.|現在；現時；當今；時下|42|近頃は；最近では|v|Without an air conditioner, people nowadays cannot live.|現今人們沒有空調無法生活。|エアコンが無ければ、最近の人々は生活できない。
 oval|n.|橢圓形；卵形的；橢圓形的|42|楕円形；卵形の|h|An egg is not round but oval.||卵は、真ん丸ではなく楕円です。
 overweight|n.|超過重量；過重；優勢；超過重量的|42|太りすぎ；重量超過|d|I'm not the only one who thinks Tom is overweight.|覺得湯姆肥的人不止我一個。|トムが太りすぎだと思っているのは私だけじゃない。
 packet|n.|小包；一批信件；大量；打包|42|小包；小袋|h|This instant soup comes in individual packets.||このインスタントスープは１つ１つ包みの中に入っている。
@@ -3571,7 +3571,7 @@ perfume|n.|香水；香氣；氣氛；灑香水於|42|香水；芳香|a|The perf
 pest|n.|令人討厭之物；有害之物；害蟲|42|害虫；厄介者|d|Get off me you little pest!||ベタベタするんじゃねえよっ！鬱陶しい！
 postpone|v.|延遲；使延期；緩辦；延緩|42|延期する|h|He postponed leaving for Hokkaido until next month.|他延遲到下個月去北海道。|彼は北海道行きを来月まで延期した。
 prairie|n.|大草原；草甸|42|大草原|d|Laura Ingalls grew up on the prairie.|勞拉英戈爾斯是在草原上長大的。|ローラ・インガルスは、大草原で育った。
-probable|adj.|很可能的；大概的；可信的；很有希望的候選人|42|ありそう；蓋然的|a|It is probable that he forgot about it.||たぶん彼はそのことを忘れたのだろう。
+probable|adj.|很可能的；大概的；可信的；很有希望的候選人|42|ありそうな；有望な|v|It is probable that he forgot about it.||たぶん彼はそのことを忘れたのだろう。
 pyramid|n.|角錐；金字塔；成金字塔狀；漸增|42|ピラミッド；金字塔|a|The pyramids were built in ancient times.|金字塔是古時候建造的。|ピラミッドは古代に建造された。
 qualification|n.|資格；條件；限制|42|資格；適性|h|We agreed to the plan without qualification.||無条件でその計画に同意した。
 quilt|n.|棉被；加軟襯料後縫製；東拼西湊地編|42|掛け布団；キルト|d|This quilt is very warm.|這條被子很暖和。|このキルト、めっちゃ暖かいよ。
@@ -3613,7 +3613,7 @@ tunnel|n.|隧道；地下道；挖隧道|42|トンネル；坑道|a|The sightsee
 unbelievable|adj.|難以置信的|42|信じられない|d|This story might sound unbelievable but it is true.||この話は信じられないように思われるかもしれないが、本当の話だ。
 underwear|n.|內衣|42|下着；肌着|a|I'm not wearing any underwear.|我沒穿內衣。|下着を全然履いていません。
 undo|v.|解開；取消；破壞；鬆開|42|ほどく；アンドゥ|a|What is done cannot be undone.|覆水難收。|覆水、盆に返らず。
-unpleasant|adj.|使人不愉快的；使人厭惡的；煞風景的|42|不愉快；いやらしい|a|The gas gives off a strong, unpleasant smell.|這個氣體散發出強烈難聞的氣味。|その気体は強い異臭を放つ。
+unpleasant|adj.|使人不愉快的；使人厭惡的；煞風景的|42|不快な；嫌な|v|The gas gives off a strong, unpleasant smell.|這個氣體散發出強烈難聞的氣味。|その気体は強い異臭を放つ。
 unwilling|adj.|不願意的；勉強的|42|気が進まない；いやいやの|d|She was unwilling to tell her name.||彼女は名前を言うのを嫌がった。
 upward|adj.|向上的；以上|42|上向きの；上へ|h|The smoke went upward through the chimney.|煙從煙囪裡冒了出來。|煙は煙突を通って上に昇った。
 vacant|adj.|空的；空白的；空虛的|42|空いている；空虚な|h|He was standing there with a vacant look.|他站在那裡,一臉茫然。|彼はぽかんとした顔つきでそこに立っていた。
@@ -3630,7 +3630,7 @@ abnormal|adj.|反常的；不規則的；變態的；畸形的人|42|異常；�
 abolish|v.|廢止；革除；消滅|42|廃止する|h|We should abolish the death penalty.|我們應該廢除死刑。|我々は死刑を廃止すべきである。
 adore|v.|崇拜；愛慕；喜愛|42|大好きである；崇拝する|h|The students adore the new English teacher.|學生們崇拜新的英語老師。|生徒たちはその新しい英語の先生にあこがれている。
 alcoholic|n.|酒鬼；酒精中毒者；酒精的|42|アルコール依存症の人；アルコールの|h|People who drink alcoholic beverages are not allowed to enter.|飲酒者不準禁入。|お酒を飲む人はお断り。
-allowance|n.|津貼；零用錢；限額；定量供應|42|仕送り；アローワンス|a|My allowance does not pay for my tuition.||もらう金では授業料にはたりない。
+allowance|n.|津貼；零用錢；限額；定量供應|42|手当；小遣い；許容|v|My allowance does not pay for my tuition.||もらう金では授業料にはたりない。
 ambiguous|adj.|不明確的；模稜兩可的|42|あいまいな；多義的な|h|He may well just say something ambiguous again.||彼はまた曖昧な事を言うかも知れない。
 annually|adv.|一年一次；每年|42|毎年；年に一度|d|Do you know how many people starve to death in the world annually?|你知不知道全世界每年有多少人餓死呀？|毎年、世界でどれほどの人が餓死しているか知っていますか。
 apron|n.|圍裙|42|エプロン；前掛け|a|Mother is in the kitchen wearing an apron.|媽媽在廚房裡圍著圍裙。|ママはキッチンにいるよ。エプロンしてる。
@@ -3642,7 +3642,7 @@ baggage|n.|行李|42|手荷物；荷物|d|How many pieces of baggage do you have
 bakery|n.|麵包店|42|ベーカリー；パン屋|a|You're still working part time at a bakery?||パン屋のバイトまだやってるの？
 bathe|v.|沐浴；用水洗；洗澡|42|入浴する；水浴びをする|h|It is dangerous to bathe in this river.|在這條河裡游泳很危險。|この河で水浴するのは危険だ。
 ben|n.|內室|42|奥の部屋；山の頂|h|Ben learned to make a fire without matches.|Ben學會了不用火柴就能生火。|ベンはマッチなしで火を起こすことを学んだ。
-bound|n.|躍；回跳；範圍；受約束的|42|跳躍；束縛された；～行きの|d|He boarded a plane bound for Los Angeles.|他登上了前往洛杉磯的飛機。|彼はロサンゼルス行きの飛行機に乗った。
+bound|n.|躍；回跳；範圍；受約束的|42|縛られた；〜行きの；跳ねる|v|He boarded a plane bound for Los Angeles.|他登上了前往洛杉磯的飛機。|彼はロサンゼルス行きの飛行機に乗った。
 bowling|n.|保齡球戲|42|ボウリング|a|At night, we usually go bowling.|我們經常在夜晚打保齡球。|夜はたいていボウリングに行きます。
 buffet|n.|自助餐；小賣部；碗櫥；連續打|42|ビュッフェ|a|Two for the lunch buffet, please.|兩人份自助午餐，謝謝。|ランチブッフェを二人、お願いします。
 butcher|n.|屠夫；肉商；小販；屠宰|42|肉屋；殺戮する|d|The baker's is next door to the butcher's.||そのパン屋は肉屋の隣です。
@@ -3655,7 +3655,7 @@ cheerful|adj.|快活的；高興的；興高采烈的|42|陽気；快活|a|He is
 chick|n.|小雞；小鳥；竹簾|42|ひよこ；雛|d|Can you return starling chicks to their parents?||ムクドリのヒナを親鳥に返せますか。
 chimney|n.|煙囪；燈罩|42|煙突；カミン|a|The smoke went upward through the chimney.|煙從煙囪裡冒了出來。|煙は煙突を通って上に昇った。
 chin|n.|下巴；頦|42|あご|d|He was listening with his chin resting on his hand.|他用手撐著下巴，聽著。|彼はほおづえをつきながら聞き入っていた。
-chop|n.|肋條肉；排骨；砍；剁碎|42|厚切り肉；切り刻む|h|It still costs energy to chop it off.|還要花能量砍掉。|
+chop|n.|肋條肉；排骨；砍；剁碎|42|切る；チョップ；骨付き肉|v|It still costs energy to chop it off.|還要花能量砍掉。|
 closed|adj.|關閉的；限於少數人的|42|閉じた；閉鎖的な|h|He closed the window for fear of rain.|他怕會下雨，所以就把窗關上了。|雨がふるといけないから窓を閉めた。
 comb|n.|頭梳；雞冠；梳頭髮；梳毛|42|櫛；梳く|a|Comb your hair before you go out.|在你出門之前，把你的頭髮梳一梳。|外出する前に髪を櫛でときなさい。
 commonly|adv.|一般；普通；通常|42|一般に；通常|d|Women commonly live longer than men.|女性通常比男性長壽。|女性は通常男性よりも長生きする。
@@ -3671,7 +3671,7 @@ cubic|adj.|立方體的；立方的|43|立方の；立方体の|h|A cubic meter 
 dancer|n.|舞蹈演員；跳舞者|43|ダンサー；踊り子|a|That is, she is a poor dancer.|那是, 她是個貧窮的舞者。|つまり彼女は下手な踊り子だ。
 delete|v.|刪除|43|デリート；トル|a|Delete his name from the list of the applicants.|從申請單中刪除他的名字。|応募者名簿から彼の名前を削除しなさい。
 diagram|n.|圖表；圖解|43|図解；図式|a|Let me explain it with a diagram.|讓我用一張圖來說明。|図で説明しましょう。
-dick|n.|傢伙；詞典；誓言|43|やつ；探偵|h|||
+dick|n.|傢伙；詞典；誓言|43|やつ；ちんこ；探偵|v|||
 dine|v.|用正餐；進餐；宴請|43|食事をする；ごちそうする|h|What do you say to dining out tonight?|我們今晚出去吃飯，你說怎麼樣？|今夜外で食事をしませんか。
 diploma|n.|文憑；畢業證書|43|卒業証書|d|The principal presented each of the graduates with diploma.|校長向每個畢業生頒發了畢業證書。|校長は卒業生ひとりひとりに卒業証書を授与した。
 directory|n.|目錄；工商名錄；指南|43|ディレクトリ；名鑑|a|May I see the telephone directory?|我能看看電話簿嗎？|電話帳をみせてもらえますか。
@@ -3685,7 +3685,7 @@ dusk|n.|薄暮；傍晚；黃昏；微暗的|43|黄昏；夕闇|a|She said she m
 elevator|n.|電梯；升降機|43|エレベーター|a|The elevator seems to be out of order.|電梯好像故障了。|そのエレベーターは故障しているようだ。
 embarrass|v.|使困窘；使侷促不安；阻礙|43|恥ずかしい思いをさせる；困惑させる|h|I was embarrassed by what she said.|她說的話讓我覺得很尷尬。|彼女の言葉を聞いてどぎまぎした。
 emperor|n.|皇帝；君主|43|皇帝；帝|a|The princess begged forgiveness from the emperor.|公主向皇帝請求饒恕。|姫は帝に赦しを乞うた。
-energetic|adj.|精力充沛的；積極的|43|エネルギッシュ|a|He isn't as energetic as he once was.|他不像從前那樣精力充沛了。|彼はひところの元気がない。
+energetic|adj.|精力充沛的；積極的|43|精力的な；活発な|v|He isn't as energetic as he once was.|他不像從前那樣精力充沛了。|彼はひところの元気がない。
 enlarge|v.|擴大；增大；詳述|43|拡大する；大きくする|h|He tried to enlarge his sphere of influence.|他試圖擴大自己的勢力範圍。|彼は勢力範囲を広げようとした。
 enthusiasm|n.|巨大的熱情；熱心|43|熱意；熱中|d|I saw her at it with great enthusiasm.||私は彼女が熱心にやっているところを見た。
 explorer|n.|探險家；探測者；勘探器|43|探検家；探査機|d|The explorers discovered a skeleton in the cave.|探險家們在洞穴裡發現了骸骨。|探検家達は洞穴の中で骸骨を発見した。
@@ -3698,7 +3698,7 @@ friction|n.|摩擦；摩擦治療；不和|43|摩擦；軋轢|a|So-called trade 
 frozen|adj.|凍結的；冰冷的；嚴寒的|43|凍った；凍結された|h|I bought a bag of frozen corn.|我買了一包冰凍玉米。|冷凍コーンをひと袋、買ったよ。
 fry|n.|油炸食物；魚苗；油炸；煎|43|炒める；稚魚|a|I ate fried rice and drank some beer.|我吃了炒飯，也喝了啤酒。|
 gardening|n.|園藝|43|園芸；ガーデニング|d|Gardening has been popular for some years.|園藝在這幾年很流行。|園芸がここ数年、流行しています。
-genuine|adj.|真正的；真實的；誠懇的|43|本格的；正真正銘|a|I believe it is a genuine Picasso.|我認為是一幅畢加索的原畫。|私はそれは本物のピカソの画だと信じる。
+genuine|adj.|真正的；真實的；誠懇的|43|本物の；誠実な|v|I believe it is a genuine Picasso.|我認為是一幅畢加索的原畫。|私はそれは本物のピカソの画だと信じる。
 geometry|n.|幾何學|43|幾何；幾何学|a|The bright boy comprehended the concept of geometry.||頭の良いその少年は幾何学の概念を理解した。
 glue|n.|膠；粘性物；粘合；膠合|43|グルー；セメダイン|a|Tom's eyes were glued to the screen.|Tom的眼睛被熒幕吸引住了。|トムはスクリーンに釘付けだった。
 haircut|n.|理髮；髮式|43|散髪；理髪|a|I could not help laughing at his haircut.|我忍不住取笑他的髮型。|彼の髪型を見て思わず吹き出してしまった。
@@ -3726,7 +3726,7 @@ liberate|v.|解放；釋放；使自由|43|解放する；自由にする|h|He l
 librarian|n.|圖書館員；圖書管理員|43|司書；ライブラリアン|a|The librarian classified the books according to subject.||司書は主題によって本を分類した。
 luggage|n.|行李；皮箱|43|荷物；ラゲッジ|a|Could you keep this luggage until 3 p.m.?|你可以保管這個行李直到下午三點嗎？|この荷物を午後３時まで預かっていただけますか。
 mankind|n.|人類；男性|43|人類|a|A nuclear war will bring about the destruction of mankind.|核戰爭將會為人類帶來滅亡。|核戦争は人類を滅亡させるだろう。
-mate|n.|配偶；對手；助手；使配對|43|メート；マテ|a|During mating season many animals exude strong fragrances.|很多動物會在交配季節釋放出很強的氣味。|
+mate|n.|配偶；對手；助手；使配對|43|仲間；配偶者；つがう|v|During mating season many animals exude strong fragrances.|很多動物會在交配季節釋放出很強的氣味。|
 memorize|v.|記住；熟記；背熟|43|覚える|a|I can't memorize so many of these letters.||こんなにたくさんの文字を暗記できません。
 merry|adj.|快樂的；愉快的；嬉戲作樂的|43|メリー；嬉々|a|The little girl laughed a merry laugh.|小女孩高興地笑了。|その少女は楽しそうに笑った。
 microscope|n.|顯微鏡|43|顕微鏡|a|This microscope magnifies objects by 100 times.|這臺顯微鏡能把物體放大一百倍。|この顕微鏡は物を１００倍に拡大する。
@@ -3762,9 +3762,9 @@ retired|adj.|隱退的；退休的；退役的|43|引退した；退職した|h|
 reviewer|n.|評論者；書評作者；評論家|43|評論家；レビュアー|d|The reviewer is sharply critical of the novel.||その書評者はその小説に鋭く批判的である。
 rewrite|v.|重寫；改寫；改寫新聞；修改舊作|43|書き換える；リライト|a|You should rewrite this sentence.|你應該重寫這句話。|この文は書き直さないといけませんね。
 rider|n.|騎手；附件；扶手|43|ライダー|a|The prancing chestnut mare whinnied as she tried to get rid of the rider.||棹立ちした栗毛の牝馬は嘶き、騎手を落とそうとした。
-roast|n.|烤肉；烘烤；嘲笑；烘烤的|43|炒る；ロースト|a|How about some more roast beef?|再多一些烤牛肉怎麼樣?|ローストビーフのおかわりはどうですか？
+roast|n.|烤肉；烘烤；嘲笑；烘烤的|43|焼く；ロースト；からかう|v|How about some more roast beef?|再多一些烤牛肉怎麼樣?|ローストビーフのおかわりはどうですか？
 scenery|n.|風景；景色；舞臺佈景|43|風景；景色|a|The tourists were fascinated with the exquisite scenery.|觀光客被獨特的景緻所吸引。|観光客達はその素晴らしい風景にうっとりした。
-selfish|adj.|自私的；利己主義的；自我中心的|43|わがまま；ほしいまま|a|It seems to me that she is a little selfish.|我覺得她有點自私。|私には彼女が少しわがままのように思われる。
+selfish|adj.|自私的；利己主義的；自我中心的|43|利己的な；わがままな|v|It seems to me that she is a little selfish.|我覺得她有點自私。|私には彼女が少しわがままのように思われる。
 sexually|adv.|性別地；兩性之間地|43|性的に|h|||
 sharpen|v.|使尖銳；使敏捷；加重；尖銳化|43|研ぐ；研ぎ澄ます|a|I want a knife to sharpen my pencil with.||私は鉛筆をけずるナイフがほしい。
 sharply|adv.|銳利地；嚴厲地；厲害地|43|鋭く；急に；厳しく|d|Corporate earnings in the first quarter improved sharply.|企業第一季度收益大幅增長。|企業収益は第１四半期に大きく改善した。
@@ -3842,7 +3842,7 @@ bun|n.|小麵包|44|バン；髷|a|I give you a steamed bun to eat.|我給你吃
 bungalow|n.|平房|44|平屋建て住宅|h|The bungalow is approached only by a narrow path.||そのバンガローにいくためには狭い小道しかない。
 burglar|n.|竊賊|44|押し込み強盗；泥棒|d|The burglar shut the child in the closet.|強盜把小孩關在了衣櫃裡。|強盗はその子供を押し入れに閉じ込めた。
 caption|n.|說明；字幕；標題；加上標題|44|キャプション|a|Put a caption on this photo.||この写真にタイトルをつけて。
-cease|n.|停止；終了|44|止む；止まる|a|His behavior never ceases to surprise me.|他的所作所為總是讓我驚訝。|彼の行動にはいつも驚かされる。
+cease|n.|停止；終了|44|やめる；終わる|v|His behavior never ceases to surprise me.|他的所作所為總是讓我驚訝。|彼の行動にはいつも驚かされる。
 centimetre|n.|釐米；公分|44|センチメートル|d|||
 chemist|n.|化學家；藥劑師|44|化学者；薬剤師|d|The young chemist decided to open a pharmacy.|年輕的藥劑師決定要開一家藥房。|
 clumsy|adj.|笨拙的；不雅觀的；粗陋的|44|不器用；拙劣|a|Her movements were awkward and her gesture clumsy.||彼女の動作はぎこちなくしぐさも不器用だった。
@@ -3855,7 +3855,7 @@ cupboard|n.|食櫥；碗櫃；餐具櫃|44|戸棚|a|I looked in the cupboard.|�
 cyclist|n.|騎腳踏車的人|44|自転車乗り；サイクリスト|d|||
 depressed|adj.|沮喪的；降低的|44|落ち込んだ；意気消沈した|h|I get depressed by the slightest things.|我為小事情覺得沮喪。|ちょっとしたことで直ぐに落ち込んでしまいます。
 desperately|adv.|拼命地；絕望地；極度地|44|必死になって；しゃにむに|a|He's desperately trying to make up for the delay.||彼は遅れを取り戻そうと焦っている。
-digest|n.|文摘；消化|44|こなす；ダイジェスト|a|Food you eat that you don't like will not be digested well.|你吃不喜歡的食物會消化不良。|あなたが食べる食物で好きでないものはよく消化しない。
+digest|n.|文摘；消化|44|消化する；要約|v|Food you eat that you don't like will not be digested well.|你吃不喜歡的食物會消化不良。|あなたが食べる食物で好きでないものはよく消化しない。
 disgusting|adj.|令人厭惡的|44|うんざりさせる；ひどく不快な|h|The very idea of it is disgusting.||それを思うだけでも気持ちが悪い。
 dissolve|v.|溶解；解散|44|溶かす；解散する|d|My resolution dissolved at the last moment.|到了最後的一刻，我的決心突然動搖了。|いざというとき決意がくじけた。
 dizzy|adj.|暈眩的；眼花繚亂的；使暈眩|44|めまいがする；目が回る|h|I get dizzy spells when I stand up.|我一站起來就覺得頭暈。|立ちくらみがします。
@@ -3942,7 +3942,7 @@ salty|adj.|有鹽分的；鹹味濃的；海洋的|45|塩辛い；しょっぱ�
 salute|v.|行禮；致意；問候；向...致意|45|敬礼する；挨拶する|h|All the villagers in turn saluted the priest.||村人はみなかわるがわる僧にあいさつした。
 saucer|n.|茶碟；茶托|45|受け皿；托子|a|We believed it to be a flying saucer.||空飛ぶ円盤だと思った。
 savage|adj.|未開化的；野蠻的；無禮的；用暴力對付|45|野蛮；蛮人|a|In culture, they are on the same plane as savages.|在教養上，他們可以說是和野蠻人差不多。|教養の点では彼らは野蛮人と同じ程度だ。
-scissors||剪刀|45|はさみ；チョキ|a|There is a pair of scissors on the desk.|書桌上有一把剪刀。|机の上にはさみがあります。
+scissors||剪刀|45|はさみ|v|There is a pair of scissors on the desk.|書桌上有一把剪刀。|机の上にはさみがあります。
 scold|n.|好罵街的人；責罵|45|しかる|a|The professor scolded John for skipping class.|教授罵了約翰一頓因為他翹了幾堂課。|教授は授業をサボったジョンを叱った。
 shabby|adj.|衣衫襤褸的；低劣的；破舊的|45|みすぼらしい；くたびれた|d|The room was empty except for a shabby bed.|房間除了一張破舊的床以外，就甚麼也沒有了。|その部屋には、使い古したベッドの他は何もなかった。
 sincerely|adv.|真誠地|45|くれぐれも|a|His employer was sincerely grateful for his cooperation.||雇用主は彼の協力に心から感謝した。
@@ -3961,11 +3961,11 @@ strait|n.|海峽；困境；困難的；窘迫的|45|瀬戸；海門|a|This boat
 strictly|adv.|嚴格地；確實地|45|厳格に；厳密に|h|Strictly speaking, Chinese consists of hundreds of dialects.|嚴格來說，中文包含幾百種方言。|厳密に言えば、中国語は何百もの方言から成り立っている。
 striking|adj.|醒目的；驚人的；打擊的|45|著しい|a|The resemblance between Sean and Conner is striking!|Sean 和 Conner 長得真像！|ショーンはコナーに激似なんだぜ。
 sub|n.|補充人員；部下；潛水艇；附屬的|45|サブ|a|I'd defeated the four sub-bosses and got through the damn long underground labyrinth.||四天王も倒した、クソ長い地下迷宮もクリアした。
-tackle|n.|工具；復滑車；滑車；固定|45|道具；取り組む|d|To begin with, we must tackle the problem.|首先我們必須處理這個問題。|まず第１に、私たちはその問題に取り組まなければならない。
+tackle|n.|工具；復滑車；滑車；固定|45|取り組む；タックル；道具|v|To begin with, we must tackle the problem.|首先我們必須處理這個問題。|まず第１に、私たちはその問題に取り組まなければならない。
 tanker|n.|坦克手；油船；空中加油飛機|45|タンカー|a|The huge tanker has just left the dock.|一艘巨大的液貨船剛剛啟航。|巨大なタンカーがついに今し方出港した。
 teamwork|n.|協同作業；協力|45|チームワーク；連係プレー|a|The most wonderful thing about baseball is teamwork.||野球の最もすばらしいところはチームワークだ。
 thirst|n.|口渴；渴望|45|渇き；渇|a|Our people thirst for independence.|我們的人民渴望獨立。|わが国の国民は独立を渇望している。
-thoroughly|adv.|徹底地；絕對地；透徹地|45|散々；徹頭徹尾|a|We're thoroughly prepared for the Y2K bug.|我們已經準備好應付千年蟲。|我が社は、２０００年問題への対応は万全です。
+thoroughly|adv.|徹底地；絕對地；透徹地|45|徹底的に；完全に|v|We're thoroughly prepared for the Y2K bug.|我們已經準備好應付千年蟲。|我が社は、２０００年問題への対応は万全です。
 thriller|n.|使人激動的東西；使人毛骨悚然的東西；使人毛骨悚然的小說|45|スリラー|a|Jack's adventures are more amazing than those of the hero in many thrillers.||ジャックの冒険は、多くのスリラー物の主人公の冒険よりも素晴らしい。
 thunderstorm|n.|雷暴雨|45|雷雨|a|Trains were disrupted due to a thunderstorm.||雷雨のため列車のダイヤが乱れた。
 tightly|adv.|緊緊地；堅固地|45|しっかり；ぴったり|a|She held on to my hand tightly.|她緊緊抓住了我的手。|彼女は私の手にしっかりとしがみ付いた。
@@ -4013,7 +4013,7 @@ bent|adj.|彎曲的；決心的；愛好|45|曲がった；心に決めた|d|He 
 bingo|n.|賓戈；烈酒|45|ビンゴ；備後|a|In the evenings, we played bingo.||夜はビンゴゲームをしました。
 biochemistry|n.|生物化學|45|生化学|a|I have little knowledge of biochemistry.||わたしは生化学についてほとんど知らない。
 boating|n.|划船|45|ボート遊び；船遊び|d|I got soaked boating downriver.||川下りでびしょびしょになった。
-bookcase|n.|書架；書櫃|45|本箱|a|This bookcase is easy to assemble.|這個書架組裝起來很簡單。|この本棚は組み立てが簡単です。
+bookcase|n.|書架；書櫃|45|本棚|v|This bookcase is easy to assemble.|這個書架組裝起來很簡單。|この本棚は組み立てが簡単です。
 bookmark|n.|書籤|45|ブックマーク；しおり|a|Tom used an old postcard as a bookmark.||トムは古いハガキをしおり代わりにした。
 bookshop|n.|書店|45|書店|a|What is the address of the new bookshop?||新しい書店の住所はどこですか。
 bore|n.|令人討厭的人；激浪；槍膛；使煩擾|45|退屈な人；退屈させる|h|Mary seems to be bored with the game.|瑪麗似乎對這個遊戲感到無聊。|メアリーはその試合に退屈しているようだ。
@@ -4024,7 +4024,7 @@ brotherhood|n.|手足情誼；兄弟關係|45|兄弟関係；友愛|h|"Freedom, 
 brunch|n.|早午餐|45|ブランチ；朝昼兼用の食事|d|||
 businesswoman|n.|商人；辦理實務的人；經商者|45|女性実業家|d|||
 calculation|n.|計算；考慮；計算的結果|45|計算；勘定|a|According to my calculation, she should be in India by now.|根據我的估計，她現在應該在印度了。|私の推測によれば、彼女はもうインドにいるはずだ。
-canteen|n.|水壺；軍中俱樂部；臨時流動餐館|45|水筒；酒保|a|There is little water left in the canteen.||水筒にはほとんど水が残っていない。
+canteen|n.|水壺；軍中俱樂部；臨時流動餐館|45|食堂；水筒|v|There is little water left in the canteen.||水筒にはほとんど水が残っていない。
 chairwoman|n.|女主席；女議長|45|女性議長；女性会長|h|||
 changeable|adj.|可改變的|45|変えられる；変わりやすい|d|A woman is ever fickle and changeable.|女人薄情善變。|
 cheers|int.|乾杯；再見|45|乾杯；喝采|a|The speech was greeted by loud cheers.||その演説は大喝采をもって歓迎された。
@@ -4041,7 +4041,7 @@ devoted|adj.|投入的；深愛的|45|献身的な；愛情深い|d|All his ener
 dictation|n.|聽寫；口述；命令|45|口述；述|a|The secretary took dictation from her boss.||秘書はボスが口述するのを受けた。
 disc|n.|圓盤；唱片；灌唱片|45|円盤；ディスク|d|Compact discs have entirely taken the place of phonograph records.|CD已經完全取代了膠木唱片。|ＣＤはすっかりレコードに取って代わった。
 disobey|v.|違反；不服從|45|従わない；背く|d|These days he disobeys his parents.||このごろ彼は親に反抗する。
-don|n.|西班牙貴族；先生；閣下；穿上|45|着る；大学教授|h|I don't know if I have the time.|我不知道我有沒有時間。|時間があるか分かりません。
+don|n.|西班牙貴族；先生；閣下；穿上|45|着る；大学教授；首領|v|I don't know if I have the time.|我不知道我有沒有時間。|時間があるか分かりません。
 drier|n.|乾燥機；乾燥劑|45|乾燥機；乾燥剤|h|Hot, dry areas will become hotter and drier.||暑く乾燥した地域はますます暑く乾燥するであろう。
 eastwards|adv.|向東方地|45|東へ|h|||
 emotionally|adv.|在情緒上|45|感情的に；感情面で|h|||
@@ -4083,7 +4083,7 @@ irrigate|v.|灌溉；沖洗傷口；使清新|45|灌漑する；洗浄する|h|C
 judgement|n.|審判；判決；判斷|45|判定；鑑定|a|We can rely on his judgement.|我們可以信賴他的判斷。|我々は彼の判断を信頼できる。
 kangaroo|n.|袋鼠|45|カンガルー|a|Female kangaroos carry their young in their pouches.||カンガルーの雌は子供を腹の袋に入れて動く。
 knot|n.|結；群；難題；打結|45|結び目；ノット|d|When are you planning to tie the knot?||いつ結婚するつもりなの。
-lavatory|n.|洗臉盆；廁所|45|ラバトリー|a|We have just cleaned the lavatory.|我們剛打掃了廁所。|ちょうど今トイレの掃除が終わったところです。
+lavatory|n.|洗臉盆；廁所|45|トイレ；洗面所|v|We have just cleaned the lavatory.|我們剛打掃了廁所。|ちょうど今トイレの掃除が終わったところです。
 locust|n.|蝗蟲；蚱蜢；蟬|45|イナゴ；バッタ|d|That's not a grasshopper. It's a locust!|那不是螞蚱。是蝗蟲！|
 loudspeaker|n.|擴音器；喇叭|45|ラウドスピーカー|a|||
 loyal|adj.|忠誠的；忠實的；忠貞的|45|忠実な；忠誠心のある|h|We must be loyal to our principles.||私たちは主義に忠実でなければならない。
@@ -4145,7 +4145,7 @@ sightseeing|n.|觀光；遊覽；觀光的；遊覽的|46|観光；見物|a|The 
 skateboard|n.|溜冰板|46|スケートボード|d|When you skateboard, it puts quite a strain on your knees.||スケートボードをすると結構膝に負担がかかると思う。
 skillful|adj.|熟練的；巧妙的|46|うまい；上手|a|Bill is skillful in arguing and debating.|比爾擅長辯論。|ビルは論争が巧みだ。
 skillfully|adv.|巧妙地；精巧地|46|巧みに；器用に|h|He skillfully turned the trouble to his advantage.||彼はうまくそのトラブルを逆手に取った。
-smash|n.|打碎；粉碎；打碎時嘩啦聲；非常轟動的|46|潰す；スマッシュ|a|The front windshield of a car was smashed to pieces.|車頭的擋風玻璃被砸至粉碎。|車のフロントガラスが粉々に割れたの。
+smash|n.|打碎；粉碎；打碎時嘩啦聲；非常轟動的|46|粉砕する；スマッシュ；大ヒット|v|The front windshield of a car was smashed to pieces.|車頭的擋風玻璃被砸至粉碎。|車のフロントガラスが粉々に割れたの。
 smelly|adj.|發臭的；有臭味的|46|臭い；悪臭のある|d|||
 smog|n.|煙霧|46|スモッグ|a|The air was infected with photochemical smog.||空気は光化学スモッグで汚染されていた。
 sneeze|n.|噴嚏；打噴嚏|46|くしゃみ；嚏る|a|I think I'm gonna sneeze. Give me a tissue.|我想我要打噴嚏了。。。給我張紙巾。|くしゃみが出そう・・・ティッシュちょうだい。
@@ -4160,7 +4160,7 @@ stewardess|n.|空中小姐；女管理人；女管家|46|スチュワーデス�
 stopwatch|n.|計時錶；碼錶|46|ストップウォッチ|a|||
 stout|adj.|結實的；矮胖的；勇敢的；矮胖子|46|豊満；スタウト|a|He looked small beside my father's stout body.||がっしりした私の父の隣にいて、彼は小さく見えた。
 substantially|adv.|實質上；本質上；大體上|46|実質的に；かなり|h|||
-subtraction|n.|減少|46|控除；引き算|a|I like addition but not subtraction.||足し算は好きだけど引き算は嫌いだ。
+subtraction|n.|減少|46|引き算；控除|v|I like addition but not subtraction.||足し算は好きだけど引き算は嫌いだ。
 superman|n.|具有超人能力的人；超人|46|超人；スーパーマン|a|Superman flies as fast as a rocket.||スーパーマンはロケットと同じくらいに速く飛ぶ。
 suspicious|adj.|可疑的；多疑的；懷疑的|46|怪しい；いかがわしい|a|The police are suspicious of my alibi.|警察覺得我的不在場證明可疑。|警察は私のアリバイを疑っている。
 tasteless|adj.|沒味道的；無鑑賞力的|46|味のない；趣味の悪い|d|Today's broccoli is overcooked and tasteless.||今日のブロッコリー、ゆだりすぎでおいしくないよ。
@@ -4183,13 +4183,13 @@ westwards|adv.|向西|46|西へ；西向きに|h|||
 windbreaker|n.|防風林；防風茄克衫；風衣|46|ウインドブレーカー|d|||
 workday|n.|工作日；工作時數|46|平日；労働日|d|Sunday is not a workday for me.|我在星期日不工作。|日曜日には仕事はしません。
 yummy|adj.|美味的；可口的；賞心悅目的|46|おいしい；うまい|h|Tom was stuffing his face with yummy cake.||トムったらね、美味しそうなケーキをガツガツ食べてたのよ。
-addicted|adj.|沉溺於...的；無法擺脫的|46|夢中になった；依存した|h|Many criminals in America are addicted to drugs.|美國的罪犯大多是吸毒成癮的癮君子。|アメリカの犯罪者の多くは麻薬中毒である。
+addicted|adj.|沉溺於...的；無法擺脫的|46|中毒になった；夢中になった|v|Many criminals in America are addicted to drugs.|美國的罪犯大多是吸毒成癮的癮君子。|アメリカの犯罪者の多くは麻薬中毒である。
 aeroplane|n.|飛機|46|飛行機|d|Tom likes making paper aeroplanes.|湯姆喜歡摺紙飛機。|トムは紙飛行機を作るのが好きだ。
 afterwards|adv.|然後；後來|46|その後；のちに|d|Keep your eyes wide open before marriage, half shut afterwards.|婚前張開眼，婚後半閉眼。|結婚前は両目を見開き、結婚したら片目をつぶれ。
 airmail|n.|航空郵件|46|エアメール；航空便|a|I'm sending you a birthday present by airmail.|我寄給你一個航空郵件生日禮物。|
 allied|adj.|聯盟的；聯姻的；聯絡起來的|46|連合の；提携した|h|Germany was allied with Italy in World War II.|在二戰中，德國與義大利結盟。|ドイツとイタリアは第二次世界大戦中、同盟国であった。
 aluminium|n.|鋁；鋁的|46|アルミニウム|a|Powders of aluminium, magnesium, silicon, etc. explode.||アルミニウム、マグネシウム、シリコンなどの粉末が爆発する。
-are||be的現在時複數或第二人稱單數|46|～である；～です|h|"Pass me the salt, please." "Here you are."|“請把鹽遞給我。”“拿著。”|「塩を取って下さい」「はい、どうぞ」
+are||be的現在時複數或第二人稱單數|46|〜である；〜です|v|"Pass me the salt, please." "Here you are."|“請把鹽遞給我。”“拿著。”|「塩を取って下さい」「はい、どうぞ」
 backache|n.|背痛|46|背中の痛み；腰痛|d|His backache left him lurching along with leaden legs.||腰の痛みから足が鉛のように重く引きずるように歩いていました。
 ballpoint|n.|圓珠筆|46|ボールペン|h|My ballpoint pen just ran out of ink.|我的原珠筆沒墨了。|ボールペンのインクがなくなった。
 bay|n.|海灣；狗吠聲；月桂；吠|46|湾；ベイ|a|Mt. Fuji as seen from Suruga Bay is beautiful.|從駿河灣看, 富士山很美麗。|駿河湾から見た富士山は美しい。
@@ -4206,7 +4206,7 @@ cheque|n.|支票|46|小切手|a|Are you allowed to pay by cheque?||小切手で�
 chips|n.|炸土豆條；小木片；圓形籌碼|46|ポテトチップス；破片|h|Help yourself to more potato chips.|隨意多吃點洋芋片吧。|もっとポテトチップスをご自由に召し上がれ。
 complicate|v.|弄複雜；使錯綜；使惡化；變複雜|46|複雑にする；こじらせる|d|Computers are capable of doing extremely complicated work.|電腦可以做極為複雜的工作。|コンピューターは極めて複雑な仕事をすることが出来る。
 confine|v.|限制；使不外出；禁閉；鄰接|46|閉じ込める；制限する|h|He is confined to bed now.|他現在臥床不起。|彼は寝込んでいる。
-confused|adj.|困惑的；混亂的|46|まごまご；しどろもどろ|a|I was very confused by his questions.|我對他的問題感到非常困惑。|彼の質問にひどく面食らってしまった。
+confused|adj.|困惑的；混亂的|46|困惑した；混乱した|v|I was very confused by his questions.|我對他的問題感到非常困惑。|彼の質問にひどく面食らってしまった。
 congratulation|n.|祝賀；恭喜|46|お祝い；祝い|a|I wired him a message of congratulation on his graduation.||私は彼の卒業祝いに電報を打った。
 cosy|adj.|溫暖舒適的；保暖套|46|居心地のよい；暖かい|d|||
 customs|n.|海關；關卡；關稅|46|関税；税関|a|These customs differ from those in our country.|這些習俗和我們國家不同。|これらの慣習は、わが国の慣習と異なる。
@@ -4218,7 +4218,7 @@ educated|adj.|受過教育的；有教養的|46|教育を受けた；教養の�
 embarrassing|adj.|令人為難的；麻煩的|46|恥ずかしい；照れくさい|a|It's embarrassing to be seen without make-up so please don't stare.|素顏太害羞了，請不要盯著我看。|すっぴんは恥ずかしいのであまり見ないで下さい。
 embarrassment|n.|困難；阻礙；困窘|46|困惑；恥ずかしさ|d|Giggling with embarrassment, she held out the condom.|她害羞地笑著拿出了避孕套。|彼女はうふふと照れながらコンドームを差し出した。
 enquiry|n.|詢問|46|問い合わせ；質問|d|||
-favour|n.|好感；偏愛；喜愛；贊成|46|恩；贔屓|a|Could you do me a favour please?|請你幫我個忙好嗎?|頼みを聞いてくれませんか。
+favour|n.|好感；偏愛；喜愛；贊成|46|好意；親切；賛成する|v|Could you do me a favour please?|請你幫我個忙好嗎?|頼みを聞いてくれませんか。
 fibre|n.|纖維；構造；纖維製品|46|繊維|a|Fibre-optic cables can carry huge amounts of information.||光ファイバーケーブルは膨大な量の情報を搬送できる。
 finely|adv.|雅緻地；仔細地；敏銳地|46|細かく；繊細に|d|She was a girl with finely chiseled features.||彼女は彫りの深い顔立ちの女の子でした。
 forgetful|adj.|健忘的；易忘的|46|忘れっぽい|d|He's very forgetful of things.|他很健忘。|あいつは物事をとっても忘れっぽい。
@@ -4261,17 +4261,17 @@ qualified|adj.|有資格的|46|資格のある；適任の|h|He is not qualified
 radium|n.|鐳|46|ラジウム|a|It was Marie Curie who discovered radium.|鐳是居里夫人所發現的。|ラジウムを発見したのはマリー・キュリーであった。
 refreshments|n.|茶點；點心；小吃|46|軽食；飲み物|d|We will continue the meeting after some light refreshments.|茶點過後我們接著開會。|
 remains|n.|剩餘物；廢墟；殘餘|46|遺跡；名残|a|There still remains much to be done.|還有很多東西要做。|やらないといけない事はまだたくさんあります。
-repairs|n.|備件；修理；修理費|46|修理；修理費|h|Repairs will cost a lot of money.|修理將要花費很多錢。|修理は、かなりお金がかかりますよ。
+repairs|n.|備件；修理；修理費|46|修理；修繕|v|Repairs will cost a lot of money.|修理將要花費很多錢。|修理は、かなりお金がかかりますよ。
 repeated|adj.|重複的；再三的|46|繰り返された；再三の|h|His ambition was blasted by these repeated failures.|無數次的失敗摧毀了他的雄心壯志。|これらのたび重なる失敗で彼の大望がくじけた。
 revise|n.|校訂；修正；改樣|46|改訂する；修正する|h|A revised edition of the encyclopedia was published.||その百科事典の改訂版が出版された。
-sadly|adv.|悲痛地；悲慘地；悲傷地|46|悲しげに；残念ながら|h|"He used to love me," she answered sadly.|他以前愛我，她傷心地回答。|以前は愛してくれたのだけれど。と彼女は悲しそうに答えた。
+sadly|adv.|悲痛地；悲慘地；悲傷地|46|悲しく；残念ながら|v|"He used to love me," she answered sadly.|他以前愛我，她傷心地回答。|以前は愛してくれたのだけれど。と彼女は悲しそうに答えた。
 salesgirl|n.|女店員|46|女性店員|h|A beautiful salesgirl waited on me in the shop.||あの店で美人の店員が僕に着いてくれた。
 sceptical|adj.|懷疑論的；懷疑的|46|懐疑的な；疑い深い|h|||
 scores|n.|大量；眾多；二十|46|多数；二十|h|She is not in the least worried about her test scores.|她完全不擔心測驗的分數。|彼女はテストの点数について少しも気にしてない。
-sharpener|n.|研磨者；卷筆刀；研磨工具|46|削り器；研ぎ器|h|This pencil is blunt. Have you got a sharpener?||この鉛筆、先が丸くなってる。鉛筆削り持ってる？
+sharpener|n.|研磨者；卷筆刀；研磨工具|46|鉛筆削り；研ぎ器|v|This pencil is blunt. Have you got a sharpener?||この鉛筆、先が丸くなってる。鉛筆削り持ってる？
 shaver|n.|修面的人；電動剃刀；刨刀|46|シェーバー|a|I should have tried out this electric shaver before buying it.|我本該在買下這個電動剃鬚刀之前試一下的。|この電気かみそりは買う前に試してみるべきだった。
 shocked|adj.|震撼的；震驚的|46|ショックを受けた；愕然とした|h|My dad was completely shocked by my silly question.|我爸被我的愚蠢問題徹底嚇到了。|父は私のばかげた質問にすっかり仰天してしまった。
-sideway|n.|小路；人行道；旁路|46|小道；わき道|h|||
+sideway|n.|小路；人行道；旁路|46|横道；歩道|v|||
 sneaker|n.|鬼鬼祟祟做事的人；卑鄙者；帆布膠底運動鞋|46|スニーカー|a|That boy put on his sneakers and ran outside.|那個男孩穿上了他的運動鞋，跑向外面。|
 souvenirs|n.|紀念品|46|記念品；土産|h|Last week, I mailed him some souvenirs from the U.S.|上週我寄了一些美國紀念品給他。|先週米国からのみやげ品を彼に郵送した。
 spice|n.|香料；藥料；香氣；加香料|46|スパイス；香辛料|a|This store has a variety of spices.|這家商店有各種香料。|この店はいろいろなスパイスを扱っている。
@@ -4306,7 +4306,7 @@ beautifully|adv.|美好地；漂亮地|47|美しく；見事に|h|Rocks are beau
 behavior|n.|行為；舉止|47|振る舞い；素振り|a|Your behavior is creating a lot of problems.|你的行為引起了許多的麻煩。|君の振る舞いは多くの問題を引き起こしている。
 broadly|adv.|寬廣地；明白地；無禮貌地|47|広く；大まかに|h|Broadly speaking, dogs are more faithful than cats.||大まかに言って、犬は猫より忠実だ。
 campus|n.|校園；大學生活|47|キャンパス|a|I met her on campus yesterday.|我昨天在校園裡遇到了她。|構内で昨日彼女に会ったよ。
-color|n.|顏色；面色；顏料；把...塗上顏色|47|カラー|a|Do you have this jacket in different colors?|你有不同顏色的外套嗎？|このジャケットの色違いはありますか。
+color|n.|顏色；面色；顏料；把...塗上顏色|47|色；着色する|v|Do you have this jacket in different colors?|你有不同顏色的外套嗎？|このジャケットの色違いはありますか。
 confusing|adj.|令人困惑的；混淆的；混亂的|47|紛らわしい；わかりにくい|d|I was mixed up by the confusing explanation.||そのややこしい説明では私は訳がわからなくなってしまった。
 creative|adj.|有創造力的；創作的；產生的|47|クリエイティブ；創造的|a|The place was alive with creative young people.||その場所は創造力豊かな若い人であふれていた。
 crisp|adj.|脆的；新鮮的；活潑的；烘脆|47|パリッとした；さくさくの|h|You have a very crisp way of speaking.||あなたの話し方はなかなか歯切れがいいですね。
@@ -4315,7 +4315,7 @@ deliberate|adj.|深思熟慮的；故意的；從容的；仔細考慮|47|意図
 democracy|n.|民主政治；民主主義|47|民主；デモクラシー|a|He doesn't have any knowledge about American democracy.|他一點都不知道美國的民主。|彼はアメリカの民主主義について何も知らない。
 democratic|adj.|民主的|47|民主的|a|The United States of America is a democratic country.|美國是一個民主國家。|米国は民主国家である。
 depression|n.|不景氣；消沉；沮喪|47|うつ；憂鬱|a|She sometimes goes into a mood of depression.|她有時變得心情抑鬱。|彼女は憂鬱状態になることがある。
-efficiently|adv.|生效；能勝任；有能力|47|手際よく|a|If you make a study plan, you can make progress efficiently.|只要制定學習計劃，就能有效地取得進步。|勉強の計画を立てておくと、効率よく進められる。
+efficiently|adv.|生效；能勝任；有能力|47|効率的に；手際よく|v|If you make a study plan, you can make progress efficiently.|只要制定學習計劃，就能有效地取得進步。|勉強の計画を立てておくと、効率よく進められる。
 eliminate|v.|除去；排除；剔除|47|取り除く；排除する|h|If mankind doesn't take care of the environment, the environment may eliminate mankind.|如果人類不好好保護大自然，大自然說不定會反過來把人類毀滅。|人類が環境を保護しなければ環境から人類は締め出されるだろう。
 enhance|v.|提高；加強；增加|47|高める；強化する|d|Garlic enhances the flavor of meals.||にんにくは食事の風味を増す。
 entertaining|adj.|使人愉快的；有趣的|47|面白い；楽しませる|d|I think a movie is more entertaining than any book.|我覺得一部電影比任何書都有趣。|映画の方がどんな本より面白いと思う。
@@ -4335,8 +4335,8 @@ immigrant|n.|移民；移入的；移民的|47|移民；移住者|d|The immigran
 implement|n.|工具；器具；手段；實現|47|道具；実施する|d|They implemented a communication policy so as to promote their new concept.|他們到位了實行新概念的廣告策略。|彼らは自分たちの新しいコンセプトを広めるためにあるコミュニケーションポリシーを採用した。
 indirect|adj.|間接的；非直截了當的；不坦率的|47|間接的|a|Taxes consist of direct taxes and indirect ones.||税は直接税と間接税からなっている。
 indoor|adj.|戶內的；室內的|47|室内；インドア|a|The world's largest indoor beach is located in Brandenburg, Germany.||世界一の大きさを誇る室内ビーチは、ドイツのブランデンブルクにあります。
-insult|n.|侮辱；無禮；損害|47|侮辱；陵辱|a|I was insulted in front of other people.||私は人の前で侮辱された。
-intense|adj.|非常的；強烈的；緊張的|47|激甚|a|How are you keeping off this intense heat?|你是怎麼避開這酷暑的？|猛暑をどうしのいでいますか。
+insult|n.|侮辱；無禮；損害|47|侮辱；侮辱する|v|I was insulted in front of other people.||私は人の前で侮辱された。
+intense|adj.|非常的；強烈的；緊張的|47|激しい；強烈な|v|How are you keeping off this intense heat?|你是怎麼避開這酷暑的？|猛暑をどうしのいでいますか。
 interaction|n.|互動作用；交感|47|相互作用；交流|d|Then interaction with others becomes important.||そこで他人との相互作用が大切になる。
 jealous|adj.|嫉妒的；羨慕的；留心的|47|嫉妬深い；うらやましい|d|You must not be jealous of others' success.|不要嫉妒其他人的成功。|他人の成功をねたんではならない。
 jury|n.|陪審團；評判委員會；應急的|47|ジュリー；陪審|a|The jury's guilty verdict gave rise to widespread debate.|陪審團作出的犯罪判決激起了很大的爭論。|陪審団による有罪評決が大論争の引き金となった。
@@ -4345,18 +4345,18 @@ leadership|n.|領導能力；領導階層|47|主導；リーダーシップ|a|He
 learning|n.|學問；學識；學習|47|学；学習|a|He is quick at learning a foreign language.|他外語學得很快。|彼は外国語の上達が早い。
 legislation|n.|立法；法律|47|法制；立法|a|The government has the power of legislation.||政府は立法権を持っている。
 liberal|adj.|慷慨的；不拘泥的；寬大的；自由主義者|47|リベラル|a|Take a liberal view of young people.||若い人を寛大に考えなさい。
-lower|adj.|低的；下級的；下層的；降低|47|引き下げる；低める|a|I think we should lower the price.|我覺得我們得調低價格。|値下げした方がいいと思います。
+lower|adj.|低的；下級的；下層的；降低|47|より低い；下げる|v|I think we should lower the price.|我覺得我們得調低價格。|値下げした方がいいと思います。
 lump|n.|塊；瘤；很多；使成塊狀|47|塊；ダマ|a|He is a lump of selfishness.|他是個極其自私自利的人。|彼は利己心の固まりのような男だ。
 matching|adj.|相同的；協調的|47|一致する；似合う|h|I might add a more matching English sentence.||もっと合う英文を追加するかも。
 matt|adj.|表面暗淡的；無光澤的；表面粗糙的|47|つや消しの|h|Matt is a powerful acquisition for our team.||マットは我々のチームの強力な新メンバーだ。
 mission|n.|任務；代表團；使命；派遣|47|ミッション；使命|a|I am charged with an important mission.|我身負一個重要的任務。|私は重大使命をおびている。
 morally|adv.|道德上；德性上；有道德地|47|道徳的に|h|I feel morally indebted to her.||彼女には頭が上がらない。
-moving|adj.|動人的；令人感動的；鼓動的|47|引っ越し；移転|a|More and more people are moving to urban areas.|越來越多的人遷往市區。|ますます多くの人々が都会に移ってきている。
+moving|adj.|動人的；令人感動的；鼓動的|47|感動的な；動いている|v|More and more people are moving to urban areas.|越來越多的人遷往市區。|ますます多くの人々が都会に移ってきている。
 multiple|n.|倍數；並聯；多樣的；許多的|47|多重；倍数|a|There was a multiple collision on the highway.||高速道路では多数の衝突があった。
 neighborhood|n.|附近；鄰近|47|付近；界隈|a|The whole neighborhood was surprised at the news.|整個小區對這個訊息很驚訝。|近所の人たちは皆その知らせに驚いた。
-nicely|adv.|漂亮地；謹慎地；恰好地|47|よく；よう|a|The translation was nicely true to the original.||その翻訳は原作に見事に忠実であった。
+nicely|adv.|漂亮地；謹慎地；恰好地|47|うまく；立派に|v|The translation was nicely true to the original.||その翻訳は原作に見事に忠実であった。
 notion|n.|概念；觀念；想法|47|考え；概念|d|All these notions I have long since abandoned.||私はこのような考えをずっと前にすっかり捨ててしまった。
-numerous|adj.|很多的；數目眾多的；多數的|47|多し|a|Richard Roberts is the author of numerous books.|理察·羅伯茨是很多本書的作者。|リチャード・ロバーツは、多くの本の著者です。
+numerous|adj.|很多的；數目眾多的；多數的|47|多数の；多くの|v|Richard Roberts is the author of numerous books.|理察·羅伯茨是很多本書的作者。|リチャード・ロバーツは、多くの本の著者です。
 oddly|adv.|奇怪地|47|奇妙に；不思議に|h|Oddly enough, he insisted on his innocence.||奇妙な話だが、彼は自分の無罪を主張した。
 okay|adj.|好；可以；行|47|大丈夫な；いいよ|h|Is it okay if I take a break?|我休息一會沒問題吧？|休憩してもいいですか？
 opposing|adj.|對面的；反對的；相反的|47|対立する；反対の|h|I can't help opposing the marriage.||私はその結婚に反対せざるを得ません。
@@ -4366,7 +4366,7 @@ perspective|n.|遠景；透視感；視角；透視的|47|遠近法；パース�
 poll|n.|投票；民意測驗；選舉投票；對...進行民意測驗|47|世論調査；投票|d|The result of the poll will be known soon.||投票結果はもうすぐわかるだろう。
 portion|n.|部分；一份；命運；分配|47|部分|a|He finished the steak, then ordered another portion.|他吃完排骨又點了一份。|
 prime|n.|最佳部分；初期；全盛期；主要的|47|最も重要な；最盛期|d|This is the house in which the prime minister lives.|這是總理住的房子。|ここが総理大臣の住んでいる家です。
-princess|n.|公主；王妃；女巨頭|47|妃；プリンセス|a|At last, Mario managed to win the princess's love.|最後，馬裡奧設法贏得公主的愛。|やっと、マリオさんが姫さまの愛を勝ち得ることができた。
+princess|n.|公主；王妃；女巨頭|47|王女；姫；プリンセス|v|At last, Mario managed to win the princess's love.|最後，馬裡奧設法贏得公主的愛。|やっと、マリオさんが姫さまの愛を勝ち得ることができた。
 proudly|adv.|傲慢地；自大地；得意洋洋地|47|誇らしげに|h|Anti-furries have proudly voiced their opposition on the Internet.||アンチケモナーらはインターネット上で誇らしげにケモナーらに対して異を唱えた。
 relaxed|adj.|鬆懈的；不嚴密的；不嚴格的|47|くつろいだ；ゆるやかな|h|I relaxed at home last Sunday.|我上個星期天在家裡放輕鬆。|この間の日曜日は、家でゆっくりしてました。
 republican|n.|共和主義者；共和黨員；共和政體的；共和國的|47|共和主義者；共和党員|h|Many Republicans didn't vote for their own candidate.||多くの共和党員が自党の候補者には投票しなかった。
@@ -4376,9 +4376,9 @@ revenue|n.|收入；歲入；稅收|47|歳入；収益|d|Many websites are suppo
 satisfying|adj.|滿意的；充分的；足可相信的|47|満足のいく|d|He was zealous in satisfying his employer.||彼は努めて雇い主を満足させようとした。
 secretly|adv.|秘密地；背地裡|47|密かに；こっそり|d|He secretly showed me her picture.|他給我偷偷地展示了她的照片。|彼は僕に彼女の写真をこっそり見せてくれた。
 sensible|adj.|有感覺的；敏感的；明智的|47|分別のある；賢明な|h|It was sensible of you to follow her advice.|你聽從她的忠告是明智的。|あなたが彼女の忠告に従ったのは賢明でした。
-setting|n.|環境；背景；佈景|47|セッティング；目立て|a|The sky was fiery with the setting sun.||空は夕日で燃えているようだった。
+setting|n.|環境；背景；佈景|47|設定；環境；舞台|v|The sky was fiery with the setting sun.||空は夕日で燃えているようだった。
 shocking|adj.|令人震驚的；極壞的；不正當的|47|ショッキング|a|His nonsensical behavior is shocking.||彼の馬鹿げた振る舞いには呆れるよ。
-singing|n.|歌唱；歌聲|47|唱歌；奉唱|a|They went along the street singing the song.|他們一邊唱歌一邊走路。|彼らは歌を歌いながら、道を歩いた。
+singing|n.|歌唱；歌聲|47|歌うこと；歌唱|v|They went along the street singing the song.|他們一邊唱歌一邊走路。|彼らは歌を歌いながら、道を歩いた。
 smoothly|adv.|平滑地；流暢地；流利地|47|スラスラ；つるり|a|This car is running less smoothly than it used to.|這輛車沒有以前跑得那麼順暢了。|この車は以前ほど快調に走らない。
 sore|adj.|悲傷的；痛的；引起痛苦的；痛處|47|痛い；ひりひりする|d|I had sore legs the next day.|第二天我的腿很酸。|翌日は足が痛かった。
 species|n.|種；類；外形|47|種；種類|d|Butterflies of this species are now extinct.|這品種的蝴蝶現在已經絕種了。|いまはもうこの種のちょうは絶えてしまっている。
@@ -4400,7 +4400,7 @@ admiration|n.|讚賞；欽佩；引人讚賞的物件|47|感心；観賞|a|I had
 alarming|adj.|使人驚恐的；引起驚恐的|47|驚くべき；不安をかき立てる|h|||
 assign|v.|分配；指派；賦值|47|充てる；割り当てる|a|My boss assigned the hard job to me.|我老闆把艱鉅的任務指派給了我。|上司はその大変な仕事を私に割り当てた。
 assignment|n.|分配；功課；任務|47|配属；アサイン|a|The assignment took me longer than I had expected.|我用了比我預期更長的時間來完成作業。|その宿題は思ったより時間がかかった。
-auto||表示"自己"、"本身"；表示"自己的"；表示"自動的"；汽車|47|オート|a|Slow economic recovery has sent auto sales plummeting.||経済回復の遅れは自動車の売り上げを急落させました。
+auto||表示"自己"、"本身"；表示"自己的"；表示"自動的"；汽車|47|自動車；自動の|v|Slow economic recovery has sent auto sales plummeting.||経済回復の遅れは自動車の売り上げを急落させました。
 backwards|adv.|向後|47|後ろ向きに；逆に|h|Life can only be understood backwards, but it must be lived forwards.|只有向後看才能理解生活，但要生活得好，則必須向前看。|人生は、後ろ向きにしか理解できないが、前を向いてしか生きられない。
 barrel|n.|桶；裝入桶內|47|バレル|a|Wine is put in barrels to mature.|酒被放在桶裡發酵。|
 bible|n.|聖經|47|聖書；バイブル|a|The novel takes its title from the Bible.|這本小說的名字出自《聖經》。|その小説は聖書から題名をとっている。
@@ -4444,14 +4444,14 @@ exceed|v.|超過；超越；勝過；超過其他|47|上回る；絶する|a|The
 expansion|n.|擴充；開展；膨脹|47|拡大；拡張|a|Shareholders were concerned about the company's swift expansion overseas.||株主は同社の急速な海外での事業展開を懸念した。
 external|n.|外部；外面；外部的；客觀的|47|対外；外付け|a|Save it on the external hard drive.|把它儲存在外接式硬碟。|外付けのハードディスクに保存しといて。
 fabric|n.|織物；布；結構|47|布地；切れ地|a|The dress is made of a thin fabric.|這件衣服是由薄織物製成的。|
-fashionable|adj.|時髦的；上流社會的；流行的|47|ファッショナブル；オサレ|a|It is fashionable to have leather chairs.||皮製の椅子を持つのが流行です。
+fashionable|adj.|時髦的；上流社會的；流行的|47|流行の；おしゃれな|v|It is fashionable to have leather chairs.||皮製の椅子を持つのが流行です。
 fate|n.|命運；運氣；註定|47|運命；宿命|a|She had to accept her fate.|她該接受她的命運。|彼女は自分の運命を受け入れなければならなかった。
 favor|n.|好意；喜愛；賜予；支援|47|好意；支持|d|I have a favor to ask of you.|我想你幫我做一件事。|ちょっとお願いがあるんだけど。
 finished|adj.|完成的；完結的；精巧的|47|完成した；仕上がった|h|My elder brother finished his homework very quickly.|我哥哥很快就把功課做完了。|私の兄は宿題をさっさと済ませた。
 formation|n.|形成；構造；編隊|47|成立；形成|a|There are several kinds of cloud formations.|雲層的構成方式有好幾種。|
 frequency|n.|頻率；頻數|47|頻度；周波数|a|The recent frequency of earthquakes makes us nervous.|最近頻繁的地震讓我們很焦慮。|近頃は地震が頻繁で不気味だ。
 furthermore|adv.|此外；而且|47|さらに；ほかにも|a|They rob, and furthermore cheat each other.||彼らは互いに盗み合いをする、だまし合うくらいは、なおさらのことだ。
-gang|n.|隊；群；幫；成群結隊|47|ギャング|a|The gang was planning a robbery.|這夥人計劃搶劫。|暴力団は強盗を計画していた。
+gang|n.|隊；群；幫；成群結隊|47|集団；ギャング；一味|v|The gang was planning a robbery.|這夥人計劃搶劫。|暴力団は強盗を計画していた。
 genetic|adj.|創始的；遺傳的；起源的|47|遺伝の；遺伝的な|h|Should we use genetic engineering on people?|我們應該對人使用基因編輯嗎？|
 ghost|n.|鬼；靈魂；幻影；鬼似地遊蕩|47|妖怪；幽霊|a|Do you believe in the existence of ghosts?|你相信有鬼魂嗎？|幽霊の存在を信じますか。
 gradual|adj.|逐漸的；漸增的；彌撒升階聖歌|47|段階的な；徐々の|h|Computers caused a great, if gradual, change.||コンピューターは、たとえ緩慢にせよ大きな変化を引き起こした。
@@ -4459,7 +4459,7 @@ headquarters|n.|總部；司令部；總部人員|47|本部；司令部|a|The ge
 hollow|n.|洞；窟窿；山谷；空的|47|洞；凹み|a|The fox hid in the hollow tree.|狐狸躲在了空心樹裡面。|キツネは木のうろの中に隠れました。
 hong|n.|行；商行|47|商館；商会|h|They are arriving here soon from Hong Kong.|他們就快從香港抵達了。|彼らは香港からまもなくここへ到着することになっている。
 horizon|n.|地平線；眼界；視地平|47|地平線；水平線|a|The sun has just sunk below the horizon.|太陽剛下山。|太陽は今し方地平線に沈んだ。
-humor|n.|幽默；詼諧；心情；迎合|47|ユーモア|a|Our teacher has a wonderful sense of humor.|我們的老師非常有幽默感。|私たちの先生にはすばらしいユーモアのセンスがある。
+humor|n.|幽默；詼諧；心情；迎合|47|ユーモア；気質|v|Our teacher has a wonderful sense of humor.|我們的老師非常有幽默感。|私たちの先生にはすばらしいユーモアのセンスがある。
 ideally|adv.|完美地；理想地|47|理想的に|h|Ideally, a candidate for this job should have four years' work experience.|我們希望應聘者能有4年工作經驗。|
 impatient|adj.|不耐煩的；著急的；急切的|47|歯がゆい|a|I think Tom is a bit too impatient.|我覺得湯姆有些過於性急了。|トムはちょっとせっかちすぎると思う。
 indirectly|adv.|間接；曲折；迂迴|47|間接的に；遠回しに|h|His letter indirectly refers to the matter.||彼の手紙はその事件にそれとなくふれている。
@@ -4529,8 +4529,8 @@ tribe|n.|宗族；部落；一群人|48|族；部族|a|Members of that tribe set
 undergo|v.|遭受；經歷；忍受|48|経験する；受ける|d|Father is going to undergo an operation.|父親將會接受手術。|父は手術を受ける事になっている。
 unexpectedly|adv.|想不到的；突然的；意外的|48|案外；思いのほか|a|When the door slammed unexpectedly, it startled me.||ドアが不意にバタンとしまったので驚いてしまった。
 unload|v.|從...卸下；擺脫...之負擔；傾銷；卸貨|48|荷下ろしする；降ろす|d|The ship was unloaded at the port.||船はその港で荷を下ろされた。
-utility|n.|功用；有用之物；實用；實用的|48|実利；ユーティリティー|a|We expect rapid growth of the utilities sector.||公益事業部門の急成長を見込んでいます。
-vessel|n.|船；容器；脈管|48|船舶|a|A blood vessel burst inside his brain.||彼の脳内で血管が破裂した。
+utility|n.|功用；有用之物；實用；實用的|48|有用性；公共事業|v|We expect rapid growth of the utilities sector.||公益事業部門の急成長を見込んでいます。
+vessel|n.|船；容器；脈管|48|船；容器；血管|v|A blood vessel burst inside his brain.||彼の脳内で血管が破裂した。
 veteran|n.|老手；退伍軍人；老兵；老兵的|48|ベテラン；歴戦|a|My uncle is a veteran of the Vietnam War.||私の叔父はベトナム戦争の退役軍人だ。
 violently|adv.|猛烈地；激烈地；極端地|48|激しく；乱暴に|h|I felt my heart beating violently.|我感覺到自己的心在劇烈地跳動。|私は心臓が激しく鼓動するのを感じた。
 width|n.|寬度；寬廣；廣博|48|幅；幅員|a|What's the width of this road?|這條路的寬度是多少？|この道幅はどれくらいなの？
@@ -4544,7 +4544,7 @@ amused|adj.|愉快的；被逗樂的|48|面白がった；楽しんでいる|h|W
 amusing|adj.|有趣的；引人發笑的|48|面白|a|She read an amusing story to the children.|她給孩子們讀了個有趣的故事。|彼女は子供たちに面白い話を聞かせてあげた。
 angel|n.|天使；守護神；善人|48|天使；エンジェル|a|Speak of angels and you hear their wings.|說到天使，你就聽到他們翅膀揮動的聲音。|噂をすれば影がさす。
 angrily|adv.|憤怒地|48|怒って；憤然として|h|He angrily tore up the letter from her.||彼は腹立たし気に、彼女からの手紙をビリビリに破いた。
-annoyed|adj.|惱怒的；煩悶的|48|腹を立てた；いらいらした|h|I'm annoyed by their impudence.|我對他們無恥的行徑感到厭惡。|奴等の無遠慮がしゃくなんだ。
+annoyed|adj.|惱怒的；煩悶的|48|いらいらした；腹を立てた|v|I'm annoyed by their impudence.|我對他們無恥的行徑感到厭惡。|奴等の無遠慮がしゃくなんだ。
 annoying|adj.|惱人的；討厭的|48|迷惑な；腹立たしい|h|My parents keep arguing about stupid things. It's so annoying!|我父母整天都在為雞毛蒜皮的事情吵架，真是煩死人了！|両親がくだらないことで言い争っていて、とてもいらいらするよ。
 assemble|v.|集合；收集；裝配|48|組み立てる；取り揃える|a|The teacher assembled the students in the hall.|老師在禮堂把學生們集合起來。|その教師は講堂に学生を集めた。
 assembly|n.|與會者；集會；裝配|48|集会；組み立て|d|The assembly consisted of people concerned about human rights.||その集会は人権に関心を持つ人々の集まりだった。
@@ -4553,7 +4553,7 @@ attribute|n.|屬性；標誌；定語；把...歸於|48|属性；特徴|d|He att
 await|v.|等候；等待著|48|待ち受ける|a|No one knew what awaited us.|沒人知道等待我們的是什麼。|
 awfully|adv.|惡劣地；非常地；極端地|48|ひどく；非常に|d|I'm awfully sorry that I was late.|非常抱歉，我遲到了。|遅れまして、誠に申し訳ありません。
 bitterly|adv.|怨恨地；悲痛地；殘酷地|48|激しく；苦々しく|h|Nakamatsu smiled bitterly at his own stupid question.|中松為自己的愚蠢問題苦笑。|中松は自分の頓馬な質問に苦笑いしました。
-blend|v.|混合|48|ブレンド|a|Oil and water won't blend with each other.|油和水不能混合。|油は水と溶け合わない。
+blend|v.|混合|48|混ぜる；ブレンド|v|Oil and water won't blend with each other.|油和水不能混合。|油は水と溶け合わない。
 bold|adj.|大膽的；粗體|48|大胆；ボールド|a|I make so bold as to ask you.||失礼ながらお尋ねいたします。
 boost|n.|推進；吹捧；提高|48|押し上げる；増大させる|d|This vitamin boosts your immune system from diseases.||このビタミンは病気に対する抵抗力を強めます。
 bureau|n.|局；辦公處|48|局；ビューロー|a|The weather bureau says it will rain tonight.||気象庁は今晩雨が降ると言っている。
@@ -4562,8 +4562,8 @@ cardboard|n.|薄紙板|48|ダンボール；厚紙|a|Prepare five postcard sized
 clue|n.|線索；暗示；提供線索|48|手がかり|a|The police didn't find any clues.|警方沒有發現任何線索。|警察は何の手がかりも見出せなかった。
 collective|adj.|集體的；聚集的；共同的|48|集団の；共同の|h|Role-Language includes male and female collective nouns in Japanese.||役割語とは男性語や女性語などの日本語の集合名詞である。
 colony|n.|殖民地；移民隊|48|コロニー；植民地|a|At one time Nigeria was a British colony.|奈及利亞曾經是英國的殖民地。|ナイジェリアはかつてイギリスの植民地であった。
-compose|v.|組成；寫作；作曲；創作|48|詠む；組み上げる|a|The United States is composed of 50 states.|美國是由五十個州組成的。|合衆国は５０の州から成り立っている。
-compound|n.|混合物；複合詞；化合物；複合的|48|化合物；複|a|Her charm is compounded by her gaiety and kindness.||彼女の魅力は陽気さと親切さにある。
+compose|v.|組成；寫作；作曲；創作|48|作曲する；構成する|v|The United States is composed of 50 states.|美國是由五十個州組成的。|合衆国は５０の州から成り立っている。
+compound|n.|混合物；複合詞；化合物；複合的|48|化合物；複合の；悪化させる|v|Her charm is compounded by her gaiety and kindness.||彼女の魅力は陽気さと親切さにある。
 confess|v.|承認；坦白；懺悔|48|白状する；告白する|h|I confessed to stealing the money.|我承認偷了錢。|私はそのお金を盗んだ事を白状した。
 corridor|n.|走廊；迴廊；人口密集地帶|48|廊下；回廊|a|I happened to witness the bullying in the corridor.||偶然、廊下でいじめを目撃した。
 covered|adj.|隱蔽著的；掩藏著的；有屋頂的|48|覆われた；屋根のある|h|The peak of Fujiyama was covered with snow.|富士山頂蓋滿了雪。|富士山の頂上は雪で覆われていた。
@@ -4585,7 +4585,7 @@ drain|n.|排水溝；消耗；排水；排出|48|流す；はける|a|The drains
 drift|n.|漂流物；漂流；動向|48|漂う；吹き溜まり|a|Many people drift through life without a purpose.|許多人毫無目的地隨波逐流。|多くの人が目的なく人生を漂う。
 drugstore|n.|藥房；雜貨店|48|ドラッグストア；薬舗|a|I need to buy something at the drugstore.||ドラッグストアで買わなきゃいけないものがあるの。
 echo|n.|回聲；迴音；回波；發回聲|48|響き；反響|a|We heard the echo of our voices from the other side of the valley.|我們聽見自己說話的迴音從山谷的另一邊傳了回來。|私たちの声のこだまが谷の反対側から聞こえた。
-endure|v.|忍受；忍耐；容忍；持久|48|凌ぐ|a|The emigrants have endured physical and mental pain.|移民們忍受著肉體和精神的痛苦。|移民達は肉体的、精神的苦痛に耐えてきた。
+endure|v.|忍受；忍耐；容忍；持久|48|耐える；我慢する|v|The emigrants have endured physical and mental pain.|移民們忍受著肉體和精神的痛苦。|移民達は肉体的、精神的苦痛に耐えてきた。
 enforce|v.|強迫；執行；堅持|48|施行する；強制する|h|The supervisor enforced the rules here in this factory.||監督はこの工場ではここの規則を強要した。
 entertainer|n.|表演娛樂節目的人；演藝人員|48|芸能人；タレント|a|He is not so much a teacher as an entertainer.||彼は教師というよりは芸人です。
 exclusive|adj.|排外的；獨佔的；唯一的|48|専属；エクスクルーシブ|a|This book has 252 pages exclusive of illustrations.||この本は挿絵を除いて２５２ページある。
@@ -4622,7 +4622,7 @@ limb|n.|四肢；枝幹；翼；切斷...之手足|48|手足；枝|d|Tom Skeleto
 log|n.|記錄；圓木；日誌；伐木|48|ログ；丸太|a|The writer is living in a log cabin.|那個作家生活在小木屋中。|その作家は丸太小屋に住んでいる。
 margin|n.|頁邊的空白；邊緣；界限；加邊於|48|マージン；欄外|a|His laziness is past the margin of endurance.||彼の怠け癖は我慢の限界を越える。
 mechanical|adj.|機械的；機械性的；力學的|48|機械的な；機械の|h|I got a piece of lead for my mechanical pencil from her.|我從她那裡拿了一根自動鉛筆芯。|彼女からシャーペンの芯一本もらいました。
-miller|n.|廠主；蛾|48|製粉業者；ガ|h|A Mr. Miller wants to see you.|有一個叫米勒的想見你。|ミラーさんとかいう人がご面会です。
+miller|n.|廠主；蛾|48|製粉業者|v|A Mr. Miller wants to see you.|有一個叫米勒的想見你。|ミラーさんとかいう人がご面会です。
 modify|v.|修正；變更；修飾；被修改|48|修正する；変更する|h|Things that modify nouns (adjective, or adjectival equivalent).|修飾名詞的東西（形容詞，或形容詞相等語）。|名詞を修飾するもの（形容詞、または形容詞相当語句）。
 monthly|n.|月刊；每月的；每月一次的|48|月例；マンスリー|a|How much is your monthly gas bill?|你每個月的瓦斯費多少錢？|毎月のガス代はいくらですか。
 motivate|v.|給與動機；刺激；提高...的學習慾望|48|動機づける；やる気を起こさせる|h|It's useless, I'm not motivated today for some reason.|不行，今天不知為何沒有幹勁。|だめだ、今日はなぜかやる気が出ない。
@@ -4658,12 +4658,12 @@ respectively|adv.|各自地；獨自地；個別地|48|それぞれ|d|||
 restricted|adj.|受限制的；有限的|48|制限された；限られた|h|Freedom of speech was restricted in this country.||この国では言論の自由が制限されていた。
 resume|v.|重新開始；取回；恢復；再開始|48|再開する；履歴書|d|I don't worry so much about my resume.|我對自己的履歷不那麼在意。|私は自分の履歴書など気にしません。
 retail|n.|零售；零售的|48|小売；リテール|a|A retail merchant buys wholesale and sells retail.||小売商人は卸しで仕入れて小売りで売る。
-sake|n.|目的；緣故；理由|48|日本酒；般若湯|a|They fought for the sake of their country.|他們為祖國而戰鬥。|彼らは国の為に戦った。
+sake|n.|目的；緣故；理由|48|ため；目的；日本酒|v|They fought for the sake of their country.|他們為祖國而戰鬥。|彼らは国の為に戦った。
 scatter|n.|消散；分散；散播；散佈|48|まく；散らす|a|As usual the peasants are busy scattering grain seeds.|農民們如常在忙著播種。|いつものように、農家の人たちは穀物の種まきで忙しい。
 sin|n.|罪；犯罪；過失；犯|48|罪；罪業|d|Is it always a sin to tell a lie?|說謊總是一種罪嗎？|うそをつくことはいつも罪なのでしょうか。
-slam|n.|砰然聲；猛然；猛烈的抨擊；猛然關上|48|激しく閉める；酷評する|h|I could hear doors slamming.|我可以聽見門砰砰作響。|ドアのパタンという音がきこえた。
+slam|n.|砰然聲；猛然；猛烈的抨擊；猛然關上|48|バタンと閉める；酷評する|v|I could hear doors slamming.|我可以聽見門砰砰作響。|ドアのパタンという音がきこえた。
 specially|adv.|特別地；專門地|48|特に；特別に|h|This is a store that caters specially to students.|這是一家專門為學生提供服務的商店。|これは学生相手の店です。
-spill|n.|溢位；濺出；摔下；使溢位|48|こぼれる；こぼす|a|I spilled my coffee on the carpet.|我把咖啡倒翻在地毯上了。|私はコーヒーをじゅうたんにこぼしてしまった。
+spill|n.|溢位；濺出；摔下；使溢位|48|こぼす；こぼれる|v|I spilled my coffee on the carpet.|我把咖啡倒翻在地毯上了。|私はコーヒーをじゅうたんにこぼしてしまった。
 stem|n.|莖；幹；柄；摘掉莖|48|茎；語幹|d|Their trouble stems from a trifling matter.|他們的煩惱是由一件瑣碎的事而起的。|あの人たちのトラブルのもとは些細なことだ。
 sting|n.|叮；刺痛；刺激|48|刺す；刺す痛み|d|Bee stings can be very painful.|蜜蜂螫人可以是非常痛苦的。|蜂に刺されるととても痛い。
 striped|adj.|有斑紋的|48|縞模様の|h|His striped suit and checked tie didn't match.||彼の稿模様のスーツとチェックのネクタイは合わなかった。
@@ -4673,7 +4673,7 @@ suspend|v.|懸；吊；使懸浮；暫停|48|吊るす；一時停止する|h|Th
 tablet|n.|平板；門牌；筆記簿|48|タブレット；錠剤|d|The tablets took away my pain.|藥片止住了我的疼痛。|錠剤のおかげで痛みがなくなった。
 thereby|adv.|因此|48|それによって|h|||
 thickness|n.|厚度；密度；愚鈍|48|厚み；厚さ|a|||
-transformation|n.|變形；變質；變化|48|変態；変形|a|Transformation is birth and death at the same time.|改變同時蘊含著新生與毀滅。|
+transformation|n.|變形；變質；變化|48|変化；変革；変形|v|Transformation is birth and death at the same time.|改變同時蘊含著新生與毀滅。|
 transmission|n.|傳輸；傳送；變速器|48|送信；伝達|a|Can you drive a manual transmission?|你會開手排車嗎?|マニュアル車の運転はできる？
 twisted|adj.|扭曲的|48|ねじれた；ゆがんだ|h|Why would you say such a twisted thing?||もう、なんでそんなひねくれたこと言うの？
 underwater|adj.|在水中的；在水下|48|水中|a|We want to explore an underwater oil field.||海底油田の開発をしたい。
@@ -4683,16 +4683,16 @@ vanish|v.|消失；不見；成為零|48|消える；なくなる|d|The girl van
 virtual|adj.|實際上起作用的；虛的；實質的|48|バーチャル|a|Have you ever tried virtual reality?|你有沒有體驗過虛擬實境？|
 vitamin|n.|維生素|48|ビタミン|a|Oranges contain a lot of vitamin C.|柳橙富含維他命 C。|オレンジにはビタミンＣが多く含まれている。
 washing|n.|洗滌；浸；洗滌物|48|洗濯；洗浄|a|Mummy has to do the washing this afternoon.|媽媽下午要洗衣服。|ママは午後洗濯をしなくてはいけない。
-zealand|n.|西蘭島|48|ゼーラント島；シーランド|h|I have not been to New Zealand.|我沒去過紐西蘭。|私はまだニュージーランドへ行ったことがない。
-alternatively|adv.|非此即彼|48|あるいは；代わりに|h|You can walk, or alternatively, I'll drive you there in my car.||歩いても行けますが、代わりに私の車でそこまで送りましょう。
-aluminum|n.|鋁|48|アルミ；ニューム|a|The aluminum castings must be brushed again.|這個鋁鑄件需要重刷一遍.|
+zealand|n.|西蘭島|48|ジーランド；ニュージーランド|v|I have not been to New Zealand.|我沒去過紐西蘭。|私はまだニュージーランドへ行ったことがない。
+alternatively|adv.|非此即彼|48|あるいは；その代わりに|v|You can walk, or alternatively, I'll drive you there in my car.||歩いても行けますが、代わりに私の車でそこまで送りましょう。
+aluminum|n.|鋁|48|アルミニウム|v|The aluminum castings must be brushed again.|這個鋁鑄件需要重刷一遍.|
 anxiously|adv.|憂慮地；不安地|48|心配そうに；不安げに|h|The dog regarded his master anxiously.||犬は不安そうに主人をながめた。
 artificially|adv.|人工地；人為地；不自然地|49|人工的に；不自然に|h|||
 automobile|n.|汽車|49|四輪車；オートモビル|a|She was killed in an automobile accident.|她死於一場汽車車禍。|彼女は自動車事故で亡くなった。
 awkwardly|adv.|笨拙地；無技巧地|49|ぎこちなく；ぶざまに|h|||
 barn|n.|穀倉|49|納屋；バーン|a|We took refuge from the storm in a nearby barn.|為躲避風暴，我們躲到了附近的一個穀倉內。|嵐を避けて近くの納屋に逃げ込んだ。
 beak|n.|鳥嘴；喙|49|くちばし|a|Woodpeckers peck tree trunks with their long pointed beaks and eat insects found there.||きつつきは、長く尖ったくちばしで、木の幹をつついて、中にいる虫を食べます。
-boast|n.|吹牛；自誇|49|自慢；自慢する|d|He boasts that he can speak six languages.|他顯擺自己能說6種語言。|彼は６カ国語話せると自慢している。
+boast|n.|吹牛；自誇|49|自慢する；自慢|v|He boasts that he can speak six languages.|他顯擺自己能說6種語言。|彼は６カ国語話せると自慢している。
 breeze|n.|微風；煤屑；輕而易舉的事；吹微風|49|そよ風|h|Stop shooting the breeze and get to work!||ダベってないで仕事しろ。
 bull|n.|公牛|49|ブル；種牛|a|Bulls make money, bears make money, hogs get slaughtered.||強気な者はお金を儲け、弱気な者はお金を儲け、欲深い取引者は損失ぞ。
 cart|n.|二輪運貨馬車；駕運貨馬車|49|カート；屋台|a|I saw a horse pulling a cart.|我看見一匹馬拉著一架馬車。|私は馬が荷車を引いているのを見た。
@@ -4721,7 +4721,7 @@ disapproval|n.|不贊成|49|難色；否|a|He showed his disapproval by raising 
 disapprove|v.|不贊成|49|不賛成である；反対する|h|She threw a disapproving glance at me.||彼女は不満そうに私をチラッと見た。
 disclose|v.|揭露；透露|49|明らかにする；公表する|d|You ought not to have disclosed the secret.|你本不該透露秘密的。|あなたはその秘密を漏らすべきではなかったのに。
 disgusted|adj.|厭惡的；厭煩的|49|うんざりした；嫌気がさした|h|I am disgusted with him.|我厭惡他。|私は彼に愛想がつきた。
-engaged|adj.|忙碌的；使用中的|49|婚約した；使用中の|h|My son is engaged to his secretary.|我的兒子和他的秘書訂婚了。|私の息子は、彼の秘書と婚約している。
+engaged|adj.|忙碌的；使用中的|49|婚約した；忙しい；使用中の|v|My son is engaged to his secretary.|我的兒子和他的秘書訂婚了。|私の息子は、彼の秘書と婚約している。
 enroll|v.|登記；使加入；參軍；註冊|49|登録する；入学させる|h|They enrolled him as a jury member.||彼らは彼を陪審員として登録した。
 equation|n.|相等；等式；平衡|49|方程式|a|The boy solved the simultaneous equation with ease.||その少年は連立方程式を楽に解いた。
 euro|n.|歐元|49|ユーロ|a|I earn 100 Euros a day.|我一天掙一百歐元。|私は一日に100ユーロ稼ぎます。
@@ -4861,7 +4861,7 @@ copper|n.|銅；警察|49|銅；カッパー|a|Copper and silver are both metals
 coughing|v.|咳嗽；咳出；發出刺耳的噪音|49|咳；咳をする|d|Do you have any coughing?|你咳嗽嗎？|咳が出ますか。
 covering|n.|覆蓋物；掩蔽物；掩護的；掩蓋的|49|覆い；被覆|d|You speak as if you're covering your bases.||保険をかけたようなしゃべり方するね。
 creep|n.|爬；徐行；蠕動|49|忍び寄る；這う|d|Fear crept into my heart and settled there.||恐ろしさが私の心に忍び込み、そこに残った。
-crude|adj.|天然的；未成熟的；粗糙的；天然的物質|49|粗末；生硬|a|This is a crude material imported from Malaysia.||これはマレーシアから輸入した原料です。
+crude|adj.|天然的；未成熟的；粗糙的；天然的物質|49|粗雑な；未加工の；原油|v|This is a crude material imported from Malaysia.||これはマレーシアから輸入した原料です。
 cue|n.|提示；線索；給...暗示|49|キュー|a|I'll take my cue from you.||お前を見習ってみるよ。
 dense|adj.|密集的；濃厚的|49|密集した；濃い|d|The man was hiding in a dense forest.||男はこんもりした森に隠れていた。
 depart|v.|離開；出發；背離|49|出発する；去る|h|He departed for London the day before yesterday.|他前天去倫敦。|おととい彼はロンドンへ出発した。
@@ -4880,9 +4880,9 @@ electronics|n.|電子學|49|エレクトロニクス|a|There have been several n
 enforcement|n.|執行；強制|49|実施|a|The government will adopt enforcement measures to solve this problem.|政府將採取強制措施來解決這一問題。|
 excluding|prep.|把...排除在外；不包括...；不計...|49|以外|a|This book has 252 pages, excluding illustrations.||この本は挿絵を除いて２５２ページある。
 exhaust|n.|排氣；排氣裝置；廢氣；抽完|49|排気；エキゾースト|a|Car exhaust causes serious pollution in towns.|汽車尾氣在城鎮裡造成了嚴重的汙染。|車の排気ガスは都市の深刻な汚染を引き起こしている。
-expenditure|n.|開支；費用；用光|49|支出|a|We explored all possible ways of cutting expenditures.||我々は支出を削減するあらゆる可能な方法を探った。
+expenditure|n.|開支；費用；用光|49|支出；経費|v|We explored all possible ways of cutting expenditures.||我々は支出を削減するあらゆる可能な方法を探った。
 faithfully|adv.|忠實地；誠心誠意地；深信著地|49|忠実に；誠実に|h|He carried out the scheme faithfully.|他忠實地實行了該計劃。|彼はその計画を忠実に実行した。
-fatal|adj.|致命的；重大的；命運註定的|49|致命的；致命|a|A slip of the tongue is sometimes fatal to a politician.|有時候口誤對政治家來說是致命的。|失言は政治家には命取りとなることがある。
+fatal|adj.|致命的；重大的；命運註定的|49|致命的な；運命の|v|A slip of the tongue is sometimes fatal to a politician.|有時候口誤對政治家來說是致命的。|失言は政治家には命取りとなることがある。
 fatigue|n.|疲乏；疲勞；使疲勞；使心智衰弱|49|疲労|a|What with fatigue and lack of sleep, he has fallen ill at last.|他疲勞過度，又睡眠不足，最後便病倒了。|過労やら不眠やらで、彼はとうとう病気になってしまった。
 favorable|adj.|有利的；讚許的；良好的|49|好ましい；有利な|h|His comments about the book were favorable.|他給這本書正面的評價。|その本についての彼の論評は好意的だった。
 fraction|n.|小部分；破片；分數|49|分数；端|a|Time is a certain fraction of eternity.||時とは、永遠の一部分である。
@@ -4897,7 +4897,7 @@ herd|n.|獸群；人群；牧人；群集|50|追い込む|a|The cowboys rounded 
 hills|n.|丘陵|50|丘；丘陵|h|The hills were full of pretty flowers.||その丘はきれいな花でいっぱいだった。
 impressed|adj.|外加的；印象深刻的；了不起的|50|感銘を受けた；感動した|h|I was deeply impressed by the scenery.|我被這景色深深迷住了。|その景色は強く私の記憶に残っている。
 insulting|adj.|侮辱的；損害人體的|50|侮辱的な；無礼な|h|The word fugusha ("disabled") might be insulting.||「不具者」という言葉は侮辱かもしれませんね。
-intensive|adj.|加強的；內涵的；集中的；加強器|50|集中的な|h|The intensive course did wonders for my French.||集中講習で私のフランス語は驚くほど上達した。
+intensive|adj.|加強的；內涵的；集中的；加強器|50|集中的な；徹底的な|v|The intensive course did wonders for my French.||集中講習で私のフランス語は驚くほど上達した。
 irritated|adj.|被激怒的；生了氣的；變粗的|50|いらいらした；怒った|h|Even the merest little thing irritated him.||ほんのささいなことでさえ、彼は苛立った。
 irritating|adj.|刺激的；使憤怒的；氣人的|50|いらいらさせる；腹立たしい|d|He is a very irritating critic of others.||他人のあらばかり探す嫌な人である。
 jimmy|n.|鐵撬；撬|50|てこ；こじ開ける|h|Jimmy often comes to see me on weekends.|Jimmy經常週末來看我。|ジミーは週末によく私に会いに来ます。
@@ -4911,7 +4911,7 @@ manual|n.|手冊；指南；手的；手動的|50|マニュアル；手動|a|Suc
 marine|n.|艦隊；水兵；海景畫；海的|50|マリン；舶用|a|Lobsters belong to a class of marine animals.||ロブスターは海洋動物の一種に属します。
 meantime|n.|間隔時間；其時；其間|50|その間；一方|h|In the meantime, she began to cry.||そうしている間に彼女は泣き出した。
 molecule|n.|分子；些微|50|分子|a|A water molecule has two hydrogen atoms and one oxygen atom.|一個水分子是由兩個氫原子和一個氧原子組成的。|水分子は、２個の水素原子と１個の酸素原子からなる。
-mum|n.|菊花；沉默；沉默的|50|お母さん；ママ|d|I want to give Mum a plant.|我要給我媽媽一個卉。|私はお母さんに植物を贈りたい。
+mum|n.|菊花；沉默；沉默的|50|ママ；黙った|v|I want to give Mum a plant.|我要給我媽媽一個卉。|私はお母さんに植物を贈りたい。
 mutter|n.|喃喃低語；喃喃自語；作低沉聲|50|つぶやく|a|I heard Tom muttering something in French.|我聽到湯姆在用法語嘀咕些什麼。|
 naval|adj.|海軍的；軍艦的；有艦隊的|50|海軍の；艦隊の|h|He has received a commission as a naval officer.||彼は海軍士官の任務を受けた。
 neglect|n.|疏忽；忽略；漏做|50|怠る；なおざり|a|You are not to neglect your duty.|你不能漠視你的責任。|義務を怠ってはならない。
@@ -4966,7 +4966,7 @@ trim|n.|整齊；情形；修剪；整齊的|50|手入れ；整頓；刈り込�
 triumph|n.|凱旋；勝利；歡欣；得勝|50|勝利；大成功；勝ち誇る|d|It was the triumph of civilization over force.||それは暴力に対する文明の勝利であった。
 uncontrolled|adj.|不受抑制的；不受控制的；自由的|50|制御されない；抑えのきかない；野放しの|h|Americans appear unsettled and uncontrolled to Japanese.||日本人からが、アメリカ人は不安定で、自由奔放に見える。
 undergraduate|n.|大學本科生；大學肄業生；大學生的|50|大学生；学部生|d|He is an undergraduate in the law department.||彼は法科の学生だ。
-unfriendly|adv.|不友善地|50|不親切に；不愛想に|h|Mary looks unfriendly, but she is really very kind at heart.|瑪麗雖然看起來好像不是很友好，其實她有顆很善良的心。|メアリーは不親切そうに見えるが、根はとてもやさしい。
+unfriendly|adv.|不友善地|50|不親切な；非友好的な|v|Mary looks unfriendly, but she is really very kind at heart.|瑪麗雖然看起來好像不是很友好，其實她有顆很善良的心。|メアリーは不親切そうに見えるが、根はとてもやさしい。
 unhappiness|n.|苦惱；憂愁|50|不幸；不幸せ|a|She divorced him after many years of unhappiness.||長い不幸な年月ののち、彼女は彼と離婚した。
 unkind|adj.|不仁慈的；不親切的|50|不親切な；冷たい；意地悪な|h|Some people were kind and others were unkind.||親切な人もいたし不親切な人もいた。
 unlucky|adj.|不吉利的；不祥的；不幸的|50|不運な；不吉な；縁起の悪い|d|Four is an unlucky number in Japan.|四在日本是一個不幸的數字。|４は日本では不吉な数字だ。
@@ -5008,7 +5008,7 @@ delegation|n.|代表團；派遣代表團；代表的地位|50|デレゲーシ�
 desirable|adj.|令人想望的；可取的|50|望ましい|a|It is desirable that nobody should be hurt.||誰もけがをしないことが望ましい。
 despair|n.|絕望；失望|50|絶望|a|She was in despair when her husband died.|丈夫去世時她十分絕望。|彼女は夫が亡くなって絶望していた。
 destructive|adj.|毀滅性的；破壞的；有害的|50|破壊的な；有害な；破滅的な|h|Suspicion is destructive of friendship.|懷疑會毀掉友情。|疑いは友情を破滅させる。
-diameter|n.|直徑|50|直径；径|a|Is it possible to determine the diameter from the circumference?|用圓周能不能求得直徑？|円周から直径を求めることは可能ですか？
+diameter|n.|直徑|50|直径|v|Is it possible to determine the diameter from the circumference?|用圓周能不能求得直徑？|円周から直径を求めることは可能ですか？
 dim|adj.|暗淡的；模糊的；使暗淡|50|薄暗い；朦朧|a|I have a dim memory of my grandmother.|我對祖母的記憶很模糊。|私は祖母のことをかすかに覚えている。
 discard|v.|丟棄；拋棄；墊牌|50|捨てる；廃棄する；不要札を捨てる|d|Experience, when it is dearly bought, is never discarded.||経験というものは、大きな犠牲を払って得た場合は、決して忘れてしまうことはないものだ。
 dishonestly|adv.|不誠實地；不正直地|50|不正直に；不誠実に|h|||
@@ -5055,9 +5055,9 @@ motel|n.|汽車旅館|50|モーテル；自動車旅館|d|The motel can accommod
 murderer|n.|兇手；殺人者；謀害者|50|殺人犯；殺人者|d|We were filled with anger against the murderer.|我們對殺人犯感到悲憤填膺。|我々は殺人者に対する怒りで胸一杯になった。
 namely|adv.|即；就是；換句話說|50|すなわち；つまり|d|It was due a week ago, namely on April second.||それは１週間前、すなわち４月２日に行われた。
 omit|v.|省略；刪除；疏忽|50|抜かす；省く|a|You can omit the last chapter of the book.|你可以刪去書裡面的最後一章。|その本の最終章は省略してよい。
-optical|adj.|眼睛的；視覺的；光學的|50|光学の；視覚の；目の|h|Lenses with two distinct optical powers are also called "bifocals".||二重焦点レンズは「バイフォーカル」とも呼ばれる。
+optical|adj.|眼睛的；視覺的；光學的|50|光学の；視覚の|v|Lenses with two distinct optical powers are also called "bifocals".||二重焦点レンズは「バイフォーカル」とも呼ばれる。
 orchestra|n.|管絃樂隊；樂隊演奏處|50|オーケストラ；楽団|a|This is the fifth concert by this orchestra.|這是管絃樂團的第五場音樂會。|これはオーケストラの５回目の演奏会です。
-originate|v.|創始；發明；發起；發源|50|生じる；始まる；発明する|d|Afrikaners are the people originated in South Africa.|阿非利康族是源在南非形成的民族。|
+originate|v.|創始；發明；發起；發源|50|始まる；生じる；創始する|v|Afrikaners are the people originated in South Africa.|阿非利康族是源在南非形成的民族。|
 peculiar|adj.|奇特的；罕見的；特殊的；特有財產|50|奇妙な；独特の；特有の|h|This milk has a peculiar smell.|這牛奶有特殊的氣味。|このミルクは妙なにおいがする。
 penetrate|v.|穿透；刺穿；滲透；刺入|50|徹する；染み渡る|a|A nail penetrated the car tyre.|車胎被釘子刺穿了。|釘が車のタイヤに刺さった。
 plantation|n.|種植園；大農場；植樹造林|50|大農園；プランテーション|d|That farmer cultivated a 200 acre plantation.||その農民は２００エーカーの農園を耕した。
@@ -5087,7 +5087,7 @@ stab|n.|刺；戳；劇痛|50|突き刺す；刺傷|a|She stabbed him in the bac
 startle|n.|驚愕；驚恐；吃驚；使驚愕|50|驚き；仰天；驚かす|h|Doctors have discovered some startling facts.|醫生髮現了一些令人吃驚的事實。|医師達はいくつかの驚くべき事実を発見した。
 stressed|adj.|感到有壓力的；緊張的|50|ストレスを感じた；緊張した；強調された|h|He stressed the convenient aspects of city life.|他強調了城市生活方便的一面。|彼は都会生活の便利な面を強調した。
 subway|n.|地鐵；地道；乘地鐵|51|地下鉄|a|In Britain they call the subway the underground.|英國人把“subway”叫做“underground”。|イギリスでは「ｓｕｂｗａｙ」を「ｕｎｄｅｒｇｒｏｕｎｄ」という。
-summarize|v.|概述；總結|51|サマライズ|a|Summarize the contents in 60 English words.|請把內容濃縮至六十個英文字以內。|この内容を６０語の英文で要約しなさい。
+summarize|v.|概述；總結|51|要約する；まとめる|v|Summarize the contents in 60 English words.|請把內容濃縮至六十個英文字以內。|この内容を６０語の英文で要約しなさい。
 tempt|v.|誘惑；引誘；引起...的興趣|51|誘惑する；そそのかす；興味を引く|d|The sight of the money tempted him into stealing.|看到這筆錢使他被誘惑偷東西。|その金を見ると彼はふっと盗みたくなった。
 tenant|n.|承租人；房客；居住者；租借|51|テナント；店子|a|When the landlord's away, the tenants will play.|山中無老虎, 猴子稱大王。|
 textile|n.|紡織品；紡織業；織的；紡織的|51|織物；テキスタイル|a|Scotland is famous for its woollen textiles.|蘇格蘭以其羊毛紡織品而著名。|スコットランドは毛織物で有名だ。
@@ -5104,7 +5104,7 @@ verify|v.|證明；查證；證實|51|確認する；検証する；立証する
 vine|n.|藤本植物；葡萄；藤；形成藤蔓|51|つる；つる植物；ぶどうの木|d|You don't get eggplants from a gourd vine.||瓜のつるに茄子はならぬ。
 walker|n.|徒步者；輕便鞋|51|歩行者；歩行器|d|He is a quick walker.|他走路很快。|彼は足が速い。
 widen|v.|弄寬；加寬；擴大；變寬|51|広げる；拡大する；広がる|d|Television helps us widen our knowledge.||テレビは私たちの知識を広げてくれます。
-wireless|n.|無線電；無線的；無線電的|51|ワイヤレス；無電|a|He sent a message by wireless.||彼は、無電で通信を送った。
+wireless|n.|無線電；無線的；無線電的|51|無線の；ワイヤレス|v|He sent a message by wireless.||彼は、無電で通信を送った。
 wit|n.|機智；智力；頭腦|51|機知；才気；知恵|d|I was at my wit's end when I heard the news.|當我聽到這個訊息時, 我束手無策。|その知らせを聞いて途方にくれた。
 accessory|n.|附件；零件；附加物；附屬的|51|アクセサリー|a|That store's accessories are very expensive you know.||あの店のアクセサリーはとても高いですよ。
 accord|n.|一致；調和；協定；給與|51|アコード|a|According to the radio, it will snow tomorrow.|據廣播裡講，明天會下雪。|ラジオによれば、明日は雪になるそうです。
@@ -5240,7 +5240,7 @@ furnish|v.|供給；提供；裝設|51|供給する；備え付ける；提供�
 glide|n.|滑動；滑過；流水|51|滑空；滑走；滑らかな動き|d|There is a tendency for people to think that hang gliding is dangerous.|人們普遍認為懸掛式滑翔運動是危險的。|人々はハンググライディングは危険だと考えがちである。
 graceful|adj.|優美的|51|しとやか；楚々|a|The spectators were moved by her graceful performance.||観客たちは彼女の優雅な演技に感動した。
 gratitude|n.|感激之情|51|謝意；謝恩|a|Her heart flowed with gratitude.|她的心流露著感激之情。|彼女の胸に感謝の念があふれた。
-groan|n.|呻吟；嘆息；抱怨|51|唸る；唸り|a|The table was groaning with food.|桌子上放滿了食物。|テーブルがきしむほど食物がたくさんあった。
+groan|n.|呻吟；嘆息；抱怨|51|うめく；うめき声|v|The table was groaning with food.|桌子上放滿了食物。|テーブルがきしむほど食物がたくさんあった。
 gulf|n.|海灣；深淵；漩渦；吞沒|51|湾；深淵；大きな隔たり|d|How do you feel about the Gulf War?||湾岸戦争についてどう思いますか。
 ignorant|adj.|無知識的；不知道的；由無知產生的|51|無知な；知らない；無作法な|h|I am quite ignorant of the plan.|我對這個計劃一無所知。|私はその計画を全然知らない。
 incredibly|adv.|不能相信地|51|信じられないほど；途方もなく|h|George has an incredibly large Adam's apple.|喬治有一個令人難以置信的大喉結。|ジョージののどぼとけは信じられないぐらい大きい。
@@ -5265,7 +5265,7 @@ mercury|n.|水銀；汞；使者|51|水銀；水星|a|Mercury is the planet near
 mistress|n.|主婦；女主人；情婦|51|女主人；愛人；情婦|d|Between ourselves, he keeps a mistress.||ここだけの話だが、彼には愛人がいる。
 mo|n.|頃刻；瞬間；函購|51|頃刻；瞬間；通販|h|Ah, hold a mo. My shoelace's come undone.||あ、ちょっとタンマ。クツのヒモがほどけちゃった。
 nap|n.|小睡；稍睡；細毛|51|昼寝；仮眠|a|While napping, I had a strange dream.|我睡午覺的時候做了個怪夢。|昼寝をしている間に変な夢を見た。
-nucleus|n.|核心；核子；原子核|51|中堅；原子核|a|You two are the nucleus of the team.|你們倆是團隊的核心。|君たち二人はこのチームの中心です。
+nucleus|n.|核心；核子；原子核|51|核；原子核；中心|v|You two are the nucleus of the team.|你們倆是團隊的核心。|君たち二人はこのチームの中心です。
 oblige|v.|強制；施恩惠於；使感激；施恩惠|51|義務づける；便宜を図る；恩を施す|h|She was obliged to marry the old man.|她不得不和這個老男人結婚。|彼女はその老人と結婚せざるをえなかった。
 orphan|n.|孤兒；無雙親的；孤兒的|51|孤児；遺児|a|After retirement, Teresa devoted herself to caring for orphans.|退休後，德蕾莎投身照顧孤兒的工作。|現役を引退した後、テレサは孤児の世話に一身をささげた。
 paradise|n.|天堂；樂園；伊甸園|51|天国；楽園|a|The island is a paradise for children.|這個島是孩子們的天堂。|その島は子供にとっては楽園です。
@@ -5287,7 +5287,7 @@ resistant|n.|抵抗者；反抗者；抵抗的；反抗的|52|抵抗力のある
 restless|adj.|不安靜的；慌張的；休息不充分的|52|落ち着かない；そわそわした；眠れない|h|She felt restless all day long.||彼女は１日中、心が落ちつかなかった。
 restrain|v.|抑制；阻止；束縛|52|抑える；制止する；束縛する|d|You should learn to restrain yourself.|你應該學習控制自己的情緒。|君は自分を抑えることを学ぶべきだ。
 roger|int.|對!；行!；好!|52|了解；承知；了解した|d|Roger slipped on the ice and hurt his leg.|羅傑在冰上滑倒了，弄傷了腿。|ロジャーは氷で滑って脚に怪我をした。
-ross|n.|羅絲|52|ロス；ロス氏|h|||
+ross|n.|羅絲|52|ロス|v|||
 saw|n.|鋸子；諺語；鋸；鋸開|52|のこぎり；挽く|a|We saw the gleam of a distant lighthouse.|我們看到了遠方燈塔的微光。|遠い灯台のかすかな光を見た。
 scarce|adj.|難得的；稀罕的；缺乏的|52|希少|a|Rain is scarce in this country.|這個國家降雨量少。|この国は雨が少ないです。
 scarcely|adv.|簡直不；一定不；僅僅|52|ほとんど〜ない；かろうじて|h|There was scarcely any money left.|幾乎沒剩下錢。|お金はほとんど残っていなかった。
@@ -5323,18 +5323,18 @@ beginner|n.|初學者|52|初心者；ビギナー|a|Tom's a beginner, but he cat
 blaze|n.|火焰；烈火；光輝；燃燒|52|炎；輝き；燃え上がる|d|The firemen quickly extinguished the blaze.|消防隊很快就把大火撲熄。|消防士たちはすばやく火事を消した。
 brighten|v.|變亮；活躍；使生輝；使快活|52|明るくする；輝かせる；明るくなる|h|Even a dead tree may brighten a mountain.||枯れ木も山のにぎわい。
 cannon|n.|大炮；加農炮；炮轟|52|大砲；砲撃する|d|Never use a cannon to kill a fly.|殺雞焉用牛刀。|
-cant|n.|偽善之言；黑話；斜面；講黑話|52|カント|a|||
+cant|n.|偽善之言；黑話；斜面；講黑話|52|偽善的な言葉；隠語；傾く|v|||
 cassette|n.|盒式磁帶；珠寶箱；暗盒|52|カセット|a|I got a video cassette recorder cheap at that shop.|我在那商店花低價買了臺錄影機。|私はあの店でビデオデッキを安く買った。
 chelsea|n.|切爾西|52|チェルシー|h|||
 cloak|n.|鬥蓬；大氅；掩護；遮掩|52|マント；外套；覆い隠す|d|He cloaks his wickedness under a smiling face.||彼は笑顔の陰に邪悪な心を隠している。
 coarse|adj.|粗糙的；下等的；粗俗的|52|粗悪；粗い|a|Her dress was made of coarse wool.|她的裙子是用粗糙的羊毛造的。|彼女のドレスはきめの粗いウールでできていた。
 compute|v.|計算；估算|52|計算する；算出する；見積もる|h|Scientists can easily compute the distance between planets.|科學家們可以很容易地計算出行星之間的距離。|科学者は惑星間の距離を容易に計算できる。
 conquest|n.|戰勝；征服；戰利品|52|征服；克服|a|This is what is called the Norman Conquest.||これが、いわゆるノルマン征服である。
-conserve|n.|蜜餞；果醬；儲存；使守恆|52|保存する；守る；砂糖煮|h|He conserved his energy for the next game.||彼は次の試合のために精力を蓄えた。
+conserve|n.|蜜餞；果醬；儲存；使守恆|52|保存する；保護する；ジャム|v|He conserved his energy for the next game.||彼は次の試合のために精力を蓄えた。
 conversely|adv.|相反；逆；顛倒|52|逆に；反対に|d|2ch, where there are many posts praising specific companies, or, conversely, denigrating their rivals.||特定の企業を賞賛する書き込みや、逆にライバル企業を貶める書き込みが多い2ch。
 crane|n.|鶴；起重機；伸頸；起重機起吊|52|鶴；クレーン|a|Teach me how to fold a paper crane. I forgot how to fold it.|教我怎麼摺紙鶴吧。我忘記怎麼折了。|折り鶴の折り方教えてよ。折り方忘れちゃったんだ。
 cricket|n.|蟋蟀；板球|52|クリケット；こおろぎ|a|My uncle is an amateur cricket player.|我的舅舅愛好打板球。|私のおじはアマチュアのクリケット選手です。
-crow|n.|啼叫；烏鴉；雞鳴|52|カラス；クロウ|a|The bird on the roof is a crow.||屋根の上にいる鳥はからすです。
+crow|n.|啼叫；烏鴉；雞鳴|52|カラス；鳴く|v|The bird on the roof is a crow.||屋根の上にいる鳥はからすです。
 cucumber|n.|黃瓜|52|きゅうり|a|A cucumber is related to a watermelon.||キュウリはスイカの親戚だ。
 deceive|v.|欺騙；行騙|52|ごまかす；欺く|a|The boy I thought was honest deceived me.|那個我以為誠實的男孩欺騙了我。|正直だと思っていた少年が私をだました。
 dorm|n.|宿舍|52|寮；宿舎|h|Have you gotten used to living in the dorm?|你習慣在宿舍生活了嗎？|寮生活には慣れましたか。
@@ -5352,15 +5352,15 @@ flare|n.|閃光；閃耀|52|フレア；発炎筒|a|There was a flare-up between
 frank|adj.|坦白的；率直的；老實的；免費郵寄|52|フランク；率直|a|Frank majored in sociology at university.|弗蘭克在大學主修社會學。|フランクは大学で社会学を専攻した。
 freight|n.|船貨；運費；貨運；裝貨|52|貨物；運賃；積み荷|d|That aircraft company deals in freight only.||その航空会社は貨物のみを扱っている。
 gaming|n.|賭博；賭勝負|52|ゲーム；賭博；ギャンブル|h|Rumors about unannounced gaming consoles are common.||発表されていないゲーム機のうわさが立つのはよくあることです。
-gracious|adj.|親切的；慈善的|52|潔い|a|She is gracious to everyone.|她對誰都很和藹可親。|彼女は誰にも優しい。
+gracious|adj.|親切的；慈善的|52|親切な；優雅な|v|She is gracious to everyone.|她對誰都很和藹可親。|彼女は誰にも優しい。
 harden|v.|使變硬；使堅強；使冷酷；變硬|52|固める；固まる|a|Years of farm work have hardened his body.||何年も農場で仕事をして彼のからだはたくましくなった。
 honeymoon|n.|蜜月；蜜月假期；渡蜜月|52|ハネムーン；蜜月|a|More and more couples go on honeymoon trips abroad.|越來越多的情侶出國度蜜月。|海外へ新婚旅行に行くカップルがますます増えている。
-idle|adj.|懶惰的；閒散的；停頓的；無所事事|52|遊休；アイドル|a|It's wasteful to leave the land lying idle.|讓土地閒置著很浪費。|この土地を遊ばせておくのはもったいない。
+idle|adj.|懶惰的；閒散的；停頓的；無所事事|52|怠惰な；使われていない；アイドリングする|v|It's wasteful to leave the land lying idle.|讓土地閒置著很浪費。|この土地を遊ばせておくのはもったいない。
 imprison|v.|使下獄；關閉；拘禁|52|投獄する；閉じ込める|d|Mary was wrongly imprisoned for nearly 10 years.||メアリーは、10年近くの間、不当に投獄されていました。
 indifferent|adj.|漠不關心的；無重要性的；中立的|52|無関心な；どうでもよい；中立の|d|Lots of people in Japan are indifferent to politics.|很多日本人對政治冷淡。|日本人の多くは政治に興味がない。
 indispensable|adj.|不可缺少的；責無旁貸的；絕對必要的；不可缺少之物|52|必須；不可欠|a|Both air and water are indispensable for life.|沒有空氣和水，人類就無法生存。|空気と水は両方とも生命にとって欠くことができない。
 infamous|adj.|無恥的；不名譽的；聲名狼藉的|52|悪名高い；不名誉な；恥ずべき|d|Sharks are infamous for their bloodthirsty natures.||鮫はその血に飢えた残忍さで悪名高い。
-insignificant|adj.|無關緊要的；無意義的；瑣碎的|52|零細|a|But for you I'll always be insignificant.||だが俺はお前のとって永遠に無意味なまま。
+insignificant|adj.|無關緊要的；無意義的；瑣碎的|52|重要でない；取るに足りない|v|But for you I'll always be insignificant.||だが俺はお前のとって永遠に無意味なまま。
 intentional|adj.|故意的；與目的有關的|52|意図的|a|Of course, it wasn't intentional or done with any sort of awareness.||無論それは意識的にとか自覚的にとかいうのではない。
 intern|n.|實習生；被拘留者；作實習醫師|52|インターン|a|Tomorrow we will welcome the first intern.|明天我們將迎來第一個實習生。|
 irregular|n.|不規則物；不合規格之物；不規則的；不整齊的|52|不規則；不順|a|I don't like learning irregular verbs.|我不喜歡學習不規則動詞。|不規則動詞の勉強は好きではない。
@@ -5402,7 +5402,7 @@ rep|n.|稜紋平布；浪蕩子；名聲|52|畝織りの布；評判；放蕩者
 respectful|adj.|表示尊敬的；有禮貌的；謙恭的|52|敬意を示す；礼儀正しい；うやうやしい|d|We have to be respectful to our seniors.||上長者には敬意を払わなければ、いけない。
 revolt|n.|叛亂；反抗；反感|52|反乱；反抗；嫌悪|d|The army was called to suppress the revolt.||その反乱を鎮圧するために軍隊の出動が要請された。
 rotten|adj.|腐爛的；惡臭的；墮落的|52|腐った；堕落した；ひどい|h|The oranges in this bag are rotten.|這個袋子裡的柳橙都爛了。|この袋の中のオレンジは腐っている。
-satisfactory|adj.|滿意的；贖罪的|52|ろくな；ろく|a|The results of the research were quite satisfactory.|調查的結果十分令人滿意。|その調査の結果は十分に満足のいくものだった。
+satisfactory|adj.|滿意的；贖罪的|52|満足のいく；十分な|v|The results of the research were quite satisfactory.|調查的結果十分令人滿意。|その調査の結果は十分に満足のいくものだった。
 semiconductor|n.|半導體|52|半導体|a|||
 sept|n.|氏族|52|氏族；一族|h|||
 shepherd|n.|牧羊人；牧羊犬；牧師；看守|52|羊飼い；牧羊犬；導く者|d|The German Shepherd was limping down the street.||そのシェパードは、びっこをひきながら道を歩いていた。
@@ -5498,7 +5498,7 @@ solemn|adj.|嚴肅的；鄭重的；莊嚴的|53|荘厳；厳か|a|The priest pr
 sparkle|n.|閃耀；火花；活力|53|きらめき；輝き；活気|d|The icy road sparkled in the sunlight.|結冰的道路在陽光下閃閃發亮。|凍結した道路が日光を浴びてまばゆく光った。
 sponge|n.|海綿；海綿狀的東西；用海綿擦拭；吸收掉|53|スポンジ；海綿|a|Please sponge the mess up off the table.||テーブルの汚れをスポンジでふき取って下さい。
 stale|adj.|不新鮮的；陳腐的；疲憊的；尿|53|陳腐；古臭い|a|I don't want to eat this stale bread.||こんな硬くなったパンは食べたくないよ。
-statesman|n.|政治家|53|為政者|a|He is the greatest statesman that ever lived.|他是古今無匹的偉大政治家。|彼は古今に並ぶ者のない偉大な政治家である。
+statesman|n.|政治家|53|政治家|v|He is the greatest statesman that ever lived.|他是古今無匹的偉大政治家。|彼は古今に並ぶ者のない偉大な政治家である。
 stern|n.|尾部；船尾；臀；嚴厲的|53|船尾；厳しい；いかめしい|d|Our teacher is at once stern and kindly.||我々の先生は厳しくもあり、かつ優しくもある。
 stiffen|v.|使變硬；使僵硬；使頑強；變粘|53|硬くする；こわばらせる；頑固にする|h|The doctor's warning stiffened my resolve to stop drinking.||医師の警告で禁酒の決意が固くなった。
 stitch|n.|一針；疼痛；針法；縫|53|縫い目；刺し；わき腹の痛み|d|A stitch in time saves nine.|防微杜漸。|今日の一針、明日の十針。
@@ -5523,7 +5523,7 @@ vibrate|v.|振動；顫動；激動；使顫動|53|振動する；震わせる�
 videotape|n.|錄相磁帶；把電視節目錄在錄影磁帶上|53|ビデオテープ；録画する|h|I promise to return this videotape within a week.|我保證在一個星期內把這盤錄影帶還給你。|このビデオテープを１週間以内にお返しすることを約束します。
 voltage|n.|電壓；伏特數|53|電圧；ボルテージ|a|For this test, I bought a voltage tester.|為了這次的測試，我特地買了電壓測試儀。|
 wreath|n.|花圈；花環；圈狀物|53|花輪；リース|a|A wreath was bound around his head.||花環が彼の頭に巻かれた。
-zeal|n.|熱心；熱衷；熱誠|53|熱意；ジール|a|Zeal for your house will consume me.|我為你的殿，心裡焦急，如同火燒。|あなたの家を思う熱心が、わたしを食い尽くす。
+zeal|n.|熱心；熱衷；熱誠|53|熱意；熱心|v|Zeal for your house will consume me.|我為你的殿，心裡焦急，如同火燒。|あなたの家を思う熱心が、わたしを食い尽くす。
 alloy|n.|合金；將...鑄成合金；減低成色|53|合金；アロイ|a|Brass is an alloy of copper and zinc.||黄銅は銅と亜鉛の合金である。
 aural|adj.|耳的；聽覺的；氣氛的|53|耳の；聴覚の|h|||
 automation|n.|自動化；自動操作|53|オートメーション；自動化|a|Automation is bound to have important social consequences.||オートメーションは必ず重要な社会的結果をもたらすだろう。
@@ -5535,7 +5535,7 @@ bough|n.|大樹枝|53|大枝|d|Look at the monkey on that bough.||あの大き�
 brim|n.|邊；邊緣；注滿|53|縁；へり；あふれるほど満たす|d|His eyes were brimming over with tears.|他熱淚盈眶。|彼の目から涙があふれ出てきた。
 brood|n.|一窩；一夥；孵；沉思|53|ひと腹の雛；思い悩む；抱く|d|She brooded over the bullying done to her.||彼女は自分に対するいじめのことでじっと考え込んでいた。
 brute|n.|畜生；殘忍或好色之人；殘忍的；無理性的|53|獣；野獣のような人；残忍な|d|It's brute force, but that's the only way.||力業ですが、他に選択肢がありません。
-calculator|n.|計算者；計算器|53|電卓|a|The calculator on the table is mine.|桌上的計算器是我的。|机の上のカルキュレーターは私のです。
+calculator|n.|計算者；計算器|53|電卓；計算機|v|The calculator on the table is mine.|桌上的計算器是我的。|机の上のカルキュレーターは私のです。
 childish|adj.|天真的；孩子氣的|53|子どもっぽい；幼稚な|d|It is time you left off your childish ways.|是你該放棄你幼稚手段的時候了。|もう子供じみたことはやめてもいい頃だ。
 circumference|n.|圓周；周緣；胸圍|53|周り；周辺|a|Is it possible to determine the diameter from the circumference?|用圓周能不能求得直徑？|円周から直径を求めることは可能ですか？
 condense|v.|使濃縮；使壓縮；縮短；濃縮|53|凝縮する；圧縮する；要約する|h|||
@@ -5562,14 +5562,14 @@ grace|n.|優雅；風度；慈悲；使優美|53|恩恵；優美|a|Grace goes up
 graham|adj.|全麥的；粗麵粉的；全麥粉製成的|53|全粒粉の；全粒粉|h|Graham Greene is a favorite author of mine.|格雷厄姆葛林是我最喜歡的作家之一。|グレアム・グリーンは私のお気に入りの作家です。
 habitual|adj.|習慣的；慣常的；平常的|53|習慣的な；常習的な；いつもの|h|Grandfather sat in his habitual place near the fire.||おじいさんは火の近くでいつもの場所に座った。
 hare|n.|野兔；飛跑|53|野ウサギ；飛ぶように走る|d|The hare was outdistanced by the tortoise.|野兔被烏龜拋了在後頭。|うさぎはかめに追い越された。
-haste|n.|匆忙；急忙|53|急ぎ；ヘイスト|a|He left the office in great haste.|他急急忙忙地離開了辦公室。|彼は大急ぎでオフィスを去った。
+haste|n.|匆忙；急忙|53|急ぎ；慌ただしさ|v|He left the office in great haste.|他急急忙忙地離開了辦公室。|彼は大急ぎでオフィスを去った。
 hasty|adj.|匆匆的；輕率的；性怠的|53|せっかち；性急|a|I ate a hasty lunch.|我匆忙的吃了午餐。|私は急いで昼食を食べた。
 hateful|adj.|憎恨的；可恨的；可惡的|53|憎い；呪わしい|a|The sight of him is hateful to me.||あいつを見ると、いまいましくてしょうがない。
 horsepower|n.|馬力|53|馬力|a|My car is deficient in horsepower.||私の車は馬力が足らない。
 immigrate|v.|使移居入境；移入|53|移住する；入国する|h|I immigrated to America when I was little.||幼い頃、アメリカに移住しました。
 implementation|n.|安裝啟用；實行；履行|53|実現；実装|a|The multinational corporation has forecast the implementation of economies of scale.|跨國公司預料到了規模經濟的實行。|
 incline|n.|傾斜；斜坡；斜面；使傾向於|53|傾ける；インクライン|a|We are inclined to stand up for him.||われわれは彼を支持したい気がする。
-indefinite|adj.|模糊的；不確定的；無限的|53|無期；うやむや|a|These plans have been put on indefinite hold.||これらの計画は無期限に棚上げされています。
+indefinite|adj.|模糊的；不確定的；無限的|53|無期限の；不明確な|v|These plans have been put on indefinite hold.||これらの計画は無期限に棚上げされています。
 indignant|adj.|憤怒的；憤慨的|53|憤慨した；怒った|h|She was indignant when I said she was lying.||うそをついているぞと私が言うと、彼女は憤慨していた。
 inverse|adj.|倒轉的；相反的；反向；反面|53|逆の；反対の；逆数|h|The inverse of a non-square matrix is a dangerous thing.|非方矩陣的逆陣是一個危險的東西。|
 inward|adj.|內心的；向內的；本來的|53|内面の；内向きの；内側へ|h|Hands reveal our inward emotions.||手は我々の内なる感情を明らかに映し出す。
@@ -5586,7 +5586,7 @@ negro|n.|黑人；黑人的|53|黒人；黒人の|h|||
 noun|n.|名詞|53|名詞|a|In this case, the adjective goes before the noun.|在這種情況下，形容詞放在名詞前面。|
 oppress|v.|壓迫；壓抑；使煩惱|53|虐げる|a|The government of this country oppresses its people.|這個國家的政府壓迫人民。|この国の政府は国民を圧迫している。
 owing|adj.|未付的；虧欠的；受惠的|53|未払いの；借りのある；〜のために|h|Many flights were canceled, owing to the typhoon.|由於颱風原因，很多航班被取消了。|台風のために多くの飛行機の便がとりやめられた。
-pail|n.|桶；提桶|53|バケツ；桶|d|I filled the pail with water.||私はバケツを水でいっぱいにした。
+pail|n.|桶；提桶|53|バケツ；おけ|v|I filled the pail with water.||私はバケツを水でいっぱいにした。
 pebble|n.|小圓石；小鵝卵石；水晶透鏡|53|小石；玉石|a|She stooped to pick up a pebble.|她撿起了一塊鵝卵石。|彼女は身をかがめて小石を拾い上げた。
 peep|n.|一瞥；偷看；不完全的景象；窺視|53|のぞき見；覗く；ちらりと見る|d|The cat peeped its head out the window.||猫が窓からにょきっと顔を出してきた。
 preface|n.|序；緒言；前言；作序|53|前置き；序文|a|This dictionary has a preface, not a foreword.||この辞書には序文はあるが端書きがない。
@@ -5596,17 +5596,17 @@ quarterly|adj.|季度的；按季度的；每季的；按季|53|季刊の；四�
 queer|n.|怪人；同性戀者；奇怪的；不舒服的|53|奇妙な；変な；同性愛者の蔑称|h|He is really a queer fellow!|他可真是個怪人！|彼はずいぶん変なやつだ。
 quicken|v.|加快；激發；使有生氣|53|速める；活気づける；生き返る|d|I quickened my steps to catch up with her.||彼女に追いつくために私は歩を速めた。
 radish|n.|小蘿蔔|53|ラディッシュ；ハツカダイコン|d|The pickled radish needs a touch of salt.||この沢庵は塩気が足りない。
-refreshment|n.|點心；起提神作用的事物；精神爽快|53|リフレッシュ|a|We will continue the meeting after some light refreshments.|茶點過後我們接著開會。|
+refreshment|n.|點心；起提神作用的事物；精神爽快|53|軽食；リフレッシュ；元気回復|v|We will continue the meeting after some light refreshments.|茶點過後我們接著開會。|
 relativity|n.|有關係；相關性；相對性|53|相対|a|Einstein's theory of relativity is Greek to me.|我完全看不懂愛因斯坦的相對性理論。|アインシュタインの相対性理論は俺にはわけわかめだ。
 repent|v.|後悔；懊悔；懺悔|53|後悔する；悔いる|h|He repented having betrayed his country to the enemy.|他後悔對敵人出賣了他的國家。|彼は敵に国を売ったことを後悔した。
 rick|n.|草堆；把...堆成垛|53|干し草の山；積み上げる|h|"Do you have a nickname?" "Yes, it's Rick."||「あだ名ってある？」「うん。リックだよ」
-rotary|adj.|旋轉的；輪流的；旋轉式機器|53|ロータリー|a|||
+rotary|adj.|旋轉的；輪流的；旋轉式機器|53|回転する；ロータリー|v|||
 saudi|adj.|沙烏地阿拉伯的|53|サウジアラビアの|h|Saudi Arabia is very rich in oil.|沙烏地阿拉伯有非常豐富的石油。|サウジアラビアは石油に非常に恵まれている。
 scorn|n.|輕蔑；藐視；嘲笑|53|侮蔑；蔑む|a|Silence is the most perfect expression of scorn.||沈黙は軽蔑を表す完璧な表現である。
 slit|n.|裂縫；投幣口；狹長裂口；切開|53|スリット|a|My eyes narrowed into slits in the strong sunlight.||私の目は強い日光を浴びて細くなった。
 snowstorm|n.|暴風雪|53|吹雪；暴風雪|d|A heavy snowstorm kept us from going out.||ひどい吹雪のために私達は外出できなかった。
 sportsman|n.|運動員；冒險家|53|スポーツマン|a|He looks like a sportsman, but he is a writer.|他看起來像個運動員，但是其實是個作家。|彼はスポーツマンのように見えるが、実は作家です。
-springtime|n.|春天；春季；初期|53|プランタン|a|In springtime, the dawn. In summer, the night.||春はあけぼの、夏はよる。
+springtime|n.|春天；春季；初期|53|春；春季|v|In springtime, the dawn. In summer, the night.||春はあけぼの、夏はよる。
 steamer|n.|汽船；蒸汽機|53|蒸気船；蒸し器|d|The steamer is now out of sight.||汽船は見えなくなった。
 stony|adj.|多石的；無情的|53|石の多い；冷たい；無情な|h|||
 stormy|adj.|暴風雨的；粗暴的；激烈的|53|嵐の；荒れた；激しい|h|I think it's dangerous to climb a mountain on a day when it's stormy.|我認為在有風暴的時候裡登山很危險。|嵐の日に山に登るのは危険だと思う。
@@ -5641,14 +5641,14 @@ borders|n.|邊界；邊緣地區|53|国境；境界；縁|h|The United States bo
 brook|n.|小溪；容忍|53|小川；我慢する|d|His pride would not brook such insults.||自尊心から彼にそのような侮辱は耐えられなかった。
 civilize|v.|使開化；使文明；變文明|53|文明化する；教化する|h|Europeans tried to civilize the tribe.|歐洲人試著去教化部落的人|ヨーロッパ人たちはその種族を文明化しようと努めた。
 cnn||美國有線電視新聞網路|53|シーエヌエヌ|d|||
-con|v.|精讀；仔細研究；默記；反面地|53|熟読する；暗記する；反対の|h|Every programming language has its pros and cons.||どのプログラミング言語も一長一短だ。
+con|v.|精讀；仔細研究；默記；反面地|53|詐欺；反対；精読する|v|Every programming language has its pros and cons.||どのプログラミング言語も一長一短だ。
 cooper|n.|制桶工人；制桶|53|桶職人；樽職人|h|||
 dishonour|n.|不名譽；使人丟臉的人/事；恥辱；使喪失名譽|53|不名誉；恥辱；恥をかかせる|d|||
 displease|v.|使不愉快；使生氣|53|不快にさせる；怒らせる|h|If she was displeased, she never showed it.|如果她不高興，她從來不表現出來。|彼女は不愉快に思ったとしても、決して顔に出さなかった。
 dissatisfy|v.|使感覺不滿；不滿足|53|不満を抱かせる；満足させない|h|||
 eh|int.|啊!嗯!是嗎?好嗎?|53|えっ；ね；そうでしょう|h|You're a friend of Tom's, eh?|你是湯姆的一個朋友，不是嗎？|君はトムの友人だね。
 fahrenheit|adj.|華氏溫度計的；華氏溫度計|53|華氏の；華氏温度計|h|Water freezes at 32 degrees Fahrenheit.|水在華氏32度結成冰。|水は３２度Ｆで凍る。
-favourable|adj.|有用的；良好的；贊成的|53|順調；好調|a|This year's favourable direction is east south east.||今年の恵方は東南東です。
+favourable|adj.|有用的；良好的；贊成的|53|好都合な；有利な；好意的な|v|This year's favourable direction is east south east.||今年の恵方は東南東です。
 franchise|n.|公民權；特權；特許經營權；給以特權|53|フランチャイズ|a|||
 gaseous|adj.|氣體的；氣態的；無實質的|53|気体の；ガス状の；実体のない|h|||
 grammatical|adj.|語法的；合乎語法的|53|文法の；文法上正しい|h|He made many grammatical mistakes in his composition.|他的作文有很多文法錯誤。|彼は作文でたくさんの文法上の誤りをした。
@@ -5658,11 +5658,11 @@ homeless|adj.|無家的；無養主的|53|家のない；ホームレスの|h|Th
 honourable|adj.|值得尊敬的；榮耀的；高貴的|53|尊敬すべき；名誉ある；誠実な|h|I heard a very honourable story from the company president.||社長からとても光栄なお話を受け賜りました。
 huh|int.|哼；哈|53|ふん；はあ；えっ|d|She sniffed out his true intentions, huh.|她發現了他的真實面目，嗯？|彼女は彼の真の意図を嗅ぎつけましたね。
 industrialize|v.|使工業化；實現工業化|53|工業化する；産業化する|h|The country was industrialized very quickly.||その国は急速に工業化された。
-isis||廢鋼鐵協會；綜合科學情報服務|53|イシス；廃鉄協会|h|||
+isis||廢鋼鐵協會；綜合科學情報服務|53|イシス；過激派組織IS|v|||
 jerry|adj.|草率的；偷工減料的|53|粗雑な；手抜きの|h|They named their cats Tom and Jerry.|他們把他們的貓取名為湯姆和傑利。|彼らは飼い猫たちにトムとジェリーと名付けた。
 judgment|n.|裁判；宣告；判決書|53|判断；裁き|a|I've always trusted your judgment.|我一直都相信你的判斷。|君の判断をいつも信じていました。
 kilometer|n.|千米；公里|53|キロメートル|a|The old man attempted to swim five kilometers.|老人試圖遊5公里。|その老人は５キロ泳ごうとした。
-landlady|n.|女房東；女地主|53|女将；女性の家主|d|This lady is Masagokan's landlady, Yoko Someha.||この方が、「真砂館」のおかみさんの染葉洋子さん。
+landlady|n.|女房東；女地主|53|女主人；大家|v|This lady is Masagokan's landlady, Yoko Someha.||この方が、「真砂館」のおかみさんの染葉洋子さん。
 logo|n.|連合活字；商標；徽標|53|ロゴ；シンボルマーク|a|Have you ever seen this logo before?||このロゴ見たことある？
 lubricate|v.|使潤滑；塗油；潤滑|53|潤滑にする；油を差す|h|Tea is like the lubricating oil of work to allow it to proceed smoothly.||お茶は仕事をスムーズに運ばせるための潤滑油のようなもの。
 maths|n.|數學|53|数学|h|I want to study maths.|我想學數學。|私は数学を勉強したい。
@@ -5719,7 +5719,7 @@ constitute|v.|構成；組成；任命|54|構成する；設立する；任命�
 controversy|n.|論爭；辯論；論戰|54|論争；議論|d|The senator remained neutral in the furious controversy.||その上院議員は激しい論争において中立の立場を守った。
 conviction|n.|定罪；信服；堅信|54|確信|a|Betty has a previous conviction for theft.|貝蒂有盜竊前科。|ベティは窃盗の前科がある。
 cop|n.|警官；抓住|54|警官；警察官；捕まえる|h|Don't let the cops find a heater on you.|不要給警察發現你身上有槍。|サツにハジキを持っているのをみつかるなよ。
-corporate|adj.|社團的；合夥的；公司的|54|企業の；法人の；共同の|h|Corporate earnings in the first quarter improved sharply.|企業第一季度收益大幅增長。|企業収益は第１四半期に大きく改善した。
+corporate|adj.|社團的；合夥的；公司的|54|企業の；法人の|v|Corporate earnings in the first quarter improved sharply.|企業第一季度收益大幅增長。|企業収益は第１四半期に大きく改善した。
 coverage|n.|覆蓋的範圍；保險總額；新聞報導|54|補償範囲；報道；適用範囲|d|There's no cellphone coverage in this area.||この地域は携帯電話の圏外だ。
 criteria||標準|54|基準；判断基準|h|What criteria do you use in deciding who to vote for?||どんな基準で誰に投票するか決めていますか。
 dealer|n.|經銷商；商人|54|ディーラー|a|My decision was based on a dealer recommendation.|我是聽從經銷商的建議做的決定。|
@@ -5743,7 +5743,7 @@ historic|adj.|歷史上著名的；有歷史性的|54|歴史上有名な；歴�
 honor|n.|榮譽；頭銜；信用；尊敬|54|名誉；重んずる|a|I felt that my honor was at stake.|我覺得我的名譽受到了威脅。|自分の名誉がかかっていると感じた。
 incentive|n.|動機；激勵的|54|インセンティブ|a|The workers have no incentive to work harder.||労働者たちにはもっと働こうとする刺激がなにもない。
 incorporate|adj.|合併的；組成公司的；一體化的；吸收|54|盛り込む；組み入れる|a|Tom's company is incorporated in the Cayman Islands.||トムの会社はケイマン諸島法人です。
-incredible|adj.|難以置信的|54|すげー；ネ申|a|The cook was astonished at his incredible appetite.||その料理人は彼の信じられないほどの食欲に驚いた。
+incredible|adj.|難以置信的|54|信じられない；素晴らしい|v|The cook was astonished at his incredible appetite.||その料理人は彼の信じられないほどの食欲に驚いた。
 inflation|n.|脹大；誇張；通貨膨脹|54|インフレ；インフレーション|a|The value of the dollar declines as the rate of inflation rises.|隨著通貨膨脹的發展美元貶值了。|インフレの程度が進むにつれてドルの価値は下がる。
 integration|n.|綜合；與環境協調的行為；整合|54|統合；インテグレーション|a|||
 intervention|n.|插入；介入；調停|54|介入|a|||
@@ -5765,7 +5765,7 @@ orientation|n.|定方位；適應；向東方；方向|54|オリエンテーシ�
 participant|n.|參加者；參與者；有份的；參加的|54|参加者|a|The participants were for the most part women.|參與者大部分是女性。|参加者の大部分は女性だった。
 peer|n.|同等的人；匹敵；貴族；凝視|54|同等の人；仲間；じっと見る|h|Children imitate their peers rather than their parents.|比起父母，兒童更喜歡模仿自己的同齡人。|
 penalty|n.|處罰；刑罰；罰款|54|刑；ペナルティー|a|We should abolish the death penalty.|我們應該廢除死刑。|我々は死刑を廃止すべきである。
-perception|n.|知覺；感覺；領悟力|54|勘；知覚|a|I'm afraid my depth perception is very poor.||遠近感がとぼしいのです。
+perception|n.|知覺；感覺；領悟力|54|知覚；認識；見解|v|I'm afraid my depth perception is very poor.||遠近感がとぼしいのです。
 privacy|n.|隱私；隱居；秘密|54|プライバシー；内密|a|Take care not to intrude upon her privacy.|注意不要侵犯她的隱私。|彼女のプライバシーに立ち入らないように注意しなさい。
 proceeding|n.|進行；程式；行動|54|進行；手続き；行為|h|At the meeting he monopolized the discussion and completely disrupted the proceeding.|在這次會議上, 他壟斷了討論並徹底打亂了議程。|会議の議論は彼が独走したので混乱した。
 profile|n.|側面；輪廓；傳略；描繪...輪廓|54|プロフィール；横顔|a|Have you changed your profile picture recently?|你最近更改過你的頭像嗎？|最近、プロフィール写真変えた？
@@ -5802,7 +5802,7 @@ alliance|n.|聯盟；聯合|54|同盟；アライアンス|a|Germany made an all
 amid|prep.|在其間；在其中|54|〜の中で；〜の最中に|h|There's a fear that the snow will strengthen amid the strong winter pressure pattern.|人們擔心在強勁的冬季氣壓模式下，降雪量會增加。|強い冬型の気圧配置となり、雪が強まるおそれがある。
 anytime|adv.|任何時候；無例外地|54|いつでも；いつなりとも|h|You can call me anytime you like.|你喜歡什麼時候打給我就什麼時候打。|いつでも気が向いたら電話してくれていいから。
 array|n.|排列；衣服；大批；佈署|54|配列；勢ぞろい；配置する|d|The troops were in battle array.||軍隊は戦闘の配置で整列していた。
-ass|n.|驢；傻瓜；笨蛋|54|ロバ；まぬけ；けつ|d|Stop being such a hard-ass. Come on over.||いつまでも意地張ってないで、こっちに来なよ。
+ass|n.|驢；傻瓜；笨蛋|54|ロバ；お尻；ばか|v|Stop being such a hard-ass. Come on over.||いつまでも意地張ってないで、こっちに来なよ。
 backup|n.|倒車；後退；後援；做備份|54|予備；バックアップ；支援|d|Do you have some kind of backup plan?||何かしらの代替案はありますか？
 ballot|n.|投票；投票用紙；抽籤|54|投票；投票用紙；くじ引き|d|Voters cast their ballots for mayor every four years.||市長選は４年ごとに行われる。
 bankruptcy|n.|破產者|54|破産；倒産|a|The company is on the verge of bankruptcy.||その会社は今にも倒産しようとしている。
@@ -5812,9 +5812,9 @@ bloody|adj.|血腥的；嗜殺的；有血的|54|血まみれの；残忍な；�
 bug|n.|錯誤；蟲；病菌；裝防盜報警器|54|虫；バグ；盗聴器|d|It's not a bug, it's an undocumented feature.|這不是一個漏洞，而是一個沒有寫進文件的特性。|それはバグじゃなくて、ドキュメント化されてない仕様です。
 carbohydrate|n.|碳水化合物；糖類|54|炭水化物；糖質|d|Do you know anything about complex carbohydrates?|你對複合碳水化合物有什麼瞭解嗎？|複雑炭水化物って何か知ってますか。
 casualty|n.|意外事故；傷亡；受害者|54|死傷者；犠牲者；事故|d|Casualties are said to total up to 1,000.||死傷者は合計1000名となったということだ。
-chronic|adj.|慢性的；習慣性的；慢性病患者|54|慢性；慢性的|a|There is a chronic oversupply of rice in Japan.||日本では米が恒常的に供給過剰である。
+chronic|adj.|慢性的；習慣性的；慢性病患者|54|慢性の；常習的な|v|There is a chronic oversupply of rice in Japan.||日本では米が恒常的に供給過剰である。
 clip|n.|修剪；夾子；回形針|54|クリップ；挟み|a|I have a newspaper clipping file.|我有一本剪報夾。|新聞をまとめておくファイルを持っている。
-coastal|adj.|海岸的；沿海的；沿岸的|54|臨海|a|Years later, Europeans established colonies in the coastal areas.||数年後、ヨーロッパ人たちは沿岸の植民地に住み着いた。
+coastal|adj.|海岸的；沿海的；沿岸的|54|沿岸の；海岸の|v|Years later, Europeans established colonies in the coastal areas.||数年後、ヨーロッパ人たちは沿岸の植民地に住み着いた。
 cocaine|n.|可卡因；古柯鹼|54|コカイン|a|He is addicted to cocaine.||彼はコカインに溺れている。
 cognitive|adj.|認知的；認識的|54|認知の；認識の|h|I'm majoring in cognitive science in college.||大学では、認知科学を専攻するつもりです。
 collaboration|n.|合作；勾結|54|コラボレーション；合作|a|Collaboration has apparently paid off for both of them.||両者にとって協力が実を結んだようだ。
@@ -5830,7 +5830,7 @@ contend|v.|奮鬥；鬥爭；競爭；為...鬥爭|54|争う；主張する；�
 convict|n.|囚犯；罪犯；宣告有罪；使知罪|54|有罪とする；受刑者；確信させる|d|The convict was pardoned after serving his sentence.||その囚人は刑期に服した後赦免された。
 correlation|n.|相互關係；相關；關聯|54|相関；相関関係|a|Correlation does not imply causation.|相關關係不導致因果關係。|
 costume|n.|裝束；服裝|54|コスチューム；仮装|a|This style of costume originated in Paris.||この服装様式はパリに始まった。
-couch|n.|長沙發；睡椅；臥榻；橫躺|54|ソファ；寝椅子；言葉で表す|d|The TV remote control is under the couch.|電視遙控器在沙發下面。|ソファーの下にテレビのリモコンがある。
+couch|n.|長沙發；睡椅；臥榻；橫躺|54|ソファ；寝椅子|v|The TV remote control is under the couch.|電視遙控器在沙發下面。|ソファーの下にテレビのリモコンがある。
 counsel|n.|商議；忠告；法律顧問|54|弁護人|a|Recently numerous groups have offered counsel.||最近多数のグループが助言をしてきた。
 counseling|n.|諮詢服務|54|カウンセリング|a|||
 counterpart|n.|副本；複本；配對物|54|対応物；相当する人；対の一方|h|CEO's of American corporations are paid several times their Japanese counterparts.||アメリカ企業のトップは日本企業のトップに比べ何倍もの報酬をもらっている。
@@ -5885,7 +5885,7 @@ intent|n.|意圖；含義；故意；專心的|55|故意；旨意|a|He was to al
 inventory|n.|詳細目錄；存貨清單；列入詳細目錄；清點存貨|55|在庫；目録；棚卸し|d|We have adequate inventories of the product to meet local demand.||地方の需要に応えるのに十分な製品の在庫がある。
 judicial|adj.|法庭的；公正的；審判上的|55|司法の；裁判の；公正な|h|The dictator arrogated judicial powers to himself.||独裁者は司法権を自分のものとした。
 kit|n.|裝備；工具箱；成套工具|55|キット|a|Don't forget to take the first-aid kit.|別忘了帶上急救箱。|救急箱、持ってくるの忘れないでよ。
-liability|n.|責任；債務；傾向|55|ライアビリティー|a|Our company is a limited-liability company.|我們公司是有限公司。|我々の会社は有限会社だ。
+liability|n.|責任；債務；傾向|55|責任；負債；傾向|v|Our company is a limited-liability company.|我們公司是有限公司。|我々の会社は有限会社だ。
 lobby|n.|大廳；休息室；遊說議員者；遊說議員|55|ロビー|a|I have a friend waiting for me in the lobby.|有個朋友正在大堂等我。|ロビーで友達を待たせてるんだよ。
 magnitude|n.|巨大；重大；重要|55|マグニチュード|a|A massive earthquake of magnitude 8.8 hit the Japanese islands today.|今天，8.8級的強大地震襲擊了日本的島嶼。|本日、マグニチュード８．８の巨大地震が日本列島を襲いました。
 makeup|n.|組成；性格；化妝品|55|化粧品；構成；性格|d|She wears a lot of makeup.|她化著濃妝。|彼女は化粧が濃い。
@@ -5909,13 +5909,13 @@ pickup|n.|拾起；加速；刺激|55|拾い上げ；加速；ピックアップ
 plead|v.|辯護；懇求；為...辯護；提出...藉口|55|懇願する；弁護する；申し立てる|d|She pleaded with him not to disturb her.||彼女は彼に邪魔しないようにと嘆願した。
 popularity|n.|名聲；受大眾歡迎；流行|55|受け；人気|a|His music has attained great popularity overseas.|他的音樂在國外很受歡迎。|彼の音楽は海外で大変な人気を獲得した。
 portray|v.|描繪；描寫；描繪...的肖像|55|描く；演じる；描写する|h|||
-practitioner|n.|從業者；開業者|55|士|a|He had been a practitioner of Aikido for seven years.||彼は７年間、合気道をやっていた。
+practitioner|n.|從業者；開業者|55|開業医；実践者|v|He had been a practitioner of Aikido for seven years.||彼は７年間、合気道をやっていた。
 prediction|n.|預言；預報|55|予測；予言|a|Strange to say, his prediction has come true.|說來奇怪，他的預言竟然真的靈驗了。|不思議な話だが、彼の予言は当たった。
 pregnancy|n.|懷孕；豐富；多產|55|妊娠；懐妊|a|I had an ectopic pregnancy two years ago.||２年前に子宮外妊娠をしました。
 presidency|n.|總統職權；總裁職位|55|大統領の職；社長の職|h|He's eligible for the presidency.|他有資格當選總統。|大統領には彼が適任だ。
 prevention|n.|阻止；妨礙；預防|55|防止；予防|a|The prevention of forest fires is everyone's responsibility.|防止山火，人人有責。|森林火災の防止はすべての人が負う義務です。
 productivity|n.|生產力|55|生産性|a|We'll employ a new tool to increase productivity.||生産性をあげるため新たなツールを探してます。
-profound|adj.|極深的；深厚的；深刻的|55|重厚；奥深い|a|The patient is in a state of profound stupor.|患者現在處於深度昏迷狀態。|患者は深い昏睡状態にあります。
+profound|adj.|極深的；深厚的；深刻的|55|深い；深遠な|v|The patient is in a state of profound stupor.|患者現在處於深度昏迷狀態。|患者は深い昏睡状態にあります。
 punk|n.|廢物；小阿飛；無用的；腐朽的|55|パンク；くず；若造|d|I don't really like punk rock very much.||パンクロックはあまり好きじゃないんだよな。
 quest|n.|探索；尋求；調查；尋找|55|探求；追求；探検|d|Gulliver traveled in quest of adventure.|格列佛為尋求探險而旅行。|ガリバーは冒険を求めて旅をした。
 ranch|n.|大牧場；經營牧場|55|牧場；大農場|d|There are about 500 cattle on the ranch.||牧場には牛が約５００頭います。
@@ -5924,7 +5924,7 @@ recession|n.|後退；凹處；衰退|55|リセッション|a|The unemployment r
 recipient|adj.|領受的；容易接受的；感受性強的；領受者|55|受取人；取り手|a|Her request never reached its intended recipient.||彼女の願いは届かなかった。
 replacement|n.|歸還；更換；代替者|55|入れ替え；置き換え|a|He demanded a replacement for the broken part.||彼は壊れた所をとりかえてくれと要求した。
 residential|adj.|住宅的；與居住有關的|55|住宅の；居住に関する|h|This residential area is comfortable to live in.||この住宅地域は住み心地がよい。
-revelation|n.|揭露；洩露；發覺|55|啓示；発現|a|It was a revelation to me.||それは私にとって意外な話だった。
+revelation|n.|揭露；洩露；發覺|55|暴露；啓示；新発見|v|It was a revelation to me.||それは私にとって意外な話だった。
 rip|n.|裂痕；破綻；拉裂；被拉開|55|裂け目；破れ目；引き裂く|d|I ripped the envelope open.|我撕開了信封。|私は封筒を破って開けた。
 ritual|n.|儀式；典禮；宗教儀式；儀式的|55|儀式；典礼；儀式の|d|A sacred ritual took place in the magnificent temple.|一個神聖的儀式在莊嚴的廟宇中舉行。|神聖な儀式がその荘厳な寺院で執り行われた。
 romance|n.|冒險故事；浪漫史；傳奇文學；寫傳奇|55|ロマン；ロマンス|a|Can you recommend a romance novel for me?|有什麼言情小說推薦嗎？|おすすめの恋愛小説はありますか？
@@ -5944,7 +5944,7 @@ sodium|n.|鈉|55|ナトリウム|a|Sodium bicarbonate is commonly known as bakin
 spectacular|adj.|公開展示的；驚人的；壯觀的；奇觀|55|壮観な；見事な；派手な|h|The view from the mountain top was spectacular.||山頂からの眺めは壮観だった。
 spectrum|n.|光譜；範圍；系列|55|スペクトル；スペクトラム|a|You can see the colors of the spectrum in a rainbow.||虹の中にスペクトルの色を見る事が出来る。
 spouse|n.|配偶|55|配偶者|a|Tom found a wonderful spouse in Mary.|湯姆認識了瑪莉這麼個好老婆。|
-subtle|adj.|敏銳的；精細的；狡猾的|55|微妙|a|There are subtle differences between the two pictures.|這兩張圖片之間有細緻的差異。|その２つの絵には微妙な違いがある。
+subtle|adj.|敏銳的；精細的；狡猾的|55|微妙な；繊細な；巧妙な|v|There are subtle differences between the two pictures.|這兩張圖片之間有細緻的差異。|その２つの絵には微妙な違いがある。
 sustainable|adj.|足可支撐的；養得起的；可以忍受的|55|持続可能な；維持できる|h|He is a specialist in sustainable development.||彼は持続可能な開発の専門家です。
 syndrome|n.|併發症狀；綜合徵；同時存在的事物|55|症候群；シンドローム|a|||
 tactic|n.|一項戰術；一條策略；戰術的；順序的|55|戦術；作戦|h|We should adopt flexible tactics for the moment.||当分の間は柔軟な戦術を取るべきだ。
@@ -6000,11 +6000,11 @@ conception|n.|觀念；概念|55|想；受胎|a|Tom has no conception of what it
 concession|n.|特許；讓步；認可|55|譲歩；租界|a|We solved the problem by mutual concessions.||お互い歩み寄って問題を解決した。
 confrontation|n.|對抗；對質；面對|55|対立；対決|a|He deliberately kept on provoking a confrontation.||彼は対立を引き起こそうと、わざとしつこくした。
 consecutive|adj.|連續的；聯貫的|55|連続する；連なった|h|It snowed for ten consecutive days.|一連下了十天雪。|雪が１０日間も降り続いた。
-constraint|n.|強制；約束|55|気兼ね|a|There are few legal constraints on the sale of firearms in the U.S.||合衆国には小火器の販売に関する法律上の制約はほとんどない。
+constraint|n.|強制；約束|55|制約；強制|v|There are few legal constraints on the sale of firearms in the U.S.||合衆国には小火器の販売に関する法律上の制約はほとんどない。
 contemplate|v.|注視；沉思；盤算；冥思苦想|55|熟考する；じっくり考える；もくろむ|h|He contemplated taking a trip to Paris.|他打算去巴黎旅行。|彼はパリへの旅行を考えていた。
 cooperative|adj.|合作的；合作社的|55|協同組合；コーポラティブ|a|I am impatient with those who aren't cooperative.||私は協力的でない人たちに我慢できない。
 cruise|n.|巡航；巡弋；漫遊|55|クルーズ；航行|a|In Hawaii, you can cruise all year round.||ハワイで通年航行中できます。
-damn|n.|一點；詛咒；絲毫；該死|55|くそ；め|a|The president said, "I don't give a damn."|總統說，我才不屌呢。|大統領はかまうものかと言った。
+damn|n.|一點；詛咒；絲毫；該死|55|くそ；非難する；少しも|v|The president said, "I don't give a damn."|總統說，我才不屌呢。|大統領はかまうものかと言った。
 dean|n.|院長；主持牧師|55|学部長；学長；主任司祭|d|The faculty meeting adopted the dean's proposal.||教授会は学部長の提案を採用した。
 deem|v.|認為；相信|55|〜とみなす；考える|h|He deemed it wise to accept the offer.||彼は申し出を受諾することが賢明だと考えた。
 denial|n.|否認|55|否定；否認|a|The police didn't believe his denial.||警察は彼が否定したのを真に受けなかった。
@@ -6020,14 +6020,14 @@ ego|n.|自我|55|自我；エゴ|a|I'm often told I have a strong ego.||よく�
 eligible|adj.|有資格當選的；合格的；有資格者；合格者|55|適格|a|He's eligible for the presidency.|他有資格當選總統。|大統領には彼が適任だ。
 embody|v.|具體表達；使具體化|55|具体化する；体現する；含む|h|These ideas are embodied in the constitution.||これらの理念は憲法に具体化されている。
 entrepreneur|n.|企業家；主辦人|55|企業家；起業家；事業主|d|Scott is an entrepreneur with much spirit of enterprise.||スコットさんは企業家精神に富む経営者なんです。
-epidemic|n.|傳染病；流行病；流行的；傳染性的|55|疫病；悪疫|a|A serious epidemic has broken out in Beijing.||深刻な伝染病が北京で発生した。
+epidemic|n.|傳染病；流行病；流行的；傳染性的|55|流行病；伝染病|v|A serious epidemic has broken out in Beijing.||深刻な伝染病が北京で発生した。
 evoke|v.|喚起；引起；召|55|呼び起こす；喚起する|d|The music evokes memories of an earlier time.||その音楽を聞くと昔のことを思い出す。
 expedition|n.|遠征；探險隊；迅速|55|遠征；エクスペディション|a|They went on an expedition to the Antarctic.|他們出發去南極探險。|彼らは南極探検に行った。
 extract|n.|榨出物；精汁；摘錄；取出|55|抜粋；エキス|a|Oil is extracted from olives.|油是從橄欖中提煉出來的。|オリーブの実から油が取れます。
 follower|n.|從者；屬下；追補者|55|従者；信奉者；フォロワー|d|How many followers do you have on Twitter?||Twitterのフォロワーって何人ぐらいいるの？
 forum|n.|論壇；公開討論的廣場；法庭|55|フォーラム；フォルム|a|I do not have an account in these forums.|我在這些論壇上沒有帳號。|これらのフォームのアカウントを私はもってません。
 fossil|n.|化石；古物；化石的；陳腐的|55|化石|a|What I have in my hand is a fossil seashell.|在我手裡的是一個貝殼化石。|私が手にしてるのは貝の化石です。
-foster|adj.|收養的；養育的；養育；撫育|55|里親の；育成する；育てる|d|This song was written by Foster.|這首歌曲是由福斯特所寫的。|この歌はフォスターが作ったものだ。
+foster|adj.|收養的；養育的；養育；撫育|55|育てる；促進する；里親の|v|This song was written by Foster.|這首歌曲是由福斯特所寫的。|この歌はフォスターが作ったものだ。
 harassment|n.|困擾；煩擾；煩惱|55|嫌がらせ；ハラ|a|||
 haunt|n.|常到的地方；生息地；常到；出沒於|55|たまり場；出没する場所；付きまとう|d|They say this old house is haunted.|據說老房子鬧鬼。|この古い屋敷には幽霊が出るそうだ。
 hike|n.|徒步旅行；遠足；漲價；步行|55|ハイク|a|We plan to go hiking tomorrow.|我們打算明天去遠足。|ぼくたちは明日ハイキングに行く予定なんだ。
@@ -6079,8 +6079,8 @@ rim|n.|邊；輪緣；框；鑲邊|55|縁；リム|a|I enjoy sipping on a margar
 riot|n.|暴動；喧鬧；放縱；發動|56|騒動；ライオット|a|There was only one warden on duty when the riot started.|暴動開始時只有一位監獄長值班。|暴動が起こったとき、当直の監視員はたった１人だった。
 scramble|n.|攀緣；爬行；搶奪|56|スクランブル；取り合い|a|They scrambled for the penny in the street.||彼らは路上で１ペニー硬貨を奪い合った。
 scrutiny|n.|細看；仔細檢查；監視|56|精査；綿密な調査；監視|d|Corporate political donations are coming under heavy scrutiny.||企業の政治献金は厳しい検査の対象になっています。
-sensation|n.|感覺；轟動|56|気味；センセーション|a|The hair style of the Beatles created a sensation.|披頭士的髮型引起了轟動。|ビートルズの髪型はセンセーションを引き起こした。
-sensitivity|n.|敏感；靈敏度|56|感度；感性|a|I am touched by the girl's acute sensitivity.||少女の鋭い感性に触れている。
+sensation|n.|感覺；轟動|56|感覚；大評判；センセーション|v|The hair style of the Beatles created a sensation.|披頭士的髮型引起了轟動。|ビートルズの髪型はセンセーションを引き起こした。
+sensitivity|n.|敏感；靈敏度|56|感受性；感度；繊細さ|v|I am touched by the girl's acute sensitivity.||少女の鋭い感性に触れている。
 sensor|n.|感測器|56|センサー|a|I set up motion sensors.||モーションセンサーを設置しました。
 sheriff|n.|郡治安官；縣治安官|56|保安官；郡保安官|d|The sheriff established order in the town.||保安官は、その町の秩序を確立した。
 shove|n.|推；擠；推擠；猛推|56|押すこと；押しのける；押し合う|h|She laughed and gave me a playful shove.||彼女は笑い、私をいたずらっぽく小突いた。
@@ -6088,7 +6088,7 @@ similarity|n.|類似；類似處|56|類似；似ていること|d|||
 skeptical|adj.|懷疑論的；懷疑的；不可知論的|56|懐疑的な；疑い深い|h|He is more skeptical than I am.||あいつ俺より疑い深いからな。
 slot|n.|水溝；細長孔；硬幣投幣口；開槽於|56|スロット|a|Please give us a 20-30 min. time slot for our presentation.||プレゼンテーションのために二三十分時間をください。
 sneak|v.|鬼鬼祟祟做事；偷偷地做|56|こっそり行く；こそこそする|h|There was a special sneak preview last night.||昨日の夜、特別試写会があった。
-soar|n.|高揚；翱翔；往上飛舞；高聳|56|翔る；翔ける|a|The value of the yen has soared.|日元的價值大幅上升。|円の価値が急騰した。
+soar|n.|高揚；翱翔；往上飛舞；高聳|56|急上昇する；舞い上がる|v|The value of the yen has soared.|日元的價值大幅上升。|円の価値が急騰した。
 soften|v.|變柔軟；變柔和|56|和らげる；和らぐ|a|His anger towards me has not softened.||私に対する彼の怒りは和らいでいない。
 speculate|v.|深思；推測；投機|56|推測する；投機する；思索する|h|I am speculating that he may win the game.|我在推測他可能贏得比賽。|僕は彼が試合に勝つのではないかと推測している。
 spine|n.|背骨；脊柱；尖刺|56|背筋；背骨|a|The terrible scene sent shivers down his spine.|恐怖的場面讓了他顫抖。|恐ろしい光景に彼は戦慄した。
@@ -6122,7 +6122,7 @@ update|v.|更新；使現代化|56|更新する；最新にする；アップデ
 validity|n.|有效性；正確性|56|有効性；妥当性；正確さ|d|In the opening paragraphs I query the validity of so-called supply-side economic strategies.||最初のパラグラフでは、いわゆるサプライサイドの経済戦略というものの妥当性について疑問を呈する。
 vein|n.|血管；靜脈；紋理；使有脈絡|56|静脈；鉱脈|a|When he shouted, the veins in his neck stood out clearly.|他大喊的時候，脖子上青筋暴起。|彼が叫ぶと、首の静脈がはっきりと浮き上がった。
 vintage|n.|酒；葡萄收穫；釀酒；採葡萄|56|ヴィンテージ|a|Is this a vintage car?||旧車ですか。
-vocal|adj.|嗓音的；聲音的；有聲的；母音|56|ボーカル|a|Public feeling against air pollution has at last become vocal.|公眾終於對關於空氣汙染的意見直言不諱了。|大気汚染に対しての世論がついにやかましくなった。
+vocal|adj.|嗓音的；聲音的；有聲的；母音|56|声の；ボーカルの；主張する|v|Public feeling against air pollution has at last become vocal.|公眾終於對關於空氣汙染的意見直言不諱了。|大気汚染に対しての世論がついにやかましくなった。
 warfare|n.|戰爭；戰鬥；交戰|56|戦争；戦闘；交戦|h|Sport is frankly mimic warfare.||スポーツは率直に言って模擬的な戦闘である。
 abundance|n.|豐富；充足；大量|56|豊富；多量；繁栄|h|At the party there was food in abundance.||パーティーでは食べきれないほど食べ物が出た。
 addiction|n.|入迷；癮|56|中毒；依存症；熱中|d|There really is such a thing as Internet addiction.|確實有網癮這回事。|インターネット中毒って、本当にあるみたいね。
@@ -6166,14 +6166,14 @@ disrupt|adj.|分裂的；中斷的；使分裂；使瓦解|56|混乱させる；
 divert|v.|轉移；使歡娛|56|紛らす；紛らわす|a|The flood diverted the course of the river.||洪水で川の流れがそれた。
 dividend|n.|被除數；股利|56|配当金；利益；被除数|d|The bank has raised its dividend by 20%.||その銀行は二割増配ですよ。
 empirical|adj.|完全跟據經驗的；經驗主義的|56|経験に基づく；実証的な|h|||
-endeavor|n.|努力；盡力|56|努める|a|He endeavored to win the contest.|他試著贏得競賽。|彼は競争に勝とうと努力した。
+endeavor|n.|努力；盡力|56|努力；試み；努力する|v|He endeavored to win the contest.|他試著贏得競賽。|彼は競争に勝とうと努力した。
 enlist|v.|徵募；參與；謀取；從軍|56|入隊する；協力を得る；募集する|h|Mary enlisted in the army when she was eighteen.||メアリーは18の時、軍隊に入隊しました。
 erase|v.|抹去；擦掉|56|消す；かき消す|a|He erased his speech from the tape.|他把他的那段話從磁帶裡刪除了。|彼はテープから自分の演説を消した。
 erosion|n.|腐蝕；沖蝕；侵蝕|56|浸食|a|If the trees on that hill are cut down, you'll see erosion pretty quickly.||もしあの丘の木々が切り倒されたら、急速に浸食を見ることになるだろう。
-eternal|adj.|永恆的；永遠的；不滅的|56|不変；悠久|a|The eternal silence of these infinite spaces terrifies me.|這些無限空間的永恆沉默使我恐懼。|この無限の空間に漂う永遠の沈黙が私を恐怖に陥れる。
+eternal|adj.|永恆的；永遠的；不滅的|56|永遠の；不滅の|v|The eternal silence of these infinite spaces terrifies me.|這些無限空間的永恆沉默使我恐懼。|この無限の空間に漂う永遠の沈黙が私を恐怖に陥れる。
 evenly|adv.|平衡地；平坦地；平等地|56|均等に；平らに；公平に|h|The money will probably be split evenly between those two.||そのお金は彼ら二人で平等に分けられるでしょう。
 evolutionary|adj.|展開的；進化論的；進化的|56|進化の；発展的な|h|||
-exile|n.|放逐；流放；被放逐者|56|追放；流|a|He was exiled from his own country.||彼は故国を追放された。
+exile|n.|放逐；流放；被放逐者|56|追放；亡命；亡命者|v|He was exiled from his own country.||彼は故国を追放された。
 fabulous|adj.|傳說的；寓言般的；難以置信的|56|素晴らしい；信じがたいほどの；架空の|h|We were entranced by the fabulous suite.||スイートルームのあまりの豪華さにウットリした。
 faction|n.|小派系；內訌|56|党派；会派|a|The two factions gang up with each other.||２つの派閥が手をむすんだ。
 fake|n.|假貨；欺騙；詭計；假的|56|フェイク；がせ|a|Mary isn't really sick. She's just faking it.|瑪麗不是真病。她只是裝病。|メアリーは本当は病気じゃないんだ。病気のふりをしているだけなんだ。
@@ -6249,7 +6249,7 @@ positively|adv.|明確地；肯定地；無疑地|56|確かに；積極的に；
 posture|n.|姿勢；態度；情形；作...的姿勢|56|姿勢；体勢|a|He likes to posture as an intellectual.||彼は知識人ぶるのが好きだ。
 precede|v.|在...之前；優於；較...優先；在前面|56|先立つ；先行する；優先する|d|The third quarter GNP growth was 1% over the preceding quarter.|第三季國民生產總值較上一季成長了1％。|第３四半期のＧＮＰ成長は前期比１％だった。
 precedent|n.|先例；前例；在先的；在前的|56|前例；先例|a|It's totally without precedent for the suspect's attorney to be the true culprit.|這前所未聞, 犯罪嫌疑人的律師竟然是真正的罪魁禍首。|犯人を弁護してた弁護士が実は真犯人だったなんて、前代未聞だ。
-predecessor|n.|前任；先輩；前身|56|先人；前人|a|His humble background parallels that of his predecessor.||彼の庶民的な経歴は前任者のそれと似ている。
+predecessor|n.|前任；先輩；前身|56|前任者；前身|v|His humble background parallels that of his predecessor.||彼の庶民的な経歴は前任者のそれと似ている。
 preservation|n.|儲存；保藏；保護|56|保存；保全|a|Sleep is essential for the preservation of life.||生きていくのにはどうしても眠ることが不可欠だ。
 presume|v.|假定；推測；擅自；擅自行動|56|推定する；推測する；勝手に〜する|h|She presumes him to be innocent.|她假設他是無辜的。|彼女は彼が無罪だと思い込んでいる。
 prey|n.|被掠食者；犧牲者；捕食|56|獲物；餌食|a|Larger pirates often preyed on unarmed merchant ships.||海賊は武装していない商船を餌食にした。
@@ -6259,14 +6259,14 @@ proposition|n.|建議；命題；主張；向...提議|56|命題；建議|a|The 
 prospective|adj.|預期的；將來的|56|見込みのある；将来の；予想される|h|The company invited their prospective customers to the party.||その会社は将来お得意先になりそうな人々をパーティーに招待した。
 rap|n.|輕敲；拍擊；責罵|56|軽くたたくこと；叱責；ラップ|d|I don't care a rap.|我一點也不在乎。|私は少しも気にしていない。
 rattle|v.|使嘎嘎響；喋喋不休地說；格格響；喋喋不休|56|ガタガタ鳴らす；くどくど話す；がらがら音|h|The earthquake caused the house to rattle.||地震で家ががたがたと音をたてた。
-realization|n.|實現；領悟；實得|56|換金；感得|a|None of these plans ever come anywhere near realization.||これらの計画のうちどれも実現しそうにもない。
+realization|n.|實現；領悟；實得|56|実現；気づき|v|None of these plans ever come anywhere near realization.||これらの計画のうちどれも実現しそうにもない。
 reasoning|n.|推論；推理；論證|56|推理；理詰め|a|I was completely taken aback by her reasoning.||彼女の理屈には全く面食らった。
 reassure|v.|使...安心；向...再保證|56|安心させる；再確認する|h|The doctor reassured me about my father's condition.||医師は父の健康状態のことで私を安心させた。
 reproduction|n.|再現；複製；生殖|56|複製；生殖|a|Interspecies aggression is oriented towards goals related to reproduction.||同種個体への攻撃性は繁殖に関係するいくつかの目的にかなう。
 resentment|n.|怨恨；憤恨|56|恨み；憤り|a|I feel resentment against your unwarranted criticism.||僕は君の根拠のない非難に腹がたっているんだ。
 reservoir|n.|貯水池；貯藏處；貯備；儲藏|56|貯水池；溜池|a|There's a reservoir near where I live.||住んでるところの近くにため池があるんだ。
 reside|v.|住；居留；屬於|56|住む；居住する；存在する|d|The dramatist resides now in New York.||その劇作家は現在ニューヨークに住んでいる。
-revive|v.|使甦醒；使復興；使振奮；甦醒|56|生き返る|a|A spring rain revived the flower.|一場春雨使花朵回復了生氣。|春の雨が花に生気をよみがえらせた。
+revive|v.|使甦醒；使復興；使振奮；甦醒|56|復活させる；生き返る|v|A spring rain revived the flower.|一場春雨使花朵回復了生氣。|春の雨が花に生気をよみがえらせた。
 salvation|n.|拯救；救助；救世|56|救済；救い；救世|d|"God is our salvation," said the priest.|“天主是我們的救援。”，牧師說。|「神はわれらの救いである」と司祭は言った。
 scrap|n.|碎片；殘餘物；些微；扔棄|56|スクラップ；端くれ|a|Please get me a scrap of paper.|請給我一張廢紙。|紙切れを取ってきてください。
 shaft|n.|軸；箭桿；矛；裝杆於|56|シャフト；箆|a|Japan feels it got shafted in the negotiations.||日本はその交渉で一杯くわされたと感じています。
@@ -6280,16 +6280,16 @@ stabilize|v.|使安定；使穩固；穩定；安定|57|安定させる；安定
 stroll|n.|閒逛；漫步|57|散歩；ぶらぶら歩く|d|My favorite pastime is strolling along the shore.|我閒時最喜歡到海邊散步。|私の一番の気晴らしは海岸をぶらぶらと歩くことです。
 stun|v.|使昏迷；使震驚；打昏；昏迷|57|スタン|a|Grandmother died, leaving the whole family stunned.|奶奶死了，全家大驚。|おばあちゃんが突然死んで家族一同驚いた。
 successor|n.|繼承者；接任者|57|後任；後釜|a|The matter of his successor is still under debate.||彼の後継者についての問題はまだ論争中だ。
-summon|v.|召喚；召集；號召|57|呼び出す；召喚する；奮い起こす|d|Summon up your courage and tell the truth.||勇気を奮い起こして本当のことを言いなさい。
+summon|v.|召喚；召集；號召|57|呼び出す；召喚する；召集する|v|Summon up your courage and tell the truth.||勇気を奮い起こして本当のことを言いなさい。
 supervise|v.|監督；管理；指導|57|監督する；指揮する|h|The Representative Director supervises Directors' performance of duties.||代表取締役は取締役の職務の執行を監督するものだ。
 supervision|n.|監督；管理|57|監督；監修|a|The shop is kept under police supervision.||その店は警察の監督のもとにある。
 tattoo|n.|歸營號；連續有節奏的敲擊；文身；連續有節奏地敲|57|タトゥー；入れ墨|a|Do you have any tattoos?|您有紋身嗎？|入れ墨入れてるの？
-teenage|adj.|十三歲到十九歲的|57|十代の；ティーンエイジャーの|h|The singer is very popular with teenage fans.||その歌手は十代のファンにとても人気がある。
+teenage|adj.|十三歲到十九歲的|57|10代の|v|The singer is very popular with teenage fans.||その歌手は十代のファンにとても人気がある。
 thou|pron.|汝；你；爾|57|汝；あなた；君|h|O Romeo Romeo, wherefore art thou Romeo?|羅密歐啊羅密歐，你為什麼要是羅密歐呢？|おお、ロミオ、ロミオ、なぜあなたはロミオなの。
 tier|n.|排；層；等級|57|段；層；階級|d|Tom is a graduate of a top-tier university.||トムは一流大学出身です。
 timeline|n.|時間軸；時間表|57|年表；時間軸；工程表|d|||
 tommy|n.|配給麵包；實物工資制|57|配給パン；現物給与|h|Tommy couldn't answer the last question.|湯米不會回答最後一個問題。|トミーは最後の問題に答えられなかった。
-upgrade|n.|上坡；升級；上升；往上|57|向上させる；アップグレード；上り坂|d|We will replace the current version with the upgrade.||現在のバージョンは、アップグレード版で置き換えます。
+upgrade|n.|上坡；升級；上升；往上|57|アップグレード；向上させる|v|We will replace the current version with the upgrade.||現在のバージョンは、アップグレード版で置き換えます。
 uphold|v.|支撐；贊成；鼓勵|57|支持する；維持する；擁護する|h|It seems this country doesn't really uphold the idea of freedom of speech.||この国に言論の自由ってものはないみたいだね。
 vancouver|n.|溫哥華|57|バンクーバー|a|I'd like to reserve a flight to Vancouver.|我想訂一張去溫哥華的機票。|バンクーバーまでのフライトを予約したいのですが。
 verse|n.|詩；韻文；詩句；用詩表達|57|詩；韻文；詩句|d|He translated the verse into English.|他把詩翻譯成英語。|彼はその一節を英語に翻訳した。
@@ -6325,9 +6325,9 @@ coefficient|n.|係數|57|係数|d|||
 coffin|n.|棺材；靈柩；把...裝進棺材|57|棺；棺桶|a|||
 compact|adj.|緊湊的；緊密的；簡潔的；使緊密結合|57|コンパクト；ハンディー|a|I want a compact car with an air conditioner.|我想要一輛有空調的小型車。|エアコン付きの小型車がいいのですが。
 compartment|n.|分隔間；臥車包房；防水艙隔|57|仕切り；個室；区画|d|I found the secret compartment quite by accident.|我完全是在偶然的情況下發現了密室。|
-configuration|n.|結構；表面配置；外形|57|コンフィギュレーション|a|We encounter similar difficulties when we substitute rectangles for triangles in this configuration.||この構成において、三角形の代わりに長方形を用いても類似の困難が生ずる。
+configuration|n.|結構；表面配置；外形|57|配置；構成；設定|v|We encounter similar difficulties when we substitute rectangles for triangles in this configuration.||この構成において、三角形の代わりに長方形を用いても類似の困難が生ずる。
 contamination|n.|汙染；汙物|57|汚染；汚れ|d|The lake is notorious for its contamination.||その湖は水質汚染で悪名高い。
-contention|n.|爭論；爭辯；所持的論點|57|競合|a|Spread the table, and contention will cease.||テーブルを広げれば争いはやむ。
+contention|n.|爭論；爭辯；所持的論點|57|論争；主張|v|Spread the table, and contention will cease.||テーブルを広げれば争いはやむ。
 convincing|adj.|使人信服的；有力的；令人心悅誠服的|57|説得力のある；納得させる|h|Convincing Tom to do the right thing was hard.||トムさんに正しいことをするように説得するのが大変でした。
 copyright|n.|版權；著作權|57|版権；コピーライト|a|This book is still copyrighted.|那本書仍受版權保護。|この本はまだ版権が生きている。
 corps|n.|軍；隊；部隊|57|軍団；部隊|d|She got her feet wet teaching while she was in the Peace Corps.||平和部隊にいる頃に彼女は教職の第一歩を踏み出した。
@@ -6353,23 +6353,23 @@ embark|v.|乘船；著手；從事；使上船|57|乗船する；着手する|h|
 embed|v.|使插入；使嵌入；使深留腦中|57|埋め込む；深く刻み込む|d|The scene was embedded in his memory.||その場面は彼の記憶の底に留まっていた。
 entail|v.|使成為必需；需要；使承擔；限定繼承|57|必然的に伴う；必要とする|h|The undertaking entailed great expense upon the government.||その事業は政府に非常な出費をかけた。
 exceptional|adj.|例外的；異常的；特別的|57|異例；特段|a|He is good, not to say exceptional.||彼は並外れて優秀とは言わないでも優れている。
-excerpt|n.|摘錄；引用|57|抄本；抜本|a|||
+excerpt|n.|摘錄；引用|57|抜粋；引用|v|||
 expire|v.|期滿；呼氣；斷氣；撥出|57|期限が切れる；息絶える；息を吐く|h|Your driver's license has expired.|你的駕駛執照已經過期了。|運転免許証の有効期限が過ぎてますね。
 fairy|n.|仙女；精靈；仙女的|57|妖精；フェアリー|a|The author translated the fairy tale into our mother tongue.|作者將童話翻譯成了我們的母語。|その作家がそのおとぎ話を私達の母語に翻訳した。
 fishery|n.|漁業|57|漁獲|a|||
 fling|n.|投擲；急衝；嘲弄；投|57|投げつけること；一時の恋；ひと遊び|h|The enemy flung fresh troops into the battle.||敵は新兵力を投入した。
 foam|n.|泡沫；水沫；泡沫材料；起泡沫|57|水泡；フォーム|a|It's not a toothpaste, it's a face-cleansing foam!||それ歯磨き粉じゃなくて洗顔フォームだよ！
 formidable|adj.|巨大的；優秀的；可怕的|57|手ごわい；恐ろしいほどの|d|Formidable looking spiders do not attack people.||見かけの恐ろしいクモは人を攻撃することはない。
-fracture|n.|破碎；骨折；破裂|57|リス|a|He had an accident and fractured his leg.||彼は事故にあって脚を骨折した。
+fracture|n.|破碎；骨折；破裂|57|骨折；割れ目；折る|v|He had an accident and fractured his leg.||彼は事故にあって脚を骨折した。
 fringe|n.|邊緣；端；流蘇；加穗於|57|フリンジ；周縁|a|I recommend putting up your hair so your fringe doesn't get on your forehead.||前髪が、おでこにかからないように髪を上げることをおすすめします。
 fury|n.|憤怒；狂暴；狂怒的人|57|狂乱；猛威|a|Music gives sound to fury, shape to joy.||音楽は怒りに音を、喜びに形を与える。
 goddess|n.|女神；美女；受崇拜的女性|57|女神|a|The Romans worshiped their goddess, Juno.||ローマ人は彼らの女神であるジューノを崇拝した。
 hail|n.|冰雹；致敬；歡呼；向...歡呼|57|雹；歓呼；あいさつする|d|We marched under a hail of bullets.|我們在槍林彈雨之下行進。|弾丸の降ってくる中を行軍した。
-hmm||隱馬爾可夫模型|57|ふん；ふむ|a|Hmm. I have a feeling I'm going to get lost whichever road I take.|唔。我有預感我走哪邊都會迷路。|ウーン、どっちの道に行っても迷いそうな気がする。
+hmm||隱馬爾可夫模型|57|うーん；ふむ|v|Hmm. I have a feeling I'm going to get lost whichever road I take.|唔。我有預感我走哪邊都會迷路。|ウーン、どっちの道に行っても迷いそうな気がする。
 hose|n.|水管；橡皮軟管；長統襪；用水管澆|57|ホース；ホーズ|a|He was watering his garden with a hose.||彼はホースを使って庭に水を撒いていました。
 icy|adj.|冰的；冰冷的；冷淡的|57|氷のような；冷たい；冷淡な|d|The icy road sparkled in the sunlight.|結冰的道路在陽光下閃閃發亮。|凍結した道路が日光を浴びてまばゆく光った。
 idiot|n.|白痴；極蠢之人|57|ばか；温|a|He is really a perfect idiot.|他真是個傻子。|あいつは本当におめでたい人間だ。
-inflict|v.|施以；加害；使承受|57|科する；科す|a|Do you really think Tom's wounds are self-inflicted?||トムがわざとけがをしたと本当に思っているのですか。
+inflict|v.|施以；加害；使承受|57|与える；負わせる|v|Do you really think Tom's wounds are self-inflicted?||トムがわざとけがをしたと本当に思っているのですか。
 insane|adj.|患精神病的；極愚蠢的|57|正気でない；ばかげた|h|He behaves as if he were insane.|他表現得像瘋了一樣。|彼はまるで狂っているかのように振舞っている。
 intake|n.|入口；吸入；吸入量|57|摂取；インテーク|a|Please limit your fluid intake.||水分を控えてください。
 interface|n.|分介面；接觸面；介面|57|界面；インターフェース|d|Please select a language for the Image Viewer interface.|請為Image Viewer的介面選擇語言。|
@@ -6410,7 +6410,7 @@ perfection|n.|完美；完成；極端|57|万全；十全|a|Mayuko always aims f
 perimeter|n.|周長；周界；邊緣|57|周囲；外周；境界|d|||
 petition|n.|請願；訴狀；陳情書；正式請求|57|陳情；請願|a|The villagers petitioned against the nuclear power plant.||村人たちは原発反対の陳情をした。
 petty|adj.|瑣碎的；小規模的；小氣的|57|些細な；小規模な；けちな|h|I was involved in a petty argument.||私はくだらない議論に巻き込まれた。
-plague|n.|瘟疫；天罰；麻煩；折磨|57|ペスト；黒死病|a|Many of Europe's metropolises are plagued by the doughnut phenomenon.|許多歐洲的大都市飽受“甜甜圈現象”困擾。|ヨーロッパの主要都市の多くはドーナツ化現象に悩まされている。
+plague|n.|瘟疫；天罰；麻煩；折磨|57|疫病；ペスト；悩ませる|v|Many of Europe's metropolises are plagued by the doughnut phenomenon.|許多歐洲的大都市飽受“甜甜圈現象”困擾。|ヨーロッパの主要都市の多くはドーナツ化現象に悩まされている。
 playoff|n.|雙方得分相等時的最後決賽；複賽；季後賽|57|決定戦；プレーオフ|d|||
 ponder|v.|沉思；考慮|57|熟考する；考え込む|d|We all pondered over what had taken place.||我々は皆、起こったことについて深く考えた。
 predominantly|adv.|主要地；顯著地；大多數地|57|主に；圧倒的に|h|||
@@ -6418,8 +6418,8 @@ prestigious|adj.|享有聲望的|57|名声のある；一流の|h|In 1995, Andou
 prone|adj.|俯伏的；面向下的；有...傾向的|57|うつ伏せの；...しがちな|h|Young people are prone to fall into temptation.||若者は誘惑に屈しやすいものだ。
 propel|v.|推進；驅使|57|推進する；駆り立てる|h|||
 prototype|n.|原型|57|原型；プロトタイプ|d|||
-proximity|n.|接近；親近|57|近接；近いこと|d|||
-publisher|n.|出版者；發行人|57|出版社；版元|a|I will include the author's and publisher's names.||著者と出版社の名前を記載します。
+proximity|n.|接近；親近|57|近接；近さ|v|||
+publisher|n.|出版者；發行人|57|出版社；発行者|v|I will include the author's and publisher's names.||著者と出版社の名前を記載します。
 pumpkin|n.|南瓜|57|かぼちゃ；パンプキン|a|Tom baked his wife a pumpkin pie.||トムは妻にパンプキンパイを焼いてあげた。
 questionable|adj.|可疑的|57|疑わしい；怪しげな|d|It is questionable whether this data can be relied on.|這些資料未必可靠。|この資料が信頼できるかどうか疑わしい。
 quota|n.|配額；限額|57|ノルマ；クオータ|a|Multilateral trade negotiations ran aground over import quotas.||輸入割り当て量についての多国間貿易交渉は暗礁に乗り上げてしまいました。
@@ -6428,7 +6428,7 @@ reactor|n.|反應者；反應器；反應堆|57|原子炉；反応器|h|The atom
 reconcile|v.|使和解；調停；使和諧|57|和解させる；調和させる|h|I would rather kill myself than reconcile myself to my fate.|與其向命運妥協，我寧可自殺。|運命に甘んじるくらいなら自殺したほうがいい。
 recruitment|n.|新兵徵召|57|募集|a|||
 reef|n.|暗礁；礁；縮帆；縮|57|岩礁；暗礁|a|The ship was wrecked on a sunken reef.||船は暗礁に乗り上げて難破した。
-remnant|n.|剩餘；零料；遺蹟；剩餘的|57|半端|a|||
+remnant|n.|剩餘；零料；遺蹟；剩餘的|57|残り；名残；端切れ|v|||
 reportedly|adv.|根據傳說；根據傳聞；據報道|57|伝えられるところによると|h|||
 resent|v.|憤恨；憎惡；怨恨|57|恨む；憤慨する|d|She resented being called a coward.|她對被稱為懦夫很反感。|彼女は臆病者呼ばわりされて立腹した。
 retention|n.|保持；留置；保留|57|保持；リテンション|a|||
@@ -6442,7 +6442,7 @@ sergeant|n.|警察小隊長；軍士|57|軍曹；巡査部長|d|He rose to the r
 sermon|n.|說教；啟示；佈道|57|説教|a|The congregation was moved by the fine sermon.||会衆は素晴らしい説教に感動した。
 shrine|n.|聖地；神龕；廟；將...置於神龕內|57|神社；聖地；祠|h|Kyoto is famous for its shrines and temples.|京都以它的祭壇和寺院而聞名。|京都は神社や仏閣で有名だ。
 skeleton|n.|骨骼；骨瘦如柴的人；梗概；骨骼的|57|骨格；骸骨|a|The explorers discovered a skeleton in the cave.|探險家們在洞穴裡發現了骸骨。|探検家達は洞穴の中で骸骨を発見した。
-solidarity|n.|團結；團結一致；共同一致|57|連帯|a|What can we do to strengthen the movement of solidarity with the Palestinian people?|我們能做些什麼來加強聲援巴勒斯坦人民的運動？|
+solidarity|n.|團結；團結一致；共同一致|57|連帯；結束|v|What can we do to strengthen the movement of solidarity with the Palestinian people?|我們能做些什麼來加強聲援巴勒斯坦人民的運動？|
 soy|n.|醬油；大豆|57|醤油；大豆|d|Mix the rice and eggs with soy sauce.|把米飯和雞蛋還有醬油拌在了一起。|
 sri|n.|斯里蘭卡；神聖羅馬帝國|57|スリランカ；神聖ローマ帝国|h|"What's the capital of Sri Lanka?" "Sri Jayawardenapura Kotte." "Correct!"||「スリランカの首都は？」「スリジャヤワルダナプラコッテ」「正解！」
 stalk|n.|莖；追蹤；高視闊步；悄悄靠近|57|茎|a|Wash the strawberries and remove their stalks.||イチゴを洗って、ヘタを取って。
@@ -6519,10 +6519,10 @@ discrepancy|n.|不符合；差異；不相符之處|58|食い違い；不一致�
 discriminate|v.|區別；差別待遇|58|区別する；差別する|h|We must be able to discriminate between objects and situations.||我々は物事と状況を区別する事ができないといけない。
 dispatch|v.|派遣；急件|58|派遣；発信|a|The government dispatched missions abroad.||政府は外国へ使節を派遣した。
 displace|v.|移置；替換；轉移|58|移動させる；取って代わる；追い出す|h|The villagers were displaced by the construction of a dam.||ダムの建設のため村民は立ち退かされた。
-disposition|n.|性情；處置；處理|58|性癖；気質|a|He has a sociable disposition.||彼は社交的な性格だ。
+disposition|n.|性情；處置；處理|58|気質；配置；処分|v|He has a sociable disposition.||彼は社交的な性格だ。
 dubai|n.|迪拜；迪拜港|58|ドバイ|d|Dubai is a low-tax economy.|迪拜是一個低稅收的經濟體。|
 dwarf|n.|矮子；侏儒；變矮小|58|小人；矮小な；矮小化する|d|Indeed, dwarf tossing is an Olympic sport!|事實上，投擲侏儒是奧運會的運動專案。|
-dwell|v.|居住；存在|58|宿る|a|He dwells in the country.|他住在鄉下地區。|彼は田舎に住んでいる。
+dwell|v.|居住；存在|58|住む；くよくよ考える|v|He dwells in the country.|他住在鄉下地區。|彼は田舎に住んでいる。
 elevation|n.|海拔；提高；仰角|58|向上；標高|a|The treeline in the German alps lies at an elevation of about 1800 meters.|德國阿爾卑斯山的樹線位於海拔約 1800 公尺處。|
 elicit|v.|引出；推匯出；引起|58|引き出す；導き出す|d|We plan to elicit opinions from the public.||市民の皆様の御意見をちょうだいする予定です。
 endanger|v.|危及|58|危険にさらす；危うくする|h|The free market system is endangered.||自由市場システムが危機にひんしている。
@@ -6541,7 +6541,7 @@ formulation|n.|系統陳述；公式化；配製|58|策定；製剤|a|I'm afraid
 forthcoming|adj.|即將來臨的；來臨|58|来たるべき；近日中の；協力的な|d|The pupils are looking forward to the forthcoming excursion.||児童たちは、もうすぐやって来る遠足を楽しみにしている。
 geographical|adj.|地理學的；地理的|58|地理的な；地理学の|h|This store enjoys a geographical advantage.||この店は地の利をえている。
 giggle|v.|吃吃地笑；咯咯地笑；咯咯笑；傻笑|58|くすくす笑う；ケラケラ笑う；くすくす笑い|d|Giggling with embarrassment, she held out the condom.|她害羞地笑著拿出了避孕套。|彼女はうふふと照れながらコンドームを差し出した。
-ginger|n.|姜；精力；薑黃色；薑黃色的|58|しょうが；ジンジャー|a|Don't forget to bring coriander, chili peppers, and ginger.||コリアンダー、チリペッパー、ジンジャーを忘れずに持ってきてよ。
+ginger|n.|姜；精力；薑黃色；薑黃色的|58|生姜；ジンジャー|v|Don't forget to bring coriander, chili peppers, and ginger.||コリアンダー、チリペッパー、ジンジャーを忘れずに持ってきてよ。
 gossip|n.|閒聊；隨筆；流言；說閒話|58|ゴシップ；巷説|a|I have no time to engage in gossip.||噂話にかかずりあっている暇はない。
 granite|n.|花崗岩|58|花崗岩；御影石|d|The washbasin is made of granite.|水池是花崗巖做的。|
 greed|n.|貪慾；貪婪|58|欲；欲張り|a|Greed seems to have blinded his good judgement.||欲に目がくらんで判断力が無くなったらしい。
@@ -6555,7 +6555,7 @@ hum|n.|嗡嗡聲；哼聲；雜聲；發低哼聲|58|ブーンという音；鼻
 hurl|v.|用力投擲；發射；憤慨地說出；用力的投擲|58|力いっぱい投げる；激しく言い放つ|h|Without gravity we would be hurled off into space.||引力がなかったら我々は宇宙に放り出されるだろう。
 immunity|n.|免疫；免疫性；免除|58|免疫|a|||
 implicit|adj.|暗示的；含蓄的；固有的|58|暗黙の；含みのある；内在的な|h|We had an implicit agreement that we would support each other.||我々には互いに支持しあおうという暗黙の了解があった。
-incomplete|adj.|不完全的；未完成的；不完善的|58|未完成；未完|a|The salad is incomplete without olive oil, croutons and nuts.||オリーブオイル、クルトン、ナッツがないとサラダとは言えないよ。
+incomplete|adj.|不完全的；未完成的；不完善的|58|不完全な；未完成の|v|The salad is incomplete without olive oil, croutons and nuts.||オリーブオイル、クルトン、ナッツがないとサラダとは言えないよ。
 indulge|v.|縱情於；使高興；放任；沉溺|58|ふける；甘やかす；楽しませる|h|Once in a while, the prophet indulges in fantasy.||たまに、その預言者は空想にふける。
 infrared|adj.|紅外線的；紅外線|58|赤外線の；赤外線|h|Our eyes can't see infrared light.||私達の目は赤外線を見ることはできません。
 inhale|v.|吸入；吸氣|58|吸い込む|a|Stop inhaling your food. You should eat a little slower.|別狼吞虎嚥的。你最好細嚼慢嚥地吃。|そんなガツガツ食べないで、もうちょっとゆっくり食べようよ。
@@ -6569,7 +6569,7 @@ kin|n.|親戚；同族；血緣關係；有親屬關係的|58|親族；血縁者
 lily|n.|百合；百合花；潔白的；純白色的|58|ゆり；リリー|a|A smell of lilies filled the room.|百合的香氣充滿了整個房間。|ユリの香りが部屋に満ちていた。
 linguistic|adj.|語言的；語言學的|58|言語の；言語学の|h|This is a socio-linguistic study on Steven Emmet.||これはスティーブン・エメットに関する哲学的研究ではない。
 lords|n.|上議院；上院議員|58|上院；貴族院；領主たち|h|||
-maneuver|n.|演習；調遣；策略|58|機動；マニューバー|a|Do you know the Heimlich maneuver?|你知道海姆利克急救法嗎？|
+maneuver|n.|演習；調遣；策略|58|演習；策略；巧みに操る|v|Do you know the Heimlich maneuver?|你知道海姆利克急救法嗎？|
 marsh|n.|沼澤；溼地；沼澤的|58|沼；沼沢|a|Lots of herons live in the marsh.|許多蒼鷺在沼澤地中生活。|その沼にはサギがたくさん住んでいる。
 masculine|n.|陽性；男性；男性的；陽性的|58|男性の；男性的な；男性名詞|h|What's a more masculine way of saying it?||男らしく言おうと思ったら、どう言えばいいの？
 merchandise|n.|商品；貨物；交易；買賣|58|商品；品物；売買する|d|The supermarket has a large stock of merchandise.||そのスーパーマーケットは大量の商品在庫を持っている。
@@ -6579,7 +6579,7 @@ milky|adj.|乳狀的；乳白色的；柔和的|58|乳白色の；乳状の；�
 muscular|adj.|強壯的；肌肉發達的；有力的|58|筋骨隆々の；筋肉質の；力強い|h|My muscular strength has weakened from lack of exercise.||運動不足で筋肉が弱くなった。
 napkin|n.|餐巾；餐巾紙；尿布|58|ナプキン；巾|a|May I have a napkin, please?|請給我一張餐巾紙好嗎？|ナプキンを頂けますか。
 optimal|adj.|最佳的；最理想的|58|最適な；最も望ましい|h|The question of how to establish the optimal formula is still open.||どうやって最良の形式を確立するかという問題はまだ解決されていない。
-orchard|n.|果園；果樹林|58|オーチャード|a|I delight in going to the apple orchard each fall.|我樂意每年秋季去蘋果園。|私は、毎秋りんご園へ行くのが楽しみだ。
+orchard|n.|果園；果樹林|58|果樹園|v|I delight in going to the apple orchard each fall.|我樂意每年秋季去蘋果園。|私は、毎秋りんご園へ行くのが楽しみだ。
 os|n.|骨；孔；穴裂口|58|骨；口；穴|h|With Windows OS systems 'administrator account' corresponds to 'root'.||Windows系ＯＳではアドミニストレーターアカウントがルートに相当する。
 paradox|n.|似非而是的論點；自相矛盾的話；悖論|58|パラドックス；逆説|a|More haste, less speed is a paradox.||「急げば急ぐほど遅くなる」は逆説である。
 paralyze|v.|使癱瘓；使麻痺|58|麻痺させる；動けなくする|h|The general strike paralyzed the whole country.|全面罷工癱瘓了整個國家。|ゼネストで国中の機能が麻痺した。
@@ -6589,7 +6589,7 @@ plight|n.|困境；窘境；宣誓；保證|58|窮地；苦境；誓約する|h|
 polar|adj.|兩極的；極地的；正好相反的；極線|58|極地の；両極の；正反対の|h|The aurora is a phenomenon characteristic of the polar regions.|極光是極地特有的自然現象。|オーロラは極地に特有の現象です。
 poorly|adv.|貧窮地；不充分地；貧乏地；身體不舒服的|58|乏しく；不十分に；体調がすぐれない|h|Thanks to a cold summer, beer has sold poorly.|多虧了冷夏，啤酒賣的不好。|冷夏のおかげで、ビールの売れ行きはよくなかった。
 postal|adj.|郵政的；郵局的|58|郵便の；郵政の|h|International postal rates differ according to destination.||国際郵便料金は宛先によって異なる。
-premature|adj.|早產的；過早的；不成熟的；早產兒|58|時期尚早|a|He made a premature decision on the matter.||彼はその件について早まった決定をした。
+premature|adj.|早產的；過早的；不成熟的；早產兒|58|時期尚早の；早産の|v|He made a premature decision on the matter.||彼はその件について早まった決定をした。
 preside|v.|統轄；當主人；主持|58|司会する；主宰する；統括する|h|The presiding judge sentenced the defendant to death.||裁判長は被告に死刑の判決を言い渡した。
 prestige|n.|聲望；威望；威信|58|威信|a|The problem affects the prestige of our school.||これは我が校の名誉にかかわる問題だ。
 prevailing|adj.|盛行很廣的；優勢的；主要的|58|広く行われている；優勢な；支配的な|h|Bad cold is prevailing throughout the country.||悪性の風邪が全国に流行っている。
@@ -6613,10 +6613,10 @@ shrub|n.|矮樹；灌木；果汁甜酒|58|低木；灌木|d|"What is it?" "Well
 siege|n.|包圍；圍攻；再三的努力|58|包囲；攻囲|a|||
 signify|v.|象徵；預示；要緊；重要|58|意味する；示す；重要である|d|What you think doesn't signify at all.||君の考えなどはどうだっていいことだ。
 siren|n.|女海妖；妖女；警報器；誘惑的|58|サイレン|a|I could hear sirens in the distance.|我聽到遠處傳來警笛聲。|
-slack|n.|鬆弛；鬆懈；淡季；鬆弛的|58|スラック；たるみ|a|He got fired for slacking off at work.||仕事をサボったからクビになった。
+slack|n.|鬆弛；鬆懈；淡季；鬆弛的|58|たるんだ；怠慢な；スラック|v|He got fired for slacking off at work.||仕事をサボったからクビになった。
 solitary|n.|獨居者；孤獨的；獨居的|58|孤独な；単独の；孤独な人|h|I like a solitary walk.|我喜歡獨自一人散步。|私は一人歩きが好きだ。
 squash|n.|擠壓；壓碎的東西；南瓜屬植物；壓扁|58|スカッシュ|a|By using this banana case, you can transport bananas without squashing them.|使用這個香蕉盒，可以讓您運送香蕉時不會壓扁它們。|このバナナケースを使うと、バナナを潰すことなく持ち運べます。
-stall|n.|廄；停車處；牧師職位；關入廄|58|失速；ストール|a|Can I have a seat in the stalls?||最前列の席は有りますか。
+stall|n.|廄；停車處；牧師職位；關入廄|58|屋台；失速する；引き延ばす|v|Can I have a seat in the stalls?||最前列の席は有りますか。
 staple|n.|主要產物；常用品；主要要素；主要的|58|主要産品；必需品；主要な|h|Coffee is one of the staples of Brazil.||コーヒーはブラジルの主要産物の一つである。
 stew|n.|燉；煩惱；熱浴|58|シチュー；煮込み|a|How do you like your beef stew?||ビーフシチューはいかがですか。
 subsidize|v.|補助；資助；賄賂|58|補助する；助成する|h|The city should subsidize small businesses in industries with large overhead costs.|市府應補貼經常性開支龐大的產業中的小型企業。|
@@ -6624,7 +6624,7 @@ surpass|v.|超越；凌駕；勝過|58|上回る；凌駕する；しのぐ|d|Th
 susceptible|adj.|易受影響的；易感動的；容許...的|58|影響を受けやすい；感じやすい；許容する|d|She was susceptible to colds.|她易患感冒。|彼女は風邪を引きやすかった。
 tariff|n.|關稅；關稅表；價格表；課以關稅|58|税率；料率|a|Unfair tariffs are imposed on foreign products.||海外製品に不公平な関税が課せられている。
 technically|adv.|技術上；學術上；專門地|58|技術的に；専門的に；厳密に言えば|h|The cochlea implant is a technically ingenious device.||人工内耳は技術的に巧妙な機器です。
-terminate|adj.|有結尾的；結束的；結束；終止|58|終わりの；末端の；終了させる|h|The Tokaido line terminates at Tokyo.||東海道線は東京が終点だ。
+terminate|adj.|有結尾的；結束的；結束；終止|58|終了する；終わらせる|v|The Tokaido line terminates at Tokyo.||東海道線は東京が終点だ。
 thermal|adj.|熱的；熱量的；溫泉的；上升溫暖氣流|58|熱の；温泉の；上昇気流|h|The atomic reactor generates enormous amounts of thermal energy.|原子反應堆發出大量的熱能。|
 titled|adj.|有頭銜的|58|爵位を持つ；肩書きのある|h|||
 trademark|n.|商標|58|商標；トレードマーク|a|"A" logo is a trademark or registered trademark of A Corporation.||AロゴはA株式会社の商標または登録 商標です。
@@ -6646,7 +6646,7 @@ alleviate|v.|減輕；使緩和|58|和らげる；軽減する|h|This medicine w
 alternate|adj.|交替的；輪流的；間隔的；輪流|58|交互；互い違い|a|There are pictures on alternate pages of the book.||その本は１ページおきに絵が載っている。
 anguish|n.|劇痛；痛苦；使極痛苦|58|苦悶；激しい苦痛；苦しめる|d|He is in anguish over her child.||彼は子供のことでひどく悩んでいる。
 appraisal|n.|評價；估價|58|評価；査定；鑑定|d|||
-arrogant|adj.|自大的；傲慢的|58|横柄；大柄|a|That girl is arrogant because of her beauty.|那個女孩因為長得漂亮所以很自大。|あの女の子は美人であるとうぬぼれている。
+arrogant|adj.|自大的；傲慢的|58|傲慢な；横柄な|v|That girl is arrogant because of her beauty.|那個女孩因為長得漂亮所以很自大。|あの女の子は美人であるとうぬぼれている。
 aspire|v.|渴望；立志於|58|志す；熱望する|h|She aspired to become an actress.|她立志成為一名演員。|彼女は女優になることを志した。
 avert|v.|轉開；避免；防止|58|そらす；避ける；防ぐ|d|Skillful diplomacy helps to avert war.||巧みな外交は戦争を避ける助けとなる。
 bracket|n.|支架；括弧；托架；裝托架|58|括弧；ブラケット；区分|d|Parents in low age brackets have a tendency to spoil their children.||年齢層の低い親は、子供を甘やかしがちである。
@@ -6680,7 +6680,7 @@ doctorate|n.|博士頭銜|59|博士号|d|||
 doom|n.|厄運；不幸；法律；命中註定|59|破滅；運命；死の宣告|h|The plan was doomed to failure from the start.||この計画は初めから失敗する事に運命付けられていた。
 dove|n.|鴿子|59|ハト；鳩|d|There is a white dove on the roof.|屋頂上有隻白鴿。|屋根に白い鳩がとまってるよ。
 drainage|n.|排水|59|排水；下水|a|||
-drastic|adj.|激烈的|59|ドラスチック；抜本的|a|The invention of TV caused a drastic change in our daily life.|電視的發明為我們的生活模式帶來了巨大的變化。|テレビの発明は我々の日常生活に大きな変化をもたらした。
+drastic|adj.|激烈的|59|抜本的な；激しい|v|The invention of TV caused a drastic change in our daily life.|電視的發明為我們的生活模式帶來了巨大的變化。|テレビの発明は我々の日常生活に大きな変化をもたらした。
 dubious|adj.|可疑的；不確定的|59|疑わしい；不確かな|h|He also brought out one more dubious conclusion.||そしてもう一つは疑わしい結論を出した。
 eclipse|n.|日食；月食；消失；引起日食|59|食；消滅させる；かすませる|d|An eclipse of the moon is a rare phenomenon.|月食是一種罕見的現象。|月食は珍しい現象だ。
 endurance|n.|忍耐；忍耐力；耐性|59|我慢；耐久|a|His laziness is past the margin of endurance.||彼の怠け癖は我慢の限界を越える。
@@ -6692,7 +6692,7 @@ flap|n.|飄；擺動；拍打|59|フラップ；羽ばたく|a|He flapped the fl
 flatten|v.|使...不活躍；變平；弄平；打倒|59|平らにする；打ち倒す；押しつぶす|d|That new company could flatten the competition.||あの新しい会社は競争を制するかもしれません。
 flutter|n.|擺動；鼓翼；煩擾|59|翻る；はたはた|a|The curtains are fluttering in the wind.||カーテンが風に靡いてる。
 fort|n.|堡壘；要塞；易貨站；設要塞保衛|59|砦；要塞|d|The chief massed his warriors to attack the fort.||酋長はとりでを攻撃するために戦士を集結させた。
-foul|adj.|汙穢的；邪惡的；惡臭的；弄髒|59|反則；ファウル|a|It's foul of you to have concealed it.||それを隠していたなどとはあなたも汚い事をする人だ。
+foul|adj.|汙穢的；邪惡的；惡臭的；弄髒|59|不快な；反則；ファウル|v|It's foul of you to have concealed it.||それを隠していたなどとはあなたも汚い事をする人だ。
 frankly|adv.|坦白地|59|率直に；正直に言えば|h|Frankly speaking, I don't agree with you.|實話說，我不贊成你。|率直にいえば、私はあなたに同意できない。
 generosity|n.|慷慨；寬大|59|気前；度量|a|I had great admiration for his generosity.|我很欽佩他的慷慨大方。|彼の心の寛大さにとても感心した。
 genetics|n.|遺傳學|59|遺伝学|d|||
@@ -6701,12 +6701,12 @@ graze|n.|吃草；放牧；擦傷|59|草をはむ；かすめる；擦り傷|d|W
 grease|n.|脂肪；獸脂；油脂；塗脂於|59|油脂；グリース；油を塗る|d|I think communication greases the wheels of an organization.||コミュニケーションは組織の潤滑油だと思います。
 halfway|adj.|中途的；不徹底的；部分的；半路地|59|中途半端；中途|a|I am halfway through this detective story.|這本偵探小說我才看到一半。|この推理小説はまだ半分ぐらいしか読んでいない。
 heighten|v.|增高；提高；加強；升高|59|高める；強める；高くなる|h|||
-hiss|n.|噓聲；嘶嘶聲；發出噓聲；發嘶嘶聲|59|シッという音；野次る|h|||
+hiss|n.|噓聲；嘶嘶聲；發出噓聲；發嘶嘶聲|59|シューという音；シーッと制止する|v|||
 holmes|n.|福爾摩斯|59|ホームズ|h|Justin Bieber is more famous than Katie Holmes.||ジャスティンビーバーはケーティーホルムズよりも有名です。
 humiliation|n.|恥辱；丟臉；謙卑|59|屈辱；恥辱；辱め|d|How can you bear such a humiliation?||どうしてそんな屈辱が、我慢ができるのですか。
 ignite|v.|點燃；使灼熱；使興奮|59|点火する；燃え上がらせる；かき立てる|h|||
 imaginative|adj.|想像的；虛構的|59|想像力に富んだ；想像上の|h|He used to be an imaginative boy.|他曾經是一個富有想像力的男孩。|彼は想像力のたくましい少年であった。
-imitation|n.|模仿；效法；冒充|59|偽；模倣|a|What is the difference between imitation and real diamonds?|假的鑽石和真的鑽石有甚麼分別？|偽物のダイヤと本物とはどう違うのですか。
+imitation|n.|模仿；效法；冒充|59|模倣；偽物|v|What is the difference between imitation and real diamonds?|假的鑽石和真的鑽石有甚麼分別？|偽物のダイヤと本物とはどう違うのですか。
 immerse|v.|沉浸；使陷入|59|浸す；没頭させる；沈める|d|He is totally immersed in family life and has no wish to work.|他完全沉浸於家庭生活中，不想工作了。|彼はすっかり家庭生活に埋没していて働く気がない。
 impair|v.|損害；減少；削弱|59|損なう；低下させる|h|Heavy smoking impaired his health.||彼はたばこの吸いすぎで体を壊した。
 incapable|adj.|無能力的；不能的|59|能力のない；できない|h|The child was incapable of understanding his father's death.||その子は父の死を理解できなかった。
@@ -6726,7 +6726,7 @@ literal|adj.|逐字的；字面上的；文字的；印刷錯誤|59|文字どお
 lo|int.|瞧；看|59|ほら；見よ|h|There's a lot of stuff in our lo mein.|我們的拌麵裡有好多東西。|
 longing|n.|渴望；熱望；憧憬；渴望的|59|切望；憧れ；切望する|d|We are all longing for peace in the world.|誰都希望世界和平。|誰もが世界平和を望んでいる。
 marvel|n.|奇異事物；罕見例子；驚異於|59|驚異；不思議なもの；驚嘆する|h|I marvel how you could agree to the proposal.||君がなぜ提案に賛成なのか不思議だ。
-mastery|n.|征服；統治權；優勢|59|体得；熟達|a|The road to mastery is oh so long.|學習之路如此漫長。|
+mastery|n.|征服；統治權；優勢|59|習得；熟達；支配|v|The road to mastery is oh so long.|學習之路如此漫長。|
 median|adj.|中央的；中間的；正中的；正中動脈|59|中央の；中間の；中央値|d|||
 mediate|adj.|居間的；間接的；斡旋；調停|59|仲裁する；仲介する；間接の|h|He mediated between the two parties.||彼は両当事者の間を調停した。
 mesh|n.|網孔；網絲；網眼；以網捕捉|59|メッシュ；網目|a|||
@@ -6749,7 +6749,7 @@ payoff|n.|發工資；分贓；賄賂；決定性的|59|報酬；支払い；決
 pedal|n.|踏板；腳蹬子；腳的；腳踏的|59|ペダル|a|Press the brake pedal to turn on your brake lights.||ブレーキペダルを押して、ブレーキライトをつけてみてください。
 penis|n.|陽物；陰莖|59|ちんちん；チンポ|a|||
 peril|n.|危險；冒...之險；險境；置...於險境|59|危険；危難|d|They faced the peril of falling rocks.||彼らは落石の危険にさらされた。
-periodic|adj.|週期的；定期的；間歇的|59|定期的|a|He learnt the periodic table by heart just for fun.|他背週期表只是為了好玩。|
+periodic|adj.|週期的；定期的；間歇的|59|定期的な|v|He learnt the periodic table by heart just for fun.|他背週期表只是為了好玩。|
 persistence|n.|固執；堅持不懈；持續|59|不屈；一点張り|a|She was disgusted at his persistence.||彼女は彼の執拗さにうんざりしていた。
 pharmacy|n.|藥房；配藥學；製藥業|59|薬局；薬学|a|This medicine is still not sold in pharmacies.||この薬はまだ薬局で売られていない。
 physiological|adj.|生理學的；生理學上的；生理機能的|59|生理学の；生理的な|h|||
@@ -7121,9 +7121,9 @@ rectangular|adj.|成直角的|61|長方形の；直角の|h|||
 refinery|n.|精煉廠|61|精製工場；製油所|h|||
 relegate|v.|驅逐；使降低地位；把...歸類|61|降格させる；追いやる；分類する|h|||
 repeal|n.|廢止；撤消|61|廃止する；撤廃する；廃止|d|||
-rigour|n.|嚴格；嚴厲；苛刻|61|緊密|a|||
+rigour|n.|嚴格；嚴厲；苛刻|61|厳格さ；厳しさ；苛酷さ|v|||
 ruthless|adj.|無情的；殘忍的；毫不留情的|61|冷酷な；容赦のない；残忍な|h|Those guys are ruthless, covering up their tracks like that after all their wrongdoing.||自分たちの悪事がばれないようにするなんて、なんて悪どい奴等！
-safeguard|n.|保衛；保護措施；防護設施|61|保護；保護策；守る|d|||
+safeguard|n.|保衛；保護措施；防護設施|61|保護；保護策；防護措置|v|||
 satire|n.|諷刺文學；諷刺|61|風刺|a|The play is a satire on the political world.||その劇は政界を風刺したものだ。
 scarcity|n.|缺乏；不足；缺少|61|不足；欠乏；希少|d|||
 scripture|n.|聖經；聖經的一節；聖經的一句|61|聖典；聖書；経典|h|The problem is one of interpreting these ancient scriptures.||これは古代の教典を解釈するという問題である。
@@ -7189,9 +7189,9 @@ discreet|adj.|小心的；慎重的|61|慎重な；控えめな；分別のあ�
 disgrace|n.|恥辱；不名譽；使受恥辱；使失體面|61|屈辱；恥辱|a|What you did brought disgrace on the whole class.|你的行為使全班的人丟臉。|君の行いはクラスの不名誉だ。
 disproportionate|adj.|不成比例的|61|不釣り合いな；不均衡な|h|This big gate is disproportionate to the small garden.||この大きな門は小さな庭に不釣り合いだ。
 doze|v.|打瞌睡；假寐；打瞌睡度過|61|うたた寝；居眠りする；まどろむ|d|It looks like I must have dozed off.||どうやら、俺は微睡んでいたらしい・・・。
-edible|n.|食品；食物；可食用的|61|食べられる；食用の；食用品|h|This fish is not edible.|這條魚不能吃了。|この魚は食用にならない。
+edible|n.|食品；食物；可食用的|61|食用の；食べられる；食品|v|This fish is not edible.|這條魚不能吃了。|この魚は食用にならない。
 eject|v.|逐放；放逐；噴射|61|追い出す；排出する；射出する|h|||
-electrode|n.|電極|61|電極；関電|a|||
+electrode|n.|電極|61|電極|v|||
 eloquent|adj.|雄辯的；有口才的；有說服力的|61|雄弁な；説得力のある|h|We were deeply impressed by the lecturer's eloquent speech.|演講者精彩的演說給我們留下了深刻的印象。|私達は講演者の雄弁に深い感銘を受けた。
 emigrate|v.|移居；移民|61|移住する；移民する；国外に出る|h|They are going to emigrate to America.||彼らはアメリカに移住するつもりです。
 eminent|adj.|顯赫的；傑出的；有名的|61|著名な；卓越した；高名な|h|He is eminent for his great discoveries.||彼はいくつもの大発見で有名だ。
@@ -7370,7 +7370,7 @@ deficient|adj.|不足的；不充分的；有缺陷的|61|不足した；欠陥�
 deportation|n.|驅逐出境；放逐|61|国外追放；強制送還|d|It is unlikely that this indictment will lead to his deportation.||この告訴を彼の国外退去につながることはおそらくないであろう。
 desolate|adj.|荒涼的|61|荒涼とした；寂しい；見捨てられた|d|The town was desolate after the flood.||洪水の後町は住む人がいなくなった。
 detention|n.|阻止；監禁；拘留|61|留置；拘置|a|Tom was given detention for talking during class.||トムは授業中おしゃべりをしていたので居残りさせられた。
-diffuse|v.|散播；傳播；散開的；瀰漫的|61|行き渡る|a|The lotus blossoms diffused an inexpressibly pleasant scent.||蓮の花はなんとも言えない芳香をはなっていた。
+diffuse|v.|散播；傳播；散開的；瀰漫的|61|拡散する；広める；広がる|v|The lotus blossoms diffused an inexpressibly pleasant scent.||蓮の花はなんとも言えない芳香をはなっていた。
 dormant|adj.|睡眠狀態的；靜止的|61|休眠中の；潜在的な；活動していない|h|Mt. Asama is now dormant.|淺間山現在是寂靜的。|浅間山は今静止している。
 drake|n.|公鴨；蜉蝣類|61|雄のカモ；カゲロウ|h|Perry decided to gain information from Drake.||ペリーはドレークから情報をもらうことにした。
 duke|n.|公爵|61|公爵；デューク|d|The duke holds a lot of land.||その公爵はたくさんの土地を所有している。
@@ -7386,7 +7386,7 @@ fabrication|n.|製造；建造；虛構的謊言|61|捏造；でっち上げ|a||
 fearless|adj.|大膽的；勇敢的；無畏的|61|恐れを知らない；大胆な|d|He is fearless of danger.||彼は危険を恐れない。
 flannel|n.|法蘭絨；法蘭絨衣服|61|フランネル；ネル；ごまかし|d|||
 fluctuate|v.|變動；起伏；動搖；使波動|61|変動する；上下する；揺れ動く|d|The price of gold fluctuates daily.|黃金的價格每天波動。|金の価格は毎日変動します。
-forfeit|n.|沒收物；罰金；喪失；沒收|61|没収する；失う；罰金|h|His health was the forfeit of heavy drinking.||大酒を飲んだ報いで彼は健康を害した。
+forfeit|n.|沒收物；罰金；喪失；沒收|61|没収；罰金；喪失|v|His health was the forfeit of heavy drinking.||大酒を飲んだ報いで彼は健康を害した。
 gallop|n.|疾馳；飛奔；飛馳；急速進行|61|疾走；ギャロップ；速いペースで進む|d|We had a gallop over the hill.||我々は馬を飛ばしてその丘を駆け抜けた。
 gnaw|v.|咬；啃；侵蝕|61|かじる；かみ砕く；むしばむ|d|Rats have gnawed holes in the door.||ネズミがドアに穴をあけた。
 handout|n.|施捨物；救濟品；分發的印刷品資料|61|配布資料；施し；プリント|d|The teacher distributed the handouts to the students.||先生は生徒たちにプリントを配布した。
@@ -7440,7 +7440,7 @@ ornamental|n.|裝飾物；觀賞植物；裝飾性的；裝飾的|62|装飾用�
 outcry|n.|尖叫；倒彩；強烈抗議；喊叫|62|叫び声；抗議の声；強い抗議|h|The outcries of the angels go unheard by ordinary human ears.||普通の人間は天使の叫びが聞こえない。
 overestimate|v.|評價過高；過高估價；估計過高|62|過大評価する；過大に見積もる|h|We cannot overestimate the value of health.|我們不能高估健康的價值。|健康の尊さをいくら評価してもしすぎることはない。
 paradoxical|adj.|似非而是的；矛盾的；詭論的|62|逆説的な；矛盾した；パラドックスの|h|||
-pee|n.|便士；小便|62|おしっこ；小便をする；ペニー|d|If you hold your pee, you'll get cystitis.||おしっこ我慢してると膀胱炎になっちゃうよ。
+pee|n.|便士；小便|62|おしっこ；小便；ペニー|v|If you hold your pee, you'll get cystitis.||おしっこ我慢してると膀胱炎になっちゃうよ。
 pendulum|n.|鐘擺；搖錘；搖擺不定的事態|62|振り子；ペンデュラム|a|||
 perceptual|adj.|知覺的；有知覺的|62|知覚の；知覚による|h|||
 permissible|adj.|可允許的；可容許程度的|62|許される；容認できる|h|||
@@ -7449,11 +7449,11 @@ philosophical|adj.|哲學的；冷靜的；達觀的|62|哲学的な；冷静な
 pious|adj.|虔誠的；敬神的；盡責的|62|信心深い；敬虔な；忠実な|h|So characteristic of what a pious Christian would say, this courteous phrase.||いかにも敬虔なるクリスチャンが送る、礼節重き言葉です。
 plumber|n.|水管工人|62|配管工；水道屋|d|Tom is a self-employed plumber.||トムは自営の配管工だ。
 polarize|v.|偏振；極化；兩極分化|62|分極させる；偏らせる；偏光させる|h|Tom bought a pair of polarized sunglasses.||トムは偏光サングラスを買った。
-pore|n.|毛孔；小孔；氣孔；專心閱讀|62|毛穴；気孔；じっくり読む|d|Witch hazel tightens pores without drying skin.||ウィッチヘーゼルは、乾燥させずに毛穴を引き締めます。
+pore|n.|毛孔；小孔；氣孔；專心閱讀|62|毛穴；気孔；熟読する|v|Witch hazel tightens pores without drying skin.||ウィッチヘーゼルは、乾燥させずに毛穴を引き締めます。
 predominant|adj.|占主導地位的；卓越的|62|支配的な；優勢な；主要な|h|||
 prep|n.|準備功課；預備學校；預料；預備的|62|予習；予備校；準備の|h|||
 primate|n.|大主教；靈長目動物|62|霊長類；大主教|h|Grooming in primates increases group cohesion.||霊長類の毛づくろいは集団の結合を強める。
-proficient|n.|高手；專家；精通的；熟練的|62|堪能|a|She is proficient in French.|她精通法語。|彼女はフランス語が堪能だ。
+proficient|n.|高手；專家；精通的；熟練的|62|熟練した；堪能な；達人|v|She is proficient in French.|她精通法語。|彼女はフランス語が堪能だ。
 propagate|v.|繁殖；傳播；傳送|62|繁殖させる；広める；伝える|d|||
 propeller|n.|螺旋槳；推進器|62|プロペラ|a|Jet planes fly much faster than propeller planes.||ジェット機はプロペラ機よりもずっと速い。
 proton|n.|質子|62|陽子；プロトン|a|Atoms are composed of protons, neutrons, and electrons.||原子は陽子・中性子・電子で構成されている。
@@ -7543,11 +7543,11 @@ biological|adj.|生物學的|62|生物学的な；生物の|h|How long adolescen
 biologist|n.|生物學家|62|生物学者|d|The biologist is proud of his historic discovery.||その生物学者は自分の歴史的な発見を誇りに思っている。
 blacksmith|n.|鐵匠|62|鍛冶屋；鍛冶職人|d|It's by smithing that one becomes a blacksmith.|打鐵成鐵匠。|鍛冶屋になるのは，鉄を鍛えながらだ。
 bleach|v.|漂白；變白|62|漂白する；ブリーチ|d|I need to get my hair bleached at the salon.||美容院でヘアブリーチしてもらわなきゃ。
-blessing|n.|祝福|62|恵み；沢|a|Her baby was a great blessing to her.||赤ん坊は彼女にとって大きな天の恵みであった。
+blessing|n.|祝福|62|祝福；恵み|v|Her baby was a great blessing to her.||赤ん坊は彼女にとって大きな天の恵みであった。
 blunder|n.|大錯；大失策；失策；跌跌撞撞地走|62|失態；失策|a|The boss called him out for his blunders.||ボスはへまをした彼をひどく叱った。
 buck|n.|元；雄鹿；紈絝子弟；馬背突然拱起|62|雄ジカ；ドル；跳ね上がる|h|Greedy cats are out for a fast buck.||今すぐ大金をつかみたい亡者がうようよしている。
 buddy|n.|好朋友；夥伴|62|仲間；相棒；バディ|d|A thing you should have is friends, buddy!||持つべきものは友よ友！
-burning|adj.|燃燒的；象燃燒一樣的；燒；燃燒|62|燃焼；バーニング|a|I smell something burning in the kitchen.|我聞到廚房裡有東西燒焦了。|台所で何か焦げ臭いにおいがしますよ。
+burning|adj.|燃燒的；象燃燒一樣的；燒；燃燒|62|燃えている；燃焼；激しい|v|I smell something burning in the kitchen.|我聞到廚房裡有東西燒焦了。|台所で何か焦げ臭いにおいがしますよ。
 bushel|n.|蒲式耳；修整|62|ブッシェル；穀物などの容量単位|d|Hide not your light under a bushel.|不要把你的燈藏在斗笠下。|灯火をますの下にかくすな。
 calorie|n.|卡路里|62|カロリー|a|High calorie foods are bad for my health.|高卡路里的食物對我的身體不好。|高カロリーの食べ物は私の健康に悪い。
 canyon|n.|峽谷；海底懸崖|62|峡谷；谷間；キャニオン|d|The Grand Canyon is the number one tourist attraction in America.||グランド・キャニオンはアメリカで一番人気のある観光スポットです。
@@ -7557,7 +7557,7 @@ championship|n.|冠軍身份；冠軍稱號；捍衛|62|選手権；チャンピ
 chap|n.|小夥子；頜；龜裂；皸裂|62|男；あご；あかぎれ|d|I get chapped lips every winter.|每年冬天，我的嘴唇都會乾裂。|毎年冬になると唇がカサカサに乾燥してしまいます。
 chasm|n.|陷窟；裂口|62|深い裂け目；峡谷；溝|h|||
 citizenship|n.|國籍；市民權；市民的身份|62|市民権；シティズンシップ|a|The traitor was deprived of his citizenship.||その反逆者は市民権を剥奪された。
-civic|adj.|市的；市民的；公民的|62|シビック|a|||
+civic|adj.|市的；市民的；公民的|62|市民の；公共の；都市の|v|||
 clatter|n.|咔嗒聲；嘩啦聲；嘈雜的談笑聲；發出嘩啦聲|62|がちゃがちゃという音；騒がしい話し声|h|||
 cleanliness|n.|清潔；乾淨|62|清潔さ；清潔|h|Cleanliness is proper to the Japanese.||清潔は日本人の習性だ。
 cohesive|adj.|黏合在一起的|62|結束力のある；まとまりのある；結合した|h|||
@@ -7594,7 +7594,7 @@ demographic|adj.|人口統計的|62|人口統計の；人口学の|h|Only Japan 
 demonstration|n.|示範；實證|62|デモ；実証|a|Several dozen young people participated in the demonstration.|幾十個年輕人參加了示威遊行。|数十人の青年は抗議活動に参加しました。
 deride|v.|嘲弄；嘲笑|62|あざ笑う；嘲る|h|||
 designer|n.|設計者；謀劃者；製圖者|62|デザイナー|a|She hopes to become a designer.|她希望成為一名設計師。|彼女はデザイナーになりたがっている。
-desktop|n.|桌面|62|卓上|a|I think you will find it convenient to put a short-cut on the desktop.|我想你遲早會知道在桌面建立一個快捷方式是有多方便。|デスクトップにショートカットを作成しておいたほうが、いろいろ便利だと思います。
+desktop|n.|桌面|62|デスクトップ；卓上|v|I think you will find it convenient to put a short-cut on the desktop.|我想你遲早會知道在桌面建立一個快捷方式是有多方便。|デスクトップにショートカットを作成しておいたほうが、いろいろ便利だと思います。
 deviate|v.|脫離；偏離；使偏離|62|逸脱する；それる；外れる|d|Let's not deviate from the subject.||本題からそれないようにしましょう。
 diagnosis|n.|診斷|62|診断|a|Avian medicine - diagnosis and treatment of illnesses.||飼鳥の医学―病気の診断とその治療。
 diligence|n.|勤奮|62|勤勉；精励|d|Her diligence is a good example to us all.|她的用功對我們所有人是一個好的榜樣。|彼女の勤勉さは良い見本だ。
@@ -8021,7 +8021,7 @@ glowing|adj.|白熱的；灼熱的；通紅的|64|白熱した；輝くような
 gosh|int.|唉；天啊；天哪|64|おや；まあ；あれまあ|h|Gosh, what a dirty customer!||まあ、なんて汚い客なんでしょう。
 gospel|n.|福音；信仰；真理|64|ゴスペル|a|They spread the Gospel all over the world.||彼らはキリストの福音を全世界に広めた。
 grid|n.|格子；柵格|64|格子；グリッド；送電網|d|||
-griffin|n.|新手；未經世故的人|64|新米；未熟者；想像上の生き物|h|||
+griffin|n.|新手；未經世故的人|64|グリフィン；新米；未熟者|v|||
 guardian|n.|看守者；監護人；保護人；保護的|64|ガーディアン；保護者|a|I regard myself as your guardian.|我覺得我是你的監護人。|私はきみの保護者のつもりだ。
 handling|n.|處理；操作的|64|扱い；操作；さばき|d|She's good at handling children.|她善於處理兒童。|彼女は子供の扱いがうまいんだ。
 haughty|adj.|傲慢的；驕傲的；崇高的|64|傲慢；尊大|a|That lady is haughty to a great degree.||あの婦人はひどく傲慢だ。
@@ -8055,7 +8055,7 @@ interconnect|v.|使互相連線|64|相互に接続する；連結する|h|Tatoeb
 interpersonal|adj.|人與人之間的；人際的|64|対人の；人間関係の|h|Changing the system is difficult, not to mention the interpersonal relationships.||システムを変える事は難しいことだ。それが人間関係だとなおさらだ。
 intimacy|n.|親密；熟悉；親暱行為|64|親密；親しみ|a|Their intimacy grew with the years.||親密度は年月とともに増していった。
 intonation|n.|朗誦；語調；唱|64|イントネーション；抑揚|a|Intonation is absent in his way of speaking.||彼の話し方には抑揚が欠けている。
-invalid|n.|病人；殘廢者；有病的；無效的|64|無効|a|From tomorrow this email address will be invalid.||このｅ—ｍａｉｌアドレスは明日からは使用不可能になります。
+invalid|n.|病人；殘廢者；有病的；無效的|64|無効な；病人；病弱者|v|From tomorrow this email address will be invalid.||このｅ—ｍａｉｌアドレスは明日からは使用不可能になります。
 inversely|adv.|相反地|64|逆に；反比例して|h|The length of a marriage is inversely proportional to the cost of the wedding.|婚姻的長度與婚宴的花費負相關。|
 invoke|v.|祈求；懇求；實行|64|祈る；求める；発動する|h|||
 irrelevant|adj.|不恰當的；無關係的；不相干的|64|無関係な；関係のない；的外れな|h|Your suggestion seems irrelevant to our discussion here.||あなたの提案はここの議論とは無関係のように思われます。
@@ -8068,7 +8068,7 @@ knowledgeable|adj.|聰明的；有知識的|64|博識な；物知りな；知識
 laborer|n.|體力勞動者；輔助工|64|労働者；作業員|d|The laborer was laid off for 3 weeks.||労働者は３週間一時解雇された。
 lasting|adj.|永久的；永恆的；持久的；厚實斜紋織物|64|永続する；長持ちする；持続的な|h|This new plan may bring a lasting peace.||この新しい計画によって永続する平和が生まれるかもしれない。
 lathe|n.|車床；用車床加工|64|旋盤；旋盤で加工する|d|||
-layman|n.|俗人；門外漢；凡人|64|俗；信徒|a|Much legal language is obscure to a layman.||法律用語の大半は素人にはわかりにくい。
+layman|n.|俗人；門外漢；凡人|64|素人；門外漢；俗人|v|Much legal language is obscure to a layman.||法律用語の大半は素人にはわかりにくい。
 lender|n.|出借人；貸方|64|貸し手；貸主|d|That man borrows money from many lenders.||あの男の人は多重債務者である。
 lengthy|adj.|冗長的；漫長的|64|長々とした；冗長な|h|The lengthy lecture palled on me.||講演は長たらしくて私はつまらなくなった。
 lethal|adj.|致命的；致死因子|64|致死|a|||
@@ -8126,7 +8126,7 @@ oversight|n.|勘漏；失察；失敗|64|手落ち；見落し|a|There is big ov
 overwhelmingly|adv.|壓倒性地；不可抵抗地|64|圧倒的に；大差で|h|Aren't there times when you overwhelmingly want to weep?||無性に泣きたくなる時ってない？
 oxidize|v.|使氧化；使生鏽；氧化|64|酸化させる；さびさせる；酸化する|h|As it oxidizes, the color turns blue and finally becomes a brilliant reddish-purple hue.|隨氧化變成藍色，最終呈現出鮮豔的紅紫色。|
 palette|n.|調色盤；顏料|64|パレット|a|I've bought a new palette and a few paint brushes.|我買了一個新的調色盤和幾支水彩筆。|
-partisan|n.|黨羽；虔誠信徒；同黨；黨派的|64|パルチザン|a|||
+partisan|n.|黨羽；虔誠信徒；同黨；黨派的|64|党派心のある；パルチザン；熱烈な支持者|v|||
 pathway|n.|路徑；途徑|64|小道；道筋；経路|h|Most important of all, the brain needs global reentry pathways connecting these anatomical structures.||もっとも重要なことは、脳にはこれらの解剖学的組織を結合する全体的な再入経路が必要である。
 peculiarity|n.|特質；特性；怪癖|64|独特|a|||
 pedlar|n.|沿街叫賣的小販；傳播者|64|行商人；広める人|d|||
@@ -8239,7 +8239,7 @@ supersonic|adj.|超聲波的|64|超音速の；超音波の|h|The airplane is ca
 supplementary|adj.|補足的；補充的；追加的|64|補足の；追加の；補助の|h|Supplementary information includes adverbs and things that function as adverbs.||補足情報には、副詞や副詞のはたらきをするものが入ります。
 supposedly|adv.|想象上；看上去像；被認為是|64|想定では；表向きは|h|Supposedly, his father once betrayed China.|據說他的父親曾經是漢奸。|
 sustained|adj.|持續的；持久不變的；持久的|64|持続的な；持続した；継続的な|h|The vision of the Olympics had sustained him.||オリンピックへの夢が思い出せなかった。
-sweeping|n.|掃除；垃圾；掃蕩的；徹底的|64|席巻；掃引|a|My father is sweeping the garage.|我父親正在清掃車庫。|父はガレージを掃除している。
+sweeping|n.|掃除；垃圾；掃蕩的；徹底的|64|徹底的な；広範囲の；掃除|v|My father is sweeping the garage.|我父親正在清掃車庫。|父はガレージを掃除している。
 swirl|n.|漩渦；渦動；使成漩渦|64|渦；渦巻き|d|Rumors that Tom and Mary are dating have been swirling for weeks.||トムとメリーがデートしているという噂が数週間渦巻いている。
 sydney|n.|悉尼|64|シドニー|a|Sydney is the largest city in Australia.|悉尼是澳大利亞最大的城市。|シドニーはオーストラリア最大の都市です。
 symbolize|v.|符號化；用符號表現；採用象徵；使用符號|64|象徴する；表す|h|The hammer and sickle symbolizes communism.|錘子與鐮刀代表共產主義。|
@@ -8261,7 +8261,7 @@ transcendental|adj.|卓越的；超凡的；先驗的|64|超越的な；先験�
 transcript|n.|抄本；副本；成績單|64|写し；副本；成績証明書|d|We used the transcripts of the recordings of telephone conversations.||電話での会話の録音を文学化した資料を用いた。
 transparency|n.|透明；透明度；透過性|64|透明性；透明度；透徹さ|d|||
 transverse|n.|橫斷物；橫的；橫向的|64|横の；横向きの；横断物|h|||
-trauma|n.|外傷；損傷|64|トラウマ|a|||
+trauma|n.|外傷；損傷|64|外傷；トラウマ；心的外傷|v|||
 troubling|n.|濁度；渾濁度|64|濁り；濁度|h|I can't believe that's what's really troubling Tom.||それがトムの本当に抱えている問題だとは思えない。
 turf|n.|草皮；泥炭；跑馬場；覆草皮於|64|芝生；ターフ；競馬場|d|||
 ultrasonic|n.|超聲波；超音速的|64|超音波；超音波の|h|||
@@ -8296,12 +8296,12 @@ accessary|adj.|附屬的；附帶的；從犯的；附件|64|付随の；従犯�
 accomplished|adj.|完成的；實現的；有造詣的|64|達成された；熟達した|h|The task will be accomplished in a year.||その仕事は１年で完成するでしょう。
 accumulation|n.|積聚；累積；積聚物|64|蓄積；集積|a|Her only interest is the accumulation of money.||彼女のたった一つの関心事は金をためることだ。
 acquisitive|adj.|渴望獲得的；貪婪的|64|貪欲な；欲の深い|h|He is acquisitive of knowledge.|他很有求知慾。|彼は知識欲旺盛だ。
-acting|n.|演戲；裝腔作勢；代理的；演出用的|64|演技|a|His acting is far from being perfect.|他的演技絕對有瑕疵。|彼の演技は決して完璧ではない。
+acting|n.|演戲；裝腔作勢；代理的；演出用的|64|演技；代理の|v|His acting is far from being perfect.|他的演技絕對有瑕疵。|彼の演技は決して完璧ではない。
 adaptive|adj.|適應的；能適應的|64|適応的な；適応力のある|h|||
 administrate|v.|管理；支配|64|管理する；運営する|h|||
 admittedly|adv.|公認地；誠然|64|確かに；認めるところによれば|h|Admittedly, it wasn't the best meal I've ever eaten.|不可否認，那並不是我吃過最好的一頓飯。|
 adorn|v.|裝飾；使生色|64|飾る；装飾する|d|I like to adorn my room with flowers.||私は部屋を花で飾るのが好きだ。
-affected|adj.|假裝的；做作的；受影響的|64|きざ|a|I don't like his affected manner of speaking.|我不喜歡他做作的說話方式。|彼のわざとらしい話し方が嫌いだ。
+affected|adj.|假裝的；做作的；受影響的|64|気取った；影響を受けた|v|I don't like his affected manner of speaking.|我不喜歡他做作的說話方式。|彼のわざとらしい話し方が嫌いだ。
 ailment|n.|病痛；疾病|64|病気；疾患；不調|d|||
 akin|adj.|同類的；同族的；同源的|65|似た；同類の；親類の|h|A buffalo is akin to an ox.||水牛は牛に似ている。
 allergy|n.|變應性；反感；厭惡|65|アレルギー|a|I have an allergy to milk.|我對牛奶過敏。|俺、牛乳アレルギーなんだ。
@@ -8458,7 +8458,7 @@ gramophone|n.|留聲機|65|蓄音機；グラモフォン|d|The gramophone was b
 grievance|n.|委屈；冤情；苦況|65|不満；苦情；恨み|d|||
 hallmark|n.|純度檢驗證明；品質證明；加蓋純度檢驗證明|65|極印；特徴；品質証明|d|||
 haze|n.|薄霧；陰霾；疑惑；使變朦朧|65|かすみ；煙霧|a|My mind was in a haze after drinking so much.||私は飲みすぎて頭がもうろうとしていた。
-header|n.|收割臺；頂梁；域名|65|ヘッダー|a|Tom scored a header in the 35th minute, putting his team in front.|第 35 分鐘，湯姆頭球破門，幫助球隊取得領先。|
+header|n.|收割臺；頂梁；域名|65|ヘッダー；見出し；ヘディング|v|Tom scored a header in the 35th minute, putting his team in front.|第 35 分鐘，湯姆頭球破門，幫助球隊取得領先。|
 heather|n.|石南花；似石南的；雜色的|65|ヘザー；ヒース|a|Heathers help to suppress weeds in your garden.|石楠花有助於抑制花園裡的雜草。|
 helper|n.|幫忙者；有益的東西|65|手伝い；助っ人|a|This is Tom. He's my helper.||こちらはトムさん。私のヘルパーさんなのよ。
 humane|adj.|有人情的；人道的；仁慈的|65|人道的|a|Isn't that the most humane punishment for criminals?||それは罪人に対する最も人道的な刑罰ではないか。
@@ -8479,7 +8479,7 @@ informed|adj.|見多識廣的|65|事情に通じた；見識のある|h|Was it n
 infuse|v.|注入；使充滿；泡製；泡|65|注入する；満たす；煎じる|d|This soap is infused with natural fragrances.|這塊肥皂裡新增了天然香料。|この石けんには天然香料が入っている。
 inheritance|n.|遺傳；遺產|65|遺産；継承|a|I really wonder how much the inheritance tax will amount to.||いったいどれくらいの相続税を払うことになるんだろう。
 instrumentalist|n.|工具主義者；樂器演奏家|65|奏者|a|||
-insulation|n.|絕緣；隔離；孤立|65|断熱|a|The noise was deadened by the insulation.||音は防音装置で十分小さくなった。
+insulation|n.|絕緣；隔離；孤立|65|絶縁；断熱；隔離|v|The noise was deadened by the insulation.||音は防音装置で十分小さくなった。
 insulator|n.|絕緣體；從事絕緣工作的工人|65|絶縁体；がいし；インシュレーター|d|||
 intentionally|adv.|故意地；有意地|65|わざと；故意に|d|Do you mean you hide your beauty intentionally?||自分のかっこ良さをわざと隠すということ？
 interviewer|n.|會見者；面談者；進行面試者|65|面接官；インタビュアー|d|The interviewer introduces the topic of the interview.|採訪者介紹了採訪的主題。|
@@ -8512,7 +8512,7 @@ mediator|n.|調停者；傳遞者；基督|65|仲裁者；調停者；仲介者|
 metallurgy|n.|冶金學；冶金術|65|冶金学；冶金術|d|ODS super alloy is produced by the mechanical alloy method following powder metallurgy.||ＯＤＳスーパーアロイは粉末冶金技術を伴うメカニカルアロイ法により製造されます。
 meteor|n.|流星；大氣現象|65|流星；メテオ|d|Tomorrow we are going to see the meteor shower!|明天要看流星雨啊！|
 mid|adj.|中間的；中央的；中部的；在...之中|65|中間の；真ん中の；中央の|h|She married again in her mid-forties.|她在四十多歲的時候再次結婚。|彼女は４０代半ばで再婚した。
-milestone|n.|里程碑；里程石；里程標|65|一里塚|a|||
+milestone|n.|里程碑；里程石；里程標|65|一里塚；画期的な出来事；節目|v|||
 mimic|adj.|模仿的；摹擬的；效顰者；模仿者|65|真似る；ミミック|a|A parrot can mimic a person's voice.|鸚鵡會模仿人的聲音。|オウムは人の声を真似ることができる。
 mince|n.|切碎物；切碎；矯揉做作地說|65|刻む|a|How long will minced meat last in a fridge?||ミンチ肉って、冷蔵庫でどれぐらい持つ？
 mindset|n.|心態；傾向；習慣|65|考え方；心構え；物の見方|d|I think believing that is a matter of mindset.||そう思うのは、心の持ちようだと思います。
@@ -8599,12 +8599,12 @@ saga|n.|傳說；英雄傳奇；冒險故事|66|長編物語；英雄伝説；�
 salon|n.|大會客室；大廳；客廳|66|サロン|a|There's a beauty salon next to the station.||美容院は駅の横にあります。
 savor|n.|滋味；氣味；食慾；有...的滋味|66|風味；味わい|h|He savored a sip of coffee.|他細細地品了一口咖啡。|
 scenic|adj.|風景好的；戲劇性的；舞臺的；風光影片|66|景色のよい；絵になる|h|This place is famous for its scenic beauty.|這個地方以風景優美聞名。|そこは風景が美しいことで有名だ。
-scoop|n.|鏟子；勺子；穴；汲取|66|スクープ；すくう|a|He scooped up sand by the handful.||彼は砂を手いっぱいにすくいあげた。
+scoop|n.|鏟子；勺子；穴；汲取|66|スクープ；特ダネ；すくう|v|He scooped up sand by the handful.||彼は砂を手いっぱいにすくいあげた。
 sculptor|n.|雕刻家|66|彫刻家|d|The sculptor carved wood into an image of Buddha.||その彫刻家は木で仏像を刻んだ。
 seafood|n.|海味；海鮮；魚類|66|シーフード；海鮮|a|I really like eating seafood.|我很喜歡吃海鮮。|私は海産物を食べるのが大好きだ。
 seasoned|adj.|經驗豐富的；老練的|66|経験豊富な；熟練した|h|I seasoned the fish with salt and pepper.|我在魚上灑鹽和胡椒作調味。|魚に塩とこしょうで味をつけた。
 seasoning|n.|調味品；作料；佐料|66|加味；味付け|a|The seasoning is just right.||いい塩梅だ。
-sediment|n.|沉澱物；沉積|66|土砂|a|By means of a super high-pressure water spray practically all the sediment is removed.||超高圧水の噴射により、ほとんどの詰まりが排除される。
+sediment|n.|沉澱物；沉積|66|沈殿物；堆積物|v|By means of a super high-pressure water spray practically all the sediment is removed.||超高圧水の噴射により、ほとんどの詰まりが排除される。
 seduce|v.|唆使；慫恿；引誘|66|誘惑する；そそのかす|h|I tried in vain to seduce her.||彼女を誘惑しようとしたがむだだった。
 selective|adj.|選擇的；選擇性的|66|選択的な；選り好みする|h|White strawberries were born of a mutation during selective breeding.||白いちごは、品種改良中の突然変異によって生まれました。
 seminate|v.|播種於；傳播；散佈|66|播種する；広める|h|||
@@ -8723,15 +8723,15 @@ blizzard|n.|大風雪；暴風雪|66|ブリザード|b|We made good time until w
 bloc|n.|集團|66|ブロック|b|Those agenda items were taken up en bloc for discussion.||それらの議題は一括して取り上げられた。
 boots|n.|擦靴的僕役；靴子|66|ブーツ|a|I would like to purchase some boots.|我想買些靴子。|ブーツを買いたいんですけど。
 borough|n.|自治的市鎮；區|66|自治都市；行政区|h|||
-bounty|n.|慷慨；寬大；禮物|66|バウンティ|b|Tom always dreamed of becoming a bounty hunter.||トムは常々、賞金稼ぎになりたいと夢見ていた。
+bounty|n.|慷慨；寬大；禮物|66|報奨金；寛大；恵み|v|Tom always dreamed of becoming a bounty hunter.||トムは常々、賞金稼ぎになりたいと夢見ていた。
 bouquet|n.|花束|66|ブーケ|a|He presented me with a bouquet of flowers.||彼が花束をプレゼントしてくれたの。
-braid|n.|辮子；穗帶；編成辮；鑲邊|66|ブレード；組紐|b|Tom has braided his beard.|湯姆把鬍子編成了辮子。|トムは髭をより合わせた。
+braid|n.|辮子；穗帶；編成辮；鑲邊|66|三つ編み；組みひも；編む|v|Tom has braided his beard.|湯姆把鬍子編成了辮子。|トムは髭をより合わせた。
 breathtaking|adj.|驚人的；驚險的|66|息をのむほどの；驚くべき|h|The scenery's supposed to be breathtaking.||景色もすばらしいはずよ。
 brilliance|n.|卓越；光輝|66|光沢；精彩|a|Every time I saw him, I was overcome with his brilliance.||彼に会うたびごとに、彼の頭の良さに圧倒された。
 brilliantly|adv.|輝煌地；光亮地；燦爛地|66|華やかに；鮮やかに；見事に|h|Quasars are brilliantly shining heavenly bodies that are extremely far away.||クエーサーとは、非常に遠方にある、まぶしい輝きを放つ天体だ。
 buckle|n.|皮帶扣；釦子；扣住；使彎曲|66|バックル；尾錠|b|It's the law: always buckle your safety belt in cars and airplanes.|法律規定，在車輛和飛機上，一定要扣上安全帶。|車や飛行機ではいつも安全ベルトを締めることが法律で決められています。
 bulgarian|n.|保加利亞人；保加利亞語|66|ブルガリア人；ブルガリア語|d|I don't need a textbook on the Bulgarian language.||ブルガリア語のテキストは必要ありません。
-bulky|adj.|龐大的|66|浩瀚；バルキー|b|This box is too bulky to carry.|這個箱子太笨重了無法攜帶。|この箱はかさばりすぎて運べない。
+bulky|adj.|龐大的|66|かさばる；巨大な；分厚い|v|This box is too bulky to carry.|這個箱子太笨重了無法攜帶。|この箱はかさばりすぎて運べない。
 bunk|n.|鋪位；廢話；逃走；逃跑|66|寝台；たわごと；逃走|h|Mary is on her bunk reading.|瑪麗在她的床位上讀書。|
 candid|adj.|坦白的；率直的；公正的|66|率直な；公正な|h|Roy is secretive and Ted is candid.||ロイは秘密主義だがテッドはざっくばらんだ。
 carcass|n.|屍體|66|死体；残骸|d|Get your carcass out of here!||出ていけ。
@@ -8787,7 +8787,7 @@ dominance|n.|優勢；顯性；統治|66|優性；顕性|b|||
 drizzle|n.|細雨；下毛毛雨|66|霧雨；疎雨|a|I like drizzles, not rainstorms.|我喜歡下小雨，不喜歡下大雨。|
 dues|n.|稅；應付款；該繳之款|66|会費；税金；支払うべき金|h|Cross off the names of the people who have paid their dues.|麻煩你把付了錢的人的名字刪掉。|会費を払った人たちの名前を消しなさい。
 ecstasy|n.|狂喜；心醉神迷；忘形|66|有頂天；エクスタシー|a|Ecstasy is a stimulant type of drug.||エクスタシーはアッパー系のドラッグだ。
-elegance|n.|高雅；典雅；優雅|66|品；伊達|a|Everybody at the party was charmed by her elegance.||パーティーにいた人は誰もかも彼女の優雅さに魅せられた。
+elegance|n.|高雅；典雅；優雅|66|優雅；上品；洗練|v|Everybody at the party was charmed by her elegance.||パーティーにいた人は誰もかも彼女の優雅さに魅せられた。
 elude|v.|逃避；規避；把...難倒|66|逃れる；避ける；理解されない|h|||
 emblem|n.|象徵；徽章；符號；用象徵表示|66|エンブレム|a|The note is embossed with the school emblem.||その便せんには校章が打ち出しにされている。
 embryonic|adj.|萌芽的；初期的；未成熟|66|初期の；萌芽的な|h|||
@@ -8879,8 +8879,8 @@ mitigate|v.|溫和；緩和；減輕|66|和らげる；緩和する|h|||
 motionless|adj.|不動的；靜止的|66|動かない；静止した|h|A cat jumped onto the chair and lay motionless.||猫は椅子に飛び乗ってそのままじっとしていた。
 mourning|n.|哀痛；居喪；舉哀|66|喪；追悼|a|Is it possible to send mourning clothes to the cleaner?||喪服をクリーニングに出せますか？
 multilateral|adj.|多邊的；多國的|66|多角的|a|Multilateral trade negotiations ran aground over import quotas.||輸入割り当て量についての多国間貿易交渉は暗礁に乗り上げてしまいました。
-mundane|adj.|現世的；世俗的；宇宙的|66|褻|b|||
-muster|n.|召集；集合；檢閱|66|奮う|a|I mustered up my courage and went there.|我硬著頭皮去了。|私は思い切ってそこに行った。
+mundane|adj.|現世的；世俗的；宇宙的|66|世俗的な；平凡な；日常の|v|||
+muster|n.|召集；集合；檢閱|66|召集；集合；奮い起こす|v|I mustered up my courage and went there.|我硬著頭皮去了。|私は思い切ってそこに行った。
 mutation|n.|變化；突變；母音變化|66|突然変異；変転|b|White strawberries were born of a mutation during selective breeding.||白いちごは、品種改良中の突然変異によって生まれました。
 mythology|n.|神話|66|神話；神話学|d|In Greek mythology, Ares was the god of war.|在希臘神話中，阿瑞斯是戰爭之神。|ギリシャ神話では、アレスは戦争の神でした。
 narcotic|n.|麻醉藥；鎮靜劑；麻醉的；催眠的|66|麻薬|a|||
@@ -8901,7 +8901,7 @@ organizational|adj.|組織的|67|組織の；組織的な|h|In the previous meet
 outright|adj.|率直的；完全的；總共的；完全地|67|完全な；あからさまな；即座に|h|I had expected an outright refusal, but to my surprise she agreed.||あっさり断られると思いきや、彼女は承諾してくれました。
 outweigh|v.|比...重；比...重要；比...有價值|67|勝る；より重要である|d|He outweighs me by 10 kg.|他比我重十公斤。|彼は私より１０キロ体重が多い。
 overly|adv.|過度地；極度地|67|過度に；極端に|h|I'm not overly interested in the event.||その成り行きにはあまり興味が無い。
-paramount|n.|首長；最高當局；最重要的；最高的|67|パラマウント|b|It is paramount to all the others.||それは他のいっさいに勝っている。
+paramount|n.|首長；最高當局；最重要的；最高的|67|最重要の；至上の；最高位の|v|It is paramount to all the others.||それは他のいっさいに勝っている。
 patriarchal|adj.|家長的；族長的；由族長統治的|67|家父長制の；家長の|h|Tom believes in a patriarchal society.||トムは男尊女卑思想の持ち主だ。
 patriotism|n.|愛國心；愛國精神；愛國主義|67|パトリオティズム；報国|a|Does any other country fan the flames of patriotism as much as America?|有沒有一個國家比美國更提倡愛國主義？|アメリカほど愛国心を煽る国はあるでしょうか。
 patronage|n.|贊助；恩賜態度；光顧|67|庇護；愛顧|b|Isamu Kobayashi received the patronage of Rohan Koda.||小林勇は幸田 露伴の愛顧を受けた。
@@ -8991,7 +8991,7 @@ thru|adv.|穿越；從頭至尾；穿過|67|通り抜けて；最後まで|h|Tha
 thump|n.|重打；重擊聲；撞擊|67|ごとん|b|They had been thumping the drum all along.||彼らは太鼓をずっとたたき続けた。
 timothy|n.|梯牧草|67|チモシー|b|||
 toddler|n.|蹣跚行走的人；學步的小孩；學步的幼兒|67|よちよち歩きの幼児|h|How can I get my toddler to eat vegetables?||どうすれば小さな子供に野菜を食べさせることができるでしょうか。
-touching|adj.|動人的；令人同情的|67|涙ぐましい；ボディタッチ|a|Let go of my arm! I can't stand people touching me.|放開我的手臂！我不能忍受有人碰我。|腕を離せ。人に触れられるのにはがまんがならんのだ。
+touching|adj.|動人的；令人同情的|67|感動的な；心を打つ；触れること|v|Let go of my arm! I can't stand people touching me.|放開我的手臂！我不能忍受有人碰我。|腕を離せ。人に触れられるのにはがまんがならんのだ。
 towering|adj.|高聳的；激烈的|67|高くそびえる；激しい|h|New York bristles with towering buildings.|紐約充滿著高樓大廈。|ニューヨークには高層ビルが林立している。
 transmitter|n.|傳送者；傳達人；傳播者|67|トランスミッター|b|||
 treadmill|n.|踏車；令人厭倦的工作|67|トレッドミル；ランニングマシン|b|I broke a sweat running on the treadmill.||私はトレッドミル上を走って汗をかいた。
@@ -9003,7 +9003,7 @@ unravel|v.|闡明；解決；解開；散開|67|解明する；解決する；�
 urine|n.|小便；尿|67|尿；小便|a|Please leave a urine sample in this cup.||このカップに尿をとってください。
 vagina|n.|陰道；鞘；葉鞘|67|膣；ヴァギナ|b|||
 variant|n.|變體；異體；不同的；有差別的|67|異文；異形|a|Different variants of Shanghainese differ greatly with each other.|吳語的方言差異很大。|
-venerable|adj.|莊嚴的；值得尊敬的|67|尊者|b|||
+venerable|adj.|莊嚴的；值得尊敬的|67|由緒ある；尊敬すべき|v|||
 ventilation|n.|通風；空氣流通；公開討論|67|換気；風通し|a|This room has fine ventilation.|這房間的通風裝置很好。|この部屋は風通しがよい。
 vic|n.|飛機V字隊形編隊|67|V字編隊|g|||
 vietnamese|n.|越南人；越南語|67|ベトナム人；ベトナム語|d|It wasn't in Vietnam that I learnt Vietnamese.|我的越南語不是在越南學的。|
@@ -9013,13 +9013,13 @@ vomit|v.|吐出；嘔吐|67|吐く；吐き出す|a|I feel so bad I want to vomi
 wail|n.|慟哭；哀號；嚎啕|67|泣き喚く|b|The injured person wailed with pain after recovering from the anaesthesia.||けが人は麻酔から覚めた後痛みで泣きわめいた。
 waive|v.|不堅持要求；放棄；推遲考慮|67|放棄する；行使しない；延期する|h|||
 warden|n.|典獄官；漁獵法監督官；看守人|67|ウォーデン|b|There was only one warden on duty when the riot started.|暴動開始時只有一位監獄長值班。|暴動が起こったとき、当直の監視員はたった１人だった。
-wed|v.|與...結婚；使結合；結婚|67|嫁す；嫁する|b|The wedding will take place on Saturday.|婚禮會在星期六舉行。|結婚式は土曜日に行われます。
+wed|v.|與...結婚；使結合；結婚|67|結婚する；結びつける|v|The wedding will take place on Saturday.|婚禮會在星期六舉行。|結婚式は土曜日に行われます。
 whim|n.|一時的興致；衝動；怪念頭|67|気まぐれ；酔狂|a|Father was generous enough to indulge my every whim.||父は寛大だったので、私の気まぐれもすべて満たしてくれた。
 whoa|int.|驚歎聲；停止|67|どう|b|Whoa, if we keep chatting, despite actually arriving early, we'll end up late!||おっと、せっかく時間前に来たのに、ダベッてたら遅刻しちまう。
 woody|adj.|多樹木的；木質的|67|ウッディ；木質|b|We understand that the Woody Panel retails for $80.||Ｗｏｏｄｙ Ｐａｎｅｌの市価が８０＄だということは知っています。
 abduct|v.|誘拐；綁架；使外展|67|誘拐する；拉致する|h|I was abducted by aliens.|我被外星人綁架了。|私はエイリアンに誘拐されていた。
 aboriginal|adj.|原始的；土著的；土著居民；土生生物|67|先住の；先住民；土着の|h|||
-abstinence|n.|節制；禁慾；戒酒|67|禁欲|b|||
+abstinence|n.|節制；禁慾；戒酒|67|節制；禁欲；断酒|v|||
 abyss|n.|深淵；深邃；地獄|67|深淵；アビス|b|She was in an abyss of despair.||彼女は絶望のどん底にあった。
 accelerated|adj.|加快的|67|加速された；速められた|h|The yen's appreciation accelerated the decline of that company.||円高がその会社の経営不振に拍車をかけた。
 accentuate|v.|以重音念；強調；重讀|67|強調する；際立たせる|h|Her striped dress accentuates her slimness.||縞柄の服で彼女のほっそりした姿が目立つ。
@@ -9085,7 +9085,7 @@ chapman|n.|流動商販；小販；叫賣小販|67|行商人；小売商人|h|||
 charisma|n.|非凡的領導力；神秘的個人魅力；神授的能力|67|カリスマ|a|The stage charisma of drag performers compels audiences to reconsider their own stereotypes.|反串秀者的舞臺魅力使觀眾不禁重新審視自己的刻板印象。|
 chiefly|adv.|主要地|67|主として；主に|d|His trouble was chiefly mental.|他主要是心理的問題。|彼の病気は主に精神的な物だった。
 clarification|n.|澄清；淨化|67|明徴；闡明|b|Thank you for the clarification.|感謝澄清。|
-coherence|n.|黏合；連貫性；一致性|67|つじつま；とりとめ|a|||
+coherence|n.|黏合；連貫性；一致性|67|一貫性；整合性；まとまり|v|||
 cohesion|n.|結合；黏聚；內聚|67|粘着|a|Grooming in primates increases group cohesion.||霊長類の毛づくろいは集団の結合を強める。
 collaborative|adj.|合作的；協作的|67|共同の；協力的な|h|Really, you are not a collaborative type, are you?||ホント、協調性がないよね？
 colorful|adj.|華美的；富有色彩的；有趣的|67|カラフル|a|The picture is colorful in contrast with this one.|和這幅比起上來，那幅畫的色彩鮮艷多了。|その絵はこの絵とは対照的にカラフルだ。
@@ -9171,7 +9171,7 @@ glean|v.|拾落穗；收集|67|拾い集める；収集する|d|He has gleaned k
 grandeur|n.|莊嚴；偉大；壯麗|67|壮大さ；荘厳さ|h|||
 guise|n.|相似；外觀；偽裝；穿戴|67|外見；装い；見せかけ|d|||
 gulp|v.|吞；大口大口地吸氣；吸收；吞嚥|67|ごくっ|b|Greta chugged the beer in one gulp.||グレタ君がビールをひとのみにした。
-guts|n.|飛碟遊戲；內臟；狹道|67|ガッツ；度肝|a|You've got a lot of guts.|你膽子很大。|君はすごく根性があるね。
+guts|n.|飛碟遊戲；內臟；狹道|67|根性；度胸；内臓|v|You've got a lot of guts.|你膽子很大。|君はすごく根性があるね。
 hairy|adj.|多毛的；毛狀的；長毛的|67|毛深い；多毛|b|He has a hairy chest.|他胸口很多毛。|彼は胸毛が多い。
 hammond|n.|哈蒙德|67|ハモンド|h|||
 havoc|n.|大破壞；蹂躪；嚴重破壞|67|大混乱；破壊|d|An enormous number of insects hatched this year, wreaking havoc on crops.||今年は、おびただしい数の害虫が発生して、農作物に多大な被害が起きた。
@@ -9207,14 +9207,14 @@ languish|v.|憔悴；凋萎；苦思|68|衰弱する；苦しむ；停滞する|
 leash|n.|皮帶；以皮帶束縛；束縛|68|リーシュ|b|Tom keeps Mary on a short leash.||トムはメアリーを束縛してるんだ。
 legalize|v.|法律上認為正當；使合法化|68|合法化する|h|||
 lightweight|n.|不到平均重量的人/物；輕量級；無足輕重的人；平均重量以下的|68|ライトウェイト|b|I want some lightweight shoes.||私は軽い靴が欲しいです。
-loot|n.|贓物；洗劫；搶奪|68|ルート|b|A government official's stately mansion was looted.||政府役人の豪邸が略奪された。
+loot|n.|贓物；洗劫；搶奪|68|略奪品；戦利品；略奪する|v|A government official's stately mansion was looted.||政府役人の豪邸が略奪された。
 lore|n.|知識；眼光|68|ロアー|b|||
 lug|v.|拖；拉；一拖；一拉|68|引きずる；苦労して運ぶ|d|They lugged the refrigerator up the stairs.||彼らは冷蔵庫を階段の上まで運び上げた。
 majestic|adj.|宏偉的；莊嚴的|68|マジェスティック|b|It's easy to see the area's majestic topography from the cockpit of a helicopter.||ヘリコプターの運転席からなら、その地の素晴らしい地形を見渡すのは容易い。
 mammoth|n.|猛獁；龐然大物；猛獁似的；巨大的|68|マンモス|a|The author's verbiage produced a document of mammoth size and microscopic import.||著者の冗漫なスタイルは膨大な書類を作り出したが、その内容は乏しい。
 mantle|n.|斗篷；罩子；披風；罩住|68|マント；マントル|a|||
 manure|n.|肥料；糞肥；施肥於|68|肥；肥料|a|Knowledge is like manure, it's only good when spread.||知識というものは肥料と同じで、広まってこそ良いのである。
-marrow|n.|髓；骨髓；精華|68|心髄|b|||
+marrow|n.|髓；骨髓；精華|68|骨髄；髄；真髄|v|||
 maxwell|n.|麥克斯韋|68|マクスウェル|b|||
 mediocre|adj.|不好不壞的；通常；平凡的|68|凡庸|a|To become popular, you need to be mediocre.||人気者になるためには、凡庸でなくてはならない。
 memorandum|n.|備忘錄；外交備忘錄；交易備忘錄|68|覚書；メモ|d|||
@@ -9251,20 +9251,20 @@ pageant|n.|盛會；遊行；虛飾|68|ページェント|b|Linda is one of the 
 paranoia|n.|偏執狂；多疑症|68|パラノイア；偏執病|b|||
 parody|n.|打油詩文；詼諧的模仿詩文；拙劣的模仿；拙劣模仿|68|パロディー；替え歌|a|||
 parole|n.|假釋；誓言；釋放宣言；宣誓後釋放|68|パロール|b|||
-patriarch|n.|創辦人；家長；元老|68|族長|b|||
+patriarch|n.|創辦人；家長；元老|68|家長；族長；総主教|v|||
 pedagogical|adj.|教師的；教學法的；適宜於教師的|68|教育学の；教授法の|h|||
 penchant|n.|愛好；嗜好|68|好み；傾向|h|||
 penguin|n.|企鵝；空軍地勤人員|68|ペンギン|a|This baby penguin is too cute!|這隻企鵝寶寶太可愛了！|この赤ちゃんペンギンとっても可愛い！
-periphery|n.|外圍；邊緣地區；圓周|68|四周|b|||
+periphery|n.|外圍；邊緣地區；圓周|68|周辺；周囲；外周|v|||
 perjury|n.|偽誓；偽證；背信棄義|68|偽証；背信|d|More women than men commit perjury.||男性よりも女性のほうが偽証罪を犯す。
 perverse|adj.|乖張的；故意作對的；有悖常情的|68|ひねくれた；天邪鬼な|h|I just bet you were thinking something perverse just now.||今の、ゼッタイなんか邪なこと考えてたでしょ。
 physiology|n.|生理學；生理機能|68|生理；生理学|a|Human physiology is a three-credit course.||生理学は３単位です。
 precarious|adj.|不穩定的；不安的；危險的|68|不安定な；危うい|d|||
-precipitation|n.|墜落；沉澱；降水|68|沈殿|b|||
+precipitation|n.|墜落；沉澱；降水|68|降水；降水量；沈殿|v|||
 predatory|adj.|掠奪成性的；捕食生物的；掠奪的|68|略奪的な；捕食性の|h|||
 presumption|n.|專橫；放肆；假定|68|推定；推認|a|There is a strong presumption against its truth.||それが間違っている可能性が非常に強い。
 pretense|n.|藉口；虛假；偽裝|68|見せかけ；ふり；口実|d|He made a pretense of knowing my father.||彼は私の父を知っているふりをした。
-primal|adj.|主要的；最初的；原始的|68|プライマル|b|||
+primal|adj.|主要的；最初的；原始的|68|原始の；主要な；根源的な|v|||
 professionalism|n.|職業特性；專業技巧；職業行為|68|プロフェッショナリズム|b|I salute both of you for your professionalism.||お二人のプロ意識に敬意を表します。
 prolonged|adj.|延續的；長時間的|68|長引いた；長期の|h|The stock market is in a prolonged slump.||株式市場は長い不振を続けている。
 prom|n.|音樂會；舞會；散步道|68|プロム|b|Are you really going to ask Mary to the prom?||お前、マジでメアリーをプロムに誘う気なのか？
@@ -9322,12 +9322,12 @@ tenderness|n.|柔軟；親切；柔和|68|優しさ；柔らかさ|d|Tenderness 
 tenuous|adj.|稀薄的；微細的；纖細的|68|希薄な；微弱な；取るに足りない|h|Relations are tenuous as peace talks resume between warring factions.||敵対勢力間の和平交渉再開だけに、関係は危うい。
 termite|n.|白蟻|68|しろあり|b|||
 terrestrial|adj.|地球的；陸生的；陸地的；地球上的人|68|陸生|b|||
-thankfully|adv.|感激地；感謝地|68|おかげさまで|a|Thankfully, the medicine quickly started to take effect.||幸い、薬の効果はすぐに現れた。
+thankfully|adv.|感激地；感謝地|68|ありがたいことに；幸いにも|v|Thankfully, the medicine quickly started to take effect.||幸い、薬の効果はすぐに現れた。
 thaw|n.|融解；融化；解凍時期；使融解|68|解凍；融解；氷解する|h|The hoarfrost has not begun to thaw yet.|霜還沒有開始溶化。|霜はまだ溶け始めていない。
 throttle|n.|節流閥；節氣閥；喉嚨；扼喉嚨|68|スロットル|b|||
 totality|n.|全體；總數；全食|68|全体；総数；皆既食|d|||
 traction|n.|曳；牽引；牽引力|68|牽引；トラクション|b|||
-translucent|adj.|半透明的；透明的|68|トランスルーセント|b|||
+translucent|adj.|半透明的；透明的|68|半透明の|v|||
 traumatic|adj.|外傷的；創傷的|68|外傷性の；心的外傷の|h|||
 traveling|adj.|旅行的；旅行用的；移動的|68|トラベリング；行旅|b|I have run out of my traveling expenses.|我把旅費耗光了。|私は旅費がなくなった。
 treacherous|adj.|不可信任的；危險的；背叛的|68|裏切りの；危険な|h|The way is very treacherous.|這條路挺險惡。|
@@ -9367,7 +9367,7 @@ allure|v.|引誘；吸引；魅力；誘惑力|68|誘惑；魅力；誘う|h|He 
 aloft|adv.|在高處；在上|68|高く；上空に|h|I saw a flock of birds flying aloft.||鳥の群れが空高く飛んでいるのを見ました。
 anesthesia|n.|麻醉；麻木|68|麻酔；無感覚|d|He was put under anesthesia.||彼は麻酔をかけられた。
 aperture|n.|孔；縫隙；孔徑|68|口径|a|What is the correct aperture in this light?||この明るさで絞りはどのくらいですか。
-apex|n.|頂；尖端；最高潮|68|尖部|b|||
+apex|n.|頂；尖端；最高潮|68|頂点；最高点|v|||
 approaching|v.|進場；侵入；接近|68|接近する；近づく|h|I was dazzled by the headlights of an approaching car.|我被前方駛來的車的車頭燈晃得眼花。|僕は前から来る自動車のヘッドライトで目がくらんだ。
 appropriately|adv.|適當的；恰如其分的；恰當的|68|適切に；ふさわしく|h|||
 arcade|n.|拱廊；拱形建築物；有拱廊的街道|68|アーケード|a|Real-time strategy games usually include arcade elements.|即時策略遊戲通常會融入街機元素。|
@@ -9429,7 +9429,7 @@ creed|n.|宗教信條；教義；綱領|68|信条；教義|a|The laws apply to e
 crimson|n.|深紅色；深紅色的|68|クリムソン；唐紅|b|Give me these 8 crimson apples please.||この真っ赤なりんごを８つ下さい。
 crisscross|n.|十字形；十字形的|68|十字；交差する|h|||
 crumple|v.|弄皺；壓皺；崩潰；變皺|68|しわくちゃにする；崩れる|h|||
-culmination|n.|頂點；高潮；最高點|68|南中；極致|b|||
+culmination|n.|頂點；高潮；最高點|68|頂点；最高潮；集大成|v|||
 cumbersome|adj.|笨重的；麻煩的；累贅的|68|扱いにくい；かさばる|h|Transferring to the Keiyō Line from other lines at Tokyo Station is extremely cumbersome.||東京駅で他の路線から京葉線に乗り換えるのは非常に面倒くさい。
 dawson|n.|道森|68|ドーソン|h|||
 debtor|n.|債務人；借主；借方|68|借り方|b|That man is a heavy debtor.||あの男の人は多重債務者である。
@@ -9445,7 +9445,7 @@ digestive|adj.|消化的；助消化的；助消化藥|68|消化の；消化剤|
 disarray|v.|弄亂；使混亂；使脫去衣服；無秩序|68|混乱；乱れ；乱す|h|The small rural village was in disarray after the disappearance and murder incidents.||小さな田舎町で起きた失踪事件と殺人事件で、町中がてんやわんやだ。
 discernible|adj.|看得清的；可看出的；可辨別的|68|見分けられる；認識できる|h|||
 disciplinary|adj.|訓練的；紀律的；訓誡的|68|懲戒の；訓練の|h|||
-dispel|v.|驅散；驅逐|68|晴らす|a|How can we dispel their doubts and fears?||どうして彼らの疑いと恐怖を払いのけることができようか。
+dispel|v.|驅散；驅逐|68|追い払う；晴らす；解消する|v|How can we dispel their doubts and fears?||どうして彼らの疑いと恐怖を払いのけることができようか。
 dizzying|adj.|令人昏亂的；極快的；燦爛的|68|めまぐるしい|b|||
 droplet|n.|小滴|68|小さな滴；水滴|h|||
 dwindle|v.|減少；縮小；衰落；使縮小|68|減る；縮む|h|The town's population dwindled and dwindled.||町は人口がますます減っていった。
@@ -9467,13 +9467,13 @@ evacuation|n.|撤退；疏散|68|撤退；疎開|a|Today, we had an evacuation d
 evasion|n.|逃避；藉口|68|回避；忌避|a|He was arrested on charges of tax evasion.||彼は脱税容疑で逮捕された。
 exertion|n.|努力；發揮；運用|68|努力；尽力|d|Success depends on your own exertions.||成功はあなた自身の努力しだいである。
 exhaustive|adj.|消耗的；枯竭的；徹底的|68|徹底的な；網羅的な|h|||
-exhilarating|adj.|令人喜歡的；使人愉快的；爽快的|68|痛快|b|||
-exodus|n.|大批的離去|68|エクソダス|b|||
+exhilarating|adj.|令人喜歡的；使人愉快的；爽快的|68|爽快な；わくわくする|v|||
+exodus|n.|大批的離去|68|大移動；脱出；流出|v|||
 expulsion|n.|逐出；開除；驅逐|68|駆逐；放逐|a|||
 exude|v.|流出；滲出|68|にじみ出る|b|During mating season many animals exude strong fragrances.|很多動物會在交配季節釋放出很強的氣味。|
 fanatic|n.|狂熱者；盲信；狂熱的；盲信的|68|ファナティック|b|He is a fanatic for taking long trips.||彼は大の旅行好きだ。
 fateful|adj.|宿命的；重大的；決定性的|68|天下分け目|b|Do not count on fateful opportunities.||運命的なチャンスに期待してはいけない。
-fauna|n.|動物群|68|動物相；フォーナ|d|||
+fauna|n.|動物群|68|動物相；動物群|v|||
 fender|n.|防衛物；擋泥板|68|フェンダー|b|It was just a fender bender.||軽い接触事故だったんだ。
 ferocious|adj.|殘忍的；兇猛的；可怕的|68|凶暴；獰猛|b|A tiger is a very ferocious kind of animal.|老虎是一種非常兇猛的動物。|
 firstly|adv.|第一；首先|68|第一に；まず|d|Firstly, it is a matter of justice.||第一に、それは正義の問題である。
@@ -9484,7 +9484,7 @@ franco|adj.|免費的|69|無料の；自由な|h|||
 fraught|adj.|含有...的；伴著...的；充滿...的|69|…をはらむ；満ちた|h|||
 fresco|n.|溼壁畫；溼壁畫技法；作溼壁畫於|69|壁画；フレスコ|a|||
 funnel|n.|漏斗；漏斗狀的東西；煙囪|69|漏斗|b|||
-furry|adj.|毛皮的；蓋著毛皮的；似毛皮的|69|ケモナー|b|In the furry fandom, many are artists of some sort.|在福瑞圈子裡，不少人都會進行一些創作。|ケモナー界隈では、その多くが何らかのアーティストです。
+furry|adj.|毛皮的；蓋著毛皮的；似毛皮的|69|毛皮の；毛深い|v|In the furry fandom, many are artists of some sort.|在福瑞圈子裡，不少人都會進行一些創作。|ケモナー界隈では、その多くが何らかのアーティストです。
 gamma|n.|希臘語的第三個字母|69|ガンマ；ギリシャ文字の第三字|d|Alpha, beta and gamma are Greek letters.|阿爾法、貝塔和咖瑪是希臘文字。|アルファ、ベータ、ガンマはギリシャ文字です。
 glaring|adj.|閃耀的；炫目的；瞪視的|69|爛々|b|The glaring headlights dazzled us for a moment.||ヘッドライトがまぶしくて一瞬目がくらんだ。
 gloria|n.|地質用遠端斜向聲納|69|グロリア|a|Gloria was easily the best singer of that evening.||グロリアは断然その晩のピカ一の歌手であった。
@@ -9525,7 +9525,7 @@ jacobs|n.|雅各布斯|69|ジェイコブズ|h|||
 janitor|n.|守衛；門警；管理人|69|用務員|b|Tom started as a janitor, but he's now the president of the company.|湯姆最初是看門人，但現在他是公司的總裁了。|
 joker|n.|詼諧者；傢伙；巧計|69|ジョーカー|a|The joke loses everything when the joker laughs himself.|當講笑話的人自己先笑時，這個笑話就失去了一切意義。|
 jolt|n.|震搖；搖動；顛簸；顛簸而行|69|揺れ；衝撃；がたがた揺れる|d|The bus jolted over the rough road.||道が悪くてバスがガタガタ揺れた。
-joyous|adj.|快樂的；高興的|69|栩栩|b|May happiness and joy come to you as you celebrate this joyous day.||この喜ばしい日をお祝いし、幸せと喜びがあなたにきますように。
+joyous|adj.|快樂的；高興的|69|喜ばしい；楽しい；陽気な|v|May happiness and joy come to you as you celebrate this joyous day.||この喜ばしい日をお祝いし、幸せと喜びがあなたにきますように。
 juxtaposition|n.|並排；並置；並列|69|並置；対比|d|||
 laden|adj.|裝滿的；負載的；苦惱的|69|積まれた；重荷を負った|h|The bedroom was laden with beautiful ornaments.||その寝室には、美しい装飾品がいっぱいあった。
 leisurely|adj.|悠閒的；從容的；從容地；悠閒地|69|悠長；ぼちぼち|a|In the morning, I just want to have a leisurely start.||やっぱり朝はこのくらいゆっくり出発したいものです。
@@ -9550,7 +9550,7 @@ minuscule|n.|小書寫體；小寫字；用小書寫體的；小寫字的|69|極
 misuse|n.|誤用；濫用|69|誤用|b|The word lends itself to misuse by beginners.||その語は誤用されやすい。
 mit|n.|手；連指手套；棒球手套；與...握手|69|ミット；グローブ|h|Tom's alma mater is MIT.||トムの母校は、マサチューセッツ工科大学です。
 molten|adj.|熔化的；熾熱的；鑄造的|69|溶けた；熱い|h|The volcano poured molten rock.||その火山は溶岩を流し出した。
-nat|n.|守護神；精靈|69|ナット|b|||
+nat|n.|守護神；精靈|69|精霊；守護神|v|||
 negate|v.|否定；否認；取消|69|無効にする；否定する|h|||
 negligence|n.|疏忽；粗心大意；忽視|69|油断；怠慢|a|The accident happened because of the driver's negligence.||その事故は運転手の不注意から起きた。
 neural|adj.|神經的；神經系統的；神經中樞的|69|ニューラル|b|||
@@ -9561,12 +9561,12 @@ nineteenth|num.|第十九；十九分之一|69|十九番目の；十九分の一
 nobility|n.|貴族；高尚；貴族階級|69|貴族；上達部|a|||
 nocturnal|adj.|夜的；夜曲的|69|夜間の；夜行性の|h|||
 nonverbal|adj.|不用語言的；不用動詞的|69|非言語的な；言葉によらない|h|||
-nook|n.|角落；躲蔽處；隱匿處|69|ヌック|b|Did you search every nook and cranny?||隅から隅まで探したの？
+nook|n.|角落；躲蔽處；隱匿處|69|片隅；人目につかない場所|v|Did you search every nook and cranny?||隅から隅まで探したの？
 nutritious|adj.|滋養的；營養的|69|栄養のある；滋養のある|h|You can't eat it just because it is nutritious.||栄養があるからといって食べられるものではない。
 oblivion|n.|遺忘；一片空白狀；湮沒|69|忘却；消滅|d|||
 ooh|int.|哦！|69|ああ；おお|h|||
 originality|n.|創意；新奇；獨創能力|69|独創；オリジナリティー|a|The work I'm doing now requires originality.||今の仕事には、創造力が必要とされている。
-overrule|v.|統治；威壓；打敗|69|却下する；覆す；支配する|d|||
+overrule|v.|統治；威壓；打敗|69|却下する；覆す|v|||
 overrun|n.|蔓延；風行一時；超過限度|69|蔓延；超過；侵略する|h|We overran the budget by about 5,000 yen.||予算が足りず、五千円ほど足が出た。
 payroll|n.|工資名單；餉金名單；發放的工資總額|69|給与名簿；総給与額|h|How many people are there on the payroll?||何人の従業員が雇用されていますか。
 pedagogy|n.|教育學；教授法；教學工作|69|教育学；教授法|d|||
@@ -9575,7 +9575,7 @@ pendant|n.|垂飾；下垂物；補充的東西|69|ペンダント|a|I'll give y
 perilous|adj.|危險的；瀕臨毀滅的|69|危険な；きわどい|d|||
 pertain|v.|從屬於；關於；涉及|69|関係する；属する|h|A reward has been offered for information pertaining to the incident.||その事件に関する情報には賞金が出されている。
 pervade|v.|瀰漫於；遍及於；流行於|69|行き渡る；充満する|h|The poison has pervaded his whole system.||毒が全身に回った。
-picturesque|adj.|生動的；如畫的；獨特的|69|明媚|b|Naples is a picturesque city.|那不勒斯是一個風景如畫的城市。|ナポリは絵のように美しい街です。
+picturesque|adj.|生動的；如畫的；獨特的|69|絵のように美しい；風光明媚な|v|Naples is a picturesque city.|那不勒斯是一個風景如畫的城市。|ナポリは絵のように美しい街です。
 piety|n.|虔誠；孝敬；虔誠的行為|69|敬神|b|||
 ping|n.|砰；報時的最後一聲；聲脈衝；砰地發聲|69|ピン；ぱちんという音；ピンと鳴る|d|I'd like to play a game of ping-pong.||卓球をしたいのですが。
 pitiful|adj.|慈悲的；可憐的；令人同情的|69|気の毒；痛ましい|a|The pitiful sight moved us to tears.|看著眼前淒涼的景象，我們不禁流下了淚來。|気の毒な光景は私たちの涙をさそった。
@@ -9600,7 +9600,7 @@ quell|v.|壓制；平息；減輕|69|鎮圧する；静める|d|The army quelled
 ransom|n.|贖金；贖身；贖回；贖|69|身代金|b|The hijacker demanded a ransom of two million dollars.||そのハイジャック犯は２００万ドルの身代金を要求した。
 raucous|adj.|沙啞的；粗聲的；喧鬧的|69|しわがれた；騒がしい|h|Parliament members had a raucous argument over the Wiretapping Law.||国会は、盗聴法案を巡ってまさに侃々諤々の体であった。
 ravage|n.|破壞；蹂躪；毀壞|69|荒廃；破壊する|h|It often ravages hunters' cabins and steals prey from traps.||しばしば、それは狩人の小屋を壊し、罠から獲物を盗む。
-rave|n.|狂吼；狂暴；憤怒地說；叫嚷|69|熱狂的に語る；熱狂的なパーティー|h|This restaurant lives up to all the rave reviews it got.||このレストラン、評判通りのおいしさだね。
+rave|n.|狂吼；狂暴；憤怒地說；叫嚷|69|激賞する；わめく；熱狂的なパーティー|v|This restaurant lives up to all the rave reviews it got.||このレストラン、評判通りのおいしさだね。
 recital|n.|背誦；吟誦；詳述|69|リサイタル；発表会|a|Tom and I went to a piano recital.||トムと私はピアノリサイタルに行ったんだ。
 recoil|n.|畏縮；後退；彈回；退卻|69|リコイル|b|We recoiled from the enemy's offensive.||われわれは敵の攻勢に後退した。
 reddish|adj.|微紅的；略帶紅色的|69|赤みがかった|d|She has reddish hair, whence comes her nickname "Carrot".||彼女は赤味がかった髪の毛をしている。それで「にんじん」というあだながついている。
@@ -9614,7 +9614,7 @@ reverberate|v.|迴響；反響；被反射；使反響|69|鳴り響く|b|||
 reverend|n.|教士；大人；應受尊敬的；教士的|69|牧師；尊師|d|||
 revoke|v.|撤回；廢除；藏牌|69|取り消す；撤回する|d|||
 righteous|adj.|公正的；正義的；正直的|69|正しい；正義の|d|||
-rover|n.|漂泊者；流浪者；海盜|69|ローバー|b|||
+rover|n.|漂泊者；流浪者；海盜|69|放浪者；探査車|v|||
 rudimentary|adj.|基本的；起碼的；初步的|69|初歩の；基本的な|h|||
 sabotage|n.|怠工；破壞活動；破壞；從事破壞活動|69|怠業|b|They sabotaged my effort to make our class enjoyable.||みんなはクラスを楽しくするための私の努力をけなした。
 sanity|n.|神智健全；頭腦清楚；通情達理|69|正気；たわい|b|||
@@ -9632,16 +9632,16 @@ sheltered|adj.|受庇護的；受保護的|69|保護された；守られた|h|T
 sidestep|n.|橫跨的一步；臺階；橫跨一步躲避；迴避|69|避ける；横に一歩よける|h|He attempted to sidestep a conflict with his chief.||彼は上司と対立を避けようとした。
 silva|n.|森林；森林志|69|森林；森林誌|h|||
 skyrocket|v.|飛漲；突升；焰火|69|打ち上げ花火|b|Our sales performance is just skyrocketing.||営業成績はまさに鰻上り、というところかね。
-slant|n.|傾斜；斜面；觀點；傾斜的|69|スラント|b|When is the slant-eyed geezer coming?||つり目のおじさんはいつ来るの？
+slant|n.|傾斜；斜面；觀點；傾斜的|69|傾斜；見解；傾く|v|When is the slant-eyed geezer coming?||つり目のおじさんはいつ来るの？
 smother|v.|使喘不過氣；使窒息；悶熄；窒息|69|窒息させる；覆い隠す；もみ消す|d|Rock breaks scissors. Scissors cut paper. Paper smothers rock.||グーがチョキに、チョキがパーに、パーはグーに勝つ。
 smug|adj.|自以為是的；自鳴得意的；整潔的；書呆子|69|独りよがりな；得意げな|h|His smug behavior is offensive.||彼のきざな態度は頭にくる。
 snarl|v.|吼叫；怒罵；纏結；咆哮著說|69|いがみ合う|b|The dog snarled at the salesman.||犬はセールスマンに噛み付いた。
 snowflake|n.|雪片；雪花；雪片蓮|69|雪花；スノーフレーク|b|Thick snowflakes melt easily and accumulate slowly.||牡丹雪は、とけやすく積もりにくい。
-snug|adj.|舒適的；溫暖的；整潔的；使整潔乾淨|69|小体|b|The snow keeps the young plants snug and warm.||雪は若い草木を気持ちよく暖かく保護する。
+snug|adj.|舒適的；溫暖的；整潔的；使整潔乾淨|69|居心地の良い；ぴったりした|v|The snow keeps the young plants snug and warm.||雪は若い草木を気持ちよく暖かく保護する。
 solvent|n.|溶劑；有償付能力的；有溶解力的|69|溶剤；溶媒|b|My responsibility is to keep the company solvent.||会社の債務返済能力を維持するのが私の責任だ。
 speaking|n.|談話；演說；講話的；適於說的|69|スピーキング|b|Generally speaking, the climate of Japan is mild.|總體上說，日本的氣候溫和。|一般的に言えば、日本の気候は温暖です。
 sporadic|adj.|偶爾發生的；零星發生的；分散的|69|散発；飛び飛び|a|||
-squeak|n.|吱吱聲；僥倖；吱吱叫；告密|69|チューチュー|b|Man, I hate the sound of glass squeaking!||ああ、そのガラスがキュッキュッとなる音、大嫌い！
+squeak|n.|吱吱聲；僥倖；吱吱叫；告密|69|キーキー鳴く；きしむ音；密告する|v|Man, I hate the sound of glass squeaking!||ああ、そのガラスがキュッキュッとなる音、大嫌い！
 stagnant|adj.|不流動的；停滯的；不景氣的|69|淀んだ；停滞した|h|||
 stamina|n.|精力；活力；耐力|69|スタミナ|a|Sam doesn't have the stamina to finish a marathon.||サムにはマラソンを完走するだけの力がない。
 stardom|n.|明星身分；明星們|69|スター的地位；スターの世界|h|||
@@ -9660,7 +9660,7 @@ swerve|n.|轉向；彎曲；背離；突然轉向|69|急に曲がる；逸れる
 systemic|adj.|系統的；體系的；全身的|69|全身の；体系的な|h|||
 tamper|v.|干預；撥弄；賄賂；篡改|69|干渉する；改ざんする|h|He crashed his car because someone tampered with the brakes.|他撞車是因為有人在剎車上做了手腳。|
 thorny|adj.|多刺的；令人苦惱的|69|とげのある；厄介な|h|||
-tonic|n.|補藥；主調音或基音；滋補的；聲調的|69|トニック；主音|b|Let's qualify this gin with tonic water.||このジンをトニック水で割ろう。
+tonic|n.|補藥；主調音或基音；滋補的；聲調的|69|強壮剤；トニック；主音|v|Let's qualify this gin with tonic water.||このジンをトニック水で割ろう。
 topography|n.|地誌；地形學；地勢|69|地誌；地勢|a|It's easy to see the area's majestic topography from the cockpit of a helicopter.||ヘリコプターの運転席からなら、その地の素晴らしい地形を見渡すのは容易い。
 touring|n.|遊覽；遊覽的|69|ツーリング；旅回り|a|I'm looking forward to touring bookstores in the US.||アメリカで書店巡りをするのが楽しみです。
 transpire|v.|使蒸發；使排出；蒸發；散發|69|判明する；起こる；蒸散する|h|There is nothing new transpired since I wrote you last.|上次寫信以來沒有什麼新鮮事發生。|この前手紙を書いた時以来別に新しい事は何も起こっていない。
@@ -9668,10 +9668,10 @@ treatise|n.|論文；專著|69|論文；専論|d|Tom's treatise is beyond reproa
 tributary|adj.|支流的；納貢的；從屬的；支流|69|支流|a|The Amazon is fed by a large number of tributaries.|亞馬遜河有很多支流。|アマゾン川には多くの支流がある。
 trilogy|n.|三部劇；三部曲|69|三部作|a|||
 tropics|n.|熱帶地區|69|熱帯；回帰線|a|||
-truce|n.|停戰；休戰；休止|69|タンマ|b|||
+truce|n.|停戰；休戰；休止|69|休戦；停戦|v|||
 tundra|n.|苔原；凍原|69|ツンドラ|b|The tundra has a harsh climate.||ツンドラ地帯の気候は厳しい。
 twitch|v.|急拉；抽搐；陣痛|69|ぴくつく；ひきつる；けいれん|d|My left eyelid is twitching.|我的左眼皮在跳。|左のまぶたがぴくぴくする。
-unchanged|adj.|無變化的|69|昔ながら|b|The packaging has been updated but the contents are unchanged.||箱はリニューアルしたけど中身は変わらない。
+unchanged|adj.|無變化的|69|変わらない；不変の|v|The packaging has been updated but the contents are unchanged.||箱はリニューアルしたけど中身は変わらない。
 undercover|adj.|秘密從事的；秘密的；從事間諜活動的|69|秘密の；潜入捜査の|h|I believe you already possess all the qualities needed to go undercover.|我認為，你已經完全具備了潛伏的資質。|
 understandable|adj.|可以理解的|69|理解できる；もっともな|h|She failed the exam, which was understandable.||彼女は試験に失敗したが、それは無理もなかった。
 undisturbed|adj.|未被擾亂的；安靜的；鎮定的|69|乱されない；静かな|h|||
@@ -9693,11 +9693,11 @@ veterinarian|n.|獸醫|69|獣医|a|She grew up to be a veterinarian.|她長大�
 vigilant|adj.|警覺的；警戒的；警惕的|69|警戒心の強い；用心深い|d|I am vigilant about things like that.||私、そういうところ目ざといのよ。
 wand|n.|棒；棍；杖|69|ワンド|b|||
 wheeler|n.|旋轉物；推車人；車輪製造人|69|車輪製造者；車両|h|He is a real wheeler-dealer.||彼はやり手です。
-workload|n.|工作量|69|工数|b|||
+workload|n.|工作量|69|仕事量；作業負荷|v|||
 wry|adj.|扭歪的；歪曲的；歪斜的；扭曲|69|ゆがんだ；皮肉な|h|||
-yarn|n.|紗；紗線；故事|69|ヤーン|b|The baby tangled the ball of yarn.||赤ん坊が毛糸の玉をもつれさせた。
+yarn|n.|紗；紗線；故事|69|糸；織り糸；長い話|v|The baby tangled the ball of yarn.||赤ん坊が毛糸の玉をもつれさせた。
 abolition|n.|廢除；廢奴運動|69|廃止；廃絶|a|The abolition of slavery in Europe eventually reached America.||ヨーロッパでの奴隷制度の廃止は、やがてアメリカにも波及しました。
-abort|v.|流產；中途失敗；使流產；使失敗|69|堕ろす；アボート|b|||
+abort|v.|流產；中途失敗；使流產；使失敗|69|中絶する；中止する；失敗する|v|||
 abstain|v.|自制；戒絕；棄權|69|控える；棄権する|d|My father tries to abstain from drinking.|我父親正在嘗試戒酒。|私の父は禁酒しようとしている。
 accordion|n.|手風琴；可摺疊的|69|アコーディオン；手風琴|a|Tom asked Mary if she could play the accordion.||トムがね、メアリーにアコーディオンが弾けるかって聞いてたよ。
 accuser|n.|控訴者；指責者|69|告発者；非難する人|h|He turned angrily on his accusers.||怒りを込めて告発人の方に向き直った。
@@ -9720,7 +9720,7 @@ annex|n.|附加物；附屬建築物；附加；蓋|69|別館；アネックス|
 annuity|n.|年金；年金保險；年金領受權|69|年金|a|The law enables us to receive an annuity.||その法律は我々に年金を受け取る権利を与えている。
 antiquated|adj.|陳舊的；過時的；年老的|69|古くさい；時代遅れの|d|||
 aptitude|n.|資質；才能；自然傾向|69|適性|a|He has a remarkable aptitude for music.|他有非凡的音樂天份。|彼は音楽の素晴らしい才能をもっている。
-archaic|adj.|古體的；過時的；古老的|69|アルカイック|b|||
+archaic|adj.|古體的；過時的；古老的|69|古風な；時代遅れの；古語の|v|||
 archipelago|n.|群島；多島嶼的海|69|諸島；列島|a|The Japanese archipelago is struck by a terrible heat wave.||日本列島は酷暑に苛まれている。
 arduous|adj.|費力的；努力的；險峻的|69|骨の折れる；困難な|d|||
 aristocrat|n.|貴族|69|貴人|b|The aristocrat clings to the glory of his past.||その貴族は過去の光栄にしがみついている。
@@ -9738,7 +9738,7 @@ beset|v.|圍繞；使苦惱；鑲嵌|69|取り囲む；悩ませる；ちりば�
 besiege|v.|圍攻；包圍|69|包囲する；殺到する|h|The army besieged the castle for many days.||軍隊は城を何日間も包囲した。
 bikini|n.|大爆炸；比基尼泳裝|69|ビキニ|a|Judy decided to wear her new bikini.|朱迪決定穿上她的新比基尼。|ジュディは新しいビキニを着ることにした。
 bisexual|adj.|兩性的；雌雄同體的|69|バイ；バイセクシャル|b|||
-bon|adj.|好的|69|良い；上品な|h|The Bon Festival is near at hand.||お盆が近づいてきた。
+bon|adj.|好的|69|良い；善良な|v|The Bon Festival is near at hand.||お盆が近づいてきた。
 bonanza|n.|富礦帶；帶來好運的事物；幸運|69|ボナンザ|b|||
 brandish|v.|揮；揮舞|69|振りかざす；振り回す|d|While she was screaming, she brandished the knife.||彼女は叫びながら、ナイフを振り回しました。
 bravado|n.|虛張聲勢|69|空威張り；虚勢|d|True bravery is quite another thing from bravado.||本当の自信と空威張りは別問題だ。
@@ -9782,7 +9782,7 @@ conversational|adj.|會話的；對話的；健談的|70|会話の；おしゃ�
 corey|n.|科裡|70|コーリー|h|||
 cork|n.|軟木塞；軟木樹；軟木|70|コルク；コーク|a|The cork would not come out.||コルクの栓がどうしても抜けなかった。
 cosmetic|n.|化妝品；化妝用的|70|化粧品；美容の；表面的な|h|There is nothing wrong with boys wearing cosmetics.|男孩化粧沒有甚麼問題。|男の子が化粧をして悪いことはない。
-cosmopolitan|adj.|世界主義的；世界性的；全世界的；世界主義者|70|コスモポリタン|a|The journalist is what you call a cosmopolitan.||そのジャーナリストはいわゆる国際人だ。
+cosmopolitan|adj.|世界主義的；世界性的；全世界的；世界主義者|70|国際的な；世界主義の|v|The journalist is what you call a cosmopolitan.||そのジャーナリストはいわゆる国際人だ。
 courier|n.|送快信的人；伴遊服務員|70|クーリエ|b|||
 cower|v.|畏縮；退縮；抖縮|70|縮こまる；怯える|h|||
 craze|n.|狂熱；大流行；發狂；開裂|70|熱狂；大流行；ひび割れ|h|I am still keeping up my tennis craze.|我仍然熱愛著網球運動。|まだテニスに夢中です。
@@ -9849,9 +9849,9 @@ forbidding|adj.|嚴峻的；可怕的；令人難親近的|70|近寄りがたい
 foresight|n.|遠見；深謀遠慮|70|予知；先見|a|They blamed me for my lack of foresight.||彼らは見通しが甘かったといって私を責めた。
 fortify|v.|設要塞於；加強；使堅強；築防禦工事|70|要塞化する；強化する；元気づける|h|The city was well fortified except on this side.||その都市は、こちら側以外は十分防備されていた。
 fraternal|adj.|兄弟的；兄弟似的；友愛的|70|兄弟の；友愛の|h|"Don't look alike do you?" "That's because we're fraternal twins."||「似てないわよね」「二卵性だからね」
-freighter|n.|租船人；承運人；託運人|70|運搬船|b|||
+freighter|n.|租船人；承運人；託運人|70|貨物船；運送業者|v|||
 freshness|n.|新；新鮮；精神飽滿|70|鮮度；新鮮味|a|This cuttlefish has started to lose its freshness.||このイカは鮮度が落ちはじめた。
-funk|n.|怯懦；恐懼；臭味；畏縮|70|ファンク|a|||
+funk|n.|怯懦；恐懼；臭味；畏縮|70|ファンク；恐怖；悪臭|v|||
 galvanize|v.|通電；鍍鋅；使...感到震驚|70|電気を流す；刺激して動かす；亜鉛めっきする|h|He has galvanized back to life.||彼は元気を取り戻した。
 garb|n.|打扮；裝束；穿衣|70|服装；装い|d|She is garbed in furs.||毛皮の服を着ている。
 genesis|n.|發生；起源；創世記|70|起源；創世記|d|||
@@ -9859,7 +9859,7 @@ glacial|adj.|冰的；冰川的；冰川時代的|70|氷河の；氷のような
 glazed|adj.|像玻璃的；光滑的；上過釉的|70|光沢のある；釉薬をかけた；うつろな|h|||
 glimmer|n.|一絲光線；微光；少許；發微光|70|かすかな光；ほのかな兆し；かすかに光る|h|The light of the lamp glimmered in the fog.||ランプの火が霧の中で瞬いた。
 graft|n.|嫁接；貪汙；移植|70|接ぎ木；汚職；移植|d|The orchardist grafted an apple bud onto the rootstock.||果樹栽培者がリンゴの接ぎ穂を台木に接ぎ木しました。
-greatness|n.|大；巨大；廣大|70|偉；摩訶|b|||
+greatness|n.|大；巨大；廣大|70|偉大さ；大きさ|v|||
 guild|n.|團體；協會；行業協會|70|ギルド|a|||
 haired|adj.|有毛髮的；長著...頭髮的|70|髪のある；…の髪の|h|The long-haired girl over there is Judy.||長い髪のあの少女はジュディさんです。
 harmonic|adj.|和諧的；音樂般的；和聲的；泛音|70|調和した；倍音|d|||
@@ -9868,7 +9868,7 @@ heresy|n.|異端；異教|70|異端；魔道|a|As for the accusations of heresy-
 homosexual|adj.|同性戀的；同性戀者|70|ホモセクシャル|b|||
 hooker|n.|用鉤子的人；漁船|70|フッカー|a|||
 hospitable|adj.|好客的；招待周到的|70|もてなしの良い；親切な|h|Whomsoever she invites, she is quite hospitable.||彼女は誰を招いても厚くもてなす。
-hourly|adj.|每小時的；以小時計的；頻繁的；每小時地|70|時々刻々|b|How much is your hourly pay?||時給はいくら？
+hourly|adj.|每小時的；以小時計的；頻繁的；每小時地|70|1時間ごとの；毎時の；頻繁に|v|How much is your hourly pay?||時給はいくら？
 hump|n.|駝背；圓形隆起物；鴕峰；隆起|70|ハンプ|b|Camels have either one or two humps.||ラクダには一つか二つのこぶがある。
 husk|n.|外殼；皮；無價值之物；剝...的殼|70|殻；さや；無価値なもの；殻をむく|d|It's a hassle to take the husks off of chestnuts.||栗を剥くのって、めんどくさっ。
 idyllic|adj.|田園詩的；牧歌的；悠閒的|70|田園的な；牧歌的な|h|||
@@ -9898,7 +9898,7 @@ laud|n.|讚美；稱讚|70|称賛；賛美する|h|||
 laurel|n.|月桂樹；榮譽；使戴桂冠；授予榮譽|70|ローレル|a|We must not rest on our laurels!||慢心してはいけません！
 lax|adj.|松的；不嚴格的；腹瀉的；腹瀉|70|手ぬるい|b|Better short and sweet, than long and lax.||長くてだらしがないより短くて簡潔のほうがよい。
 lebanese|adj.|黎巴嫩的|70|レバノンの；レバノン人|h|I hope you like Lebanese food.|希望你喜歡黎巴嫩菜餚。|レバノン料理を気に入ってくれるといいんだけど。
-lecturer|n.|演講者；講師|70|弁士|b|We were deeply impressed by the lecturer's eloquent speech.|演講者精彩的演說給我們留下了深刻的印象。|私達は講演者の雄弁に深い感銘を受けた。
+lecturer|n.|演講者；講師|70|講師；講演者|v|We were deeply impressed by the lecturer's eloquent speech.|演講者精彩的演說給我們留下了深刻的印象。|私達は講演者の雄弁に深い感銘を受けた。
 legislate|v.|制定法律；用立法規定|70|法律を制定する|h|||
 lull|n.|暫停；間歇；稍息；使平靜|70|小康|a|The murmur of the brook lulls me to sleep.|溪流潺潺，催我入眠。|
 mack|n.|防水膠布；雨衣|70|防水布；レインコート|h|||
@@ -9906,7 +9906,7 @@ macro||宏；巨大的；大量的|70|マクロ|a|||
 masonry|n.|磚石部分|70|石積み|b|||
 mayo|n.|蛋黃醬|70|マヨネーズ|h|I've been having tuna and mayo onigiri recently.||最近はツナマヨおにぎり。
 meaningless|adj.|無意義的|70|無意義|b|Life without love is meaningless.|沒有愛的人生沒有意義。|愛のない人生など全く無意味だ。
-melodic|adj.|有旋律的；旋律美妙的|70|メロディック|b|||
+melodic|adj.|有旋律的；旋律美妙的|70|旋律の；メロディアスな|v|||
 melodrama|n.|音樂劇；傳奇劇；戲劇似的事件|70|メロドラマ|a|||
 memento|n.|紀念物；令人回憶的東西|70|形見；忘れ形見|a|This ring is a memento from grandma.||この指輪は、おばあちゃんの忘れ形見なのよ。
 methodical|adj.|有方法的；有系統的|70|几帳面|a|He is a methodical person.||彼は几帳面な男だな。
@@ -9938,7 +9938,7 @@ petersburg|n.|彼得斯堡；彼得堡|70|ピーターズバーグ|h|There are 3
 pinnacle|n.|小尖塔；尖峰；高峰；造小尖塔|70|ピナクル|b|||
 piracy|n.|海盜行為；海上劫掠；剽竊|70|海賊行為；著作権侵害|d|In China, software piracy is a serious issue.|在中國，軟體盜版是一個很嚴重的問題。|
 pixel|n.|畫素|70|画素；ピクセル|b|||
-placid|adj.|平靜的；溫和的；沉著的|70|おおらか|b|||
+placid|adj.|平靜的；溫和的；沉著的|70|穏やかな；落ち着いた|v|||
 populous|adj.|人口多的；人口稠密的|70|人口の多い|h|No city in Europe is as populous as Tokyo.||ヨーロッパのどの都市も、東京ほど人口が多くはない。
 porous|adj.|多孔的；有氣孔的；多孔性的|70|多孔|b|||
 pounce|n.|猛撲；爪；突襲|70|飛びかかる；襲いかかる；爪|h|||
@@ -9954,7 +9954,7 @@ psychiatrist|n.|精神病醫生；精神病學家|70|精神科医|a|A blonde is 
 psychoanalysis|n.|心理分析|70|精神分析|d|||
 pungent|adj.|刺激性的；尖刻的；苦痛的|70|刺激的な；辛辣な|h|||
 puzzling|adj.|使迷惑的；把人難住的|70|不可解な；当惑させる|h|Korean is a puzzling language to learn, isn't it?||韓国語を学ぶのがややこしいよね。
-quad|n.|鉛塊；監獄；四方院子|70|クワタ|b|||
+quad|n.|鉛塊；監獄；四方院子|70|中庭；四つ子；四角形|v|||
 ranching|n.|經營大牧場|70|大牧場経営；牧場経営|h|||
 raven|n.|渡鴉；掠奪；烏黑的|70|ワタリガラス；略奪する；真っ黒な|h|It's not a crow. It's a raven.||それはね、カラスじゃないよ。ワタリガラスだよ。
 reek|n.|煙；水蒸氣；臭氣散發；冒煙|70|悪臭；臭う；煙が立ち上る|h|Tom, since you reek of sake, go away!||トム、酒臭いからあっちに行って。
@@ -10002,7 +10002,7 @@ substantiate|v.|使實體化；證實|70|実証する；裏付ける|d|They subs
 subterranean|adj.|地下的；秘密的；地下室；地下工作者|70|地下の；秘密の|h|||
 sumptuous|adj.|奢侈的；華麗的|70|豪華な；ぜいたくな|h|||
 supple|adj.|柔軟的；逢迎的；順從的；使柔軟|70|しなやか|a|||
-surmise|n.|推測；猜測；臆測|70|忖度；拝察|a|||
+surmise|n.|推測；猜測；臆測|70|推測；臆測；推測する|v|||
 sutton|n.|薩頓|70|サットン|h|||
 tacit|adj.|沉默寡言的；不苟言笑的；緘默的|70|暗黙|a|There must've been a tacit understanding between them.||二人の間には暗黙の了解があったに違いない。
 tactile|adj.|觸覺的；有觸覺的|70|触覚の；触知できる|h|||
@@ -10016,13 +10016,13 @@ tingle|v.|激動；感到刺痛；抖動；使感刺痛|70|ちくちく感じる
 toil|n.|辛苦；苦工；網；苦幹|70|労作；苦役|a|All the trainees share the burden of toil.||全ての研修生はつらい仕事の苦労を分かち合っている。
 transfix|v.|刺穿；使呆住；使固定|70|釘付けにする；突き刺す|h|She stood transfixed as if she had seen a ghost.||幽霊でも見たかのように、彼女は茫然と立っていた。
 tribune|n.|護民官；軍團指揮官；公民權利保護者|70|トリビューン|a|||
-troll|v.|滾動；參加輪唱；曳繩釣魚；使轉動|70|厨；荒らし|b|"You, Sir, are an imperialist!" "And you, Sir, are a troll."|"先生, 你是一個帝國主義者!" "而你, 先生, 是一個巨魔。"|
+troll|v.|滾動；參加輪唱；曳繩釣魚；使轉動|70|荒らし；トロール；トローリングする|v|"You, Sir, are an imperialist!" "And you, Sir, are a troll."|"先生, 你是一個帝國主義者!" "而你, 先生, 是一個巨魔。"|
 trustworthy|adj.|可信賴的|70|信頼できる|h|I was mistaken in thinking that he was a trustworthy man.|我還以為他是個信得過的人。|彼を信頼できる男だと考えたのはどうも見当違いだった。
 turquoise|n.|綠松石；綠松石色|70|ターコイズ|b|||
 tycoon|n.|企業界大亨；將軍|70|大物実業家；大富豪|h|The tycoon endowed each son with a million dollars.||あの大事業家は息子それぞれに１００万ドルを残した。
 typify|v.|代表；象徵；為...之典型|70|典型となる；象徴する|h|He typified the times in which he lived.||彼はその時代の代表的人物だった。
 unarmed|adj.|沒有武裝的；非武裝的；徒手的|70|丸腰|b|Larger pirates often preyed on unarmed merchant ships.||海賊は武装していない商船を餌食にした。
-unbroken|adj.|未破損的；未被征服的；未打垮的|70|連綿|b|Our country has enjoyed many years of unbroken peace.||わが国はずっと何年にもわたって平和を享受してきた。
+unbroken|adj.|未破損的；未被征服的；未打垮的|70|途切れない；破られていない|v|Our country has enjoyed many years of unbroken peace.||わが国はずっと何年にもわたって平和を享受してきた。
 underwrite|v.|簽名於下；給...保險；經營保險業|70|保証する；引き受ける|h|||
 undue|adj.|不適當的；過度的；未到期的|70|不当な；過度の|h|There is no cause for undue alarm.||過度に心配することはない。
 unfinished|adj.|未完成的|70|未了；未済|b|Leaving something unfinished is the worst thing you can do.|半途而廢是你所能做的最糟糕的事情。|中途半端が一番悪いわよ！！
@@ -10041,7 +10041,7 @@ virtuous|adj.|品德高尚的；公正的；貞潔的|70|有徳|b|Any virtuous i
 voluntarily|adv.|自願地；以自由意志|70|自発的に；自由意思で|h|He voluntarily helped his mum clean.||彼は、自発的にママの掃除を手伝った。
 warp|n.|變形；彎曲；歪曲；使變形|70|ワープ；反る|a|||
 wavy|adj.|有波浪的；多浪的；波浪狀的|70|波状の；うねった|h|||
-wholesaler|n.|批發商|70|本方|b|The wholesalers might try to back out of the deal.||卸売り業者は取引から手を引こうとするかもしれません。
+wholesaler|n.|批發商|70|卸売業者；問屋|v|The wholesalers might try to back out of the deal.||卸売り業者は取引から手を引こうとするかもしれません。
 wording|n.|用詞；措詞|70|文言；字句|b|I admit, my wording is a bit direct.|我承認，我的用詞有點直接。|
 xxx|num.|羅馬數字30|70|ローマ数字の30|h|How do you say XXX in English?||XXXって英語でなんて言うの？
 abiding|adj.|永久的；持久的；不變的|70|永続的な；不変の|h|Some member countries have been lax in abiding by G-7 agreements.||加盟国中数カ国は、Ｇ７の協定に従うことにあいまいな態度を見せています。
@@ -10053,7 +10053,7 @@ adage|n.|格言；諺語|70|格言；ことわざ|h|||
 adobe|n.|風乾土坯|70|アドベ；アドビ|b|||
 affable|adj.|和藹可親的；友善的；親切的|70|愛想のよい；親しみやすい|d|||
 affix|v.|使附於；署名；貼上；附加物|70|付す；付する|b|||
-aggressiveness|n.|侵略；侵犯；尋釁|70|鼻っ柱|b|He has none of his father's aggressiveness.||彼に父の持っている積極的が全然ない。
+aggressiveness|n.|侵略；侵犯；尋釁|70|攻撃性；積極性|v|He has none of his father's aggressiveness.||彼に父の持っている積極的が全然ない。
 agonize|v.|使極度痛苦；折磨；感到痛苦|70|苦しめる；悩む|h|You just messed up once. You don't need to agonize over it.||たった１回失敗したぐらいでクヨクヨするなよ！
 aide|n.|助手；副官|70|補佐官；副官|d|The aide suggested a change in tactics to him.||副官は戦術の変更を彼に提案した。
 ale|n.|麥芽酒|70|エール|b|Pale ale is a low-alcohol beer.|淡啤酒是一種酒精含量低的啤酒。|ペールエールはアルコール含有量の少ないビールだ。
@@ -10072,7 +10072,7 @@ astounding|adj.|令人驚駭的|71|驚天動地|b|||
 asymmetrical|adj.|不對稱的；偏位的|71|非対称の；不均衡の|h|||
 audi|n.|奧迪公司；奧迪汽車|71|アウディ|b|||
 avatar|n.|天神下凡化作人形；化身|71|アバター|b|Do you know the movie Avatar?||『アバター』って映画知ってる？
-aviator|n.|飛行員|71|鳥人|b|||
+aviator|n.|飛行員|71|飛行士；パイロット|v|||
 baboon|n.|狒狒|71|ひひ|b|||
 backlash|n.|後衝；強烈反對|71|反発；反動|d|The bribery scandal created a backlash overseas.||収賄スキャンダルは海外で激しい反発を生みました。
 baroque|n.|巴羅克風格；巴羅克式；巴羅克式的；綺靡的|71|バロック|a|She prefers quiet music - the baroque, for example.||彼女は静かな音楽を好むー例えばバロック音楽を。
@@ -10085,7 +10085,7 @@ betrayal|n.|背叛；辜負|71|背信；変節|a|She boiled over with rage at hi
 bicker|v.|鬥嘴；潺潺而流；閃動；口角|71|口げんかする；言い争う；さざめく|h|Would the two of you quit bickering?||二人ともくだらない喧嘩はやめろよ。
 blazing|adj.|熾燃的；強烈的|71|炎々|b|The big building was blazing with lights.||大きな建物は光でこうこうと輝いていた。
 blot|n.|汙點；墨水漬；亂塗；使模糊|71|しみ；汚点；消す|d|This blot can't be wiped out.|這汙點擦不掉。|このしみはふいても取れない。
-bondage|n.|奴役；束縛|71|ボンデージ|b|I guess she's into bondage and domination.|我想她想要的是束縛與支配。|彼女のフェチが緊縛と支配でしょう。
+bondage|n.|奴役；束縛|71|束縛；奴隷の身分；ボンデージ|v|I guess she's into bondage and domination.|我想她想要的是束縛與支配。|彼女のフェチが緊縛と支配でしょう。
 bonnie|adj.|漂亮的|71|かわいい；美しい|h|||
 booking|n.|預約演出合同|71|ブッキング|b|I'd like to cancel my booking.||予約をキャンセルしたいんですが。
 boundless|adj.|無限的；無邊無際的|71|縹渺|b|Boundless snow covered all that could be seen.|無邊的白雪罩住了目所能及的一切。|
@@ -10139,7 +10139,7 @@ diagonally|adv.|對角地|71|斜めに；対角線状に|d|There's a convenience
 dilapidated|adj.|破壞的；荒廢的；要塌似的|71|荒れ果てた；老朽化した；崩れかけた|h|They lived in a dilapidated house.||彼らはボロ屋に住んでいた。
 dingy|adj.|暗淡的；昏暗的；邋遢的|71|くすんだ；薄暗い；汚い|h|||
 discord|n.|不調和；不和；不一致；刺耳|71|不和；確執|a|Finally, the discord between them came to an end.|他們的衝突終於平息了。|ついに両者の間の不和は終わりになった。
-disinterested|adj.|無私慾的；廉潔的；公平的|71|恬淡|b|As a disinterested third-party, I can declare that she secretly loves him.||彼女が彼に惚れてるのは岡目八目疑いのないところだよ。
+disinterested|adj.|無私慾的；廉潔的；公平的|71|公平な；無私の；興味のない|v|As a disinterested third-party, I can declare that she secretly loves him.||彼女が彼に惚れてるのは岡目八目疑いのないところだよ。
 dispersal|n.|散佈；傳播；分散|71|退散|b|||
 disprove|v.|證明...是不對的；提出...的反證；反駁|71|反証する；誤りを証明する；論破する|h|Japan disproved phony accusations of computer chip dumping.||コンピューターチップのダンピングに関する不当な非難に日本は反論しました。
 disrespectful|adj.|失禮的；無禮的；不尊敬的|71|無礼な；失礼な；不敬な|h|Tom won't likely be disrespectful.||トムは失礼にはならないでしょう。
@@ -10162,7 +10162,7 @@ enormity|n.|暴行；極惡；巨大|71|極悪；途方もなさ；甚大さ|h|H
 entangle|v.|使糾纏；捲入；使混亂|71|もつれさせる；巻き込む；混乱させる|h|The net got entangled in the propeller.||網がスクリューに絡まった。
 entanglement|n.|糾纏；捲入；纏繞物|71|絡まり|b|||
 enterprising|adj.|有魄力的；有進取心的；有事業心的|71|進取|b|He is young and inexperienced, but quite enterprising.||彼は若くて未経験だがやる気満々だ。
-enthrall|v.|迷惑；奴役；迷住|71|魅了する；夢中にさせる；束縛する|h|The children were enthralled by the fairy tale.||子供たちはそのおとぎ話に心を奪われた。
+enthrall|v.|迷惑；奴役；迷住|71|魅了する；夢中にさせる|v|The children were enthralled by the fairy tale.||子供たちはそのおとぎ話に心を奪われた。
 enumerate|v.|列舉；計算；列舉|71|列挙する；数え上げる|d|They are too numerous to enumerate.|他們人太多了，數不過來。|それらは枚挙にいとまがない。
 ephemeral|adj.|朝生暮死的；短命的；短暫的|71|つかの間の；はかない；短命な|d|||
 escalator|n.|電動扶梯；自動扶梯|71|エスカレーター|a|The sign indicates the location of the escalator.||標識はエスカレーターの位置を示している。
@@ -10170,10 +10170,10 @@ everytime||每次；每當；每到|71|いつも；そのたびに；毎回|h|||
 exacting|adj.|苛求的；吃力的|71|厳しい；骨の折れる；要求の厳しい|h|||
 exhausting|adj.|使耗盡的；使人筋疲力盡的|71|へとへとにさせる；消耗させる|h|It looks easy, but it's pretty exhausting.||簡単そうに見えるけど、結構体力消耗するなぁ。
 exhort|v.|勸誡；忠告|71|強く勧める；戒める；訓戒する|h|The teacher exhorted his pupils to do well.||教師は生徒に善行をするように説き勧めた。
-fallacy|n.|錯誤的觀念；謬見；謬論|71|妄説；謬説|b|||
+fallacy|n.|錯誤的觀念；謬見；謬論|71|誤謬；誤った考え|v|||
 fallout|n.|原子塵的降下；輻射性微塵；原子塵|71|フォールアウト|b|||
 fanatical|adj.|狂熱的；盲信的|71|狂信的な；熱狂的な|h|They are fanatical in their beliefs.||彼らは自分たちの信仰に熱狂している。
-fervent|adj.|熱的；炎熱的；熱心的|71|烈々|b|His tone became more and more fervent.||彼の語調はますます熱気を帯びてきた。
+fervent|adj.|熱的；炎熱的；熱心的|71|熱烈な；熱心な|v|His tone became more and more fervent.||彼の語調はますます熱気を帯びてきた。
 fetish|n.|物神；偶像；迷信|71|フェチ；呪物|b|I don't think there's any such fetish.||そういうフェティシズムはないと思う。
 fleck|n.|斑點；雀斑；斑紋；使起斑點|71|斑点；小さな点；斑点をつける|h|||
 flint|n.|打火石；燧石；極硬的東西|71|フリント；火打石|b|||
@@ -10193,7 +10193,7 @@ garrison|n.|守備隊；駐軍；要塞；守備|71|鎮台；衛戍|b|The garris
 gash|n.|深長的傷口；很深的裂縫；負深傷；劃開|71|深い切り傷；裂け目；切りつける|h|||
 gaudy|adj.|俗麗的；華而不實的；盛大宴會|71|あくどい；どぎつい|b|Stick to jackets that aren't too gaudy.||けばけばしくない上着を必ず選びましょう。
 genteel|adj.|有教養的；上流的；優雅的|71|上品な；育ちのよい；優雅な|h|||
-ghastly|adj.|可怕的；慘白的；極壞的；可怖地|71|鬼気；凄惨|b|His knee turned a ghastly blackish purple from the swelling.||彼の膝は腫れてぞっとするような黒紫色になってしまった。
+ghastly|adj.|可怕的；慘白的；極壞的；可怖地|71|恐ろしい；青ざめた；ひどい|v|His knee turned a ghastly blackish purple from the swelling.||彼の膝は腫れてぞっとするような黒紫色になってしまった。
 gin|n.|杜松子酒；軋棉機；陷阱；軋棉|71|ジン|a|Let's qualify this gin with tonic water.||このジンをトニック水で割ろう。
 gladly|adv.|高興地；樂意地；歡喜地|71|喜んで；快く；進んで|d|We gladly accept your offer.|我們很高興接受你的提議。|喜んでお引き受けいたします。
 glassy|adj.|玻璃質的；玻璃狀的；如鏡的|71|ガラスのような；生気のない；鏡のような|h|||
@@ -10204,7 +10204,7 @@ hatchery|n.|孵卵處|71|ふ化場；孵化場|d|||
 heh|n.|嗨！|71|へへ；ふふ|h|He-heh... there's a tale behind that, for that place.|嘿-嘿... 那個地方的背後有一個故事。|ふふ・・・いわくがあるのさ、あそこには。
 hereditary|adj.|世襲的；遺傳的|71|遺伝性の；世襲の|h|My baby has a hereditary disease.||子供は遺伝病を持っています。
 holocaust|n.|大屠殺；大火災；毀滅|71|ホロコースト|a|||
-housekeeping|n.|家事；家政；持家|71|ハウスキーピング|b|||
+housekeeping|n.|家事；家政；持家|71|家事；ハウスキーピング|v|||
 humanist|n.|人道主義者；人文學者|71|ヒューマニスト|b|||
 hummingbird|n.|蜂鳥|71|はちどり|b|A hummingbird is no larger than a butterfly.||ハチドリはチョウと同じくらい小さい鳥です。
 hyper|adj.|亢奮的；高度緊張的|71|ハイパー|a|||
@@ -10290,28 +10290,28 @@ outreach|v.|超出...的範圍；作超出能力所及的事而害及自己；�
 painstaking|n.|辛苦；苦心；工夫；辛苦的|71|丹念|a|It was really painstaking work.||本当に骨の折れる仕事だった。
 palatable|adj.|美味的；好吃的；可口的|71|おいしい；口に合う；受け入れやすい|h|||
 paleontologist|n.|古生物學者|71|古生物学者|d|||
-panacea|n.|萬能藥；靈丹妙藥|71|仙薬|b|||
+panacea|n.|萬能藥；靈丹妙藥|71|万能薬；霊薬|v|||
 paraphernalia|n.|隨身用具|71|道具一式；持ち物；装身具|h|||
 parasitic|adj.|寄生的；由寄生蟲引起的|71|寄生性の；寄生虫による|h|||
 particulate|n.|微粒；微粒的|71|微粒子；微粒子の|d|||
 paternity|n.|父親身份；父系血統；創始人|71|父性|b|||
 perceptive|adj.|知覺的；有知覺力的；感知的|71|知覚の；洞察力のある；鋭い|d|Too much alcohol paralyzes our perceptive powers.||多量の酒は知覚を麻痺させる。
-percussion|n.|敲打；碰撞；叩擊|71|打診；パーカッション|a|||
-persona|n.|人；人物；角色|71|ペルソナ|b|||
-physique|n.|體格；體形|71|体位；骨相|b|It is a matter for joy that young men's physique has very much improved.||若い人たちの体格が非常に良くなったのは喜ばしいことである。
-pike|n.|長矛；尖頭；屈體；用矛刺殺|71|パイク|b|||
+percussion|n.|敲打；碰撞；叩擊|71|打楽器；打撃；衝突|v|||
+persona|n.|人；人物；角色|71|ペルソナ；人格；登場人物|v|||
+physique|n.|體格；體形|71|体格；体つき|v|It is a matter for joy that young men's physique has very much improved.||若い人たちの体格が非常に良くなったのは喜ばしいことである。
+pike|n.|長矛；尖頭；屈體；用矛刺殺|71|槍；カマス；有料道路|v|||
 piper|n.|吹笛者；風笛手；管樂器吹奏者|71|笛吹き；バグパイプ奏者|d|He who pays the piper calls the tune.||金を出す者に決定権がある。
 placate|v.|撫慰；平息；使和解|71|なだめる；和らげる；和解させる|h|Don't think you'll always be able to placate me with food!||い、いっつも食べ物で懐柔されるとは、限りませんからねっ。
 plymouth|n.|普利茅斯|71|プリマス|h|I am studying electrical engineering at the University of Plymouth.||私はプリマス大学で電気工学を勉強しています。
 poetic|adj.|詩的；詩意的；詩人的|71|詩的|b|Tom is poetic and romantic.||トムは詩的でロマンティストだ。
-potion|n.|飲劑；飲料；一次飲用量|71|水薬|b|Princess, don't drink the potion.||お嬢様、薬を飲まないでください。
+potion|n.|飲劑；飲料；一次飲用量|71|飲み薬；ポーション；一服|v|Princess, don't drink the potion.||お嬢様、薬を飲まないでください。
 potted|adj.|盆栽的；罐裝的|71|鉢植えの；瓶詰めの|h|The young plants are potted during the winter.||冬の間は苗を鉢植えにする。
 preacher|n.|傳道士；講道者；牧師|71|説教者；牧師；伝道師|d|||
 predictability|n.|可預言|71|予測可能性；予測のしやすさ|h|||
 predisposition|n.|愛好；素質；癖性|71|素質；傾向；性癖|h|||
 preponderance|n.|優勢；多數|71|優勢；多数；大半|d|||
 prodigious|adj.|龐大的；驚人的；異常的|71|途方もない；驚異的な；巨大な|h|||
-propriety|n.|禮貌；規矩；適當|71|可否；当否|a|The way tourists dress offends local standards of propriety.||観光客の服装は地元の礼儀正しさの基準にかなっていない。
+propriety|n.|禮貌；規矩；適當|71|礼儀正しさ；妥当性|v|The way tourists dress offends local standards of propriety.||観光客の服装は地元の礼儀正しさの基準にかなっていない。
 prostate|adj.|前列腺的；前列腺|71|前立腺|b|I had an enlarged prostate.||前立腺肥大になりました。
 protector|n.|保護者；保護物；保護裝置|71|プロテクター|b|Is there a protector on the part that is spinning?||回っている部分にプロテクターはあるか？
 pueblo|n.|普韋布洛印第安人；印第安人村莊|71|プエブロ|b|||
@@ -10337,7 +10337,7 @@ roost|n.|棲木；休息所；群棲的禽鳥；棲息|71|ねぐら|b|Curses, li
 saber|n.|軍刀；騎兵；用馬刀砍|71|サーベル；セイバー|b|It was during the ice age that the saber-toothed tiger became extinct.|劍齒虎是在冰河時期絕種的。|剣歯虎が絶滅したのは氷河時代であった。
 safari|n.|旅行；旅行隊；科學考察|71|サファリ|a|If you are going to the safari park, take the No.5 bus.|你想去野生動物園就乘五號巴士吧。|サファリパークにいらっしゃるなら５番のバスです。
 saline|adj.|鹽的；苦澀的；由鹼金屬組成的；鹽湖|71|塩分を含む；塩水の；生理食塩水|h|Show me how to make 10% saline solution.||濃度10%の食塩水の作り方を教えてください。
-sanitary|adj.|衛生的；公共廁所|71|サニタリー|a|Sanitary conditions in the refugee camps were terrible.||難民キャンプの衛生状態はひどいものだった。
+sanitary|adj.|衛生的；公共廁所|71|衛生的な；公衆トイレ|v|Sanitary conditions in the refugee camps were terrible.||難民キャンプの衛生状態はひどいものだった。
 savior|n.|救助者；救世主；救星|71|救い主|b|He saw himself as the savior of the world.||彼は自分が救世主だとかんがえた。
 scalpel|n.|解剖刀；用解剖刀切開|71|メス|a|||
 scavenger|n.|清道夫；清掃工；拾垃圾的人|71|スカベンジャー|b|||
@@ -10360,7 +10360,7 @@ songwriter|n.|流行歌曲的作者|71|作詞作曲家；ソングライター|d
 spectacularly|adv.|引人注目地；壯觀地|71|壮観に；見事に；華々しく|h|It was all-or-nothing and we struck out spectacularly.||乾坤一擲の大勝負。情けないけどこれが見事空振りに終わったんだなあ。
 spout|n.|噴口；從噴口流出的水；水落管；噴出|71|水口|a|Water spouted from the broken faucet.||水が壊れた蛇口から吹き出した。
 springboard|n.|跳板；出發點|71|跳び板；足がかり；出発点|d|||
-squadron|n.|騎兵營；分遣隊；小艦隊|71|戦隊|b|||
+squadron|n.|騎兵營；分遣隊；小艦隊|71|飛行中隊；騎兵中隊；戦隊|v|||
 stalin|n.|斯大林|72|スターリン|h|||
 stanza|n.|演出期；局|72|スタンザ|b|||
 statistically|adv.|用統計的方法；統計學上|72|統計的に；統計上|h|||
@@ -10382,12 +10382,12 @@ takeover|n.|接管；接收|72|乗っ取り|a|||
 tantalize|v.|逗弄；使乾著急|72|じらす；やきもきさせる|d|||
 tenacious|adj.|緊握的；固執的；不屈不撓的|72|粘り強い；しぶとい|a|||
 tepid|adj.|微溫的；溫熱的；不太熱烈的|72|なまぬるい；冷淡な；熱の入らない|d|||
-theatrical|adj.|劇場的；誇張的；戲劇性的；戲劇演出|72|シアトリカル|b|Tom and Mary's story is very theatrical.|湯姆和瑪麗的故事富有戲劇性。|
+theatrical|adj.|劇場的；誇張的；戲劇性的；戲劇演出|72|劇場の；演劇の；大げさな|v|Tom and Mary's story is very theatrical.|湯姆和瑪麗的故事富有戲劇性。|
 tidal|adj.|潮汐的；受潮汐影響的|72|潮の；潮汐の|h|It is carried away by tidal waves.||津波で流されてしまったのです。
 timer|n.|計時員；計時器|72|タイマー|a|The button battery in the PC's internal timer has gone flat.|電腦內部計時器內的紐扣電池沒電了。|PC内部のタイマー用ボタン電池が切れた。
 tinge|n.|色調；色彩；氣味；染|72|色合い；気味；ほんのり染める|d|An tinge of anxiety crosses my mind.||一抹の不安が頭をよぎる。
 tint|n.|色彩；淺色；染色於|72|ティント|b|At dusk, the sky is tinted with purple light.||夕暮れ時、空は紫色の光に染まっています。
-tranquility|n.|寧靜|72|静穏|b|The city was restored to tranquility after a week.||その市は一週間後に平穏に復した。
+tranquility|n.|寧靜|72|平穏；静けさ；安らぎ|v|The city was restored to tranquility after a week.||その市は一週間後に平穏に復した。
 trapper|n.|設陷阱捕獸者；設陷阱獵獸者；看門工|72|罠猟師；番人|h|||
 trepidation|n.|恐懼；驚惶；憂慮|72|恐怖；動揺；不安|h|||
 trustee|n.|受託人；理事|72|評議員；トラスティ|a|The Board of Trustees voted to divest the organization's overseas holdings.||理事会は海外の持ち株を放棄することを議決しました。
@@ -10402,7 +10402,7 @@ varnish|n.|清漆；虛飾；光澤的表面；粉飾|72|ニス；ワニス|b|||
 varsity|n.|大學運動代表隊；大學|72|大学の代表チーム；大学|h|He is on the varsity in tennis and in debating.||彼はテニスと弁論の代表チームの一員である。
 verification|n.|證實；查證；證明屬實|72|検証|a|Please activate your new password via email verification.||新パスワードはメール認証で有効化してください。
 visually|adv.|看；視力；視覺|72|視覚的に；見た目に|h|This nude poster appeals visually to the young.||このヌードのポスターには若者の視覚に訴えるものがある。
-vogue|n.|時尚；時髦；流行；流行的|72|ボーグ|b|His novel had a great vogue for a long time.|他的小說風行了一段長時間。|彼の小説は長い間たいへん人気があった。
+vogue|n.|時尚；時髦；流行；流行的|72|流行；人気|v|His novel had a great vogue for a long time.|他的小說風行了一段長時間。|彼の小説は長い間たいへん人気があった。
 vulnerability|n.|易受傷；易受責難；易受傷部位|72|傷つきやすさ；弱点；脆弱性|d|||
 wallpaper|n.|桌布；牆紙；貼牆紙|72|壁紙|a|I used a photo of my dog for my desktop wallpaper.||デスクトップの壁紙を犬の写真にした。
 whittle|v.|逐漸削薄；削整；削弱；削木頭|72|削る；少しずつ減らす|d|Lack of sleep whittled away her energy.||寝不足で彼女は元気がなかった。
@@ -10410,7 +10410,7 @@ wistful|adj.|渴望的；想望的|72|物欲しそう|b|He has a wistful look on
 woolly|adj.|羊毛制的；模糊的；似羊毛的|72|羊毛の；ぼんやりした；もこもこの|h|||
 yuan|n.|元|72|ユアン|b|Twenty dollars are one hundred and forty yuan.|二十美金等於一百四十元。|
 zealot|n.|熱心者；狂熱者；猶太教狂熱信徒|72|熱狂者；狂信者|d|||
-zenith|n.|頂點；最高點；頂峰|72|天心；天頂|b|His fame was at its zenith at that time.||当時の彼は絶頂にあった。
+zenith|n.|頂點；最高點；頂峰|72|天頂；絶頂；頂点|v|His fame was at its zenith at that time.||当時の彼は絶頂にあった。
 abhor|v.|憎惡；痛恨；迴避|72|大嫌いである；忌み嫌う|d|A cat abhors a vacuum.|貓很討厭吸塵器。|ネコは掃除機が大嫌い。
 abject|adj.|絕望無助的；可憐的；糟透的|72|惨めな；卑屈な；ひどい|h|||
 ablaze|adj.|著火的；閃亮的；激昂的；著火|72|燃え上がって；輝いて；興奮して|h|The sky was ablaze with fireworks.|天空被焰火點亮。|空は花火で光り輝いていた。
@@ -10441,15 +10441,15 @@ assertion|n.|斷言；主張|72|断言；アサーション|a|Nobody will believ
 assuage|v.|平息；緩和；減輕|72|和らげる；静める|h|The teacher assuaged some work to every child.||先生は子供たち全員にいくらかずつ仕事を与えた。
 atlas|n.|地圖集；圖表集|72|アトラス|a|Open your atlas of Japan to page 3.||日本地図の３ページを開けなさい。
 atop|adv.|在頂上；在...的頂上|72|…の上に；頂上に|h|There's a bird atop that tree.||あそこの木の上に鳥がいます。
-audacious|adj.|大膽的；魯莽的；膽大妄為的|72|野太い|b|||
+audacious|adj.|大膽的；魯莽的；膽大妄為的|72|大胆な；厚かましい|v|||
 balmy|adj.|芳香的；溫和的；止痛的|72|温和な；心地よい；香りのよい|h|Frequently clear and balmy weather deteriorates and it soon rains cats and dogs.||晴れた、さわやかな天気がくずれたと思うと、土砂降りになることがよくある。
-bam|n.|欺騙；哄騙|72|ドスン|b|||
+bam|n.|欺騙；哄騙|72|バタン；だます|v|||
 bandanna|n.|一各印花大手帕|72|バンダナ；大判の柄入りハンカチ|h|||
 barb|n.|倒鉤；裝倒鉤於|72|羽枝|b|||
 barter|n.|物物交換；實物交易；交換|72|バーター；物々交換|a|The colonists bartered with the natives for fur.||開拓者達は現地人たちから毛皮を物々交換で手に入れた。
 basil|n.|羅勒屬植物|72|バジル；バジリコ|b|I like to add basil to season my spaghetti sauce.||スパゲッティのソースにバジルを加えるのが好きです。
 baste|v.|用長針腳粗縫；潤以油脂；狠揍|72|仮縫いする；脂をかける；強く打つ|h|||
-bing|n.|堆；材料堆；微軟公司的搜尋引擎產品|72|山積み；材料の山；検索エンジン|h|Bing-bong ... bing-bong ... "Oh-oh. The class bell!"||キーンコーン・・・カーンコーン・・・「うわ、まずい。本鈴だ！」
+bing|n.|堆；材料堆；微軟公司的搜尋引擎產品|72|山積み；検索エンジン|v|Bing-bong ... bing-bong ... "Oh-oh. The class bell!"||キーンコーン・・・カーンコーン・・・「うわ、まずい。本鈴だ！」
 blackberry|n.|刺；黑莓|72|ブラックベリー；キイチゴ類|d|I wonder where Tom found these blackberries.||トムはこのブラックベリー、どこで見つけたのかしら。
 blemish|n.|汙點；缺點；弄髒；玷汙|72|疵瑕|b|Her beauty was blemished by the scar.||彼女の美貌もその傷で台無しになった。
 bolton|adj.|可用螺栓固定的|72|ボルトで固定できる|h|||
@@ -10489,7 +10489,7 @@ culturally|adv.|從文化角度；文化意義上；在人文學方面|72|文化
 dang|int.|討厭；見鬼|72|くそっ；ちくしょう|h|||
 daze|v.|使茫然；使發昏；使眼花繚亂；迷亂|72|茫然とさせる；目をくらませる；茫然|h|He was dazed by a blow to the head.||彼は頭を殴られてぼうっとなった。
 debatable|adj.|可爭論的；成問題的；未決定的|72|議論の余地のある；未決定の|h|||
-decadent|adj.|衰微的；頹廢的；頹廢派|72|デカダン|b|||
+decadent|adj.|衰微的；頹廢的；頹廢派|72|退廃的な；デカダン|v|||
 decorum|n.|端正；禮貌；合宜|72|礼節|b|You must not lack decorum dealing with your benefactors.||恩人に礼節を欠いてはなりませんよ。
 decrepit|adj.|衰老的|72|老いぼれた；ぼろぼろの|h|||
 defraud|v.|欺騙|72|だまし取る；詐取する|h|She defrauded me of my property.||彼女は私から財産を奪い取った。
@@ -10523,7 +10523,7 @@ edmonton|n.|埃德蒙頓|72|エドモントン|h|||
 elation|n.|得意洋洋；興高采烈|72|大喜び；高揚|h|Elation and despair ebbed and flowed in her.||彼女は得意になったと思ったら絶望したりした。
 emerson|n.|愛默生|72|エマソン|h|||
 engross|v.|用大字型書寫；獨佔；使全神貫注|72|夢中にさせる；独占する；大書する|h|Takeo is engrossed in solving mathematical problems.|建夫專心致志地解決數學問題。|タケオはその数学の問題を解くのに熱中している。
-enhancement|n.|提高；美化；增進|72|宣揚；エンハンスメント|b|This isn't a bug, it's an undocumented enhancement.||これは、バグじゃないんです。ドキュメント化されていない機能拡張なんです。
+enhancement|n.|提高；美化；增進|72|向上；増強；美化|v|This isn't a bug, it's an undocumented enhancement.||これは、バグじゃないんです。ドキュメント化されていない機能拡張なんです。
 enmity|n.|敵意；憎恨|72|反目；怨恨|b|By love alone is enmity allayed.||忍を行じてのみ、よく怨みを解くことを得る。
 enunciate|v.|明確地敘述；表明；發音|72|明確に述べる；発音する|h|||
 equestrian|adj.|騎術的；馬的；騎在馬背上的；騎手|72|乗馬の；騎手|h|Equestrian is the only mixed-gender Olympic event.||馬術競技は男女混合で行われる唯一のオリンピック競技です。
@@ -10575,7 +10575,7 @@ harry|v.|掠奪；使苦惱；強使前行|72|荒らす；悩ませる；追い�
 hash|n.|剁碎的食物；雜亂無章的的一大堆；雜燴；切碎|72|ハッシュ；ハヤシ|b|I have steak, eggs, hash browns, toast, and coffee.||ステーキに卵にハッシュブラウンにトースト、コーヒーよ。
 hearsay|n.|傳聞；謠言|72|伝聞；人づて|b|There are various expressions that indicate something is hearsay.||伝聞であることを示す表現はいろいろある。
 herein|adv.|在此處；如此|72|ここに；この中に|h|||
-hermit|n.|隱士；隱居者|72|仙；世捨て人|b|The hermit lived in a wooden hut.||隠者は木造の小屋に住んでいた。
+hermit|n.|隱士；隱居者|72|隠者；世捨て人|v|The hermit lived in a wooden hut.||隠者は木造の小屋に住んでいた。
 holden|v.|留下；抱住；拿住|72|保持する；抱える|h|||
 homily|n.|說教；訓誡|72|説教；訓戒|d|||
 honorary|adj.|榮譽的；無報酬的；道義上的|72|名誉の；無報酬の|h|The college bestowed an honorary degree on him.||大学は彼に名誉学位を与えた。
@@ -10614,22 +10614,22 @@ kris|n.|波壯刃短劍|72|クリス；波状の刃の短剣|h|||
 leftist|n.|左翼的人；左派；左派的|72|ブサヨ|b|||
 legitimacy|n.|合法；正統；正當|72|合法性；正統性；正当性|d|||
 legume|n.|豆類；豆莢|72|豆|a|Some legumes, like chickpeas and green beans, cause flatulence but are excellent foods.|鷹嘴豆和青豆等豆類雖然會引起脹氣，但卻是極佳的美食。|
-lenient|adj.|寬大的；溫和的；慈悲為懷的|72|寛|b|He tended to be lenient toward the children.||彼はともすれば子どもに甘かった。
+lenient|adj.|寬大的；溫和的；慈悲為懷的|72|寛大な；甘い|v|He tended to be lenient toward the children.||彼はともすれば子どもに甘かった。
 liberally|adv.|寬大地；大方地；自由地|72|気前よく；寛大に；自由に|d|||
 linguistics|n.|語言學|72|言語学|d|He is absorbed in the study of linguistics.|他沉迷於語言學的研究。|彼は言語学の研究に没頭している。
 loath|adj.|不情願的；厭惡的|72|嫌がる；気が進まない|h|||
 loll|v.|懶散地閒蕩；垂下頭；伸舌；垂|72|だらりと座る；ぶらつく；舌を垂らす；垂れる|h|||
-loneliness|n.|寂寞；孤獨；清靜|72|寂寥；ロンリネス|b|Loneliness and being alone are not the same thing.|一個人並不等於孤獨。|
+loneliness|n.|寂寞；孤獨；清靜|72|孤独；寂しさ|v|Loneliness and being alone are not the same thing.|一個人並不等於孤獨。|
 luminosity|n.|光明；光輝；光度|72|光輝；明るさ；光度|h|||
 mae|adj.|更多|72|もっと多く|h|||
-magnate|n.|大官；巨頭|72|大物；大立者；大富豪|h|||
+magnate|n.|大官；巨頭|72|大物；実業家；大立者|v|||
 maim|v.|使殘廢；使不能工作；使傷殘|72|不具にする；使えなくする；傷つける|h|||
 malevolent|adj.|有惡意的；壞心腸的|72|悪意のある；意地の悪い|h|||
 mallet|n.|木槌；球棍；棒|72|杵；小槌|b|When told to bring the chisel, also bring the mallet.||鑿と言えば槌。
 meddle|v.|干涉；干預；擅自摸弄|72|干渉する；余計な世話を焼く；いじくる|h|Don't meddle in his affairs.|別摻和他的事。|彼に干渉するな。
 merciless|adj.|無慈悲心的；殘忍的|72|無慈悲|b|||
 mirage|n.|海市蜃樓；幻景；妄想|72|ミラージュ；海市|a|A mirage sometimes shows up in Toyama Bay.||富山湾にはときどき蜃気楼が現われます。
-misconduct|v.|辦錯；使行為不端；瀆職|72|不行跡|b|Jim got dismissed for his misconduct in office.||ジムは職権乱用で免職になった。
+misconduct|v.|辦錯；使行為不端；瀆職|72|不品行；不正行為；管理ミス|v|Jim got dismissed for his misconduct in office.||ジムは職権乱用で免職になった。
 misdeed|n.|罪行；犯罪|72|悪行|b|||
 misrepresent|v.|不如實地敘述；不稱職地代表|72|誤って伝える；不正確に述べる；不当に代表する|h|||
 moat|n.|壕溝；護城河；將...圍以壕溝|72|堀；壕|a|The river outside of the castle is called a moat.|城堡外面的河叫做護城河。|
@@ -10656,19 +10656,19 @@ ow|int.|啊唷|72|あいたっ；ああ|d|Ow, ow, ow! Don't bite my ear!||痛い
 pancreas|n.|胰腺|73|膵；膵臓|b|||
 patronizing|adj.|屈尊俯就的；顯示優越感的|73|恩着せがましい；見下した|d|Is this patronizing or meddling in someone else's business?|「好為人師」還是「好管閒事」?|
 paucity|n.|少數；少量；缺乏|73|少なさ；欠乏|h|||
-peacefully|adv.|平靜地|73|すやすや|a|She passed away peacefully in her sleep.|她在睡眠中安詳地去世了。|彼女は就寝中安らかに永眠した。
+peacefully|adv.|平靜地|73|平和に；穏やかに；静かに|v|She passed away peacefully in her sleep.|她在睡眠中安詳地去世了。|彼女は就寝中安らかに永眠した。
 penicillin|n.|盤尼西林；青黴素|73|ペニシリン|a|Penicillin has contributed much to the welfare of mankind.||ペニシリンは人類の福祉に大いに貢献した。
 perplexing|adj.|令人費解的；令人困惑的|73|当惑させる；困惑させる|h|It's certainly a perplexing question.||確かに難問だね。
 pester|v.|不斷打擾；糾纏|73|うるさくせがむ；悩ませる|h|Tom pestered his mother for money.||トムはお母さんにお金をねだった。
 phobia|n.|恐怖病；恐懼症；懼怕|73|恐怖症|a|He has his own collection of phobias.||彼にもそれなりに恐いものがある。
 photosynthesis|n.|光合作用|73|光合成|b|||
-pique|n.|賭氣；憤怒；不快；傷害...自尊心|73|ピケ|a|||
+pique|n.|賭氣；憤怒；不快；傷害...自尊心|73|立腹；不快感；刺激する|v|||
 pivot|n.|樞軸；支點；旋轉運動；樞軸的|73|要；ピボット|a|||
 placard|n.|公告；佈告；小牌；公佈|73|プラカード|a|||
 planetarium|n.|行星儀；天文館；天象圖|73|プラネタリウム|a|||
 poly|n.|理工學院；工藝高等專科學校|73|工科大学；総合技術専門学校|h|||
 pompous|adj.|愛炫耀的；虛誇的；盛大的|73|尊大な；大げさな；華やかな|h|It's much too pompous for such a trivial thing.||たいしたことではないのに必要以上に物々しい言い方です。
-poop|n.|艉樓；船尾；訊息；使疲倦|73|うんこ|a|In my world everyone’s a pony and they all eat rainbows and poop butterflies.|在我的世界上，人人都是小馬駒，他們吃了彩虹之後就會啪地一下拉出蝴蝶。|私の世界では誰もがポニーで、虹を食べて蝶のうんこをしている。
+poop|n.|艉樓；船尾；訊息；使疲倦|73|うんち；船尾；情報|v|In my world everyone’s a pony and they all eat rainbows and poop butterflies.|在我的世界上，人人都是小馬駒，他們吃了彩虹之後就會啪地一下拉出蝴蝶。|私の世界では誰もがポニーで、虹を食べて蝶のうんこをしている。
 pornography|n.|色情描寫；黃色書刊；色情畫|73|ポルノ；ポルノグラフィー|a|||
 posterity|n.|子孫；後裔|73|後世；後代|a|We must hand down our craft to posterity.||我々は技術を後世に伝えなければならない。
 postgraduate|adj.|大學畢業後的；大學研究院的；研究生|73|大学卒業後の；大学院の；大学院生|h|||
@@ -10720,7 +10720,7 @@ sporadically|adv.|偶發地；零星地|73|散発的に；ところどころに|
 spotless|adj.|無髒汙的；無缺點的；無可挑剔的|73|しみひとつない；欠点のない；完璧な|h|||
 squabble|v.|爭吵；口角|73|口論する；言い争い|h|||
 steadfast|adj.|堅定的；踏實的；固定的|73|確固たる；ひたむきな；不変の|h|He remained steadfast to his principles.||彼はずっと自分の主義に忠実であった。
-stilt|n.|高蹺；支柱；腳柱|73|高下駄；支柱；脚柱|h|||
+stilt|n.|高蹺；支柱；腳柱|73|竹馬；支柱|v|||
 storytelling|n.|說故事；說謊話|73|ストーリーテリング；話芸|b|||
 stupidity|n.|愚蠢；糊塗事|73|愚かさ；愚行|h|You should be ashamed of your stupidity.|你應該為你的愚蠢感到羞恥。|君は、自分の愚かさを恥ずべきだ。
 subsist|v.|供給食物；供養；生存；存在|73|生活する；生存する；存在する|h|The settlers subsisted on bread and water.||入植者たちはパンと水でかろうじて生き延びた。
@@ -10843,7 +10843,7 @@ dentistry|n.|牙科|73|歯科；歯学|a|||
 derelict|adj.|被拋棄了的；無主的；翫忽職守的；遺棄物|73|放棄された；無人の；怠慢な；遺棄物|h|||
 devious|adj.|偏僻的；迂迴的|73|回りくどい；不正な；遠回りの|h|||
 dexter|adj.|右側的；右邊的；幸運的|73|右の；右側の；幸運な|h|||
-diction|n.|措辭；發音；用語|73|語法|b|||
+diction|n.|措辭；發音；用語|73|言葉遣い；発音；措辞|v|||
 dilate|v.|擴大；詳述；膨脹；使膨脹|73|拡張する；詳しく述べる；膨張させる|h|||
 dilution|n.|沖淡；淡度；稀度|73|水増し；希釈|a|The stock got creamed when they got wind of the dilution.||水増し決算の噂で株価は上がりませんでした。
 dimensional|adj.|...維的|73|次元の；…次元の|h|||
@@ -10884,7 +10884,7 @@ fastidious|adj.|難取悅的；挑剔的；苛求的|73|好みがうるさい；
 fermentation|n.|發酵|73|発酵|a|What's the difference between fermentation and putrescence?||発酵と腐敗の違いは何ですか？
 fishy|adj.|魚似的；多魚的；腥臭的|73|魚のような；疑わしい；生臭い|d|Her mother must have smelled something fishy.||母は何か怪しいと感づいたに違いない。
 flabby|adj.|軟弱的；沒氣力的；不穩的|73|ぐにゃぐにゃ；タプタプ|b|||
-flawless|adj.|無瑕疵的；無缺點的|73|無欠|b|Nothing in the world is flawless and perfect.|世界上沒有十全十美的東西。|
+flawless|adj.|無瑕疵的；無缺點的|73|完璧な；傷のない|v|Nothing in the world is flawless and perfect.|世界上沒有十全十美的東西。|
 floodplain|n.|氾濫平原|73|氾濫原|h|||
 flout|v.|嘲笑；愚弄；表示輕蔑|73|無視する；あざ笑う；軽蔑する|h|He flouted his mother's advice.||彼は母の助言を馬鹿にした。
 forefather|n.|祖先|73|先祖；祖先|d|Do you know your forefather?||あなたの祖先をご存知ですか。
@@ -10897,7 +10897,7 @@ fragmentary|adj.|碎片的；碎屑的；片斷的|73|断片的な；散らば�
 frankfurt|n.|牛肉香腸；豬牛肉混合香腸|73|フランクフルト|a|It was named after Frankfurt, a German city.||ドイツの都市、フランクフルトにちなんで名づけられました。
 fuzz|n.|細毛；絨毛；警察；作絨毛狀飛散|73|ファズ|b|||
 gamer|n.|玩家；博弈者|73|ゲーマー|b|It's hard playing with gamers who rage a lot.||ゲームで怒り狂う人と一緒にプレイすると大変です。
-geek|n.|做低階滑稽表演的人|73|ギーク|b|Tatoeba: As if the geek invasion wasn't enough.|Tatoeba:好像怪客入侵還不夠似的。|
+geek|n.|做低階滑稽表演的人|73|オタク；ギーク|v|Tatoeba: As if the geek invasion wasn't enough.|Tatoeba:好像怪客入侵還不夠似的。|
 gentry|n.|貴族們|73|上流階級；紳士階級|h|||
 geo|n.|長狹潮道；海灣|73|潮流の狭い入り江；湾|h|||
 gist|n.|要點；要旨；依據|73|要点|a|I got the gist of what he was saying.||彼が言っていることの要点はわかった。
@@ -10953,7 +10953,7 @@ lawful|adj.|法律許可的；守法的；合法的|74|合法の；法にかな�
 legible|adj.|清晰的；易讀的|74|読みやすい；判読できる|d|That's a squiggle, not legible handwriting.||そのミミズが這ったような字、読み難いんだけど。
 lithe|adj.|柔軟的|74|しなやかな|h|Love me lithe, love me long.|不求情意綿綿，但求天長地久。|細く長く愛して。
 lookout|n.|注意；前途；瞭望臺|74|見張り；展望台；見通し|d|The soldier kept a sharp lookout in the darkness.|這名士兵在黑暗中保持戒備。|兵隊は暗闇で四方に目を配った。
-lotus|n.|蓮；蓮花；荷花|74|ロータス|a|The temples on Mars are decorated with lotus flowers.|火星上的神殿飾有蓮花。|火星上にある神殿には蓮の花が飾ってあります。
+lotus|n.|蓮；蓮花；荷花|74|ハス；蓮|v|The temples on Mars are decorated with lotus flowers.|火星上的神殿飾有蓮花。|火星上にある神殿には蓮の花が飾ってあります。
 lumbering|n.|伐木；伐木業；外形笨重的；笨拙的|74|木材の伐採；木材業；動きの鈍い|h|||
 luna|n.|盧娜；月|74|ルナ|b|Tom and Mary went to the Luna Park.||トムとメアリーはルナパークへ行きました。
 lustrous|adj.|有光澤的；光輝的|74|光沢のある；輝かしい|h|The crown is adorned with dozens of divinely lustrous gemstones.|王冠上鑲嵌著數十顆光彩奪目的寶石。|
@@ -10963,7 +10963,7 @@ magma|n.|岩漿；糊劑；乳漿劑|74|マグマ|a|||
 malleable|adj.|有延展性的；可鍛的|74|展性のある；順応性のある|h|||
 mammalian|n.|哺乳動物；哺乳動物的|74|哺乳類；哺乳類の|d|||
 mangle|v.|亂砍；損壞；軋布；軋布機|74|ずたずたにする；壊す；ローラーで伸ばす；脱水機|h|The bike was mangled in its collision with the truck.||自転車はトラックに衝突してめちゃめちゃになった。
-mannerism|n.|矯揉造作；習性|74|マニエリスム|b|||
+mannerism|n.|矯揉造作；習性|74|癖；マンネリズム；マニエリスム|v|||
 mascot|n.|福神；吉祥的東西|74|マスコット|a|This dog is our regimental mascot.||この犬は我が連隊のマスコットだ。
 memorise|v.|記住；熟記；記錄|74|覚える；暗記する；記録する|d|How many grade four kanji have you memorised?||４級の漢字をどれだけ覚えていますか。
 menial|adj.|適合僕人做的；卑微的；僕人|74|下働きの；卑しい；召使い|d|||
@@ -10971,7 +10971,7 @@ mercantile|adj.|商業的；商人的|74|商業の；商人の|h|||
 mete|v.|量；測量；分配；邊界|74|量る；分配する；境界|h|||
 meth|n.|甲安菲他明|74|メタンフェタミン|h|||
 microbiology|n.|微生物學|74|微生物学|d|It covers everything from the fundamentals of microbiology to the latest news.||微生物学の基本から最新の情報までを網羅する。
-midfield|n.|球場中央部分；中場的|74|中団|b|||
+midfield|n.|球場中央部分；中場的|74|中盤；ミッドフィールド|v|||
 mildew|n.|黴；發黴；生黴|74|カビ；カビが生える|d|||
 mimetic|adj.|模仿的；摹擬的；好模仿的|74|模倣の；擬態の；まねの上手な|h|||
 monochrome|n.|單色畫；單色；黑白；單色的|74|モノクロ；モノクローム|a|A monochrome print is cheaper than a colour print.||モノクロ印刷よりカラー印刷の方が高い。
@@ -10982,7 +10982,7 @@ motherfucker|n.|不要臉的傢伙；混賬東西|74|マザーファッカー|b|
 mound|n.|土墩；堤；小山；築堤|74|塚；マウンド|a|The Takamatsuzuka burial mound is located in Asukamura, Nara prefecture.||高松塚古墳は、奈良県明日香村に存在する古墳。
 muddle|v.|混合；使微醉；使咬字不清晰；胡亂對付|74|混乱させる；ごちゃまぜにする；ほろ酔いにさせる|h|The spirits muddled my brain.||私は酒で頭がぼんやりしていました。
 naught|n.|無；零；無價值的；無用的|74|無；ゼロ；無価値の|d|Beauty without bounty avails naught.|沒有仁愛的美麗毫無用處|
-negation|n.|否定；反面；不存在|74|打ち消し|a|||
+negation|n.|否定；反面；不存在|74|否定；打ち消し|v|||
 negotiable|adj.|可磋商的；可轉讓的；可通行的|74|交渉の余地がある；譲渡可能な；通行可能な|h|If you want to learn English, studying English every day is non-negotiable.||英語ができるようになりたいなら、毎日英語の勉強をするしかない。
 nettle|n.|蕁麻；以蕁麻刺；激怒|74|イラクサ；いらだたせる|h|It is better to be stung by a nettle than pricked by a rose.||バラのとげで刺されるよりは、いらくさのとげで刺された方がましだ。
 neurosis|n.|神經症；神經機能病|74|ノイローゼ|a|||
@@ -10992,7 +10992,7 @@ orator|n.|演說者；演講者；雄辯家|74|演説者；雄弁家|d|||
 oscillate|v.|振動；彷徨；猶豫；使振動|74|振動する；揺れ動く；迷う|h|||
 ostensible|adj.|表面的；假裝的；看得出的|74|表向きの；見せかけの|h|||
 ottoman|adj.|土耳其人的；土耳其民族的；土耳其帝國的|74|オットマン|b|Constantinople fell to the hands of the Ottoman Turks in 1453.||1453年、コンスタンティノープルはオスマン帝国の手に渡った。
-overbearing|adj.|傲慢的；驕傲自大的；蠻橫的|74|強引；腰高|a|I feel an overbearing emptiness inside of me.||自分が空っぽすぎて辛い。
+overbearing|adj.|傲慢的；驕傲自大的；蠻橫的|74|横柄な；高圧的な|v|I feel an overbearing emptiness inside of me.||自分が空っぽすぎて辛い。
 pacify|v.|使平靜；安慰；綏靖|74|なだめる；平和にする；鎮圧する|d|||
 paddy|n.|稻；谷；愛爾蘭人|74|パディ|b|Hey, you wanna go check out the terraced rice paddies?||ねぇ、棚田を見に行ってみない？
 pathos|n.|傷感力；感傷；悲悵|74|哀愁；ペーソス|a|It feels like they went off like that for pathos.||同情を誘う作戦に出たみたいだ。
@@ -11129,7 +11129,7 @@ unspoiled|adj.|未損壞的；未寵壞的|74|損なわれていない；甘や�
 untapped|adj.|塞子未開的；未利用的|74|未利用の；手つかずの|h|||
 upkeep|n.|維持；維修費|74|維持；維持費；保守|h|The upkeep alone is no small cost.||維持費もバカにならない。
 uproot|v.|連根拔起；根除|74|根こそぎにする；根絶する；移住させる|h|||
-uv||紫外的|74|紫外線の|h|||
+uv||紫外的|74|紫外線の；UV|v|||
 vale|n.|谷；溪谷；告別；再見|74|谷；渓谷；別れ|h|||
 vastly|adv.|廣大地；許多；巨大|74|大いに；非常に；広大に|h|These two are vastly different from each other.||この２つには、雲泥の差がある。
 vastness|n.|巨大；廣大；廣漠|74|広大さ；莫大さ|h|||
@@ -11137,7 +11137,7 @@ vaulted|adj.|有拱頂的；圓頂的；拱形的|74|アーチ形天井の；ド
 vehement|adj.|熱烈的；激烈的|74|激しい；熱烈な；猛烈な|d|||
 venerate|v.|尊敬；崇敬；崇拜|74|敬う；崇拝する|h|||
 venomous|adj.|有毒的；惡毒的；分泌毒液的|74|有毒な；悪意に満ちた|h|A tongue is the most venomous thing of all.||舌の毒にまさる毒はない。
-veracity|n.|說話老實；老實；誠實|74|誠実さ；正直；真実性|h|I doubt the veracity of his statement.||彼の供述の真実性は疑わしいと思う。
+veracity|n.|說話老實；老實；誠實|74|真実性；誠実さ|v|I doubt the veracity of his statement.||彼の供述の真実性は疑わしいと思う。
 vertebrate|n.|脊椎動物；有椎骨的；有脊椎的|74|脊椎動物|b|||
 vulgarity|n.|粗俗；粗鄙；粗話|74|下卑|b|||
 walls|n.|牆壁；牆體|74|壁；城壁|h|He painted all the walls green.|他把所有的牆壁漆成了綠色。|彼は壁を全て緑色に塗った。
@@ -11146,14 +11146,14 @@ whir|n.|呼呼聲；颼颼聲；作呼呼聲；發颼颼聲|74|ブーンとい�
 whit|n.|些微；一點點|74|わずか；少し|h|||
 wiki|n.|維基百科|74|ウィキ|b|||
 wills|n.|遺囑；願望|74|遺言；意志；望み|h|Our bodies are our gardens, to which our wills are gardeners.||我々の肉体は我々の庭園であり、我々の意志はこの庭園に対する庭師である。
-willy|n.|陰莖；陽物；柳樹|74|ポコチン|b|Mummy, my willy's all hard.|馬麻，我的雞雞硬到不行。|
+willy|n.|陰莖；陽物；柳樹|74|おちんちん；ヤナギ|v|Mummy, my willy's all hard.|馬麻，我的雞雞硬到不行。|
 windswept|adj.|風颳的；被風吹掃的；暴露在風中的|74|風に吹きさらされた；風の吹き抜ける|h|||
 wisely|adv.|聰明地；精明地|74|賢明に；賢く|h|So use it wisely and don't waste it.||無駄使いしないようにね。計画的に使ってね。
 womb|n.|子宮；發源地|74|子宮；母胎|a|Babies grow up inside the amniotic fluid in the womb.||赤ちゃんは子宮内の羊水で発育します。
 yogurt|n.|酸乳酪|74|ヨーグルト|a|There's yogurt in the refrigerator.|冰箱裡有優格。|冷蔵庫にヨーグルトが入ってるよ。
 abdominal|adj.|腹部的；有腹鰭的|74|腹部の；腹側の|h|That exercise is good for the abdominal muscles.||その運動は腹筋に良い。
 abridge|v.|縮短；刪節；減少|74|短くする；要約する；削減する|h|This book is abridged from the original.||この本は原書の要約版です。
-abruptly|adv.|突然地；唐突地|74|いきなり；むっくり|a|His untidy room announced that he had abruptly departed.|從他凌亂的房間可以看出他離開的時候很著急。|彼の部屋の散らかりようで彼があわてて出かけたことがわかった。
+abruptly|adv.|突然地；唐突地|74|突然に；ぶっきらぼうに|v|His untidy room announced that he had abruptly departed.|從他凌亂的房間可以看出他離開的時候很著急。|彼の部屋の散らかりようで彼があわてて出かけたことがわかった。
 academician|n.|學會會員；院士；學究|74|学者；会員；アカデミー会員|h|||
 accommodating|adj.|與人方便的；肯通融的|74|親切な；気さくな；協力的な|h|||
 acrimonious|adj.|尖刻的；譏諷的；激烈的|74|辛辣な；とげとげしい；激しい|h|||
@@ -11170,7 +11170,7 @@ assuredly|adv.|確實地；無疑地；確信地|74|確かに；間違いなく�
 auger|n.|螺旋鑽；木螺鑽|74|オーガ|b|||
 augusta|n.|奧古斯塔|74|オーガスタ|h|I live at 337 Augusta Street.||アウグスタ通りの３３７番地に住んでいます。
 averse|adj.|不願意的；反對的|74|嫌がって；反対の；気が進まない|h|Some of my friends are strongly averse to AI.|我有一些朋友很反感AI。|
-azure|n.|天藍色；碧空；蔚藍的|74|アジュール|b|||
+azure|n.|天藍色；碧空；蔚藍的|74|空色；紺碧；青空|v|||
 badger|n.|獾；獾皮毛；糾纏|74|せがむ；猯|a|Even a rabbit, if badgered into a corner, will fight back.||ウサギでさえ、いじめられて片隅に追いつめられると、刃向かってくるだろう。
 baldness|n.|光禿；率直；枯燥|74|禿|a|There's no cure for baldness.||脱毛症に治療法はない。
 barker|n.|招徠顧客的人；剝樹皮者|74|呼び込み|b|||
@@ -11182,7 +11182,7 @@ begrudge|v.|嫉妒；羨慕；勉強允給|74|うらやむ；惜しむ；いや�
 bellows|n.|風箱|74|蛇腹；ベローズ|b|The lion bellows out a roar.||ライオンはとどろくようなうなり声を上げる。
 bespeak|v.|預約；訂；表示|74|予約する；注文する；示す|h|||
 bigoted|adj.|盲從的；固執己見的；執迷的|74|頑迷|b|||
-billed|v.|安排|74|手配された；告知された|h|The restaurant billed me 250,000 yen for the party.||レストランからパーティーの費用２５万円の請求があった。
+billed|v.|安排|74|宣伝された；請求された|v|The restaurant billed me 250,000 yen for the party.||レストランからパーティーの費用２５万円の請求があった。
 billing|n.|節目次序；廣告|74|出演順；広告；請求書|h|He gave us an explanation about the new billing system.||彼は新しい請求方法について私たちに説明してくれた。
 blackout|n.|燈火管制；暫時的意識喪失；燈火熄滅|74|暗転|b|Put out the candle. The blackout is over.||ろうそくを消して下さい。停電は終わりました。
 blitz|n.|閃電戰；以閃電戰攻擊|74|ブリッツ|b|||
@@ -11205,7 +11205,7 @@ castigate|v.|懲罰；苛評；修訂|74|厳しく非難する；叱責する；
 cataclysm|n.|大洪水；地震；大變動|74|大変動；大洪水；天変地異|d|||
 catalyze|v.|催化；促進；刺激|74|触媒作用をする；促進する；刺激する|h|Therefore, they cannot catalyze deregulation without "external pressure".||今後は、新事業創造による経済の活性化という観点から、国民のコンセンサスに基づいた早急な内圧型規制緩和が推進されなければなるまい。
 catastrophic|adj.|悲慘的；災難的|74|壊滅的な；破滅的な；悲惨な|h|||
-catching|adj.|易傳染的；有魅力的；吸引人的|74|キャッチング|b|We were able to start catching fish soon.||私たちはすぐに魚をとりはじめることができました。
+catching|adj.|易傳染的；有魅力的；吸引人的|74|伝染性の；魅力的な|v|We were able to start catching fish soon.||私たちはすぐに魚をとりはじめることができました。
 cellist|n.|大提琴演奏家|74|チェリスト|b|||
 cellulose|n.|纖維素|74|セルロース；繊維素|b|||
 centenary|n.|一百年；一百年的|74|百年；百周年；百年の|h|We celebrated the centenary anniversary day.||学校の創立百年を祝った。
@@ -11219,14 +11219,14 @@ circa|prep.|大約在|74|おおよそ；およそ|h|||
 circuitous|adj.|迂迴的；間接的；繞行的|74|回りくどい|b|||
 circumspect|adj.|細心的；慎重的|74|慎重な；用心深い|h|Next time I'll be more circumspect.||次はもっと慎重にやります。
 citadel|n.|城堡；避難處|74|城塞；拠点；避難所|d|||
-clad|v.|在金屬外包上另一種金屬；包層金屬的|74|クラッド|b|A snow-clad Mt. Fuji is fabulously beautiful.||富士山の雪化粧がすばらしくきれいだね。
+clad|v.|在金屬外包上另一種金屬；包層金屬的|74|覆われた；着た|v|A snow-clad Mt. Fuji is fabulously beautiful.||富士山の雪化粧がすばらしくきれいだね。
 cleave|v.|劈開；分開|74|切り分ける；分割する；くっつく|h|||
 cleft|n.|裂縫；裂口；劈開的|74|割れ目；裂け目；割れた|d|||
 coeducation|n.|男女同校|74|共学|a|||
 cogent|adj.|使人首肯的；使人信服的；中肯切題的|74|説得力のある；的確な；納得させる|h|||
 combustible|adj.|易燃的；燃燒性的；易動激情的；易燃物|74|燃えやすい；興奮しやすい；可燃物|h|||
 concave|adj.|凹的|74|凹|b|||
-concurrence|n.|贊同；意見一致；協力|74|併発|a|||
+concurrence|n.|贊同；意見一致；協力|74|同意；一致；同時発生|v|||
 conditional|adj.|有條件的；有前提的|74|条件付き|a|There are four main types of conditional clauses.|條件狀語從句包含四種主要型別。|
 confining|adj.|受限的；限制的；拘束的|74|限定的な；制限する；閉じ込める|h|He continues always being aggressive towards society, rather than repelling society and confining himself.||彼は社会を忌避して自分の中に閉じこもるというよりは、社会に対して常に攻撃的な態度をとり続けた。
 consecrate|v.|把...供祭祀用；奉獻；使神聖；被獻給神的|74|奉納する；神聖にする；捧げられた|h|She consecrated her life to the work.||彼女はその仕事に一生を捧げた。
@@ -11356,7 +11356,7 @@ mackenzie|n.|麥肯齊河；麥肯齊區；麥肯齊氏|75|マッケンジー川
 magnanimous|adj.|寬宏大量的；有雅量的|75|寛仁|b|||
 magnificence|n.|富麗堂皇；華麗；宏大|75|壮麗さ；華麗さ；壮大さ|h|||
 manacle|n.|手銬；束縛；給...上手銬|75|手錠；束縛；手錠をかける|h|||
-manifold|n.|影印本；多種；多種的；有許多部分的|75|マニホールド|b|The novel gives a manifold picture of human life.||その小説は人生を多面的に描いている。
+manifold|n.|影印本；多種；多種的；有許多部分的|75|多様な；多種多様な；マニホールド|v|The novel gives a manifold picture of human life.||その小説は人生を多面的に描いている。
 matrimony|n.|結婚；婚姻生活；婚禮|75|結婚；婚姻生活|h|The critical period in matrimony is breakfast time.||結婚の危険な時期は朝食の時である。
 mechanized|adj.|機械化的；呆板的|75|機械化された；機械的な|h|||
 melodious|adj.|旋律美妙的；旋律優美的；有樂曲的|75|メロディアス|b|The song of this bird is very melodious.|這隻鳥唱的歌十分動聽。|
@@ -11382,7 +11382,7 @@ obviate|v.|除去；排除；使成為不必要|75|取り除く；不要にす�
 offhand|adj.|即時的；即席的；無準備的；即時地|75|即席の；準備のない；その場で|h|I am unable to say anything offhand.||いますぐは何も申し上げられません。
 olfactory|adj.|嗅覺的；味道的；嗅覺器官；嗅神經|75|嗅覚の；におい|h|||
 opulence|n.|富裕；豐富；大量|75|富裕；豊富；大量|h|||
-ornamentation|n.|裝飾；裝飾術；裝飾品|75|修飾|b|He is singing with a lot of ornamentation.||彼は小節を利かして歌っています。
+ornamentation|n.|裝飾；裝飾術；裝飾品|75|装飾；飾り|v|He is singing with a lot of ornamentation.||彼は小節を利かして歌っています。
 ostentation|n.|虛飾；虛有其表；賣弄|75|虚飾|b|||
 outraged|adj.|義憤填膺的；憤慨的；氣憤的|75|憤慨した；激怒した|h|The outraged employee resigned at once.||かんかんに怒った社員は、即刻会社を辞めた。
 outwit|v.|瞞騙；以智取勝|75|出し抜く|b|The thief outwitted the police and got away with his loot.||泥棒は警官の裏をかいて盗品を持って逃げた。
@@ -11411,7 +11411,7 @@ poppy|n.|罌粟|75|ポピー|b|Our dog is called "Poppy".||うちのわんこ「
 postmaster|n.|郵政局長|75|郵便局長|h|||
 postscript|n.|附言|75|追伸；後記|a|||
 presage|n.|預感；預兆；預知；預示|75|前兆；予感；予告する|d|||
-priceless|adj.|無價的；極貴重的|75|無価|b|The priceless china shattered into fragments.||とても高価な陶器がめちゃめちゃに割れてしまった。
+priceless|adj.|無價的；極貴重的|75|極めて貴重な；値をつけられない|v|The priceless china shattered into fragments.||とても高価な陶器がめちゃめちゃに割れてしまった。
 profuse|adj.|很多的；豐富的；浪費的|75|豊富な；過剰な；惜しみない|h|He was profuse in his praise of his teacher.||彼は彼の先生を誉めちぎった。
 progenitor|n.|祖先；先輩；原本|75|祖先；先駆者；原型|h|||
 prohibitively|adv.|禁止；起阻止作用；抑制|75|法外に；禁じるほど高く|h|||
@@ -11446,7 +11446,7 @@ singe|v.|燒焦；烤焦|75|焦がす；あぶる|d|||
 skimp|v.|少給；剋扣；吝嗇|75|けちけちする；節約しすぎる；手を抜く|h|We skimped on the hotel fees and slept outside.||宿代をケチって野宿しました。
 slacken|v.|使鬆弛；放鬆；放慢；變鬆弛|75|たるむ|a|||
 slag|n.|熔渣；礦渣；無足輕重的人；使變成熔渣|75|鍰；溶滓|b|Stop slagging off my brilliant idea, it's not naive at all!||俺のとびきりのアイデアをこき下ろすのはやめてくれ。見通しが甘いとかそんなことないよ。
-sloop|n.|單桅帆船|75|単マストの帆船；スループ|d|||
+sloop|n.|單桅帆船|75|スループ型帆船|v|||
 societal|adj.|社會的|75|社会の；社会的な|h|||
 solicitous|adj.|關心的；渴望的；熱切期望的|75|気遣う；熱心な；心配する|h|||
 soundproof|adj.|隔音的|75|防音の；防音する|h|It's a guest room equipped with soundproofing with an emphasis on privacy.||防音設備が施されプライベートを重視したゲストルームです。
@@ -11495,7 +11495,7 @@ unnamed|adj.|未命名的；沒有名字的；未提及的|75|名前のない；
 unobstructed|adj.|沒有障礙的；沒有阻擋的|75|妨げのない；障害のない；見通しのよい|h|||
 unreal|adj.|假的；虛構的；不真實的|75|非現実的な；虚構の；本物ではない|h|My crime seems unreal to me.||私の罪は幻のように思える。
 unseemly|adj.|不合適的；不適宜的；不得體的|75|不適切な；品位を欠く；みっともない|d|||
-unselfish|adj.|不自私的；無我的；不謀私利的|75|無欲；無私|a|||
+unselfish|adj.|不自私的；無我的；不謀私利的|75|無私の；利他的な|v|||
 unsocial|adj.|非社會的；厭惡社交的；不喜交際的|75|非社交的な；社交を嫌う；反社会的な|h|||
 unsophisticated|adj.|不懂世故的；單純的；不精細的|75|朴訥|b|||
 untamed|adj.|未經馴服的；不能抑制的；難控馭的|75|飼いならされていない；抑えがたい；手に負えない|h|||
@@ -11531,7 +11531,7 @@ aforementioned|adj.|上述的；前述的|75|くだん；前述|b|||
 agencies|n.|代理；代理處|75|代理店；機関；仲介|h|Real estate agencies have many independent brokers.||不動産業者には独立した仲買人がたくさんいる。
 aglow|adj.|發光的；通紅的；發光地|75|輝いて；ほてって；明るく|h|The heater is aglow with a beautiful orange color.|加熱器發出美麗的橙色光芒。|
 ala|n.|翼；翅|75|翼；翼状の部分|h|||
-alternation|n.|互動；輪流；間隔|75|互生|b|||
+alternation|n.|互動；輪流；間隔|75|交互；交代；交替|v|||
 animals|n.|動物；動物世界；牲畜|75|動物；動物界；家畜|h|Elephants are the largest land animals alive today.|大象是如今現存的陸生動物裡最大的。|今日、象は現存する最も大きい陸生動物である。
 annotate|v.|作註解；註釋|75|注する|b|||
 antibiotics|n.|抗生學；抗生素|75|抗生物質；抗生剤|h|The doctor dosed the girl with antibiotics.||医者は少女に抗生物質を服用させた。
@@ -11542,7 +11542,7 @@ aquamarine|n.|海藍寶石；淺綠色|75|アクアマリン|b|||
 archives|n.|檔案；檔案室|75|アーカイブス|b|||
 areas|n.|區域；領域；面積|75|地域；分野；面積|h|More and more people are moving to urban areas.|越來越多的人遷往市區。|ますます多くの人々が都会に移ってきている。
 armory|n.|紋章；紋章學；軍械庫|75|武庫；兵器廠|b|||
-armour|n.|甲冑；裝甲；潛水服|75|機甲|b|Kendo is a Japanese martial art which uses bamboo swords and protective armour.||剣道は竹刀と防具を使って行う日本の武道です。
+armour|n.|甲冑；裝甲；潛水服|75|甲冑；鎧；装甲|v|Kendo is a Japanese martial art which uses bamboo swords and protective armour.||剣道は竹刀と防具を使って行う日本の武道です。
 arraign|v.|提訊；傳訊；責難|75|罪状を読み上げる；告発する；非難する|h|The delinquent boy was arraigned for stealing a bicycle.||その不良少年は自転車を盗んだことで告発された。
 articles|n.|文章；冠詞；物品|75|用品|a|You'll find domestic articles on the third floor.||家庭用品は三階にあります。
 asbestos|n.|石棉|75|アスベスト；石綿|a|||
@@ -11577,7 +11577,7 @@ bowls|n.|滾木球戲|75|ボウリング；ボウル|h|I'd like mapo tofu, and t
 brewer|n.|製造者；泡製飲料的器皿|75|醸造業者；醸造所|h|He is a brewer of beer by trade.||彼の仕事はビール職人だ。
 brittany|n.|布列塔尼|75|ブルターニュ|b|||
 brochures|n.|小冊子；情況介紹手冊；論文|75|パンフレット；小冊子|h|Let's get some brochures from the travel bureau.||政府観光局から資料をもらおう。
-brothers|n.|哥們兒；兄弟|75|ブラザーズ|b|The two brothers are quite unlike in their appearance.|哥哥和弟弟的樣子一點也不像。|この二人の兄弟は風采が全く違う。
+brothers|n.|哥們兒；兄弟|75|兄弟；仲間|v|The two brothers are quite unlike in their appearance.|哥哥和弟弟的樣子一點也不像。|この二人の兄弟は風采が全く違う。
 buildings|n.|建築物|75|建物；建築物|h|You must not run in the school buildings.|你不應該在學校大樓裡奔跑。|校舎内で走ってはならない。
 bumblebee|n.|大黃蜂|75|まるはなばち|b|||
 burgess|n.|市民；自由民|75|市民；自由市民|h|||
@@ -11625,7 +11625,7 @@ constricted|v.|壓縮；壓緊；使收縮|75|締めつけられた；狭まっ�
 contacts|n.|聯絡人；聯絡方式；觸體|75|連絡先；接触；コンタクトレンズ|h|I fell asleep with my contacts in.||コンタクトレンズをしたまま寝てしまいました。
 contaminants|n.|汙染物；致汙物|75|汚染物質；不純物|h|||
 contemptible|adj.|卑鄙的；可輕蔑的；不足掛齒的|75|軽蔑すべき；卑劣な|h|||
-contents|n.|目錄|75|内容；中身|a|Summarize the contents in 60 English words.|請把內容濃縮至六十個英文字以內。|この内容を６０語の英文で要約しなさい。
+contents|n.|目錄|75|目次；内容；中身|v|Summarize the contents in 60 English words.|請把內容濃縮至六十個英文字以內。|この内容を６０語の英文で要約しなさい。
 contracts|n.|契約；婚約；契約法|75|契約；請負|h|Traders lost fortunes due to small movements in the price of option contracts.||オプション契約の小幅な値動きで取引者は富を失った。
 contravene|v.|違反；觸犯；否認|75|違反する；反する；否定する|h|||
 conversant|adj.|熟悉的；親近的；有交情的|75|精通した；親しい|h|||
@@ -11641,7 +11641,7 @@ curtains|n.|災難；窗簾|75|カーテン；幕；破滅|d|When I opened the c
 customers|n.|客戶；顧客|75|顧客；得意先|h|We have a parking lot for the customers.|我們有一個顧客專用的停車場。|お客様専用駐車場がございます。
 damages|n.|賠償金|75|損害賠償金；損害|h|They sued the government for damages.|他們狀告政府賠償損失。|彼らは国を相手取って損害賠償の訴えを起こした。
 declaim|v.|慷慨陳詞；演講；朗讀|75|熱弁をふるう；朗読する|h|||
-decorations|n.|裝修；裝飾品|75|御飾り|b|The shopping arcade was covered with lots of paper decorations.||アーケード天井にたくさんの張りぼてが飾られてた。
+decorations|n.|裝修；裝飾品|75|装飾；飾り付け；勲章|v|The shopping arcade was covered with lots of paper decorations.||アーケード天井にたくさんの張りぼてが飾られてた。
 deface|v.|損傷外觀|75|落書きで汚す；傷つける|h|||
 defame|v.|誹謗；中傷；破壞名譽|75|中傷する；名誉を傷つける|h|||
 defrost|v.|除霜；解凍|75|霜を取る；解凍する|h|||
@@ -11660,7 +11660,7 @@ disburse|v.|支付；支出；分配|75|支払う；支出する|h|||
 disposed|adj.|願意；傾向於|75|気が向いた；傾向がある|h|The committee was not disposed to hold another meeting.||委員会はもう一度会議を開きたくなかった。
 disreputable|adj.|名譽不好的；不光彩的；聲名狼藉的|75|評判の悪い；いかがわしい|h|||
 doctoral|adj.|博士的|75|博士の；博士課程の|h|||
-dolly|n.|洋娃娃；搗棒；移動車|75|ドリー|a|||
+dolly|n.|洋娃娃；搗棒；移動車|75|人形；台車；ドリー|v|||
 downside|n.|底側；下降趨勢|75|下側；マイナス面；下降傾向|d|Hatred is the downside of being cute.||憎い憎いは可愛いの裏。
 dreadfully|adv.|非常；可怕地；令人驚駭地|75|ひどく；恐ろしく|d|||
 dryer|n.|乾衣機；乾燥劑|75|ドライヤー|a|Did you bring a hair dryer?|你吹風機帶來了嗎？|ドライヤー持ってきた？
@@ -11708,7 +11708,7 @@ gunfire|n.|炮火；號炮報時；炮擊|76|砲火；銃火|a|The commander exp
 gusty|adj.|颳風的；陣陣猛急的；突發的|76|突風の；突発的な|h|||
 gypsy|n.|吉卜賽人；吉卜賽語；象吉卜賽人的|76|ジプシー|a|She gave clothes to the gypsies out of charity.||彼女は慈善の気持ちからそのジプシーたちに衣服を与えた。
 hah|int.|哈；嘿|76|フッ|b|Hah! They won't even let me make a reservation.||ははっ、予約すらさせてくれないんだぜ。
-handicraft|n.|手工藝；手藝|76|工作|a|I took a handicraft course last year.||去年手芸コースを取っていたのです。
+handicraft|n.|手工藝；手藝|76|手工芸；手芸|v|I took a handicraft course last year.||去年手芸コースを取っていたのです。
 headset|n.|耳機|76|ヘッドセット；ヘッドホン|d|Please show me how to use the headset.||ヘッドホンの使い方を教えて下さい。
 heedless|adj.|不注意的；不留心的；不謹慎的|76|不注意な；無頓着な；軽率な|h|||
 helpline|n.|熱線服務電話|76|相談窓口；ホットライン|h|Contact the appropriate customer service helpline if the device does not operate properly.|如果裝置無法正常運作，請聯絡對應的客服專線。|
@@ -11753,7 +11753,7 @@ knell|n.|喪鐘聲；哀傷的聲音；凶兆；鳴喪鐘|76|弔いの鐘；不�
 lackey|n.|僕人；侍從；馬屁精；服侍|76|ポチ|b|If you behave like a lackey, you're treated like a lackey.||召使いのように振舞っていると、召使いのように扱われるぞ。
 landmass|n.|陸塊|76|地塊|b|||
 levity|n.|輕率；輕浮；不穩定|76|軽率；軽薄；不安定|h|||
-lifesaver|n.|救命者；救生員；濟急的人|76|ライフセーバー|b|She thought of him as her lifesaver.||彼女は彼を命の恩人だと思っていた。
+lifesaver|n.|救命者；救生員；濟急的人|76|救命具；救命士；恩人|v|She thought of him as her lifesaver.||彼女は彼を命の恩人だと思っていた。
 lipid|n.|脂類；類脂物；脂質|76|脂質|b|||
 lite|adj.|低鹽的；清淡的；簡化的|76|低塩の；あっさりした；簡易版の|h|||
 lithium|n.|鋰|76|リチウム|a|||
@@ -11831,7 +11831,7 @@ schizophrenia|n.|精神分裂症|76|統合失調症|d|||
 scruple|n.|躊躇；猶豫；微量|76|ためらい；良心の呵責；微量|h|No scruple held him back from making this attempt.||彼は平気でこの企てを試みた。
 seabed|n.|海底；海床|76|海底；海床|d|||
 sedimentary|adj.|沉渣的；沉澱物的；由沉澱物所生成的|76|堆積性の；堆積物からなる|h|||
-seriousness|n.|嚴肅；認真；嚴重性|76|本気|a|He wrote a letter dealing with the matter in all seriousness.|他寫了一封信函認真地討論了那個事情。|彼はちゃんとそのことについて手紙を書いた。
+seriousness|n.|嚴肅；認真；嚴重性|76|深刻さ；真面目さ；真剣さ|v|He wrote a letter dealing with the matter in all seriousness.|他寫了一封信函認真地討論了那個事情。|彼はちゃんとそのことについて手紙を書いた。
 sitcom||情景喜劇|76|シットコム|b|Baristas need to make a sitcom.|咖啡師們該創造一個情景喜劇。|
 skipper|n.|船長；機長；隊長|76|スキッパー|a|Let's call the dog Skipper.|讓我們叫這隻狗Skipper。|その犬をスキッパーと呼ぼう。
 skulk|v.|偷偷隱躲；偷懶|76|こっそり隠れる；怠ける|h|||
@@ -11840,16 +11840,16 @@ softwood|n.|軟木材|76|軟材；針葉樹材|d|In woodworking, we classify woo
 solder|n.|焊接劑；接合物；施以焊接；焊合|76|鑞；半田|b|||
 spanking|adj.|清爽的；疾行的；強烈的；顯著地|76|スパンキング|b|||
 spiny|adj.|多刺的；盡是尖刺的；尖刺狀的|76|トゲゾー|b|I'm allergic to Japanese spiny lobster.||僕は伊勢えびにアレルギーがあります。
-spirituality|n.|精神性；靈性；教士|76|スピリチュアリティ|b|||
+spirituality|n.|精神性；靈性；教士|76|精神性；霊性|v|||
 spoiler|n.|掠奪者；搞壞事情的人；寵壞別人的人|76|スポイラー|b|There's a chance that it contains spoilers.||ネタバレが含まれている可能性があります。
 spree|n.|戲耍；喧鬧；宴會；狂歡|76|騒ぎ；浪費；ひと暴れ|h|Berlin is located on the Spree river.||ベルリンは、シュプレー川沿いにあります。
-stafford|n.|斯塔福郡|76|スタッフォード州|h|||
+stafford|n.|斯塔福郡|76|スタッフォード|v|||
 sublimate|v.|使昇華；使高尚；昇華；純化|76|昇華させる；純化する；昇華する|h|||
 sup|n.|一口；啜；呷|76|一口；すする|h|||
 superintend|v.|指揮；管理；監督|76|監督する；管理する|h|||
 sweaty|adj.|出汗的；吃力的|76|汗まみれの；骨の折れる|h|You smell sweaty. Go and have a shower.|你身上有股汗味兒，洗澡去。|汗臭い。シャワー浴びといで。
 swelter|v.|悶熱；被暑氣所苦；汗流浹背；使悶熱|76|蒸し暑さに苦しむ；汗だくになる|h|Summers in Taiwan are sweltering.|臺灣的夏天很潮濕悶熱。|台湾の夏は、蒸し暑いものだ。
-swiftly|adv.|很快地；即刻|76|急に|a|A swallow flies very swiftly.|燕子飛得非常快。|つばめはとても速く飛ぶ。
+swiftly|adv.|很快地；即刻|76|素早く；迅速に|v|A swallow flies very swiftly.|燕子飛得非常快。|つばめはとても速く飛ぶ。
 swiftness|n.|迅速；快|76|迅速さ；すばやさ|h|The kite soared upwards with the swiftness of a bird.||凧は鳥のような速さで空に舞い上がった。
 tableware|n.|餐具|76|食器|a|This restaurant serves French cuisine, but with Japanese tableware.|這家餐廳供應法國菜，但使用日式餐具。|このレストランは日本の食器だけど、フランス料理です。
 tanner|n.|製革工人；硝皮匠；六便士|76|タンナー|b|||
@@ -11859,7 +11859,7 @@ taxicab|n.|計程車|76|タクシー|h|Call a taxicab to take us.|叫輛計程�
 tectonics|n.|構造學；構造地質學|76|構造地質学；構造学|h|||
 thermodynamics|n.|熱力學|76|熱力学|d|||
 titanium|n.|鈦|76|チタン；チタニウム|a|This handmade Italian-made titanium bicycle is terribly light.||この手作りのイタリア製チタン自転車は、恐ろしく軽い。
-tours|n.|圖爾斯；圖爾市|76|ツアー；トゥール市|h|Do you offer any all-day tours?|你提供任何全日遊嗎？|日帰りのツアーはありますか？
+tours|n.|圖爾斯；圖爾市|76|トゥール；ツアー|v|Do you offer any all-day tours?|你提供任何全日遊嗎？|日帰りのツアーはありますか？
 trains|n.|火車；行列|76|列車；一連；連なり|h|Please tell me where I should change trains.|請告訴我我應該在哪裡轉換火車。|どこで乗り替えたらよいか教えてくれませんか。
 transcription|n.|抄寫；抄本|76|転写；書写|b|||
 transfuse|v.|輸血；充滿|76|輸血する；注入する|h|||
@@ -11882,7 +11882,7 @@ wembley||文布利|76|ウェンブリー|h|||
 whereabouts|n.|下落；所在之處；在何處|76|行方；居場所|a|The whereabouts of the suspect is still unknown.||容疑者の行方はまだ分からない。
 wingspan|n.|翼展|76|翼幅；翼長|d|It has a wingspan of about four inches.||それは翼の全長が約４インチある。
 wonderfully|adv.|驚人地；極好地；精彩地|76|素晴らしく；見事に|h|You must be doing wonderfully in everything.||すべて順調にいっていらっしゃることでしょう。
-yah|int.|唷|76|ヤー；はい|h|||
+yah|int.|唷|76|やあ；はい|v|||
 zack|n.|六便士之硬幣|76|六ペンス硬貨|h|||
 abashed|adj.|不安的；窘迫的|76|恥じ入った；当惑した|h|I was abashed when my mistakes were pointed out.||私は間違いを指摘されて、きまり悪い思いをした。
 ablution|n.|洗澡；洗禮；齋戒沐浴|76|沐浴；清め；洗礼|d|||
@@ -11896,7 +11896,7 @@ alkali|n.|鹼；鹼性的|76|アルカリ|a|||
 alliteration|n.|頭韻|76|頭韻|b|We studied the Concordance to Shakespeare to accumulate examples of alliteration.||頭韻の例を収集するために、シェークスピア・コンコーダンスを調べた。
 amalgamate|v.|使汞齊化；合併|76|合併させる；混ぜ合わせる；アマルガム化する|h|The Bank of Tokyo amalgamated with the Mitsubishi Bank.||東京銀行と三菱銀行が合併した。
 apostasy|n.|叛教；變節；脫黨|76|棄教；背教|b|||
-approx||大約|76|およそ；約|h|||
+approx||大約|76|約；およそ|v|||
 arboreal|adj.|樹的；棲於樹木的|76|樹上性の；樹木の|h|||
 aspersion|n.|誹謗；中傷；灑水|76|中傷；誹謗；散水|h|||
 assiduous|adj.|勤勉的；刻苦的|76|勤勉な；精励する|h|||
@@ -11970,7 +11970,7 @@ documents|n.|文件|76|文書；書類|h|The cops are searching for the missing 
 doleful|adj.|悲哀的；憂鬱的；陰沉的|76|悲しげな；憂うつな；陰気な|h|||
 domesticate|v.|養馴；引進；教化|76|飼いならす；家庭的にする；教化する|d|The animals which live on farms are domesticated.||牧場で暮らす動物は家畜です。
 donations|n.|捐款；捐贈|76|寄付；寄贈|h|Corporate political donations are coming under heavy scrutiny.||企業の政治献金は厳しい検査の対象になっています。
-doors|n.|大門；入口；通道|76|ドアーズ|b|The doors on the left side will open.|左邊的車門將會開啟。|お出口は左側です。
+doors|n.|大門；入口；通道|76|ドア；扉|v|The doors on the left side will open.|左邊的車門將會開啟。|お出口は左側です。
 dosage|n.|劑量；用量；配藥|76|服用量；投与量|d|What is the maximum dosage for an adult?||大人への一回分の最大の投薬量はどのくらいですか。
 draws|n.|鑄件孔穴；圖畫|76|引き分け；くじ引き；絵|h|She draws on her socks.|她穿上襪子。|彼女は靴下に落書きします。
 drinks|n.|飲料；飲品；喝酒|76|飲み物；飲料；酒|h|My older sister often drinks tea with milk.|我的姐姐經常就著牛奶喝茶。|姉はミルクティーをよく飲む。
@@ -11983,7 +11983,7 @@ edify|v.|啟迪；薰陶；教誨|76|啓発する；教化する|h|||
 effects|n.|財物；個人財產|76|所持品；財産|h|The effects of the medicine were wearing off.|藥效開始漸漸減退。|薬の効き目がだんだんなくなってきた。
 egoism|n.|自我主義；利己主義|76|利己主義；エゴイズム|a|||
 egress|n.|出口；外出|76|出口；外出|h|||
-elements|n.|原理；基礎|76|綱要|b|Iron and oxygen are elements.|鐵和氧都是化學元素。|鉄や酸素は元素である。
+elements|n.|原理；基礎|76|要素；元素；原理|v|Iron and oxygen are elements.|鐵和氧都是化學元素。|鉄や酸素は元素である。
 emaciate|v.|使消瘦；使憔悴；消瘦|76|やせ細らせる；衰弱させる；やせ衰える|h|||
 emergencies|n.|緊急需要；緊急事件|76|緊急事態；非常時|h|All of the money is reserved for emergencies.||その金の全ては緊急事態のために取っておかれる。
 employees|n.|員工；僱員；從業人員|76|従業員；社員|h|Japanese companies generally provide their employees with uniforms.|日本的公司通常都會為員工提供製服。|日本の企業はふつう従業員に制服を与える。
@@ -11991,9 +11991,9 @@ encumber|v.|妨害；阻塞；拖累|76|妨げる；負担をかける；足を�
 energies|n.|活力；能；精力|76|活力；エネルギー；精力|h|All his energies were devoted to the experiment.|他把全部精力放到實驗中了。|彼の全精力はその実験に捧げられた。
 engineers|n.|工程師；機械師|76|技術者；機関士|h|The committee consists of scientists and engineers.|委員會是由科學家和工程師組成的。|その委員会は科学者と技術者からなる。
 enrapture|v.|使狂喜|76|うっとりさせる；恍惚とさせる|h|||
-enrichment|n.|豐富；肥沃|76|エンリッチ|b|||
+enrichment|n.|豐富；肥沃|76|充実；濃縮；豊かにすること|v|||
 equivocate|v.|說模稜兩可的話；支吾|76|あいまいなことを言う；はぐらかす|h|||
-erection|n.|直立；豎起；建築物|76|勃起|a|Don't lend money to someone who can't have a morning erection.||朝マラの立たぬ奴に金貸すな。
+erection|n.|直立；豎起；建築物|76|建設；直立；勃起|v|Don't lend money to someone who can't have a morning erection.||朝マラの立たぬ奴に金貸すな。
 escapist|adj.|逃避現實的；逃避現實者|76|現実逃避的な；現実逃避者|h|||
 estimable|adj.|可尊敬的；可估計的|76|尊敬すべき；見積もることのできる|h|||
 examiner|n.|檢查人；審查人；主考者|76|調査官|b|The applicant impressed the examiner favorably.||その志望者は試験官に好ましい印象を与えた。
@@ -12019,7 +12019,7 @@ farms|n.|農場；莊園|76|農場；農園|h|The animals which live on farms ar
 fealty|n.|忠誠；忠貞；忠實|76|忠誠；忠義|h|||
 features|n.|容貌；產品特點；特徵|76|面輪；顔かたち|b|Because of its origins, Canadian English has features of both American and British English.|由於它的起源，加拿大英語具有美國英語和​​英國英語兩者的特色。|その起源ゆえに、カナダ英語にはアメリカ英語とイギリス英語の両方の特徴がある。
 fees|n.|規費；費用|76|料金；手数料|h|They announced an increase in tuition fees.||学校は授業料の値上げを発表した。
-feet||腳；尺|76|フィート|a|These shoes don't fit my feet.|這鞋不合我的腳。|この靴は私の足に合わない。
+feet||腳；尺|76|足；フィート|v|These shoes don't fit my feet.|這鞋不合我的腳。|この靴は私の足に合わない。
 feint|n.|偽裝；假裝；假託；裝作|76|フェイント|a|||
 ferries|n.|渡船；渡口；擺渡；運送|76|フェリー；渡し船；運ぶ|h|A school bus ferries students between the station and the campus.||スクールバスが学生を駅から大学構内まで運んでいる。
 figures|n.|圖形；圖表；價格|76|図表；数字；人物|h|These figures don't add up.|這些數字總數不符。|計算が間違ってるよ。
@@ -12063,7 +12063,7 @@ gymnastic|adj.|體操的；體育的|76|体操の；体育の|h|||
 gyration|n.|旋迴；迴轉；旋轉|76|旋回；回転|h|||
 habits|n.|習性；習慣|76|習慣；癖|h|You must rid yourself of bad habits.|你該擺脫你的壞習慣。|君は悪習をやめなければいけない。
 hackneyed|adj.|使用過於頻繁的；常見的；陳腐的|76|陳腐な；使い古された|h|||
-handler|n.|處理者；操作者；拳擊教練|76|ハンドラー|b|||
+handler|n.|處理者；操作者；拳擊教練|76|取扱者；調教師；ハンドラー|v|||
 hangover|n.|宿醉；殘留物；遺物|76|二日酔い|b|This morning was tough because of my hangover.||今朝は二日酔いで辛かったです。
 hatchling|n.|人工孵化的魚苗或小鳥|76|孵化したばかりの子|h|||
 hats||轉換終端應用程式|76|ハット；帽子|h|There were no hats in that store that fit me.|那個店裡沒有合我尺寸的帽子。|あの店には私に合う帽子はなかったよ。
@@ -12161,7 +12161,7 @@ obligated|adj.|有義務的；必須的；有責任的；使負有責任或義�
 overconfident|adj.|過於自信的；自負的|76|自信過剰な|h|You should be careful not to become overconfident.|你要注意不要太自信。|自信過剰にならないよう注意しなくてはいけない。
 overrated|v.|對估價過高|76|過大評価された|h|||
 packaged|adj.|包裝過的|76|包装された；パッケージ化された|h|||
-patroller||巡警|76|パトロール隊員；巡視員|h|||
+patroller||巡警|76|巡回員；パトロール隊員|v|||
 pbs||公共廣播公司|76|公共放送サービス|h|||
 pediatric|adj.|小兒科的|76|小児科の|h|||
 peerless|adj.|無比的；出類的；無雙的|76|無双；無二|b|||
@@ -12175,7 +12175,7 @@ polygon|n.|多角形；多邊形|76|ポリゴン|b|||
 porto|n.|波爾圖|76|ポルト；ポートワイン|h|||
 portraitist|n.|肖像畫家；人像攝影師|76|肖像画家；肖像写真家|h|||
 potter|n.|陶工；製陶工人|76|陶工|a|I already read all the Harry Potter books.|我已經讀完了所有哈利·波特書。|ハリポタは前に全部読んだよ。
-preschool|adj.|就學前的；育幼院；幼稚園|76|プリスクール|b|Admission is free for preschool children.||未就学のお子様は入場無料です。
+preschool|adj.|就學前的；育幼院；幼稚園|76|就学前の；幼稚園；保育園|v|Admission is free for preschool children.||未就学のお子様は入場無料です。
 probity|n.|誠實；正直|76|誠実；高潔さ|h|||
 procedural|adj.|程式上的|76|手続き上の；手順の|h|||
 prognostic|adj.|預兆的；預後的；先兆；預測|76|予兆の；予後の；予測|h|||
@@ -12211,7 +12211,7 @@ slake|v.|消除；使清涼；熄滅|76|渇きをいやす；消す；石灰を�
 slavish|adj.|奴隸的；奴性的；盲從的|76|奴隷のような；盲従する；独創性のない|h|||
 slovenly|adj.|邋遢的；不修邊幅的；不整潔的；邋遢地|76|だらしない|a|As to his daily life, he is very slovenly.||日常生活について言えば彼はとてもだらしない。
 sneaky|adj.|鬼祟的；卑微的|76|こそこそした；ずるい|d|||
-spineless|adj.|無脊椎的；沒有骨氣的；懦弱的|76|玉無し|b|Tom is a spineless coward.||トムは意気地なしだ。
+spineless|adj.|無脊椎的；沒有骨氣的；懦弱的|76|背骨のない；意気地なしの|v|Tom is a spineless coward.||トムは意気地なしだ。
 spoilage|n.|變質；糟蹋；損耗|76|腐敗；損傷；廃棄物|d|Salt preserves fish from spoilage.||塩は魚が腐るのを防ぐ。
 spooky|adj.|幽靈一般的；嚇人的；令人毛骨悚然的|76|不気味な；ぞっとする；怖い|h|When it got dark, the scenery became strange and spooky.|天黑之後，景色變得詭異陰森。|
 stonemason|n.|石工；石匠|76|石工；石屋|d|||
@@ -12250,9 +12250,9 @@ urbanize|v.|使都市化；使成都市式；使文雅|76|都市化する；都�
 usable|adj.|可用的；方便使用的；能用的|76|使える；使いやすい|h|Is that machine still usable?|那臺機器還能用嗎？|あの機械は、まだ使えますか。
 vacillation|n.|遊移不定；躊躇；不果斷|76|ためらい；動揺；優柔不断|h|||
 vita|n.|個人簡歷|76|履歴書；経歴|h|||
-waiver|n.|放棄；棄權；棄權宣告書|76|ウェーバー|b|||
+waiver|n.|放棄；棄權；棄權宣告書|76|権利放棄；免除|v|||
 watercourse|n.|水道；河道|76|水路；河川|d|||
-weir|n.|堰；魚梁|76|しがらみ；梁|b|||
+weir|n.|堰；魚梁|76|堰；魚梁|v|||
 weiss|n.|外斯；白色|76|ヴァイス；白|h|||
 wellbeing|n.|健康；幸福；福利|76|健康；幸福；福利|h|||
 wheedle|v.|以甜言蜜語誘惑；用甜言蜜語騙；用甜言蜜語哄騙|76|甘言でだます；おだてて手に入れる|h|She coaxed and wheedled her unwilling child into going to the dentist with her.||彼女は嫌がる子供を宥め賺して歯医者に連れて行った。
@@ -12337,11 +12337,11 @@ despoiler||掠奪者|77|略奪者|h|||
 dethrone|v.|廢黜；廢位趕出|77|廃位させる；失脚させる|h|||
 diaper|n.|尿布|77|おむつ；おしめ|a|John has to change the baby's diapers every day.||ジョンは毎日、赤ちゃんのおむつを替えなといけないの。
 dietetics|n.|飲食學|77|栄養学|a|||
-differentiation|n.|區別；分化；變異|77|微分|b|The math teacher explained the concept of partial differentiation.||数学教師が偏微分の概念について説明した。
+differentiation|n.|區別；分化；變異|77|差別化；分化；微分|v|The math teacher explained the concept of partial differentiation.||数学教師が偏微分の概念について説明した。
 disadvantaged|adj.|社會地位低下的；生活條件差的；被剝奪了基本權利的|77|恵まれない；不利な立場の|h|||
 disarrange|v.|擾亂；攪亂；弄亂|77|乱す；散らかす|d|||
 dissimulate|v.|掩飾；假裝；裝糊塗|77|偽る；装う；隠す|h|||
-dissipated|adj.|沉迷於酒色的；閒遊浪蕩的；消失的|77|放蕩した；消えた|h|||
+dissipated|adj.|沉迷於酒色的；閒遊浪蕩的；消失的|77|放蕩した；消散した；浪費した|v|||
 dolorous|adj.|憂傷的；悲痛的|77|悲しげな；悲痛な|h|||
 drub|v.|用棒打；毆打；硬灌；敲擊|77|打ち負かす；殴る|h|We gave the enemy a drubbing.||わが軍は敵に痛撃を与えた。
 ductile|adj.|易延展的；韌性的；易教導的|77|延性のある；従順な|h|||
@@ -12400,7 +12400,7 @@ horribly|adv.|可怕地；非常地|77|ひどく；恐ろしく|h|During his ill
 ichthyosaur|n.|魚龍|77|魚竜|d|||
 igneous|adj.|火的；似火的；火成的|77|火成の；火のような|h|||
 illusive|adj.|幻影的；錯覺的；迷惑人的|77|幻想的な；錯覚の|h|||
-immodesty||無禮|77|無作法；慎みのなさ|h|||
+immodesty||無禮|77|無作法；不遜；慎みのなさ|v|||
 immolate|v.|為供神而宰殺；犧牲；殺死|77|生贄にする；犠牲にする|h|||
 impassible|adj.|不覺痛苦的；不受傷害的；無感覺的|77|感覚のない；傷つかない|h|||
 impious|adj.|無信仰的；不敬神的；不虔誠的|77|不信心な；不敬な|h|||
@@ -12418,7 +12418,7 @@ irresolute|adj.|無決斷的；優柔寡斷的；躊躇不定的|77|優柔不断
 iterate|v.|反覆說；重複|77|繰り返し言う；反復する|h|||
 jihad|n.|討伐異教徒；擁護運動|77|ジハード|a|||
 jolting|n.|震壓造型；震動|77|揺れ；振動|d|||
-keynote|n.|主調音；基音；基調；說明基本政策|77|キーノート；主調|b|||
+keynote|n.|主調音；基音；基調；說明基本政策|77|基調；基調講演；主音|v|||
 lahore|n.|拉合爾|77|ラホール|h|||
 lank|adj.|瘦的；細長的；長而柔軟的|77|痩せた；細く柔らかい|h|||
 lave|v.|沐浴；洗；剩餘物|77|洗う；浴びせる；残り|d|||
@@ -12437,7 +12437,7 @@ measurements|n.|測量值；尺寸|77|量り|b|Measurements are different from i
 methods|n.|方法；方式；研究方法|77|方法；方式；研究法|h|Those kinds of methods are out of date.|這種方法早已過時了。|そのような方法は時代遅れである。
 midmorning|n.|上午十時左右|77|午前十時頃|h|||
 mindful|adj.|深切注意的；留神的；留心的|77|注意深い；留意する|h|You must be mindful of your family responsibilities.||君は家族扶養の責任を忘れてはならない。
-minutes|n.|會議記錄|77|分間|a|I can walk to school in 10 minutes.|我走路10分鐘能到學校 。|学校には歩いて10分で行けます。
+minutes|n.|會議記錄|77|議事録；分|v|I can walk to school in 10 minutes.|我走路10分鐘能到學校 。|学校には歩いて10分で行けます。
 moiety|n.|一半；一部分；應得之份|77|半分；一部；取り分|h|||
 motivational|adj.|激發性的|77|動機づけの；やる気を起こさせる|h|||
 movies|n.|電影|77|映画|h|I go to the movies once a month.|我一個月去一次電影院。|私は月に一回映画を見に行く。
@@ -12452,7 +12452,7 @@ nets|n.|網|77|網；ネット|h|The fishermen cast their nets into the sea.||�
 newspapers|n.|報紙；報章|77|新聞；新聞紙|h|I traded old newspapers for toilet paper.|我用舊報紙換衛生紙。|私は古新聞をちり紙と交換した。
 nightly|adj.|每夜的；夜間的；每夜|77|毎晩の；夜ごとの|h|The policeman was on his usual nightly round.||巡査はいつものように夜間の巡回中だった。
 noir|adj.|輪盤戲中黑色數字的|77|黒の；黒色の|h|||
-notes|n.|票據；註釋；說明|77|注釈；草稿|a|I looked at my notes.|我看了自己的筆記。|自分のメモを見た。
+notes|n.|票據；註釋；說明|77|メモ；注釈；紙幣|v|I looked at my notes.|我看了自己的筆記。|自分のメモを見た。
 objectives|n.|目標；物鏡；1)。 賓語 2)。 賓格|77|目的；目標；対格|h|||
 obloquy|n.|辱罵；毀謗；恥辱|77|悪口；汚名|h|||
 obtrude|v.|逼使；強迫；伸出；打擾|77|押しつける；突き出す|h|Do not obtrude upon her sorrow.||悲しんでいる彼女をそっとしておきなさい。
@@ -12492,7 +12492,7 @@ photosensitive|adj.|感光性的；對光敏感的|77|感光性の；光に敏�
 pictures|n.|電影院|77|映画館；絵|h|There are subtle differences between the two pictures.|這兩張圖片之間有細緻的差異。|その２つの絵には微妙な違いがある。
 pilgrimage|n.|朝聖；漫遊；人生的一段經歷；朝拜|77|巡礼；行脚|a|Politicians from many countries made pilgrimages to the White House.||各国の政治家がホワイトハウス詣でをした。
 pills|n.|丸劑；藥丸|77|錠剤；丸薬|h|These pills act on the heart.|這種藥片對心臟有療效。|この丸薬は心臓に効く。
-pinion|n.|鳥翼；翅膀；翅前翼；剪斷翼尖|77|ピニオン|b|||
+pinion|n.|鳥翼；翅膀；翅前翼；剪斷翼尖|77|翼；小歯車；羽交い締めにする|v|||
 places|n.|地點；位置；位數|77|場所；位置；位|h|No wonder we associate bats with dark places.|難怪我們會把蝙蝠和黑暗的地方聯想在一起了。|私たちがこうもりを暗い場所と結び付けるのも当たり前だ。
 planners|n.|規劃者；策劃人|77|計画立案者；企画者|h|||
 plants|n.|植物；工廠|77|草木；本草|a|Some plants cannot adapt themselves to the cold.|一些植物無法適應寒冷。|ある種の植物は寒さに順応できない。
@@ -12519,7 +12519,7 @@ profits|n.|收益；紅利；盈利|77|利益；収益|h|A wise man profits from
 progressively|adv.|進步；先進；向前進|77|次第に；段階的に|h|The situation is growing progressively worse.||状況はどんどん悪化してます。
 propitiate|v.|慰撫；安撫；和解|77|なだめる；機嫌を取る|h|||
 proprietorship|n.|所有權|77|所有権；経営権|d|||
-prospecting|n.|探礦；勘探|77|試掘|b|||
+prospecting|n.|探礦；勘探|77|探鉱；試掘|v|||
 provident|adj.|有先見之明的；有遠慮的；節儉的|77|先見の明のある；倹約な|h|||
 provincialism|n.|鄉下習氣；方言；地方風俗|77|田舎くささ；地方色；方言|d|||
 psych|v.|精神分析治療；使作好心理準備|77|精神分析する；心の準備をさせる|h|He psyched himself up for the race.||彼はレースにのぞんで精神統一した。
@@ -12527,7 +12527,7 @@ psycholinguistics|n.|語言心理學|77|心理言語学|d|||
 pulmonary|adj.|肺的；與肺有關的；有肺的|77|肺の；肺に関する|h|||
 punt|n.|方頭平底船；踢懸空球；賭博者|77|パント|a|||
 purest|adj.|純的；單純的；純真的|77|最も純粋な；純真な|h|||
-quadrilateral|adj.|四邊形的|77|四角；四角形|a|A parallelogram is a quadrilateral formed from two sets of parallel lines.|平行四邊形是由兩組平行線組成的四邊形。|平行四辺形は二組の辺が平行している四角形です。
+quadrilateral|adj.|四邊形的|77|四角形；四辺形の|v|A parallelogram is a quadrilateral formed from two sets of parallel lines.|平行四邊形是由兩組平行線組成的四邊形。|平行四辺形は二組の辺が平行している四角形です。
 qualifications|n.|職位要求；任職資格；資格證書|77|資格|a|Proper qualifications are required for the position.||その職に就く為にはそれ相応の資格が必要です。
 quasi|adj.|類似的；準的|77|準…；疑似の|h|||
 questions|n.|問題|77|質問；問題|h|Please feel free to ask me questions.|請隨便問問題。|遠慮なく私に質問して下さい。
@@ -12535,13 +12535,13 @@ rarefy|v.|使稀少；使稀薄；使純化；變稀少|77|希薄にする；純
 rashly|adv.|輕率地|77|軽率に|h|||
 raspberry|n.|懸鉤子；呸聲|77|ラズベリー；フランボワーズ|b|My friend lets his pet dog eat raspberries.||飼い犬に木苺を食べさせている友達がいる。
 readers|n.|讀者；讀物|77|読者；読み物|h|These books are not fit for young readers.|這本書不是給年輕讀者看的。|こういう本は若い読者向きではない。
-reasons|n.|理由；理智；原因|77|子細|b|There seem to be several reasons for his failure.|看來有幾個原因導致了他的失敗。|彼の失敗には、２、３の理由があるように思われる。
+reasons|n.|理由；理智；原因|77|理由；根拠|v|There seem to be several reasons for his failure.|看來有幾個原因導致了他的失敗。|彼の失敗には、２、３の理由があるように思われる。
 rebroadcast|v.|轉播；重播|77|再放送する；再放送|h|||
 records|n.|記錄；錄音；唱片|77|記録；レコード；録音|h|Those records are not accessible to the public.|這些記錄不對公眾開放。|その記録は一般に公開されていない。
 referees|n.|裁判員；證明人；公斷人|77|審判；証人；仲裁人|h|||
 reformism|n.|改良主義|77|改良主義|d|||
 regimentation|n.|團的編制；系統化；嚴格控制|77|組織化；厳格な統制|h|||
-regression|n.|退步；迴歸|77|リグレッション|b|Support vector machines are supervised learning models used for classification and regression analysis.||サポートベクターマシンとは、教師あり学習モデルであり、判別分析や回帰分析に用いられる。
+regression|n.|退步；迴歸|77|後退；退行；回帰|v|Support vector machines are supervised learning models used for classification and regression analysis.||サポートベクターマシンとは、教師あり学習モデルであり、判別分析や回帰分析に用いられる。
 regulations|n.|章則；條例；規程|77|条例；準則|a|We want to modify the regulations of our school.|我們想修改學校的規章制度。|私達は校則を修正したい。
 reich|n.|德國；德意志帝國|77|ドイツ；ドイツ帝国|h|||
 relations|n.|交往；關係；事務|77|関係；交際|h|The two countries do not have diplomatic relations.||その両国は外交関係がない。
@@ -12550,21 +12550,21 @@ residents|n.|居民；房客；住院醫生|77|住民；入居者；研修医|h|
 resources|n.|資源；物力|77|資源；知略|a|Water, forests, and minerals are important natural resources.|水、森林和礦物都是重要的天然資源。|水と森と鉱物は重要な自然の資源です。
 respondents|n.|<律>被告；回答問題的人；調查物件|77|被告；回答者|h|||
 restaurants|n.|飯店；餐館；飯館|77|レストラン；飲食店|h|I'm fed up with eating in restaurants.|我受夠了在餐館吃飯。|僕はレストランの食事には飽き飽きしている。
-results|n.|結果；成績|77|成績|a|The results of the research were quite satisfactory.|調查的結果十分令人滿意。|その調査の結果は十分に満足のいくものだった。
+results|n.|結果；成績|77|結果；成果|v|The results of the research were quite satisfactory.|調查的結果十分令人滿意。|その調査の結果は十分に満足のいくものだった。
 retails|v.|零售；轉述|77|小売りする；言い換えて伝える|h|We understand that the Woody Panel retails for $80.||Ｗｏｏｄｙ Ｐａｎｅｌの市価が８０＄だということは知っています。
 retentive|adj.|保持的；有保持力的；記性好的|77|保持力のある；記憶力の良い|h|||
 retrograde|adj.|後退的；倒退的；退步的；倒退|77|後退する；逆行の|h|||
 rhythmical|adj.|有韻律的；有節奏的|77|リズミカル|a|Children learn to respond to rhythmical sounds from a very young age.||子供はごく小さいときからリズミカルな音に反応することを身に付けていく。
 riders|n.|騎的人；乘客；附文|77|乗る人；騎手；追記|h|||
-righteousness|n.|正義；公正；正直|77|是；正路|b|Education is the path to happiness, peace, righteousness, and success.|教育是通往幸福、和平、正義與成功的道路。|教育は幸福と平和と正義と、そして勝利の道なのであります。
+righteousness|n.|正義；公正；正直|77|正義；公正；廉直|v|Education is the path to happiness, peace, righteousness, and success.|教育是通往幸福、和平、正義與成功的道路。|教育は幸福と平和と正義と、そして勝利の道なのであります。
 risks|n.|風險；危險|77|危険；リスク|h|In order to do that, you have to take risks.|要這麼做，你需要冒險。|それをするためには危険を冒さなければならない。
 robots|n.|機器人|77|ロボット|h|How could I be a robot? Robots don't dream.|我怎麼可能是機器人呢？機器人不會做夢。|ロボットなんかに私がなるわけないでしょう？ロボットは夢を見ないんだから。
 rocks|n.|岩石；岩礁；岩石礁石|77|岩；岩石|h|Rocks are beautifully arranged in the Japanese-style garden.|石頭被美麗得放置在日式庭園裡。|その日本庭園には石が見事に配置されている。
 rows|n.|返回引用中的行數；行|77|行；列|h|A canal flowed between two rows of houses.||家並みを分断する運河が流れていた。
-rules|n.|規則；條例|77|本則|b|Are you familiar with the rules of soccer?|你對足球規則熟悉嗎？|あなたはサッカーのルールを知っていますか。
+rules|n.|規則；條例|77|規則；ルール|v|Are you familiar with the rules of soccer?|你對足球規則熟悉嗎？|あなたはサッカーのルールを知っていますか。
 rustproof|adj.|不鏽的|77|錆びない；防錆の|h|||
 sagacious|adj.|睿智的；聰明的；賢明的|77|賢明な；聡明な|h|||
-sal|n.|婆羅雙樹；鹽|77|沙羅；沙羅双樹|b|||
+sal|n.|婆羅雙樹；鹽|77|塩；サラソウジュ|v|||
 saltiness|n.|鹹性|77|塩気|b|||
 savings|n.|儲蓄；存款|77|貯蓄|a|I'd like to open a savings account.|我想開個儲蓄帳戶。|預金口座を開設したいのですが。
 scalp|v.|剝頭皮；頭皮；戰利品|77|頭皮；スカルプ|b|My scalp is very itchy.|我的頭皮非常癢。|頭皮がとてもかゆいんです。
@@ -12616,7 +12616,7 @@ temporize|v.|隨潮流；拖延；妥協|77|時流に従う；時間稼ぎをす
 tequila|n.|蒸餾酒；龍舌蘭酒|77|テキーラ|b|Tom always gets rowdy when he drinks tequila.|湯姆一喝龍舌蘭酒就變得很吵。|
 theist|n.|有神論者；一神論者|77|有神論者|d|||
 thousandfold|adj.|千倍的；千倍地；成千倍|77|千倍の；千倍に|h|||
-thug|n.|惡棍；刺客；兇手|77|乱波|b|The small thug beat up the convenience store employee.||チンピラがコンビニの店員をぶちのめした。
+thug|n.|惡棍；刺客；兇手|77|悪党；暴漢；チンピラ|v|The small thug beat up the convenience store employee.||チンピラがコンビニの店員をぶちのめした。
 tinplate|n.|鍍錫鐵皮；馬口鐵|77|ブリキ板；錫めっき鉄板|h|||
 tipple|v.|少量飲；飲酒|77|少しずつ飲む；酒を飲む|h|||
 tit|n.|山雀；打擊；輕佻女人|77|シジュウカラ；打撃|h|I guess I overreacted and responded to what you said tit for tat.||あの時は売り言葉に買い言葉で、俺もちょっと言い過ぎたよ。
@@ -12648,7 +12648,7 @@ alcoholism|n.|酗酒；酒精中毒|77|アル中|a|||
 align|v.|排列；排成一行；結盟；使結盟|77|整列させる；提携する|h|They aligned themselves with the Liberals.||彼らは自由党と手を結んだ。
 anthropologist|n.|人類學家|77|人類学者|d|The anthropologist delivered a lecture on primitive cultures.||その人類学者は原始文化に関する講演をした。
 apostle|n.|基督十二使徒之一；早期基督教傳士|77|使徒|a|Mahatma Gandhi, the apostle of nonviolence, was born in 1869.||非暴力主義者のマハトラ・ガンジーは１８６９年に生まれた。
-appalling|adj.|駭人的；令人震驚的|77|惨；おぞましい|b|The destruction of the environment is appalling.||環境破壊は驚くほどすすんでいる。
+appalling|adj.|駭人的；令人震驚的|77|ぞっとする；ひどい|v|The destruction of the environment is appalling.||環境破壊は驚くほどすすんでいる。
 asthma|n.|哮喘|77|喘息|a|I had an asthma attack.|我哮喘發作了。|喘息の発作が起きました。
 avocado|n.|鱷梨；鱷梨樹|77|アボカド|b|I've never tried putting soy sauce on avocados.||アボカドに醤油をかけた事なんて一度もないよ。
 beep|n.|短而尖的聲音；嘟；嘟嘟響|77|ブー；ビープ|b|Leave your message after hearing the beep.||発信音が聞こえた後であなたのメッセージを残してください。
@@ -12664,15 +12664,15 @@ caretaker|n.|照顧者；看管者；看守人|77|世話人；管理人|d|The ac
 carlisle|n.|卡萊爾|77|カーライル|h|||
 certification|n.|證明|77|認証|a|I've been spending a lot of time studying for IT certifications recently.||最近はほとんどいつもIT関連の検定試験を受けようと勉強しています。
 cervical|adj.|頸的；子宮頸的|77|頸部の；子宮頸部の|h|||
-che||膽鹼酯酶；充電指示燈；化學|77|コリンエステラーゼ；充電表示灯|h|||
+che||膽鹼酯酶；充電指示燈；化學|77|コリンエステラーゼ；化学|v|||
 checklist|n.|清單；選舉人名單；名冊|77|チェックリスト；点検表|d|||
 cherokee|n.|徹羅基族人|77|チェロキー|b|||
 cleanup|n.|清除；暴利|77|清掃；一掃；暴利|h|Tom bats cleanup on our team.||我がチームではトムが４番を打つ。
-closure|n.|關閉；使終止|77|通行止め；閉会|a|The school's closure was due to the snow.|停課是因為下雪。|学校が休みになったのは雪のせいだった。
+closure|n.|關閉；使終止|77|閉鎖；終結；閉店|v|The school's closure was due to the snow.|停課是因為下雪。|学校が休みになったのは雪のせいだった。
 compost|n.|混合物；堆肥；施堆肥於|77|堆肥；コンポスト|a|||
 confederation|n.|同盟；聯盟；組織聯盟|77|同盟；連合|d|||
 contemn|v.|侮辱；蔑視|77|軽蔑する；侮る|h|||
-convergence|n.|集中；收斂|77|コンバージェンス|b|||
+convergence|n.|集中；收斂|77|収束；集中|v|||
 coup|n.|砰然的一擊；妙計；出乎意料的行動|77|一撃；巧妙な策略；クーデター|d|We only have secondhand information of the coup.||そのクーデターの間接的な情報しか得ていない。
 cracker|n.|餅乾；爆竹|77|クラッカー；乾パン|a|He lived on crackers and water for three days.||彼はビスケットと水で三日間命をつないだ。
 crossbones|n.|交叉的股骨圖形|77|交差した骨の図形|h|||
@@ -12680,7 +12680,7 @@ crossbreeding|n.|雜交育種；雜交|77|交雑；交配|d|||
 cuff|n.|袖口；一巴掌；用巴掌打|77|袖口|b|I'm not good at speaking off the cuff.||私は即興で話すのが苦手だ。
 cumberland|n.|坎伯蘭郡|77|カンバーランド|h|||
 custody|n.|監護；拘留；監禁|77|拘留；預け|a|The man was held in police custody.|這個男人被警察拘留了。|その男は拘留された。
-dealing|n.|經營行為；行為；交易|77|ディーリング|b|He is good at dealing with children.|他擅長應付小孩子。|彼は子供の扱いが上手だ。
+dealing|n.|經營行為；行為；交易|77|取引；対応|v|He is good at dealing with children.|他擅長應付小孩子。|彼は子供の扱いが上手だ。
 debut|n.|初次登臺；開張|77|デビュー；初舞台|a|The actress made her debut when she was eight.||その女優のデビューは８歳の時でした。
 deduction|n.|減除；扣除；減除額|77|差し引き|a|Luxury spending is ineligible for tax deductions.||贅沢への支出は税控除の対象とはならない。
 demagnetize|v.|消磁；使退磁|77|消磁する；磁気を失わせる|h|||
@@ -12688,7 +12688,7 @@ detachment|n.|分離；分遣；分遣隊|77|剥離；分遣|b|I had retinal det
 detraction|n.|轉移；縮小；減損|77|減損；中傷|h|||
 diabetes|n.|糖尿病；多尿症|77|糖尿病|a|He was watchful for any sign of diabetes.||彼は糖尿病のどんな兆しにも注意していた。
 diabetic|adj.|糖尿病的；糖尿病患者|77|糖尿病の；糖尿病患者|d|Mary is diabetic, isn't she?|瑪麗得糖尿病了，不是嗎？|
-digitally|adv.|數位|77|デジタル方式で；数字で|h|The image was digitally altered.|這張圖片經過數位修改。|
+digitally|adv.|數位|77|デジタルで；デジタル方式で|v|The image was digitally altered.|這張圖片經過數位修改。|
 discompose|v.|使不安；使煩亂；使煩惱|77|不安にさせる；動揺させる|h|||
 distent|adj.|膨脹的；擴張的|77|膨張した；拡張した|h|||
 disunite|v.|使分離；使不和|77|分裂させる；不和にする|h|||
@@ -12734,15 +12734,15 @@ horrifying|adj.|令人恐懼的；使人驚駭的|77|恐ろしい；ぞっとす
 hydrosphere|n.|水圈；水界；水氣|77|水圏|b|||
 illustrator|n.|插畫家；圖解者；說明者|77|イラストレーター|a|My older sister says it's her dream to become a pro illustrator.||私の姉はプロのイラストレーターになるのが夢と言っている。
 immersion|n.|沉浸；專心；陷入|77|浸すこと；没頭|h|He needed a Berber language immersion course.|他需要參加柏柏爾語沉浸式課程。|
-imperfect|adj.|不完美的；不完整的；減弱的；未完成體|77|不完全；偏|a|Everyone is imperfect, and that's OK.||誰にでも至らないところはあるものよ。それでいいのよ。
-implant|v.|深植；灌輸；嵌入；植入物|77|インプラント|a|The cochlea implant is a technically ingenious device.||人工内耳は技術的に巧妙な機器です。
+imperfect|adj.|不完美的；不完整的；減弱的；未完成體|77|不完全な；未完了の|v|Everyone is imperfect, and that's OK.||誰にでも至らないところはあるものよ。それでいいのよ。
+implant|v.|深植；灌輸；嵌入；植入物|77|植え付ける；インプラント；埋め込む|v|The cochlea implant is a technically ingenious device.||人工内耳は技術的に巧妙な機器です。
 imprecate|v.|祈求；詛咒|77|呪う；祈る|h|||
 indict|v.|起訴；控告；指控|77|起訴する；告発する|h|The company president was indicted for paying kickbacks.||社長はリベートを支払った件で告発されました。
 indiscrimination|n.|無差別；不加區別的事物|77|無差別|a|||
 indite|v.|寫成文章；創作|77|文章を書く；作成する|h|||
 inducible|adj.|可導致的；可誘導的|77|誘導可能な|h|||
 innocence|n.|無罪；無知；天真無邪|77|無罪；無実|a|I have a firm belief in his innocence.|我堅信他是無辜的。|わたしは彼の無実を固く信じている。
-insensitive|adj.|對...沒有感覺的；感覺遲鈍的|77|無神経|a|I dislike Chris because he is very rude and insensitive.||クリスはとても失礼で無神経だから私は彼が嫌いなの。
+insensitive|adj.|對...沒有感覺的；感覺遲鈍的|77|無神経な；鈍感な|v|I dislike Chris because he is very rude and insensitive.||クリスはとても失礼で無神経だから私は彼が嫌いなの。
 insider|n.|內部的人；權威人士；知道內情的人|77|インサイダー|a|The politician tried to cover up the insider trading.||政治家が、インサイダー取引を包み隠そうとした。
 instrumentation|n.|樂器法；儀器製造學；儀表化|77|計装；計器学|d|||
 intersected|adj.|交錯的|77|交差した|h|||
@@ -12759,7 +12759,7 @@ laurels|n.|榮譽；勝利；名聲|77|栄誉；勝利；名声|h|We must not re
 leukemia|n.|白血病；白血球過多症|77|白血病|a|He died from acute lymphoblastic leukemia.||彼は急性リンパ性白血病で死亡しました。
 limner|n.|畫家；畫匠|77|画家|h|||
 liquidity|n.|流動性；流暢|77|流動性；流動|d|||
-litigation|n.|訴訟；起訴|77|訟務|b|||
+litigation|n.|訴訟；起訴|77|訴訟；起訴|v|||
 locomote|v.|移動；行動|77|移動する；動く|h|||
 locoweed|n.|瘋草|77|毒草|h|||
 lotion|n.|洗液|77|ローション|a|She is putting on some face lotion.||彼女は化粧水をつけている。
@@ -12769,7 +12769,7 @@ makeover|n.|化妝美容；大轉變|77|改装；イメージチェンジ|d|Mayb
 manful|adj.|男子氣概的；堅定的；勇敢的|77|男らしい；勇敢な|h|||
 manned|adj.|有人駕駛的；有人操縱的|77|有人|a|||
 manpower|n.|人力|77|マンパワー|a|"Manpower" is the world's largest temp agency.||マンパワーは世界で一番大きな人材派遣会社です。
-marked|adj.|有記號的；顯著的；醒目的|77|色濃い|b|The invention of the transistor marked a new era.|電晶體的發明標誌著一個新時代的開始。|トランジスターの発明は新時代を画した。
+marked|adj.|有記號的；顯著的；醒目的|77|顕著な；印のついた|v|The invention of the transistor marked a new era.|電晶體的發明標誌著一個新時代的開始。|トランジスターの発明は新時代を画した。
 mata|n.|馬塔；枯葉龜|77|マタ；枯れ葉ガメ|h|||
 mater|n.|母親|77|母|h|Tom's alma mater is MIT.||トムの母校は、マサチューセッツ工科大学です。
 matrix|n.|母體；子宮；基質|77|マトリックス；母型|b|The inverse of a non-square matrix is a dangerous thing.|非方矩陣的逆陣是一個危險的東西。|
@@ -12780,7 +12780,7 @@ memoir|n.|傳記；實錄；追思錄|77|回想録；伝記|h|The memoir breathe
 mercer|n.|布商；綢緞商人；呢絨布商|77|織物商；絹織物商|h|||
 midair|n.|半空中|77|空中；中空|d|||
 militia|n.|義勇軍；民兵組織；國民軍|77|民兵|a|||
-mincing|adj.|矯飾的；裝腔作勢的；裝模作樣的|77|刻み；小刻み|a|||
+mincing|adj.|矯飾的；裝腔作勢的；裝模作樣的|77|気取った；小刻みな|v|||
 mistakenly|adv.|錯誤地；被誤解地|77|誤って；間違えて|h|I think I mistakenly deleted that file.|我覺得我是誤刪了這個檔案。|
 mitigation|n.|緩和；減輕|77|緩和；軽減|d|||
 moderation|n.|緩和；適度；溫和|77|節度；節制|a|Good health is inseparable from exercise and moderation.|健康與運動及節制密不可分。|健康は運動と節制と不可分の関係にある。
@@ -12792,7 +12792,7 @@ nonhuman|adj.|非人類的|77|人間以外の|h|||
 nonprofessional|adj.|無職業的；無專長的|77|非専門的な；素人の|h|||
 nostalgic|adj.|鄉愁的；懷舊的|77|ノスタルジック|a|I suddenly feel nostalgic for my homeland.|我突然很想念我的故鄉。|
 nuclei||核心；核子；原子核|77|核；原子核|h|||
-nutriment|n.|營養物；食物；營養素|77|滋味|b|||
+nutriment|n.|營養物；食物；營養素|77|栄養物；食物|v|||
 onstage|adv.|在前臺；在前臺的|77|舞台上で；舞台上の|h|The actor was onstage for most of the play.||その男優は劇の間中ほとんど舞台上にいた。
 oppressive|adj.|壓制性的；壓迫的；沉重的|77|抑圧的な；重苦しい|d|The whole thing is utterly oppressive.|真是令人窒息。|
 ovarian|adj.|子房的；卵巢的；果核的|77|子房の；卵巣の|h|Mary was diagnosed with ovarian cancer in 2013.||メアリーは２０１３年に卵巣がんと診断されました。
@@ -12800,19 +12800,19 @@ oxen||牛；公牛|77|牛；雄牛|h|Yoke the oxen to the plow.||牛にくびき
 painfully|adv.|痛苦地；苦惱地；費力地|77|痛ましく；苦労して|h|The sudden glare impinged painfully on his eyes.||突然の強い光を受けて彼の目は痛いほどだった。
 paranormal|adj.|超過正常的；超過科學可知範圍的|77|超常的な|h|Three out of four Americans believe in the existence of paranormal phenomena.|四分之三的美國人相信存在超自然現象。|アメリカ人の4分の3が超常現象を信じている。
 pastor|n.|牧師|77|牧師|a|The girl, closing her eyes, listened to the pastor.||その少女は、目を閉じて牧師の話を聞いた。
-pastry|n.|油酥點心；麵粉糕餅|77|ペストリー|b|From childhood I dreamed of being a pastry cook.|我從小就夢想著做一名糕點師。|子供の頃から、パティシエになるのを夢見ていた。
+pastry|n.|油酥點心；麵粉糕餅|77|ペストリー；焼き菓子|v|From childhood I dreamed of being a pastry cook.|我從小就夢想著做一名糕點師。|子供の頃から、パティシエになるのを夢見ていた。
 patricide|n.|殺父；殺父者|77|父殺し；父殺し犯|d|||
 peculate|v.|挪用；盜用；侵吞|77|横領する；着服する|h|||
 petrifaction|n.|使變成石頭；石化；化石|77|石化|b|||
 phenomena||現象|77|現象|h|A rainbow is one of the most beautiful phenomena of nature.|彩虹是自然界最美的現象之一。|虹は最も美しい自然現象の１つだ。
 pilferage|n.|小偷小摸；偷竊；贓物|77|盗み；窃盗；盗品|h|||
 plainspoken|adj.|老實說的；直言無隱的；言辭率直的|77|率直な；ずけずけ言う|h|||
-plaque|n.|匾；飾板；名牌|77|歯垢；プラーク|b|I think I have a lot of plaque build up.||歯垢がずいぶん付いていると思いますが。
+plaque|n.|匾；飾板；名牌|77|プラーク；歯垢；銘板|v|I think I have a lot of plaque build up.||歯垢がずいぶん付いていると思いますが。
 plash|n.|淺池；積水坑；擊水聲；濺潑|77|浅い池；水しぶきの音|h|||
 plated|adj.|鍍金的；裝甲的；被覆鍍的|77|金めっきの；装甲の|h|||
 platelike||板狀的；層狀的|77|板状の；層状の|h|||
 premiere|v.|初次公演；首次露面；初次的演出|77|封切り；プレミアショー|b|I guarantee a huge audience for tonight's premiere.||今夜の初日はきっと大にぎわいになりますよ。
-privy|adj.|個人的；私人的；秘密的；有利害關係的人|77|厠|b|||
+privy|adj.|個人的；私人的；秘密的；有利害關係的人|77|秘密の；関与している；トイレ|v|||
 prorogue|v.|vi. 閉會；休會|77|閉会する；休会する|h|||
 prosecution|n.|執行；經營；起訴|77|起訴；訴追|a|The prosecution condemned the defendant for kidnapping a child.||検察側は被告が子供を誘拐したと激しく非難した。
 provincial|n.|外地人；粗野的人；省的；外地的|77|地方の；田舎者|h|Hangzhou is the provincial capital of Zhejiang Province.|杭州是浙江省的省會。|
@@ -12826,7 +12826,7 @@ reluctantly|adv.|不情願地；勉強地|77|渋々；いやいやながら|b|He
 rentable|adj.|可租的；可收租金的|77|賃貸できる|h|||
 reorient|v.|使適應；再調整|77|再調整する；適応させる|h|||
 requital|n.|酬答；還禮|77|報い；返礼|h|||
-respectfully|adv.|尊敬地|77|侍史；謹んで|b|He behaves respectfully toward his superiors.||彼は目上の人に対して丁重である。
+respectfully|adv.|尊敬地|77|謹んで；敬意をもって|v|He behaves respectfully toward his superiors.||彼は目上の人に対して丁重である。
 respondent|adj.|回答的；應答的；反射的；應答者|77|応答の；回答者|d|||
 rethink|v.|再想；重想|77|考え直す；再検討する|d|You should rethink this program.||この企画はもう一度想を練り直せ。
 roadside|n.|路旁；路邊；路邊的|77|道端；沿道|a|We had lunch at a roadside restaurant.||街道沿いのドライブインで昼食をとった。
@@ -12834,7 +12834,7 @@ rodeo|n.|競技表演|77|ロデオ|a|||
 rookie|n.|新手|77|ルーキー|a|The rookie breathed new life into the team.||その新人はチームに新たな生気を吹き込んだ。
 roster|n.|花名冊|77|名簿；名簿表|d|||
 ruins|n.|虛墟；遺蹟|77|廃墟；遺址|a|A series of blasts reduced the laboratory to ruins.|一連串的爆炸使實驗室成為廢墟。|一連の爆発で、その研究施設は瓦礫の山と化した。
-sapience|n.|象有學識；裝聰明；智慧|77|サピエンス|b|||
+sapience|n.|象有學識；裝聰明；智慧|77|知恵；賢明さ|v|||
 scathe|n.|危害；損傷；損害|77|損害；被害|h|||
 scenario|n.|劇本提綱；情節；劇本|77|筋書き；シナリオ|d|That's something like a movie scenario.|這件事情像是電影情節。|映画のシナリオみたいですね。
 scientifically|adv.|合乎科學地；學問上；系統地|77|科学的に；体系的に|h|The weather is forecast scientifically.|天氣的預報是很科學的。|天気は科学的に予報される。
@@ -12845,7 +12845,7 @@ semiarid|adj.|雨量非常少的；半乾旱的|77|半乾燥の|h|||
 semiliterate|n.|半文盲|77|半文盲の人|h|||
 semimolten||半熔化的|77|半溶融の|h|||
 sesame|n.|芝麻|77|セサミ|b|I ate black sesame ice cream.|我吃了黑芝麻冰淇淋。|僕は黒ゴマのアイスクリームを食べました。
-sibling|n.|兄弟；同胞|77|同生|b|I've always wondered what it'd be like to have siblings.|我總是想有兄弟姐妹會怎麼樣。|兄弟がいるとどんなだろうといつも思う。
+sibling|n.|兄弟；同胞|77|兄弟姉妹；きょうだい|v|I've always wondered what it'd be like to have siblings.|我總是想有兄弟姐妹會怎麼樣。|兄弟がいるとどんなだろうといつも思う。
 sicily|n.|西西里島|77|シチリア|b|Sicily is hot in summer.|西西里的夏天炎熱。|
 skillet|n.|煮鍋；長柄淺鍋|77|片手鍋；フライパン|h|Tom is banging the skillet with a big spoon.||トムは大きなスプーンでフライパンを叩いている。
 slater|n.|石板瓦工；鋪石板者|77|石板屋根職人|h|How do you happen to know Mr Slater?||どのようにしてスレーター氏を知ったのですか。
@@ -12864,7 +12864,7 @@ strata||層；地層；階層|77|地層；階層|h|||
 strategically|adv.|在戰略上；頗策略地|77|戦略的に；巧みに|h|||
 strings|n.|附帶條件；絃樂部分；絃樂器|77|ストリングス|b|He can pull strings for you.|他能為你暗箱操作。|裏から手を回してくれるよ。
 stripper|n.|剝...的人；刮毛器；折卸器|77|ストリッパー|a|||
-studies|n.|研究；學習；學業|77|学業|a|We discussed gun control in social studies class.|我們上社會課的時候談到了槍械管制的問題。|社会の授業で銃規制について話し合った。
+studies|n.|研究；學習；學業|77|研究；勉強；学業|v|We discussed gun control in social studies class.|我們上社會課的時候談到了槍械管制的問題。|社会の授業で銃規制について話し合った。
 stump|n.|殘株；樹樁；菸蒂；砍斷|77|株；スタンプ|b|The French teacher was stumped by her student's question.||フランス語の先生は、生徒の質問に言葉を詰まらせた。
 styles|n.|風格；樣式；模式|77|様式；スタイル|h|||
 subdiscipline|n.|學科的分支|77|下位分野；学問の分野|h|||
@@ -12879,18 +12879,18 @@ suspender|n.|懸掛者；襪吊；吊褲帶|77|つり具；ガーター|h|||
 sutherland|n.|薩瑟蘭郡；薩瑟蘭|77|サザーランド|h|||
 swat|v.|用力打下去；重拍；用勁打擊；長打|77|強く打つ；叩く|h|||
 synagogue|n.|猶太人集會；猶太教會堂；猶太教|77|シナゴーグ|b|There aren't that many synagogues in this city.|這座城的猶太教堂不是很多。|
-systems|n.|體制；體系；制度|77|システムズ|a|With Windows OS systems 'administrator account' corresponds to 'root'.||Windows系ＯＳではアドミニストレーターアカウントがルートに相当する。
+systems|n.|體制；體系；制度|77|システム；体制；体系|v|With Windows OS systems 'administrator account' corresponds to 'root'.||Windows系ＯＳではアドミニストレーターアカウントがルートに相当する。
 tables|n.|桌子；附錄；表格|77|テーブル；表；付録|h|There are no tables in the room.|房子裡沒有桌子。|部屋の中にテーブルはありません。
 tablets|n.|藥片；簡；碑|77|錠剤；タブレット；石板|h|The tablets took away my pain.|藥片止住了我的疼痛。|錠剤のおかげで痛みがなくなった。
 teams|n.|團隊；參賽隊伍|77|チーム；組|h|We've been matched up with some strong teams this year.|我們今年和不少強隊交過手。|我々は今年は強いチームと取り組まされた。
 teaser|n.|戲弄者；起絨機|77|ティーザー|b|||
 techniques|n.|方法；技巧；技術|77|技法；技術|h|He has excellent techniques which would outdo a specialist.||彼は専門家はだしの優れた技術をもっている。
-teens|n.|十三歲到十九歲|77|十代|d|My sister got married in her teens.|我妹妹在她十幾歲時就結婚。|私の妹は１０代で結婚した。
+teens|n.|十三歲到十九歲|77|10代|v|My sister got married in her teens.|我妹妹在她十幾歲時就結婚。|私の妹は１０代で結婚した。
 teeth||牙齒|77|歯牙|b|I had my teeth examined at the dentist's.|我在牙醫那兒檢查了牙齒。|歯医者で歯の検診を受けてきたよ。
 telecommuter||遠端工作者|77|在宅勤務者；テレワーカー|h|||
 temples|n.|邊撐；伸幅器；寺廟|77|こめかみ；寺院|h|Kyoto is famous for its shrines and temples.|京都以它的祭壇和寺院而聞名。|京都は神社や仏閣で有名だ。
 tenure|n.|享有；保有期|77|在職期間；保有|h|||
-thoughts|n.|思想；思維；想法|77|思し召し|b|We can normally conceal our thoughts from others.|我們通常會對其他人隱瞞自己的想法.|わたしたちは普通他人に自分の気持ちを隠す事ができる。
+thoughts|n.|思想；思維；想法|77|考え；思考；思い|v|We can normally conceal our thoughts from others.|我們通常會對其他人隱瞞自己的想法.|わたしたちは普通他人に自分の気持ちを隠す事ができる。
 threadlike|adj.|絲狀的；像絲的；細長的|77|糸状の；細長い|h|||
 threats|n.|威脅；恐嚇；可能造成威脅的人|77|脅威；脅し|h|I am not in the least afraid of his threats.|我一點也不怕他威脅。|私は彼の脅迫を少しも恐れていない。
 tickets|n.|票；罰單|77|切符；違反切符|h|Could I have two tickets to Malcolm X?|我能要兩張Malcom X的票嗎？|マルコムＸのチケット、２枚ください。
@@ -12931,7 +12931,7 @@ visas|n.|簽證|78|ビザ；査証|h|||
 visitors|n.|訪問者；遊客|78|訪問者；来客|h|Living in the country, I have few visitors.|當我住在鄉下的時候，我幾乎沒有訪客。|田舎に住んでいるので、来客はほとんどない。
 vitalist|n.|生機論者；活力論者|78|生気論者；活力論者|h|||
 volunteers|n.|義務工作者；志願者；自告奮勇者；自動提供|78|ボランティア；志願者|h|The babies are taken care of by volunteers.|嬰兒被志願者們照顧著。|その赤ちゃんはボランティアによって世話される。
-vortex|n.|旋渦；旋風；渦流|78|渦中；ボーテックス|a|||
+vortex|n.|旋渦；旋風；渦流|78|渦；渦巻き；渦中|v|||
 wally|adj.|好的；第一流的；大的|78|素晴らしい；一流の|h|||
 warrantable|adj.|可保證的；可擔保的；可證明為正當的|78|保証できる；正当と認められる|h|||
 weaverbird|n.|織布鳥|78|ハタオリドリ|d|||
@@ -12941,7 +12941,7 @@ weekends|adv.|在每週末|78|毎週末に；週末に|h|Jimmy often comes to se
 whales|n.|鯨；鯨魚|78|クジラ|h|It is believed that whales have their own language.|人們相信鯨有他們自己的語言。|鯨には独自の言語があると信じられている。
 wheels|n.|旋轉；車輪|78|回転；車輪|h|Japanese cars' steering wheels are on the right.|日本車的方向盤在右邊。|日本車は右ハンドルです。
 wollongong||伍倫貢|78|ウーロンゴン|h|||
-words|n.|言語；話語；字|78|詞；御沙汰|b|I looked up the words in my dictionary.|我用我的字典查了那幾個字。|私は自分の辞書で、そうした言葉の意味を調べた。
+words|n.|言語；話語；字|78|言葉；単語；発言|v|I looked up the words in my dictionary.|我用我的字典查了那幾個字。|私は自分の辞書で、そうした言葉の意味を調べた。
 workshops|n.|專題討論會；車間；工作坊|78|研究会；工房；ワークショップ|h|||
 xii|num.|羅馬數字 12|78|ローマ数字の十二|h|||
 yum|int.|極好的；妙的；美味的|78|おいしい；うまい|h|||
@@ -12949,7 +12949,7 @@ zion|n.|錫安山；耶路撒冷；基督教會|78|シオン山；エルサレ�
 abbot|n.|男修道院院長；大寺院男住持|78|修道院長；大寺院の住職|d|||
 abduction|n.|誘拐；綁架；外展|78|誘拐；連れ去り|a|||
 abusive|adj.|惡言謾罵的；被濫用的；腐敗的|78|乱暴な；虐待的な|h|I had never received such an abusive letter before.||私はそれまでにこれほど罵倒にみちた手紙を受け取ったことはなかった。
-accelerator|n.|加速劑；加速器；油門|78|アクセル；加速器|a|I stepped on the accelerator carefully.||私は注意深くアクセルを踏んだ。
+accelerator|n.|加速劑；加速器；油門|78|加速器；アクセル|v|I stepped on the accelerator carefully.||私は注意深くアクセルを踏んだ。
 acrylic|adj.|丙烯酸的|78|アクリル|a|||
 adultery|n.|通姦|78|不倫；姦淫|a|According to many religions, adultery is a crime.||多くの宗教において、姦淫は罪悪とされる。
 almond|n.|杏仁|78|アーモンド；扁桃|a|I like to eat a date with almonds.||アーモンドと一緒にデーツを食べるのが好きです。
@@ -12986,14 +12986,14 @@ centric|adj.|中心的；中央的|78|中心の；中央の|h|||
 characterization|n.|特性描述；人物之塑造|78|性格描写；人物造形|d|Critics may argue that all the foregoing characterizations are very abstract.||批評家はこれまでに述べた特徴づけはすべて非常に抽象的であると反論するかもしれない。
 childbirth|n.|分娩|78|出産；分娩|a|Last time it was a natural childbirth.||先回は自然分娩でした。
 chlorine|n.|氯|78|塩素；クロール|a|There's a chance that tap water may contain harmful substances like chlorine and lead.|自來水有可能含有氯、鉛等有害物質。|水道水には塩素、鉛などの有害物質が含まれている可能性がある。
-chung|n.|鍾；宗；忠|78|チョン|h|||
+chung|n.|鍾；宗；忠|78|チョン；鍾|v|||
 citation|n.|引用；引證；引用文|78|サイテーション|b|||
 clench|n.|牢牢抓住；釘緊；敲彎釘尖；緊握|78|食いしばる|b|My stomach is clenched with hunger.||空腹でおなかがぺしゃんこだ。
 clout|n.|敲擊；破布；打補釘|78|影響力；打撃|d|||
 collegiate|adj.|學院的|78|大学の；大学生の|h|||
 colon|n.|冒號；結腸|78|コロン；結腸|a|A colon is a punctuation mark.||コロンは句読点です。
 compassionate|adj.|慈悲的；富於同情心的；照顧性的；憐憫|78|思いやりのある；同情的な|h|||
-consolidation|n.|鞏固；團結；合併|78|圧密|b|||
+consolidation|n.|鞏固；團結；合併|78|統合；合併；強化|v|||
 contractual|adj.|契約的|78|契約上の|h|Enter in a contractual agreement with me and become a young magical girl!||僕と契約して魔法少女になってよ。
 corona|n.|冠；冠狀物；副冠|78|コロナ；光環|a|I will not take the Corona vaccine.||コロナワクチンは受けないよ。
 coronary|adj.|冠的；花冠的；冠狀的|78|冠状|b|||
@@ -13003,7 +13003,7 @@ covert|adj.|隱蔽的；偷偷摸摸的；隱密的；樹叢|78|隠された；�
 cowardly|adj.|怯懦的；懦弱的；膽小的|78|卑怯；臆病|a|Tom is shy and cowardly.|湯姆害羞膽怯。|
 crate|n.|板條箱；裝貨箱|78|木箱；荷箱|h|||
 creamy|adj.|含乳脂的；乳脂狀的；奶油色的|78|クリーミー|b|||
-crest|n.|冠；飾毛；頭盔的頂部；到達絕頂|78|紋；紋章|a|I've forgotten. Was House Lancaster's family crest a red rose, or a white rose?||ランカスター家の紋章が赤バラだったか、白バラだったか忘れてしまった。
+crest|n.|冠；飾毛；頭盔的頂部；到達絕頂|78|頂上；とさか；紋章|v|I've forgotten. Was House Lancaster's family crest a red rose, or a white rose?||ランカスター家の紋章が赤バラだったか、白バラだったか忘れてしまった。
 crook|n.|鉤；彎曲部分；壞蛋；使彎曲|78|曲がり；悪党；曲げる|d|In our society we find men of integrity along with crooks.|我們的社會良莠不齊。|われわれの社会には、高潔な人もいれば、詐欺師もいる。
 crusade|n.|改革運動；十字軍東侵；從事改革運動；加入十字軍|78|改革運動；十字軍|h|||
 culprit|n.|犯人；罪犯；刑事被告|78|犯人；罪人|d|None of them would admit to being the culprit.|他們沒有一個人承認自己是犯人。|誰一人罪を犯した事を認めようとはしなかった。
@@ -13011,13 +13011,13 @@ dealership|n.|代理權；經銷權|78|販売代理権；販売店|h|||
 decker|n.|裝飾者；有...層甲板的船隻；有...層面的車輛|78|甲板のある船；層構造のもの|h|There are no double-decker buses in Algiers.|阿爾及爾沒有雙層巴士。|
 densely|adv.|濃密地；濃厚地|78|密集して；濃厚に|h|The entire body is densely covered with hair.||からだ全体が密に毛でおおわれている。
 designation|n.|指示；指定；命名|78|指定|a|||
-digit|n.|數字；位數；指頭|78|ディジット|b|One million is a seven digit number.||100万は7桁です。
+digit|n.|數字；位數；指頭|78|数字；桁；指|v|One million is a seven digit number.||100万は7桁です。
 dire|adj.|可怕的；悲慘的；陰沉的|78|ひどい；悲惨な|h|I'm in dire need of money.|我真的很需要錢！|どうしてもお金が必要なんだ。
 dirk|n.|短劍；匕首；用短劍刺|78|短剣；匕首|d|||
-dismantle|v.|拆除...的裝置；分解；去除覆蓋物|78|取り外す|a|||
+dismantle|v.|拆除...的裝置；分解；去除覆蓋物|78|解体する；分解する；取り除く|v|||
 disparity|n.|不一致|78|不一致；格差|d|3-D glasses make use of retinal disparity.|3D 眼鏡的原理是視網膜視差。|
 dissent|n.|異議；持異議；不同意|78|不承|b|He dissented from the opinion of the majority.||彼は大多数の意見に異議を唱えた。
-domination|n.|支配；控制；管轄|78|覇業|b|I guess she's into bondage and domination.|我想她想要的是束縛與支配。|彼女のフェチが緊縛と支配でしょう。
+domination|n.|支配；控制；管轄|78|支配；統治；優越|v|I guess she's into bondage and domination.|我想她想要的是束縛與支配。|彼女のフェチが緊縛と支配でしょう。
 duct|n.|管；輸送管；透過管道輸送|78|ダクト|a|I was told my tear duct was blocked.||涙腺が詰まっていると言われました。
 dune|n.|沙丘|78|デューン|b|||
 eater|n.|吃...的人；生吃的水果；美味的水果|78|食べる人；食用果物|h|He is a big eater.|他是個大胃王。|彼は大食漢だ。
@@ -13029,21 +13029,21 @@ familiarity|n.|熟悉；精通；親密|78|馴染み|b|||
 federally|adv.|同盟地；聯邦地；聯邦政府地|78|連邦政府として；連邦制で|h|||
 felony|n.|重罪|78|重罪；重犯|b|||
 fetus|n.|胎兒|78|胎児|a|||
-fiddle|n.|小提琴；提琴類樂器；虛度時光；拉小提琴|78|フィドル|b|You're certainly looking fit as a fiddle today.||今日はとても元気そうだね。
+fiddle|n.|小提琴；提琴類樂器；虛度時光；拉小提琴|78|フィドル；バイオリン；いじる|v|You're certainly looking fit as a fiddle today.||今日はとても元気そうだね。
 fig|n.|無花果；無價值的東西；少許；打扮|78|無花果|b|The figs of Atush are sweet and juicy.|阿圖什的無花果是甜蜜多汁的。|
 filler|n.|裝填者；補白；裝填物|78|フィラー|b|||
 flavored|v.|給…調味；給…增添風趣|78|味付けされた；風味のついた|h|I like to eat chocolate flavored ice cream.|我喜歡吃巧克力味的冰激凌。|
-forensic|adj.|辯論的；法院的；關於法庭的；辯論練習|78|フォレンジック|b|The Forensic Investigation Unit is trying to determine the cause of today's fire.||鑑識班は今日の火事の原因を特定しようとしている。
+forensic|adj.|辯論的；法院的；關於法庭的；辯論練習|78|法医学の；法廷の|v|The Forensic Investigation Unit is trying to determine the cause of today's fire.||鑑識班は今日の火事の原因を特定しようとしている。
 fortified|adj.|加強的|78|強化された；補強された|h|The city was well fortified except on this side.||その都市は、こちら側以外は十分防備されていた。
 fritz|n.|德國兵；德國人|78|ドイツ兵；ドイツ人|h|My dad's name is Fritz.|我父親的名字叫Fritz。|
-fulfillment|n.|履行；結束；完成|78|成就|a|||
+fulfillment|n.|履行；結束；完成|78|達成；履行；充実感|v|||
 fumble|n.|摸索；笨拙的行動；漏球|78|ファンブル|b|She fumbled with a piece of paper.|她摸索著一張紙。|あやふやな手つきで一枚の紙を動かした。
 generalized|adj.|廣義的；普遍的；無顯著特點的|78|一般化された；普遍的な|h|||
 godfather|n.|教父；當教父|78|ゴッドファーザー；教父|a|He stood godfather to my first son.||彼は私の長男の名付け親であった。
 goodwill|n.|友好；好意；善意|78|善意；好意|d|Your goodwill sank into my heart.||あなたの善意は身にしみました。
 gran|n.|外祖母；祖母；老奶奶|78|祖母；おばあちゃん|d|||
 grenade|n.|手榴彈|78|グレネード；擲弾|b|The grenade exploded five metres from the soldiers.||兵士から5メートル離れてグレネードが爆発した。
-groom|n.|馬伕；新郎；男僕；餵馬|78|別当|b|At this shop, we expect a well-groomed appearance.||この店では清爽でお願いします。
+groom|n.|馬伕；新郎；男僕；餵馬|78|新郎；馬丁；身だしなみを整える|v|At this shop, we expect a well-groomed appearance.||この店では清爽でお願いします。
 guru|n.|古魯|78|グル|b|I have an appointment to visit a guru in India.||私はインドのグルに会う約束があります。
 hack|n.|劈；砍；砍痕|78|ハック；へっぽこ|b|We hacked a path through the forest.|我們開出了一條穿過森林的小路。|森の中に道を切り開いた。
 helm|n.|舵；駕駛盤；樞機；給...掌舵|78|ヘルム|b|Bad people are at the helm of the nation.||悪い人間が国家の要職に就いていますね。
@@ -13081,7 +13081,7 @@ midland|n.|中部地方；內地|78|中部地方；内陸|h|||
 mildly|adv.|柔和地；和善地；適度地|78|穏やかに；軽く|h|He has too many interests, to put it mildly.||控え目に言っても彼は関心事が多すぎる。
 miscellaneous|adj.|各種的；多方面的|78|雑多|b|I keep all my miscellaneous files in this folder.||このフォルダーに、「その他」に分類される全てのファイルを入れて保管しています。
 misguided|adj.|被誤導的|78|誤った；誤導された|h|||
-mogul|n.|大人物；有權勢的人|78|モーグル|b|||
+mogul|n.|大人物；有權勢的人|78|大物；実力者；モーグル|v|||
 monastery|n.|修道院；僧侶|78|修道院；僧院|a|Monks used to play tennis in monasteries.||当時は修道僧達が修道院でよくテニスをしていた。
 monumental|adj.|紀念碑的；做為紀念的；不朽的|78|モニュメンタル|b|The moon landing was a monumental achievement.|登月是一項里程碑式的成就。|月着陸は記念すべき偉業であった。
 moto|n.|摩托車越野賽預賽；運動；進行|78|オートバイ競技|h|||
@@ -13089,7 +13089,7 @@ mule|n.|騾；倔強之人|78|ラバ；ミュール|b|The old man loaded his mul
 mumble|n.|喃喃而語；咕噥|78|つぶやき；ぶつぶつ言うこと|h|"Hrmm," mumbled Professor Takeda as he twisted his moustache.||「ふむ」 武田先生は口ひげを捻りながらうなった。
 municipality|n.|自治區；市當局；市民|78|自治体|a|||
 nasal|adj.|鼻的；鼻聲的；尖銳的；鼻音|78|鼻の；鼻声の|h|I've had a nasal voice for two weeks.||ここ２週間鼻声が抜けません。
-nay|adv.|否；不；不僅如此；拒絕|78|ナーイ|b|Nay, then, I will try it.||いや、それなら僕がやってみよう。
+nay|adv.|否；不；不僅如此；拒絕|78|いや；それどころか；反対票|v|Nay, then, I will try it.||いや、それなら僕がやってみよう。
 nestle|v.|舒適地坐定；挨靠；偎依；抱|78|寄り添う；抱き寄せる|h|The baby nestled in his mother's arms.||赤ん坊は気持ちよさそうに母親に抱かれていた。
 nude|adj.|裸的；肉色的；無裝飾的；裸體畫|78|ヌード；裸像|a|This nude poster appeals visually to the young.||このヌードのポスターには若者の視覚に訴えるものがある。
 nudge|n.|用肘輕推；推動；討厭傢伙|78|肘で軽く突くこと；後押し|h|He nudged me to go ahead.||彼は私をつついて先に行けと合図した。
@@ -13123,7 +13123,7 @@ reflex|n.|反射；反射光；映像；反射的|78|レフレックス|b|The bo
 reinforcement|n.|加強；增援；補充|78|増強；補強|a|||
 relegation|n.|驅逐；調職；歸屬|78|降格；左遷；分類|d|||
 relocate|v.|重新安置；再配置；放在新地方|78|移転する；再配置する|h|She will be relocated to New Zealand.||ニュージーランドへ転勤になります。
-reluctance|n.|不情願；勉強|78|惜しげ；リラクタンス|b|He showed a great reluctance to help me.||彼は私の手伝いをするのを露骨にいやがった。
+reluctance|n.|不情願；勉強|78|不本意；気乗り薄；抵抗|v|He showed a great reluctance to help me.||彼は私の手伝いをするのを露骨にいやがった。
 renal|adj.|腎臟的；腎的|78|腎臓の|h|||
 reopen|v.|重開；再開始；再開|78|再開する；再び開く|h|A historical landmark has been restored and will reopen.|一座歷史地標已經修復並將重新開放。|
 repayment|n.|付還；償還；報復|78|返済；払い戻し|a|He impatiently asked for repayment.||しびれを切らして借金の催促をした。
@@ -13136,7 +13136,7 @@ saddam|n.|薩達姆|78|サダム|h|It's only the anti-war pinkos who say things 
 sage|n.|聖人；哲人；鼠尾草屬植物；賢明的|78|哲；知者|b|||
 saloon|n.|大廳；沙龍；酒吧|78|サルーン|a|||
 sandal|n.|涼鞋；拖鞋；檀香木；穿以便鞋|78|サンダル|a|I bought a pair of sandals that match him.||彼とお揃いのサンダルを買ったの。
-shack|n.|陋屋；棚屋；居住；暫住|78|バラック|a|I want my own house, even if it's a shack.||掘っ建て小屋でもいいから自分の家が欲しい。
+shack|n.|陋屋；棚屋；居住；暫住|78|小屋；掘っ立て小屋|v|I want my own house, even if it's a shack.||掘っ建て小屋でもいいから自分の家が欲しい。
 shudder|n.|戰慄；發抖|78|戦慄；おののき|b|The terrible scene made him shudder.|恐怖的場面讓了他顫抖。|恐ろしい光景に彼は戦慄した。
 sioux|adj.|蘇人的；蘇語的|78|スー|b|The Sioux had signed a treaty with the government in 1868.|蘇族於 1868 年與政府簽訂了一項條約。|
 sire|n.|陛下；殿下；父親；生殖|78|種雄|b|||
@@ -13164,7 +13164,7 @@ vaginal|adj.|鞘的；似葉鞘的；陰道的|78|膣の；鞘状の|h|||
 vampire|n.|吸血鬼|78|吸血鬼；ヴァンパイア|a|Legends of vampires flourish in the Balkans.||吸血鬼伝説はバルカン地方に流布している。
 venezuelan|adj.|委內瑞拉的；委內瑞拉人的|78|ベネズエラの；ベネズエラ人の|h|It took a long time for me to get accustomed to the Venezuelan accent.|我花了好長時間才適應了委內瑞拉的口音。|
 vin|n.|酒；葡萄酒|78|ワイン；ぶどう酒|h|||
-vivo|adv.|活潑地；生動地|78|ビーボ|b|||
+vivo|adv.|活潑地；生動地|78|生き生きと|v|||
 voodoo|n.|伏都教；巫術；巫術信仰|78|ブードゥー|b|I'm not a believer of voodoo.||ブードゥー教の信者ではありません。
 walled|adj.|有城牆的|78|壁で囲まれた；城壁のある|h|||
 watershed|n.|流域；分水嶺|78|分水嶺|b|||
@@ -13217,7 +13217,7 @@ containment|n.|抑制；牽制；遏制|78|封じ込め|b|||
 contentious|adj.|好爭吵的；愛爭論的；有異議的|78|論争好きな；議論を呼ぶ|h|||
 convertible|adj.|可改變的；可交換的；有活動篷的汽車|78|コンバーチブル|b|My new Alfa Romeo convertible is light red.||私の新しいアルファ・ロメオのオープンカーは明るい赤色だ。
 cornerstone|n.|奠基石；基礎|78|礎石；基礎|d|||
-cub|n.|幼獸；年輕人|78|カブ|a|The tiger cub looked like a large kitten.|小老虎看起來像隻大貓。|トラの子は大きな子ネコのようだった。
+cub|n.|幼獸；年輕人|78|幼獣；子熊；未熟者|v|The tiger cub looked like a large kitten.|小老虎看起來像隻大貓。|トラの子は大きな子ネコのようだった。
 deacon|n.|副主祭；執事；行會會長；朗讀|78|助祭|b|||
 decency|n.|得體；禮貌；正派|78|品位；礼儀正しさ|h|She had the decency to apologize.|她大方地道歉。|謝るぐらいの礼儀は彼女も心得ていた。
 demanding|adj.|要求高的；費力的|78|要求の厳しい；骨の折れる|h|Sales business jobs are probably very demanding, right?||営業職って、きついんでしょ？
@@ -13251,7 +13251,7 @@ fetal|adj.|胎兒的；胎的|78|胎児の|h|||
 finale|n.|結局；最後樂章；終曲|78|フィナル；終曲|b|||
 fledgling|n.|羽毛初長的雛鳥；剛會飛的幼鳥；無經驗的人|78|若鳥；駆け出し|d|There was a fledgling bird there.||そこに羽の生えたばかりの小鳥がありました。
 flinch|v.|畏縮；退縮；畏首畏尾|78|たじろぐ；ひるむ|d|You mustn't let the other person notice that you flinched.||怯んだのを相手に気取られてはいけない。
-foreclosure|n.|取消抵押品贖回權|78|抵当流れ；担保権の実行|d|||
+foreclosure|n.|取消抵押品贖回權|78|抵当権の実行；差し押さえ|v|||
 fraternity|n.|友愛；互助會；大學生聯誼會|78|友愛；フラタニティ|a|He is a member of the fraternity.||彼は友愛会の会員だ。
 freaky|adj.|畸形的；捉摸不定的|78|奇妙な；異様な|h|||
 gadget|n.|小配件；小玩意；詭計|78|ガジェット|a|These gadgets seem to be of no use.||これらの小道具は役に立ちそうにない。
@@ -13260,13 +13260,13 @@ goo|n.|粘性物；過分多情|78|粘液；甘ったるさ|h|That's not a bear 
 gritty|adj.|有砂礫的；堅韌不拔的|78|砂利の多い；根性のある|h|||
 halo|n.|暈輪；光圈；暈狀物；使有暈輪|78|暈；ハロー|b|||
 heartbreak|n.|心碎；傷心事|78|傷心；断腸|b|Hsin-yi got so much slimmer lately. Is it gym or heartbreak?|欣怡最近瘦好多喔，是去健身房還是失戀啊？|
-heartbroken|adj.|心碎的|78|がっくり|a|He was heartbroken from unrequited love.||彼は失恋のために傷心した。
-heartfelt|adj.|衷心的；真心真意的|78|まんこう|b|Please accept our heartfelt apologies.||私たちの謝罪をどうかお受け下さい。
+heartbroken|adj.|心碎的|78|傷心の；悲嘆に暮れた|v|He was heartbroken from unrequited love.||彼は失恋のために傷心した。
+heartfelt|adj.|衷心的；真心真意的|78|心からの；衷心の|v|Please accept our heartfelt apologies.||私たちの謝罪をどうかお受け下さい。
 hegemony|n.|霸權；領導權；支配權|78|覇権；主導権|a|||
 heist|n.|強奪；攔劫；搶劫|78|強奪；強盗|h|||
 hesitant|adj.|遲疑的；躊躇的；猶豫不定的|78|ためらう；躊躇する|h|I'm rather hesitant about asking him a favor.||あの人に頼むのはちょっと気が進まない。
 heterosexual|adj.|異性的；異性愛的；異性戀的人|78|異性愛者；ヘテロセクシュアル|b|||
-hone|n.|磨刀石；抱怨；想念；用磨刀石磨|78|ホーン|b|||
+hone|n.|磨刀石；抱怨；想念；用磨刀石磨|78|研ぐ；磨く；砥石|v|||
 hoof|n.|蹄；腳；以蹄踢；行走|78|蹄|b|I am so exhausted because I have padded the hoof for 4 hours.|走了四個小時，我覺得非常累了。|かなり疲れたよ、４時間も歩いたからさ。
 horrific|adj.|令人毛骨悚然的；感到恐懼的|78|ぞっとするような；恐ろしい|h|||
 horseback|n.|馬背；在馬背上；騎在馬上|78|馬上|b|He likes to go out on horseback.|他喜歡騎馬出行。|彼は馬に乗って出かけるのが好きです。
@@ -13286,7 +13286,7 @@ inscription|n.|題字；碑銘|78|碑文；銘|a|||
 integer|n.|完整的事物；整體；整數|78|整数|a|The positive integer 126 has the prime factors 2, 3, 3 and 7.|正整數126的素因數為2、3、3和7。|
 intuitive|adj.|直覺的|78|直感的な|h|||
 irritation|n.|刺激；煩惱；刺激物|78|苛立ち|b|There was no irritation on his part.||彼としては少しもいらいらしてなかった。
-iteration|n.|重複；反覆說的話|78|イテレーション|b|||
+iteration|n.|重複；反覆說的話|78|反復；繰り返し|v|||
 jockey|n.|賽馬騎師；駕駛員；操作工；騙|78|ジョッキー|b|He is out and away the best jockey.||彼は抜群の騎手だ。
 kicker|n.|踢者；善踢的人；愛踢的馬|78|キッカー|b|||
 kickoff|n.|開球；開始；肇始|78|キックオフ|a|Do you have any idea what time is kickoff?|你知道什麼時候要中線開球嗎？|
@@ -13326,7 +13326,7 @@ pew|n.|教堂長椅；會眾；座位；為安裝座位|78|教会の長椅子；
 pinky|adj.|帶淡紅色的；比較激進的|78|淡いピンクの；やや急進的な|h|Can you bend your pinky without bending your ring finger?||薬指を曲げずに、小指だけを曲げれる？
 placebo|n.|晚禱歌；安慰劑；安慰的話|78|プラセボ；偽薬|b|||
 playable|adj.|可玩的；可演奏的；宜玩的|78|プレイアブル|b|||
-plume|n.|羽毛；羽毛裝飾；羽狀的；用羽毛裝飾|78|プルーム|b|||
+plume|n.|羽毛；羽毛裝飾；羽狀的；用羽毛裝飾|78|羽毛；羽根飾り；煙の柱|v|||
 poignant|adj.|辛酸的；尖銳的；劇烈的|78|胸を刺すような；痛切な|h|||
 pollster|n.|民意調查人；民意測驗經辦人|78|世論調査員|h|||
 posh|adj.|豪華的；漂亮的；優雅的；呸|78|豪華な；上流の|h|||
@@ -13340,7 +13340,7 @@ pundit|n.|學者；梵文學者；博學的印度人|78|専門家；評論家|d|
 punitive|adj.|刑罰的；懲罰性的|78|懲罰的な|h|||
 qualifier|n.|取得資格的人；限定語|78|資格を得た人；限定語|h|||
 rebirth|n.|再生；復活；新生|78|新生；生まれ変わり|a|The egg is a universal symbol of life and rebirth.||「卵」は生命と再生の世界的なシンボルです。
-reborn|adj.|再生的；更新的|78|リボーン|b|If I were reborn, I would want to learn the violin.||生まれ変わったらヴァイオリン習いたい。
+reborn|adj.|再生的；更新的|78|生まれ変わった；再生した|v|If I were reborn, I would want to learn the violin.||生まれ変わったらヴァイオリン習いたい。
 recharge|v.|再充電；再裝填；再控告；再襲擊|78|リチャージ|b|Electric cars can be recharged at home.||電気自動車は家での再充電が可能です。
 rejoin|v.|使再結合；再加入；回答；重新聚合|78|再び加わる；答える|h|I rejoined my friends. When did you rejoin them?|我和朋友們重聚了。你什麼時候跟他們重聚的？|
 reliably|adv.|可靠地；可信賴地|78|確実に；信頼して|h|||
@@ -13349,7 +13349,7 @@ reputable|adj.|受好評的；有聲望的；規範的|78|評判のよい；信�
 restroom|n.|洗手間；休息室；更衣室|78|レストルーム|b|May I go to the restroom?|我可以去洗手間嗎？|トイレに行ってもいいですか。
 resurgence|n.|再起；復活；再現|78|復活；再燃|h|||
 retina|n.|視網膜|78|網膜|a|||
-revealing|adj.|暴露的；顯露的；揭露的|78|口外|b|Mary often wears revealing clothes.||メアリーは露出度の高い服をよく着ている。
+revealing|adj.|暴露的；顯露的；揭露的|78|暴露的な；示唆に富む；露出度の高い|v|Mary often wears revealing clothes.||メアリーは露出度の高い服をよく着ている。
 revolver|n.|左輪手槍|78|リボルバー|b|England is a land where the policemen carry no revolvers.||イギリスは警官が銃を携帯しない国です。
 rewarding|adj.|有益的；有報酬的；報答的|78|やりがいのある；報われる|d|I like this work because you see the result immediately; it's very rewarding.|我喜歡這個工作因為它立竿見影，讓人很有成就感。|
 rink|n.|溜冰場；室內溜冰場；溜冰|78|リンク|b|I want to go to the ice rink.|我想去滑冰場。|
@@ -13387,11 +13387,11 @@ substitution|n.|代替；替換；代替物|78|代替；代用|a|||
 supernova|n.|超新星|78|超新星|b|||
 surrogate|n.|替代者；代用品；代理；替代|78|サロゲート|b|||
 taking|n.|取得；捕獲；進款；迷人的|78|連行；引き取り|a|Our plans for the summer are taking shape.|我們夏天的計劃成型了。|夏休みの計画が具体化してきた。
-tart|adj.|酸的；辛辣的；尖酸的；妖豔打扮|78|タルト；タート|b|Mary really likes sweet and sour raspberry tart.||メアリーは、甘酸っぱいラズベリータルトが大好きです。
+tart|adj.|酸的；辛辣的；尖酸的；妖豔打扮|78|酸っぱい；辛辣な；タルト|v|Mary really likes sweet and sour raspberry tart.||メアリーは、甘酸っぱいラズベリータルトが大好きです。
 taut|adj.|拉緊的；整潔的；緊張的|78|ぴんと張った；緊張した|h|||
-tenet|n.|信條；教義；宗旨|78|教条|b|||
+tenet|n.|信條；教義；宗旨|78|教義；信条；主義|v|||
 tenor|n.|穩定的程序；思路；要旨；男高音的|78|テナー；テノール|a|I play the tenor saxophone.|我吹次中音薩克斯風。|
-testament|n.|遺囑；<<聖約書>>|78|テスタメント|b|The Old Testament forbids eating shellfish.|舊約書中禁止食用貝類等有殼的水生動物。|
+testament|n.|遺囑；<<聖約書>>|78|遺言；証し；聖約|v|The Old Testament forbids eating shellfish.|舊約書中禁止食用貝類等有殼的水生動物。|
 thinker|n.|思想者；思想家|78|思想家|b|Between you and me, he's a shallow thinker.|他思想膚淺，這個我們知道就好。|ここだけの話だが彼の考え方は深みに欠ける。
 tobago|n.|多巴哥島|78|トバゴ|h|||
 torah|n.|教導；律法；<<舊約>>之首五卷|78|トーラー|b|My son is being called up to the Torah on Sunday.|我兒子週日需要學習《妥拉》。|
@@ -13401,7 +13401,7 @@ twain|n.|二；兩；一對|78|二つ；二人；一対|h|||
 ulcer|n.|潰瘍；腐爛物|78|潰瘍|b|I have an ulcer in my mouth.||口内炎ができているのです。
 umpire|n.|裁判員；仲裁人；對...進行仲裁；當...的裁判|78|アンパイア|b|I was asked to umpire the game.|我被要求當這場比賽的裁判。|私はその試合の審判をするように頼まれた。
 undercut|n.|底切；牛腰部下側嫩肉；下口；廉價出售|78|ダレ|b|||
-unification|n.|統一；聯合；一致|78|統括；一元化|a|||
+unification|n.|統一；聯合；一致|78|統一；統合|v|||
 unison|n.|調和；和諧；一致；共同做的|78|ユニゾン|b|We said in unison that we didn't agree to the suggestion.||その提案に口をそろえて反対を唱えた。
 unnoticed|adj.|不被注意的；被忽視的|78|気づかれない；見過ごされた|h|Her absence went unnoticed until the end of the meeting.|直到會議結束之前都沒人注意到她不在。|会議が終わるまで、誰も彼女のいないことに気がつかなかった。
 unpublished|adj.|未公開出版的；未發表過的|78|未発表；未刊|a|||
@@ -13440,15 +13440,15 @@ biker|n.|騎腳踏車/摩托車的人|78|自転車やオートバイに乗る人
 bipartisan|adj.|兩黨連立的|78|二大政党の；超党派の|h|||
 blare|n.|巨響；吼叫聲；光澤；高聲鳴叫|78|大音響；鳴り響く音；鳴り響く|h|The blare of the radio burst upon our ears.||ラジオの騒音が我々を襲った。
 blatant|adj.|喧囂的；吵鬧的；俗麗的|78|あからさまな；露骨な；けばけばしい|h|I glared at him with a blatant look of disapproval on my face.||露骨に嫌な顔をして、彼を睨みつけた。
-bloated|adj.|發脹的；浮腫的；傲慢的|78|タポタポ|b|My lower abdomen feels bloated.||下腹部が張ります。
+bloated|adj.|發脹的；浮腫的；傲慢的|78|膨れ上がった；むくんだ；水ぶくれの|v|My lower abdomen feels bloated.||下腹部が張ります。
 blockade|n.|阻塞；封鎖|78|封鎖|a|||
 blooded|adj.|純種的；血統優良的|78|血統の良い；純血種の|h|I suspect that Tom is a cold-blooded murderer.||トムさんは残忍冷酷な人殺しだと推理します。
 bog|n.|沼澤；使陷於泥沼|78|泥沼|a|We were bogged down in a morass of paperwork.||私たちは書類事務の泥沼に陥っていた。
 bogus|adj.|假的；偽造的|78|にせの；偽造の|h|||
-borderline|n.|邊界；界線；邊界的|78|境目|a|You really ought to wash your hands of this borderline illegal work.||そろそろこんな犯罪まがいの仕事から足を洗ったらどうなんだ。
+borderline|n.|邊界；界線；邊界的|78|境界線；ボーダーライン；ぎりぎりの|v|You really ought to wash your hands of this borderline illegal work.||そろそろこんな犯罪まがいの仕事から足を洗ったらどうなんだ。
 bourne|n.|小溪；目的地；邊界|78|小川；目的地；境界|h|||
-breeder|n.|飼養員；養育員；起因|78|ブリーダー|b|||
-brokerage|n.|經紀人；回扣；佣金|78|仲買|a|||
+breeder|n.|飼養員；養育員；起因|78|ブリーダー；繁殖業者；原因|v|||
+brokerage|n.|經紀人；回扣；佣金|78|仲介業；仲介手数料|v|||
 buildup|n.|發展；集結；增強|78|発展；増強；蓄積|d|||
 burr|n.|毛邊；鑽孔器；芒刺；發音含混地說話|78|バリ；いが|b|||
 butch|n.|充當男性角色的女同性戀者；粗魯的男人或男孩|78|男性的な役割をとる女性同性愛者；粗野な男|h|||
@@ -13458,7 +13458,7 @@ caveat|n.|中止訴訟程式的申請；警告|78|訴訟手続きの停止申し
 cher|n.|謝爾河|78|シェール川|h|||
 ching|n.|實驗用電子控制自動轉換|78|チン|b|||
 civilisation|n.|文明；文明世界；文化|78|文明；文明社会；文化|d|This is a highly developed civilisation.|這是一個高度發展的文明。|
-cleric|adj.|牧師的；教士的|78|クレリック|b|||
+cleric|adj.|牧師的；教士的|78|聖職者；牧師|v|||
 clerical|adj.|文書的；事務上的；抄寫員的；牧師|78|事務の；書記の；聖職者の|h|||
 clientele|n.|訴訟委託人；客戶|78|客層|b|The majority of his clientele are poor people.|他的客人多是窮人。|
 clover|n.|紅花草|78|クローバー|b|Meg found a four leaf clover.|梅格發現了四片葉子的三葉草。|メグは四つ葉のクローバーを見つけた。
@@ -13482,7 +13482,7 @@ crackdown|n.|制裁；鎮壓；痛擊|78|取り締まり；弾圧；厳しい処
 cringe|n.|畏縮；奉承；抖縮|78|縮み上がる；へつらう；身をすくめる|h|The whole nation cringed before this dictator in fear.||全国民は恐怖からこの独裁者の前にひれ伏した。
 crispy|adj.|捲曲的；鬆脆的；易碎的|78|パリパリ；クリスピー|b|||
 crutch|n.|柺杖；支撐；依靠|78|松葉杖|b|A young girl on crutches asked Tom where he lived.|一個拄著柺杖的年輕女孩問湯姆他住在哪裡。|松葉づえの若い女性はトムに住んでいるところを聞いた。
-cubicle|n.|小臥室|78|キュービクル|b|||
+cubicle|n.|小臥室|78|小部屋；仕切られた仕事場|v|||
 curfew|n.|晚鐘；打晚鐘時刻；宵禁|78|門限；夜間外出禁止令|d|Are you going to pull curfew on me?||外出の時間制限をするつもりですか。
 cutler|n.|刀匠；刀剪商|78|刃物師；刃物商|d|||
 cylindrical|adj.|圓柱體的；圓筒形的|78|寸胴|b|||
@@ -13519,15 +13519,15 @@ ethos|n.|氣質；民族精神；社會思潮|78|エートス|b|||
 fad|n.|時尚|78|ファッド|b|Loose jackets are the latest fad.||だぼっとしたジャケットが最新の流行なんだよ。
 felicity|n.|快樂；幸福；幸運|78|幸福；喜び；適切さ|h|||
 felon|n.|重罪犯；惡棍；瘭疽|78|重罪犯；悪人；膿瘍|h|||
-fiercely|adv.|猛烈地；厲害地|78|ぼんぼん|b|To make matters worse, it began to thunder fiercely.||さらに悪いことに、激しく雷が鳴り始めた。
+fiercely|adv.|猛烈地；厲害地|78|激しく；猛烈に|v|To make matters worse, it began to thunder fiercely.||さらに悪いことに、激しく雷が鳴り始めた。
 fiesta|n.|祭典日；喜慶日；假日|78|フィエスタ|b|||
 fife|n.|橫笛；吹橫笛|78|フィフ；横笛；横笛を吹く|h|||
-fillet|n.|頭帶；帶子；用帶縛|78|ヒレ；フィレット|a|||
+fillet|n.|頭帶；帶子；用帶縛|78|フィレ；ヒレ肉；ヘアバンド|v|||
 fourteenth|num.|第十四；十四分之一|78|第十四の；十四分の一|h|Miraculously, during the fourteenth century, Prague was spared from the Black Death.||14世紀、プラハは奇跡的にペストから免れた。
 frivolous|adj.|輕佻的；妄動的；瑣碎的|78|軽薄；浮薄|a|Stop spending money on frivolous things.||くだらないことにお金を使うのはやめろ。
 frontline|n.|前線；鋒線|78|最前線；前線|h|||
 futuristic|adj.|未來派的|78|未来派の；未来的な|h|Her futuristic vision helped shape the company's mission statement.||彼女の先を見通す力が社の課題表明文書をまとめるうえで役立った。
-galley|n.|戰艦；軍艦|78|ゲラ；ガレー|b|||
+galley|n.|戰艦；軍艦|78|ガレー船；調理室；ゲラ刷り|v|||
 giddy|adj.|眼花的；頭暈的；眼花；眩暈|78|めまいがする；浮ついた|h|My head still felt giddy.|我還暈暈乎乎的。|まだ頭がくらくらした。
 gingerly|adv.|小心翼翼地；慎重地；慎重的；謹慎的|78|慎重に；おそるおそる|d|||
 glisten|v.|閃亮；輝耀；閃光；閃耀|78|きらめく；光る|d|||
@@ -13535,7 +13535,7 @@ glucose|n.|葡萄糖|79|グルコース|b|The nurse gave me a glucose injection.
 gobble|n.|火雞叫聲；狼吞虎嚥|79|七面鳥の鳴き声；がつがつ食べる|h|The tramp gobbled down the Thanksgiving dinner served at the church.||浮浪者は教会での感謝祭の夕食をがつがつ食べた。
 goggle|n.|眼睛瞪視；護目鏡；突出的；瞪眼的|79|目を見張る；ゴーグル；飛び出た|h|The goggles protect your eyes from dust.||ゴーグルは砂ぼこりから目を守ってくれる。
 golfer|n.|打高爾夫球的人|79|ゴルファー|a|No pro golfer in Japan is as popular as Jumbo Ozaki.|尾崎將司是日本最受歡迎的專業高爾夫球手。|ジャンボ尾崎ほど人気のあるプロゴルファーは日本にいない。
-grimace|n.|鬼臉；怪相；扮鬼臉；作怪相|79|渋面|a|What's the matter, dad? Why are you grimacing like that?||どうしたの？お父さん、そんなしかめっ面して。
+grimace|n.|鬼臉；怪相；扮鬼臉；作怪相|79|しかめ面；顔をしかめる|v|What's the matter, dad? Why are you grimacing like that?||どうしたの？お父さん、そんなしかめっ面して。
 gruesome|adj.|可怕的；令人毛骨悚然的；陰森的|79|恐ろしい；ぞっとする；陰惨な|h|||
 hamstring|n.|後腿腱；切斷腿腱使成跛腿；使癱瘓|79|ハムストリング|b|||
 handheld|adj.|掌上型；手持型|79|手持ちの；携帯型の|h|||
@@ -13642,7 +13642,7 @@ realty|n.|不動產；房地產|79|リアルティ|b|||
 reimbursement|n.|付還；退還|79|弁済；払い戻し|d|||
 reinstate|v.|使復原；使恢復；使復立|79|復職させる；復元する；回復させる|h|||
 repercussion|n.|彈回；反響；反射|79|反響；影響；はね返り|h|||
-repository|n.|貯藏所；貯物器；倉庫|79|リポジトリ|b|||
+repository|n.|貯藏所；貯物器；倉庫|79|貯蔵庫；保管場所；リポジトリ|v|||
 resilient|adj.|彈回的；有彈力的|79|弾力のある；回復力のある|h|||
 restored|adj.|精力充沛的；精力恢復的|79|元気を取り戻した；回復した|h|After decades of civil war, order was restored.|經過幾十年的內戰，秩序恢復了。|数十年の内戦の後に秩序が回復した。
 resurrect|v.|使復活；復興；恢復；復活|79|復活させる；復興させる；蘇らせる|h|He was PK'ed, I resurrected him.||ＰＫされたの、蘇生しました。
@@ -13652,7 +13652,7 @@ revitalize|v.|使恢復生氣；使復活；使復興|79|活気づける；再�
 rhetorical|adj.|修辭學的；符合修辭學的；修辭的|79|修辞の；修辞的な；誇張的な|h|When someone speaks with such rhetorical flourish, it starts to sound like they're lying.||そんなに美辞麗句を並べられると、かえって嘘に聞こえるよね。
 rightful|adj.|合法的；正直的；恰當的|79|正当な；正しい；適切な|h|I was robbed of my rightful share.||鳶に油揚げをさらわれたようなものだ。
 roadway|n.|車道；道路；軌道|79|車道|a|||
-royale|n.|蛋糕飾塊|79|ケーキのデコレーション；ロイヤル|h|||
+royale|n.|蛋糕飾塊|79|ロワイヤル|v|||
 sacrament|n.|聖禮；聖事；誓言；使立誓|79|サクラメント；秘跡|b|||
 scowl|n.|愁容；陰沉臉色；皺眉；繃著臉|79|しかめ面；不機嫌な顔；顔をしかめる|d|She scowled at the rude salesman.||彼女は失礼なセールスマンをにらみつけた。
 secretive|adj.|秘密的；偷偷摸摸的；分泌的|79|秘密主義の；内密の|h|Why are you being so secretive?|你為什麼這麼神秘？|何でそんなに隠したがるの？
@@ -13666,8 +13666,8 @@ sizable|adj.|相當大的；大小相當的|79|かなり大きい；相当な大
 skye|n.|匐犬；斯凱島|79|スカイ島；スカイテリア|h|||
 slay|v.|殺害；殘殺|79|殺す；殺害する|d|His jokes really slay me.|他的笑話把我樂翻了。|
 sliver|n.|裂片；薄片；梳毛；切成長片|79|スライバー|b|||
-soho|int.|哈；嗬|79|ソーホー|b|||
-spinner|n.|紡紗工人；旋床工人；紡紗機|79|スピナー|b|||
+soho|int.|哈；嗬|79|ソーホー；ほら|v|||
+spinner|n.|紡紗工人；旋床工人；紡紗機|79|紡績工；スピナー|v|||
 staffed|v.|僱用；擔任…的職員；為…配備工作人員|79|人員を配置した；職員を置いた|h|||
 stench|n.|惡臭；臭氣；發惡臭|79|悪臭；異臭|d|I'm going crazy from the cigarette stench in this room.||部屋がタバコ臭くて発狂しそう。
 strut|n.|高視闊步；支柱；壓桿；趾高氣揚地走|79|束|b|||
@@ -13686,7 +13686,7 @@ thematic|adj.|題目的；主題的；主旋律的|79|テーマの；主題の�
 thicket|n.|叢林；草叢|79|藪；茂み|b|||
 thirteenth|num.|第十三；十三分之一|79|第十三の；十三分の一|h|A few days after his thirteenth birthday, Tony left school, too.|在他13歲生日後幾天，湯尼也離開了學校。|１３歳の誕生日の２、３日後に、トニーも学校を卒業しました。
 ting|n.|叮噹聲；叮叮聲；發叮叮聲|79|チーンという澄んだ音；チーンと鳴る|h|Yu-ting's so much brighter after breaking up with her boyfriend.|鬱婷跟男朋友分手後，整個人變開朗了。|
-tinker|n.|補鍋匠；會做各種修補活計的人；做焊鍋匠；笨拙的修補|79|鋳掛け屋；修理屋；いじくり回す|d|||
+tinker|n.|補鍋匠；會做各種修補活計的人；做焊鍋匠；笨拙的修補|79|いじくり回す；鋳掛け屋|v|||
 topless|adj.|無頂的；袒胸的|79|トップレス|a|||
 totalitarian|adj.|極權主義的；極權主義者|79|全体主義の；全体主義者|d|||
 tripod|n.|三腳桌；三腳架|79|三脚；トライポッド|b|I've been looking for my tripod.|我一直在找我的三腳架。|
@@ -13710,7 +13710,7 @@ yin|n.|中國思想裡的“陰”；中國的殷代；一個|79|陰；殷王朝
 aba|n.|寬大無袖長袍；駝毛織物|79|アバ；ラクダ毛の織物|h|||
 aberration|n.|離開正路；偏離；畸變|79|収差|b|||
 accrue|v.|自然增加；產生|79|自然に増える；生じる；蓄積する|h|Accrued interest will be paid into your account.||生じた利息は貯金口座に入金されます。
-acknowledgement|n.|承認；確認；感謝|79|認知；了承|a|This is a small acknowledgement of your kindness.||これはあなたの親切に対するささやかなお礼の印です。
+acknowledgement|n.|承認；確認；感謝|79|承認；感謝；受領通知|v|This is a small acknowledgement of your kindness.||これはあなたの親切に対するささやかなお礼の印です。
 adherent|n.|信徒；追隨者；附著的；發生聯絡的|79|信奉者；支持者；付着した|d|||
 adversary|n.|敵手；對手；敵手的；敵對的|79|敵対者；相手；敵対する|h|An adversary yesterday is a friend today.||昨日の敵は今日の友。
 aero|adj.|飛機的；航空的；飛行的|79|航空の；飛行機の|h|||
@@ -13718,7 +13718,7 @@ afloat|adj.|飄浮著的；在海上的；浸滿水的；飄浮著|79|浮かん�
 airbus||空中客車|79|エアバス|b|||
 airtight|adj.|氣密的；不透氣的；無懈可擊的|79|気密|b|If your windows are not airtight, moisture will seep in.||気密性でない窓ならば、水滴ができるだろう。
 animate|v.|使有生氣；賦予生命；有生命的；有生氣的|79|生命を吹き込む；活気づける；生き生きした|d|The soul animates the body.|靈魂賦予肉體生命。|魂は体に生命を与える。
-annoyance|n.|煩惱；打擾；可厭之事|79|泣かせ；癪|b|He answered with a look of annoyance.||彼は苛立たしい表現で答えた。
+annoyance|n.|煩惱；打擾；可厭之事|79|迷惑；いらだち；困りもの|v|He answered with a look of annoyance.||彼は苛立たしい表現で答えた。
 anon|adv.|不久以後；立刻；以後|79|やがて；すぐに；のちほど|h|||
 ante|n.|賭注；下賭注|79|賭け金；賭ける|h|||
 anterior|adj.|前面的；先前的|79|前方の；前の|h|||
@@ -13776,7 +13776,7 @@ commemoration|n.|紀念；紀念物；慶典|79|記念|a|||
 compulsion|n.|強迫；強制|79|強制；強迫|a|||
 concussion|n.|劇烈搖動；震盪|79|脳震盪|b|The doctor told me I had a concussion.||脳震盪だとお医者さんに言われました。
 conduit|n.|導管；水管；溝渠|79|導管|b|||
-constance|n.|康士坦茨湖|79|コンスタンツ湖|h|||
+constance|n.|康士坦茨湖|79|コンスタンス；コンスタンツ湖|v|||
 consular|adj.|領事的|79|領事の|h|||
 contra|n.|反對；相反；反對地；相反地|79|コントラ；魂斗羅|a|||
 conveyor|n.|搬運者；傳達者；轉讓財產者|79|コンベア|b|This sushi restaurant has a conveyor belt that carries sushi.||ここの寿司屋は、回転寿司だよ。
@@ -13804,7 +13804,7 @@ detonate|v.|引爆；使爆炸；使爆裂；爆炸|79|爆発させる；起爆�
 detour|n.|繞路；迂迴；繞道|79|回り道；迂回|a|I think I will take a detour to return home.||今日は遠回りをして帰ろっと。
 detox|n.|戒癮病房；戒癮診所|79|デトックス|b|||
 devotee|n.|愛好者；獻身者；虔誠的宗教信徒|79|愛好者；熱心な信者|d|||
-disgraceful|adj.|可恥的；不名譽的|79|不祥|b|She was too proud to do anything disgraceful.||彼女はプライドが高いので恥ずべきことはしなかった。
+disgraceful|adj.|可恥的；不名譽的|79|不名誉な；恥ずべき|v|She was too proud to do anything disgraceful.||彼女はプライドが高いので恥ずべきことはしなかった。
 dishwasher|n.|洗碗機；洗碗工|79|食器洗い機；皿洗い人|d|Sami put the rusty fork in the dishwasher.|薩米將生鏽的叉子放進了洗碗機。|
 disproportionately|adv.|不勻稱；不相稱|79|不釣り合いに；不均衡に|h|||
 dissatisfied|adj.|不滿的；顯出不滿的|79|不満な；不満げな|h|I am dissatisfied with his manners at the party.||パーティーでの彼のふるまいが気に入らない。
@@ -13816,7 +13816,7 @@ dreamer|n.|做夢的人；夢想者|79|夢見る人；夢想家|d|He is no more 
 duel|n.|決鬥；鬥爭|79|決闘；デュエル|b|Kyouichi Saionji, who he supposed would win the duel, has lost.|大家都以為西園寺會勝出那場決鬥的，但他卻輸了。|西園寺は決闘に勝つと思っていたのに負けた。
 duet|n.|二重奏|79|デュエット|a|The sisters played a duet on the violin and piano.||その姉妹はヴァイオリンとピアノの二重奏を演奏した。
 dun|n.|催促者；討債者；催債；催討|79|催促する人；借金取り；催促する|h|||
-earthy|adj.|土的；土質的；土味的|79|アーシー|b|I have spoken to you of earthy things.||私はあなたたちに地上のことを話した。
+earthy|adj.|土的；土質的；土味的|79|土の；素朴な；下品な|v|I have spoken to you of earthy things.||私はあなたたちに地上のことを話した。
 eb||電子束|79|電子ビーム|h|||
 ecumenical|adj.|一般的；普遍的；全基督教的|79|全世界的な；宗派を超えた|h|||
 egalitarian|adj.|平等主義的；平等主義|79|平等主義の；平等主義者|h|||
@@ -13849,7 +13849,7 @@ fay|n.|小仙子；接合|79|妖精；接合|h|||
 fiasco|n.|慘敗；大失敗|79|大失敗；惨敗|d|We'll never live this fiasco down.||この失敗、きっと一生、言われつづけるなあ。
 fifteenth|num.|第十五；十五分之一|79|第十五の；十五分の一|h|This drawing dates back to the fifteenth century.||この絵画は十五世紀のものだ。
 figurative|adj.|比喻的；象徵的；修飾豐富的|79|比喩的な；象徴的な|h|The figurative meaning is no longer in current use.||その比喩的意味はもはや使われていない。
-fil|n.|費爾|79|フィル；フィリピン通貨|h|||
+fil|n.|費爾|79|フィル|v|||
 filtration|n.|過濾|79|濾過|b|||
 finder|adj.|發現者；尋星鏡|79|発見者；ファインダー|d|||
 flanders|n.|佛蘭德斯|79|フランドル|h|||
@@ -13882,7 +13882,7 @@ hardcover|adj.|硬書皮的；硬封面的書；精裝書|79|ハードカバー|
 hastily|adv.|匆忙地；急速地；急躁地|79|慌てて；急いで；軽率に|h|Hastily acquired knowledge was not enough to solve the problem.||にわか仕込みの知識ではその問題は解けなかった。
 headphone|n.|戴在頭上的收話器；耳機|79|ヘッドホン|a|The noisy headphones are that guy's.||ヘッドホンから音が漏れているのは彼です。
 healer|n.|醫治者；治療物|79|ヒーラー|b|Time is the great healer.||時は偉大な治療師である。
-heartless|adj.|無情的；無勇氣的|79|非人情；因業|b|It was heartless of him to say such a thing to the sick man.|他對一個生病的男人說這種事真是沒良心。|病人にそんなことを言うなんて、彼には思いやりがなかった。
+heartless|adj.|無情的；無勇氣的|79|無情な；冷酷な|v|It was heartless of him to say such a thing to the sick man.|他對一個生病的男人說這種事真是沒良心。|病人にそんなことを言うなんて、彼には思いやりがなかった。
 hermes||重放射性同位素電磁分離器|79|重放射性同位体電磁分離器|h|I've never given anyone a Hermes scarf.||私は今まで誰にもエルメスのスカーフをあげたことがない。
 hex|n.|十六進位制；巫婆；妖法；施魔法於|79|十六進数；魔女；呪い；呪いをかける|h|||
 hormonal|adj.|荷爾蒙的|79|ホルモンの|h|||
@@ -13899,7 +13899,7 @@ inequity|n.|不公平；不公正|79|不公平；不公正|h|||
 informant|n.|提供訊息者；密告者；被調查者|79|情報提供者；密告者；情報源|d|The informants we used consisted of twenty Americans and twenty-one British.||インフォーマントはアメリカ人２０人、イギリス人２１人という構成である。
 insurgency|n.|叛亂狀態；發生暴動|79|反乱状態；暴動|h|||
 intestinal|adj.|腸的；腸內的|79|腸の；腸内の|h|"Intestinal fat" is a kind of sacrifice.|“膟”是一種用牲法。|
-jackass|n.|公驢；愚蠢的人；傻瓜|79|ジャッカス|b|||
+jackass|n.|公驢；愚蠢的人；傻瓜|79|ロバ；大ばか者|v|||
 kiwi|n.|鷸鴕；地勤人員；紐西蘭人|79|キーウィ；ニュージーランド人；地上勤務員|d|Organic kiwi fruit. Feel free to help yourself.||有機キウイです。どうぞご自由にお採り下さい。
 knead|v.|揉；按摩；捏|79|練る；こねる|a|||
 lac|n.|紫膠；十萬；許多|79|ラック|b|||
@@ -13908,7 +13908,7 @@ latte|n.|拿鐵咖啡；牛奶|79|ラテ|b|||
 leafy|adj.|葉茂盛的；多葉的；葉狀的|79|葉の茂った；葉の多い|h|Foods rich in vitamin E include dark-green, leafy vegetables, beans, nuts and whole-grain cereals.||ビタミンＥを豊富に含む食物には、濃い緑色をした菜っ葉類・豆類・ナッツ類・全粒穀類がある。
 ledger|n.|分類帳；分戶總帳；蓋墓石板|79|元帳；原簿|b|There are many questionable points in this ledger.||この帳簿には不明朗な点がたくさんある。
 ligament|n.|結帶；紐帶；韌帶|79|じん帯|b|If she's not careful she'll tear a ligament doing that.||もし気を付けなければ彼女はそんなことをしているうちに靭帯を切ってしまうだろう。
-limbo|n.|地獄邊緣；監獄；忘卻|79|リンボーダンス|b|||
+limbo|n.|地獄邊緣；監獄；忘卻|79|リンボ；不安定な状態；辺獄|v|||
 lordship|n.|貴族身分；主權；支配|79|貴族の身分；支配権；閣下|h|||
 lousy|adj.|汙穢的；噁心的；生蝨的|79|ひどい；不潔な；シラミのわいた|h|I expect it's his lousy personality that drives off the ladies.||こいつの性根が悪いから非モテなんだろ。
 lulu|n.|卓越的人；俊秀|79|卓越した人；すばらしいもの|h|||
@@ -13939,7 +13939,7 @@ millennial|adj.|一千年的；千福年的|79|千年の；千年紀の；千年
 mite|n.|盡綿薄之力的捐獻；細微；微少|79|少額の寄付；わずかなもの|h|Dust mites love things like dandruff and dead skin cells.||チリダニは、人のフケや、アカを好む。
 mitt|n.|棒球手套；拳擊手套；連指手套；銬住|79|ミット|a|||
 mockery|n.|嘲弄；笑柄；歪曲|79|愚弄|b|We've become a mockery to the whole village.|我們成了整個村莊的笑柄。|我々は村中の笑い者になった。
-modulation|n.|調製；調節；語調|79|メリハリ；転調|b|||
+modulation|n.|調製；調節；語調|79|変調；抑揚；調節|v|||
 mojo|n.|巫術；符咒；運氣|79|呪術；お守り；運|h|||
 muffled|adj.|聽不清的；矇住的|79|くぐもった；包まれた|h|||
 muller|n.|磨杵；粉碎機；研磨機|79|すりこぎ；粉砕機；研磨機|h|||
@@ -13971,16 +13971,16 @@ pharaoh|n.|法老；暴君|79|ファラオ；暴君|d|||
 pharmacist|n.|藥師；藥品商；藥商|79|薬剤師|a|The pharmacist made up the prescription for me.||薬剤師は処方どおりに調合してくれた。
 phased|adj.|定相的|79|位相の；段階的な|h|||
 photon|n.|光子；光量子；光度|79|光子；フォトン|b|||
-picky|adj.|吹毛求疵的；挑剔的；找麻煩的|79|好みのうるさい；細かいことにこだわる|h|He's picky about suits and ties.|他對西裝和領帶的選擇非常挑剔。|彼はスーツやネクタイの好みにうるさい。
+picky|adj.|吹毛求疵的；挑剔的；找麻煩的|79|好みがうるさい；選り好みする|v|He's picky about suits and ties.|他對西裝和領帶的選擇非常挑剔。|彼はスーツやネクタイの好みにうるさい。
 piercing|adj.|尖厲的；刺耳的；刺骨的|79|けたたましい；ピアッシング|b|Black hair only! No piercings!||髪は黒！！ピアス禁止！！
 piggy|adj.|貪心的；似豬的；邋遢的；小豬|79|欲張りな；ブタのような；子ブタ|h|I'd like to buy Tom a piggy bank.||トムに豚ちゃんの貯金箱を買ってあげたいと思ってるの。
 plaid|n.|格子花呢披風；格子花呢；格子圖案|79|タータンチェックのショール；格子柄|d|||
 playback|n.|重放；重放裝置|79|プレイバック|b|||
 playbook|n.|劇本；劇本集|79|プレイブック|b|||
-plush|n.|長毛絨；長毛絨褲；長毛絨制的；豪華的|79|プラッシュ|b|The plush fur of the toy felt so soft and somehow soothing.|那個玩具絨毛摸起來很柔軟，讓人感到舒適。|
+plush|n.|長毛絨；長毛絨褲；長毛絨制的；豪華的|79|豪華な；プラッシュ；ぬいぐるみのような|v|The plush fur of the toy felt so soft and somehow soothing.|那個玩具絨毛摸起來很柔軟，讓人感到舒適。|
 plywood|n.|夾板；合板|79|ベニヤ板；プライウッド|a|||
 poach|v.|水煮；偷獵；侵入|79|ゆでる；密猟する；侵入する|h|He was poached by a rival company.||彼はライバル会社に引き抜かれました。
-pooh|int.|呸；啐；使疲倦|79|プー|b|Winnie the Pooh is my favourite Disney cartoon character.||くまのプーさんは、私が一番好きなディズニーのキャラクターなんだ。
+pooh|int.|呸；啐；使疲倦|79|ふん；プー|v|Winnie the Pooh is my favourite Disney cartoon character.||くまのプーさんは、私が一番好きなディズニーのキャラクターなんだ。
 poole|n.|普爾|79|プール|h|||
 positivity|n.|確實；確信；肯定性|79|積極性；肯定的であること|h|||
 potomac|n.|波拖馬可河|79|ポトマック川|h|||
@@ -14012,16 +14012,16 @@ rector|n.|教區長；校長；院長|79|教区牧師；学長；院長|d|||
 reelection|n.|再選；改選|79|再選；再び選ぶこと|d|He is up for reelection.||彼は再選をねらって立候補した。
 regal|adj.|帝王的；適於帝王的|79|王の；王者にふさわしい|h|||
 relatable||有關係的|79|関連のある；共感できる|h|||
-removable|adj.|可移去的；可免職的；可移動的|79|リムーバブル|b|||
+removable|adj.|可移去的；可免職的；可移動的|79|取り外し可能な；解任できる|v|||
 reorganization|n.|改組；再編制；改造|79|再編；改編|a|||
 retaliate|v.|報復；回敬；以牙還牙|79|報復する；仕返しする|h|She retaliated against him by ignoring him.||彼女は無視することで彼に仕返しをした。
 retrieval|n.|取回；恢復；檢索|79|取り戻し；回復；検索|d|||
 ridley|n.|鱗龜屬動物|79|ウミガメの一種|h|||
 rind|n.|樹皮；殼；外表；削皮|79|樹皮；果物の皮；外皮|d|||
-roc|n.|大鵬；大鵬式制導炸彈|79|ロック|b|Rocío knows 16 different languages.|羅西歐懂得 16 種不同的語言。|
+roc|n.|大鵬；大鵬式制導炸彈|79|ロック鳥|v|Rocío knows 16 different languages.|羅西歐懂得 16 種不同的語言。|
 roche|n.|瑞士羅氏|79|ロシュ；スイスの製薬会社|h|||
 rocker|n.|搖的人；搖桿|79|ロッカー|b|The whole world is off its rocker.||世の中全体がおかしくなっているんだよ。
-roundup|n.|驅集；集攏；綜述|79|大獄|b|||
+roundup|n.|驅集；集攏；綜述|79|一斉検挙；まとめ；駆り集め|v|||
 rout|n.|潰敗；大敗；烏合之眾；使潰敗|79|総崩れ；潰走|b|||
 rustle|n.|沙沙聲；瑟瑟聲；颯颯聲；發出沙沙聲|79|そよぐ|b|I heard the leaves rustling.|我聽到樹葉沙沙作響。|木の葉のサラサラという音が聞こえた。
 sadden|v.|使憂愁；使悲哀；憂愁；悲哀|79|悲しませる；悲しむ|h|It saddens me to hear you say that.|聽到你這樣說，我真的很傷心。|
@@ -14032,7 +14032,7 @@ scumbag|n.|<俚>避孕套；卑鄙的傢伙|79|コンドーム；卑劣な人間
 seamless|adj.|無縫的；無縫合線的|79|シームレス|a|The married couple was able to run this store with their seamless teamwork.||夫婦二人三脚で、このお店を切り盛りしてきました。
 selectively|adv.|有選擇地|79|選択的に；選んで|h|||
 selfless|adj.|不顧自己的；無私的|79|無私の；利他的な|h|In Japan, students are supposed to be selfless and group-centered.||日本では、学生は自己を主張せず、グループ中心になるものとされている。
-sequential|adj.|繼續的；後果的|79|シーケンシャル|b|||
+sequential|adj.|繼續的；後果的|79|連続した；順次の|v|||
 sheen|n.|光輝；光彩；光澤；光輝的|79|光沢；つや；輝き|d|||
 shelly|adj.|多殼的；殼一般的；有殼的|79|貝殻の多い；貝殻状の|h|Shelly's really filled out since the last time I saw her.||シェリーは僕が最後にあって以来本当に太ったなぁ。
 shite|n.|屎；糞便|79|糞；くだらないもの|h|||
@@ -14043,7 +14043,7 @@ silhouette|n.|黑色半身側面影；影子；輪廓；描繪...成側面影|79
 sill|n.|基石；檻；窗臺|79|土台；敷居；窓台|d|Some birds alighted on the window sill.||鳥が数羽窓の敷居にとまった。
 simplistic|adj.|過分簡單化的|79|単純化しすぎた；安易な|h|Such a simplistic approach won't do.||そんな安直な方法じゃ、うまくいかないぞ。
 sinful|adj.|有罪的；罪孽深重的|79|罪深い|b|||
-skew|adj.|斜的；歪的；歪斜；偏態家庭關係|79|スキュー|b|||
+skew|adj.|斜的；歪的；歪斜；偏態家庭關係|79|ゆがめる；斜めの；偏り|v|||
 skewer|n.|串肉棒；烤肉叉子；針狀物；刺穿|79|串；串刺しにする|d|I like eating grilled lamb skewers.|我喜歡吃烤羊肉串。|
 skincare|adj.|護理皮膚的|79|肌の手入れの；スキンケアの|h|||
 sleek|adj.|光滑的；油嘴滑舌的；線條明快的；使光滑|79|さらり|b|||
@@ -14054,12 +14054,12 @@ solace|n.|安慰；安慰之物；撫慰|79|慰安|a|||
 sonar|n.|聲納|79|ソナー|b|||
 soprano|n.|女高音；最高音部；女高音歌手；女高音的|79|ソプラノ|a|She is famed as a soprano.||彼女はソプラノ歌手として有名だ。
 sorta|adv.|有幾分地|79|ある程度；いくぶん|h|||
-specialization|n.|專業化；特殊化；專門化|79|分化；専修|a|A high degree of specialization is required in that company.||その会社では高度な専門性が要求されます。
+specialization|n.|專業化；特殊化；專門化|79|専門化；専攻|v|A high degree of specialization is required in that company.||その会社では高度な専門性が要求されます。
 spectral|adj.|光譜的；鬼怪的；幻覺的|79|スペクトルの；幽霊のような；幻想的な|h|||
-spectroscopy|n.|光譜學|79|分光学；分光法|d|||
+spectroscopy|n.|光譜學|79|分光学；スペクトル分析|v|||
 spiritually|adv.|在精神上地|79|精神的に；霊的に|h|||
 spreadsheet|n.|空白表格程式；電子製表軟體；電子資料表|79|表計算；スプレッドシート|a|Once you get the hang of it, spreadsheet software is really useful.||表計算ソフトは、覚えておくと何かと便利よ。
-spruce|adj.|頗為乾淨的；俏的；整潔的；雲杉|79|スプルース|b|"What kind of wood is that?" "It's spruce."|「那是什麼樹？」「雲杉。」|
+spruce|adj.|頗為乾淨的；俏的；整潔的；雲杉|79|トウヒ；小ぎれいな；身だしなみを整える|v|"What kind of wood is that?" "It's spruce."|「那是什麼樹？」「雲杉。」|
 stabilization|n.|安定；穩定；平抑|79|安定化；安定；安定性の確保|d|||
 stealth|n.|秘密行動；秘密；鬼祟|79|ステルス；忍び|a|||
 steroid|n.|類固醇|79|ステロイド|a|He must have been on steroids to have run that fast.|他肯定是吃了興奮劑才會跑得那麼快。|
@@ -14082,7 +14082,7 @@ thine|pron.|你的東西；你的|79|あなたのもの；あなたの|h|||
 thorpe|n.|村莊；小鄉鎮|79|村；小さな町|h|||
 threesome|n.|三人一組；三人的競賽|79|三人組；三人で行うこと|d|||
 toaster|n.|烤麵包器；烤麵包爐；祝酒人|79|トースター|a|She has broken the toaster again.|她再次弄壞了烤麵包機。|彼女はまたトースターを壊した。
-toughness|n.|有粘性；強硬；強健|79|靱性|b|||
+toughness|n.|有粘性；強硬；強健|79|強靭さ；タフさ；頑丈さ|v|||
 trance|n.|昏睡狀態；恍惚；著迷；使恍惚|79|トランス；忘我|b|He is wandering around in a trance.||彼は忘我の境をさまよっている。
 transgression|n.|違反；犯罪|79|違反；罪；逸脱|d|||
 tripoli|n.|矽藻土|79|トリポリ|b|||
@@ -14122,7 +14122,7 @@ werewolf|n.|狼人；豺狼般的人|79|ウェアウルフ|b|||
 westwood|n.|美國遊戲軟體公司|79|ウエストウッド；米国のゲーム会社|h|||
 whiff|n.|一吹；一吸；一陣；輕輕地吹|79|ひと吹き；ひとにおい；かすかな気配|d|||
 wiltshire|n.|威爾特郡|79|ウィルトシャー|h|||
-windfall|n.|被風吹落的果子；橫財|79|もっけの幸い|b|||
+windfall|n.|被風吹落的果子；橫財|79|棚ぼた；思いがけない収入；風で落ちた果実|v|||
 wobble|n.|擺動；搖晃；不穩定|79|揺れ；ぐらつき；不安定|h|||
 wrongful|adj.|不正當的；不法的；不講道理的|79|不当な；不法な；道理に反する|h|||
 yamaha|n.|雅馬哈商標|79|ヤマハ|b|Mr Yamaha filled the big tray in his living room with walnuts.|雅馬哈先生在客廳裡的大託盤裡裝滿了核桃。|山羽さんが茶の間の大きい盆に胡桃を盛った。
@@ -14150,10 +14150,10 @@ aristocracy|n.|貴族；上層社會；知識界傑出分子|80|貴族階級；�
 aristocratic|adj.|貴族的；主張貴族統紿的；有貴族氣派的|80|貴族的な；貴族の|h|His dress somehow gives an aristocratic impression.||出で立ちが何となく貴族っぽいような気がする。
 arsenic|n.|砷；砒霜|80|ヒ素；アーセン|b|||
 arterial|adj.|動脈的；脈絡狀的；幹線的|80|動脈の；幹線の|h|||
-artistry|n.|藝術性|80|雅致|a|||
+artistry|n.|藝術性|80|芸術性；技巧|v|||
 aspen|n.|山楊；山楊的；顫抖的|80|アスペン|b|||
 attune|v.|為樂器調音；使協調；使合拍|80|調律する；調和させる；合わせる|h|||
-audacity|n.|大膽；厚顏無恥|80|僭上|b|I am amazed at your audacity.|我對你的大膽感到很驚訝。|お前の厚かましさには呆れるよ。
+audacity|n.|大膽；厚顏無恥|80|大胆さ；厚かましさ|v|I am amazed at your audacity.|我對你的大膽感到很驚訝。|お前の厚かましさには呆れるよ。
 austere|adj.|嚴峻的；禁慾的；簡樸的|80|厳格な；禁欲的な；質素な|h|Ms. Eichler had a notorious reputation for being austere to her students.|艾希勒女士對學生嚴厲是出了名的。|
 bandwagon|n.|樂隊彩車；流行|80|楽隊車；流行；勝ち馬に乗る流れ|h|The young men of Japan are apt to jump on the bandwagon.||日本の若者は流行に乗る傾向があります。
 barbaric|adj.|野蠻的；粗野的|80|野蛮な；粗野な|h|||
@@ -14180,14 +14180,14 @@ burrito|n.|墨西哥玉米煎餅|80|ブリート|b|The burrito was oozing with c
 cabaret|n.|卡巴萊；卡巴萊歌舞表演|80|キャバレー|a|||
 cambodian|n.|柬埔寨人；柬埔寨語|80|カンボジアの；カンボジア人；カンボジア語|d|||
 candor|n.|坦白；直率|80|率直さ；誠実|h|||
-caper|n.|跳躍；雀躍；蹦跳|80|ケッパー|b|||
+caper|n.|跳躍；雀躍；蹦跳|80|悪ふざけ；ケイパー；跳ね回る|v|||
 cardiologist|n.|心臟病學家|80|心臓専門医|d|||
 cartilage|n.|軟骨|80|軟骨|a|The cartilage has slipped out here.||ここの軟骨が飛び出しています。
 casket|n.|首飾盒；小箱；匣子|80|カスケット|b|Mothers know their sons are coming back in caskets.|母親們心裡清楚，兒子回來時只剩一口棺材。|
 catheter|n.|導管|80|カテーテル|a|||
 cautionary|adj.|警告的|80|警告の；戒めの|h|||
 chaplin|n.|卓別林|80|チャップリン|h|I saw an old film featuring Charlie Chaplin yesterday.||私は昨日チャーリーチャップリン主演の古い映画を見た。
-cheater|n.|騙子；詐手|80|チーター|b|||
+cheater|n.|騙子；詐手|80|詐欺師；カンニングする人；浮気者|v|||
 chemically|adv.|用化學；以化學方法|80|化学的に；化学的手法で|h|Coal is chemically allied to diamonds.||石炭は化学的にダイヤと同類である。
 chevron|n.|V形袖章；鋸齒形花飾|80|シェブロン|b|||
 cinematography|n.|電影製片術|80|映画撮影術；映画製作|h|||
@@ -14215,7 +14215,7 @@ deb|n.|初上舞臺的人；初進社交界的女孩|80|社交界にデビュー
 defined|adj.|清晰的；輪廓分明的；有定義的|80|明確な；輪郭のはっきりした；定義された|h|The tree was clearly defined against the sky.||その木は空にくっきりと浮かび上がっていた。
 deforestation|n.|採伐森林；森林開伐|80|森林伐採；森林破壊|d|Their habitat is threatened by deforestation.||彼らの生息地は、森林破壊に脅かされています。
 deletion|n.|刪除；刪除部分|80|削除|a|Additions and deletions are not shown immediately.||時間をおかないと追加・削除が反映されない。
-delinquent|n.|行為不良的人；違法者；怠忽的；有過失的|80|ヤンキー|a|What shall we do with this delinquent girl?||この不良少女をどうしよう。
+delinquent|n.|行為不良的人；違法者；怠忽的；有過失的|80|非行少年；滞納した；怠慢な|v|What shall we do with this delinquent girl?||この不良少女をどうしよう。
 dermatologist|n.|皮膚學者；皮膚科醫生|80|皮膚科医|d|||
 dharma|n.|達摩；法；德|80|ダルマ；法；徳|d|||
 dialysis|n.|透析；滲析|80|透析|a|||
@@ -14228,7 +14228,7 @@ dodger|n.|躲閃者；用詭計逃脫者；矇騙者|80|かわす人；ごまか
 domestically|adv.|家庭式地；國內地|80|国内で；家庭的に|h|The government is promoting the use of domestically made products.||政府は国産品の愛用を奨励している。
 domino|n.|化裝外衣；面具；骨牌|80|ドミノ|a|||
 downgrade|v.|降低；貶低；下坡|80|格下げする；低下させる；下り坂|h|||
-dreamy|adj.|空幻的；夢想的|80|ドリーミー|b|||
+dreamy|adj.|空幻的；夢想的|80|夢見心地の；素敵な；ぼんやりした|v|||
 dung|n.|糞；施糞肥於|80|糞；肥やし；肥料をやる|d|||
 elaboration|n.|苦心經營；精巧|80|衍義|b|||
 emeritus|adj.|名譽退休的；退休後保留頭銜的|80|名誉退職の；名誉職の|h|||
@@ -14255,7 +14255,7 @@ fluoride|n.|氟化物|80|フッ化物|d|Please give her a fluoride treatment.||�
 fodder|n.|飼料；草料；素材；喂|80|飼料；飼い葉|a|||
 forceful|adj.|有力的；強烈的；有說服力的|80|力強い；説得力のある|d|||
 forcefully|adv.|激烈地；強有力地；有說服力地|80|力強く；激しく|h|||
-forearm|n.|前臂；預先武裝；準備|80|小手；下腕|b|The elbow is a joint that connects the forearm and the upper arm.||肘は上腕と前腕をつなぐ関節だ。
+forearm|n.|前臂；預先武裝；準備|80|前腕；あらかじめ武装する|v|The elbow is a joint that connects the forearm and the upper arm.||肘は上腕と前腕をつなぐ関節だ。
 foreground|n.|前景；最顯著的位置|80|前景；近景|b|The couch is in the foreground next to the table.||ソファーは写真前方にあってテーブルの脇にある。
 fours|n.|雙打比賽；燈籠褲；四人舞|80|ダブルスの試合；四人組のダンス|h|He crept on all fours like a cat.||彼は猫のように四つんばいにはった。
 fragmentation|n.|分裂；破碎|80|フラグメンテーション|b|||
@@ -14285,7 +14285,7 @@ gully|n.|小峽谷；排水溝|80|ガリー；ルンゼ|b|||
 hanger|n.|掛鉤；吊架；衣架|80|ハンガー；吊り手|a|I hung the shirt on the coat hanger.|我把襯衣掛在了衣架上。|
 heartland|n.|心臟地區；中心地帶|80|ハートランド|b|||
 heirloom|n.|傳家寶；動產繼承物|80|家宝；伝家|b|All our family heirlooms were destroyed in a fire.||我が家の家宝は、火事で全て焼けてしまいました。
-helix|n.|螺旋；螺旋狀物；耳輪|80|螺線；ヘリックス|b|||
+helix|n.|螺旋；螺旋狀物；耳輪|80|らせん；ヘリックス|v|||
 heller|n.|捷克貨幣；昔德國之小銅幣|80|ヘラー；チェコの通貨|h|||
 herr|n.|先生；德國紳士|80|〜さん；ドイツの紳士|h|||
 holster|n.|手槍皮套|80|ホルスター|a|||
@@ -14294,7 +14294,7 @@ hooded|adj.|有罩蓋的；戴頭巾的|80|フードのついた；頭巾をか�
 horrid|adj.|可怕的；極討厭的；毛骨悚然的|80|恐ろしい；ひどく嫌な|h|||
 hussain|n.|人名；侯賽因|80|フセイン；フサイン|h|||
 hypnosis|n.|催眠狀態；催眠術|80|催眠；ヒプノシス|a|I wonder if this performer is really under hypnosis.||この芸能人、本当に催眠術にかかってるのかなあ。
-ifs||不確定的事；無把握的事|80|不確かなこと；仮定の事柄|h|No ifs, ands, or buts, mister!||おっさん、つべこべ言うな！
+ifs||不確定的事；無把握的事|80|もし〜なら；不確定要素|v|No ifs, ands, or buts, mister!||おっさん、つべこべ言うな！
 imaginable|adj.|可想像的；可能的|80|想像できる；考えられる|h|This is the best play imaginable.||これは考えられる最高の劇だ。
 immersive|adj.|擬真的|80|没入型の；没入感のある|h|||
 imp|n.|頑童；加強；給...裝上翅膀|80|インプ|b|What a little imp he is!||あの子はなんていたずらなのだ。
@@ -14316,16 +14316,16 @@ intractable|adj.|不聽話的；倔強的；棘手的|80|難治|b|||
 inventive|adj.|善於創造的；發明的|80|創意に富んだ；発明の才のある|h|Edison was an inventive genius of the United States.||エジソンは米国の発明の天才であった。
 inversion|n.|倒轉；倒置；倒裝|80|反転；倒置；逆転|d|||
 jot|n.|少量；稍許；略記；摘要記載下來|80|少し；わずか；さっと書きとめる|h|||
-judo|n.|柔道|80|柔道；柔ら|a|In judo, technique is more important than strength.||柔道では力より技のほうが大切である。
+judo|n.|柔道|80|柔道|v|In judo, technique is more important than strength.||柔道では力より技のほうが大切である。
 junkie|n.|有毒癮者；廢舊品商人|80|ジャンキー|a|I'm a huge ramen junkie.||僕、ラーメンオタクなんだ！
 juxtapose|v.|並置；並列|80|並べる；並置する|h|||
 kayak|n.|愛斯基摩人划子|80|カヤック|a|||
 kinase|n.|激酶；致活酶|80|キナーゼ|b|||
 kiosk|n.|亭；涼亭；報攤|80|キオスク|a|He sells flowers in a little kiosk.||彼は小さな売店で花を売っています。
-kodak|n.|小型照相機；照片；柯達；vi. 用小型照相機拍攝|80|コダック|b|||
+kodak|n.|小型照相機；照片；柯達；vi. 用小型照相機拍攝|80|コダック；カメラ|v|||
 kosher|adj.|合猶太人戒律的；清淨的；合適的|80|コシェル|b|I only eat kosher food.||コーシャ食品しか食べないんだ。
 lacey|adj.|花邊的|80|レースの；レースのような|h|||
-lacy|adj.|絲帶的；花邊的；花邊狀的|80|レーシー|b|||
+lacy|adj.|絲帶的；花邊的；花邊狀的|80|レースの；レース状の|v|||
 lamborghini|n.|公司建立於1962年；以建立人蘭伯基尼命名；蘭博基尼的標誌是一頭公牛|80|ランボルギーニ|b|My dream is to buy a Lamborghini tractor.||僕の夢はランボルギーニトラクターを買うことなんです。
 lao|n.|寮國語；寮國人|80|ラオス語；ラオス人|d|Lao Gan Ma and I have a love-hate relationship.|我和老乾媽有愛恨交加的關係。|
 lawless|adj.|非法的；違法的|80|不埒|b|||
@@ -14339,7 +14339,7 @@ linoleum|n.|油地氈；漆布|80|リノリウム|b|||
 liquidation|n.|償還；償付；清算|80|清算；償還；換金|d|||
 localization|n.|侷限；地方化|80|ローカライズ；局在|b|||
 logistical|adj.|邏輯的；後勤方面的|80|後方支援の；物流の|h|||
-lovable|adj.|可愛的；惹人愛的|80|いじらしい|b|He is a man with a lovable character.||彼は愛すべき性格の男ある。
+lovable|adj.|可愛的；惹人愛的|80|愛らしい；かわいい|v|He is a man with a lovable character.||彼は愛すべき性格の男ある。
 lowly|adj.|地位低的；卑下的；謙卑的；位置低下的|80|身分の低い；謙虚な|h|||
 lymphoma|n.|淋巴瘤；淋巴組織瘤；淋巴腺瘤|80|リンパ腫|b|||
 magna|n.|麥格納|80|マグナ|h|||
@@ -14350,7 +14350,7 @@ mari|n.|毛伊島|80|マウイ島|h|Mari has been in Hungary.|Mari已經在匈�
 martini|n.|馬提尼|80|マティーニ|b|||
 mayoral|adj.|市長的|80|市長の|h|||
 mendoza|n.|門多薩|80|メンドーサ|h|||
-mgm||美國米高梅電影製片公司|80|メトロ・ゴールドウィン・メイヤー社|h|||
+mgm||美國米高梅電影製片公司|80|メトロ・ゴールドウィン・メイヤー|v|||
 mh||報文處理程式|80|メッセージ処理プログラム|h|||
 microscopy|n.|顯微鏡使用；用顯微鏡檢查；顯微鏡學|80|顕微鏡観察；顕微鏡の使用；顕微鏡学|h|||
 midwife|n.|助產士；接生婆|80|助産婦|a|Mary is studying to become a midwife.||メアリーは助産婦を目指して勉強しています。
@@ -14361,7 +14361,7 @@ mitochondrial||線粒體的|80|ミトコンドリアの|h|||
 mobilization|n.|動員；調動；活動法|80|動員；出動|a|||
 modernity|n.|現代性；現代狀態；現代東西|80|現代性；近代性；現代的なもの|h|||
 moi||慣性矩；感染複數；英國新聞部|80|慣性モーメント；感染多重度；英国報道省|h|||
-monoxide|n.|一氧化物|80|一酸化|b|Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds.||一酸化炭素とは炭素化合物の不完全燃焼で発生する有害物質です。
+monoxide|n.|一氧化物|80|一酸化物|v|Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds.||一酸化炭素とは炭素化合物の不完全燃焼で発生する有害物質です。
 moot|n.|大會；模擬案件；辯論會；未決議的|80|議論の余地がある；模擬裁判|h|||
 motherfucking|adj.|<美俚><粗>不要臉的；混帳的；討厭的|80|くそったれの；忌々しい|h|||
 muffle|n.|低沉的聲音；拳擊手套；唇鼻部；圍裹|80|こもった音；覆う|h|||
@@ -14429,7 +14429,7 @@ railing|n.|扶手；欄杆；抱怨|80|欄干；高欄|a|Ziri placed flowers on 
 rama|n.|羅摩|80|ラーマ|b|||
 realist|n.|現實主義者；寫實主義者；實在論者|80|リアリスト|b|||
 realtor|n.|房地產經紀人|80|不動産業者；不動産仲介業者|d|||
-recon|n.|偵察；交換子|80|偵察；交換子|h|||
+recon|n.|偵察；交換子|80|偵察|v|||
 recruiter|n.|招聘人員；徵兵人員|80|リクルーター|a|||
 refill|n.|再注滿；替換物；再將...注滿|80|リフィル|b|This refill lasts half a year.||この替え芯は半年持つ。
 regency|n.|攝政統治；攝政權；攝政統治區|80|摂政|b|||
@@ -14449,7 +14449,7 @@ responsibly|adv.|認真負責地；可信賴地；可靠地|80|責任を持っ�
 retake|v.|再取；取回；重攝；重拍|80|リテイク；撮り直し|b|||
 retrace|v.|追溯；折回；繞回|80|たどり直す；さかのぼる；引き返す|h|||
 richly|adv.|富裕地；豐富地；充分地|80|豊かに；十分に；ふんだんに|h|She is far from being richly gifted.||彼女は才能に恵まれているどころではない。
-richness|n.|富裕；豐富；肥沃|80|こく|b|||
+richness|n.|富裕；豐富；肥沃|80|豊かさ；濃厚さ；こく|v|||
 rightfully|adv.|正當地；正直地|80|正当に；当然に|h|||
 rj||交叉路口|80|交差点|h|||
 rolf|v.|對…進行羅爾夫氏按摩；把…嘔吐出|80|ロルフィング；吐き出させる|h|||
@@ -14457,14 +14457,14 @@ rotational|adj.|轉動的；輪流的|80|回転の；交代制の；輪番の|h|
 sag|v.|下垂；傾斜；萎靡；使下垂|80|たわむ；下がる；垂れる；たわませる|d|His shoulders sagged when he heard the news.||その知らせを聞いて彼はがっくりと肩を落とした。
 salted|adj.|鹽醃的；鹽味的；有經驗的|80|塩漬けの；塩味の；経験豊富な|h|These salted bonito guts are too salty for me.||このカツオの塩辛は塩辛すぎる。
 saver|n.|節省...的器具；節約裝置；省儉的人|80|節約する器具；節約装置；倹約家|h|Guns can be life-savers when used properly.|在正確使用的情況下，槍可以救人性命。|
-scandalous|adj.|不體面的；可恥的；誹謗性的|80|スキャンダラス|a|||
+scandalous|adj.|不體面的；可恥的；誹謗性的|80|スキャンダラスな；不名誉な；けしからん|v|||
 scooter|n.|小型摩托車；踏板車|80|スクーター|a|What's the difference between a scooter and a moped?||スクーターとモペットって何が違うの？
 scot|n.|攤派的款項；稅賦|80|割当金；税金|h|He pleaded self-defense at the trial and went scot-free.||彼は裁判で正当防衛を主張して無罪となった。
 scrum|n.|扭奪；並列爭球|80|スクラム|a|Scrums are a feature of Rugby football.||スクラムはラグビーの特徴だ。
 seasonally|adv.|季節性地；週期性地|80|季節的に；周期的に|h|The index rose to a seasonally adjusted 120.5.||指数は季節調整済みで１２０．５に上昇した。
-secluded|adj.|隱退的；隱蔽的|80|僻|b|My uncle lived alone in a secluded house on the cape.||叔父さんは、岬の一軒家に独りぼっちで住んでいた。
+secluded|adj.|隱退的；隱蔽的|80|人里離れた；隠遁した|v|My uncle lived alone in a secluded house on the cape.||叔父さんは、岬の一軒家に独りぼっちで住んでいた。
 sectarian|adj.|宗派的；黨派的；偏狹的；宗派成員|80|宗派の；偏狭な；宗派の人|h|||
-seductive|adj.|誘惑的；引人注意的；有魅力的|80|悩ましい|b|A brilliant, seductive chef turns to espionage in Napoleon-era France.|拿破崙時代的法國，魅力誘人的天才廚師搖身一變成為間諜。|ナポレオン時代のフランス、卓越した才能で魅了するシェフがスパイに転じる。
+seductive|adj.|誘惑的；引人注意的；有魅力的|80|魅力的な；誘惑的な|v|A brilliant, seductive chef turns to espionage in Napoleon-era France.|拿破崙時代的法國，魅力誘人的天才廚師搖身一變成為間諜。|ナポレオン時代のフランス、卓越した才能で魅了するシェフがスパイに転じる。
 segmentation|n.|分割；割斷；細胞分裂|80|セグメンテーション|b|||
 serotonin|n.|血清素|80|セロトニン|b|||
 shaker|n.|搖動者；搖動器；混和器|80|シェーカー|a|||
@@ -14481,12 +14481,12 @@ slew|n.|沼地；迴轉；旋轉；使旋轉|80|沼地；旋回；回転させ�
 smallpox|n.|天花|80|天然痘；痘痕|a|Everybody is immune to smallpox nowadays.|現今每個人都對天花免疫了。|今ではみんな天然痘には免疫になっている。
 smirk|v.|傻笑；假笑；得意地笑|80|にやにや笑う；ほくそ笑む|h|What are you smirking at? Did something good happen?||なにニヤニヤしてるんだよ。何かいいことあったのか。
 smokey|adj.|多煙的|80|煙の多い；煙っぽい|h|||
-smoothie|n.|舉止優雅的人；善於奉承的人；油嘴滑舌的人|80|スムージー|b|||
+smoothie|n.|舉止優雅的人；善於奉承的人；油嘴滑舌的人|80|スムージー；口先のうまい人|v|||
 sociological|adj.|社會的；社會學的|80|社会の；社会学の|h|This is a sociological study on abortion.||これは妊娠中絶に関する社会学的研究である。
 sod|n.|草地；草皮；故鄉；鋪上草皮|80|芝生；芝土；故郷；芝を張る|h|||
 sorority|n.|婦女聯誼會；女學生聯誼會|80|女子学生の社交クラブ；女性の団体|h|||
 spatula|n.|刮刀；壓舌片；匙突|80|へら；スパチュラ|a|Tom took a spatula out of the drawer.|湯姆從抽屜裡拿出一把鍋鏟。|
-spectre|n.|幽靈；妖怪；凶兆|80|スペクター|b|A spectre is haunting Europe — the spectre of communism.||一匹の妖怪がヨーロッパを徘徊している。共産主義という妖怪が。
+spectre|n.|幽靈；妖怪；凶兆|80|亡霊；幽霊；脅威|v|A spectre is haunting Europe — the spectre of communism.||一匹の妖怪がヨーロッパを徘徊している。共産主義という妖怪が。
 speechless|adj.|不會說話的；啞的；說不出話的|80|言葉を失った；ものが言えない|d|The surprise rendered her speechless.|她驚訝得說不出話來。|彼女は非常に驚いたので、ものが言えなかった。
 spire|n.|尖塔；尖頂；錐形體；突出|80|尖塔|b|A church spire could be seen in the distance.||遠くに教会の尖塔が見えた。
 splinter|n.|碎片；尖片；分裂出來的小派別；使分裂|80|破片；とげ；分派；分裂させる|d|I can't get this splinter out of my finger.||この、指のとげが抜けないんだよ。
@@ -14535,7 +14535,7 @@ unintended|adj.|不是存心的；無心的；非故意的|80|意図しない；
 uninterrupted|adj.|不間斷的；連續的；不斷的|80|途切れない；中断されない|h|||
 unmanned|adj.|無人的；無人操縱的|80|無人|a|Well, unmanned drones likely lack style, right.||無人機じゃ味気ないだろ。
 unmarked|adj.|未被注意的；無記號的；無標誌的|80|目立たない；印のない；注目されない|h|||
-unprepared|adj.|無準備的；即席的；不期而遇的|80|不用意|a|||
+unprepared|adj.|無準備的；即席的；不期而遇的|80|準備ができていない；無防備な|v|||
 unprofessional|adj.|違反行業習慣的；違反行業道德的；不合行規的|80|専門家らしくない；職業倫理に反する|h|||
 unregulated|adj.|未經調節的；未校準的|80|規制のない；無調整の|h|||
 unreleased|adj.|非除阻的；不吐放的|80|公開されていない；未発表の|h|||
@@ -14565,10 +14565,10 @@ whew|n.|吹哨聲；喲|80|ふう；やれやれ；口笛の音|d|Whew, I was so
 whimsical|adj.|怪念頭多的；反覆無常的；古怪的|80|気まぐれな；奇抜な|h|||
 worldview|n.|看；視力；觀點|80|世界観|a|This person's worldview is officially unhealthy.|經鑑定，此人三觀不正。|
 wrongdoing|n.|幹壞事；壞事|80|悪事；不正行為|d|Your wrongdoing is a disgrace to our school.||君たちの不道徳な行いは我が校の名を汚すものだ。
-absurdity|n.|荒謬；悖理；荒謬的言行|80|背理；とんちんかん|b|Twitter is a good example of absurdity.|推特就是荒謬的絕佳例子。|
+absurdity|n.|荒謬；悖理；荒謬的言行|80|不条理；ばかげたこと|v|Twitter is a good example of absurdity.|推特就是荒謬的絕佳例子。|
 academically|adv.|學術上；學業上|80|学術的に；学業の点で|h|The academically talented students helped others in the classroom.||勉強のできる生徒は、クラスの他の生徒を助けていました。
 achievable|adj.|做得成的；可完成的；可有成就的|80|達成可能な|h|||
-admirer|n.|欽佩者；仰慕者；求愛者|80|引く手|b|I heard that you've got a secret admirer.||密かに想いを寄せている人がいると聞いたよ。
+admirer|n.|欽佩者；仰慕者；求愛者|80|崇拝者；ファン；求婚者|v|I heard that you've got a secret admirer.||密かに想いを寄せている人がいると聞いたよ。
 ado|n.|紛擾；忙亂；麻煩|80|騒ぎ；面倒；手間|h|Without further ado, I'd like to report on that matter.||さっそくですが、あの件について報告させていただきます。
 adoptive|adj.|有收養關係的；採用的|80|養子関係の；採用された|h|||
 aerobic|adj.|需氧的；需氧菌產生的；增氧健身法的|80|有酸素の；好気性の；エアロビクスの|h|She goes to aerobics once a week.|她每星期去作一次健美操。|彼女は週に１回エアロビクスをやっている。
@@ -14719,7 +14719,7 @@ furiously|adv.|狂暴地；猛烈地|80|猛烈に；激しく；怒って|h|Colo
 gall|n.|膽汁；五倍子；苦味；煩惱|80|胆汁；五倍子；苦々しさ|d|For gall bladder surgery, go down this hall and take a right.||胆のうの手術でしたら、この廊下をずっと行って右に曲がってください。
 galway|n.|戈爾韋|80|ゴールウェイ|h|||
 gamut|n.|音階；整個範圍；全部|80|音域；全範囲；全体|h|||
-gaping|adj.|多洞穴的|80|パクリ|b|She was gaping at their quarrel.||彼女は彼らの口論を茫然と見つめていた。
+gaping|adj.|多洞穴的|80|ぽかんと開いた；大口を開けた|v|She was gaping at their quarrel.||彼女は彼らの口論を茫然と見つめていた。
 gearbox|n.|變速箱|80|変速機|d|||
 genealogy|n.|系譜；宗譜；家系|80|系譜|a|||
 geologist|n.|地質學家；地質學者|80|地質学者|d|The geologists explored for oil on our farm.||地質学者が私たちの農場で石油の実地調査を行った。
@@ -14735,8 +14735,8 @@ herbicide|n.|除草劑|80|除草剤|d|Why do yields increase with herbicide-resi
 homeowner|n.|私房屋主；自己擁有住房者|80|持ち家の所有者；住宅所有者|h|||
 hookup|n.|連線；接線圖；聯播|80|接続；接続図；中継|h|||
 hopelessly|adv.|絕望地；無可奈何地|81|絶望的に；どうしようもなく|h|Tzu-hsiang's way too honest. He's hopelessly passive in relationships.|子翔那個人太老實了，談戀愛都被動得要命。|
-husky|n.|強壯結實之人；愛斯基摩人；有殼的；聲音沙啞的|81|ハスキー|a|||
-hydration|n.|水合|81|水酸化；水化|b|Hydration is essential for staying healthy during the summer months.||水分補給は夏の間の体調管理の基本だ。
+husky|n.|強壯結實之人；愛斯基摩人；有殼的；聲音沙啞的|81|ハスキー犬；声がかすれた；たくましい|v|||
+hydration|n.|水合|81|水分補給；水和|v|Hydration is essential for staying healthy during the summer months.||水分補給は夏の間の体調管理の基本だ。
 hypocritical|adj.|偽善的；偽善者的|81|偽善的な；偽善の|h|I've never known anyone as hypocritical as you.|我從來沒有見過誰像你這麼虛偽的。|
 imposition|n.|徵收；課稅；強加|81|押し付け；組み付け|b|||
 indebted|adj.|負債的；受惠的|81|恩義を受けた；借金のある|h|I am in no small degree indebted to him.||僕は彼に少なからず恩義がある。
@@ -14760,7 +14760,7 @@ keel|n.|龍骨；平底船；裝以龍骨；使傾覆|81|キール；竜骨|a|Th
 kink|n.|扭結；蜷縮；絞纏|81|ねじれ；縺れ；くせ|d|||
 knuckle|n.|指節；蹄爪；膝關節；以指節打|81|ナックル|a|One of Tom's bad habits is cracking his knuckles.||指を鳴らすのも、トムの悪い癖だよな。
 kruger|n.|克魯格；格爾|81|クルーガー|h|||
-laughable|adj.|可笑的；有趣的|81|笑止|b|The idea that he is going to make a speech is laughable.||あいつが演説するなんて片腹痛い。
+laughable|adj.|可笑的；有趣的|81|笑うべき；ばかげた|v|The idea that he is going to make a speech is laughable.||あいつが演説するなんて片腹痛い。
 laureate|adj.|戴桂冠的；用月桂樹枝編織成的；榮譽的；桂冠詩人|81|栄誉を受けた；桂冠の|h|||
 legislator|n.|立法者；立法官；立法委員|81|立法者；議員|d|The Prime Minister postponed the legislator's punishment.||首相は議員の処分を棚上げにしました。
 lettering|n.|寫字；印字；刻字|81|レタリング|a|The sun had faded the lettering on the sign.||日光で看板の文字があせた。
@@ -14776,7 +14776,7 @@ lupus|n.|狼瘡；豺狼座|81|狼瘡；ループス|d|||
 lymph|n.|淋巴|81|リンパ；リンパ液|a|||
 madman|n.|瘋子；精神病患者|81|狂人；精神異常者|d|He acted like a madman.|他表現的像個瘋子。|彼は狂人のように振る舞った。
 magnolia|n.|木蘭；淺桃紅色|81|マグノリア；ほおのき|b|||
-manipulative|adj.|處理的；巧妙處理的；操縱的|81|操作的な；巧みに操る；操縦の|h|||
+manipulative|adj.|處理的；巧妙處理的；操縱的|81|人を操る；操作的な|v|||
 marcia|n.|瑪西亞|81|マーシャ|h|Marcia looked grim when I told her the story.||マーシャにその話をしたとき、いかめしい顔つきをした。
 maroon|n.|逃亡黑人奴隸；褐紫紅色；爆竹；褐紫紅色的|81|マルーン；海老茶|b|They were marooned on a desert isle.|他們被拋棄在一座荒島上。|
 marquee|n.|大帳篷；遮篷；選取框|81|大型テント；ひさし；選択枠|h|||
@@ -14804,7 +14804,7 @@ mover|n.|移動的人；原動力；鼓動者|81|ムーバー|b|||
 multiplicity|n.|相重性；多重性；多樣|81|多数；多様性；多重性|h|||
 multiplier|n.|增殖者；倍加器；乘數|81|乗数|b|||
 mystic|adj.|神秘的；奧秘的；神秘主義者|81|神秘的な；神秘主義者|h|||
-narcissistic|adj.|自我陶醉的；自戀的|81|ナル；ナルシスティック|b|||
+narcissistic|adj.|自我陶醉的；自戀的|81|自己愛的な；ナルシシズムの|v|||
 nativity|n.|出生；出生的情況；誕生|81|誕生；出生；降誕|d|||
 nee|adv.|孃家姓|81|旧姓の|h|||
 nehru|n.|尼赫魯|81|ネルー|h|||
@@ -14856,14 +14856,14 @@ realisation|n.|實現；完成|81|実現；達成；理解|d|||
 rebuff|n.|斷然拒絕；嚴厲拒絕；漠不關心|81|断固たる拒絶；はねつけること|h|||
 recapture|n.|取回；奪回；再捕獲|81|奪還|a|He had scarcely escaped when he was recaptured.||彼は逃げるか逃げないかのうちにまた捕まった。
 redistribution|n.|重新分配；再分發|81|再分配；再配分|d|||
-redo|v.|再做；重做；改裝|81|リドゥ|b|It seems Tom is redoing a year.||トム、留年したらしいよ。
+redo|v.|再做；重做；改裝|81|やり直す；作り直す|v|It seems Tom is redoing a year.||トム、留年したらしいよ。
 redwood|n.|紅杉；紅樹|81|セコイア；アカスギ|d|||
 relentlessly|adv.|不仁慈；嚴酷；無情|81|容赦なく；執拗に|d|The rain fell relentlessly all day long.||雨が一日中絶え間なく降っていた。
 rename|v.|重新命名；再命名；給...改名|81|リネーム|a|||
 repentance|n.|後悔；悔改|81|懺悔；悔い改め|b|||
 resonate|v.|共鳴；共振|81|共鳴する；響く；共感を呼ぶ|h|||
 resourceful|adj.|資源豐富的；策略的；機智的|81|機転の利く；工夫に富んだ；資源豊かな|h|||
-responsiveness|n.|強烈的反應|81|感応|b|||
+responsiveness|n.|強烈的反應|81|反応の良さ；応答性|v|||
 ret|v.|漚軟；受潮溼腐爛|81|水に浸して柔らかくする|h|||
 reusable|adj.|可以再度使用的|81|再利用可能な|h|These materials are all reusable and recyclable.|那些材料都是可回收且可再利用的。|
 revamp|v.|換新鞋面；修理；修補|81|改修する；手直しする；作り直す|h|||
@@ -14881,7 +14881,7 @@ sawdust|n.|鋸屑|81|大鋸屑|b|||
 scholastic|adj.|學校的；學校教育的；學者的；經院哲學家|81|学校の；学問の；スコラ学者|h|He exceeds all his brothers in scholastic ability.||学校の勉強では彼は兄弟のだれよりも優れている。
 scotty|n.|蘇格蘭狗|81|スコッチテリア|h|||
 scrawl|v.|潦草地寫；亂寫|81|落書き|a|On the memo was scrawled, "have her practice floating in the water."||メモには、水に浮かぶ練習をさせるように、と殴り書きされていた。
-seduction|n.|教唆；慫恿；誘惑|81|たらし|b|I can't shake off her seduction.||彼女の誘惑に勝てない。
+seduction|n.|教唆；慫恿；誘惑|81|誘惑；魅惑|v|I can't shake off her seduction.||彼女の誘惑に勝てない。
 sender|n.|寄件人；發報機|81|差出人；贈り主|a|Don't flip-flop the addresses of the sender and recipient!|不要把寄件人、收件人地址的姓名填反了！|
 seneca|n.|塞內卡族；塞內卡語；塞內卡人|81|セネカ族；セネカ語|h|||
 shaggy|adj.|毛髮蓬亂的；粗濃的；草木叢生的|81|シャギー|b|||
@@ -14896,7 +14896,7 @@ sled|n.|雪撬；用雪撬搬運|81|そり；そりで運ぶ|d|Pete came coastin
 sleepless|adj.|不睡眠的；睡不著的；不休息的|81|眠れない；不眠の|h|Tom spent a sleepless night thinking of Mary.||トムはメアリーのことを考えて眠れない夜を過ごした。
 slither|v.|不穩地滑動；使滑動|81|滑るように動く；ずるずる這う|h|The slippery snake slithered right out of his hand.|那條蛇滑溜溜的，一下子就從他的手中掉了出來。|そのつるつるした蛇は、彼の手からにょろりと抜け出した。
 sloane|n.|英國上流社會中衣著時髦的傳統女子|81|英国上流階級の洒落た若い女性|h|When is the next train to Sloane Square?||スローン・スクエア行きの次の電車はいつですか。
-slouch|n.|沒精打采的樣子；耷拉；笨人；沒精打采地走|81|前かがみ|b|||
+slouch|n.|沒精打采的樣子；耷拉；笨人；沒精打采地走|81|猫背；前かがみ；怠け者|v|||
 sludge|n.|軟泥；泥濘|81|ヘドロ；汚泥|a|||
 slur|n.|連音符；誹謗；玷汙；草率地看過|81|スラー|b|He was drunk and slurring his words.||彼は酔っ払ってだみ声になっていた。
 snip|v.|剪；剪斷；削減|81|切る；切り取る；削減する|h|||
@@ -14932,12 +14932,12 @@ susceptibility|n.|敏感性；感情|81|感受性；感じやすさ|d|||
 swag|n.|搖晃；贓物；窪地|81|スワッグ|b|||
 sweatshirt|n.|園領長袖運動衫|81|スウェット；スウェットシャツ|b|I think you've put your sweatshirt on inside out.||セーター、裏返しなんじゃない？
 swoop|n.|俯衝；攫取；抓取|81|急降下；急襲；ひったくり|d|||
-symmetric|adj.|對稱的；均勻的；勻稱的|81|シンメトリック|b|||
+symmetric|adj.|對稱的；均勻的；勻稱的|81|対称的な；左右対称の|v|||
 synergy|n.|協同作用|81|シナジー|b|||
 tacky|adj.|發粘的；破爛的；俗麗的|81|ベタつく；安っぽい；けばけばしい|h|Because he thought Fred's comment was tacky, Larry got up on his high horse.||フレッドの意見がしゃくにさわったラリーは、居丈高な態度に出た。
 taker|n.|取者；捕者；接受者|81|受け取る人；引き受ける人|h|The thief-taker arrested many thieves at the same time.||岡っ引きは泥棒を一網打尽に逮捕した。
 tangent|adj.|接觸的；正切的；離題的；切線|81|タンジェント|b|"Eh? Is the tangent cosine divided by sine?" "Other way round!"||「あれ、タンジェントってサインでコサインを割るんだっけ？」「逆、逆」
-tenacity|n.|固執；不屈不撓；頑固|81|頑張り；執念|a|I got over the difficulty with my characteristic tenacity.|我憑韌性克服了困難。|私は持ち前の頑張りの精神で難関を突破した。
+tenacity|n.|固執；不屈不撓；頑固|81|粘り強さ；執念|v|I got over the difficulty with my characteristic tenacity.|我憑韌性克服了困難。|私は持ち前の頑張りの精神で難関を突破した。
 therapeutics|n.|治療學|81|治療学；治療法|h|||
 thingy||物的；物質的；實際的|81|あれ；例の物|h|||
 thom|n.|託姆|81|トム|h|||
@@ -14967,7 +14967,7 @@ unintentionally|adv.|非故意地；非存心地；無意之中|81|何気なく�
 unqualified|adj.|不合格的；無資格的；不勝任的|81|無資格|a|Beth is unqualified for such a responsible post.||ベスはこんな責任のある地位には向かない。
 unsolicited|adj.|未經請求的；主動提供的|81|頼まれていない；自発的な|h|||
 untitled|adj.|無稱號的；無標題的；無合法權利的|81|無題|b|||
-unworthy|adj.|不值得的；不相稱的|81|不肖|a|They are unworthy of the praise given them.||彼らは与えられた賞賛に値しない。
+unworthy|adj.|不值得的；不相稱的|81|価値のない；ふさわしくない|v|They are unworthy of the praise given them.||彼らは与えられた賞賛に値しない。
 vagary|n.|狂想；奇特行為；奇想|81|気まぐれ；奇行|h|||
 vandalism|n.|故意毀壞文物的行為；破壞他人財產的行為|81|器物破損；破壊行為|h|||
 variously|adv.|各種各樣；種種；不同|81|さまざまに；種々に|h|||
@@ -14987,7 +14987,7 @@ worded|v.|措辭；用詞|81|言葉で表した；言い回した|h|||
 yellowish|adj.|淡黃的；微黃的|81|黄色みがかった|d|||
 zulu|n.|祖魯語；祖魯人|81|ズールー語；ズールー人|d|The Zulu tribe in South Africa has its own language.|南非的祖魯族人有著自己獨特的語言。|南アフリカのズールー族は独自の言語を持っている。
 abet|v.|教唆；煽動；慫恿|81|教唆する；そそのかす|h|She abetted him in escaping from prison.||彼女は彼をそそのかして刑務所から脱走させた。
-abode|n.|住所；住處|81|御座所|b|What do you think of our new abode?||私たちの新居をご覧になってはいかがですか。
+abode|n.|住所；住處|81|住まい；住居|v|What do you think of our new abode?||私たちの新居をご覧になってはいかがですか。
 abomination|n.|厭惡；痛惡；令人厭惡的事物|81|嫌悪；忌まわしいもの|h|The sight of you is an abomination to me.||おまえなんか見るのも嫌だ。
 accolade|n.|榮譽；讚美；騎士爵位的授予禮|81|栄誉；称賛；叙勲|h|||
 acetate|n.|醋酸鹽|81|アセテート|b|||
@@ -15006,7 +15006,7 @@ allotment|n.|分配；撥款；命運|81|割り当て；配当|a|A good method f
 angelic|adj.|天使的；天使般的|81|天使のような；天使の|h|She is by no means angelic.||彼女は決して天使のような人ではない。
 annexation|n.|合併；附加；附加物|81|併呑|b|||
 anthrax|n.|炭疽|81|炭疽|b|||
-antithesis|n.|對偶；對照；對立面|81|アンチテーゼ|b|Death is the antithesis of life.||死は生の正反対である。
+antithesis|n.|對偶；對照；對立面|81|対照；正反対；アンチテーゼ|v|Death is the antithesis of life.||死は生の正反対である。
 aqueous|adj.|水的；似水的；水成的|81|水の；水性の|h|||
 arbiter|n.|仲裁人；裁決者；公斷人|81|仲裁人；裁定者|h|||
 archer|n.|弓箭手；射箭運動員|81|アーチャー；射手|b|The archer killed the deer.|射手打死了鹿。|射手は鹿を射た。
@@ -15036,7 +15036,7 @@ bode|v.|預示|81|予告する；兆しを示す|h|His laziness boded ill for th
 bombshell|n.|炸彈；突發而驚人的事物|81|爆弾；衝撃的な出来事|h|Suddenly, he dropped us a bombshell.||いきなり爆弾発言ぶっこんできた。
 bonnet|n.|軟帽|81|ボンネット|a|How do I open the bonnet?||どうやってボンネットを開けるのですか。
 bouncer|n.|巨大的東西；巨人；跳躍的人|81|バウンサー|b|The bouncer asked to see her I.D.|保鏢要求看她的身份證。|
-brazen|adj.|黃銅製的；厚顏無恥的；厚臉皮地對待|81|伝法|b|His brazen act of defiance almost cost him his life.||その恥知らずな抵抗活動のために、彼は危うく命を失いかけた。
+brazen|adj.|黃銅製的；厚顏無恥的；厚臉皮地對待|81|厚かましい；図々しい；真鍮製の|v|His brazen act of defiance almost cost him his life.||その恥知らずな抵抗活動のために、彼は危うく命を失いかけた。
 breezy|adj.|有微風的；通風好的；活潑的|81|そよ風の吹く；快活な|h|||
 budgetary|adj.|預算的|81|予算の|h|||
 bullish|adj.|似公牛的；看漲的；上揚的|81|強気の；上昇の|h|||
@@ -15060,7 +15060,7 @@ chastity|n.|純潔；貞操|81|貞操；貞淑|b|God, please give me chastity an
 chime|n.|鐘聲；鍾；和諧；鳴|81|チャイム|a|"I think so, too," she chimed in.|“我也那樣覺得。”她附和道。|「私もそう思うわ」と彼女は相づちを打った。
 chipotle|n.|乾紅辣椒；煙味辣椒；墨西哥風味快速便餐|81|燻製赤唐辛子；チポトレ|h|||
 chromium|n.|鉻|81|クロム|a|||
-claimant|n.|提出要求者；原告|81|引き取り手|b|||
+claimant|n.|提出要求者；原告|81|請求者；原告|v|||
 clarinet|n.|豎笛；單簧管；黑管|81|クラリネット|b|Neither Tom nor Mary knows how to play the clarinet.|湯姆和瑪麗都不會吹單簧管。|トムとメアリーは二人ともクラリネットの吹き方を知らない。
 climber|n.|登山者|81|クライマー|b|The mountain climbers reached the summit before dark.||登山家達は暗くなる前に頂上に着いた。
 clique|n.|派系；集團；結黨|81|派閥；閥|a|I'm opposed to political power being monopolized within a clique.||政権のたらい回しは反対だ。
@@ -15106,7 +15106,7 @@ deodorant|n.|除臭藥；防臭劑；止臭的；防臭的|81|デオドラント
 deregulation|n.|撤消管制規定；解除控制|81|規制緩和；規制撤廃|d|Therefore, they cannot catalyze deregulation without "external pressure".||今後は、新事業創造による経済の活性化という観点から、国民のコンセンサスに基づいた早急な内圧型規制緩和が推進されなければなるまい。
 disarmament|n.|裁軍|81|軍縮；武装解除|d|Disarmament is in practice difficult in many countries.||多くの国において軍備縮小は実際には難しい。
 dishonesty|n.|不誠實|81|不正直|b|I expostulated with him on his dishonesty.||彼の不正直をいさめた。
-disorderly|adj.|無秩序的；亂的；騷亂的|81|めちゃめちゃ|a|||
+disorderly|adj.|無秩序的；亂的；騷亂的|81|無秩序な；乱雑な；騒々しい|v|||
 displeasure|n.|不愉快；生氣；不滿|81|不快；忌諱|a|A frown may express anger or displeasure.||しかめっ面は、怒りや不快感を表すことがあります。
 doppler|adj.|多普勒的|81|ドップラー|b|I'm not good at science, but I remember the Doppler effect.||理科は苦手だがドップラー効果だけは覚えてる。
 doubly|adv.|加倍地；雙重地|81|二重に；とりわけ|h|||
@@ -15162,7 +15162,7 @@ ghostly|adj.|幽靈的；影子似的；精神的|81|幽霊のような；亡霊
 gnarled|adj.|多節的；扭曲的；多瘤的|81|節くれだった；ねじ曲がった|h|||
 goliath|n.|哥利亞|81|ゴリアテ；巨人|d|||
 grandiose|adj.|宏偉的；壯麗的；誇張的|81|壮大な；大げさな|h|||
-grapple|v.|抓住；掌握；繫緊|81|取っ組み合い|b|Party leaders are grappling with flaws in the party system.||党幹部らは、党組織の欠陥問題に取り組んでいます。
+grapple|v.|抓住；掌握；繫緊|81|取っ組み合う；取り組む；つかむ|v|Party leaders are grappling with flaws in the party system.||党幹部らは、党組織の欠陥問題に取り組んでいます。
 greenfield|adj.|未開發地區的；待開發地區的|81|未開発の；新規の|h|||
 gripping|adj.|抓的；吸引人的；扣人心絃的|81|手に汗握る；引きつける|h|I have a gripping pain here.||ここがしくしく痛みます。
 grisly|adj.|可怕的；厲害的；令人畏懼的|81|おぞましい；恐ろしい|h|Police arrived at the grisly crime scene.|警察到達了可怕的犯罪現場。|
@@ -15203,7 +15203,7 @@ inseparable|adj.|不能分的|81|不可分|a|Good health is inseparable from exe
 institutionalized|adj.|使成慣例的；有組織的；遭受收容機構所產生的不良影響的|81|制度化された；施設化した|h|||
 interchangeable|adj.|可互換的|81|交換可能な；互換性のある|h|||
 intercontinental|adj.|大陸間的；洲際的|81|大陸間の；洲際の|h|||
-intolerable|adj.|無法忍受的；難耐的|81|たまらない|a|The pain from the compound fracture was almost intolerable.||複雑骨折の痛みはほとんど耐え難かった。
+intolerable|adj.|無法忍受的；難耐的|81|耐えられない；我慢できない|v|The pain from the compound fracture was almost intolerable.||複雑骨折の痛みはほとんど耐え難かった。
 intravenous|adj.|靜脈內的|81|静脈内の|h|I had an intravenous drip in hospital.||私は病院で点滴を受けた。
 invitational|adj.|邀請的；慫恿|81|招待制の；招待の|h|||
 ironman||鋼鐵人；鋼鐵俠|81|鉄人；アイアンマン|d|||
@@ -15218,18 +15218,18 @@ juror|n.|陪審員；審查委員|81|陪審員；審査員|d|||
 jus|n.|法律；權利；法律原則|81|ジュ|b|||
 kant|n.|康德|81|カント|h|Critique of Pure Reason is German philosopher Immanuel Kant's chief literary work.||「純粋理性批判」はドイツの哲学者エマニュエル・カントの主著である。
 kepler|n.|開普勒；開普勒環形山|81|ケプラー|h|J. Kepler, astronomer and mathematician, made a study of planets and their movements.||天文学者で数学者であった、J.ケプラーは、惑星とその運動についての研究をした。
-kern|n.|核；顆粒；仁；vi. 結果實|81|カーン|a|||
+kern|n.|核；顆粒；仁；vi. 結果實|81|カーン；核|v|||
 kessler||喀斯樂|81|ケスラー|h|||
 lactose|n.|乳糖|81|乳糖；ラクトース|b|This bottle of yogurt does not contain lactose.|這瓶酸奶不含乳糖。|
 laird|n.|地主；領主|81|地主；領主|h|||
 lander|n.|出鐵槽；著陸器；把鉤工人|81|着陸機；探査機|h|It is worth noting that Lander made the necessary modifications.||ランダーが必要な修正を施したことは注意する価値がある。
 lasagna||烤寬麵條|81|ラザニア|b|Lasagna is one of my favorite foods.||私はラザニアが大好物なんだ。
 lat|n.|拉特|81|ラト|h|||
-laziness|n.|怠惰；無精打采|81|横着；ものぐさ|a|His laziness boded ill for the future.|他的懶惰是他未來不好的預兆。|彼の怠惰は将来に対する悪い前兆だった。
+laziness|n.|怠惰；無精打采|81|怠惰；ものぐさ|v|His laziness boded ill for the future.|他的懶惰是他未來不好的預兆。|彼の怠惰は将来に対する悪い前兆だった。
 leech|n.|水蛭；吸血鬼；榨取他人利益的人；以水蛭吸血|81|ひる；リーチ|b|A more plausible proposal is the one Leech presented in conjunction with Emmet's theory.||リーチがエメット理論との関連で提供した提案のほうがより妥当なものである。
 letterman|n.|運動員|81|大学の運動選手|h|||
 lev|n.|列弗|81|レフ|b|||
-linkage|n.|聯合；連鎖；結合|81|絡み；リンケージ|a|||
+linkage|n.|聯合；連鎖；結合|81|連動；連結；つながり|v|||
 loathing|n.|非常討厭；嫌惡；極不情願|81|嫌悪；憎悪|d|||
 lockout|n.|封閉工廠|81|ロックアウト|b|||
 lovingly|adv.|鍾愛地；親切地|81|愛情深く；優しく|h|My father embraced my mother lovingly.||父は母のことを優しく抱きしめた。
@@ -15237,7 +15237,7 @@ lube|n.|潤滑油|81|潤滑油|d|||
 lukewarm|adj.|微溫的；不熱的；不熱情的|81|ぬるい；生ぬるい|a|Mary likes her coffee steaming hot, while Tom likes his lukewarm.||メアリーは熱々のコーヒーが好きだけど、トムはぬるめが好きなんだ。
 lurid|adj.|火燒似的；蒼白的；華麗的|81|どぎつい；毒々しい|h|||
 luscious|adj.|甘美的；濃厚的；滿足感官的|81|甘美な；芳醇な|h|||
-machete|n.|大砍刀|81|マチェット|b|||
+machete|n.|大砍刀|81|マチェーテ；山刀|v|||
 madly|adv.|發狂地；精神失常地；愚蠢地|81|狂ったように；猛烈に|h|He is madly in love with that girl.||彼はあの娘に完全に参っている。
 malaise|n.|不舒服|81|不快感；倦怠感|h|||
 manhood|n.|成年；勇氣；男兒|81|成人；男らしさ|h|He is now in the prime of manhood.||彼は今男盛りだ。
@@ -15250,10 +15250,10 @@ midwestern|adj.|美國中西部的|81|米国中西部の|h|||
 minimise|v.|使減到最少/最小；使降到最低限度；使縮到最小|81|最小限にする；最小化する|h|||
 minnow|n.|鯉科淡水小魚|81|鮠|b|||
 miserably|adv.|非常不幸地；可悲地；貧困地|81|みじめに；哀れに|h|It was down to her that he lived so miserably.||彼女のおかげで彼はみじめな暮らしをした。
-modal|adj.|形式的；樣式的；形態上的|81|様態の；様式の|h|||
+modal|adj.|形式的；樣式的；形態上的|81|様式の；モーダル；法の|v|||
 modernism|n.|現代作風；現代主義；現代思想|81|モダニズム|a|||
 mol|n.|摩爾；克分子|81|モル|d|||
-moo|v.|發哞聲；牛叫聲|81|モーモー|b|"Moo, moo," said the cow.||「モーモー」と牛は鳴いた。
+moo|v.|發哞聲；牛叫聲|81|モーと鳴く；牛の鳴き声|v|"Moo, moo," said the cow.||「モーモー」と牛は鳴いた。
 morphological|adj.|形態的；形態學的；詞法的|81|形態学の；形態論の|h|||
 motherboard|n.|底板；母板|81|マザボ|b|Where's the box the motherboard came in?|主機板的包裝盒在哪裡？|
 motorized|adj.|摩托化的；機動化的|81|動力化された；モーター付きの|h|||
@@ -15283,7 +15283,7 @@ ombudsman|n.|調查官|81|オンブズマン|a|||
 omelet|n.|煎蛋卷；煎蛋餅；炒蛋|81|オムレツ；卵焼き|d|You can't make an omelet without breaking eggs.||背に腹は代えられぬ。
 omnibus|n.|公共汽車；公共馬車；精選集；綜合性的|81|オムニバス|a|||
 onerous|adj.|繁重的；負有法律責任的|81|負担の重い；過酷な|h|||
-oof|n.|錢；現鈔|81|うっ|b|||
+oof|n.|錢；現鈔|81|うっ；お金|v|||
 orally|adv.|口頭；口語；口述|81|口頭で；口述で|h|||
 outburst|n.|爆發；突發；破裂|81|爆発；噴出；突発|d|||
 outlandish|adj.|外國氣派的；偏僻的；古怪的|81|奇抜な；風変わりな|h|||
@@ -15300,7 +15300,7 @@ particulars|n.|細節；詳細情況；詳情|81|細目|a|For particulars, apply
 passer|n.|過路人；旅客；考試合格者|81|通行人；合格者|h|I enquired of a passer-by which road to take.||私は通り掛かりの人にどの道をいったらいいのか尋ねた。
 pathologist|n.|病理學家|81|病理学者|d|||
 pelt|n.|投擲；打擊；快速；剝...的皮|81|毛皮；投げつけること|d|||
-peroxide|n.|過氧化物|81|オキシドール|b|||
+peroxide|n.|過氧化物|81|過酸化物；オキシドール|v|||
 perpetually|adv.|永恆地；持久地|81|永遠に；絶えず|h|||
 personalised|adj.|個人化的|81|個人向けの；個人化された|h|||
 phantom|n.|幻影；虛位；幽靈；幻覺的|81|幻；幻影|a|I caught a glimpse of the phantom sitting behind the wheel.||車を運転している幽霊を見た。
@@ -15311,8 +15311,8 @@ pom|n.|波美拉尼亞種小狗；砰的一聲；發砰砰聲|81|ポメラニア
 pont|n.|纜拉渡船|81|渡し船|h|||
 possessive|n.|所有格；所有的；佔有的|81|所有格の；独占欲の強い|h|||
 postdoctoral|adj.|博士後的|81|博士号取得後の|h|||
-powerfully|adv.|強有力；強大；效力大|81|どんと|b|||
-precocious|adj.|早熟的；像大人的|81|おませ|b|She's a precocious one eh?||彼女はちょっとおませさんだね。
+powerfully|adv.|強有力；強大；效力大|81|力強く；強力に|v|||
+precocious|adj.|早熟的；像大人的|81|早熟な；おませな|v|She's a precocious one eh?||彼女はちょっとおませさんだね。
 prefecture|n.|地方長官的職位；縣|81|県；府|a|How many prefectures are there in Japan?|日本有多少個縣?|日本には、都道府県は幾つあるの？
 prenatal|adj.|出生以前的；孕期的|81|出生前の；妊娠中の|h|The next discussion concerns the transplantation of prenatal tissues.||次の議論は出生前の組織移植に関するものである。
 prentice|n.|學徒；初學者；徒弟的；無經驗的|81|見習い；初心者|h|||
@@ -15330,20 +15330,20 @@ putt|v.|擊球入洞；輕擊高爾夫球|81|パット|a|Mary isn't really sick;
 quadruple|adj.|四倍的；四重的；四部分組成的；四倍|81|四倍の；四重の|h|||
 qualm|n.|暈眩；不安；疑慮|81|不安；疑念|h|He had no qualms in doing so.|他這麼做，沒有任何不安。|彼はそうする事に後ろめたさを感じなかった。
 queasy|adj.|嘔吐的；使人嘔吐的|81|吐き気がする；気分が悪い|h|I kind of feel queasy. I might've gotten seasick on the boat.||なんか気持ち悪い。船に酔ったかもしれない。
-rampage|n.|亂鬧；亂衝；暴跳|81|荒れ狂う|b|||
+rampage|n.|亂鬧；亂衝；暴跳|81|暴れ回る；大暴れ|v|||
 ratchet|n.|棘輪；棘爪|81|ラチェット|b|||
 rebuttal|n.|辯駁；駁回；反駁|81|反論；論駁|d|||
 recast|v.|重鑄；重作；改造|81|作り直す；改作する|h|||
 reconnect|v.|使再接合|81|再接続する；再び結びつける|h|||
 redneck|n.|紅脖子；鄉下人|81|田舎者；保守的な南部の白人|d|The way he talks and acts, you can tell he's a redneck.||彼は行動も言動も田舎もんそのものだよ。
 reincarnation|n.|轉世化身；再生|81|転生|a|||
-remission|n.|寬恕；豁免；免罪|81|寛解|b|||
+remission|n.|寬恕；豁免；免罪|81|寛解；免除；軽減|v|||
 remodeling|n.|重塑；改建；重構|81|改造|a|I spent a lot of money remodeling my house.||リフォームに結構お金がかかった。
 reprimand|n.|譴責；懲戒；非難|82|叱責；譴責|b|The manager reprimanded the man by pounding on the table.|經理以重擊桌子來斥責那名男子。|
 reprisal|n.|報復；報仇；報復性劫掠|82|報復；報復措置|d|||
-restitution|n.|歸還；償還；賠償|82|損害賠償|a|||
+restitution|n.|歸還；償還；賠償|82|返還；賠償；原状回復|v|||
 retinal|adj.|視網膜的|82|網膜の|h|I had retinal detachment five years ago.|我五年前做了網膜剝離。|５年前に網膜剥離を起こしました。
-rosary|n.|玫瑰園；玫瑰花壇|82|数珠；ロザリオ|a|||
+rosary|n.|玫瑰園；玫瑰花壇|82|ロザリオ；数珠；バラ園|v|||
 rundown|n.|裁減；梗概；夾殺出局|82|概要；要約；縮小|h|||
 rw||盧安達；輻射武器；輻射戰|82|ルワンダ；放射線兵器|h|What does the 'RW' in CD-RW stand for?||CD-RWの「RW」って、何の略？
 sadistic|adj.|虐待狂的；殘酷成性的|82|サディスティック|a|||
@@ -15352,7 +15352,7 @@ saxophone|n.|薩克斯管|82|サックス；サクソフォン|a|Who taught you 
 scamper|n.|蹦跳；奔跑；瀏覽|82|跳ね回る；駆け回る|h|The boys scampered in all directions at the sight of their teacher.||少年達は先生の姿を見ると四方八方に駆け出した。
 schema|n.|概要；圖解；略圖|82|スキーマ|b|||
 schizophrenic|adj.|精神分裂症的|82|統合失調症の；矛盾した|h|||
-scourge|n.|鞭；苦難根源；災禍；鞭打|82|しもと|b|||
+scourge|n.|鞭；苦難根源；災禍；鞭打|82|災い；天罰；鞭打つ|v|||
 screenwriter|n.|電影劇本作家；編劇家|82|脚本家；シナリオライター|d|||
 seine|n.|曳網；拖地大網；用曳網圍捕|82|地引き網|h|The Seine flows through Paris.|塞納河穿越了巴黎。|セーヌ川はパリを流れている。
 selector|n.|選擇者；選擇器|82|セレクタ|b|||
@@ -15364,9 +15364,9 @@ shrapnel|n.|零錢；榴霰彈；彈片|82|榴散弾；破片|d|||
 shutout|n.|關廠；停業；被關在外面的人|82|シャットアウト；締め出し|a|He had a shutout until the ninth inning.||彼は９回までシャットアウトに抑えた。
 singleton|n.|一個；獨生子；獨身|82|単独のもの；独身者|h|||
 situational|adj.|環境形成的；情形的|82|状況の；状況による|h|||
-snuff|n.|燭花；用鼻吸氣；嗅；剪燭花|82|スナッフ|b|Apparently my anti-virus software is not up to snuff.||私のウイルス対策用ソフトウエアは不良品でした。
+snuff|n.|燭花；用鼻吸氣；嗅；剪燭花|82|かぎタバコ；嗅ぐ；消す|v|Apparently my anti-virus software is not up to snuff.||私のウイルス対策用ソフトウエアは不良品でした。
 socialize|v.|使社會化；使社會主義化；使適合社會需要；參加社交活動|82|社会化する；交際する|h|He's fed up with socializing.||彼は人付き合いに辟易している。
-solicitation|n.|懇求；懇請；教唆|82|請託|a|||
+solicitation|n.|懇求；懇請；教唆|82|勧誘；懇願；客引き|v|||
 solidly|adv.|堅硬地；堅固地；團結一致地|82|堅固に；しっかりと|h|We are solidly behind you.||我々はこぞって君を支持する。
 someplace|adv.|在某處；某處|82|どこか|h|Help me find someplace I can stay.||泊まれるところ探すの手伝ってよ。
 sonnet|n.|十四行詩|82|ソネット|b|||
@@ -15376,7 +15376,7 @@ sparta|n.|斯巴達|82|スパルタ|b|||
 spate|n.|氾濫；洪水；大雨|82|洪水；増水；多発|h|||
 spurn|n.|踢開；拒斥；冷落|82|拒絶；突っぱねる|d|The more she spurns my love, the more it grows.||撥ね付けられるほどに増すわが思い。
 stampede|v.|驚跑；蜂擁|82|殺到する；暴走する|h|||
-standoff|adj.|冷淡的；有支架的；冷淡；平衡|82|膠着状態；にらみ合い|d|||
+standoff|adj.|冷淡的；有支架的；冷淡；平衡|82|膠着状態；にらみ合い；冷淡な|v|||
 starboard|n.|右舷；右側；向右舷|82|右舷；面舵|b|||
 starry|adj.|星光照耀的；多星的；星形的|82|星の輝く；星の多い|h|Tom looked up at the starry sky.||トムは星空を見上げた。
 stereotypical|adj.|典型的；帶有成見的|82|ステレオタイプの；型にはまった|h|He's a stereotypical Japanese man.||彼は典型的な日本男児だなぁ。
@@ -15397,7 +15397,7 @@ telecommunication|n.|電訊；遠距離通訊；無線電通訊|82|テレコム|
 tentatively|adv.|試驗性地；暫時地；權|82|試験的に；暫定的に|h|We've set the meeting tentatively for Monday. It's subject to change.||われわれはその会合を暫定的に月曜日ときめています。それは変更することがあります。
 theorist|n.|理論家；理論工作者|82|理論家；理論研究者|d|He is an armchair theorist.||彼は頭でっかちだ。
 theta|n.|希臘字母的第八字|82|シータ（ギリシャ文字）|h|||
-thong|v.|裝皮帶；用皮鞭打；皮帶；皮鞭|82|ソング|b|Tell your sister her thong is showing.|跟你妹妹說一聲，她的丁字褲露出來了。|
+thong|v.|裝皮帶；用皮鞭打；皮帶；皮鞭|82|ひも；革ひも；Tバック|v|Tell your sister her thong is showing.|跟你妹妹說一聲，她的丁字褲露出來了。|
 thrice|adv.|以三倍；三次；十分地|82|三回；三倍に|h|I've had black rice congee thrice in one day!|我一天吃了三次黑米粥！|
 throes|n.|陣痛；臨死的苦痛；垂死的掙扎|82|苦悶；陣痛|h|||
 tod|n.|狐；託德；叢|82|キツネ；トッド|h|||
@@ -15405,12 +15405,12 @@ tongs|n.|鉗子；夾具|82|トング；火箸|b|I burned my forefinger on fire 
 tot|n.|小孩；少量；合計|82|子供；少量；合計|h|The tot had sticky fingers.||そのおチビちゃんは、指がネチャネチャしてたよ。
 toxicology|n.|毒理學；毒物學|82|毒性学；毒物学|d|||
 transformative|adj.|有改革能力的；起改造作用的|82|変革をもたらす；変革的な|h|||
-transfusion|n.|傾注；輸血；輸液|82|輸液|b|Have you ever received a blood transfusion?||輸血をしたことはありますか？
+transfusion|n.|傾注；輸血；輸液|82|輸血；注入|v|Have you ever received a blood transfusion?||輸血をしたことはありますか？
 transplantation|n.|移植；移民；移植術|82|移植；移住|d|The next discussion concerns the transplantation of prenatal tissues.||次の議論は出生前の組織移植に関するものである。
 tuscany|n.|托斯卡納區|82|トスカーナ|h|||
 unbreakable|adj.|不會破的；不易打碎的|82|アンブレイカブル|b|||
 unchecked|adj.|未加抑制的；未經檢查的|82|抑制されていない；野放しの|h|||
-unconditionally|adv.|無條件地|82|一概に|a|My bad habit is to give money conditionally and to give thanks unconditionally. Yours?|我的嗜好是有條件的給錢還有無條件的給感謝。你的呢？|
+unconditionally|adv.|無條件地|82|無条件に；無条件で|v|My bad habit is to give money conditionally and to give thanks unconditionally. Yours?|我的嗜好是有條件的給錢還有無條件的給感謝。你的呢？|
 uncontrollable|adj.|無法控制的|82|制御できない；抑えられない|h|He has an uncontrollable temper.|他的脾氣不受控制。|彼の気性は手に負えない。
 undeniably|adv.|確鑿無疑地；不可否認地|82|否定できないほど；明らかに|h|||
 underwriting|n.|保險業|82|引き受け業務；保険業|h|||
@@ -15481,7 +15481,7 @@ audiobook|n.|有聲讀物|82|オーディオブック；朗読本|d|I fell aslee
 awning|n.|遮篷；雨篷|82|ひさし；オーニング|b|||
 babble|v.|牙牙學語；喋喋不休；嘮叨；吐露|82|片言を話す；べちゃくちゃしゃべる|h|She babbled out the secret to her friend.||彼女はその秘密を友達にもらした。
 backfire|n.|逆火；回火；放火；放逆火|82|逆火；逆効果になる|h|It backfired on me despite my good intentions.||よかれと思ってしたことがあだとなった。
-backwater|n.|死水；滯水；停滯|82|背水|b|||
+backwater|n.|死水；滯水；停滯|82|よどみ；田舎；辺鄙な場所|v|||
 ballerina|n.|芭蕾舞女演員|82|バレリーナ|a|Every girl cannot be a ballerina.||どの女の子もバレリーナになれると言うわけではない。
 barre|n.|扶手槓；橫檔|82|手すり；横木|h|||
 baseless|adj.|無根據的|82|根拠のない|d|You've got quite the talent for making baseless accusations.||言いがかりもいいところだ。
@@ -15507,8 +15507,8 @@ bottleneck|n.|瓶頸|82|ボトルネック|b|The shortage of engineers is the gr
 boyz|n.|香港男子組合名|82|ボーイズ|h|||
 brie|n.|布里乾酪|82|ブリー|b|||
 brine|n.|鹽水；海水；海；用濃鹽水處理|82|塩水；海水|d|||
-broach|n.|燒肉叉；鑿子；鑽頭；用鑿子修琢|82|ブローチ|b|Anyway, I'm glad you were able to broach this difficult subject.||とにかく、言いづらい事を打ち明けてくれてうれしいよ。
-burlesque|n.|詼諧模仿；滑稽戲；滑稽的；可笑的|82|バーレスク|a|||
+broach|n.|燒肉叉；鑿子；鑽頭；用鑿子修琢|82|話題を切り出す；穴を開ける；ブローチ|v|Anyway, I'm glad you were able to broach this difficult subject.||とにかく、言いづらい事を打ち明けてくれてうれしいよ。
+burlesque|n.|詼諧模仿；滑稽戲；滑稽的；可笑的|82|バーレスク；風刺劇|v|||
 busty|adj.|大胸脯的；胸部豐滿的|82|胸の豊かな|h|||
 campfire|n.|營火；營火會|82|キャンプファイヤー|b|Tom is used to cooking on a campfire.|湯姆習慣用營火做菜。|トムはキャンプファイヤーで料理を作るのには慣れてるよ。
 canine|n.|犬齒；犬；犬的；似犬的|82|犬歯；犬の|d|I snapped the thread on my canine.||プチッ、と糸を犬歯で噛み切った。
@@ -15519,8 +15519,8 @@ casserole|n.|餐桌上用有蓋的焙盤；砂鍋菜|82|キャセロール；コ
 caster|n.|投手；腳輪；調味瓶|82|キャスター；カスター|a|||
 causation|n.|因果關係；原因|82|因果関係；原因|h|Correlation does not imply causation.|相關關係不導致因果關係。|
 centerpiece|n.|中心裝飾品；放在餐桌中央的擺飾|82|中央の飾り；目玉|d|||
-champaign|n.|原野；平原；廣闊的|82|平原；広野|h|||
-char|n.|家庭雜務；炭；打雜；燒焦|82|いわな|b|These charred bits are tasty.||この焦げ目が美味しいんだよね。
+champaign|n.|原野；平原；廣闊的|82|平野；広野|v|||
+char|n.|家庭雜務；炭；打雜；燒焦|82|焦がす；炭；雑役をする|v|These charred bits are tasty.||この焦げ目が美味しいんだよね。
 checker|n.|制止者；查對者；阻止者|82|検査官；照合する人|h|I can play chess, but can't play checkers.||チェスはやれるけど、チェッカーは無理。
 chesterfield|n.|天鵝絨領子暗鈕長大衣；坐臥兩用長沙發|82|チェスターフィールド|b|||
 chronically|adv.|慢性地；長期地；習慣性地|82|慢性的に；長期的に|h|||
@@ -15559,7 +15559,7 @@ devi|n.|提毗；井斜|82|デヴィ|h|||
 diaphragm|n.|橫隔膜；光圈|82|膈；横隔膜|b|||
 dichotomy|n.|兩分；分裂；二分法|82|二分法；分裂|d|||
 dill|n.|蒔蘿；蒔蘿葉|82|ディル|b|||
-discontinue|v.|中斷；終止；停止；使中止|82|ディスコン|b|Due to a technical malfunction, this train's service will be henceforth discontinued.||この電車は車両の不具合のため当駅で打ち切りとさせていただきます。
+discontinue|v.|中斷；終止；停止；使中止|82|中止する；廃止する|v|Due to a technical malfunction, this train's service will be henceforth discontinued.||この電車は車両の不具合のため当駅で打ち切りとさせていただきます。
 diseased|adj.|害病的；病態的；不健全的|82|病気にかかった；病的な|h|||
 disgruntled|adj.|不滿意的；滿腹牢騷的；不高興的|82|不満を抱いた；不機嫌な|h|||
 dispatcher|n.|傳送者；配車員；排程員|82|ディスパッチャ|b|||
@@ -15576,7 +15576,7 @@ electrolyte|n.|電解物；電解質；電解液|82|電解質；電解液|d|||
 elitist|n.|優秀人材；傑出人材；優秀人材的；傑出人材的|82|エリート主義者；エリート主義の|h|||
 embroil|v.|使捲入；牽連|82|巻き込む；もめさせる|h|They did not wish to become embroiled in the dispute.||彼らはその紛争に巻き込まれたくないと思った。
 emphasise|v.|強調；重讀；加強...的語氣|82|強調する|h|Yumiko has a push-up bra, emphasising her cleavage.||優美子には谷間を強調するブラジャーがある。
-emphatically|adv.|強調地；著重地|82|がぶり|b|They clamored emphatically against the nuclear tests.||彼らは声を大にして核実験反対を叫んだ。
+emphatically|adv.|強調地；著重地|82|強調して；きっぱりと；断固として|v|They clamored emphatically against the nuclear tests.||彼らは声を大にして核実験反対を叫んだ。
 encapsulate|v.|裝入膠囊；封進內部；壓縮；做成膠囊|82|カプセルに入れる；要約する|h|||
 endearing|adj.|引起愛情的；令人鍾愛的；可愛的|82|愛らしい；好ましい|h|||
 enfield|n.|埃菲爾德式步槍；恩菲爾德|82|エンフィールド銃|h|||
@@ -15610,7 +15610,7 @@ furor|n.|喧鬧；激怒；感動|82|熱狂；騒ぎ|h|||
 gable|n.|山形牆；人字板|82|破風；切妻|b|||
 galore|adv.|豐富地；豐富；大量|82|豊富に；たくさん|h|||
 gambit|n.|以取得優勢的開局棋法；開場白；話題|82|序盤の戦法；切り出し|h|||
-genitalia|n.|生殖器；外陰部|82|みと|b|||
+genitalia|n.|生殖器；外陰部|82|生殖器；外陰部|v|||
 genomic||染色體組的|82|ゲノムの|h|||
 ger|n.|圓頂帳篷；蒙古包|82|ゲル（移動式住居）|h|||
 gestapo|n.|<德>蓋世太保；納粹秘密警察|82|ゲシュタポ|a|||
@@ -15628,7 +15628,7 @@ headway|n.|前進；航行速度；進展|82|前進；進展；航行速度|h|||
 heathen|n.|異教徒；異族人；粗野的人；異教的|82|異教徒；野蛮人|d|||
 hectare|n.|公頃|82|ヘクタール；町歩|a|Thousands of hectares of tropical rainforest are being lost every day.||何千ヘクタールもの熱帯雨林が毎日失われている。
 heiress|n.|嗣女；女繼承人|82|女性相続人；跡取り娘|h|||
-hereafter|n.|將來；來世；此後|82|向後|b|||
+hereafter|n.|將來；來世；此後|82|今後；将来；来世|v|||
 hickey|n.|器械；唇印；螺紋接合器|82|キスマーク；ヒッキー|b|Is that a hickey on your neck?||もしかして、その首の跡ってキスマーク？
 hobo|n.|無業遊民；流浪漢；流動人口；過流浪生涯|82|浮浪者；放浪者|d|||
 hologram|n.|全息照相圖|82|ホログラム；ホロ|b|||
@@ -15665,13 +15665,13 @@ jive|n.|搖擺樂；搖擺舞；假話；跳搖擺舞|82|ジャイブ（ダン�
 johnnie|n.|傢伙；紈絝子|82|やつ；伊達男|h|We call our dog Johnnie.|我們管我們的狗叫Johnnie。|うちの犬はジョニーと呼ばれている。
 joss|n.|偶像；神像；佛像|82|偶像；神像|h|||
 justifiable|adj.|可辯解的；可證明的；有理的|82|正当化できる；もっともな|h|||
-keenly|adv.|銳利地；敏捷地；激烈地|82|しみじみ|a|||
+keenly|adv.|銳利地；敏捷地；激烈地|82|鋭く；痛切に；熱心に|v|||
 kiki|n.|林子萱|82|キキ|h|||
 laity|n.|俗人；外行|82|俗人；素人；一般信徒|h|||
 laminated|adj.|用薄片層壓制成；切成薄片；把...分成薄片|82|積層の；薄片に重ねた；ラミネート加工の|h|||
 lance|n.|長矛；柳葉刀；執矛戰士；以長矛攻擊|82|ランス；香|a|The tongue wounds more than a lance.||口は禍の門。
 landowner|n.|地主|82|地主|a|||
-lass|n.|少女；愛人；情婦|82|郎女|b|||
+lass|n.|少女；愛人；情婦|82|少女；娘；恋人|v|||
 lawfully|adv.|守法地；合法地|82|合法的に；適法に|h|||
 leaderboard|n.|選手積分榜|82|ランキングボード；順位表|h|||
 leeway|n.|風壓差；風壓角；可容許的誤差|82|許容範囲；余裕；風圧角|d|||
@@ -15680,7 +15680,7 @@ lexicon|n.|詞彙；詞典；辭典|82|レキシコン|b|||
 lilac|n.|丁香；丁香花；淡紫色；淡紫色的|82|リラ；ライラック|a|We must wait for a few weeks to see the lilacs.||ライラックの花を見るには２、３週間待たねばならない。
 limelight|n.|石灰光；石灰光燈；以石灰光燈照射的舞臺；使受到注目|82|ライムライト|b|||
 lister|n.|雙耕犁；製表人|82|双耕犁；表の作成者|h|||
-livery|n.|制服；侍從；象肝的；有肝病症狀的|82|リバリー|b|||
+livery|n.|制服；侍從；象肝的；有肝病症狀的|82|制服；貸馬車屋|v|||
 loader|n.|載入程式；載入者；裝貨的人|82|ローダー|b|||
 lobbyist|n.|說客|82|ロビイスト|a|Lobbyists for the bill funneled bribes into a campaign fund.|該法案的說客把遊說賄款匯入了競選基金。|法案通過を推進しているロビイストは、運動資金に賄賂の金をまぎれこませました。
 logistic|adj.|邏輯的；後勤學的|82|論理的な；兵站の|h|||
@@ -15698,7 +15698,7 @@ masquerade|n.|化裝舞會；偽裝；參加化裝舞會|82|マスカレード|b
 maximise|v.|把...增加到最大限度；把...擴大到最大限度；充分重視|82|最大限に増やす；最大化する；大いに重視する|h|||
 medallion|n.|大獎章；圓形浮雕；圓形裝飾|82|メダリオン|b|||
 metaphorical|adj.|隱喻性的；比喻性的|82|比喩的な；隠喩的な|h|||
-midsummer|n.|仲夏；夏至期；仲夏的|82|土用；盛夏|b|||
+midsummer|n.|仲夏；夏至期；仲夏的|82|真夏；夏至|v|||
 mismanagement|n.|管理不善；處置失當|82|管理不行き届き；不適切な処理|h|It was mismanagement of the company's affairs by the acting director.||それはその会社の事務取り扱いの上の不始末であった。
 mismatch|n.|錯配；使...成不相配的婚姻|82|ミスマッチ；不釣り合い；組み合わせの誤り|d|What's with that mismatched dress?||何、そのちぐはぐな格好。
 mitochondria||線粒體|82|ミトコンドリア|a|||
@@ -15710,7 +15710,7 @@ morgue|n.|陳屍所|82|モルグ；霊安室|a|The doctor sent the live patient 
 morsel|n.|一口；少量；小片|82|一口；少量；小片|d|||
 motley|adj.|雜色的；穿雜色衣的；雜亂的；雜色|82|雑色の；寄せ集めの；雑多な|h|||
 mow|n.|草堆；皺眉；怪臉；割草|82|刈り取る|a|I'm going to mow the lawn tomorrow, weather permitting.|如果天氣情況允許的話，我明天就去割草坪。|天気がよければ、明日芝生を刈ろう。
-mower|n.|刈草的人；刈草機|82|モーア|b|He had an old pickup truck and a big, battered mower.||彼は小型トラックとよれよれの大きな芝刈り機をもっていた。
+mower|n.|刈草的人；刈草機|82|芝刈り機；草刈り人|v|He had an old pickup truck and a big, battered mower.||彼は小型トラックとよれよれの大きな芝刈り機をもっていた。
 mozzarella|n.|莫澤雷勒乾酪|82|モッツァレラ|b|A pizza topped with mozzarella is my first choice.||モッツァレラ・チーズをかけたピザには、真っ先に飛びついてしまいます。
 mulligan|n.|蔬菜燴肉|82|野菜入りの肉煮込み；ムリガン|h|Mulligan says he'll sleep easy until the fight.||マリガンは、今度の試合については何の問題はないという。
 munch|v.|用力咀嚼；大聲咀嚼|82|むしゃむしゃ噛む；大きな音を立てて噛む|h|Ziri was munching on the donuts Rima had bought for Walid.|齊里正在大口吃著裡瑪為瓦利德買的甜甜圈。|
@@ -15723,7 +15723,7 @@ nominally|adv.|有名無實地；名義上地；名稱上|82|名目上；名義�
 normative|adj.|合乎規範的；標準的；規範的|82|規範的な；標準的な|h|||
 novella|n.|短篇故事；中篇小說|82|中編小説；短い物語|d|||
 nymph|n.|居於山林水澤的仙女；蛹；美麗的少女|82|ニンフ|b|The cicada nymph was caught in a spider web, grew wings and flew away.||せみの幼虫が、くもの巣につかまって羽化をした。
-objectivity|n.|客觀；客觀現實；客觀性|82|客観|a|Beware of anyone who claims objectivity.|要小心那些說自己客觀的人。|
+objectivity|n.|客觀；客觀現實；客觀性|82|客観性|v|Beware of anyone who claims objectivity.|要小心那些說自己客觀的人。|
 observable|adj.|可遵守的；可慶祝的；看得見的；感覺到的事物|82|観察できる；目に見える；観察可能な|h|||
 octane|n.|辛烷|82|オクタン|b|||
 octave|n.|八音度；低八度音；高八度音|82|オクターブ|a|||
@@ -15785,7 +15785,7 @@ refurbishment|n.|整修；翻新；重新磨亮|82|改修；改装；磨き直�
 regent|n.|攝政者；攝政王；攝政的|82|摂政；摂政の|d|||
 relent|v.|變寬厚；變溫和；動憐憫之心|82|態度を和らげる；同情する|h|||
 reliever|n.|解除痛苦的人；接替者；救濟者|82|救済者；交代要員；痛みを和らげる人|h|Take the pain reliever only when you need it.||鎮痛剤は痛いときだけ飲んでください。
-remedial|adj.|治療的；補救的；矯正的|82|リメディアル|b|She has to take a remedial course in English.|她需要上英語補習班。|
+remedial|adj.|治療的；補救的；矯正的|82|治療の；補習の；矯正の|v|She has to take a remedial course in English.|她需要上英語補習班。|
 repo|n.|購回債券|82|買い戻し債券；差し押さえ|h|||
 rescind|v.|廢止；使無效；取消|82|撤回する；無効にする；取り消す|h|The businessman is thinking of rescinding the contract.||その実業家はその契約から身を引くことを考えている。
 resumption|n.|取回；恢復；再開始|82|再開；再び始めること|d|||
@@ -15803,7 +15803,7 @@ saab|n.|瑞典薩布牌轎車|82|サーブ|b|||
 sacrificial|adj.|犧牲的；獻祭的；虧本的|82|犠牲の；供物の；採算を度外視した|h|||
 salaam|n.|額手禮；問安；行額手禮|82|サラーム；敬礼；敬礼する|h|||
 salmonella|n.|沙門氏菌|82|サルモネラ菌；サルモネラ|b|It is essential to prevent salmonella contamination in hen egg production.||鶏卵生産におけるサルモネラ汚染を防止することが必要です。
-sampler|n.|樣品檢驗員；刺繡樣品|82|サンプラー|a|||
+sampler|n.|樣品檢驗員；刺繡樣品|82|サンプラー；見本集；試食者|v|||
 sapling|n.|樹苗；小樹|82|苗木；若木|d|||
 savoy|n.|皺葉甘蘭|82|サボイキャベツ|h|||
 scab|n.|痂；惡棍；工賊；結痂|82|膨れ；かさぶた|b|The blisters have formed scabs.||水ぶくれがかさぶたになってきました。
@@ -15851,7 +15851,7 @@ stochastic|adj.|隨機的|82|確率的な；ランダムな|h|||
 stockpile|n.|儲蓄；積蓄；庫存|82|備蓄；在庫；蓄える|d|You should stockpile necessary supplies in case of a big earthquake.||大地震にそなえて必要なものを用意しておかなければならない。
 stopper|n.|阻止的人；木塞；制止器；用塞子塞住|82|栓；ストッパー|a|This stopper does not fit the bottle.||この栓はびんに合わない。
 storyteller|n.|說故事的人；故事作者|82|語り部|b|||
-stroller|n.|散步者；流浪者|82|ベビーカー|a|I saw Tom pushing a stroller down the sidewalk.|我看到湯姆推著嬰兒車走在人行道上。|
+stroller|n.|散步者；流浪者|82|ベビーカー；散歩する人|v|I saw Tom pushing a stroller down the sidewalk.|我看到湯姆推著嬰兒車走在人行道上。|
 studied|adj.|有計劃的；慎重的|82|計画的な；慎重な；わざとらしい|d|He studied hard for fear he should fail.|因為害怕不及格，他努力學習。|彼は失敗するといけないので、懸命に勉強した。
 stymie|v.|使處於困難的位置；使為難；使處困境；困難的境地|82|妨害する；行き詰まらせる；窮地|h|||
 subgroup|n.|小群；隸屬的小組織；子群|82|小グループ；下位集団；部分群|d|||
@@ -15889,17 +15889,17 @@ unmistakable|adj.|不會弄錯的；不會被誤解的；不會搞錯的|82|紛�
 unscathed|adj.|沒有受傷的；未受損傷的|82|無傷の；損害を受けていない|h|||
 unsettling|adj.|擾亂的；使人不安的|82|不安にさせる；落ち着かない|h|This game gets more unsettling as it gets more realistic.||リアルになるほど違和感ありますね。このゲーム。
 unspeakable|adj.|說不出的；無法形容的；不能以言語表達的|82|言葉にできない；言語道断の|h|||
-untouchable|adj.|達不到的；碰不著的；管不到的|82|アンタッチャブル|b|||
+untouchable|adj.|達不到的；碰不著的；管不到的|82|触れられない；不可触賤民|v|||
 unwillingness|n.|不情願；不願意|82|不本意；気が進まないこと|h|||
 unwind|v.|展開|82|ほどける；くつろぐ；緊張を解く|h|||
 unwise|adj.|愚蠢的；欠考慮的；不明智的|82|賢明でない；軽率な|h|I felt that the plan was unwise.|我覺得這計畫不是很聰明。|私はその計画は賢明でないと思った。
 usurp|v.|篡奪；侵佔；奪取|82|横取りする；不当に奪う|h|||
 valuables|n.|貴重物品|82|貴重品；貴重な持ち物|d|You should keep your valuables in a safe place.|你該把你的值錢物品儲存在一個安全的地方。|貴重品は安全なところに保管しといた方がいいよ。
 vial|n.|小瓶；裝入小瓶|82|小瓶；小びん；小瓶に入れる|h|||
-vibrator|n.|振動裝置；振動器；振動按摩器|82|バイブ；バイブレーター|b|||
+vibrator|n.|振動裝置；振動器；振動按摩器|82|バイブレーター；振動機|v|||
 vo||口頭命令|82|口頭命令；音声|h|||
 vodafone|n.|沃達豐|82|ボーダフォン|b|||
-voluminous|adj.|卷數多的；大部頭的；著書多的|82|ボリューミー|b|||
+voluminous|adj.|卷數多的；大部頭的；著書多的|82|大部の；かさばる；豊富な|v|||
 warlord|n.|軍閥；軍閥式領袖|82|軍閥；軍閥の指導者|h|||
 wayward|adj.|任性的；難以捉摸的；不穩定的|82|気まぐれな；扱いにくい；不安定な|h|||
 whence|adv.|從何處；出於什麼原因；從哪個；來處|82|どこから；どうして；その出所|h|He returned to the country whence he came.||彼はもといた国へ帰った。
@@ -15908,9 +15908,9 @@ whisk|n.|撣；掃帚；毛撣子；掃|82|泡立て器；ほうき；さっと�
 whiting|n.|白粉；白堊|82|白亜粉；ホワイティング；白身魚|d|||
 wishful|adj.|願望的；渴望的；一廂情願的|82|願望の；希望的な|h|||
 wondrous|adj.|令人驚奇的|82|驚くべき；素晴らしい|h|Occasionally, wondrous texts were included.|偶爾也會收錄一些精彩的文字。|
-woof|n.|緯線；織物；基本成分|82|ワン|b|"Meow" means "woof" in cat.||ニャーって猫語でワンです。
+woof|n.|緯線；織物；基本成分|82|ワンワン；横糸|v|"Meow" means "woof" in cat.||ニャーって猫語でワンです。
 workable|adj.|可經營的；可使用的|82|実行可能な；使える|h|||
-workmanship|n.|手藝；技巧|82|出来|a|Too many irons in the fire result in bad workmanship.||一度にたくさんのものを盛り込むと、出来映えがかえって悪くなる。
+workmanship|n.|手藝；技巧|82|腕前；出来栄え；職人技|v|Too many irons in the fire result in bad workmanship.||一度にたくさんのものを盛り込むと、出来映えがかえって悪くなる。
 wynn|n.|永利|82|ウィン；古英語の文字|h|||
 yak|n.|犛牛；饒舌；連篇廢話|82|ヤク|b|||
 zeta|n.|希臘語第六個字母|82|ゼータ；ギリシャ文字の第6字|d|||
@@ -15986,7 +15986,7 @@ childless|adj.|無兒女的|83|子なし|b|||
 chino|n.|斜紋棉布褲；絲光斜紋棉布|83|チノパン；綿のツイル生地|h|||
 clarendon|n.|筆畫較粗而字型略長的一種鉛字；筆畫較粗而字型略長的一種鉛字的|83|クラレンドン体；太字の活字|h|||
 cleanly|adj.|愛清潔的；乾淨的；清潔的；乾淨地|83|すっぱ|b|I resolved to break up with her cleanly.||私はきっぱりと彼女と別れる決心をした。
-cleanser|n.|使清潔的東西；清潔劑；清潔工|83|クレンザー|a|The cleanser removed the dirt from the oven.||クレンザーでオーブンの汚れが落ちた。
+cleanser|n.|使清潔的東西；清潔劑；清潔工|83|クレンザー；洗顔料；洗浄剤|v|The cleanser removed the dirt from the oven.||クレンザーでオーブンの汚れが落ちた。
 clipper|n.|大剪刀|83|クリッパー|b|I can't find my fingernail clippers.||爪切りが見当たらないんだよ。
 cob|n.|圓塊；搗碎|83|丸い塊；雄の白鳥；叩き砕く|h|||
 colorless|adj.|無色的|83|無色の；生気のない|h|Colorless green ideas sleep furiously.|無色的綠色意念憤怒地沉睡著。|無色の緑の概念が激しく眠る。
@@ -16000,7 +16000,7 @@ congregational|adj.|會眾的；公理教會的|83|会衆の；会衆派教会�
 conservancy|n.|儲存；保護；管理|83|保全；保護；管理|h|||
 contagion|n.|觸染；觸染病；蔓延|83|伝染|a|||
 contentment|n.|滿足；使人滿意的事物；滿意|83|満足；満足をもたらすもの|d|Everybody knows that happiness is in contentment.|誰都知道知足常樂。|幸福は満足にありということは誰でも知っている。
-convulsion|n.|震動；震撼；動亂|83|痙攣|b|Convulsions can occur when they run a fever.||熱が出るとひきつけを起こすことがあります。
+convulsion|n.|震動；震撼；動亂|83|けいれん；激動；動乱|v|Convulsions can occur when they run a fever.||熱が出るとひきつけを起こすことがあります。
 corset|n.|緊身褡；婦女的胸衣|83|コルセット|b|Currently there are still women who like to wear corsets.|現在仍然有女生喜歡穿束腹。|
 cortical|adj.|皮層的|83|皮質の|h|||
 cortisol|n.|皮質醇；氫化可的松|83|コルチゾール|b|||
@@ -16041,7 +16041,7 @@ downer|n.|鎮定劑；令人沮喪的人|83|ダウナー|b|||
 draconian|adj.|嚴厲的；殘酷的|83|厳しい；苛酷な|h|||
 dredge|n.|挖泥機；拖網；用挖泥機疏浚；採撈|83|浚渫船；底引き網；浚渫する|h|||
 drool|v.|流口水；淌；胡說八道；從嘴淌下|83|よだれ|a|The way you describe it makes me drool.|你說得我饞死了！|
-dugout|n.|防空壕；獨木舟|83|ダグアウト|b|||
+dugout|n.|防空壕；獨木舟|83|ダッグアウト；防空壕；丸木舟|v|||
 dup|v.|開啟；重複|83|開く；重複する|h|||
 dupe|n.|傻瓜；易受騙的人；欺騙；愚弄|83|騙される人；だます|d|He was duped by being fed false information.||彼は、嘘の情報をあたえられて、一杯くわされた。
 earshot|n.|聽力所及之範圍；可聽距離|83|聞こえる範囲；聞こえる距離|h|He lives within earshot of my house.||彼の家と私の家は目と鼻の先です。
@@ -16081,8 +16081,8 @@ fondle|v.|愛；愛撫；溺愛|83|愛撫する；かわいがる|d|Tom's rough 
 forested|adj.|草木叢生的|83|森に覆われた；樹木の多い|h|Growing up, I lived in a forested area of Algiers.|小的時候，我住在阿爾及爾的一個森林地區。|
 forgery|n.|偽造；偽造罪；偽造物|83|偽造|a|The signature had been a forgery.|簽名是偽造的。|
 foundational|adj.|基礎的；基本的|83|基礎的な；根本的な|h|||
-frosted|adj.|結霜的；凍傷的；無光澤的|83|つや消し|b|||
-fullness|n.|滿；充滿；豐富|83|充実|a|From the fullness of his grace we have all received one blessing after another.||わたし達は皆、この方の満ち満ちた豊かさの中から、恵みの上に更に恵みを受けたのである。
+frosted|adj.|結霜的；凍傷的；無光澤的|83|つや消しの；霜が降りた；糖衣をかけた|v|||
+fullness|n.|滿；充滿；豐富|83|充満；豊かさ；充実|v|From the fullness of his grace we have all received one blessing after another.||わたし達は皆、この方の満ち満ちた豊かさの中から、恵みの上に更に恵みを受けたのである。
 gaia|n.|蓋亞|83|ガイア|b|||
 genealogical|adj.|宗譜的；家系的；系譜的|83|系譜の；家系の|h|||
 gentile|n.|非猶太人；異邦人；非伊斯蘭教徒；非猶太人的|83|異邦人；非ユダヤ人|d|||
@@ -16094,14 +16094,14 @@ goody|n.|身分低微之老婦；糖果；姥姥；感傷的|83|お菓子；善�
 gosling|n.|小鵝；年輕無知的人|83|子ガチョウ；未熟な若者|h|||
 gout|n.|味；趣味；嗜好|83|痛風|b|She is affected with the gout.|她得了痛風。|彼女は痛風を病んでいる。
 graciously|adv.|和藹地；仁慈地；雅緻地|83|親切に；優雅に|h|She held back her anger, and smiled graciously.||彼女は怒りをこらえ、にっこりと微笑した。
-grassland|n.|牧草地；草原|83|草地|b|||
+grassland|n.|牧草地；草原|83|草原；牧草地|v|||
 grating|n.|光柵；摩擦；摩擦聲；令人氣惱的|83|格子；すりつける音；いらだたしい|d|||
 gusto|n.|愛好；嗜好；由衷的高興|83|大きな喜び；熱中|h|||
 hajj|n.|麥加朝聖|83|ハッジ|b|||
 hallowed|adj.|神聖化的；神聖的|83|神聖な；尊い|h|||
 hap|n.|偶然；機會；運氣；偶然發生|83|偶然；幸運；偶然起こる|h|||
 harbinger|n.|通告者；預告者；先驅；預告|83|前触れ；先駆者；予兆|d|The crowing of a cock is the harbinger of dawn.||鶏の鳴き声は夜明けの前触れです。
-heartwarming|adj.|暖人心房的；感人的|83|微笑ましい|b|There’s a heartwarming story about a rescued puppy.|有一個溫馨感人的故事，是關於一隻獲救的狗狗的。|
+heartwarming|adj.|暖人心房的；感人的|83|心温まる；ほほえましい|v|There’s a heartwarming story about a rescued puppy.|有一個溫馨感人的故事，是關於一隻獲救的狗狗的。|
 hepatic|adj.|肝臟的；治肝病的；肝臟色的|83|肝臓の；肝臓病の|h|||
 hertz|n.|赫；赫茲|83|ヘルツ|a|Hertz and Avis are head to head competitors in the car rental business.||ハーツ社とエイビィス社はカーレンタルの業界でしのぎを削っている。
 homegrown|adj.|自家種植的；國產的|83|自家栽培の；国産の；地元育ちの|h|||
@@ -16203,7 +16203,7 @@ opulent|adj.|富裕的；豪華的；奢侈的|83|豪華な；裕福な；贅沢
 oxidative|adj.|氧化的|83|酸化の；酸化性の|h|||
 paintball|n.|彩彈球；漆彈遊戲|83|ペイントボール；ペイントボール遊び|d|||
 parkland|n.|公用場地；有樹叢的開闊草地|83|公園用地；樹木のある草原|h|||
-parlance|n.|說法；說話的方式方法；用語|83|話法|b|||
+parlance|n.|說法；說話的方式方法；用語|83|言葉遣い；用語；話し方|v|||
 pathfinder|n.|探路者；開拓者；探索者|83|草分け|a|||
 patronize|v.|保護；支援；贊助|83|ひいきにする；後援する；見下す|h|Is this patronizing or meddling in someone else's business?|「好為人師」還是「好管閒事」?|
 pediatrician|n.|兒科醫生；兒科專家|83|小児科医|d|||
@@ -16217,7 +16217,7 @@ phenotype|n.|表現型；有共同表現型的生物群體；遺傳環境互應�
 piazza|n.|廣場；陽臺；柱廊|83|ピアッツァ|b|||
 piccolo|n.|短笛；短笛吹奏者；小型的；像短笛的|83|ピッコロ|b|Tom can't play the piccolo.|湯姆不會吹短笛。|
 planar|adj.|平面的；在同一平面上的；二維的|83|平面の；二次元の|h|||
-polygamy|n.|多配偶；多偶性|83|一夫多妻；多妻|b|We don't have polygamy in Japan, dear.||日本は一夫多妻制ではないんですよ、あなた。
+polygamy|n.|多配偶；多偶性|83|一夫多妻制；多配偶制|v|We don't have polygamy in Japan, dear.||日本は一夫多妻制ではないんですよ、あなた。
 poplar|n.|楊樹；楊木|83|ポプラ|b|We walked along an avenue of tall poplars.||我々は背の高いポプラ並木を歩いた。
 posse|n.|一隊；一團；地方武裝團隊|83|一団；仲間；地元の武装隊|h|||
 postponement|n.|延遲；延期|83|延期；猶予|a|The rain necessitated a postponement of the picnic.||雨で遠足は延期しなければならなくなった。
@@ -16227,7 +16227,7 @@ programmable|adj.|可設計的；可程式設計的|83|プログラマブル|b||
 proportionate|adj.|相稱的；成比例的；適當的；使相稱|83|釣り合った；比例した；均衡させる|h|||
 provenance|n.|起源；出處|83|出所；起源；由来|d|||
 pubic|adj.|陰部的；恥骨的|83|陰部の；恥骨の|h|||
-publicist|n.|國際法學家；政治評論家；政治作家|83|広報担当者；政治評論家|h|||
+publicist|n.|國際法學家；政治評論家；政治作家|83|広報担当者；宣伝係；国際法学者|v|||
 punter|n.|用篙撐船的人；船伕；賭博者|83|船頭；ギャンブラー；客|h|||
 purposeful|adj.|有目的的|83|目的のある；意図的な|h|||
 puss|n.|貓味；小姑娘；少女|83|猫；かわいい少女|h|||
@@ -16263,7 +16263,7 @@ rudder|n.|舵；方向舵；指導原則|83|舵；ラダー|a|||
 ruddy|adj.|紅的；紅潤的；變紅|83|赤みを帯びた；血色のよい|h|My beloved is white and ruddy, chosen out of thousands.|我所愛的是白皙紅潤，千裡挑一的。|
 ruff|n.|出王牌；輪狀皺領；梅花鱸|83|ラフ；えりまきしぎ|b|That dog has been barking 'Ruff-ruff-ruff-ruff!' all day long.||あの犬、一日中ワンワンワンワン吠えてるんだから。
 rumoured|adj.|傳聞的；謠傳的|83|噂された；うわさの|h|It's rumoured there are treasures hidden there.||あそこには宝が隠されているといううわさだ。
-rump|n.|尾部；臀部|83|ランプ|b|Sometimes I feel like kicking my own rump.||時々、自分のけつを思いきり蹴りあげてやりたくなる。
+rump|n.|尾部；臀部|83|尻；臀部；ランプ肉|v|Sometimes I feel like kicking my own rump.||時々、自分のけつを思いきり蹴りあげてやりたくなる。
 rupee|n.|盧比|83|ルピー|b|||
 ruse|n.|計策；謀略；詭計|83|詭策|b|All the sweet talk was just a ruse to get her into bed.||甘い言葉の数々は、ただ彼女をベッドに誘い込むための策略に過ぎなかった。
 sanctity|n.|神聖；尊嚴；聖潔|83|神聖さ；尊厳；清らかさ|d|||
@@ -16286,7 +16286,7 @@ showbiz|n.|娛樂界；娛樂性行業|83|芸能界；ショービジネス|h|||
 sickly|adj.|病弱的；令人不快的；無精打采的；病態地|83|病弱な；不健康な；気味の悪い|h|The liquor gave off a sickly odor.||その液はいやな臭いを発した。
 sidebar|n.|其他選項；工具條|83|側注；補足記事；サイドバー|d|Could we have a sidebar?|我們可以私下談談嗎？|
 sideshow|n.|雜耍；附屬活動；枝節問題|83|余興；付随的な出来事；瑣末な問題|h|||
-singularity|n.|奇異；突出；稀有|83|シンギュラリティ|b|||
+singularity|n.|奇異；突出；稀有|83|特異点；特異性；奇妙さ|v|||
 ska|n.|斯卡|83|スカ|b|||
 skiff|n.|小艇；輕舟；小型帆船|83|小型ボート；軽快な小舟|h|||
 skit|n.|諷刺文；戲文；小喜劇|83|スキット|b|The skit was presented by fifth grade students.||その寸劇は５年生全員によって上演された。
@@ -16321,7 +16321,7 @@ sus|n.|可疑行為；嫌疑犯|83|怪しい行動；容疑者|h|||
 tabernacle|n.|臨時房屋；帳篷；暫附肉體；把...置於神龕|83|仮小屋；天幕；聖櫃の幕屋|h|||
 tagline|n.|宣傳詞；標籤行；作為一個口號或信條|83|キャッチフレーズ；宣伝文句；標語|h|||
 tahiti|n.|塔希提島|83|タヒチ島；タヒチ|d|He abandoned his family and moved to Tahiti.|他拋棄了家人，移居大溪地。|彼は家族を捨ててタヒチ島に移り住んだ。
-takedown|n.|拆卸；失面子；羞辱；可拆卸的|83|テイクダウン|b|||
+takedown|n.|拆卸；失面子；羞辱；可拆卸的|83|解体；引き倒し；痛烈な批判|v|||
 talon|n.|爪；如爪的手；魔爪|83|かぎ爪；鋭い爪；魔の手|h|A smart falcon hides its talons.||能ある鷹は爪を隠す。
 tangy|adj.|有強烈鹽味的；氣味刺鼻的；有刺激性的|83|ぴりっとした；刺激的な；塩辛い|h|||
 tarmac|n.|柏油碎石；柏油碎石路|83|タールマカダム；アスファルト舗装道路|h|||
@@ -16329,12 +16329,12 @@ teeny|adj.|極小的；小小的|83|ちっちゃな；極小の|h|||
 telecast|v.|電視廣播|83|テレビ放送；テレビで放送する|d|||
 tensor|n.|張肌；張量|83|テンソル|b|||
 terminally|adv.|在末端；末尾；每期|83|末期的に；最終的に；期限ごとに|h|He was terminally ill with cancer.||彼は癌にかかって回復の見込みはなかった。
-testimonial|n.|證明書；介紹信；獎品；證明書的|83|表彰状|a|||
+testimonial|n.|證明書；介紹信；獎品；證明書的|83|推薦状；感謝状；表彰状|v|||
 thence|adv.|從那時起；從那時以後；從那裡起|83|そこから；それゆえに；その後|d|||
 thoracic|adj.|胸的|83|胸の；胸部の|h|||
 thyme|n.|百里香|83|タイム|b|||
 tian|n.|天；田|83|天；田|h|||
-ticker|n.|滴答響的東西；斷續器|83|ティッカー|b|||
+ticker|n.|滴答響的東西；斷續器|83|ティッカー；心臓；時計|v|||
 tiff|n.|一口淡酒；小爭吵；小口角|83|軽い口論；ちょっとした仲たがい；少量の酒|h|||
 tirade|n.|激烈的長篇演說|83|長々とした非難；激しい罵倒|h|||
 tireless|adj.|不疲倦的；不厭倦的；不屈不撓的|83|疲れを知らない；たゆまぬ|h|It was your tireless efforts and devotion that made the event successful.||イベントが成功したのは貴殿のたゆみ無い努力と献身のおかげです。
@@ -16366,7 +16366,7 @@ unequivocally|adv.|只有一種含意地；清楚明白地|83|明確に；はっ
 unfaithful|adj.|不誠實的；不忠實的|83|不誠実な；浮気の；不忠実な|h|||
 unholy|adj.|不神聖的；不虔誠的；邪惡的|83|神聖でない；不信心な；邪悪な|h|||
 unitary|adj.|單位的；單一的；歸一的|83|単位の；単一の；統一的な|h|||
-unskilled|adj.|無技能的；不熟練的；拙劣的|83|へたくそ|a|||
+unskilled|adj.|無技能的；不熟練的；拙劣的|83|未熟練の；不器用な；技術のない|v|||
 untrained|adj.|未經訓練的|83|訓練を受けていない；未熟な|h|||
 unwittingly|adv.|不知情地；不知不覺地；不經意地|83|知らず知らずのうちに；うっかり|h|||
 unwritten|adj.|非書面的；沒有寫的；沒有記錄的|83|不文|b|||
@@ -16382,7 +16382,7 @@ virtuoso|n.|藝術品鑑賞家|83|ヴィルトゥオーソ|b|||
 voltaire|n.|伏爾泰|83|ヴォルテール|h|||
 wad|n.|小軟團；小軟塊；一卷；揉成一團|83|小さな塊；札束；丸める|h|||
 wainwright|n.|四輪運貨馬車修造工|83|四輪荷馬車の製造者|h|||
-watcher|n.|看守人；守望者；哨兵|83|ウォッチャー|b|||
+watcher|n.|看守人；守望者；哨兵|83|見張り人；観察者；ウォッチャー|v|||
 weirdly|adv.|古怪地|83|奇妙に；不思議に|h|My leg fell asleep because I sat weirdly.||変な座り方したから足がしびれた。
 wesleyan|adj.|衛斯理公會派的；約翰衛斯理的|83|ウェスレー派の；ウェズリアン|h|||
 westbound|adj.|向西行的；向西駛的|83|西行きの；西へ向かう|h|||
@@ -16392,7 +16392,7 @@ whiplash|n.|鞭子的頂端；鞭繩|83|鞭打ち症|b|I had a whiplash injury t
 widower|n.|鰥夫|83|やもめ；男やもめ|b|A man whose wife is dead is called a widower.|死了妻子的人叫做鰥夫。|妻が死んだ男の人は男やもめと呼ばれます。
 wildcat|n.|野貓；兇悍的人；非法經營的；不可靠的|83|山猫；ワイルドキャット|a|||
 willfully|adv.|故意地；任性固執地|83|故意に；わざと；頑固に|h|||
-willpower|n.|毅力；意志力|83|根性；気力|a|Tom has a lot of willpower.||トムは意志が強い。
+willpower|n.|毅力；意志力|83|意志力；根性|v|Tom has a lot of willpower.||トムは意志が強い。
 winch|n.|曲柄；絞車；用絞盤拉|83|ウインチ|b|||
 wobbly|adj.|擺動的；不穩定的|83|ぐらぐらする；不安定な|h|All I did was run a little and now my knees are wobbly.|只跑了一點點，膝蓋就開始發抖。|少し走っただけで膝がガクガクしてるよ。
 woodworking|n.|木工活；木工行業|83|木工|a|Their highest skill was woodworking.||彼らの最高の技術は木工細工に見られた。
@@ -16425,7 +16425,7 @@ anil|n.|假藍靛；靛藍|83|藍；インディゴ|h|||
 antennae||天線；觸鬚；觸角|83|触角；アンテナ|h|||
 antimicrobial|adj.|抗菌的；抗菌劑|83|抗菌性の；抗菌剤|d|||
 apnea|n.|呼吸暫停；窒息|83|無呼吸；窒息|h|||
-apoptosis|n.|細胞凋亡；細胞死亡|83|アポトーシス|b|||
+apoptosis|n.|細胞凋亡；細胞死亡|83|アポトーシス；細胞自然死|v|||
 apricot|n.|杏子；杏樹；杏黃色；杏黃色的|83|あんず；アプリコット|a|I like rhubarb tarts more than apricot tarts.||ルバーブタルトの方がアプリコットタルトより好きだ。
 archangel|n.|天使長；第八級天使|83|大天使；天使長|d|||
 armpit|n.|腋窩|83|脇；脇の下|a|||
@@ -16443,13 +16443,13 @@ baritone|n.|男中音；男中音歌手；低音銅管樂器|83|バリトン|a||
 bawl|n.|大叫聲；大叫|83|大声；大声で泣く；怒鳴る|h|I'm tired of him bawling me out.|我厭煩了他對我說教。|彼の説教にはうんざりだ。
 beanie|n.|無簷小便帽|83|ビーニー|b|||
 beholder|n.|觀看者|83|見る人；観察者|h|Beauty is in the eye of the beholder.|情人眼裡出西施。|美は見る人の目の中にある。
-belated|adj.|遲來的|83|遅れ馳せ|b|||
+belated|adj.|遲來的|83|遅ればせながらの；遅れた|v|||
 belch|v.|打嗝；噴吐；吼叫著發出|83|ゲップ；おくび|b|The volcano is belching out flames and smoke.||火山が炎と煙を噴き出している。
 berwick|n.|貝里克郡；伯威克|83|ベリック；バーウィック|h|||
 biometric||計量生物學|83|生体計測の；生体認証の|h|||
 blackened|adj.|塗上辣椒粉和調味品後油炸的；熏製的；變黑；把…弄黑|83|黒くなった；唐辛子で味付けし焼いた|h|How on earth could this pan become so burnt and blackened.||何をどうやったら、鍋がこんなに真っ黒焦げになるわけ？
 blister|n.|水皰|83|まめ；水疱|b|I've got blisters on my feet.|我的腳起水泡了。|足にまめができたんだ。
-blooming|adj.|盛開的|83|ブルーミング|b|The roses in the garden are blooming.|在花園裡的玫瑰正盛開著。|庭のバラが咲いている。
+blooming|adj.|盛開的|83|咲いている；真っ盛りの|v|The roses in the garden are blooming.|在花園裡的玫瑰正盛開著。|庭のバラが咲いている。
 bobo|n.|新中產階級；年老卻比較富裕的人|83|ボボ；裕福なボヘミアン；高所得の中年層|h|||
 bookkeeping|n.|簿記|83|簿記|a|Tom adopted our method of bookkeeping.||トムはわたしたちの簿記の方法を採用した。
 braille|n.|布萊葉點字法；用布萊葉點字法印刷|83|点字|a|Books written in braille are very important for people with visual impairments.||点字で書かれた本は、目の不自由な人にとってとても大切です。
@@ -16467,13 +16467,13 @@ cask|n.|桶；木桶；裝入桶內|83|樽；キャスク|a|Wine is put in casks
 celibate|n.|獨身者；獨身主義者；獨身的；獨身主義的|83|独身者；独身の；禁欲的な|h|||
 centro||毛靴刺藤|83|ケントロ；毛靴刺藤|h|||
 cervix|n.|器官的頸部；頸|83|頸部；子宮頸部|d|||
-chairmanship|n.|主席的身份或資格|83|主宰|a|||
+chairmanship|n.|主席的身份或資格|83|議長の職；議長職|v|||
 chameleon|n.|美洲變色蜥蜴；善變的人|83|カメレオン|a|The chameleon can take on any color.||カメレオンはどんな色にでもなれる。
 chardonnay|n.|夏敦埃酒|83|シャルドネ|b|||
 checkered|adj.|盛衰無常的；多波折的；有格子花的|83|変化に富んだ；格子柄の；起伏のある|h|My summer school dress is blue and white checkered.||夏の通学服は白と青のチェックです。
 checkmate|n.|擊破；徹底失敗；制止；大敗|83|詰み；チェックメイト|b|Two fat men trying to pass through a narrow doorway are in checkmate.||狭い戸口を通り抜けようとする二人の肥った男が行き詰まっている。
 cheery|adj.|愉快的|83|陽気な；明るい|h|He seems cheery but, on the contrary, he is sad.||彼は陽気そうに見えるが、本当はそれに反して悲しんでいるのだ。
-chit|n.|小孩；少女；芽；摘去芽|83|伝票|a|Cut the chit-chat and get to work.|別閒聊了，工作去。|おしゃべりはやめて、仕事を始めてよ。
+chit|n.|小孩；少女；芽；摘去芽|83|伝票；メモ；小娘|v|Cut the chit-chat and get to work.|別閒聊了，工作去。|おしゃべりはやめて、仕事を始めてよ。
 chou|n.|周；甘藍；心愛的人|83|シュー；ハイヒールの髪飾り；甘い人|h|||
 classically|adv.|古典主義地；擬古地|83|古典的に；伝統的に|h|||
 cobbler|n.|皮匠；補鞋匠；笨工匠|83|コブラー|b|||
@@ -16573,7 +16573,7 @@ fryer|n.|做油煎食物的人；可供油炸的食品；油炸鍋|84|フライ�
 gangsta|n.|岡斯特說唱樂|84|ギャングスタ|b|||
 gargantuan|adj.|巨大的；龐大的|84|巨大な；膨大な|h|||
 garish|adj.|穿著花哨的；炫耀的；過分裝飾的|84|ガーリッシュ|b|||
-garnett|v.|扯松|84|ほどく；ほぐす|h|||
+garnett|v.|扯松|84|ガーネット；ほぐす|v|||
 gasket|n.|襯墊；墊圈；束帆索|84|ガスケット；パッキン；索具|d|||
 gaul|n.|高盧；高盧人|84|ゴール|b|Caesar leaves Gaul, crosses the Rubicon, and enters Italy.||シーザーはゴールを発ち、ルビコン川を渡り、そしてイタリアにはいる。
 gelatin|n.|明膠；凝膠體；動物膠|84|ゼラチン|a|||
@@ -16590,9 +16590,9 @@ granola|n.|格蘭諾拉燕麥卷|84|グラノーラ|b|I only ate one granola bar
 graphically|adv.|生動地；活靈活現地；用圖表表示|84|生き生きと；図表で示して|h|||
 greenish|adj.|呈綠色的|84|緑がかった|d|The mucus is greenish yellow.||鼻汁は黄緑色です。
 gripe|n.|緊握；柄；把手；抓緊|84|不満；愚痴；握る|h|Don't gripe about petty stuff like this!||こんな些細なことでガタガタ文句言うな。
-grotto|n.|洞穴；巖穴；洞室|84|グロット|b|||
+grotto|n.|洞穴；巖穴；洞室|84|洞窟；岩屋|v|||
 grower|n.|栽培者；生長物|84|栽培者；育つもの|d|||
-grunge|n.|<美俚>蹩腳貨；難看的東西；乏味的東西|84|グランジ|b|||
+grunge|n.|<美俚>蹩腳貨；難看的東西；乏味的東西|84|グランジ；汚れ|v|||
 gunther|n.|鞏特爾|84|グンター|h|||
 gurus|n.|宗教老師；專家；權威|84|導師；専門家；権威者|h|||
 hagen|n.|哈根|84|ハーゲン|h|||
@@ -16677,7 +16677,7 @@ metastatic|adj.|轉移性的；變態的；變形的|84|転移性の；変形の
 methanol|n.|甲醇|84|メタノール|a|||
 mew|n.|貓叫聲；海鷗；咪咪叫|84|猫の鳴き声；かもめ；ミャーと鳴く|h|The cats next door mew a lot.||隣の猫ってね、よく鳴くの。
 mica|n.|雲母|84|雲母；マイカ|b|||
-midget|n.|侏儒；小型的|84|ミゼット|b|||
+midget|n.|侏儒；小型的|84|小人；超小型の|v|||
 militarily|adv.|在軍事上|84|軍事的に|h|||
 millet|n.|稷；粟；黍|84|きび|b|The rich man bought a Millet.||その金持ちはミレーの絵を買った。
 misogynistic||歧視女性的；厭惡女人的|84|女性蔑視の；女嫌いの|h|||
@@ -16696,17 +16696,17 @@ nagasaki|n.|長崎|84|長崎|a|The devil destroyed Hiroshima and Nagasaki.|惡�
 nanjing|n.|南京|84|南京|b|We have not yet arranged the time to leave for Nanjing.|我們還沒安排去南京的時間。|
 nanotechnology|n.|奈米技術；毫微技術；纖技術|84|ナノテクノロジー；超微細技術|d|||
 networked|adj.|網路的；廣播電視聯播的|84|ネットワーク化された；放送網で放送された|h|||
-nick|n.|刻痕；缺口；劃痕；刻痕於|84|ニック；こぼれ|a|Nick doesn't need to come to my office.|Nick不需要來我辦公室。|ニックは私の会社に来る必要はない。
+nick|n.|刻痕；缺口；劃痕；刻痕於|84|傷；刻み目；ギリギリ|v|Nick doesn't need to come to my office.|Nick不需要來我辦公室。|ニックは私の会社に来る必要はない。
 nite|n.|夜間|84|夜|h|||
 nix|n.|無；皆無；水中精靈；停|84|何もない；水の精；やめる|h|We had to nix tomorrow's meeting because of a scheduling problem.|因為日程安排的問題，我們必須取消明天的會議。|
 normalize|v.|使常態化；使合標準；使合規格|84|ノーマライズ|a|||
 nous|n.|精神；常識|84|ヌース|b|||
 nucleotide|n.|核苷酸|84|ヌクレオチド|b|||
 numeric|adj.|數值的；數字的；數；數字|84|数値の；数字の；数|h|She wrote the date in numeric form.|她用數字的形式寫了日期。|彼女は日付を数字で書いた。
-offshoot|n.|分支；旁系；衍生事物|84|分かれ|b|||
+offshoot|n.|分支；旁系；衍生事物|84|派生物；分家；枝|v|||
 onshore|adj.|向陸的；陸上的；在國內的；向陸地|84|オンショア|b|||
 onyx|n.|縞瑪瑙|84|オニキス|b|||
-orc|n.|虎鯨；樂隊；妖魔|84|オーク|b|||
+orc|n.|虎鯨；樂隊；妖魔|84|オーク；シャチ|v|||
 orkney|n.|奧克尼群島；奧克尼|84|オークニー諸島|h|||
 orthogonal|adj.|直角的；正交的；正交直線；矩形面|84|直交|b|||
 osteoporosis|n.|骨質疏鬆症|84|骨粗鬆症|b|My grandmother suffers from osteoporosis.|我外婆患有骨質疏鬆症。|私の祖母は骨粗鬆症を患っている。
@@ -16727,7 +16727,7 @@ paladin|n.|騎士；武士；衛道者|84|パラディン|b|||
 papacy|n.|羅馬教皇職位；教皇權；教皇世系|84|教皇職；教皇権|h|||
 pariah|n.|賤民；被放逐者|84|のけ者；被追放者|d|Putin will be a pariah on the international stage.|普丁將成為國際舞臺上的棄兒。|
 passively|adv.|被動；守勢；受動|84|受け身に；消極的に|h|||
-patina|n.|綠鏽；光澤；古色|84|寂|a|||
+patina|n.|綠鏽；光澤；古色|84|緑青；古色；趣|v|||
 peacetime|n.|平時時期；和平|84|平時|a|||
 perforated|v.|穿孔於；在…上打眼；打齒孔|84|有孔|b|||
 peri|n.|美麗仙女；窈窕淑女|84|美しい妖精；魅力的な女性|h|||
@@ -16767,7 +16767,7 @@ racecourse|n.|賽馬場；水道；跑道|84|競馬場|a|||
 racy|adj.|保持原味的；活潑的；生動的|84|生き生きとした；活発な；際どい|h|||
 ramshackle|adj.|象要倒的；搖晃的；放蕩的|84|今にも崩れそうな；ぼろぼろの|h|||
 reappear|v.|再出現|84|再び現れる；再出現する|h|||
-recklessly|adv.|不注意；粗心大意；不在乎|84|ほいほい|b|He survived an accident last year, but still drives recklessly.|他去年在事故中倖存了，可是他仍然很魯莽地開車。|
+recklessly|adv.|不注意；粗心大意；不在乎|84|無謀に；軽率に|v|He survived an accident last year, but still drives recklessly.|他去年在事故中倖存了，可是他仍然很魯莽地開車。|
 recoup|v.|償還；賠償；補償；補償損失|84|損失を取り戻す；償還する；補償する|h|||
 redeemer|n.|買回者；贖當者；贖身者|84|買い戻す人；救い主；贖い主|h|||
 reflector|n.|反射鏡；反射物|84|リフレクター|b|||
@@ -16790,11 +16790,11 @@ roadblock|n.|障礙；障礙物|84|道路封鎖；障害；障壁|d|||
 roving|adj.|徘徊的；流動的；流浪；漫遊|84|放浪の；巡回の；移動する|h|||
 rune|n.|詩歌；古代北歐文字；神秘的記號|84|ルーン文字；秘密の記号；詩歌|h|||
 sable|n.|黑貂；黑貂皮；深褐色；黑貂皮的|84|セーブル；くろてん|b|||
-sabre|n.|軍刀；騎兵；用馬刀砍|84|サーブル|b|||
+sabre|n.|軍刀；騎兵；用馬刀砍|84|サーベル；軍刀|v|||
 sahib|n.|大人；閣下；先生|84|旦那様；閣下；先生|h|||
 sass|n.|狂妄的話；燉水果；頂嘴；出言無理|84|生意気な口答え；無礼な物言い|h|||
 saucepan|n.|深平底鍋；燉鍋|84|片手鍋；深い鍋|h|Melt the butter in the saucepan, and add the finely chopped onion.||バターをシチュー鍋で溶かし、刻んだ玉ねぎと合わせます。
-savory|adj.|風味極佳的；可口的；味香的；開胃菜|84|セイボリー|b|||
+savory|adj.|風味極佳的；可口的；味香的；開胃菜|84|風味の良い；塩味の；キダチハッカ|v|||
 scion|n.|接穗；子孫|84|子孫；後継者；接ぎ穂|d|||
 scorpion|n.|蠍子；心黑的人；蠍尾鞭|84|さそり；スコーピオン|b|Yanni's dog ate the scorpion.||ヤニーの犬がサソリを食べちゃったの。
 secede|v.|正式脫離；分離|84|正式に脱退する；離脱する；分離する|h|Japan seceded from the League of Nations in 1933.||日本は国際連盟から１９３３年に脱退した。
@@ -16817,7 +16817,7 @@ sidle|v.|橫著走；悄悄貼近；側身而行；側走|84|横歩きする；�
 signatory|n.|協議的簽署者；簽約國；簽署的；簽約的|84|署名者；調印国；調印の|d|||
 silo|n.|筒倉；青貯窖|84|サイロ|a|||
 silvery|adj.|像銀的；銀色的；銀鈴一般的|84|銀色の；銀のような；澄んだ|h|He had a lot of straight, silvery hair.||ふさふさとしたまっすぐな銀髪をしていました。
-simplification|n.|單一化；單純化；簡單化|84|易化；崩し|b|||
+simplification|n.|單一化；單純化；簡單化|84|簡素化；単純化|v|||
 sion|n.|錫安；以色列人|84|シオン；シオンの丘|h|||
 slush|n.|爛泥；雪水；無聊的言情內容；濺溼|84|スラッシュ|b|The governor took the money out of a slush fund.||州知事は黒い金に手をつけました。
 smattering|n.|膚淺的知識；一知半解的知識；片斷的知識|84|生かじり；浅い知識；少しの知識|d|He has a smattering of Greek.||彼はギリシャ語が少しわかる。
@@ -16841,7 +16841,7 @@ subclass|n.|亞綱；子集|84|亜綱；下位クラス；部分集合|d|||
 subculture|n.|再次培養；亞文化群|84|サブカル|b|||
 successively|adv.|接連著地；相繼地|84|続々；逐次|a|||
 succulent|adj.|多汁的；多水分的|84|多汁の；みずみずしい；多肉の|h|||
-suitor|n.|起訴者；請願者；求婚者|84|訴人|b|Her suitors were all after her money.||彼女の求婚者は皆彼女の金が目当てだった。
+suitor|n.|起訴者；請願者；求婚者|84|求婚者；原告|v|Her suitors were all after her money.||彼女の求婚者は皆彼女の金が目当てだった。
 superannuation|n.|年老退休；退職；體弱退休|84|老齢年金；退職；定年退職|h|||
 superbly|adv.|雄偉地；壯麗地；上等地|84|見事に；素晴らしく；極上に|h|||
 surly|adj.|不和藹的；無禮的；板面孔的|84|無愛想な；不機嫌な；ぶっきらぼうな|h|||
@@ -16961,7 +16961,7 @@ buttermilk|n.|脫脂乳；酪乳|84|バターミルク；脱脂乳|d|Where can I
 caddy|n.|小盒子；小罐；茶葉罐|84|茶筒；小箱；キャディー|d|The golfer gave his caddy some medicine.||ゴルファーはキャディーに薬を与えた。
 capitulate|v.|投降|84|降伏する；屈服する|h|||
 cassius|n.|卡西烏斯|84|カシウス|h|||
-cataract|n.|大瀑布；奔流；暴雨|84|白内障|a|Are cataracts common in dogs?||白内障は、犬にはよくあることなんですか？
+cataract|n.|大瀑布；奔流；暴雨|84|白内障；大瀑布|v|Are cataracts common in dogs?||白内障は、犬にはよくあることなんですか？
 catchphrase|n.|吸引人們注意的話/字句|84|キャッチフレーズ；うたい文句|a|||
 centralised|v.|把…集中起來；形成中心|84|中央に集める；集中させる|h|||
 centrifugal|adj.|離心的；離心機；轉筒|84|遠心の；遠心力の；遠心分離機|h|This is centrifugal force; Newton viewed it as absolute motion.||これは遠心力ですがニュートンは絶対運動と見なしています。
@@ -17001,9 +17001,9 @@ countenance|n.|面容；面部表情；支援|84|顔；面相|b|He changed his c
 credo|n.|信條|84|クレド|b|||
 crucially|adv.|至關重要地；關鍵地|84|極めて重要に；決定的に|h|||
 cruelly|adv.|殘忍地；殘酷地；極|84|残酷に；ひどく|h|It's shameful to treat a child so cruelly.||子供をあんなに残酷に扱うなんて恥ずかしいことだ。
-crypt|n.|土窖；地穴；地下室|84|クリプト|b|||
+crypt|n.|土窖；地穴；地下室|84|地下室；地下納骨堂|v|||
 cull|v.|採；摘；揀；揀出的等外品|84|選び出す；間引く；選別品|d|||
-curd|n.|凝乳|84|カード|b|||
+curd|n.|凝乳|84|凝乳；カード|v|||
 daimler|n.|戴姆勒|84|ダイムラー|b|||
 damnation|n.|非難；被罰下地獄；詛咒；糟了|84|地獄行き；非難；畜生|h|||
 damper|n.|令人掃興的人；增溼器；阻尼器|84|ダンパ|b|||
@@ -17095,7 +17095,7 @@ gong|n.|銅鑼；皿形鍾；鳴鑼召喚|84|ゴング；鉦|a|The room emptied 
 graduated|adj.|畢業了的；分等級的；分度的|84|段階的な；目盛りのついた；卒業した|h|Helen graduated from high school last year.|海倫去年從高中畢業了。|ヘレンは去年高校を卒業した。
 gratis|adv.|免費地；白送地；免費的|84|無料で；無償の|h|||
 greenpeace|n.|綠色和平組織|84|グリーンピース|b|Greenpeace is fighting an uphill battle to save the environment.||グリーンピースは環境保護のために困難な戦いをしています。
-guardianship|n.|監護；保護；守護|84|後見|a|||
+guardianship|n.|監護；保護；守護|84|後見；保護|v|||
 guiana|n.|蓋亞那地區|84|ギアナ|d|||
 guidebook|n.|指南；手冊；要覽|84|ガイドブック|a|While in England I often consulted the guidebook.|在英國的時候，我經常看參考書。|イギリスにいる間、私はよくそのガイドブックを参考にした。
 gummy|adj.|樹膠的；粘的|84|グミ|b|Why aren't there any blue gummy bears?||なんで青いグミベアがないんだろ？
@@ -17133,7 +17133,7 @@ impossibly|adv.|不可能地；難以置信地|84|信じがたいほど；あり
 impressively|adv.|令人難忘地；感人地|84|印象的に；見事に|h|||
 incursion|n.|侵入；侵略；奇襲|84|侵入；侵略；急襲|d|||
 inescapable|adj.|逃不掉的；不可避免的|84|避けられない；逃れられない|h|||
-inexcusable|adj.|沒法辯解的；不可寬赦的|84|すまない|a|||
+inexcusable|adj.|沒法辯解的；不可寬赦的|84|言い訳できない；許しがたい|v|||
 inexperience|n.|無經驗；不熟練|84|経験不足；不慣れ|h|He is young and inexperienced, but quite enterprising.||彼は若くて未経験だがやる気満々だ。
 inhibitory|adj.|禁止的；抑制的|84|抑制する；禁止の|h|||
 inoculate|v.|接種；嫁接|84|予防接種する；植え付ける；接種する|h|||
@@ -17159,13 +17159,13 @@ kinetics|n.|動力學|84|動力学；速度論|h|||
 knapp|v.|打碎；打；敲|85|打ち砕く；打つ；たたく|h|||
 knickers|n.|短褲；燈籠褲|85|ニッカーズ|a|In Spain, they wear red boxers or knickers on Christmas.|在西班牙，聖誕節要穿紅內褲紅內衣。|
 knoll|n.|小山；圓丘；敲鐘|85|小丘；丸い小山；鐘を鳴らす|d|||
-kok|n.|滅世狂舞|85|滅世狂舞|h|||
+kok|n.|滅世狂舞|85|コク|v|||
 kuhn|n.|庫恩|85|クーン|h|||
 lark|n.|雲雀；百靈鳥；歡樂；嬉耍|85|ラーク|b|If the sky falls we shall catch larks.||取り越し苦労はするな。
 latency|n.|潛伏；潛在|85|潜時；レイテンシー|b|||
 leiden|n.|萊頓市；萊頓|85|ライデン；ライデン市|h|||
 libido|n.|性的衝動；性慾|85|リビドー|b|My wife has no libido since she got pregnant. What can I do?|老婆懷孕沒了性慾我該怎麼辦？|
-libra|n.|磅；天秤座|85|ポンド；天秤座|d|||
+libra|n.|磅；天秤座|85|天秤座；ポンド|v|||
 liege|n.|君主；王侯；臣下；君主的|85|君主；主君；家臣|d|||
 lightness|n.|光亮度；淺淡；輕率|85|明るさ；軽さ；軽率さ|d|Our planet moves in space with the lightness of a bird in flight.||私たちの惑星は飛ぶ鳥の気軽さで宇宙を動いている。
 likable|adj.|可愛的|85|好感の持てる；愛らしい|h|For all his faults, Sam is still a very likable person.||彼の欠点にもかかわらずサムはとても好ましい人物だ。
@@ -17175,7 +17175,7 @@ magenta|n.|品紅色；洋紅|85|マゼンタ|b|||
 magnification|n.|擴大；放大率；放大的複製品|85|倍率|a|||
 mailer|n.|郵寄者；郵船；包裝郵件的東西|85|郵送者；郵送用封筒；郵送船|h|Mr Mailer is to stay here till tomorrow.||メイラー氏は明日までここに滞在の予定です。
 marketer|n.|趕集者；市場商人|85|マーケター|b|||
-mausoleum|n.|陵墓；陰森森的大廈|85|霊屋；廟|b|||
+mausoleum|n.|陵墓；陰森森的大廈|85|霊廟；陵墓|v|||
 maw|n.|第四胃；嗉囊；胃|85|第四胃；胃袋|d|||
 mcclure|n.|禾本科；葫蘆竹|85|マクルーア|h|||
 medicated|adj.|加入藥品/藥物的；藥制的；食藥的|85|薬を含んだ；薬効のある；薬用の|h|||
@@ -17292,7 +17292,7 @@ scammer|n.|騙子；詐騙犯|85|詐欺師；ペテン師|h|We help for free. If
 scepticism|n.|懷疑論；懷疑主義|85|懐疑論；懐疑主義|d|||
 schoolchildren|n.|小學生|85|学童；小学生|h|||
 schubert|n.|舒伯特|85|シューベルト|a|||
-scrooge|v.|推；擠|85|押す；押し合う|h|||
+scrooge|v.|推；擠|85|けちんぼ；スクルージ|v|||
 searing|adj.|灼熱的|85|焼けるような；灼熱の|h|||
 sed||航天工程文獻；光譜能量分佈|85|宇宙工学文献；スペクトルエネルギー分布|h|||
 sedation|n.|鎮靜|85|鎮静；鎮静作用|d|||
@@ -17300,7 +17300,7 @@ sedative|adj.|使安靜的；使鎮靜的；鎮靜劑|85|鎮静の；鎮静剤|d
 senna|n.|山扁豆；番瀉葉；輕瀉劑|85|センナ；下剤|h|||
 sensibly|adv.|容易感知地；聰明地；明顯地|85|賢明に；合理的に；目立って|h|||
 separator|n.|區分者；從事分離的人；分離器|85|セパ；セパレータ|b|||
-shamelessly|adv.|不知羞恥地|85|おめおめ；いけしゃあしゃあ|b|||
+shamelessly|adv.|不知羞恥地|85|厚かましくも；恥知らずに|v|||
 shearer|n.|剪下者；剪羊毛者；剪刀工人|85|羊毛刈り；刈り取る人|h|||
 shimmering|v.|閃閃發光；發微光|85|きらきら光る；ゆらめく|h|||
 shoals|n.|淺灘；沙洲；魚群|85|浅瀬；砂州；魚群|h|||
@@ -17311,16 +17311,16 @@ simplex|adj.|簡單的；單一的|85|単純な；単一の；単純化した|h|
 sisterhood|n.|姊妹關係；姊妹之誼；婦女團體|85|姉妹関係；女性連帯；女性団体|h|||
 sleepover|n.|就是孩子到別的小朋友家過夜。|85|お泊まり会；友達の家に泊まること|d|||
 slideshow|n.|幻燈片；幻燈片放映；播放幻燈片方式|85|スライドショー；幻灯機|h|||
-smartly|adv.|瀟灑地；火辣辣地；刺痛地|85|隆と|b|||
+smartly|adv.|瀟灑地；火辣辣地；刺痛地|85|きびきびと；しゃれて；鋭く|v|||
 smite|v.|重擊；打；擊敗|85|強く打つ；打ち負かす；襲う|h|They say the gods smite evil with thunderbolts.||諸神は悪を雷で打つという。
 smuggler|n.|走私者；走私船|85|密輸業者；密輸船|d|The townspeople were astonishingly naive about what the smugglers were.||町の人たちは密輸業者がしようと試みていたことに驚くほど無知だった。
 sodomy|n.|雞姦；獸姦|85|ソドミー|b|||
 solubility|n.|可溶性；溶解度；解決之可能性|85|可溶性|b|||
-soundly|adv.|完全地；健全地；堅牢地|85|ぐっすり；グースカ|a|The baby was sleeping soundly in his mother's arms.|孩子在母親的懷中熟睡。|赤ちゃんは母親の腕の中でぐっすり眠っていた。
+soundly|adv.|完全地；健全地；堅牢地|85|ぐっすり；徹底的に；健全に|v|The baby was sleeping soundly in his mother's arms.|孩子在母親的懷中熟睡。|赤ちゃんは母親の腕の中でぐっすり眠っていた。
 spacey|adj.|迷亂的；麻木的；瘋瘋顛顛的|85|ぼんやりした；夢見心地の；常軌を逸した|h|||
 spindly|adj.|紡錘形的；細長的|85|細長い；ひょろ長い|d|||
 spitfire|n.|烈性子的人；噴火的東西|85|気性の激しい人；火を吹くもの|h|||
-splendour|n.|光輝；壯麗；顯赫|85|豪壮|b|||
+splendour|n.|光輝；壯麗；顯赫|85|輝き；壮麗；華麗さ|v|||
 splurge|n.|炫耀；誇示；賣弄|85|散財；見せびらかし；派手に使う|h|I splurged and bought myself a Nintendo Switch.||奮発してスイッチ買っちゃった。
 spotty|adj.|有斑點的；有汙點的；質量不一的|85|まだらの；むらのある；斑点のある|h|||
 spurious|adj.|假造的；偽造的；欺騙的|85|偽の；にせの；偽造の|h|||
@@ -17342,7 +17342,7 @@ swastika|n.|納粹黨所用的十字記號|85|卍；ハーケンクロイツ|b||
 sweltering|adj.|悶熱的；熱得難受的；中暑的|85|蒸し暑い；うだるような|h|Summers in Taiwan are sweltering.|臺灣的夏天很潮濕悶熱。|台湾の夏は、蒸し暑いものだ。
 sycamore|n.|西克莫；懸鈴木|85|プラタナス；シカモア|h|||
 symbolically|adv.|象徵性地|85|象徴的に|h|||
-talkative|adj.|喜歡說話的；饒舌的；多嘴的|85|軽口|b|He is as talkative as ever.|他和以前一樣話多。|彼は相変わらずおしゃべりだ。
+talkative|adj.|喜歡說話的；饒舌的；多嘴的|85|おしゃべりな；口数の多い|v|He is as talkative as ever.|他和以前一樣話多。|彼は相変わらずおしゃべりだ。
 talker|n.|說話的人；饒舌者；空談者|85|話し手；おしゃべりな人|h|Salesmen are usually fast talkers.|推銷員經常是語速快的人。|セールスマンって、大抵口がうまいのよ。
 taro|n.|芋頭|85|さといも；タロいも|b|Taro is the most famous of the three.|太郎是三人之中最有名的。|太郎は３人の中で一番有名です。
 tenths|n.|第十；十分之一；第十的|85|十分の一；第十番目|h|Possession is nine-tenths of the law.||現実の占有は九分の勝ち目。
@@ -17350,7 +17350,7 @@ testicular|adj.|睪丸的；睪丸狀的|85|精巣の|h|||
 thereto|adv.|往那邊；到那|85|そこへ；それに|h|||
 thermodynamic|adj.|熱力學的；使用熱動力的|85|熱力学の|h|||
 thoughtfully|adv.|沉思地；體貼地；親切地|85|思慮深く；親切に|h|He thoughtfully gave me a helping hand.||彼が親切にも手伝ってくれた。
-tightness|n.|堅固；緊密|85|逼迫|b|||
+tightness|n.|堅固；緊密|85|きつさ；堅固さ；逼迫|v|||
 tiller|n.|耕種者；分櫱|85|ティラー|b|||
 timbre|n.|音色；音質|85|音色；音質|d|||
 tonnage|n.|噸位|85|トン数；積載量；総トン数|h|||
@@ -17401,7 +17401,7 @@ wank|v.|手淫|85|自慰行為|h|||
 wanker|n.|手淫者；卑鄙的人|85|自慰をする人；卑劣な人|h|||
 watermark|n.|水位標誌；水印；印水印於|85|透かし|b|||
 webcast|n.|網路廣播；網路廣播；網路直播|85|ウェブキャスト；ネット放送；インターネット生中継|h|||
-wickedness|n.|邪惡；不道德|85|邪；禍|b|He cloaks his wickedness under a smiling face.||彼は笑顔の陰に邪悪な心を隠している。
+wickedness|n.|邪惡；不道德|85|邪悪；悪行|v|He cloaks his wickedness under a smiling face.||彼は笑顔の陰に邪悪な心を隠している。
 widget|n.|裝飾物；小機械；未定名的主要新產品|85|ウィジェット|a|It's the widget that overcomes web marketing's weaknesses.||Webマーケティングの弱点を克服するウィジェットです。
 wily|adj.|使用計謀的；有詭計的；狡猾的|85|狡猾な；策略に長けた|h|||
 wiretap|v.|搭線竊聽；竊聽|85|盗聴する；盗聴|d|You don't need to worry about wiretapping.||盗聴の心配はない。
@@ -17418,7 +17418,7 @@ zucchini|n.|綠皮密生西葫蘆|85|ズッキーニ|b|||
 abnormality|n.|反常；畸形；變態|85|異常；奇形；異常性|d|We have detected an abnormality on your x-ray.||ｘ線写真で異状が認められます。
 addendum|n.|補遺；附加物|85|別記|b|||
 adjudicate|v.|判決；宣告；裁定|85|裁定する；判決を下す；審判する|h|||
-admirably|adv.|極好地；美好地|85|いみじくも|b|He acquitted himself admirably at the track meet.||彼は陸上競技会で見事な成績をあげた。
+admirably|adv.|極好地；美好地|85|見事に；立派に|v|He acquitted himself admirably at the track meet.||彼は陸上競技会で見事な成績をあげた。
 adsorption|n.|吸附|85|吸着|b|||
 afoot|adj.|徒步的；在進行中的；活動中的；徒步|85|歩いて；進行中の；活動中の|h|||
 aggrieved|adj.|受委屈的；權利受到不法侵害的|85|不当な扱いを受けた；恨みを抱いた|h|It aggrieved her much that she could not go.||彼女は自分が行けないことでたいそう悩んでいた。
@@ -17443,7 +17443,7 @@ asymptomatic|adj.|無症狀的|85|無症状の|h|||
 asynchronous|adj.|不同時的；不同期的；非同步的|85|非同期|b|||
 autocratic|adj.|獨裁的；專制的|85|独裁的な；専制的な|h|I recalled her as an energetic, autocratic personality.||彼女のエネルギッシュで独裁的な性格を思い出した。
 automata||自動機；自動控制|85|オートマタ|b|||
-baccalaureate|n.|學士學位；畢業班臨別宗教儀式|85|バカロレア|b|||
+baccalaureate|n.|學士學位；畢業班臨別宗教儀式|85|バカロレア；学士号|v|||
 banister|n.|欄杆的支柱；樓梯的扶欄|85|手すりの支柱；階段の手すり|h|I slid down the banister.||私は階段の手すりを滑り降りた。
 bannister|n.|欄干|85|手すり；欄干|h|||
 bearable|adj.|可忍受的；支承得住的|85|耐えられる；我慢できる|h|||
@@ -17487,7 +17487,7 @@ causality|n.|因果關係|85|因果関係；因果律|d|||
 celiac|adj.|腹的；腹腔的|85|腹部の；腹腔の|h|||
 celibacy|n.|獨身|85|独身；禁欲；独身主義|d|Marriage has many pains, but celibacy has no pleasures.|婚姻生活固然有許多痛苦的地方，但單身也絕不是一件樂事。|結婚には多くの苦悩があるが、独身には何の喜びもない。
 centimeter|n.|釐米|85|センチ；センチメートル|a|I am almost 180 centimeters tall.|我差不多180公分高。|私はほとんど１８０センチです。
-centralization|n.|集中；中央集權化|85|集権|b|||
+centralization|n.|集中；中央集權化|85|中央集権化；集中|v|||
 chatty|adj.|饒舌的；愛講閒話的|85|おしゃべりな；くだけた|h|Cookie is a chatty cat.|曲奇是一隻很愛叫的貓。|
 chronologically|adv.|按時間的前後順序排列地|85|年代順に；時系列に|h|||
 chug|n.|嘎嚓聲；發出嘎嚓聲；嘎嚓響著前進|85|ガタガタという音；ガタガタ進む|h|Anybody who shows up late has to chug!||さあ、駆けつけ三杯、威勢よくぱっといきましょう。
@@ -17518,11 +17518,11 @@ confection|n.|糖果；蜜餞|85|飴|b|I very much want to eat sweet confections
 confessor|n.|供認者；懺悔者；懺悔神父|85|告白者；懺悔を聞く司祭|h|||
 conflagration|n.|大火災；大火；衝突|85|火災|a|A small forest fire quickly spread and became a huge conflagration.||小規模の森林火災はみるみる広がり大火災となった。
 conflate|v.|合併；異文合併|85|混同する；合体させる|h|||
-congresswoman|n.|國會女議員；眾議院女議員|85|女性議員；下院議員|d|||
+congresswoman|n.|國會女議員；眾議院女議員|85|女性国会議員；女性下院議員|v|||
 conscript|adj.|被徵入伍的；被徵召的；徵兵|85|徴兵された人；徴兵する|h|||
 consecration|n.|祭祀；奉獻；神聖化|85|奉献；聖別；神聖化|d|||
 consequential|adj.|作為結果的；隨之發生的；推論的|85|結果として生じる；重要な|h|||
-conspicuously|adv.|顯著地；超群地|85|もろ；ひときわ|b|||
+conspicuously|adv.|顯著地；超群地|85|目立って；顕著に；ひときわ|v|||
 constructor|n.|建造者；造船技師|85|建設業者；造船技師|h|||
 contemplative|adj.|沉思的；愛默想的；冥想的|85|瞑想的な；思索的な|h|||
 convergent|adj.|趨集於一點的；會聚性的；收斂的|85|収束する；一点に集まる|h|A convergent sequence is bounded.||収束する数列は有界である。
@@ -17541,7 +17541,7 @@ deathly|adj.|死一般的；像死一樣地|85|死のような；死人のよう
 declassified|adj.|解密的；對銷密|85|機密解除された|h|||
 defoe|n.|笛福|85|デフォー|h|||
 deliciously|adv.|美味地；芬香地|85|美味しく；芳しく|h|It's deliciously tender, isn't it.||やわらかくておいしいね。
-delightfully||大喜；欣然|85|楽しく；愉快に|h|||
+delightfully||大喜；欣然|85|楽しく；愉快に；喜ばしく|v|||
 demonstrator|n.|論證者；證明者；指示者|85|デモンストレーター|b|The leader dismissed the demonstrators in the park.||指揮者はその公園でデモ隊を解散させた。
 dermatitis|n.|皮膚炎|85|皮膚炎|d|Atopic dermatitis has been increasing on babies recently.||最近、赤ちゃんのアトピー性皮膚炎が増えています。
 despondent|adj.|喪氣的；失望的；沒有精神的|85|落胆した；気落ちした|h|||
@@ -17570,7 +17570,7 @@ dutiful|adj.|盡職的；忠實的；順從的|85|義務を果たす；忠実な
 eerily|adj.|怪誕的；奇異的；可怕的|85|不気味に；奇妙に|h|||
 efficacious|adj.|有效的；靈驗的|85|効果のある；有効な|h|||
 eine|n.|人名；埃內|85|エーネ|h|||
-ejaculation|n.|突然說出；射出；射精|85|射精|a|There's nothing that ruins life as much as premature ejaculation.||早漏ほど人生を無駄にするものはない。
+ejaculation|n.|突然說出；射出；射精|85|射精；叫び声|v|There's nothing that ruins life as much as premature ejaculation.||早漏ほど人生を無駄にするものはない。
 elba|n.|厄爾巴島|85|エルバ島|h|Napoleon was banished to Elba in 1814.||ナポレオンはエルバ島に１８１４年に追放された。
 electra|n.|多區無線電導航系統|85|エレクトラ；電波航法システム|h|||
 electrochemical|adj.|電氣化學的|85|電気化学の|h|||
@@ -17603,10 +17603,10 @@ ferocity|n.|兇猛；殘忍；狂暴的行為|85|獰猛さ；残忍さ；猛烈�
 finalize|v.|使結束；定稿；定局|85|最終決定する；仕上げる|h|||
 firefight|n.|交火；火戰；炮戰|85|撃ち合い；銃撃戦；砲撃戦|d|He says firefighting is a feast or famine job.||彼が言うには、消防の仕事というのは大忙しか全く暇かのいずれかだそうだ。
 firestone|n.|燧石；耐火石|85|火打ち石；耐火石|d|||
-firstborn|n.|初生兒；長男；長女；第一胎生的|85|初生|b|||
+firstborn|n.|初生兒；長男；長女；第一胎生的|85|長子；長男；初子|v|||
 flatly|adv.|枯燥無味地；完全地；直截了當地|85|きっぱりと；平然と；平板に|h|You should have refused his request flatly.|你應該直接拒絕他的要求。|君は断固として彼の要求を拒絶すべきであった。
 flawlessly|adv.|無瑕地；完美地|85|完璧に；欠点なく|h|His flawlessly ordered life collapsed when his drug-addict brothers appeared.||彼の完ぺきに秩序正しい人生は麻薬中毒の兄弟が現れた時に崩壊した。
-flier|n.|飛行者；快船；快車|85|フライヤー|b|||
+flier|n.|飛行者；快船；快車|85|チラシ；飛行士；乗客|v|||
 flowery|adj.|多花的；絢麗的；華麗的|85|花の多い；華やかな；美辞麗句の|h|||
 fluently|adv.|流利地；通暢地|85|ペラペラ|a|I would like to speak English fluently.|我想講一口流利的英語。|英語をペラペラにしゃべりたい。
 fluidity|n.|流動性；流質；流狀|85|水性|b|||
@@ -17641,7 +17641,7 @@ handsomely|adv.|漂亮地；整齊地；當心地|85|見事に；立派に；気
 hapless|adj.|倒黴的；不幸的|85|不運な；ついていない|h|||
 headshot||拍攝頭部|85|頭部の写真；頭部への射撃|h|||
 heartily|adv.|衷心地；真實地；熱心地|85|もりもり|b|I heartily congratulate you on your success.||御成功を心からお喜び申し上げます。
-hellfire|n.|地獄之火；嚴酷的苦難|85|業火|b|||
+hellfire|n.|地獄之火；嚴酷的苦難|85|地獄の業火；激しい苦しみ|v|||
 hellish|adj.|地獄的；兇惡的；令人毛骨悚然的|85|地獄のような；ひどい|h|Life is more hellish than hell itself.||人生は地獄よりも地獄的である。
 helplessness|n.|無可奈何狀態；無能為力；無助的狀態|85|無力さ；どうしようもなさ|h|We will have to get over the feeling of helplessness.|我們必需克服我們所感到的無助。|我々は無力感を克服しなければならないであろう。
 hemoglobin|n.|血色素|85|ヘモグロビン|a|||
@@ -17696,7 +17696,7 @@ intersex|n.|陰陽人；兼具兩性特徵者|85|間性；両性具有者|d|||
 introvert|v.|使內向；使內彎；內陷；個性內向者|85|内向的な人；内向させる|h|Do introverts not live as long as extroverts?||内気な人は外向的な人より短命？
 involuntarily|adv.|不知不覺地；無意識地|85|不本意に；無意識に；自動的に|h|||
 inwards|adv.|在內部；向中心；向內|85|内側へ；内部に|h|||
-jest|n.|笑柄；笑話；講笑話；嘲笑|85|おどける|b|Many a true word is spoken in jest.|笑談之中有至理。|嘘から出た真実。
+jest|n.|笑柄；笑話；講笑話；嘲笑|85|冗談；おどける；嘲笑|v|Many a true word is spoken in jest.|笑談之中有至理。|嘘から出た真実。
 jihadi||聖戰分子；聖戰的；跟聖戰有關的|85|聖戦士；聖戦の|h|||
 journeyman|n.|僱工；熟練工人；短工|85|職人；熟練工；日雇い労働者|h|||
 kaleidoscope|n.|萬花筒|85|万華鏡|b|||
@@ -17719,7 +17719,7 @@ lunacy|n.|精神失常；精神病；瘋狂愚蠢的行為|85|狂気；精神錯
 machination|n.|陰謀；圖謀；策劃|85|陰謀；策謀|h|||
 madre|n.|母親|85|母；母親|h|||
 maelstrom|n.|大漩渦；極度混亂|85|大渦；大混乱|h|||
-magi|n.|多陣γ線照射器|85|マギ|b|||
+magi|n.|多陣γ線照射器|85|マギ；東方の三博士|v|||
 magpie|n.|鵲；珍種家鴿；饒舌的人；鵲的|85|カササギ；おしゃべりな人|h|||
 manus|n.|手；前肢；夫權|85|手；前足；夫権|h|||
 mariner|n.|水手|85|船乗り；水夫|d|Mariner 9 was launched on May 30, 1971.||マリナー９号は、１９７１年５月３０日に発射された。
@@ -17760,7 +17760,7 @@ octagon|n.|八邊形；八角形|85|八角|b|||
 odysseus|n.|奧德修斯|85|オデュッセウス|h|||
 omnipresent|adj.|無所不在的；普通存在的|85|遍在する；どこにでもある|h|||
 opiate|n.|鴉片製劑；鎮靜劑；含鴉片的；催眠的|85|アヘン剤；鎮静剤；麻薬の|d|Religion is the opiate of the masses.|宗教是人民的鴉片。|
-opus|n.|作品|85|オプス|b|||
+opus|n.|作品|85|作品；楽曲|v|||
 ordinate|n.|縱線；縱座標|85|縦座標；縦軸|d|||
 ordnance|n.|大炮；軍械；武器|85|大砲；軍需品；兵器|d|||
 originator|n.|創始人；發明者；起源|85|元祖；張本人|a|||
@@ -17786,7 +17786,7 @@ pesto|n.|<美>香蒜沙司；香蒜醬|86|ペスト|b|||
 pharmacological|adj.|藥理學的；藥物學的|86|薬理学の；薬物学の|h|||
 platelet|n.|血小板；小盤；小板|86|血小板|b|||
 playmaker|n.|場上組織進攻的隊員|86|プレーメーカー|b|||
-plunger|n.|跳水者；潛水者；活塞|86|シュッポン|b|||
+plunger|n.|跳水者；潛水者；活塞|86|ラバーカップ；プランジャー；飛び込む人|v|||
 pluralism|n.|多數狀態；多重性；多元論|86|多元|b|||
 polaroid|n.|人造偏振片|86|偏光板；ポラロイド|d|||
 polity|n.|政體；國體；政治組織|86|政体；国家；政治組織|d|||
@@ -17794,7 +17794,7 @@ ponce|n.|男妓；靠妓女為生的人；為妓女拉客的人|86|ヒモ；気�
 poncho|n.|南美披風；雨披|86|ポンチョ|b|||
 portability|n.|可攜帶；輕便|86|ポータビリティ|b|||
 praxis|n.|習慣；慣例；練習|86|慣習；実践；訓練|d|||
-predation||掠奪行為|86|捕食|b|||
+predation||掠奪行為|86|捕食；略奪|v|||
 preen|v.|用嘴整理；打扮；使得意；打扮漂亮|86|羽繕いする；着飾る；得意がる|h|||
 preheat|v.|預熱|86|予熱する|h|Preheat the oven to 300° Fahrenheit.|將烤箱預熱至華氏 300 度。|
 presto|adv.|趕快；轉眼間；立刻；變戲法似的|86|プレスト|b|||
@@ -17812,7 +17812,7 @@ psychosocial||社會心理的|86|心理社会的な|h|||
 putter|n.|置放者；推車工；輕擊棒；慢條斯理地工作|86|パター|a|||
 putty|n.|油灰；淡灰色；氧化錫；用油灰填塞|86|パテ|a|He stopped up the crack with putty.||彼は割れ目をパテでふさいだ。
 quarterfinal|adj.|四分之一決賽的；四分之一決賽|86|準々決勝；準々決勝の|d|||
-quill|n.|羽根；大翎毛；羽毛筆；刺穿|86|翮|b|||
+quill|n.|羽根；大翎毛；羽毛筆；刺穿|86|羽ペン；羽軸；針|v|||
 radiological|adj.|放射學的|86|放射線学の|h|||
 radon|n.|氡|86|ラドン|a|||
 rapprochement|n.|和解；恢復邦交；恢復友好關係|86|和解；関係修復|d|||
@@ -17820,7 +17820,7 @@ rationalize|v.|使合理；合理地處理；使有理化；合理地思考|86|�
 reactivity|n.|反應；反動；反應性|86|反応性；反応度|d|||
 reagent|n.|試劑；反應物|86|試薬|a|||
 ream|n.|令；大量；擴；榨取|86|リーム|b|||
-recessive|adj.|後退的；逆行的；隱性的；隱性性狀|86|潜性|b|||
+recessive|adj.|後退的；逆行的；隱性的；隱性性狀|86|劣性の；潜性の；後退する|v|||
 recitation|n.|詳述；吟誦；背誦的詩|86|朗詠；吟|a|The teacher noted several mistakes in my recitation.||先生は私の朗読にいくつかの誤りを指摘した。
 rectal|adj.|直腸的|86|直腸の|h|||
 recursive|adj.|迴圈的；遞迴的|86|再帰的な；反復的な|h|||
@@ -17868,11 +17868,11 @@ shogun|n.|<日>幕府時代的將軍|86|幕府時代の将軍|h|||
 shunt|v.|使轉軌；使分流；迴避討論；轉向一邊|86|シャント|b|||
 siphon|n.|虹吸管；用虹吸管吸出；抽取|86|サイフォン|b|||
 slasher|n.|猛砍者；亂砍者；好毆鬥者|86|切り裂き魔；乱暴者；ホラー映画|h|A mother and her two children were stabbed to death in a slasher incident.||通り魔事件で母子3人が刺殺された。
-sledgehammer|n.|大錘；極有分量的事物；強力的；手下不留情的|86|玄能|b|||
+sledgehammer|n.|大錘；極有分量的事物；強力的；手下不留情的|86|大ハンマー；強烈な|v|||
 sleeveless|adj.|無袖的|86|袖なしの|h|Mary was wearing a sleeveless summer dress.||メアリーは袖なしのサマーワンピを着てたよ。
 slurp|n.|吃的聲音；出聲地吃|86|すする|b|When you drink soup, don't make any slurping sound.||スープを飲むときスースーいう音をたててはいけない。
 snell|n.|系鉤線；厲害的；精明的|86|釣り針の結び糸；鋭い；抜け目のない|h|||
-snicker|n.|竊笑|86|譏笑|b|I couldn't keep from snickering.||くすくす笑わずにいられなかった。
+snicker|n.|竊笑|86|くすくす笑い；忍び笑い|v|I couldn't keep from snickering.||くすくす笑わずにいられなかった。
 snot|n.|鼻水；鼻涕；惹人嫌的人|86|鼻水；鼻たれ；嫌なやつ|d|A 40- or 50-year-old is a snot-nosed brat.||四十五十は鼻たれ小僧。
 soulmate|n.|心靈伴侶；知音；夢中情人|86|ソウルメイト|b|You'll have three relationships before you meet your true soulmate.|要經歷三段感情才能遇到真命天子。|
 southerly|adj.|向南的；來自南方的；南風|86|南向きの；南からの；南風|h|||
@@ -17880,7 +17880,7 @@ spectrometer|n.|分光計；譜儀|86|分光計；スペクトル計|d|||
 spiteful|adj.|懷恨的；懷有惡意的；惡意的|86|意地悪な；悪意のある|h|||
 splice|v.|接合；捻接；膠接|86|スプライス|b|||
 spongy|adj.|海綿狀的；海綿質的；多孔的|86|スポンジ状の；多孔質の|h|Oooh, sick! What is that stuff? It's all spongy.||なんかそれ、ブヨブヨしていて気持ち悪いね。
-squalid|adj.|汙穢的；骯髒的；悲慘的|86|ごみごみ|b|The refugees were living in a narrow, squalid backstreet.||難民がごみごみした裏町に住んでいました。
+squalid|adj.|汙穢的；骯髒的；悲慘的|86|むさくるしい；不潔な；みじめな|v|The refugees were living in a narrow, squalid backstreet.||難民がごみごみした裏町に住んでいました。
 staid|adj.|認真的；沉著的；固定的|86|落ち着いた；堅実な；固定された|h|||
 standardised|v.|使…符合標準；使…標準化；使…統一|86|標準化する；統一する|h|||
 stasis|n.|停滯；鬱積|86|停滞；うっ滞|d|||
@@ -17897,7 +17897,7 @@ summarily|adv.|概要地；概略地；立刻|86|略式に；即座に；簡潔�
 sweeper|n.|清掃夫|86|スイーパー；リベロ|a|||
 sweetener|n.|代糖；甜料|86|甘味料|a|Certain artificial sweeteners are known to be carcinogens.||ある種の人工甘味料には発癌性があることが知られている。
 swish|n.|嗖嗖聲；發嗖嗖聲；嗖地揮動|86|ビューン|b|||
-sybil|n.|女巫；女預言家|86|シビル|b|||
+sybil|n.|女巫；女預言家|86|巫女；女予言者|v|||
 tableau|n.|生動場面；戲劇性局面|86|タブロー|b|||
 talisman|n.|護身符；驅邪物；法寶|86|縁起物；護符|b|Now there are charms and talismans for your pet that you can have blessed.||ペットのためにご祈祷していただける御守と御札が実現しました。
 tampon|n.|塞子；棉塞；止血棉塞；用棉塞塞|86|タンポン|b|||
@@ -17941,7 +17941,7 @@ unreasonably|adv.|不合理地|86|不合理に；過度に|h|||
 unrelenting|adj.|不憐憫的；無情的；冷酷的|86|容赦ない；厳しい|h|||
 unsung|adj.|未被唱頌的；未讚頌的|86|称賛されていない；知られていない|h|He is an unsung hero.||彼は縁の下の力持ちだ。
 upswing|n.|回升時期；上升；向上擺動|86|上昇；好転；上向き|h|||
-valence|n.|原子價|86|価|b|||
+valence|n.|原子價|86|原子価；結合価|v|||
 valour|n.|英勇；剛勇；勇猛|86|勇気；勇敢さ|d|||
 vassal|n.|封臣；奴僕；臣屬的；奴僕的|86|家臣；近臣|b|||
 vegetative|adj.|植物的；蔬菜的；生長的|86|植物の；植物状態の；栄養性の|h|||
@@ -18045,7 +18045,7 @@ chaucer|n.|喬叟|86|チョーサー|h|They referred to Chaucer as the father of
 chicano|n.|住在美國的墨西哥男人；奇卡諾人|86|チカーノ|b|||
 chipper|adj.|爽朗的；活潑的；爽快的；鑿子|86|陽気な；元気な；のみ|h|||
 chiropractor|n.|用手法治療者|86|カイロプラクター|b|||
-chock|n.|塞塊；木楔；楔形木墊；用楔子墊阻|86|チョーク|b|The freezer is chock-full of ice cream that I bought in bulk.||大量に買いこんだアイスクリームで冷凍室がぎゅうぎゅうだ。
+chock|n.|塞塊；木楔；楔形木墊；用楔子墊阻|86|くさび；輪止め；ぎっしり詰まった|v|The freezer is chock-full of ice cream that I bought in bulk.||大量に買いこんだアイスクリームで冷凍室がぎゅうぎゅうだ。
 chromosomal|adj.|染色體|86|染色体の|h|||
 cig|n.|<口>香菸；雪茄煙|86|タバコ；葉巻|h|||
 circulatory|adj.|迴圈的|86|循環の；血液循環の|h|||
@@ -18096,7 +18096,7 @@ demure|adj.|裝成端莊的；假正經的；嫻靜的|86|つつましやかな�
 deserter|n.|背棄者；脫黨者；逃亡者|86|脱走兵；離反者；逃亡者|d|||
 desertion|n.|丟掉；遺棄；逃亡|86|遺棄；脱走；離反|d|||
 detainee|n.|被拘留者；被扣押者|86|被拘束者；収容者|d|||
-devilish|adj.|魔鬼似的；該咒罵的；可惡的；非常|86|魔性；デモーニッシュ|b|That magazine article exposed his devilish acts to the full light of day.||その雑誌の記事で彼の悪業は白日の下にさらされましたね。
+devilish|adj.|魔鬼似的；該咒罵的；可惡的；非常|86|悪魔のような；非常に|v|That magazine article exposed his devilish acts to the full light of day.||その雑誌の記事で彼の悪業は白日の下にさらされましたね。
 diabolical|adj.|惡魔的|86|悪魔の；極悪な|h|||
 dike|n.|堤防；築堤防護|86|堤防；防壁を築く|h|||
 dinghy|n.|小船；橡皮筏；小艇|86|ディンギー|a|||
@@ -18139,7 +18139,7 @@ expediency|n.|權宜；方便；私利|86|便宜；方便；私利|d|||
 explicate|v.|詳細說明；解釋；說明|86|詳しく説明する；解説する|h|||
 exploitative|adj.|開發的；剝削的；利用的|86|搾取的な；利用する|h|Exploitative companies are avoided by the workforce.||ブラック企業は労働者から敬遠されます。
 exult|v.|非常高興；歡欣|86|大いに喜ぶ；歓喜する|h|The people exulted over their good luck.|人們都為他們的好運感到十分高興。|人々は彼らの幸運を喜んだ。
-eyelash|n.|睫毛|86|アイラッシュ|b|He sank the deal without batting an eyelash.||彼は平然と取引をつぶしました。
+eyelash|n.|睫毛|86|まつげ|v|He sank the deal without batting an eyelash.||彼は平然と取引をつぶしました。
 fiddler|n.|拉提琴的人；遊蕩者；騙子|86|バイオリン弾き；怠け者；詐欺師|h|||
 fiend|n.|魔鬼；邪神；能手|86|悪魔；鬼；名人|d|As he stood there he might have been a fiend.||そこに立った彼はあたかも悪鬼のようだった。
 flaky|adj.|薄片的；成片的；薄而易剝落的|86|薄片状の；もろい|h|||
@@ -18171,7 +18171,7 @@ gnat|n.|小昆蟲；蚊子；小煩擾|86|ブユ；小さな虫；小さな煩�
 gooey|adj.|膠粘的；自作多情的；膠粘物；性格軟弱的人|86|ネチャネチャ|b|Toasted marshmallows are gooey and delicious.||焼いたマシュマロはねちょねちょして美味しい。
 grainy|adj.|有紋理的；粒狀的；多粒的|86|粒状の；ざらざらした|h|||
 gravitate|v.|被重力吸引；沉下；下降；使受重力吸引|86|引き寄せられる；沈む|h|||
-greenery|n.|綠葉；綠樹；裝飾用的綠樹枝或葉|86|緑；観葉植物|d|There's a lot of greenery in Tokyo Midtown!||東京ミッドタウンは緑がいっぱい！
+greenery|n.|綠葉；綠樹；裝飾用的綠樹枝或葉|86|緑樹；草木；観葉植物|v|There's a lot of greenery in Tokyo Midtown!||東京ミッドタウンは緑がいっぱい！
 grievous|adj.|痛苦的；嚴重的；充滿悲傷的|86|重大な；悲痛な；嘆かわしい|h|||
 grout|n.|薄泥漿；水泥漿；用薄泥漿填塞；用鼻子拱|86|グラウト|b|||
 guesthouse|n.|賓館；高階寄宿舍；招待所|86|ゲストハウス|b|||
@@ -18208,7 +18208,7 @@ hydropower|n.|水力發出的電力|86|水力発電；水力電力|h|||
 hypoxia|n.|低氧症|86|低酸素症|d|||
 idealist|n.|理想主義者；唯心主義者；唯心論的；理想主義的|86|理想主義者；観念論者|h|I'm an idealist. I don't know where I'm going, but I'm on my way.||私は理想主義者だ。自分がどこに向かっているのかは分からないが、どこかに向かっているのは確かだ。
 imbecile|adj.|低能的；愚鈍的；虛弱的；低能者|86|愚かな；知能の低い；愚か者|h|Man is the only animal subject to becoming an imbecile.||ヒトは、バカになってしまう唯一の対象種です。
-immeasurable|adj.|不可測量的；無限的；廣大無邊的|86|無量|a|The internet is an immeasurable resource of information.|網際網路是一種無法估量的資訊資源。|
+immeasurable|adj.|不可測量的；無限的；廣大無邊的|86|計り知れない；無限の|v|The internet is an immeasurable resource of information.|網際網路是一種無法估量的資訊資源。|
 immorality|n.|不道德；道德敗壞；不道德的行為|86|不道徳；不義|b|||
 immutable|adj.|不可變的；不變的；不能變的|86|不変の；変えられない|h|This is an immutable truth.||これ不変の真理なり。
 impresario|n.|演出者；主持人|86|興行主；プロモーター|d|||
@@ -18226,7 +18226,7 @@ infamy|n.|聲名狼藉；醜惡|86|悪名；不名誉；醜悪さ|h|||
 infarction|n.|血塊的構成|86|梗塞|d|||
 ingestion|n.|攝取|86|摂取；飲み込み|d|||
 ingrained|adj.|根深蒂固的；徹底的；深染的|86|根深い；染みついた|d|To what extent is Halloween ingrained into Australian culture?||オーストラリアではハロウィンってどれくらい定着してるんですか？
-injector|n.|注射者；注射器；注水器|86|インジェクター|b|||
+injector|n.|注射者；注射器；注水器|86|インジェクター；噴射装置；注射器|v|||
 inquisitor|n.|詢問者；審問者；檢察官|86|尋問者；審問官|d|||
 inset|n.|插入物；插頁；插圖；嵌入|86|挿入物；挿絵；はめ込む|h|||
 intensively|adv.|強烈地；集中地|86|集中的に；強烈に|h|Yumi is studying English intensively.||裕美さんは、英語を猛勉強してます。
@@ -18269,7 +18269,7 @@ machined|v.|用機器製造；用機器加工|86|機械で加工された|h|||
 maliciously|adv.|有敵意地；惡意地|86|悪意をもって|h|||
 manipulator|n.|操作者；機械手|86|マニピュレータ|b|||
 mauve|n.|苯胺紫；淡紫色；淡紫色的|86|モーブ|b|Heather flowers are usually mauve.|石楠花通常是淡紫色的。|
-meaningfully|adv.|意味深長地|86|ニヤリ|b|||
+meaningfully|adv.|意味深長地|86|意味深長に；有意義に|v|||
 meatball|n.|肉團；愚蠢；飛機降落目標|86|肉団子；間抜け；着陸目標|d|My grannie was crazy good at making meatballs.||うちのおばあちゃん、肉団子作るのすごく上手だったのよ。
 menagerie|n.|動物園；野生動物|86|動物園；野生動物の集まり|h|||
 mentorship|n.|導師制；輔導教師；師徒制|86|指導者の役割；師弟関係|h|The camp counselors are supposed to provide guidance and mentorship to the students.|營輔員應負責為學生提供指引和輔導。|
@@ -18282,7 +18282,7 @@ methinks|v.|我想；我以為；據我看來|86|私が思うに|h|But, soft! Me
 microchip|n.|微型積體電路片；微片；晶片|86|マイクロチップ；集積回路|d|||
 micron|n.|微米|86|ミクロン；マイクロン|a|||
 middleman|n.|中間人|86|仲買人；仲介人|h|||
-minion|n.|奴才；寵臣|86|ミニオン|b|He is just a minion of the minister.||彼は大臣の腰ぎんちゃくだ。
+minion|n.|奴才；寵臣|86|手下；子分；お気に入り|v|He is just a minion of the minister.||彼は大臣の腰ぎんちゃくだ。
 misnomer|n.|取名不當|86|誤った名称|h|||
 misshapen|adj.|造型不佳的；醜惡的；畸形的|86|形の崩れた；醜い|h|Do you hate misshapen vegetables?||いびつな野菜はお嫌いですか？
 modicum|n.|少量|86|少量；わずか|h|||
@@ -18327,7 +18327,7 @@ peachy|adj.|桃似的；桃色的；出色的|86|素晴らしい；桃色の|h||
 pearly|adj.|珍珠似的；產珍珠的；用珍珠裝飾的|86|真珠のような；真珠で飾られた|h|||
 penniless|adj.|赤貧的；貧窮的|86|無一文；文無し|b|The failure in business left me penniless.|生意上的失敗讓我身無分文。|仕事に失敗して私は文無しになった。
 pensioner|n.|領取撫卹金者；自費生；為金錢所收買的人|86|年金受給者；自費生|d|||
-personage|n.|重要人士；顯要；名士|86|御仁|b|||
+personage|n.|重要人士；顯要；名士|86|重要人物；名士；登場人物|v|||
 perversion|n.|走入邪路；敗壞；墮落|86|倒錯|a|||
 phalanx|n.|方陣；密集佇列；密集的人群|86|ファランクス|b|||
 photogenic|adj.|發光的；由於光而產生的；適宜於拍照的|86|フォトジェニック|b|I think Tom is photogenic.|我覺得湯姆很上鏡。|トムは写真映えがすると思う。
@@ -18390,7 +18390,7 @@ schumann|n.|舒曼|87|シューマン|h|||
 scrappy|adj.|雜湊的；不連貫的；愛打架的|87|まとまりのない；けんか好きな|h|Wow, you're really in a bad mood. Don't get scrappy.||えらくご機嫌ななめね、けんか腰にならないで。
 screech|n.|尖聲喊叫；尖叫聲；煞車聲；尖聲講|87|金切り声；急ブレーキの音；金切り声で言う|h|The blue sports car came to a screeching halt.||青いスポーツカーはキーと音を立てて止まった。
 scrotum|n.|陰囊|87|ふぐり|b|||
-scruffy|adj.|不整齊的；骯髒的；破舊的|87|ばんカラ|b|||
+scruffy|adj.|不整齊的；骯髒的；破舊的|87|みすぼらしい；むさくるしい|v|||
 sequentially|adv.|繼續地；從而|87|順次に；連続して|h|||
 serpentine|adj.|蛇的；層層卷繞的；陰險的；蛇紋石|87|蛇のような；曲がりくねった；蛇紋石|d|||
 seton|n.|洩液線|87|排膿用の線；セトン|h|||
@@ -18400,7 +18400,7 @@ sheng|n.|笙|87|笙|h|||
 shoo|int.|噓；發出噓聲趕|87|しっ；追い払う|h|He shooed the flies away.||彼はハエを追い払った。
 shortness|n.|短小；簡略；不足|87|短いこと；不足|h|Have you experienced shortness of breath recently?||最近、息切れを感じたことはありますか？
 shuck|n.|殼；外皮；牡蠣殼；剝去|87|殻；外皮；殻をむく|h|||
-simile|n.|明喻；明喻說法|87|比喩；直喩|a|Can't we use a simile here?||何かにたとえられないでしょうか。
+simile|n.|明喻；明喻說法|87|直喩|v|Can't we use a simile here?||何かにたとえられないでしょうか。
 skittish|adj.|易驚的；輕佻的；三心二意的|87|驚きやすい；気まぐれな|h|||
 slog|n.|猛擊；苦幹；跋涉|87|猛打；重労働；ぬかるみを進む|h|||
 smelter|n.|熔鑄工；冶煉者；熔爐|87|精錬工；精錬所|h|||
@@ -18422,7 +18422,7 @@ stateless|adj.|沒有國家的|87|無国籍の|h|||
 stateside|adj.|大陸美國的；美國國內的；在大陸美國|87|アメリカ本土の；国内の|h|||
 statistician|n.|統計員；統計學家|87|統計学者；統計員|d|||
 stepson|n.|妻與前夫所生的兒子；夫與前妻所生的兒子|87|継子；義理の息子|h|||
-stoker|n.|司爐；加煤機；自動添煤裝置|87|ストーカー|b|||
+stoker|n.|司爐；加煤機；自動添煤裝置|87|火夫；自動給炭機|v|||
 straggle|v.|掉隊；落伍；蔓延；低空掃射|87|落伍する；散らばる；はびこる|h|||
 stunningly|adv.|絕妙地；極好地；令人震驚地|87|驚くほど；見事に|h|||
 stupor|n.|無感覺；人事不省；麻木|87|昏迷；茫然自失；麻痺|d|The patient is in a state of profound stupor.|患者現在處於深度昏迷狀態。|患者は深い昏睡状態にあります。
@@ -18460,10 +18460,10 @@ trier|n.|試驗者；試驗物；審問者|87|努力家；試験者；審理者|
 trippy|adj.|由致幻藥引起幻覺的|87|幻覚を起こさせる；サイケデリックな|h|||
 trotsky|n.|托洛茨基|87|トロツキー|h|||
 truism|n.|自明之理；眾所周知；老生常談|87|自明の理；決まり文句|d|||
-truss|v.|捆綁；捆；束|87|トラス|b|The girls were trussed up and left in a cellar.||少女たちは縛り上げられて地下室に放置された。
+truss|v.|捆綁；捆；束|87|トラス；束ねる；縛る|v|The girls were trussed up and left in a cellar.||少女たちは縛り上げられて地下室に放置された。
 tryout|n.|試驗；試用；選拔賽|87|トライアウト|b|||
 tuba|n.|大號|87|チューバ|b|||
-tumbler|n.|平底玻璃杯；一杯的容量；雜技演員|87|起き上がりこぼし|a|||
+tumbler|n.|平底玻璃杯；一杯的容量；雜技演員|87|タンブラー；グラス；軽業師|v|||
 turbocharged|v.|用渦輪給增壓|87|ターボ付きの；過給された|h|||
 turmeric|n.|薑黃；薑黃根粉末|87|うこん；ターメリック|b|Tom wanted to know where he could buy turmeric.|湯姆想知道哪裡能買到薑黃。|
 twofold|adj.|兩倍的；兩重的；兩倍地；兩重地|87|二倍の；二重の；二倍に|h|||
@@ -18481,7 +18481,7 @@ undersea|adj.|海面下的；在海面下|87|海中の；海底の；海中で|h
 undress|v.|使脫衣服；暴露；使卸去裝飾；脫衣服|87|服を脱がせる；服を脱ぐ|h|It's slippery in the undressing area, so be careful.||脱衣場は滑りやすいので、注意しましょう。
 unfiltered|adj.|未濾過的|87|濾過していない；飾り気のない|h|||
 uninteresting|adj.|引不起興趣的；無趣味的；乏味的|87|おもんない|b|Such a lifestyle appears rather uninteresting to Americans.||このような生き方は、アメリカ人から見ればあまり面白いものには見えない。
-uninvited|adj.|未被邀請的；未經請求的|87|押しかけ|b|I felt as if I were an uninvited guest.|我覺得自己像是不請自來似的。|私はまるで招かれざる客のような気がした。
+uninvited|adj.|未被邀請的；未經請求的|87|招かれざる；勝手に来た|v|I felt as if I were an uninvited guest.|我覺得自己像是不請自來似的。|私はまるで招かれざる客のような気がした。
 unmoved|adj.|沒有動過的；不動搖的；堅決的|87|動じない；心を動かされない|h|The story left him unmoved.||その話を読んでも彼は感動しなかった。
 unobtrusive|adj.|不唐突的；不引人注目的；謙虛的|87|目立たない；控えめな|h|||
 unpunished|adj.|不受處罰的；免去刑法的|87|罰せられない|h|||
@@ -18493,7 +18493,7 @@ upstage|adj.|在舞臺後部的；傲慢的；自負的；在舞臺後方|87|舞
 upsurge|v.|高漲；湧起；增長；高潮|87|急上昇；高まり；急増する|d|||
 urea|n.|尿素|87|ユリア；尿素|a|||
 urethra|n.|尿道|87|尿道|b|||
-vamp|n.|鞋面；蕩婦；修補；拼湊|87|バンプ|b|||
+vamp|n.|鞋面；蕩婦；修補；拼湊|87|バンプ；靴の甲；妖婦|v|||
 vandalize|v.|肆意破壞|87|破壊行為を行う；損壊する|h|||
 vaudeville|n.|雜耍；輕歌舞劇|87|ヴォードビル；寄席|h|||
 veda|n.|吠陀經；吠陀本集|87|ヴェーダ|b|||
@@ -18507,7 +18507,7 @@ weighty|adj.|重的；有份量的；沉重的|87|重い；重大な；影響力
 welt|n.|貼邊；鞭痕；毆打；加貼邊|87|縁飾り；みみず腫れ；殴る|d|||
 welterweight|n.|次中量級拳擊手；次中量級摔交運動員|87|ウェルター級の選手；ウェルター級|h|||
 whet|n.|磨；開胃小吃；磨快|87|研ぐこと；食欲を増す軽食；研ぐ|d|That really whets my appetite.|那很開胃。|
-whimsy|n.|怪念頭；離奇的東西；反覆無常|87|放漫|b|||
+whimsy|n.|怪念頭；離奇的東西；反覆無常|87|気まぐれ；奇想；思いつき|v|||
 womanhood|n.|女子成年身分；女子成年期；女子成年資格|87|成人女性であること；女性らしさ|h|She is now in the prime of womanhood.||彼女は今女盛りだ。
 wonky|adj.|不穩的；搖晃的；靠不住的|87|ぐらぐらした；当てにならない|h|||
 wop|n.|義大利移民|87|イタリア移民|h|||
@@ -18566,7 +18566,7 @@ batty|adj.|瘋癲的；古怪的；蝙蝠的|87|頭のおかしい；風変わ�
 beaker|n.|大口酒杯；燒杯|87|ビーカ|a|||
 bellow|v.|怒吼|87|怒鳴る；吠える|h|The lion bellows out a roar.||ライオンはとどろくようなうなり声を上げる。
 benediction|n.|祝福|87|祝福；祈りの言葉|h|||
-benevolence|n.|善意；慈悲；善行|87|仁；仁徳|a|||
+benevolence|n.|善意；慈悲；善行|87|慈悲；善意；博愛|v|||
 beseech|v.|懇求；哀求|87|懇願する；嘆願する|h|I do beseech you, hear me through.||お願いいたします、最後までお聞きください。
 bhopal|n.|博帕爾|87|ボパール|h|||
 bicentennial|n.|二百年；每二百年|87|二百年祭；二百年の|h|||
@@ -18590,7 +18590,7 @@ bullseye|n.|靶眼；圓心；牛眼燈|87|的の中心；丸い天窓；大成�
 bunt|n.|頂撞；推；輕打|87|バント|a|The manager sent the bunt sign to the batter.||監督は打者にバントのサインを送った。
 burly|adj.|結實的；粗壯的；率直的|87|たくましい|a|||
 burp|n.|飽嗝兒；打嗝；打飽嗝|87|げっぷ；げっぷをする|d|||
-bute|n.|保泰松|87|ブタゾリジン|h|||
+bute|n.|保泰松|87|フェニルブタゾン|v|||
 candlestick|n.|蠟杆；蠟燭架|87|燭台|b|The darkest place is under the candlestick.||灯台下暗し。
 canvass|n.|細查；討論；遊說；徹底檢查|87|詳しく調べる；議論する；遊説する|h|I canvassed the whole town for orders.||私は注文を取りに町中を回った。
 carcinogenic|adj.|致癌作用；癌發生|87|発がん性の|h|However, these solvents were identified as carcinogenic.||しかしながら、これらの溶剤は発がん性が指摘された。
@@ -18599,11 +18599,11 @@ castration|n.|去雄蕊；修正；閹割|87|去勢|b|||
 cathartic|n.|瀉藥；通便藥；通便的；導瀉的|87|下剤の；浄化作用のある；下剤|h|||
 cation|n.|陽離子|87|カチオン|b|||
 caudal|adj.|尾部的；近尾部的|87|尾の；尾に近い|h|||
-cavalier|n.|騎士；騎手|87|騎士；騎兵；横柄な|h|||
+cavalier|n.|騎士；騎手|87|騎士；横柄な；無頓着な|v|||
 cellulite|n.|脂肪團|87|セルライト|d|||
 centipede|n.|百腳|87|むかで|b|How many legs do three centipedes have?||3匹のムカデの足は、全部で何本あるでしょうか？
 centrifuge|n.|離心機；使受離心作用；用離心機分離|87|遠心；遠心分離機|b|||
-chalice|n.|酒杯；聖餐杯|87|カリス|b|||
+chalice|n.|酒杯；聖餐杯|87|聖杯；ゴブレット|v|||
 chiffon|n.|雪紡綢；薄綢；女子服裝裝飾品；用薄綢製成的|87|シフォン|a|||
 chloroform|n.|氯仿；用氯仿麻醉|87|クロロホルム|b|||
 chromatin|n.|核染質；染色質|87|クロマチン|b|||
@@ -18720,7 +18720,7 @@ grasping|adj.|抓的；握的；貪婪的|87|握り；掌握|a|||
 greening|n.|綠皮蘋果；恢復活力|87|緑化|a|||
 greenway|n.|<主美>林蔭道路；園林路|87|緑道；並木道|d|||
 gridlock|n.|交通全面大堵塞；僵局；堵塞|87|交通の大渋滞；行き詰まり|h|||
-grounded|adj.|接地的；有基礎的|87|地に足のついた；接地された|h|She grounded her students thoroughly in English grammar.||彼女は学生に英文法の基礎を十分に教え込んだ。
+grounded|adj.|接地的；有基礎的|87|地に足のついた；外出禁止の；接地された|v|She grounded her students thoroughly in English grammar.||彼女は学生に英文法の基礎を十分に教え込んだ。
 guarantor|n.|保證人|87|保証人|a|I will be your guarantor.|我當你的擔保人.|君の保証人になりましょう。
 guillotine|n.|斷頭臺；截斷機；切除器；用斷頭臺斬首|87|ギロチン|a|Charles I of England was executed by guillotine.||チャールズ１世は断頭台で処刑された。
 halter|n.|韁繩；籠頭|87|手綱；首輪；ホルターネックの服|h|Traffic was halted for several hours.||事故で交通は数時間止められた。
@@ -18762,9 +18762,9 @@ indecisive|adj.|非決定性的；猶豫不決的；不明確的|87|優柔不断
 ineptitude|n.|不適當；愚笨；愚昧言行|87|不器用さ；愚かさ；無能|h|||
 infantile|adj.|嬰兒的；幼稚的；初期的|87|幼稚な；乳児の；初期の|h|||
 infernal|adj.|陰間的；惡魔的|87|地獄の；悪魔の；忌まわしい|h|||
-ingress|n.|進入；入口；准許進入|87|イングレス|b|||
+ingress|n.|進入；入口；准許進入|87|進入；入口；入場権|v|||
 insubstantial|adj.|脆弱的；無實體的；非實質的|87|実体のない；頼りない|h|||
-intensification|n.|增強；強化|87|激化|a|||
+intensification|n.|增強；強化|87|強化；激化；増強|v|||
 interconnection|n.|互相連絡|87|相互接続；相互の結びつき|d|||
 interplanetary|adj.|行星間的；太陽系內的|87|惑星間の|h|||
 interwoven|v.|互相編織|87|織り込まれた；密接に絡み合った|h|||
@@ -18772,7 +18772,7 @@ ironclad|adj.|裝甲的；鐵定的|87|装甲の；確固たる；鉄製の|h|||
 isometric|adj.|立方的；等體積的；等容積的|87|アイソメトリック|b|||
 jacky|n.|水手；杜松子酒|87|水夫；ジンの俗称|h|||
 jewell|v.|用寶石裝飾|87|宝石で飾る|h|||
-jib|n.|船首三角帆；鐵臂；移轉；躊躇不前|87|ジブ|a|||
+jib|n.|船首三角帆；鐵臂；移轉；躊躇不前|87|ジブ；三角帆；しりごみする|v|||
 juke|v.|用假動作誘使|87|欺く；フェイントをかける|h|||
 justifiably|adv.|無可非議地|87|正当に；もっともに|h|||
 jute|n.|朱特人；朱特族；黃麻|87|ジュート；黄麻|b|||
@@ -18794,7 +18794,7 @@ lymphatic|adj.|淋巴的；淋巴性的；淋巴腺；淋巴管|87|リンパの�
 mallard|n.|綠頭鴨；綠頭鴨肉|87|まがも|b|||
 malnourished|adj.|營養失調的；營養不良的|87|栄養失調の|h|||
 manna|n.|嗎哪天賜食物；精神食糧；甘露|87|マナ；マンナ|b|||
-manta|n.|女用披巾；外套|87|マンタ|b|Tom swam with the manta rays.||トムはマンタと一緒に泳いだ。
+manta|n.|女用披巾；外套|87|マンタ；オニイトマキエイ；マント|v|Tom swam with the manta rays.||トムはマンタと一緒に泳いだ。
 mariachi||墨西哥流浪樂隊藝人；墨西哥流浪樂隊|87|マリアッチ|b|||
 marquess|n.|侯爵；侯爵長子的尊稱|87|侯爵|d|||
 matchmaker|n.|火柴製造者；媒人；安排比賽的人|87|仲人；媒酌人|a|||
@@ -18840,7 +18840,7 @@ nutter|n.|瘋子；拾堅果的人|87|変人；ばか者|h|||
 obelisk|n.|方尖塔；劍號；疑問記號|87|オベリスク|b|||
 obsessively|adv.|過分地；著迷地；著魔似地|87|強迫的に；取り憑かれたように|h|||
 oceanographic|adj.|海洋學|87|海洋学の|h|||
-ogle|n.|眉目傳情；挑逗地注視|87|色目；じろじろ見る|d|||
+ogle|n.|眉目傳情；挑逗地注視|87|色目を使う；じろじろ見る|v|||
 omniscient|adj.|全知的；無所不知的；無所不知者；上帝|87|全知の；すべてを知る|h|||
 orangutan||猩猩|87|オランウータン；猩々|a|||
 outlay|n.|費用；經費；支出；花費|87|支出；費用|h|||
@@ -18897,7 +18897,7 @@ psychoanalytic|adj.|精神分析的|87|精神分析の|h|||
 purgatory|n.|滌罪；煉獄；滌罪的|87|煉獄|b|Marriage, in peace, is this world's paradise; in strife, this life's purgatory.||結婚は、睦まじければ理想郷、争い絶えねば生き地獄。
 puri|n.|宮；宮殿|87|宮殿；宮|h|||
 quadrangle|n.|四角形；四邊形；四方院|87|四角形；中庭|d|||
-quickness|n.|急速；迅速；速度|87|敏速|a|||
+quickness|n.|急速；迅速；速度|87|素早さ；敏速さ；機敏さ|v|||
 quilted|adj.|縫攏了的；絎縫過的|87|キルティングの；綿入れの|h|The cold soon penetrated his quilted jacket.||寒さがじきに彼のキルトの上着を貫通して体に伝わってきた。
 raceway|n.|水道；座圈|87|水路；周回路|h|||
 radiocarbon|n.|放射性碳；碳-14|87|放射性炭素；炭素14|d|||
@@ -18939,10 +18939,10 @@ savoury|adj.|風味極佳的；可口的；味香的；開胃菜|87|風味の良
 scaly|adj.|有鱗的；鱗狀的；覆有鱗片的|87|鱗状|b|||
 schilling|n.|先令|87|シリング|b|||
 scoot|v.|快跑；奔跑|87|さっと走る；急ぐ|h|Excuse me, but could you scoot over a little bit, please?||恐れ入りますが席をちょっとお詰めください。
-scratchy|adj.|潦草的；刺痛的；發癢的|87|引っかく；ちくちくする；雑な書き方|h|My throat feels dry and raw and scratchy.|我的喉嚨又乾又紅、又痛又癢。|喉がいがらっぽい感じがします。
+scratchy|adj.|潦草的；刺痛的；發癢的|87|引っかくような；ちくちくする；雑な|v|My throat feels dry and raw and scratchy.|我的喉嚨又乾又紅、又痛又癢。|喉がいがらっぽい感じがします。
 scriptural|adj.|聖經的；依據聖經的|87|聖書の；聖書に基づく|h|||
 scrolled|adj.|具有渦卷裝飾的；彎曲的|87|渦巻き模様の；巻物状の|h|||
-seedy|adj.|多種子的；結籽的；破爛的|87|種のある；むさくるしい；みすぼらしい|h|||
+seedy|adj.|多種子的；結籽的；破爛的|87|みすぼらしい；うらぶれた；種の多い|v|||
 selectivity|n.|選擇性；選擇度|87|選択性；選択度|h|||
 senile|adj.|高齡的；衰老的；老年期的|87|老人性|a|He had grown senile recently.||彼はこのごろ頭がぼけてきた。
 sensuality|n.|耽於聲色；淫蕩；好色|87|色好み|b|||
@@ -18950,7 +18950,7 @@ sentimentality|n.|多愁善感|87|感傷；センチメンタルさ|d|||
 serenade|n.|小夜曲；唱小夜曲|87|セレナーデ；小夜曲|a|||
 serviceable|adj.|有用的；耐用的|87|役に立つ；丈夫な；使用可能な|h|||
 sherpa|n.|夏爾巴人|87|シェルパ|b|||
-sizzle|v.|發出嘶嘶聲；燒灼|87|シズル|b|||
+sizzle|v.|發出嘶嘶聲；燒灼|87|ジュージューいう；焼ける|v|||
 sleet|n.|雨夾雪；下雨夾雪|87|みぞれ|b|||
 slippage|n.|滑移；滑動；滑程|87|滑り；ずれ；目標未達|d|||
 slugger|n.|打擊力強的選手；重擊者|87|スラッガー|b|The center fielder shifted his position for the slugger.||その強打者に備えてセンターは守備位置を変えた。
@@ -19047,7 +19047,7 @@ urinate|v.|小便；撒尿|88|排尿する|h|I urinate a tremendous amount at a 
 urology|n.|泌尿科學|88|泌尿器科|d|||
 verily|adv.|真正地；真實地|88|確かに；まことに|h|||
 verity|n.|真實；真理；忠誠|88|真実；真理；誠実|h|||
-vermin|n.|害蟲；歹徒|88|害鳥|b|||
+vermin|n.|害蟲；歹徒|88|害虫；害獣；ゴロツキ|v|||
 vertebral|adj.|椎骨的；脊椎的；由椎骨構成的|88|椎骨の；脊椎の|h|||
 viennese|adj.|維也納的；維也納人的；維也納式的|88|ウィーンの；ウィーン人の；ウィーン風の|h|||
 vise|n.|虎鉗；鉗住|88|バイス；万力|b|||
@@ -19108,7 +19108,7 @@ backstreet|n.|后街小巷；偷偷摸摸的；非法的|88|裏通り；ひそ�
 balsamic|adj.|香膏質的；如香油的；鎮靜的|88|バルサミコ|b|Tom bought a bottle of balsamic vinegar in Modena.||トムはモデナでバルサミコを買ったよ。
 bandana|n.|大手帕|88|バンダナ|b|Tom is wearing a blue bandana on his head.||トムは頭に青いバンダナをしている。
 bane|n.|禍根；毒藥；滅亡的原因|88|災いの種；毒；破滅の原因|h|||
-banishment|n.|放逐；驅逐|88|中流；流罪|b|||
+banishment|n.|放逐；驅逐|88|追放；流刑|v|||
 barbarism|n.|野蠻；未開化|88|野蛮；未開|h|Each man calls barbarism whatever is not his own practice.||己の慣習でないものを、人は野蛮と呼ぶ。
 bareback|adj.|不用鞍的；不用馬鞍地|88|鞍なしの；鞍なしで|h|||
 barf|v.|嘔吐|88|吐く；嘔吐|h|||
@@ -19119,7 +19119,7 @@ beachfront|n.|海濱地區；靠海濱的|88|海浜地域；海辺の|h|||
 beastly|adj.|野獸的；殘忍的；令人厭憎的|88|獣のような；残忍な；ひどく不快な|h|||
 beefy|adj.|多肉的；象牛肉的；粗壯的|88|肉付きの良い；牛肉のような；がっしりした|h|||
 billet|n.|兵舍；軍營；木柴|88|ビレット|b|Every bullet has its billet.||鉄砲玉に当たるも当たらぬもみな運命だ。
-bim|n.|女子|88|女性|h|||
+bim|n.|女子|88|女性；娘|v|||
 blissfully|adv.|幸福地；充滿喜悅地|88|幸福に；喜びに満ちて|h|||
 bloodied|v.|血汙的；流血的；屠殺的|88|血まみれの；血を流した；虐殺された|h|||
 bluster|v.|風狂吹；咆哮；洶湧；咆哮著說出|88|吹きすさぶ；怒鳴る；荒々しく言う|h|||
@@ -19162,7 +19162,7 @@ condensate|n.|聚合物；冷凝物；冷凝液|88|凝縮物；凝結液|d|||
 congeal|v.|凍結；凝結|88|こごる|b|||
 conjoin|v.|結合；連結；聯合|88|結合する；連結する；提携する|h|||
 conjugal|adj.|婚姻的；配偶的|88|夫婦の；婚姻の|h|||
-conjugation|n.|結合；配合；動詞的詞形變化|88|共役；抱合|b|In the Russian language, conjugation is very complex.|在俄語中，動詞變化非常複雜。|ロシア語では、動詞の活用がとても複雑です。
+conjugation|n.|結合；配合；動詞的詞形變化|88|活用；語形変化；接合|v|In the Russian language, conjugation is very complex.|在俄語中，動詞變化非常複雜。|ロシア語では、動詞の活用がとても複雑です。
 controversially|adv.|頗有爭議地；引起爭議地|88|物議を醸して；論争を呼んで|h|||
 convening|v.|召開；召集；聚集|88|召集|a|||
 cornucopia|n.|豐盛|88|豊富；豊穣の角|d|||
@@ -19202,7 +19202,7 @@ domicile|n.|住所；住宅；定居|88|家宅|a|The company moved its corporate
 doodle|v.|塗鴉；混時間；傻子|88|落書きする；ぼんやり描く；ばか者|h|The various animals started going, "Woof, woof!" and "Meow, meow!" and "Cock-a-doodle-doo!"||「ワンワンッ！」「ニャーニャー！」「コケコッコー！」と、動物たちが一斉に鳴き始めた。
 doting|adj.|偏愛的；溺愛的|88|可愛がり；子煩悩|b|He is not your common doting parent.||彼はいわゆるありふれた親ばかではない。
 drape|n.|布簾；褶皺；用布簾覆蓋；披上|88|ドレープ|b|||
-dreamland|n.|夢境；夢鄉；睡眠|88|夢路|b|||
+dreamland|n.|夢境；夢鄉；睡眠|88|夢の国；夢心地；睡眠|v|||
 drunkard|n.|酒鬼|88|酔いどれ；飲んだくれ|b|Tom noticed a drunkard lying in the street.||トムは、酔っぱらいが道に横になってるのに気付いた。
 duckling|n.|小鴨子|88|子ガモ|d|An ugly duckling became a graceful swan.||醜いアヒルの子は優雅な白鳥となった。
 duster|n.|撣子；打掃灰塵的人|88|はたき；ダスター|a|||
@@ -19212,7 +19212,7 @@ elan|n.|<法>銳氣；熱忱|88|気迫；熱意|h|||
 electronica|n.|電子樂；電子音樂|88|エレクトロニカ；電子音楽|h|||
 embarrassingly|adv.|使人尷尬地；使人為難地；使人難堪地|88|恥ずかしながら|b|||
 embattled|adj.|處於交戰中的；受圍攻的；嚴陣以待的；列陣|88|交戦中の；包囲された；防備を固めた|h|||
-embolism|n.|閏日；栓塞|88|うるう|b|||
+embolism|n.|閏日；栓塞|88|塞栓症；閏日|v|||
 emirate|n.|埃米爾的地位；酋長國|88|首長国；首長の地位|d|||
 enabler|n.|使能器；使能者；促成者|88|可能にするもの；促進者|h|||
 enamored|adj.|傾心於...的；被迷住的；迷戀的|88|夢中になった；惚れ込んだ|h|He was enamored of the girl.|我迷上一個女孩。|彼はその娘にほれこんだ。
@@ -19235,14 +19235,14 @@ excellently|adv.|極好地；優異地|88|すばらしく；見事に|h|She’s 
 expunge|v.|擦掉；刪掉；除去|88|消す；削除する；取り除く|h|||
 extrusion|n.|擠出；推出；趕出|88|押し出し；追い出し|d|||
 fervently|adv.|熱烈地；熱情地；強烈地|88|熱烈に；熱心に|h|I'm so happy that my call has been so fervently welcomed.||私の呼びかけが、これほどまでに熱烈に歓迎されて、うれしく思います。
-fervour|n.|熾熱；熱誠；熱情|88|気勢|a|Thanks to Haruna's "weather mode" Kaori's fervour was greatly dampened.||すっかり春奈のお天気モードのおかげで香の気勢が殺げているな。
+fervour|n.|熾熱；熱誠；熱情|88|熱意；熱情；白熱|v|Thanks to Haruna's "weather mode" Kaori's fervour was greatly dampened.||すっかり春奈のお天気モードのおかげで香の気勢が殺げているな。
 feudalism|n.|封建主義；封建制度|88|封建主義；封建|a|||
 flirtation|n.|調情；挑逗；調戲|88|ちょっかい；ふざけた恋愛；いちゃつき|h|||
 flirtatious|adj.|愛調戲的；輕浮的|88|色目を使う；軽薄な|h|||
 flue|n.|煙洞；煙道；暖氣管|88|煙道；煙突；暖房管|d|||
 flywheel|n.|飛輪；慣性輪|88|フライホイール|a|||
 foetus|n.|胚胎；胎兒|88|胎児；胎芽|d|The role of the placenta is to nourish the foetus.|胎盤的角色是滋養胎兒。|
-formulaic|adj.|公式的；用俗套話堆砌成的；刻板的|88|紋切り型|a|||
+formulaic|adj.|公式的；用俗套話堆砌成的；刻板的|88|型にはまった；定型的な|v|||
 fortnightly|adj.|每兩星期一次的；隔週發行的；雙週刊|88|隔週の；隔週刊の；隔週刊誌|h|This magazine is out fortnightly on Wednesdays.||この雑誌の発売日は、隔週水曜日です。
 foursome|n.|四人的一組；四人對抗賽；四人做的；由四組成的|88|四人組；四人対抗戦|d|||
 francophone|n.|操法語者；講法語的人|88|フランス語話者；フランス語圏の人|h|Are there francophones in Canada?|在加拿大有人說法語嗎？|
@@ -19320,7 +19320,7 @@ inst||立刻的；學院；機構|88|即座の；研究所；機関|h|||
 insufficiently|adv.|不夠地；不能勝任地|88|不十分に；能力不足に|h|||
 intercession|n.|仲裁；調解；說情|88|仲裁；とりなし；嘆願|d|||
 interferon|n.|干擾素|88|インターフェロン|b|||
-interment|n.|埋葬；土葬|88|斂葬|b|||
+interment|n.|埋葬；土葬|88|埋葬；土葬|v|||
 interstitial|adj.|空隙的；裂縫的；有空隙的|88|隙間の；間質の|h|||
 inverter|n.|倒轉者；換流器；反相器|88|インバーター|a|||
 iridium|n.|銥|88|イリジウム|b|Iridium is one of the rarest elements.||イリジウムは最も希少な元素のひとつだ。
@@ -19365,7 +19365,7 @@ manhole|n.|人孔|88|マンホール|a|Manholes are round because that way they 
 marigold|n.|萬壽菊；金盞花|88|マリーゴールド|b|The marigold rises with the sun.||マリーゴールドは太陽とともに起きる。
 marinade|n.|醃泡汁；醃泡|88|マリネ|b|||
 martinique|n.|馬提尼克|88|マルティニーク|b|||
-maul|v.|打傷；粗手粗腳地擺弄；抨擊；大槌|88|モール|b|||
+maul|v.|打傷；粗手粗腳地擺弄；抨擊；大槌|88|打ちのめす；大槌；襲う|v|||
 mediaeval|adj.|中古的；中世紀的|88|中世の；中古の|h|||
 medicate|v.|用藥治療|88|薬で治療する；投薬する|h|||
 megaphone|n.|擴音器|88|メガホン|a|||
@@ -19400,12 +19400,12 @@ mussel|n.|貽貝；珠蚌|88|ムール貝|b|||
 myeloma|n.|骨髓瘤|88|骨髄腫|b|||
 nationalized|adj.|國有化的；國營的；國有的|88|国有化された；国営の|h|||
 natty|adj.|整潔的；帥的；清楚的|88|きちんとした；粋な；はっきりした|h|||
-nonchalance|n.|不關心；冷淡；無動於衷|88|無関心；冷淡；平然|h|||
+nonchalance|n.|不關心；冷淡；無動於衷|88|無関心；平然；無頓着な|v|||
 nostril|n.|鼻孔|88|鼻孔|b|There's a pea in my right nostril.|我右鼻孔裡有豌豆。|右の鼻に豆が入ってしまいました。
 numeral|n.|數字；數；數字的；表示數字的|88|数字；数表示|a|Do you understand Roman numerals?||ローマ数字わかる？
 occlusion|n.|閉塞；咬合；包藏|88|咬合；噛み合わせ|b|||
 oddball|adj.|古怪的；奇怪的；古怪的人|88|風変わりな；奇妙な；変わり者|d|What an oddball he is!||あいつはなんて変わり者だ。
-oddity|n.|奇異；奇特；怪人|88|一風|a|||
+oddity|n.|奇異；奇特；怪人|88|奇妙さ；変人；珍品|v|||
 odious|adj.|可憎的；可厭的；醜惡的|88|憎らしい；憎たらしい|a|That man is an odious person!||あの男性は憎らしい人だよ！
 offload|v.|卸下；卸貨|88|荷降ろしする；押しつける|h|||
 oligarchy|n.|寡頭政治；寡頭政治的政府|88|寡頭政治|b|||
@@ -19436,7 +19436,7 @@ pippin|n.|用種子栽培的蘋果；點心蘋果；籽|88|種から育てたり
 piranha|n.|水虎魚|88|ピラニア|a|||
 pistachio|n.|阿月渾子樹；阿月渾子果實；淡草綠色|88|ピスタチオ|b|I bought two packets of pistachios.|買了兩包開心果。|
 pithy|adj.|有髓的；由髓組成的；簡潔有力的|88|簡潔で力強い；髄の；要点を突いた|h|||
-pleat|n.|褶；褶狀物；打褶；把...編成辮|88|プリーツ|a|I bought a white, pleated skirt.||白いプリーツのスカートを買ったんだ。
+pleat|n.|褶；褶狀物；打褶；把...編成辮|88|プリーツ；ひだ；ひだをつける|v|I bought a white, pleated skirt.||白いプリーツのスカートを買ったんだ。
 plebiscite|n.|公民投票；平民表決|88|住民投票；国民投票|d|||
 polygraph|n.|多種波動記錄儀；複寫器；多產作家|88|ポリグラフ；嘘発見器；多作家|d|||
 polyurethane|n.|聚氨酯|88|ポリウレタン|b|||
@@ -19496,7 +19496,7 @@ rosette|n.|薔薇結；薔薇花飾；裝飾圓窗|88|バラ飾り；ロゼッ�
 rotunda|n.|圓形建築；圓形大廳|88|ロタンダ|b|||
 roundhouse|n.|圓形機車庫；拘留所；大掄拳|88|扇形機関庫；留置場；大振りのパンチ|h|||
 rubric|n.|紅字標題；紅色印刷；題目|88|見出し；朱書き；題目|h|||
-ruck|v.|弄皺；變皺|88|ラック|b|||
+ruck|v.|弄皺；變皺|88|しわ；群衆；ラック|v|||
 rue|n.|懊悔；後悔；芸香|88|後悔；悔恨；ヘンルーダ|h|||
 salamander|n.|火蜥蜴；火怪；耐火的人|88|サラマンダー；サンショウウオ|b|||
 salve|n.|油膏；藥膏；安慰；塗油膏於|88|軟膏；慰め；軟膏を塗る|d|||
@@ -19521,7 +19521,7 @@ shifty|adj.|變化的|88|変わりやすい；ずるい；うろたえた|h|||
 shim|n.|填片；萬能開鎖片；用填片填|88|薄い詰め物；シム；詰め物をする|h|||
 shirk|v.|溜掉；逃避；推卸|88|怠ける；回避する；責任逃れをする|h|||
 showman|n.|演出主持人；玩雜耍的人|88|ショーマン|b|||
-shrew|n.|潑婦|88|とがりねずみ|b|||
+shrew|n.|潑婦|88|トガリネズミ；じゃじゃ馬|v|||
 shush|int.|噓；噓聲|88|しーっ；静かにという声|h|||
 signor|n.|紳士；男人；先生|88|紳士；男性；～さん|h|||
 silencer|n.|使沉默的人；消音器；消音裝置|88|黙らせる人；消音器；マフラー|d|||
@@ -19533,13 +19533,13 @@ slob|n.|泥；軟泥；粗俗平庸的人|88|ぐうたら；だらしない人|h
 slough|n.|泥沼；沼澤；蛻下的皮；使陷入泥沼|88|泥沼；沼地；脱皮した皮；泥沼にはまらせる|h|||
 smoldering|v.|用文火燜燒；燻燒；慢燃|88|くすぶる；燻る；じわじわ燃える|h|The smoldering firewood burst into flame.||くすぶっていた薪が突然燃え上がった。
 soapy|adj.|塗著肥皂的；諂媚的；圓滑的|88|石けんの付いた；お世辞の；ずるい|h|Don't touch me with your soapy hands.||せっけんだらけの手で私にさわらないで。
-sorceress|n.|女巫女術士；女魔術師|88|市子|b|||
+sorceress|n.|女巫女術士；女魔術師|88|魔女；女魔法使い|v|||
 southernmost|adj.|最南的|88|最南|b|Okinawa is the southernmost island in Japan.||日本で一番南にある島は沖縄です。
 sparring|n.|對打；夾條板；保護條|88|スパーリング|a|However not attacking your partner in sparring is not a kindness!||だが、組み手で手を出さないのは優しさではない！！
 spectroscopic|adj.|分光鏡的；光譜學的|88|分光の；分光学の|h|||
 speedily|adv.|趕緊；快快地|88|速やかに；急いで|h|||
 spender|n.|揮霍者；揮金如土的人|88|浪費家；散財する人|h|Japanese tourists abroad are big spenders.||海外の日本人観光客は大金を使う。
-splatter|v.|使水等飛濺；結結巴巴地講；發濺潑聲；說話結巴|88|スプラッター|b|||
+splatter|v.|使水等飛濺；結結巴巴地講；發濺潑聲；說話結巴|88|飛び散る；はねかける|v|||
 splint|n.|薄木片；細木梗；夾板；用夾板固定|88|スプリント；副子|b|||
 spr||心靈研究學會；戰略石油儲備|88|戦略石油備蓄；心霊研究協会|h|||
 squirm|v.|蠕動；輾轉不安|88|身をよじる；もぞもぞ動く；落ち着かない|h|||
@@ -19603,11 +19603,11 @@ underfunded|adj.|資金不足的|88|資金不足の|h|||
 undiagnosed|adj.|未確診的；尚未找出原因的|88|診断されていない；原因不明の|h|||
 unedited|adj.|未編輯的；未刊行的；未經檢查的|88|未編集の；未校閲の|h|||
 unelected|adj.|未經選舉的|88|選挙で選ばれていない|h|||
-unflattering|adj.|不奉承的；不恭維的；指出缺點的|88|おべっかを使わない；あまり良く見えない|h|||
+unflattering|adj.|不奉承的；不恭維的；指出缺點的|88|お世辞のない；引き立たない|v|||
 unionized|adj.|組織成工會的；未電離的|88|労働組合に加入した；イオン化していない|h|||
 unlisted|adj.|未編入冊的；未上市的|88|非掲載の；未上場の|h|||
 unpredictability||不可預測性；不可預知性|88|予測不能性|h|||
-uns||不勻稱的|88|不均一な；不規則な|h|Most of the residents on this street are wrong 'uns.|這條街的居民大多是無賴。|
+uns||不勻稱的|88|不均一な|v|Most of the residents on this street are wrong 'uns.|這條街的居民大多是無賴。|
 unscientific|adj.|不科學的；不符合科學原理的|88|非科学的な|h|||
 unsound|adj.|不健全的；有病的；腐爛的|88|健全でない；不確かな；腐った|h|||
 unstructured|adj.|無特定結構的；非系統組成的|88|構造化されていない；非定型の|h|It seems to be unstructured.|它好像是非結構性的。|
@@ -19640,10 +19640,10 @@ wile|n.|詭計；狡猾；引誘；誘騙|89|策略；ずるさ；誘惑する|h
 winless|adj.|未獲勝的；未贏的；每次交戰皆輸的|89|勝利のない；負け続きの|h|||
 winnow|v.|簸；揚；吹掉；揚穀|89|箕；簸る|b|||
 wipeout|n.|全部覆滅；被浪打翻；倒臺|89|全滅；波にさらわれること；失敗|h|||
-wizardry|n.|巫術|89|ウィザードリィ；仙術|b|His handling of the ball borders on wizardry.||彼のボールさばきは魔術に近い。
-woodcut|n.|木刻；木刻印版|89|版画|a|||
+wizardry|n.|巫術|89|魔法；魔術；妙技|v|His handling of the ball borders on wizardry.||彼のボールさばきは魔術に近い。
+woodcut|n.|木刻；木刻印版|89|木版画；木刻|v|||
 woodman|n.|樵夫；林區人|89|きこり；森林の住人|h|||
-wordplay|n.|文字遊戲；俏皮話；雙關語|89|語呂合わせ|b|||
+wordplay|n.|文字遊戲；俏皮話；雙關語|89|言葉遊び；だじゃれ|v|||
 wye|n.|Y字形物|89|Y字形のもの|g|||
 xenophobia|n.|無端畏懼和憎恨外國人/陌生人；對外國人的畏懼和憎恨|89|ゼノフォビア|b|||
 yardage|n.|車站旁牲畜欄的使用；牲畜欄使用費|89|ヤード数；家畜囲いの使用料|h|||
@@ -19695,7 +19695,7 @@ autonomic|adj.|自治的；自主的|89|自律的な；自律神経の|h|||
 aver|v.|斷言；堅稱|89|断言する；主張する|h|||
 bacillus|n.|桿菌；細菌|89|桿菌；バチルス|b|||
 backtrack|v.|返回；退走；撤退|89|バックトラック|b|||
-balled||球|89|ボールの；球状の|h|||
+balled||球|89|丸めた；玉になった|v|||
 ballgame|n.|棒球運動|89|野球；球技|h|||
 bally|adj.|非常；極；非常地|89|非常な；とても；すごく|h|||
 barbeque|n.|烤肉野餐；烤肉架；烤肉；用調料烤|89|バーベキュー；バーベキュー用の網；バーベキューにする|d|It seems that most people only barbeque in the summer.|人們似乎只在夏天烤肉。|
@@ -19703,7 +19703,7 @@ barium|n.|鋇|89|バリウム|a|First, swallow one dose of barium.||バリウム
 bauxite|n.|鋁礬土；鋁土礦|89|ボーキサイト|b|||
 bedlam|n.|混亂；喧鬧；瘋人院|89|大混乱；騒ぎ；精神病院|h|||
 befall|v.|降臨|89|降りかかる；起こる|d|Alas, what ill luck has befallen me!||ああ、私はなんて不幸にみまわれたんだ。
-behead|v.|斬首；砍頭|89|馘す|b|||
+behead|v.|斬首；砍頭|89|斬首する；首をはねる|v|||
 behoove|v.|理應；應該；理所當然|89|当然…すべきである；～にふさわしい|h|It behooves us to do our best.||我々はベストを尽くさなければならない。
 beleaguered|v.|圍攻；圍困的；包圍的|89|包囲された；苦境にある|h|||
 beluga|n.|大白鰉；白鯨|89|シロイルカ；ベルーガ|d|||
@@ -19719,7 +19719,7 @@ boreal|adj.|北的|89|北方の；北半球の|h|||
 bracing|adj.|新鮮的；涼爽的；爽快的；聯條|89|爽快な；ひんやりした；補強材|h|||
 braised|adj.|燉熟的；燜熟的；用文火燉到全熟的；燉|89|蒸し煮にした；煮込んだ；蒸し煮にする|h|||
 bray|n.|驢叫聲；喇叭聲；叫；嘶叫|89|ロバの鳴き声；ラッパの音；いななく|h|||
-bream|n.|歐鯿屬淡水魚；鯛科海魚；打掃|89|ブリーム；タイ科の魚；掃除する|h|||
+bream|n.|歐鯿屬淡水魚；鯛科海魚；打掃|89|ブリーム；タイ科の魚|v|||
 brickwork|n.|磚建築物；砌磚|89|れんが造りの建物；れんが積み|h|||
 bulimia|n.|食慾過盛|89|過食症|h|||
 bumble|v.|結結巴巴地說；犯大錯；踉蹌|89|しどろもどろに話す；へまをする；よろめく|h|||
@@ -19764,7 +19764,7 @@ congratulatory|adj.|慶祝的；祝賀的|89|祝いの；祝賀の|h|When the co
 continuance|n.|繼續；停留；持續|89|存続|a|||
 contributory|n.|貢獻者；捐助者；貢獻的；捐助的|89|寄与する；貢献する；寄稿者|h|||
 convective|adj.|傳送性的；對流的|89|対流の；伝導の|h|||
-corkscrew|n.|拔塞鑽；螺旋形的|89|コークスクリュー|a|I wonder where the corkscrew is.||栓抜きどこだろう？
+corkscrew|n.|拔塞鑽；螺旋形的|89|コークスクリュー；栓抜き；らせん状の|v|I wonder where the corkscrew is.||栓抜きどこだろう？
 corroboration|n.|確實；確證；確證的事實|89|裏付け；確証；確証となる事実|d|||
 coterie|n.|同人；圈內人；小集團|89|仲間内；小集団；派閥|h|||
 counterintuitive|adj.|違反直覺的|89|直感に反する|h|||
@@ -19810,14 +19810,14 @@ dissociation|n.|分解；分離；脫離關係|89|解離|b|||
 dissociative|adj.|分離的；遊離的|89|解離性の；分離の|h|||
 diurnal|adj.|每日的；一日間的；白天的|89|日中の；昼行性の；毎日の|h|||
 divinely|adv.|象神一樣地；憑神的力量；極度地|89|神のように；神の力で；すばらしく|h|The crown is adorned with dozens of divinely lustrous gemstones.|王冠上鑲嵌著數十顆光彩奪目的寶石。|
-divisible|adj.|可分的；可分割的；除得盡的|89|可分|b|Among the divisors of 90, how many numbers are not divisible by 9?||９０の約数のうち、９でわり切れない数は何個あるでしょうか。
+divisible|adj.|可分的；可分割的；除得盡的|89|割り切れる；分割できる|v|Among the divisors of 90, how many numbers are not divisible by 9?||９０の約数のうち、９でわり切れない数は何個あるでしょうか。
 dockyard|n.|造船廠；海軍工廠|89|造船所；軍港の工場|h|||
 domineering|adj.|盛氣凌人的；跋扈的；專橫的|89|横柄な；威圧的な；専横な|h|||
 dorky|adj.|愚蠢的；無能的；不稱職的|89|ださい；間抜けな；役立たずの|h|||
 dormer|n.|老虎窗；屋頂採光窗|89|ドーマー|b|||
 dregs|n.|少量；渣滓；沉澱物|89|おり；かす|b|||
 drivel|v.|淌口水；說傻話；胡說|89|よだれを垂らす；たわ言；たわ言を言う|h|||
-duffel|n.|粗呢；露營用具|89|ダッフル|b|I can't find my duffel bag.||私のダッフルバッグがみつからないのです。
+duffel|n.|粗呢；露營用具|89|ダッフル；粗い毛織物；キャンプ用具|v|I can't find my duffel bag.||私のダッフルバッグがみつからないのです。
 dyslexic|n.|誦讀困難者；誦讀困難的|89|読字障害の；読字障害者|h|||
 dystopia|n.|非理想化的地方|89|ディストピア|b|||
 earpiece|n.|耳機；護耳片；眼鏡腳|89|イヤーピース|b|The bodyguard was wearing an earpiece.|保鏢戴著耳機。|ボディーガードは、イヤホンをしていた。
@@ -19884,7 +19884,7 @@ gelding|n.|閹割的動物；太監；去勢的人|89|去勢された動物；�
 gladiator|n.|鬥士；鬥劍者；爭論者|89|グラディエーター|b|Gladiators fought in the Colosseum.|角鬥士在羅馬競技場中搏鬥。|
 glittery|adj.|閃光的；閃爍的|89|きらきら光る；きらびやかな|h|||
 globular|adj.|球狀的；小球狀的；由小球形成的|89|球状の；小球状の|h|||
-gnome|n.|格言；箴言；侏儒|89|ノーム|b|||
+gnome|n.|格言；箴言；侏儒|89|ノーム；小人；格言|v|||
 goalless|adj.|零比零的|89|無得点の；零対零の|h|||
 gob|n.|凝塊；水兵；吐；啐|89|塊；水兵；唾|h|||
 goddam|adj.|詛咒的；討厭的|89|くそったれの；いまいましい|h|||
@@ -19906,7 +19906,7 @@ hedgehog|n.|豪豬；刺蝟；難交朋友的人|89|はりねずみ；ヘッジ�
 hein|int.|啊；嗯|89|へえ；うん|h|||
 heuristic|adj.|啟發式的；探索的；啟發式教育法|89|ヒューリスティック|b|||
 hick|n.|鄉下人；土頭土腦的人；反應遲鈍的人|89|田舎者；野暮な人；反応の鈍い人|d|||
-highbrow|n.|文化修養高的人；賣弄知識的人；自炫博學的；知識分子的|89|高踏|b|||
+highbrow|n.|文化修養高的人；賣弄知識的人；自炫博學的；知識分子的|89|知識人の；インテリぶった；教養の高い|v|||
 hombre|n.|男人；傢伙；西班牙系的人|89|男；やつ；スペイン系の男|h|||
 homeward|adj.|在歸途上的；向家的；在歸途上；向家地|89|帰途の；家路につく；家へ向かって|h|||
 homicidal|adj.|殺人的|89|殺人の；殺人を犯しそうな|h|||
@@ -19929,7 +19929,7 @@ incrementally|adv.|逐漸地|89|段階的に；少しずつ|h|||
 indecipherable|adj.|辨讀不出的；破譯不出的；無法解釋的|89|判読できない；解読不能な|h|||
 infinitesimal|adj.|極小的；極微的；無限小的；極小量|89|極めて小さい；無限小の；極小量|h|||
 iniquity|n.|不公正；不公正行為|89|姦譎|b|||
-initiator|n.|創始者；首倡者；引爆藥|89|イニシエータ|b|||
+initiator|n.|創始者；首倡者；引爆藥|89|開始者；発起人；起爆薬|v|||
 inlaid|adj.|嵌入的；鑲嵌的；鑲飾的|89|象嵌の；はめ込まれた|h|||
 innkeeper|n.|小旅館老闆；客棧老闆|89|旅館の主人；宿屋の主人|h|||
 inshore|adj.|近海岸的；向陸的；近海岸；向陸地|89|沿岸の；岸に寄った；沿岸へ|h|||
@@ -19944,7 +19944,7 @@ invective|n.|惡言漫罵；臭罵；漫罵的；非難的|89|罵詈雑言；痛
 inwardly|adv.|在內部；向中心；向內|89|内心で；内側へ|h|||
 iota|n.|希臘字母第9位；極微小|89|ごく少量；ギリシャ文字のイオタ|h|||
 irritant|adj.|刺激的；刺激性的；刺激物；刺激劑|89|刺激物；刺激性の|h|||
-italic|adj.|斜體的；斜體字；斜體|89|斜体の；イタリック体|h|||
+italic|adj.|斜體的；斜體字；斜體|89|イタリック体；斜体の|v|||
 jamb|n.|門窗側壁；側柱|89|戸口の側柱；窓枠の側柱|h|||
 jarring|adj.|輾軋的；刺耳的；不和諧的；輾軋聲|89|耳障りな；調和を欠いた|h|||
 jaundice|n.|黃疸；偏見；乖僻；使患黃疸|89|黄疸|b|||
@@ -19981,7 +19981,7 @@ lop|v.|剪；砍伐；斬；下垂|89|切り落とす；剪定する；垂れ下
 loveless|adj.|無愛情的；不可愛的|89|愛のない；愛情に欠けた|h|||
 luge|n.|的仰臥小雪撬；坐小雪橇滑雪|89|リュージュ|a|||
 lumberjack|n.|伐木工人；板材上垛裝置|89|木こり；伐採作業員|d|||
-lye|n.|灰汁；鹼液|89|あく|b|||
+lye|n.|灰汁；鹼液|89|灰汁；アルカリ液|v|||
 lysine|n.|賴氨酸|89|リジン|b|||
 madhouse|n.|精神病院；極為吵鬧的場所|89|精神病院；大混乱の場所|h|||
 maharaja|n.|印度王公；土幫主|89|マハラジャ|b|||
@@ -19999,12 +19999,12 @@ minaret|n.|光塔|89|ミナレット；光塔|b|||
 minty|adj.|有薄荷香的；有薄荷味的|89|ミントの香りの|h|||
 misinform|v.|提供錯誤訊息|89|誤った情報を与える|h|Our guide misinformed us about the location of the hotel.||案内人は私たちにホテルの場所を間違えて教えた。
 modulator|n.|調節人；調光器；調製器|89|変調器；調節装置|d|||
-molester|n.|猥褻者；性騷擾者|89|痴漢|a|||
-monetization|n.|定為貨幣；作為貨幣；貨幣鑄造|89|マネタイズ|b|||
+molester|n.|猥褻者；性騷擾者|89|痴漢；性犯罪者|v|||
+monetization|n.|定為貨幣；作為貨幣；貨幣鑄造|89|収益化；貨幣化|v|||
 monomer|n.|單體|89|モノマー|b|||
 monorail|n.|單軌鐵路|89|モノレール|a|||
 motherly|adj.|母親的|89|母親らしい；母親の|d|||
-mouthwash|n.|漱口劑；洗口藥|89|マウスウォッシュ|b|The flavors of this brand's mouthwash are weird.|這個牌子的漱口水的味道好怪。|
+mouthwash|n.|漱口劑；洗口藥|89|マウスウォッシュ；洗口液|v|The flavors of this brand's mouthwash are weird.|這個牌子的漱口水的味道好怪。|
 muff|n.|暖手筒；笨人；接球失誤；弄糟|89|マフ|b|||
 mujahideen|n.|穆斯林游擊隊員|89|ムジャヒディン；イスラムの義勇兵|h|||
 munchkin|n.|小巧玲瓏的人；忙個不停的人|89|マンチカン|b|||
@@ -20087,7 +20087,7 @@ reintroduce|v.|再引進；再介紹|89|再導入する；再び紹介する|h||
 reintroduction|n.|再介紹；再引入|89|再導入；再紹介|d|||
 relevancy|n.|關聯；恰當；中肯|89|関連性；適切さ|h|||
 renegotiate|v.|重新談判|89|再交渉する|h|||
-reposition|n.|復位；儲藏；改變...的位置；使...復位|89|整復|b|||
+reposition|n.|復位；儲藏；改變...的位置；使...復位|89|位置を変える；再配置する|v|||
 reproducible|adj.|可再生的；可複寫的；能繁殖的|89|再現可能な；複製可能な；繁殖可能な|h|Does the error occur regularly or sporadically? Is the error reproducible?|錯誤是經常出現還是偶爾出現？錯誤是否能夠模仿？|
 reptilian|adj.|爬蟲類的；像爬蟲的；卑鄙的；爬行動物|89|爬虫類の；卑劣な|h|||
 retrenchment|n.|緊縮；節省；刪節|89|節減；切り詰め|a|||
@@ -20095,7 +20095,7 @@ retrial|n.|再審；複試；再試驗|89|再審|a|||
 revelry|n.|鬧飲；狂歡|89|酒宴；騒ぎ|h|The party ended up becoming a great revelry.||パーティーはお祭り騒ぎで終わった。
 rigidly|adv.|嚴格地；堅硬地；嚴厲地|89|厳格に；頑なに|h|||
 ritualistic|adj.|儀式的；遵守儀式的|89|儀式的な；儀式を重んじる|h|||
-roan|adj.|沙毛的；沙毛牲畜；柔軟的羊皮|89|葦毛の；葦毛の馬；柔らかな革|h|||
+roan|adj.|沙毛的；沙毛牲畜；柔軟的羊皮|89|葦毛の；葦毛の馬|v|||
 rollback|n.|回降；捲回；推回去|89|ロールバック|b|||
 rota|n.|值班名冊；值班；花名冊|89|当番表；当番；名簿|h|||
 royally|adv.|帝王似地；莊嚴地|89|王者らしく；壮麗に|h|||
@@ -20121,7 +20121,7 @@ silurian|adj.|〈地〉志留紀的|89|シルル紀の|h|The Ordovician-Silurian
 singly|adv.|一個一個地；各自地；單身地|89|一人ずつ；単独で|h|I bear in mind that misfortunes never come singly.|我謹記禍不單行。|私は不幸は単独にはやってこないと言うことを忘れない。
 skein|n.|一束；飛鳥群；糾紛|89|糸束；雁の群れ；もつれ|h|||
 slop|n.|外衣；工作服；泥漿；濺出|89|作業着；泥；こぼれること|h|||
-snide|n.|贗品；假珠寶；偽造的；不誠實的|89|偽物の；偽造の；不誠実な|h|||
+snide|n.|贗品；假珠寶；偽造的；不誠實的|89|嫌味な；皮肉な；偽造の|v|||
 solvency|n.|償付能力；溶解力|89|支払い能力；溶解力|d|Solvency is entirely a matter of temperament and not of income.||支払能力は全く気質の問題であって、収入の問題ではない。
 sot|n.|醉鬼；酗酒者；因酗酒浪費掉|89|大酒飲み；飲んだくれ|h|||
 spillway|n.|溢洪道；洩洪道|89|洪水吐き；放水路|d|||
@@ -20163,7 +20163,7 @@ transduction|n.|轉導|89|形質導入|d|||
 transference|n.|轉移；調動；轉讓|89|移転；転移；譲渡|d|||
 translocation|n.|改變位置；易位|89|転座；位置の移動|d|||
 trapeze|n.|吊鞦韆|89|空中ブランコ|d|||
-trill|n.|顫聲；顫音；囀鳴；用顫聲說|89|トリル|b|||
+trill|n.|顫聲；顫音；囀鳴；用顫聲說|89|トリル；震え声；さえずる|v|||
 triplet|n.|三個一組；三件一套；三胞胎中的一個|89|トリプレット|b|Today at 8.10 a.m., Mary gave birth to healthy triplets.||今日の午前8時10分、メアリーが元気な三つ子を出産しました。
 tufted|adj.|植絨的；有簇飾的；成簇狀的|89|房のある；房状の|h|||
 tussle|n.|扭打；爭鬥；論爭|89|取っ組み合い；争い|h|||
@@ -20173,14 +20173,14 @@ unabated|adj.|不衰退的；不減弱的|89|衰えない；減じない|h|||
 unambiguously|adv.|明白地；不含糊地|89|明確に；あいまいさなく|h|||
 unchanging|adj.|不變的|89|変わらない；不変の|h|The boy was bored with home routines that were dull and unchanging.||活気も変化もない家庭内のきまりきった生活に少年は退屈した。
 uncommitted|adj.|未遂的；不受約束的；獨立於...的|89|関与していない；拘束されない|h|||
-unearned|adj.|非勞動所得的；透過投資賺得的；不配的|89|不労|b|||
+unearned|adj.|非勞動所得的；透過投資賺得的；不配的|89|不労の；不当な|v|||
 unfunded|adj.|未備基金的；債務短期的|89|資金のない；基金が設けられていない|h|||
 uninhabitable|adj.|不可居住的；不適宜居住的|89|住めない；居住に適さない|h|||
 uninspired|adj.|未受靈感啟迪的；無靈感的；缺乏創見的|89|霊感のない；独創性を欠く|h|||
 unionism|n.|工會主義；聯合主義；聯邦主義|89|労働組合主義；連邦主義|h|||
 universality|n.|普遍性；一般性；廣泛性|89|普遍性；一般性|d|||
 unmet|adj.|未滿足的；未相遇的；未應付的|89|満たされない；未達の|h|||
-unread|adj.|沒有人讀過的；讀書不多的；無學問的|89|未読|b|||
+unread|adj.|沒有人讀過的；讀書不多的；無學問的|89|未読の；無学な|v|||
 unrequited|adj.|無報答的；沒有受到報復的|89|報われない；返されない|h|He was heartbroken from unrequited love.||彼は失恋のために傷心した。
 unsanitary|adj.|不衛生的；有礙健康的；不清潔的|89|非衛生的な；不潔な|h|||
 unsaturated|adj.|沒有飽和的；不飽和的|89|不飽和の|h|||
@@ -20198,7 +20198,7 @@ vasectomy|n.|輸精管切除術|89|精管切除術|h|||
 verso|n.|偶數頁；背面；反面|89|偶数ページ；裏面|h|||
 vestibule|n.|前庭；門廊；前廳；為...設門廊|89|玄関；前室|d|||
 vestry|n.|法衣聖器儲藏室；祈禱室；教區委員會|89|聖具室；教区会|h|||
-vibrancy|n.|振動；振響；活力|89|壮|b|||
+vibrancy|n.|振動；振響；活力|89|活力；活気；響き|v|||
 vibrational|adj.|振動的|89|振動の|h|||
 vicarage|n.|教區牧師的住宅|89|牧師館|d|||
 vicariously|adv.|代理地；擔任代理者地；間接感受到地|89|代理で；間接的に|h|||
@@ -20211,7 +20211,7 @@ whimper|n.|抽泣；嗚咽；啜泣|89|すすり泣き；むせび泣き|h|||
 whopper|n.|特大之物；彌天大謊|89|特大のもの；大うそ|h|||
 wimp|n.|懦弱的人；無能的人|89|意気地なし；弱虫|d|||
 winkle|n.|濱螺；食用螺；剔出；逐出|89|タマキビ；引き出す|h|||
-wintry|adj.|如冬的；寒冷的；冬的|89|寒々|b|||
+wintry|adj.|如冬的；寒冷的；冬的|89|冬のような；寒い；冷淡な|v|||
 workhorse|n.|載重馬；做重活的人|89|荷馬；働き者|h|||
 yachting|n.|駕帆船；風帆比賽；乘遊艇航行|89|ヨット操縦；ヨット競技|h|I often go yachting on weekends.||週末にはよくヨットに乗りにいきます。
 yangtze|n.|長江；揚子江|89|長江；揚子江|h|The Yangtze, at 6,380 km, is Asia's longest river.|長江是亞洲的最長江，6380公里。|
@@ -20226,7 +20226,7 @@ acetic|adj.|醋的；乙酸的|89|酢の；酢酸の|h|||
 adenosine|n.|腺苷|89|アデノシン|b|||
 adjournment|n.|延期；休會；休會期間|89|散会；休会|a|||
 adjuster|n.|調整員；調停者；調節器|89|アジャスター|b|||
-agape|adj.|張口發呆的；目瞪口呆的；張口發呆地；目瞪口呆地|89|アガペー|b|That child stared at me, his mouth agape.||その子は口をぽかんと開けて私を見つめた。
+agape|adj.|張口發呆的；目瞪口呆的；張口發呆地；目瞪口呆地|89|ぽかんと口を開けて；アガペー|v|That child stared at me, his mouth agape.||その子は口をぽかんと開けて私を見つめた。
 agnostic|n.|不可知論者|89|不可知論者|d|||
 aikido||<日>合氣道|89|合気道|b|He had been a practitioner of Aikido for seven years.||彼は７年間、合気道をやっていた。
 aimless|adj.|無目的的；沒有目標的|90|漫然|b|||
@@ -20240,7 +20240,7 @@ anise|n.|茴芹|90|アニス|b|||
 apocryphal|adj.|偽的；不足憑信的|90|出所の怪しい；真偽不明の|h|||
 apostate|n.|叛教者；變節者；脫黨者；叛教的|90|背教者；離反者|d|||
 apotheosis|n.|尊崇為神；神化；美化|90|神格化；理想化|h|||
-appellation|n.|名稱；稱號|90|称呼|b|||
+appellation|n.|名稱；稱號|90|名称；称号|v|||
 appetizing|adj.|開胃的；促進食慾的；鮮美可口的|90|食欲をそそる；美味しそうな|h|||
 arguable|adj.|可辯論的；可論證的|90|議論の余地がある；論証できる|h|Your conclusion is highly arguable.|你的結論具有高度爭議性。|君の結論には議論の余地がたくさんある。
 argumentation|n.|爭論；辯論；論證|90|議論；論証|d|||
@@ -20283,7 +20283,7 @@ bothersome|adj.|討厭的|90|めんどくさい|a|Why are women such bothersome 
 bower|n.|涼亭；樹陰處|90|あずまや；木陰|d|||
 boxy|adj.|似盒子的；盒狀的|90|箱型の；四角ばった|h|||
 brainwash|n.|洗腦；對人洗腦|90|洗脳；洗脳する|h|"You're being brainwashed by the media!" "What are you talking about?"||「君はマスコミに洗脳されてるんだよ！」「何の話をしてるの？」
-broiler|n.|小雞；適合於烤焙的小雞；烤肉師傅|90|ブロイラー|a|||
+broiler|n.|小雞；適合於烤焙的小雞；烤肉師傅|90|ブロイラー；若鶏；焼き網|v|||
 buffoon|n.|小丑|90|道化者|b|||
 bulbous|adj.|球莖的；球莖狀的；由球莖生長的|90|球根の；球根状の|h|||
 butternut|n.|灰鬍桃|90|バターナッツ；灰色のクルミ|h|Cut the butternut squash into one-inch cubes.||バターナッツかぼちゃは1インチ角に切ります。
@@ -20366,7 +20366,7 @@ disobedient|adj.|不服從的；不孝的；違背的|90|従わない；不従�
 distantly|adv.|遠；遠隔；久遠|90|遠くに；かすかに|h|He is distantly related to her.||彼は彼女の遠い親戚だ。
 disturbingly|adv.|動搖地；令人不安地|90|不安を覚えるほど|h|||
 divestment|n.|剝奪；奪取|90|剥奪；売却|h|||
-doer|n.|行為者；實幹家|90|仕手|a|Strong measures should be taken against wrong doers.||非行者に対して強硬な対策を講じるべきだ。
+doer|n.|行為者；實幹家|90|実行者；やり手|v|Strong measures should be taken against wrong doers.||非行者に対して強硬な対策を講じるべきだ。
 dopey|adj.|被麻醉的；呆笨的；遲鈍的|90|ぼんやりした；鈍い|h|||
 downsize|v.|以較小尺寸設計；縮小尺寸；裁減人數|90|小型化する；人員を削減する|h|After all, even salesmen are desperate to avoid being targeted for downsizing.||営業マンだって、リストラ予備軍に配属されないように必死な訳です。
 downtrodden|adj.|被蹂躪的；受壓制的|90|虐げられた|h|||
@@ -20455,7 +20455,7 @@ hypodermic|adj.|皮下的；真皮的；皮下注射；皮下注射器|90|皮下
 hypoglycemia|n.|低血糖；血糖過少；低血糖症|90|低血糖；低血糖症|d|||
 hypothalamus|n.|丘腦下部|90|視床下部|d|The sight memory organ is below the hypothalamus.||物を視覚的に覚える器官は視床下部の下にある。
 hypothyroidism|n.|甲狀腺功能減退|90|甲状腺機能低下症|d|||
-illegality|n.|非法行為；犯規|90|非違|b|||
+illegality|n.|非法行為；犯規|90|違法；不法行為|v|||
 immeasurably|adv.|不可測量地；無限地；廣大無邊地|90|計り知れないほど；無限に|h|||
 immemorial|adj.|太古的；遠古的；無法追憶的|90|太古の；遠い昔からの|h|||
 immunoglobulin|n.|免疫球蛋白|90|免疫グロブリン|d|||
@@ -20582,7 +20582,7 @@ penultimate|adj.|倒數第二的|90|最後から二番目の|h|||
 peremptory|adj.|斷然的；儼然的；強制的|90|横柄な；有無を言わさぬ|h|||
 perfusion|n.|灌注；充滿|90|灌流|b|||
 personalize|v.|使個人化；體現；使人格化|90|個人向けにする；個性を出す|h|||
-perturbation|n.|不安；擾亂；紊亂|90|摂動|b|||
+perturbation|n.|不安；擾亂；紊亂|90|動揺；混乱；摂動|v|||
 pessimist|n.|悲觀者；厭世者；悲觀主義者|90|ペシミスト|b|I am by turns an optimist and a pessimist.|我時而樂觀，時而悲觀。|私は交互に楽観主義になったり悲観主義になる。
 phage|n.|噬菌體|90|ファージ|b|||
 phallic|adj.|陰莖的；生殖器的；陽物崇拜的|90|男根の；男根崇拝の|h|||
@@ -20617,7 +20617,7 @@ purebred|adj.|純種的；純種動物|90|純血種の；純血種の動物|h|||
 pushover|n.|容易做的工作；易被勸服的人；易被擊敗的人|90|容易な仕事；御しやすい人|h|The executive director is a real pushover for looks.||あの専務はまったくの面食いです。
 putrid|adj.|腐敗的|90|腐敗した；悪臭を放つ|h|||
 pyre|n.|柴堆|90|薪の山；火葬用の薪|h|||
-quack|n.|鴨叫聲；冒牌醫生；冒充內行之人；冒牌醫生的|90|藪医|b|My mom thinks the doctor is a quack.||僕の母さん、その医者は藪だと思ってるんだ。
+quack|n.|鴨叫聲；冒牌醫生；冒充內行之人；冒牌醫生的|90|やぶ医者；いかさま師；ガーガー鳴く|v|My mom thinks the doctor is a quack.||僕の母さん、その医者は藪だと思ってるんだ。
 quantifiable|adj.|可以計量的|90|計量可能な；定量化できる|h|||
 quicksand|n.|流沙；流沙區；危險狀態|90|流砂|b|||
 rajah|n.|印度王公；統治者|90|ラージャ；インドの王侯|d|||
@@ -20681,7 +20681,7 @@ sinew|n.|肌肉；精力；體力；賦予力量|90|腱；筋力；体力；力�
 singlet|n.|汗衫；運動衫|90|アンダーシャツ；ランニングシャツ|d|||
 sixpence|n.|六便士硬幣；六便士|90|六ペンス硬貨；六ペンス|h|||
 skyward|adv.|向著天空；向上；向著天空的；向上的|90|空へ向かって；上方へ|h|||
-slav|adj.|斯拉夫人的；斯拉夫語的|90|スラブ|b|||
+slav|adj.|斯拉夫人的；斯拉夫語的|90|スラブ人；スラブ語の|v|||
 sleaze|n.|劣等品；卑鄙的人；骯髒|90|低俗なもの；卑劣な人|h|||
 sleight|n.|技巧；詭計；熟練|90|手先の器用さ；策略|h|||
 slinky|adj.|鬼鬼祟祟的；苗條的|90|しなやかな；細身の|h|||
@@ -20701,7 +20701,7 @@ spunk|n.|精神；勇氣；怒意|90|気骨；勇気；怒り|h|||
 squamous|adj.|有鱗的；多鱗的；鱗狀的|90|鱗状の；うろこのある|h|||
 stabilisation||穩定|90|安定化；安定|d|||
 staphylococcus|n.|葡萄球菌|90|ブドウ球菌|d|||
-starlet|n.|小星星；小明星|90|スターレット|b|||
+starlet|n.|小星星；小明星|90|若手女優；スターの卵|v|||
 stator|n.|定子；固定片|90|固定子；固定部|d|||
 staunchly|adv.|堅定地；忠實地|90|断固として；忠実に|h|||
 steadfastly|adv.|踏實地；不變地；巋然|90|断固として；揺るがずに|h|||
@@ -20749,7 +20749,7 @@ tribalism|n.|部落制；部落文化；部落主義|90|部族主義；部族制
 trig|adj.|漂亮的；整潔的；瀟灑的；使整潔|90|きちんとした；すっきりした|h|||
 tritium|n.|氚|90|トリチウム|b|||
 triumphal|adj.|勝利的；凱旋的|90|勝利の；凱旋の|h|||
-triumphantly|adv.|耀武揚威地；得意揚揚地；勝利|90|得々|a|The players marched triumphantly across the field.||選手達は意気揚々と競技場を行進した。
+triumphantly|adv.|耀武揚威地；得意揚揚地；勝利|90|勝ち誇って；意気揚々と|v|The players marched triumphantly across the field.||選手達は意気揚々と競技場を行進した。
 truancy|n.|翫忽職守；曠課|90|怠業；無断欠席|d|||
 truckload|n.|貨車荷載；最低起運量|90|トラック一台分；最低輸送量|h|||
 trustworthiness|n.|可信賴；確實性|90|信頼性；信頼できること|h|||
@@ -20786,7 +20786,7 @@ unyielding|adj.|不易彎曲的；不屈的|90|頑固な；屈しない|h|The au
 upshot|n.|結果；結局；要點|90|結果；結末|h|||
 urbanisation|n.|城市化|90|都市化|d|||
 urbanized|v.|使都市化；使文雅|90|都市化させた；洗練させた|h|||
-vagabond|n.|流浪者；浪子；流氓；到處流浪|90|バガボンド|a|The vagabond, when rich, is called a tourist.|當流浪漢有錢了, 就被稱為遊客。|放浪者は、金持ちならば観光客と称せられる。
+vagabond|n.|流浪者；浪子；流氓；到處流浪|90|放浪者；浮浪者；放浪する|v|The vagabond, when rich, is called a tourist.|當流浪漢有錢了, 就被稱為遊客。|放浪者は、金持ちならば観光客と称せられる。
 vagrant|n.|流浪漢；漂泊者；無賴；漂泊的|90|浮浪者|a|||
 velvety|adj.|像天鵝絨的；輕軟光滑的；柔和的|90|ビロードのような；柔らかい|h|Now, I present a low-calorie, velvety tofu cake. Please enjoy.||今回ご紹介するのは、低カロリーで滑らかな口当たりの豆腐でできたケーキです。ぜひご賞味ください。
 vesuvius|n.|維蘇威火山|90|ヴェスヴィオ山|h|The eruption of the volcano Vesuvius destroyed the city of Pompeii.||ヴェスヴィオ火山の噴火は、ポンペイの街を壊滅させた。
@@ -20805,7 +20805,7 @@ wattage|n.|瓦數|90|ワット数|d|||
 weightless|adj.|無重量的；失重的；不重要的|90|無重力の；取るに足りない|h|||
 welter|v.|翻滾；滾動；沉溺|90|転がる；混乱；もまれる|h|||
 wench|n.|少婦；鄉下姑娘；女僕；私通|90|女性；若い女|h|||
-wheelbarrow|n.|手推車；獨輪車|90|猫車|b|A wheelbarrow fills the bill for moving concrete blocks.||手押し車を上手に使って、コンクリートブロックを運んでいる。
+wheelbarrow|n.|手推車；獨輪車|90|一輪車；手押し車|v|A wheelbarrow fills the bill for moving concrete blocks.||手押し車を上手に使って、コンクリートブロックを運んでいる。
 wheelhouse|n.|舵手室；駕駛室|90|操舵室|d|||
 wheelie|n.|腳踏車前輪離地平衡特技|90|ウィリー|b|||
 wid||婦女扶貧計劃|90|女性貧困対策計画|h|||
@@ -20839,7 +20839,7 @@ aeon|n.|永世；萬古；極長的時期|90|永劫；極めて長い期間|h|||
 aeration|n.|通風|90|曝気；エアレーション|b|||
 aerodrome|n.|飛機場；機場|90|飛行場|d|||
 aficionado|n.|狂熱愛好者；迷|90|熱狂的な愛好者|h|||
-aftercare|n.|病後的照顧調養；釋放後的安置|90|アフターケア|b|||
+aftercare|n.|病後的照顧調養；釋放後的安置|90|アフターケア；病後の療養|v|||
 afterglow|n.|晚霞；夕照|90|残照|b|||
 aftershave|n.|鬚後水；修臉潤膚露|90|アフターシェーブ；髭剃り後の化粧水|h|||
 agglomeration|n.|結塊；聚結；大塊|90|凝集|b|||
@@ -20887,7 +20887,7 @@ aphasia|n.|失語症|90|失語症|b|||
 aphrodisiac|n.|摧欲劑；春藥；激發性慾的|90|媚薬|b|||
 aplenty|adj.|豐富的；充裕地|90|たっぷり；豊富に|h|||
 apogee|n.|遠地點；最高點；極點|90|遠地点；頂点|d|||
-append|v.|附加；增補；蓋章；當程式執行時|90|アペンド|b|||
+append|v.|附加；增補；蓋章；當程式執行時|90|追加する；添付する|v|||
 applesauce|n.|蘋果沙司；胡說|90|アップルソース；たわごと|h|||
 apropos|adj.|適當的；恰好的；適當地；恰好地|90|適切な；ちょうどよく|h|I thought his remarks very apropos.||彼の意見は適切だと思った。
 arcana|n.|奧秘；神秘；深奧的知識|90|秘密；神秘；奥義|h|||
@@ -20924,7 +20924,7 @@ ayurvedic|n.|阿育吠陀|90|アーユルヴェーダの|h|||
 azimuth|n.|方位；方位角|90|方位；方位角|d|||
 bacardi|n.|巴卡第|90|バカルディ|h|||
 backboard|n.|後擋板；背板；脊骨矯正板|90|バックボード；背板；脊椎矯正板|d|||
-backlit|n.|後面打光；背光式|90|逆光の；背面照明の|h|||
+backlit|n.|後面打光；背光式|90|逆光の；バックライト付きの|v|||
 backstop|n.|擋球網；接球手|90|バックネット|a|||
 baldy|n.|禿子；人名；巴爾迪|90|はげ頭；バルディ|h|||
 ballsy|adj.|有膽量的；有種的|90|度胸のある；根性のある|h|I'm going to be ballsy today.||今日は強気でいきます。
@@ -20987,7 +20987,7 @@ blubber|n.|鯨脂；哭泣；又哭又鬧|90|鯨脂；泣きわめく|d|||
 bluebell|n.|開藍色鈴狀花的植物|90|ブルーベル；釣鐘形の青い花|d|||
 blurb|n.|推薦廣告；推薦吹捧|90|推薦文；宣伝文句|h|||
 boatload|n.|船的載貨量；一條船的貨物|90|船一杯分の積荷；大量|h|||
-boatman|n.|出租船者；船伕|90|梢子|b|||
+boatman|n.|出租船者；船伕|90|船頭；ボート乗り|v|||
 bobbin|n.|線軸；纏線板；纏線管|90|巻子；ボビン|b|||
 bodice|n.|女服的緊身上衣|90|ボディス|b|||
 bodleian|n.|牛津大學圖書館；牛津大學圖書館的|90|ボドリアン図書館；ボドリアン図書館の|h|||
@@ -21009,7 +21009,7 @@ brainiac|n.|才智非凡的人；智力超群的人|90|天才；ガリ勉|h|||
 brainy|adj.|腦筋好的；聰明的|90|頭のいい；賢い|h|||
 bramble|n.|荊棘；懸鉤子屬植物；黑莓|90|いばら；キイチゴ類|h|||
 brava|int.|好啊!|90|ブラボー；いいぞ|h|||
-brazenly|adv.|厚顏無恥地|90|ぬけぬけ|b|"Ha-ha-ha-hah! Don't worry!" I brazenly bluffed.||「わはははは、心配するなっ！」オレはあえて虚勢を張った。
+brazenly|adv.|厚顏無恥地|90|厚かましく；図々しく|v|"Ha-ha-ha-hah! Don't worry!" I brazenly bluffed.||「わはははは、心配するなっ！」オレはあえて虚勢を張った。
 breakneck|adj.|要使頸骨折斷似的；非常危險的|90|猛烈な；命がけの|h|The motorcycle started in pursuit at breakneck speed.||オートバイはものすごいスピードで追跡し始めた。
 breastplate|n.|護胸甲；腹甲；胸革帶|90|胸当て|b|||
 breathtakingly|adv.|驚人地；令人激動地|90|息をのむほど；驚くほどに|h|Even at 50 years old, she's still breathtakingly beautiful.||50歳になっても、まだ彼女は息を呑むほど美しい。
@@ -21187,7 +21187,7 @@ crone|n.|乾癟老太婆；老母羊|91|醜い老女；老いた雌羊|h|||
 cropper|n.|種植者；農作物|91|作物栽培者；大失敗|h|||
 crud|n.|令人厭惡的人|91|嫌なやつ；汚れ|h|||
 cruiserweight|n.|輕重量級；輕重量級拳擊手|91|クルーザー級；クルーザー級選手|h|||
-crummy|adj.|豐滿的|91|チンケ|b|||
+crummy|adj.|豐滿的|91|粗末な；ひどい；調子が悪い|v|||
 crystallography|n.|結晶學|91|結晶学|d|||
 cuddy|n.|小船室；廚房；小房間|91|小船室；船の調理室；小部屋|h|||
 cultivar|n.|栽培變種；培育植物|91|栽培品種；栽培植物|d|||
@@ -21252,7 +21252,7 @@ disassembly|n.|拆卸；分解|91|分解|a|||
 disbelieve|v.|不信；懷疑|91|信じない；疑う|h|||
 discipleship|n.|做弟子的身份|91|弟子の身分；師事|h|||
 discolored|adj.|脫色的；汙染的|91|変色した；汚れた|h|||
-discontinuation|n.|停止；中止；廢止|91|廃業|a|||
+discontinuation|n.|停止；中止；廢止|91|中止；廃止；停止|v|||
 discontinuity|n.|間斷；中斷；不連續|91|不連続；断絶；中断|h|||
 discontinuous|adj.|不連續的；斷續的；間斷的|91|不連続|b|||
 discordant|adj.|不調和的；不和的|91|不協和な；調和しない|h|||
@@ -21339,7 +21339,7 @@ evidentiary|adj.|證據的；根據證據的|91|証拠の；証拠に基づく|h
 evocation|n.|喚出；招魂；喚起|91|誘起|b|||
 exasperation|n.|惱怒；惱怒的原因|91|いら立ち；憤慨|h|||
 exhortation|n.|勸告；訓詞；講道詞|91|勧告；激励；説教|h|||
-exoskeleton|n.|外骨胳；外甲|91|パワーアシストスーツ|b|||
+exoskeleton|n.|外骨胳；外甲|91|外骨格；パワードスーツ|v|||
 expansionist|adj.|擴張主義的；贊同擴張主義的；擴張主義者；領土擴張論者|91|拡張主義の；拡張主義者|h|||
 expeditiously|adv.|迅速；高效；效率高|91|迅速に；手際よく|h|||
 explainer|n.|講解員；說錳序|91|解説者；解説記事|h|||
@@ -21366,7 +21366,7 @@ fatherly|adj.|父親的；如父親的；慈愛的|91|父親のような；父�
 favela|n.|貧民區|91|ファベーラ|b|||
 feathery|adj.|生有羽毛的；柔軟如羽毛的|91|羽毛の；羽のように軽い|h|||
 febrile|adj.|發熱的；熱病的；熱性的|91|熱のある；熱性の|h|||
-feigned|adj.|假的；做作的；捏造的|91|素知らぬ|b|He feigned indifference to the girl.||彼はその少女に関心がないかのように装った。
+feigned|adj.|假的；做作的；捏造的|91|見せかけの；ふりをした|v|He feigned indifference to the girl.||彼はその少女に関心がないかのように装った。
 felice|n.|菲利斯|91|フェリーチェ|h|||
 fellatio|n.|吮吸陰莖；口交|91|フェラチオ；フェラ|a|I not only gave him some advice, I also performed fellatio on him.||彼に助言を与えるだけでなくフェラも与えた。
 festivity|n.|節日；喜慶日；歡宴|91|祝祭；祝宴|h|The festivities were held as usual this year.||今年もいつも通りお祭りが行われました。
@@ -21473,7 +21473,7 @@ griddle|n.|平底鍋；礦篩；篩；用平底鍋烹調|91|鉄板；鉄板焼�
 grimly|adv.|嚴格地；冷酷地；可怕地|91|厳しく；険しく；ぞっとするほど|h|||
 grizzled|adj.|灰色的；頭髮斑白的|91|白髪まじりの；灰色の|h|||
 groggy|adj.|酒醉的；東歪西倒的；搖搖晃晃的|91|グロッキー|b|He was groggy from too much wine.||ワインの飲みすぎでふらふらになった。
-groundless|adj.|無根據的；無理由的|91|事実無根；無根|a|The fact is that the rumor is groundless.||実際、その噂は根も葉もないものだ。
+groundless|adj.|無根據的；無理由的|91|根拠のない；事実無根の|v|The fact is that the rumor is groundless.||実際、その噂は根も葉もないものだ。
 grovel|v.|趴；匍匐；卑躬屈膝|91|這いつくばる；へつらう|d|||
 grudgingly|adv.|勉強地；不情願地|91|しぶしぶ；いやいや|d|||
 gruelling|adj.|折磨人的；使人精疲力盡的；痛打；懲罰|91|過酷な；へとへとにさせる|h|||
@@ -21607,7 +21607,7 @@ instinctual|adj.|本能的|91|本能的な|h|||
 integrator|n.|綜合之人；積分電路；積分器|91|統合者；積分器|d|||
 intellectualism|n.|智力活動；唯理智論|91|知性主義；主知主義|d|||
 interbank||管排間的；管束間的|91|銀行間の|h|||
-intercollegiate|adj.|大學間的；校際的|91|インカレ|b|Our team won in the intercollegiate tournament.||わがチームは大学対抗のトーナメントで優勝した。
+intercollegiate|adj.|大學間的；校際的|91|大学間の；インカレの|v|Our team won in the intercollegiate tournament.||わがチームは大学対抗のトーナメントで優勝した。
 interdiction|n.|禁止；停止；阻斷|91|禁止；遮断|h|||
 interferometer|n.|干涉儀|91|干渉計|d|||
 interlaced|adj.|交織的；交錯的|91|交錯した；織り交ぜた|h|||
@@ -21639,7 +21639,7 @@ jailer|n.|看守監獄的人；獄卒|91|看守；牢番|d|||
 jalapeno||墨西哥胡椒|91|ハラペーニョ；メキシコ唐辛子|h|||
 jawline|n.|下頜的輪廓；下巴的外形|91|顎のライン；顎の輪郭|h|||
 jell|v.|成膠狀；果子凍|91|ゼリー状に固まる；固まる|h|||
-jodhpur||焦特布林|91|ジョドパーズ；乗馬ズボン|h|||
+jodhpur||焦特布林|91|ジョッパーズ；乗馬ズボン|v|||
 joinery|n.|細木工技術；細木工活；細木工行業|91|建具製作；指物|d|||
 jove|n.|朱庇特主神；木星|91|ユピテル；木星|h|By Jove! I forgot my wallet!||ヤバイ！財布忘れた！
 joyride|n.|駕車兜風；偷車亂開；乘汽車兜風|91|ドライブ；無免許運転；車の遊び乗り|h|||
@@ -21661,7 +21661,7 @@ knackered|adj.|筋疲力盡的|91|くたくたの；へとへとの|h|That is, t
 knave|n.|惡棍；騙徒；傑克|91|悪党；ならず者；ジャックの札|h|Honest men and knaves may possibly wear the same cloth.||善人も悪人も同じ衣服を着ることができるのである。
 kneecap|n.|膝蓋骨；護膝|91|膝蓋骨；膝頭|b|||
 knowledgable|adj.|知識淵博的；有見識的|91|博識な；見識のある|h|||
-kooky|adj.|古怪的；乖僻的；瘋狂的|91|クーキー|a|||
+kooky|adj.|古怪的；乖僻的；瘋狂的|91|風変わりな；おかしな|v|||
 kundalini|n.|生命力|91|クンダリニー；生命エネルギー|h|||
 kuomintang|n.|國民黨|91|国民党|d|||
 laboring|adj.|勞動的|91|労働の；骨の折れる|h|He is laboring under a great error.||彼は大きな心違いをしている。
@@ -21699,7 +21699,7 @@ libertine|n.|放蕩者；玩樂者；浪子；放蕩的|91|蕩児；道楽者|b|
 ligation|n.|結紮；綁|91|結紮|b|I had a tubal ligation.||不妊手術を受けました。
 limiter|n.|限制物；限幅器|91|リミッター|b|||
 linearity|n.|線性；直線性|91|線形性；直線性|d|||
-linesman|n.|常備步兵；線路保養工；邊線裁判員|91|ラインズマン|b|||
+linesman|n.|常備步兵；線路保養工；邊線裁判員|91|線審；ラインマン；電線工|v|||
 liposuction||脂肪抽吸|91|脂肪吸引|d|||
 liquidator|n.|清算人|91|清算人|d|||
 lisle|n.|萊爾線；萊爾線織物；萊爾線的|91|リール糸；リール糸の織物|h|||
@@ -21719,7 +21719,7 @@ lorca|n.|洛爾卡|91|ロルカ|h|||
 lossless|adj.|無損的；無損耗；無耗|91|無損失の；ロスレスの|h|||
 louse|n.|蝨子；寄生蟲|91|しらみ|b|The plural form of "louse" is "lice".|“蝨子”的複數形式是“蝨子們”|「louse」の複数形は「lice」です。
 lout|n.|蠢人；愚弄|91|粗暴な男；無作法者|h|||
-loveliness|n.|可愛；美麗；魅力|91|色香|b|The tiny birthmark took nothing from her loveliness.||小さなあざは彼女の美しさを少しも損なわなかった。
+loveliness|n.|可愛；美麗；魅力|91|美しさ；愛らしさ；魅力|v|The tiny birthmark took nothing from her loveliness.||小さなあざは彼女の美しさを少しも損なわなかった。
 lovemaking|n.|調情；寄情；求婚|91|愛の行為；口説き|h|||
 luminance|n.|亮度|91|輝度|d|||
 luminescence|n.|無熱光；冷光；發冷光|91|ルミネッセンス|b|||
@@ -21826,8 +21826,8 @@ nakedness|n.|裸；明顯；赤身裸體|91|裸|a|The nakedness of woman is the 
 nameplate|n.|名牌；標示牌|91|表札；銘板|a|||
 nanoparticle||奈米粒|91|ナノ粒子|d|||
 nape|n.|項；頸背|91|うなじ|b|||
-narc|n.|緝毒刑警|91|麻薬捜査官；麻薬取締官|h|||
-narco|n.|緝查毒品的刑警|91|麻薬捜査官；麻薬取締官；麻薬|h|||
+narc|n.|緝毒刑警|91|麻薬捜査官；密告者|v|||
+narco|n.|緝查毒品的刑警|91|麻薬捜査官；麻薬密売人|v|||
 narcolepsy|n.|嗜眠發作|91|ナルコレプシー|b|||
 nary|adj.|連…也沒有的|91|ひとつも…ない；少しも…ない|h|||
 nastiness|n.|汙穢；不潔；煩人|91|不快さ；汚らしさ；意地悪さ|h|||
@@ -21848,7 +21848,7 @@ niacin|n.|菸鹼酸|91|ナイアシン|b|||
 nightgown|n.|女式睡衣；孩子穿的睡衣；婦女穿的睡衣|91|ネグリジェ；寝間着|d|She has this pretty lace nightgown with straps.|她的這件吊帶蕾絲睡衣很漂亮。|
 nighthawk|n.|夜鷹；夜生活者|91|ヨタカ；夜型人間|h|||
 nightshade|n.|茄屬植物|91|ナス科植物；ナイトシェード|h|||
-nihilistic|adj.|虛無主義的；無政府主義的|91|ニヒル；ニヒリスティック|a|||
+nihilistic|adj.|虛無主義的；無政府主義的|91|虚無主義の；ニヒリスティックな|v|||
 nimbus|n.|幻雲；雨雲；光輪|91|後光；雨雲；光輪|d|||
 nitride|n.|氮化物|91|窒化物|d|||
 nitrite|n.|亞硝酸鹽|91|亜硝酸塩|d|||
@@ -21867,7 +21867,7 @@ nosey|adj.|大鼻子的；愛管閒事的；愛探聽的|91|詮索好きな；�
 notional|adj.|概念的；想像的|91|概念上の；想像上の；仮定の|h|||
 nougat|n.|牛軋糖；杏仁蛋白糖|91|ヌガー|b|||
 nub|n.|小塊；瘤；結節|91|核心；要点；小さな塊|h|||
-nullification|n.|無效；廢棄；取消|91|無化|b|||
+nullification|n.|無效；廢棄；取消|91|無効化；廃止；取り消し|v|||
 numeracy|n.|識數；計算能力|91|計算能力；数の理解力|h|||
 numismatic|adj.|貨幣的；獎章的；古幣學的|91|貨幣の；貨幣収集の|h|||
 nunnery|n.|女修道院；尼姑庵|91|尼寺|b|||
@@ -21967,7 +21967,7 @@ physic|n.|藥品；瀉藥；醫學；給...服藥|91|薬；下剤；医術；薬
 physiologically|adv.|生理學方面|91|生理学的に|h|||
 physiologist|n.|生理學者|91|生理学者|h|||
 phytoplankton|n.|浮游植物|91|植物プランクトン|d|||
-pica|n.|異食癖；鵲；12點活字|91|ピカ；異食|b|||
+pica|n.|異食癖；鵲；12點活字|91|異食症；パイカ|v|||
 pickpocket|n.|扒手|91|すり；する|a|Some brave passengers caught the pickpocket and turned him over to the police.|幾位見義勇為的乘客把小偷抓住了，還把他送到了警方的手中。|何人かの勇敢な乗客がそのすりを捕らえ、警察に引き渡した。
 pidgin|n.|混雜語言；混雜行話；事務|91|ピジン|b|||
 pilfer|v.|盜取；小偷小摸；剽竊|91|くすねる；ちょろまかす|b|||
@@ -21978,7 +21978,7 @@ plausibility|n.|似有道理；貌似可信|91|もっともらしさ；信憑性
 plausibly|adv.|似真地|91|もっともらしく；説得力のある形で|h|It cannot plausibly be argued that behaviour of such complexity derives entirely from instinct.||そのような複雑な行動が本能のみに由来するという主張はとうてい成り立たない。
 playfulness|n.|活潑快樂；戲謔；童心|91|遊び心；茶目っ気|b|Such playfulness is characteristic of Mr Baker.||こんなおふざけはいかにもベーカー氏らしい。
 playmaking|n.|控球后衛；發動機|91|攻撃の組み立て；プレーメイキング|h|||
-plaything|n.|玩具；被玩弄的人；玩物|91|手遊び|b|You must not deprive children of their playthings.||子供からおもちゃを奪ってはいけない。
+plaything|n.|玩具；被玩弄的人；玩物|91|おもちゃ；玩具；もてあそばれる人|v|You must not deprive children of their playthings.||子供からおもちゃを奪ってはいけない。
 plenipotentiary|n.|全權大使；全權代表；有全權的；全權代表的|91|全権大使；全権代表；全権を持つ|h|||
 pleural|adj.|胸膜的；肋膜的|91|胸膜の；肋膜の|h|||
 plinth|n.|底座；基腳；柱基|91|台座；柱の基礎；土台|h|||
@@ -22057,7 +22057,7 @@ pumice|n.|輕石；浮石；用浮石磨光|92|軽石；軽石で磨く|h|I rub 
 pupa|n.|蛹|92|さなぎ；蛹|d|The insect grew out of a pupa into an imago.|昆蟲破蛹而出變成成蟲。|その虫はさなぎから成虫になった。
 purifier|n.|使潔淨的人；提純者；精煉器|92|浄化装置；精製器；浄化する人|d|I was bought a new water purifier.||新しい整水器、買ってもらったんだ。
 puritanical|adj.|清教徒的；清教主義的；宗教上極端拘謹的|92|清教徒的な；極端に厳格な|h|||
-purveyor|n.|承辦伙食者；承辦商人；徵發官員|92|御用達|b|||
+purveyor|n.|承辦伙食者；承辦商人；徵發官員|92|御用達業者；供給者|v|||
 pyrite|n.|黃鐵礦|92|黄鉄鉱|d|||
 qualitatively|adv.|質量上|92|質的に；質の面で|h|||
 quant|n.|篙；用篙撐|92|竿；竿で押す|h|||
@@ -22077,7 +22077,7 @@ radiative|adj.|發光的；放熱的；放射的|92|放射の；放熱の；放�
 radiography|n.|射線照相術|92|放射線撮影；レントゲン撮影|h|||
 radiologist|n.|放射學者|92|放射線科医|d|||
 radiometric|adj.|輻射度的；放射性測量的|92|放射測定の；放射能測定の|h|||
-raga|n.|拉格|92|貪欲；ラーガ|b|||
+raga|n.|拉格|92|ラーガ|v|||
 raggedy|adj.|有些破的；有些參差不齊的；有些刺耳的|92|ぼろぼろの；ぎざぎざの；乱れた|h|||
 rambler|n.|漫步者；蔓生植物|92|散策する人；つる性の植物；つるバラ|h|||
 rance|n.|產於比利時的暗色大理石；窄礦柱；支撐|92|ベルギー産の暗色大理石；支柱|h|||
@@ -22089,7 +22089,7 @@ reactivate|v.|恢復活動|92|再活性化する；再び作動させる|h|||
 reassemble|v.|重新召集；重新裝配；重新集合|92|再び集める；組み直す；再集合する|h|||
 reassert|v.|再斷言；重複主張|92|再び主張する；改めて断言する|h|||
 recherche|adj.|精選的；罕見的；珍奇的|92|選り抜きの；珍奇な；高級な|h|||
-recompense|n.|報償；酬金；賠償|92|償い|a|||
+recompense|n.|報償；酬金；賠償|92|報酬；償い；賠償|v|||
 reconfigure|v.|重新配置|92|再構成する；設定し直す|h|||
 reconvene|v.|再聚會；再集會|92|再び集まる；再開する|h|||
 rectification|n.|改正；矯正；整流|92|整流|b|||
@@ -22128,7 +22128,7 @@ retrain|v.|重新訓練；再訓練|92|再訓練する；再教育する|h|Lifel
 retrofitted|v.|給機器裝置裝配；翻新；改型|92|後付けされた；改造された；後付けで装備された|h|||
 retry|v.|再試；再審|92|リトライ|b|||
 returner|n.|離職生養小孩一段時間後復職的婦女；回擊者|92|職場復帰者；反撃する人|h|||
-reversion|n.|回覆；復原；歸還|92|先祖返り|b|||
+reversion|n.|回覆；復原；歸還|92|復帰；逆戻り；先祖返り|v|||
 revisionism|n.|修正主義|92|修正主義|d|||
 rhesus|n.|恆河猴|92|アカゲザル；恒河猿|h|||
 rhetorically|adv.|在修辭學上；講究修辭地|92|修辞的に；修辞学上|h|||
@@ -22162,7 +22162,7 @@ safekeeping|n.|保護；保管|92|預かり；不出|a|The valuables are in the 
 salerno|n.|薩勒諾|92|サレルノ|h|||
 sanctification|n.|神聖化；靈化；認可|92|神聖化；聖化；承認|d|||
 sangria|n.|桑格利亞汽酒|92|サングリア|b|We had a few glasses of sangria.||僕たち、サングリアを２・３杯飲んだよ。
-sanitized|v.|使清潔；進行消毒；審查|92|消毒された；検閲された；きれいに整えた|h|||
+sanitized|v.|使清潔；進行消毒；審查|92|消毒された；無害化された；検閲された|v|||
 sarge|n.|警官；軍士長；軍士|92|軍曹；巡査部長|h|||
 scalloped||有圓齒的|92|縁がぎざぎざの；ホタテ貝形の|h|||
 scantily|adv.|缺乏地；不充足地；吝嗇地|92|乏しく；わずかに；露出して|h|||
@@ -22222,7 +22222,7 @@ sinker|n.|使下沉的人；鉛錘；鑿井工|92|シンカー|a|||
 sirloin|n.|牛的上部腰肉；牛裡脊肉|92|ロース；サーロイン|a|||
 sistine|adj.|羅馬教宗西克斯圖斯的|92|システィーナの|h|The Sistine Chapel is a vast chapel built inside the Vatican Palace in 1473.||システィナ礼拝堂は、１４７３年にバティカン宮殿内に建立された壮大な礼拝堂です。
 skeeter|n.|蚊子；冰上滑行船|92|蚊；氷上滑走艇|h|||
-skydive|v.|跳傘運動員在降落傘張開前做空中造型動作|92|スカイダイビングをする；空中演技をする|h|Believe it or not, I went skydiving.||信じようと信じまいと、私はスカイダイビングに行った。
+skydive|v.|跳傘運動員在降落傘張開前做空中造型動作|92|スカイダイビングをする|v|Believe it or not, I went skydiving.||信じようと信じまいと、私はスカイダイビングに行った。
 sleepiness|n.|睡意|92|眠気；睡魔|a|||
 sleuth|n.|警犬；偵探；做偵探|92|探偵；刑事；調べる|d|||
 slicer|n.|切片機|92|スライサー|b|||
@@ -22240,12 +22240,12 @@ snooty|adj.|傲慢的；自大自滿的；鄙視別人的|92|高慢な；お高�
 snotty|adj.|流鼻涕的；蠻橫無禮的|92|鼻水の；生意気な；横柄な|h|||
 snowboarder||雪山飛魂|92|スノーボーダー|b|Tom is a pretty good snowboarder.||トムは上級のスノーボーダーだ。
 snugly|adv.|舒適地；整潔乾淨地；緊密地|92|ぬくぬく；こじんまり|b|The old woman was snugly sitting on a cushion.||お祖母さんが座布団の上にちんまりとすわっていました。
-soapbox|n.|肥皂盒；臨時演說臺；街頭演說的|92|石鹸箱；即席の演壇；街頭演説|h|||
+soapbox|n.|肥皂盒；臨時演說臺；街頭演說的|92|石鹸箱；街頭演説台|v|||
 socialise|v.|使社會化；使社會主義化；使適合社會需要；參加社交活動|92|社交的にする；社会化する；社交に参加する|h|||
 societe||興業|92|会社；協会|h|||
 sociopathic|adj.|反社會的；不愛社交的|92|反社会的な；社会病質の|h|||
 softener|n.|軟化劑；硬水軟化器|92|柔軟剤；軟化剤；軟水器|d|Your tap water is too hard. Get a water softener.||貴殿宅の水道水は硬水過ぎます。軟水を使用しましょう。
-solider||機動戰士|92|機動戦士；兵隊；戦士|h|||
+solider||機動戰士|92|より頑丈な；より確実な|v|||
 solidity|n.|固體性；堅硬；堅固|92|堅固さ；固体性；確かさ|h|||
 solute|n.|溶解物；溶質|92|溶質|b|||
 songbook|n.|歌謠集；歌集|92|歌集；歌本|d|||
@@ -22283,7 +22283,7 @@ stevia||甜菊|92|ステビア|b|||
 stockade|n.|柵欄；圍起的地方；用柵欄圍住|92|柵；柵で囲う；囲い|h|||
 stoneware|n.|瓷器|92|炻器；陶器|d|||
 stonework|n.|石造物；建築物的石造部分；石方工程|92|石細工；石造建築の部分；石工事|h|||
-storeroom|n.|儲藏室；庫房|92|内蔵|b|I forgot to lock the storeroom.|我忘了鎖儲藏室的門。|物置に鍵をかけるのを忘れちゃった。
+storeroom|n.|儲藏室；庫房|92|貯蔵室；倉庫|v|I forgot to lock the storeroom.|我忘了鎖儲藏室的門。|物置に鍵をかけるのを忘れちゃった。
 stover|n.|秸杆；冬飼料|92|乾燥した茎や葉；家畜の冬の飼料|h|||
 stowaway|n.|偷渡者；匿身處|92|密航者；隠れ乗り|d|||
 straightaway|adj.|直線行進的；通俗易懂的；立刻的；直道|92|直線の；すぐに；直線コース|d|||
@@ -22369,15 +22369,15 @@ thro|prep.|透過；從開始到結束|92|通して；から終わりまで|h|||
 thunderclap|n.|雷聲；霹靂；晴天霹靂|92|雷鳴；霹靂；青天の霹靂|d|I was taken aback by a thunderclap.||私は雷鳴にぎょっとした。
 thymus|n.|胸腺|92|胸腺|b|||
 tiber|n.|臺伯河|92|テヴェレ川|h|||
-ticklish|adj.|易倒的；不穩定的；難對付的|92|くすぐったい；こそばゆい|a|I think both Tom and Mary are ticklish.||トムもメアリーも、くすぐったがり屋なんじゃないかな。
-tidbit|n.|少量的美食；珍饈；珍品|92|こぼれ話|b|||
+ticklish|adj.|易倒的；不穩定的；難對付的|92|くすぐったい；扱いにくい|v|I think both Tom and Mary are ticklish.||トムもメアリーも、くすぐったがり屋なんじゃないかな。
+tidbit|n.|少量的美食；珍饈；珍品|92|一口の珍味；こぼれ話|v|||
 tikka|n.|切成小塊的肉；通常用調味汁浸泡後烤炙而成；葉斑|92|チッカ；切り身の香辛料焼き|h|||
 timeshare|adj.|分時享用度假別墅的|92|時間共有型の；タイムシェアの|h|||
 tiptoe|n.|腳尖；用腳尖走|92|つま先；爪先立ちで歩く|h|I went up to my bedroom on tiptoe.||僕はそうっと自分の寝室に行った。
 titian|n.|赤褐色；橙紅色|92|赤褐色；橙赤色；ティツィアーノ色|h|||
 tittle|n.|小符號；微量；一點點|92|小さな符号；ごくわずか；少し|h|||
 toddy|n.|棕櫚汁；棕櫚酒|92|ヤシ酒；ヤシの樹液の飲料|h|||
-toenail|n.|腳趾甲；斜釘|92|フットネイル|b|Fingernails grow nearly four times faster than toenails.|手甲的生長速度比腳甲快四倍。|
+toenail|n.|腳趾甲；斜釘|92|足の爪|v|Fingernails grow nearly four times faster than toenails.|手甲的生長速度比腳甲快四倍。|
 toleration|n.|寬容；預設；信仰自由|92|寛容；容認；信仰の自由|d|||
 tongued|adj.|有...舌頭的；有...說話方式的|92|舌のある；話し方の|h|I'm short-tempered, and a loose-tongued man.||私は気が短いし、口も軽い男だ。
 tootsie|n.|寶貝兒；親愛的|92|かわいい人；ダーリン；あなた|h|||
@@ -22400,7 +22400,7 @@ triptych|n.|三張相聯的圖畫；三幅一聯|92|三連祭壇画；三連画|
 triumvirate|n.|三執政；三頭統治；三人執政之職|92|三頭政治；三人執政|d|||
 trophic|adj.|營養的；有關營養的|92|栄養の；栄養上の|h|||
 trundle|n.|小車輪；腳輪；滾動|92|小さな車輪；転がす；ゴロゴロ転がる|d|||
-truthfulness|n.|真實；正當；坦率|92|真実味|b|||
+truthfulness|n.|真實；正當；坦率|92|正直さ；誠実さ；真実性|v|||
 tryptophan|n.|色氨酸|92|トリプトファン|b|||
 tryst|n.|約會；幽會|92|逢い引き；密会；約束|d|||
 tsarist|adj.|沙皇的；沙皇式的；專制的；沙皇的支持者|92|ツァーリの；専制的な；ツァーリ支持者|h|||
@@ -22432,7 +22432,7 @@ unblocked|adj.|非塊式；暢通無阻的|92|遮断されていない；通行�
 unbounded|adj.|無邊的；無限的；無節制的|92|限りない；無制限の；果てしない|h|||
 uncaring|adj.|心不在焉的；不注意的|92|無関心な；思いやりのない|h|||
 unceremoniously|adv.|無禮地；粗魯地；唐突地|92|無遠慮に；乱暴に；唐突に|h|||
-uncharacteristic|adj.|無典型特徵的；不典型的|92|特徴のない；らしくない|h|||
+uncharacteristic|adj.|無典型特徵的；不典型的|92|らしくない；典型的でない|v|||
 uncharacteristically|adv.|不典型地；非同尋常地|92|普段に似合わず；らしくなく|h|||
 uncivilized|adj.|未開化的；不文明的|92|未開|a|Those who use forks or chopsticks often think people who don't are uncivilized.|用叉子和筷子的人經常覺得不用叉子和筷子的人不文明。|フォークや箸を使う人は、使わない人を下品と思いがちだ。
 uncommonly|adv.|非常；極其；罕見地|92|非常に；珍しく|h|||
@@ -22447,7 +22447,7 @@ undeserving|adj.|不配受到的；不值得...的|92|値しない；ふさわ�
 undesired|adj.|不希望得到的；非所要求的|92|望まれない；歓迎されない|h|||
 undeterred|adj.|未被嚇住的|92|怯まない；ひるまない|h|||
 undoubted|adj.|無疑的；確實的|92|疑いのない；確かな|h|||
-uneasiness|n.|不舒適；不安；侷促|92|胸騒ぎ|b|I've had a vague uneasiness.||このところほのかな不安感がある。
+uneasiness|n.|不舒適；不安；侷促|92|不安；落ち着かなさ；居心地の悪さ|v|I've had a vague uneasiness.||このところほのかな不安感がある。
 unencumbered|adj.|沒有阻礙的；不受妨礙的；沒有負擔的|92|妨げのない；負担のない；身軽な|h|||
 unexploded|adj.|未爆炸的；未發射的；裝著炸藥的|92|不発の；爆発していない|h|||
 unfailing|adj.|可靠的；經久不衰的；無窮盡的|92|確実な；絶えることのない；揺るがない|h|||
@@ -22493,7 +22493,7 @@ unsalted|adj.|新鮮的|92|無塩の；塩なしの|h|To make this cake, you'll 
 unscripted|adj.|不用稿子的|92|台本のない；即興の|h|||
 unseat|v.|剝奪...的席位；使失去資格；使退位|92|議席を奪う；地位から追い落とす|h|||
 unstuck|adj.|鬆開的；紊亂的|92|はがれた；混乱した；うまくいかない|h|||
-unsuited|adj.|不適宜的；不適合的；不適當的|92|不相応|a|||
+unsuited|adj.|不適宜的；不適合的；不適當的|92|不向きな；ふさわしくない|v|||
 unsullied|adj.|無汙點的；清白的|92|汚れのない；清らかな|h|||
 unsweetened|adj.|未加糖的；不甜的|92|無糖の；甘くない|h|||
 untangle|v.|解開糾結；解開；整頓|92|もつれを解く；整理する；解決する|h|I can't untangle my hair.||髪に寝癖がついてとれないよ。
@@ -22561,7 +22561,7 @@ wattle|n.|枝條構架；編條；枝條；由編條做成的|92|枝編み；編
 weaponized|v.|把…改裝成武器；使武器化|92|武器化された；兵器化した|h|||
 webbed|adj.|網狀的；有網的|92|水かきのある；網状の|h|||
 weeknight|n.|週日夜晚|92|平日の夜；週の夜|h|||
-weenie|adj.|微小的；細小的|92|ウインナーソーセージ；小さい|h|||
+weenie|adj.|微小的；細小的|92|ウインナー；小さな；臆病者|v|||
 wetness|n.|溼潤；下雨|92|湿気；湿り気；雨|h|||
 wetsuit|n.|潛水服；防寒泳衣；溼式保暖服|92|ウェットスーツ|b|Tom is wearing a wetsuit.|湯姆穿著潛水服。|トムはウェットスーツを着ている。
 wherewithal|n.|必要的資金|92|必要な資金；資力；手段|h|||
@@ -22601,7 +22601,7 @@ zircon|n.|鋯石|92|ジルコン|b|||
 zirconia|n.|氧化鋯|92|ジルコニア|b|||
 zoologist|n.|動物學家|92|動物学者|d|||
 abaya|n.|毛織物；長袍|92|アバヤ；イスラム圏の女性用長衣|d|||
-abbe|n.|男修道院院長；神父|92|大修道院長；神父；修道院長|d|||
+abbe|n.|男修道院院長；神父|92|神父；修道院長|v|||
 abductor|n.|誘拐者；綁架者；外展肌|92|誘拐犯；外転筋|d|||
 abeyance|n.|中止；暫擱；停止|92|一時停止；保留；中断|h|The question is left in abeyance.||問題は未解決のままだ。
 abiotic|adj.|無生命的；非生物的|92|非生物的な；無生物の|h|||
@@ -22615,7 +22615,7 @@ absorbance|n.|吸光率|92|吸光度；吸収率|d|||
 abstractly|adv.|抽象地；理論上地|92|抽象的に；理論上|h|||
 abutment|n.|鄰接；接界；橋臺|92|接合部；橋台；隣接|h|||
 abyssal|adj.|深不可測的；深海的|92|深海の；底知れぬ；深淵の|h|||
-acceptably|adv.|可欣然接受地；承受得住地；能合人意地|92|受け入れられるように；まずまず|h|||
+acceptably|adv.|可欣然接受地；承受得住地；能合人意地|92|まずまず；受け入れられるほど|v|||
 acclamation|n.|歡呼；稱讚；喝彩|92|歓呼|b|The motion was carried by acclamation.||動議は発声投票で可決した。
 acculturation|n.|文化互滲；文化適應|92|文化変容；文化適応|h|||
 accusatory|adj.|控訴的；指責的|92|非難の；告発的な|h|||
@@ -22626,7 +22626,7 @@ acoustically|adv.|聽覺上；聲學上|92|音響的に；音響面で|h|||
 acquiescence|n.|默許；預設|92|黙認；容認；従順|d|||
 actuation|n.|開動；激勵|92|作動；起動；駆動|h|||
 addressable|adj.|可定址的|92|アドレス指定可能な；宛先を指定できる|h|||
-addressee|n.|收件人；收信人|92|受取人；名宛人|d|They confused the names of the sender and the addressee.||彼らは差出人と受取人の名前を混同した。
+addressee|n.|收件人；收信人|92|受取人；宛名の人|v|They confused the names of the sender and the addressee.||彼らは差出人と受取人の名前を混同した。
 adductor|n.|內收肌|92|内転筋|h|||
 adenine|n.|腺嘌呤|92|アデニン|b|||
 adenocarcinoma|n.|腺癌|92|腺癌；腺がん|d|||
@@ -22661,11 +22661,11 @@ airless|adj.|無空氣的；不通風的|92|空気のない；息苦しい|h|||
 airpower|n.|空中實力；制空權|92|航空兵力；制空権|h|||
 alacrity|n.|敏捷；輕快；樂意|92|機敏さ；喜んで応じること|h|||
 albacore|n.|青花魚科的海產魚|92|ビンナガ|b|||
-albinism|n.|白化病|92|アルビノ；白皮症|d|||
+albinism|n.|白化病|92|白皮症；アルビノ|v|||
 aldehyde|n.|醛；乙醛|92|アルデヒド|a|||
 aleph|n.|希伯來文的第一個字母|92|アレフ|b|||
 alga|n.|藻類；海藻|92|藻；藻類|h|||
-aliyah||<希伯來>登臺讀經文|92|聖書朗読者登壇；アリーヤ|h|||
+aliyah||<希伯來>登臺讀經文|92|アリーヤ；イスラエルへの移住|v|||
 alkalinity|n.|鹼度|92|アルカリ性|a|||
 alkaloid|n.|生物鹼|92|アルカロイド|b|||
 alleluia|int.|哈利路亞|92|ハレルヤ|h|||
@@ -22759,11 +22759,11 @@ aswan|n.|阿斯旺|92|アスワン|h|||
 atheistic|adj.|無神論的；無神論者的|92|無神論的な；無神論者の|h|||
 atherosclerotic|adj.|動脈粥樣硬化|92|動脈硬化性の|h|||
 athletically|adv.|運動地；活躍地；運動家作風地|92|運動競技的に；活発に；スポーツマンらしく|h|||
-atman|n.|個人靈魂；自我；宇宙靈魂|92|アートマン；個人の魂；宇宙の魂|d|||
+atman|n.|個人靈魂；自我；宇宙靈魂|92|アートマン；真我|v|||
 atomizer|n.|霧化器|92|アトマイザー|b|||
 attar|n.|香精油；玫瑰油|92|香油；バラ油|h|||
 attentional|adj.|保養的；注意的|92|注意の；保護の|h|||
-attractor|n.|引人注意的人|92|アトラクタ|b|||
+attractor|n.|引人注意的人|92|アトラクター；引きつけるもの|v|||
 attunement|n.|協調；調音；調和|92|調和；調律；協調|h|||
 audiology|n.|聽力學|92|聴覚学；聴覚医学|h|||
 audiophile|n.|高保真音響愛好者|92|高音質愛好家|h|||
@@ -22789,10 +22789,10 @@ backlight|v.|從背後照亮|92|逆光|b|||
 backwardness|n.|向後；相反；倒|92|後退；逆；後ろ向き|h|||
 badness|n.|壞；惡；不良|92|悪さ|a|||
 bagger|n.|裝袋工；裝袋機|92|袋詰め係；袋詰め機|h|||
-baggie||垃圾袋|92|ごみ袋；ポリ袋|h|||
+baggie||垃圾袋|92|ポリ袋；小さなビニール袋|v|||
 bailie|n.|高階市政官|92|高位の市政官|h|||
 bakelite|n.|酚醛塑膠；膠木|92|ベークライト|b|||
-baklava|n.|果仁蜜餅|92|バクラヴァ；ナッツの蜜菓子|d|||
+baklava|n.|果仁蜜餅|92|バクラヴァ|v|||
 balancer|n.|起平衡作用的人；平衡器；走鋼絲者|92|バランサー|b|||
 balsa|n.|西印度輕木；木筏|92|バルサ|b|||
 bantamweight|n.|最輕量級的拳擊選手|92|バンタム級の選手|h|||
@@ -22840,7 +22840,7 @@ betrayer|n.|叛徒；叛國賊|92|裏切り者|a|||
 betwixt|adv.|在其間；不走極端；在...之間；在...中間|92|間に；中間に；両者の間で|h|||
 beveled|adj.|有斜面的|92|斜めになった；面取りされた|h|||
 biannual|adj.|一年兩次的|92|年に二回の|h|||
-bibb|n.|桅肩加強板；夾板；小水龍頭|92|補強板；水栓|h|||
+bibb|n.|桅肩加強板；夾板；小水龍頭|92|水栓；補強板|v|||
 biblically||跟聖經相關|92|聖書に関して；聖書的に|h|||
 bibliographical|adj.|書目有關的；書目的|92|書誌の；文献目録の|h|||
 bicyclist|n.|騎腳踏車者；騎腳踏車者|92|自転車乗り；サイクリスト|h|Hideo turned the steering wheel sharply to avoid the bicyclist.||ひでおは自転車をこいでいた人を避けるためにハンドルをきった。
@@ -22882,11 +22882,11 @@ bloodletting|n.|放血|92|瀉血；刺絡|b|||
 bloodstained|adj.|血汙的；犯殺人罪的|92|血まみれ；血染め|b|||
 bloop|v.|做蠢事；發出剌耳雜音|92|失策する；雑音を発する|h|||
 blooper|n.|引起雜音的收音機；大挫折|92|ポテンヒット|b|||
-blotter|n.|吸墨紙；記事簿|92|ブロッター|b|||
+blotter|n.|吸墨紙；記事簿|92|吸い取り紙；記録簿|v|||
 blowtorch|n.|噴燈|92|バーナー；溶接用トーチ|h|||
 bluestone|n.|硫酸銅；膽礬|92|硫酸銅；胆礬|h|||
 bluesy|adj.|布魯斯樂的|92|ブルース風の|h|||
-bluey||帶藍色的；樵夫的包裹|92|青みがかった；木こりの荷物|h|||
+bluey||帶藍色的；樵夫的包裹|92|青みがかった；荷物包み|v|||
 bluntness|n.|鈍；率直；遲鈍|92|鈍さ；率直さ；鈍感|h|||
 blustery|adj.|惡劣的；狂風暴雨的；風大的|92|荒れ模様の；吹きすさぶ；風の強い|h|||
 bobblehead||搖頭娃娃|92|首振り人形|d|||
@@ -22962,7 +22962,7 @@ byway|n.|旁道；偏僻小路|92|横道；抜け道|a|||
 cackle|n.|咯咯聲；高笑聲；饒舌；咯咯地叫|92|くすくす笑い；甲高い笑い声；ケタケタ鳴く|h|||
 cagey|adj.|狡猾的；機警的；有戒心的|92|用心深い；抜け目のない；警戒心の強い|h|||
 caiman|n.|凱門鱷；鱷魚|92|カイマン；ワニ|d|||
-cakewalk|n.|步態競賽；闊步舞；舉行步態競賽|92|歩様競争；楽勝；歩様競争をする|d|You can do it. It'll be a cakewalk!||お前なら勝てる。楽勝だよ！
+cakewalk|n.|步態競賽；闊步舞；舉行步態競賽|92|楽勝；ケークウォーク|v|You can do it. It'll be a cakewalk!||お前なら勝てる。楽勝だよ！
 calabash|n.|葫蘆|92|葫蘆；ひょうたん|b|||
 calamitous|adj.|災難性的；不幸的|92|災害の；不幸な|h|||
 calcification|n.|鈣化|92|石灰化|d|||
@@ -23010,7 +23010,7 @@ categorise|v.|分類；歸類|93|分類する；類別する|h|||
 caulking|n.|堵縫；斂縫；捻縫|93|コーキング|a|||
 causally|adv.|有原因地|93|因果関係で；原因に従って|h|||
 cavitation|n.|成穴；空化|93|キャビテーション|b|||
-ceaselessly|adv.|不停地；不斷地|93|のべつ|b|||
+ceaselessly|adv.|不停地；不斷地|93|絶え間なく；絶えず|v|||
 celebrant|n.|主持儀式的人；主持彌撒的教父|93|儀式を執り行う人；ミサを司る司祭|h|||
 cellmate|n.|獄友；同牢室友|93|同房者；獄中の仲間|d|||
 centerfold|n.|中間插頁；裸體照片插頁|93|中とじ見開きのグラビア；ヌード写真の見開き|h|||
@@ -23062,7 +23062,7 @@ chloroplast|n.|葉綠體|93|葉緑体|d|||
 chokehold|n.|掐脖子；壓制|93|首絞め；抑え込み|h|The policeman put him in a chokehold.||警察官は、彼を締め上げた。
 choline|n.|膽鹼|93|コリン|b|||
 cholinergic|adj.|膽鹼能的；類似乙醯膽鹼的；被乙醯膽鹼活化的；膽鹼能藥|93|コリン作動性の；コリン作動薬|h|||
-chronometer|n.|天文鐘；航海用的精密時計；精密的時鐘|93|クロノメーター|b|||
+chronometer|n.|天文鐘；航海用的精密時計；精密的時鐘|93|クロノメーター；精密時計|v|||
 chummy|adj.|親密的；很友好的|93|親しい；仲良しの|h|||
 chutzpah|n.|肆無忌憚；厚顏無恥|93|厚かましさ；ずうずうしさ；厚顔無恥|h|||
 ciliary|adj.|眼睫毛的；纖毛的；纖毛狀的|93|睫毛の；繊毛の；繊毛状の|h|||
@@ -23087,7 +23087,7 @@ claptrap|n.|譁眾取寵的空話；譁眾取寵的|93|人気取りの空論；�
 classicism|n.|古典主義；古典風格；古典崇拜|93|古典主義；古典様式；古典崇拝|d|||
 cleat|n.|楔子；栓；繫纜墩；裝上栓|93|クリート|b|||
 climatology|n.|氣候學|93|気候学|d|||
-clincher|n.|敲彎釘尖的用具；緊鉗；鉚釘|93|殺し文句|b|||
+clincher|n.|敲彎釘尖的用具；緊鉗；鉚釘|93|決め手；決定打|v|||
 clinker|n.|煉磚；渣塊；煉成渣|93|焼塊|b|||
 clobber|n.|衣服；軟膏；痛打；擊倒|93|衣類；軟膏；殴る；打ち負かす|h|This new clobber is really comfy.|新買的衣服穿上很舒服。|
 clod|n.|土塊；對...擲土塊|93|土塊；土塊を投げる|d|||
@@ -23097,7 +23097,7 @@ cloture|n.|討論終結提付表決；以提付表決來結束辯論|93|討論�
 cloudless|adj.|晴朗的；無雲的|93|晴れた；雲一つない|d|Today the sky is a cloudless blue.||今日は、雲ひとつない青空だ。
 cluck|n.|咯咯的叫聲；咯咯叫|93|コッコッという鳴き声；コッコッと鳴く|h|||
 cluj|n.|克魯日|93|クルージュ|h|||
-clumsiness|n.|笨拙；粗陋；不漂亮|93|不器；不手際|b|||
+clumsiness|n.|笨拙；粗陋；不漂亮|93|不器用さ；ぎこちなさ|v|||
 clunk|n.|沉悶的金屬聲；發出沉悶聲|93|ガチャンという重い音；ゴトンと鳴る|h|The door closed with a clunk.||ドアが閉まってコツンと音がした。
 clydesdale|n.|強健的挽馬；強健的挽馬的|93|クライズデール；強健な輓馬|h|||
 coarsely|adv.|粗糙地；粗俗地；鄙俗地|93|粗く；粗雑に；下品に|h|||
@@ -23195,7 +23195,7 @@ cornmeal|n.|玉蜀黍粉；玉米片；麥片|93|トウモロコシ粉；コー�
 corpora||身體；屍體；體|93|身体；死体；体|h|||
 corporatism|n.|'各階級合作'主義|93|コーポラティズム|b|||
 corporatist|n.|組合主義者；社團主義者|93|組合主義者；社団主義者|h|||
-corrector|n.|修正者；校正者；校對者|93|コレクター|b|||
+corrector|n.|修正者；校正者；校對者|93|校正者；修正者|v|||
 corticosteroid|n.|皮質類固醇|93|コルチコステロイド|b|||
 cortina||絲膜|93|蜘蛛の糸状の膜|h|||
 costumer|n.|做服裝的人；服裝商|93|衣装係；衣装商|h|||
@@ -23217,7 +23217,7 @@ cravat|n.|領帶；圍巾；三角繃帶|93|クラバット|b|||
 craw|n.|嗉囊；嗉子；胃|93|嗉嚢；胃袋|h|||
 creaky|adj.|嘎吱嘎吱的|93|きしむ；ぎしぎしいう|h|||
 creche|n.|託兒所；育嬰堂；棄兒養育院|93|託児所|a|||
-credentialing||證書|93|資格認定；証明書の発行|h|||
+credentialing||證書|93|資格認定；信任状授与|v|||
 creel|n.|魚籃；粗紗架；經軸架|93|魚籠；糸巻き枠|d|||
 creosote|n.|雜酚；用雜酚處理|93|クレオソート|a|||
 cretin|n.|呆小病患者|93|呆痴者；愚か者|h|||
@@ -23266,7 +23266,7 @@ deanery|n.|教區；院長宅邸|93|教区；学部長の住居|h|||
 dearie|n.|可愛的小寶貝；親親|93|愛しい人；かわいい子|h|||
 deathless|adj.|不死的；永恆的|93|不滅の；永遠の|h|||
 debater|n.|辯論家；討論者|93|討論者；論者|d|||
-debauched|adj.|墮落的；酗酒的；淫逸的|93|淫乱|b|||
+debauched|adj.|墮落的；酗酒的；淫逸的|93|堕落した；放蕩な|v|||
 debonair|adj.|溫文有禮的；高興的|93|洗練された；陽気な|h|||
 decant|v.|輕輕倒出；移入其他容器|93|静かに注ぐ；別の容器に移す|h|||
 decapitate|v.|斬首；殺頭；開除|93|斬首する；首を切る；解任する|h|After I decapitated him, I realised I had ejaculated.||彼の首を切り終わった後，ボクは自分が射精していたことに気がついたのです・・・。
@@ -23287,7 +23287,7 @@ dehumanized|v.|使失去人性；使非人化|93|非人間化された；人間�
 deke|n.|<加拿大>假動作；佯攻動作|93|フェイント；佯攻|h|||
 deliciousness|n.|美味；怡人；芬芳|93|美味しさ；芳香|h|Today's stew has been carefully and slowly boiled to perfect deliciousness.||今日のシチューはじっくりコトコト煮込んで作ったからか、とてもおいしくできあがったよ。
 delimitation|n.|定界限；劃界；限界|93|境界の画定；範囲の限定|h|||
-deliverer|n.|救助者；引渡人；交付者|93|配達員|b|||
+deliverer|n.|救助者；引渡人；交付者|93|配達人；救助者|v|||
 demerara|n.|德麥拉拉蔗糖|93|デメララ砂糖；褐色糖|h|||
 demerit|n.|缺點；短處；過失|93|欠点；短所；過失|d|Everybody has his merits and demerits.||すべての人は長所と短所を持っている。
 demesne|n.|土地之所有；私有地；領地|93|私有地|b|||
@@ -23319,7 +23319,7 @@ desperado|n.|亡命之徒|93|デスペラード|b|||
 despondency|n.|失去勇氣；失望|93|落胆；意気消沈|d|||
 destabilise|v.|破壞政府的穩定|93|不安定にする；政権を揺るがす|h|||
 destitution|n.|窮困；貧窮；缺乏|93|極貧|b|||
-destructor|n.|自炸裝置；垃圾焚燬爐|93|デストラクタ|b|||
+destructor|n.|自炸裝置；垃圾焚燬爐|93|破壊装置；焼却炉|v|||
 detente|n.|緩和|93|デタント|a|||
 determinate|adj.|確定的；堅決的；決定的|93|確定的な；決定的な；決然とした|h|||
 determinedly|adv.|堅定地；堅決地；決然地|93|決意を持って；断固として|h|||
@@ -23331,7 +23331,7 @@ devoutly|adv.|虔誠地；虔敬地；衷心地|93|信心深く；心から|h|Mo
 dextrose|n.|葡萄糖；右旋糖|93|ブドウ糖|b|||
 diadem|n.|王冠；王冠狀物；王權|93|宝冠|b|||
 diamante|adj.|鑲人造鑽石的；鑲人造鑽石裝飾的；閃光飾品；珠片織物|93|ラインストーン飾りの；ラインストーンの織物|h|||
-diastolic|adj.|心臟舒張的|93|拡張期の；心臓拡張期の|h|||
+diastolic|adj.|心臟舒張的|93|拡張期の|v|||
 diatonic|adj.|自然音階的|93|ダイアトニック|b|||
 dibble|n.|挖洞器；挖洞；使用挖洞器播種|93|穴掘り器；穴掘りの；穴掘り器で種を植える|h|||
 dichotomous|adj.|二分的；叉狀分枝的|93|二分の；二分岐の|h|||
@@ -23562,7 +23562,7 @@ exhalation|n.|呼氣；蒸發；散發物|93|呼気；蒸発；発散物|d|||
 exhaustively|adv.|用盡一切地|93|徹底的に；余すところなく|h|||
 exhibitionism|n.|自我宣傳癖；裸露癖；喜出風頭癖|93|自己顕示欲；露出癖|h|||
 exhibitionist|n.|傾向自我宣傳的人；裸露症患者|93|自己顕示欲の強い人；露出症の人|h|||
-exhilarated|v.|使高興；使興奮|93|ウハウハ|b|||
+exhilarated|v.|使高興；使興奮|93|大喜びした；わくわくした|v|||
 exhumation|n.|發掘；掘屍|93|発掘；掘り起こし|d|||
 exoneration|n.|免罪；免除|93|雪冤|b|||
 expander|n.|擴充套件器；擴管器|93|エキスパンダー|b|||
@@ -23605,7 +23605,7 @@ faunal|adj.|動物區系的|93|動物相の|h|||
 faustus|n.|浮士德|93|ファウスト|h|||
 favouritism|n.|偏愛；徇私；寵信|93|えこひいき；縁故主義|d|||
 fearfully|adv.|頗；可怕地；非常地|93|恐る恐る；おっかなびっくり|a|||
-featureless|adj.|無特色的；平凡的|93|のっぺり|b|||
+featureless|adj.|無特色的；平凡的|93|特徴のない；のっぺりした|v|||
 feckless|adj.|無效的；無能的；不負責任的|93|無能な；無責任な|h|Our feckless opposition party didn't do enough to stop him.|我們軟弱的反對派不足以阻止他。|
 feldspar|n.|長石|93|長石|b|||
 felonious|adj.|兇惡的；極惡的；重罪的|93|凶悪な；重罪の|h|||
@@ -23640,7 +23640,7 @@ fishtail|adj.|魚尾狀的；擺尾飛行|93|魚の尾のような；尾を振�
 fivefold|adj.|五重的；五倍的；五重地；五倍地|93|五重の；五倍の|h|||
 fixable|adj.|可固定的|93|修理できる；固定できる|h|||
 fiz|n.|發嘶嘶聲；有泡沫的飲料；作嘶嘶聲|93|泡立つ音；発泡性飲料；シュッと音を立てる|h|Pouring bubbly-water into the glass with ice in it made a cold fizzing sound.||氷の入ったグラスにサイダーを注ぐとシュワシュワと涼しげな音がしました。
-flagellation|n.|鞭打|93|鞭打ち；むち打ち|h|||
+flagellation|n.|鞭打|93|鞭打ち|v|||
 flagrantly|adv.|罪惡昭彰地；千真萬確地；極惡地|93|明白に；露骨に；悪辣に|h|||
 flan|n.|果子或果醬露餡餅|93|フラン|b|||
 flatbread|n.|大餅；扁麵包|93|平たいパン；薄焼きパン|h|||
@@ -23656,7 +23656,7 @@ floured||粉質的；撒上粉的；粉狀的|93|粉質の；粉をまぶした|
 fluidly||流動地；不定地|93|流動的に；曖昧に|h|||
 fluorite|n.|螢石|93|蛍石|d|||
 fluvial|adj.|河流的|93|河川の|h|||
-flycatcher|n.|捕蠅器；捕蠅草|93|ヒタキ；捕虫器|h|||
+flycatcher|n.|捕蠅器；捕蠅草|93|ヒタキ；ハエ取り紙|v|||
 flyweight|n.|次最輕量級選手|93|フライ級|a|The flyweight champion contended with a strong challenger.||フライ級チャンピオンは強い挑戦者と戦った。
 foamy|adj.|全是泡沫的；起泡沫的；泡沫的|93|泡だらけの；泡立った；泡状の|h|||
 folkloric|adj.|民間傳說的；民俗的|93|民間伝承の；民俗の|h|||
@@ -23683,7 +23683,7 @@ fracas|n.|喧噪；吵鬧；紛擾|93|騒ぎ；乱闘；大騒動|h|||
 fractionally|adv.|稍許；一點點|93|わずかに；少しだけ|h|||
 fractionation|n.|分別；分餾法|93|分別；分留|d|||
 frag|v.|蓄意殺傷|93|故意に殺傷する|h|||
-fram||故障估計機|93|フラム；故障診断機|h|||
+fram||故障估計機|93|フラム|v|||
 frankincense|n.|乳香|93|乳香|b|||
 freakishly|adv.|反常地；見異思遷地|93|異常に；奇妙に；気まぐれに|h|||
 freemason|n.|互濟會會員|93|フリーメーソン会員|h|||
@@ -23721,7 +23721,7 @@ gastritis|n.|胃炎|93|胃炎|b|||
 gastroenteritis|n.|腸胃炎|93|胃腸炎|d|Gastroenteritis is often caused by the norovirus.||胃腸炎は、ノロウイルスが原因であることが多いです。
 gastroenterologist|n.|胃腸病學家|93|消化器内科医；胃腸科医|h|||
 gastronomic|adj.|美食法的；烹任學的|93|美食の；料理法の；美食学の|h|||
-gawk|n.|笨人；呆子；笨拙的人；痴待著看|93|ぽかんと見つめる；まぬけ；ばか者|h|||
+gawk|n.|笨人；呆子；笨拙的人；痴待著看|93|ぽかんと見る；まぬけ|v|||
 gayness|n.|歡樂；同性戀|93|陽気さ；同性愛|h|||
 gazetteer|n.|地名辭典；公報作者|93|地名辞典；地理索引；新聞記者|d|||
 gazillion|n.|<口>許許多多|93|無数；膨大な数|h|||
@@ -23763,7 +23763,7 @@ glitzy|adj.|<美><加> 閃光的；耀眼的；眩目的|93|きらびやかな�
 glob|n.|一滴；一小滴水珠；一團|93|小さな塊；しずく；かたまり|h|||
 glutinous|adj.|粘性的|93|粘り気のある；粘着性の|h|||
 glutton|n.|暴食者；酷愛...的人|93|食いしん坊|b|She is a glutton for punishment.||彼女はどんな苦難にも耐えられる人だ。
-gluttonous|adj.|暴食的；貪吃的；貪心的|93|意地汚い|b|||
+gluttonous|adj.|暴食的；貪吃的；貪心的|93|大食いの；貪欲な|v|||
 glycemic|adj.|血糖的|93|血糖の；血糖値の|h|||
 glycerine|n.|甘油；丙三醇|93|グリセリン|h|||
 gneiss|n.|片麻岩|93|片麻岩；ゲナイス|d|||
@@ -23889,7 +23889,7 @@ holdup|n.|攔劫行人的強盜行為；劫盜；停頓|93|ホールドアップ
 hollandaise||蛋黃奶油酸辣醬；荷蘭式的|93|オランデーズソース；オランダ風の|h|||
 homebound|adj.|回家的；回本國的|93|帰宅途中の；帰国の；家に閉じこもった|h|||
 homed|v.|回家|93|家に帰る；帰宅する|h|||
-homerun||跑吧！孩子|93|ホームラン；やったぞ；大成功|h|||
+homerun||跑吧！孩子|93|ホームラン；大成功|v|||
 homunculus|n.|侏儒|93|ホムンクルス|b|||
 honeyed|adj.|加了蜜的；甜如蜜的；多蜜的|93|蜂蜜入りの；甘い；甘言の|h|You can't fool me with your honeyed words.||そんな猫なで声で話したってだまされないよ。
 honeypot|n.|裝蜜的罐子；極有吸引力的事物|93|ハニーポット|b|||
@@ -23977,7 +23977,7 @@ impertinence|n.|不切題；魯莽；無禮|93|生意気；無礼；的外れ|h|
 implantable|adj.|可植入的；可移植的|93|移植可能な；埋め込み可能な|h|||
 impound|v.|關在欄中；拘留；充公|93|押収する；囲いに入れる；留置する|h|||
 impracticable|adj.|不能實施的；難辦的；不能通行的|93|実行不可能な；通行できない|h|At one time it was thought impracticable for man to fly.||人が空を飛ぶのは不可能だと、かつては考えられていた。
-impregnation|n.|充滿；受精；注入|93|含浸|b|||
+impregnation|n.|充滿；受精；注入|93|含浸；受精；妊娠|v|||
 impressionistic|adj.|印象主義的；印象派的；僅憑印象的|93|印象派の；印象に基づく；直感的な|h|||
 imprimatur|n.|出版許可；讚許|93|出版許可；承認；お墨付き|h|||
 improbably|adv.|未必會地；不象真實地|94|ありそうもなく；奇妙なことに|h|||
@@ -24017,11 +24017,11 @@ inductance|n.|電感；感應係數|94|インダクタンス|b|||
 inductee|n.|應召入伍計程車兵|94|徴兵された人；新入隊員|h|||
 inductively|adv.|歸納地；誘導地|94|帰納的に；誘導的に|h|||
 inductor|n.|授職者；聖職授與者；感應器|94|インダクタ|b|||
-industrially|adv.|企業地|94|産業上；工業的に|h|||
+industrially|adv.|企業地|94|工業的に；産業上|v|||
 inefficiently|adv.|無效率地|94|非効率的に|h|||
 inequitable|adj.|不公平的；不公正的|94|不公平な；不当な|h|||
 inexact|adj.|不正確的；不確實的；不精密的|94|不正確な；あいまいな|h|||
-inexpensively|adv.|花費不多地；廉價地；不踐地|94|安く|b|||
+inexpensively|adv.|花費不多地；廉價地；不踐地|94|安価に；安く|v|||
 infallibility|n.|絕無錯誤；絕對可靠性|94|無謬性；絶対の正確さ|h|||
 infeasible|adj.|不可實行的|94|実行不可能な|h|||
 infective|adj.|有傳染性的；易傳染的|94|感染性の；伝染しやすい|h|||
@@ -24030,7 +24030,7 @@ ingot|n.|錠；鑄塊|94|インゴット|b|Do you have any spare iron ingots?||�
 ingratiate|v.|使迎合；使討好|94|取り入る；気に入られようとする|h|||
 inguinal|adj.|腹股溝的|94|鼠径部の；そけいの|h|||
 inheritor|n.|繼承人；後繼者|94|相続人；後継者|d|Being an only child, he was the sole inheritor.||彼は一人っ子だったので、唯一の相続人だった。
-initialize|v.|預置|94|イニシャライズ|b|||
+initialize|v.|預置|94|初期化する|v|||
 innately|adv.|天賦地；與生俱來的|94|生まれつき；先天的に|h|||
 inoperative|adj.|不起作用的；無效力的|94|機能しない；効力のない；手術できない|h|||
 inopportune|adj.|不合時機的；不巧的|94|時機が悪い；折悪しく|h|He came at an inopportune time.||彼はまずい時にやってきた。
@@ -24083,7 +24083,7 @@ investiture|n.|授職；封爵|94|叙任；叙位|b|||
 invincibility|n.|無敵；絕對不敗|94|無敵；不敗|h|||
 inviolable|adj.|不可褻瀆的；不可侵犯的；神聖的|94|侵すべからざる；神聖な；不可侵の|h|My room is an inviolable refuge.|我的房間是不可侵犯的避難所。|私の部屋は誰も人をいれない安息の場所です。
 invisibly|adv.|看不見地；看不出地|94|目に見えず；ひそかに|h|||
-invulnerability|n.|不會受傷害；刀槍不入；無懈可擊的|94|不死身|a|||
+invulnerability|n.|不會受傷害；刀槍不入；無懈可擊的|94|不死身；無敵|v|||
 irksome|adj.|厭惡的；討厭的；令人厭煩的|94|うんざりさせる；いらだたしい；煩わしい|h|Being treated as a minor is irksome.||未成年扱いとは心外だ。
 ironstone|n.|鐵石；含鐵礦石|94|鉄鉱石；鉄石|h|||
 irredeemable|adj.|不能贖回的|94|償還できない；救いようのない；取り戻せない|d|"Tom and Mary" was truly an irredeemable piece of trash.||『トムとメアリー』は本当に救いようのない駄作だった。
@@ -24094,7 +24094,7 @@ isomorphic|adj.|同形的|94|同形の；同型の|h|||
 isomorphism|n.|同形；類質同像|94|同形性；同型；同形写像|d|||
 itemize|v.|分條詳述；詳細列舉|94|項目別に記載する；詳細に列挙する|h|I'd like you to itemize the charges.||明細を教えていただけますか。
 iterated|v.|重複；反覆申明|94|繰り返された；反復された；何度も述べた|h|||
-jabber|v.|快而含糊地說；吱吱喳喳地叫；快而含糊不清的話|94|だべる|b|||
+jabber|v.|快而含糊地說；吱吱喳喳地叫；快而含糊不清的話|94|早口でしゃべる；ぺちゃくちゃしゃべる|v|||
 jammy|adj.|粘上果醬的|94|ジャムのついた；運がいい；甘い|h|||
 jangle|v.|吵架；發出刺耳聲；吵嚷；刺耳聲|94|耳障りな音；がちゃがちゃ鳴る；口論する|h|||
 janitorial|adj.|管理的|94|用務員の；清掃の；管理の|h|||
@@ -24169,7 +24169,7 @@ lading|n.|裝載；裝船；船貨|94|船積み|b|||
 ladylike|adj.|嫻淑的；如淑女的；高雅的|94|上品な；淑女らしい；女らしい|d|How can I sound more ladylike?||どう言えば、おしとやかに聞こえる？
 lambing||產羔|94|子羊の出産；子羊を産むこと|h|||
 lameness|n.|跛；瘸；殘廢|94|びっこ|b|||
-lamentable|adj.|可悲的；哀傷的；可憐的|94|嘆かわしい|a|||
+lamentable|adj.|可悲的；哀傷的；可憐的|94|嘆かわしい；悲惨な|v|||
 lamina|n.|薄板；薄片；薄層|94|薄板；薄層；薄片|d|||
 lamination|n.|層積；薄板|94|積層；ラミネート加工；薄層構造|d|||
 landmine|n.|地雷；投傘水雷|94|地雷；機雷|h|Apparently he stepped on a landmine.||どうやら彼は、地雷を踏んでしまったらしい。
@@ -24343,7 +24343,7 @@ memorably|adv.|留在記憶中地；顯著地；明確地|94|忘れがたく；�
 memorialize|v.|提出請願書；紀念|94|記念する；請願書を出す|h|||
 menacingly|adv.|威脅地；恐嚇地|94|威嚇するように；脅すように|h|||
 meningococcal||腦膜炎球菌的|94|髄膜炎菌の|h|||
-menorah|n.|九扦枝大燭臺|94|燭台；メノラー|d|||
+menorah|n.|九扦枝大燭臺|94|メノラー；燭台|v|||
 merman|n.|男性人魚；善泳的男子|94|人魚；男の人魚；水泳の得意な男性|d|||
 mescaline|n.|墨斯卡林|94|メスカリン|d|||
 metabolically||代謝的|94|代謝上；代謝的に|h|||
@@ -24462,7 +24462,7 @@ mycelium|n.|菌絲體|94|菌糸体；菌糸|d|||
 mycology|n.|真菌學|94|菌学；真菌学|d|||
 myosin|n.|肌漿球蛋白；肌凝蛋白|94|ミオシン|b|||
 nacelle|n.|飛機的引擎機艙；飛機的駕駛員室；吊籃|94|ナセル|b|||
-naivete|n.|天真爛漫；無邪；純真|94|天真|b|Naivete is his only merit.||天真爛漫なところが彼の唯一の取り柄だな。
+naivete|n.|天真爛漫；無邪；純真|94|無邪気さ；世間知らず|v|Naivete is his only merit.||天真爛漫なところが彼の唯一の取り柄だな。
 nanosecond|n.|毫微秒|94|ナノ秒|d|||
 nanotube|n.|毫微管|94|ナノチューブ|d|||
 narwhal|n.|獨角鯨；一角鯨|94|イッカク；一角クジラ|d|||
@@ -24601,7 +24601,7 @@ overspend|v.|過度使用；花費過多；使筋疲力盡；超支|94|使いす
 overstep|v.|踏過；逾越；超出...的限度|94|踏み越える；逸脱する；越権する|h|||
 overstuffed|adj.|墊得又軟又厚的|94|詰め込みすぎた；ふかふかの；過剰に詰めた|h|||
 oversupply|v.|過度供給；過多的供應品|94|供給過剰；供給過多；過剰供給する|d|There is a chronic oversupply of rice in Japan.||日本では米が恒常的に供給過剰である。
-overtone|n.|泛音；暗示；弦外之音|94|倍音|b|||
+overtone|n.|泛音；暗示；弦外之音|94|倍音；含み；余韻|v|||
 overwrite|v.|寫得過多；用華麗文體寫；寫在...上面|94|書きすぎる；華麗な文体で書く；上に書く|h|||
 ovoid|adj.|卵形的；梨形的；卵形體|94|卵形の；梨形の；卵形体|h|||
 ovum|n.|卵；卵子；卵形裝飾|94|卵子；卵|a|||
@@ -24643,7 +24643,7 @@ parenteral|adj.|非腸道的；不經腸道的|94|非経口の|h|||
 parfait|n.|凍糕；冷甜點|94|パフェ|b|"This one is a giant beetle parfait." "Hey. I don't remember asking for this."||「こちらがダイオウグソクムシのパフェになります」「オエッ。こんなの頼んだ覚えないよ」
 parquet|n.|鑲木地板；正廳池座；鋪鑲木地板|94|寄木張りの床；一階席；寄木を張る|h|||
 parsnip|n.|歐洲防風草；歐洲蘿蔔|94|パースニップ|b|Fine words butter no parsnips.||ただ口先ばかりでは何の役にも立たない。
-partiality|n.|偏心；偏頗；不公平|94|欲目|b|He shows partiality to no one in particular.||彼は特に誰といってえこひいきをしない。
+partiality|n.|偏心；偏頗；不公平|94|偏愛；えこひいき；好み|v|He shows partiality to no one in particular.||彼は特に誰といってえこひいきをしない。
 particularity|n.|特殊性；特質；個性|94|特殊性；特質；個性|h|||
 pastorate|n.|牧師職務；牧師任期；牧師團|94|牧師の職；牧師の任期；牧師団|h|||
 patella|n.|膝蓋骨；髕骨|94|膝蓋骨；膝の皿|d|The flat, dish-shaped bone in front of the knee joint is called the patella.||膝の前面にある平たい皿状の骨は膝蓋骨と言います。
@@ -24779,8 +24779,8 @@ pomade|n.|潤髮油；塗以潤髮油|94|香油；ポマード|b|||
 pommel|n.|圓頭；前鞍橋；鞍環；打|94|柄頭|b|The pommel horse requires more balance than strength.||鞍馬は、力よりもバランス感覚が必要です。
 pompadour|n.|高卷式髮型；大背頭髮型；粉紅色|94|ポンパドール；高く膨らませた髪型；ピンク色|h|||
 poppet|n.|寶貝；有孔小珠；隨轉尾座|94|かわいい子；小さなビーズ；旋盤の心押し台|h|||
-popularization|n.|通俗化；平易化；普及|94|演義|b|||
-popularize|v.|使成通俗性；使平易；使普及；通俗化|94|流行らす|b|||
+popularization|n.|通俗化；平易化；普及|94|普及；大衆化|v|||
+popularize|v.|使成通俗性；使平易；使普及；通俗化|94|普及させる；大衆化する|v|||
 porcine|adj.|豬的；豬似的|94|豚の；豚のような|h|||
 portent|n.|前兆；預示；異常之物|94|前兆；兆し；不吉な前触れ|d|||
 porthole|n.|舷窗；炮門|94|舷窓|b|||
@@ -24797,12 +24797,12 @@ praetorian|n.|執政官階級的人；執政官的；禁衛隊的|94|近衛兵�
 pragmatically|adv.|講究實效地；實用主義地|94|実用的に；実際的に|h|||
 pragmatics|n.|語用學|94|語用論；語用学|d|||
 pragmatist|n.|實用主義者；愛管閒事的人|94|実用主義者；実利主義者；おせっかいな人|d|||
-praiseworthy|adj.|值得稱讚的；令人欽佩的；可欽佩的|94|奇特|b|||
+praiseworthy|adj.|值得稱讚的；令人欽佩的；可欽佩的|94|称賛に値する；立派な|v|||
 prayerful|adj.|常常禱告的；虔誠的|94|敬虔な；信心深い；祈りの多い|h|||
 preachy|adj.|愛講道的；愛教訓人的|94|説教くさい；お説教好きの|d|||
 preamp|n.|前置放大器|94|プリアンプ；前置増幅器|d|||
 prearranged|v.|預先安排；預先商定|94|事前に手配された；あらかじめ決めた|h|He arrived at nine in accordance with a prearranged plan.||彼は前もってたてられた計画に従って９時に来た。
-preceptor|n.|導師；教師；校長|94|律師|b|||
+preceptor|n.|導師；教師；校長|94|指導者；教師|v|||
 precession|n.|先行；優先|94|歳差運動；先行；優先|d|||
 precipitously|adv.|陡峭地；陡然地；出乎意料地|94|急に；険しく；突然に|h|||
 predispose|v.|預先處置；使預先有傾向|94|前もって処置する；あらかじめ傾向づける|h|His good manners predispose people to like him.||彼は行儀がよいのでみんなが彼を好きになるでしょう。
@@ -24827,7 +24827,7 @@ pretreatment|n.|預處理|94|前処理；予備処理|d|||
 pricy|adj.|昂貴的；價格高的|94|値の高い；高価な|h|||
 prideful|adj.|自傲的|94|うぬぼれた；高慢な|h|You shouldn't be so prideful.||君はプライドを押しとどめるべきだ。
 primavera|n.|白桃花心木|94|白マホガニー；ラミン材|h|||
-principia|n.|原則；基本原則；基本原理|94|プリンキピア|b|||
+principia|n.|原則；基本原則；基本原理|94|プリンキピア；原理|v|||
 prise|v.|撬；撬開；撬動|94|こじ開ける；てこで動かす|h|||
 privatise|v.|使私有化|94|民営化する|h|||
 proboscis|n.|長鼻子；喙|94|吻|b|||
@@ -24867,7 +24867,7 @@ pud|n.|手；前腳|94|手；前足|h|||
 pudge|n.|矮胖的人；短而粗的東西|94|ずんぐりした人；太めの小さいもの|h|||
 pudgy|adj.|矮胖的|94|ずんぐりした；太った|h|||
 puerile|adj.|孩子氣的；天真的；未成熟的|94|子どもっぽい；幼稚な；未熟な|d|||
-pulpy|adj.|果肉狀的；紙漿狀的；泥狀的|94|ぐちゃぐちゃ|b|||
+pulpy|adj.|果肉狀的；紙漿狀的；泥狀的|94|果肉状の；ドロドロの|v|||
 pulsation|n.|悸動；震動|94|脈動|b|||
 pummeled|v.|擊；打；用拳頭連續揍；前鞍橋|94|連打する；殴りつける|h|It's too bad but we got pummeled at the soccer match.||残念ながら、サッカーの試合、一敗地に塗れてしまったよ。
 pumper|n.|消防車；使用唧筒者；唧筒式抽水機|94|消防ポンプ車；揚水ポンプ；ポンプ使用者|h|||
@@ -24894,7 +24894,7 @@ quadrennial|adj.|連續四年的；每四年一次的；第四週年|94|四年�
 quadriplegic|n.|四肢癱瘓者；四肢癱瘓的|94|四肢麻痺の；四肢麻痺患者|h|||
 quanta||量；量子|94|量；量子|h|||
 quantized|adj.|量化的；量子化的|94|量子化された；量子化の|h|||
-quarreling|v.|爭辯；爭吵|94|すったもんだ|b|They aren't quarreling, but are rehearsing a play.|他們不是在打架，而是在排練戲劇。|彼らはけんかをしているのではなく、劇の稽古をしているところだ。
+quarreling|v.|爭辯；爭吵|94|口論；けんか|v|They aren't quarreling, but are rehearsing a play.|他們不是在打架，而是在排練戲劇。|彼らはけんかをしているのではなく、劇の稽古をしているところだ。
 quarrelsome|adj.|喜歡吵架的；好爭論的|94|けんか好きな；議論好きな|h|||
 quartile|n.|四分位數|94|四分位数|h|||
 quartzite|n.|石英岩|94|珪岩；石英岩|d|||
@@ -24992,7 +24992,7 @@ resettle|v.|重新定居|95|再定住させる；移住する|h|||
 resistivity|n.|抵抗力；電阻係數|95|抵抗率；比抵抗|d|||
 restate|v.|重新敘述；重申|95|言い直す；再び述べる；再表明する|d|||
 restatement|n.|再宣告；重述|95|再表明；言い直し|d|||
-restlessly|adv.|不安地；慌張地|95|うろうろ；そわそわ|a|||
+restlessly|adv.|不安地；慌張地|95|落ち着きなく；そわそわと|v|||
 restorer|n.|修補者；修建者；修補物|95|修復者；修理者；修復剤|h|||
 resubmit|v.|重發|95|再提出する；再び提出する|h|||
 reticle|n.|分劃板；標準片；標線|95|レティクル|b|||
@@ -25018,7 +25018,7 @@ ribcage||胸廓|95|胸郭；あばら骨|h|||
 riboflavin|n.|核黃素|95|リボフラビン|b|||
 ribosome|n.|核糖體|95|リボソーム|b|||
 ricin|n.|篦麻毒|95|リシン|b|||
-rickets|n.|佝僂病|95|くる|b|||
+rickets|n.|佝僂病|95|くる病|v|||
 righteously|adv.|正直地；公正地|95|正しく；道義にかなって|h|||
 rightist|n.|右派人士；保守黨員；右翼的；右派的|95|右派；右翼；右派の|h|||
 rightness|n.|廉正；正直；公正|95|正しさ；正義；公正|h|||
@@ -25050,7 +25050,7 @@ rufous|adj.|紅褐色的|95|赤褐色の|h|||
 ruination|n.|毀滅；禍因；毀壞|95|破滅；破壊；破滅の原因|h|||
 rumen|n.|瘤胃|95|反芻胃；第一胃|h|||
 rumination|n.|反芻；沉思；默想|95|反芻|b|||
-rummy|adj.|朗姆酒的；奇妙的；古怪的；酒鬼|95|ラミー|b|||
+rummy|adj.|朗姆酒的；奇妙的；古怪的；酒鬼|95|ラミー；奇妙な；酔っ払い|v|||
 runabout|n.|敞篷小轎車；流浪者；流浪的|95|小型の乗用車；放浪者；放浪する|h|||
 runaround|n.|逃避；迴避；閃避|95|回避；はぐらかし；たらい回し|h|I get the feeling I'm being given the runaround.||何か飄々とはぐらかされてる気がするわ。
 runic|adj.|如尼文字的|95|ルーン文字の|h|||
@@ -25166,7 +25166,7 @@ servile|adj.|奴隸的；奴性的；卑屈的|95|卑屈|a|||
 sessile|adj.|無柄的；固著的|95|無柄の；固着性の|h|||
 sett|n.|鋪路用的石頭；洞穴|95|敷石；舗装用の石；巣穴|h|||
 severally|adv.|各自地；各個地；各別地|95|それぞれに；個別に|h|||
-sexless|adj.|無性的；中性的；無性別的|95|無性|b|||
+sexless|adj.|無性的；中性的；無性別的|95|無性の；性別のない|v|||
 sextet|n.|六重唱；六重唱曲；六重奏|95|セクステット|b|||
 shamanic|adj.|薩滿教僧的|95|シャーマンの；巫術の|h|||
 shambolic|adj.|大混亂的|95|大混乱の；めちゃくちゃな|h|||
@@ -25212,7 +25212,7 @@ singleness|n.|單一；真誠；獨身|95|単一性；誠実さ；独身|h|||
 sinless|adj.|無罪的；清白的|95|罪のない；潔白な|h|||
 sinusitis|n.|竇炎|95|副鼻腔炎|d|||
 sinusoidal|adj.|正弦曲線的；竇狀隙的|95|正弦曲線の；洞の|h|||
-sippy|n.|夕皮士|95|ストローつきのコップ|h|||
+sippy|n.|夕皮士|95|ストロー付きコップ|v|||
 sisterly|adj.|姊妹一般的；象姊妹的|95|姉妹のような；姉妹らしい|h|||
 sisyphus|n.|科林斯王|95|シーシュポス|h|||
 sitar|n.|西他|95|シタール|d|||
@@ -25226,7 +25226,7 @@ skydiver|n.|做空中造型動作的跳傘運動員|95|スカイダイバー；�
 skylark|n.|雲雀；嘻鬧；閒蕩|95|ひばり；スカイラーク|a|||
 skyway|n.|航線|95|空路；航空路|h|||
 slanderous|adj.|中傷性的；中傷的；挖苦人的|95|中傷的な；そしりの|h|||
-slat|n.|條板；劈啪劈啪地碰撞|95|スラット|b|||
+slat|n.|條板；劈啪劈啪地碰撞|95|スラット；細長い板|v|||
 slather|v.|厚厚地塗；大量使用；大量|95|厚く塗る；たっぷり使う；たっぷりの量|h|||
 slaver|n.|奴隸商人；奴隸販賣船；口水；垂涎|95|奴隷商人；奴隷船；よだれ；渇望する|d|||
 sleuthing|n.|調查；偵察|95|捜査；調査；探偵活動|h|||
@@ -25237,7 +25237,7 @@ slushy|adj.|融雪的；泥濘的；胡說八道的|95|雪解けの；ぬかる�
 slyly|adv.|狡猾地；秘密地；俏皮地|95|ずるそうに；こっそりと；いたずらっぽく|h|He whispered slyly to me.||彼はこっそりささやいた。
 smallholder|n.|小農；小佃農|95|小農；小作農|h|||
 smarmy|adj.|虛情假意的；愛說奉承話的|95|へつらう；おべっかを使う|h|||
-smasher|n.|打碎者；善於叩球者；摔跟頭|95|打ちのめす人；スマッシュを打つ人|h|||
+smasher|n.|打碎者；善於叩球者；摔跟頭|95|スマッシュを打つ人；素晴らしいもの|v|||
 smidgen|n.|少量；一點點|95|少し；ちょっぴり|h|||
 smolensk||斯摩稜斯克|95|スモレンスク|h|||
 smooch|n.|摟抱接吻；汙跡；摟抱著接吻|95|キス；抱き合ってキスする|h|||
@@ -25249,7 +25249,7 @@ snatcher|n.|攫奪者；誘拐者；綁架者|95|ひったくり；誘拐犯|h||
 sneakily|adv.|偷偷摸摸地|95|こそこそ|a|||
 sniffle|v.|吸著鼻子說話；抽鼻涕；抽鼻子|95|鼻をすする；鼻をすすりながら話す|d|Quit sniffling and blow your nose.||鼻水をズルズルとすすってないで、ちゃんと鼻をかみなさい。
 snook|n.|大拇指按鼻端；其餘四指張開以示輕蔑的手勢|95|鼻先で指を動かす侮辱のしぐさ|h|||
-snowdrop|n.|雪花蓮；憲兵|95|スノードロップ|b|||
+snowdrop|n.|雪花蓮；憲兵|95|スノードロップ；マツユキソウ|v|||
 snowshoe|n.|雪鞋；穿雪鞋走路|95|かんじき；雪靴|h|The snowshoe hare changes color in winter.||カンジキウサギは冬になると色が変わるんだ。
 sociability|n.|社交活動；好交際；善於交際|95|社交性；人付き合いのよさ|d|||
 socialistic|adj.|社會主義的|95|社会主義の|h|||
@@ -25288,7 +25288,7 @@ spearmint|n.|留蘭香；綠薄荷|95|スペアミント|d|||
 specie|n.|硬幣|95|硬貨；正貨|d|||
 speckle|n.|小的斑點；亮斑；斑；弄上斑點|95|小さな斑点；きらめき；斑点をつける|h|I have a black and white speckled dog.|我有一隻黑白斑點狗。|
 spectrograph|n.|光譜儀；攝譜儀|95|分光器；分光写真機|d|||
-speculator|n.|投機者；投機商人；思索者|95|山師|b|Some speculators take advantage of the ignorance and helplessness of old people.||相場師の中には老人の無知と寂しさに付け込む奴がいる。
+speculator|n.|投機者；投機商人；思索者|95|投機家；思索家|v|Some speculators take advantage of the ignorance and helplessness of old people.||相場師の中には老人の無知と寂しさに付け込む奴がいる。
 speculum|n.|金屬鏡；反射鏡；擴張器|95|金属鏡；反射鏡；拡張器|h|||
 speeder|n.|調速裝置；超速駕車者|95|速度調整装置；スピード違反者|h|||
 speller|n.|拼字者；綴字課本|95|綴り字の人；綴り字の教科書|h|||
@@ -25344,7 +25344,7 @@ stoma|n.|口；氣孔|95|小孔；ストーマ|b|||
 stopgap|n.|權宜之計；補缺者；暫時的；權宜的|95|一時しのぎ；代用品；間に合わせの|d|Stopgap measures won't make a dent in drug addiction.||その場しのぎの対策では麻薬中毒問題に切り込むことはできないでしょう。
 stowage|n.|裝載；裝貨；裝載方法|95|積み荷；貨物の積み込み|h|||
 strada|n.|速達路；道路；人名；斯特拉達|95|ストラーダ；道路|h|||
-straightforwardly|adv.|正直地|95|ずい；ズバズバ|b|||
+straightforwardly|adv.|正直地|95|率直に；まっすぐに|v|||
 strappy|adj.|有襻的；有帶子的|95|ストラップ付きの|h|||
 strategize|v.|制訂戰略；為…制訂戰略|95|戦略を立てる；作戦を練る|h|||
 streaky|adj.|有條紋的；有斑點的；容易變的|95|筋の入った；まだら模様の；気まぐれな|h|||
@@ -25376,7 +25376,7 @@ subtotal|n.|小計|95|小計|b|||
 subwoofer||低音炮；低音音箱|95|サブウーファー|b|||
 succour|n.|解救；援助者；援助|95|救助；援助；助けに行く|h|||
 suckle|v.|哺乳；養育；吮吸|95|乳を飲ませる；育てる；吸う|h|||
-suet|n.|牛脂；羊脂；板油|95|スエット|b|||
+suet|n.|牛脂；羊脂；板油|95|牛脂；ケンネ脂|v|||
 suffragette|n.|婦女參政權論者|95|サフラジェット|b|||
 sugared|adj.|加了糖的；甜蜜的|95|砂糖をまぶした；甘い|d|I'd like some sugared milk, please.||砂糖入りのミルクをお願いします。
 sulphide|n.|硫化物|95|硫化物|d|||
@@ -25394,7 +25394,7 @@ superheated|v.|使過熱|95|過熱された；過熱する|h|||
 suppository|n.|栓劑|95|座薬|b|||
 suppressive|adj.|鎮壓的；抑制的|95|抑圧的な；抑制する|h|||
 supranational|adj.|超國家的|95|超国家的な|h|||
-surfeit|n.|過食；過度；噁心；使厭膩|95|食傷|b|||
+surfeit|n.|過食；過度；噁心；使厭膩|95|過剰；食べ過ぎ；飽き|v|||
 survivable||可長存的；可存活的；可免於死亡的|95|生き延びられる；耐えられる|h|||
 suss|n.|&vt. 推測；推斷；調查|95|推測する；見抜く；調べる|h|||
 sustainment||支援；維持；支援物|95|維持；支持；補給物資|h|||
@@ -25455,7 +25455,7 @@ tarragon|n.|龍蒿|95|エストラゴン；タラゴン|b|||
 tarry|v.|耽擱；逗留；留住|95|ぐずぐずする；とどまる；滞在する|h|||
 taskbar||工作列；任務條|95|タスクバー；作業バー|h|||
 tattle|n.|閒談；閒話；饒舌|95|雑談；うわさ話；おしゃべり|h|She tattled on me to her teacher.|她向她的老師打我小報告。|
-taurine|adj.|像公牛的；金牛座的|95|タウリン|b|||
+taurine|adj.|像公牛的；金牛座的|95|タウリン；雄牛の|v|||
 tautology|n.|同義反復；贅述；重言式|95|トートロジー|b|||
 taxidermist|n.|動物標本剝製者|95|剥製師；動物の剥製を作る人|h|||
 taxman||收稅員；稅收檢查員|95|税務署員；徴税官|h|||
@@ -25494,7 +25494,7 @@ theatrically|adv.|戲劇化地|95|芝居がかって；演劇的に|h|||
 theocratic|adj.|神權政治的|95|神権政治の；神政の|h|||
 therefrom|adv.|從那裡；從此|95|そこから；それから|h|||
 thermoelectric|adj.|熱電的|95|熱電の；熱電気の|h|||
-thiamine|n.|硫胺；維生素B1|95|サイアミン|b|||
+thiamine|n.|硫胺；維生素B1|95|チアミン；ビタミンB1|v|||
 thinness|n.|薄；細；瘦|95|薄さ；細さ；やせていること|h|||
 thirtieth|num.|第三十；三十分之一|95|三十番目の；三十分の一|h|I had my thirtieth birthday last week.||先週30歳の誕生日を迎えました。
 thoroughness|n.|十分；完全；徹底|95|徹底|a|||
@@ -25519,7 +25519,7 @@ titration|n.|滴定|95|滴定|d|||
 toboggan|n.|平底雪橇；突然下降|95|スノーボート|a|||
 tog|n.|衣服；給穿上|95|衣類；服を着せる|h|||
 toluene|n.|甲苯|95|トルエン|a|||
-tomfoolery|n.|愚蠢的舉動；無聊的小玩意|95|たわけ|b|She was amused at her son's tomfoolery.||彼女は息子のばかなまねをおもしろがった。
+tomfoolery|n.|愚蠢的舉動；無聊的小玩意|95|ばかげた振る舞い；ふざけ|v|She was amused at her son's tomfoolery.||彼女は息子のばかなまねをおもしろがった。
 tonsil|n.|扁桃體|95|扁桃腺|b|I'm afraid my tonsils are swollen.||扁桃腺がはれている気がするのですが。
 tonsillitis|n.|扁桃腺炎|95|扁桃炎|d|||
 tooled|v.|用工具給…加工|95|工具で加工された；型押しされた|h|||
@@ -25618,7 +25618,7 @@ unbelieving|adj.|不相信的；不信教的；多疑的|95|信じない；疑�
 uncapped|adj.|未授予隊員帽的|95|代表選手に選ばれていない|h|||
 unceasing|adj.|持續的；不斷的；不停的|95|絶え間ない；終わりのない|h|||
 unchangeable|adj.|不變的；不能改變的|95|変えられない；不変の|h|||
-uncheck||未寄存|95|未チェックの；未預け入れの|h|||
+uncheck||未寄存|95|チェックを外す|v|||
 uncircumcised|adj.|未受割禮的；非猶太人的；異邦人的|95|割礼を受けていない|h|||
 uncivil|adj.|無禮貌的；失禮的；粗野的|95|無作法な；失礼な|h|||
 unclog|v.|使暢通；清除…的阻塞；掃除…的阻礙|95|詰まりを取る；通す|h|||
@@ -25639,7 +25639,7 @@ underemployed|adj.|只有部分時間被僱用的；就業不充分的|95|不完
 underemployment|n.|不充分就業；部分時間被僱用；才能和技術未充分利用|95|不完全雇用；就業不足|d|||
 underfunding|v.|對…提供的資金不足|95|資金不足；資金の供給不足|h|||
 underhand|adj.|秘密的；低手的；偷偷摸摸的|95|アンダーハンド|b|||
-underhanded|adj.|人手不足的；秘密的；卑劣的|95|姑息|b|||
+underhanded|adj.|人手不足的；秘密的；卑劣的|95|卑劣な；秘密の；人手不足の|v|||
 undernourished|adj.|營養不足的|95|栄養不足の；やせ細った|h|||
 underpowered|adj.|動力不足的；由動力不足的發動機驅動的|95|出力不足の|h|||
 undersigned|adj.|下面簽過名的|95|署名した者；下記の署名者|h|||
@@ -25651,7 +25651,7 @@ undignified|adj.|不莊嚴的；無尊嚴的|95|品位に欠ける；みっと�
 undiluted|adj.|未淡化的；未稀釋的；未攙水的|95|薄められていない；純粋な|h|||
 undiminished|adj.|未經縮減的；未經減少的；沒有降低的|95|衰えていない；減っていない|h|His influence is still undiminished.||彼の影響力は未だ衰えていない。
 undistinguished|adj.|未經區分的；未被注意到的；普通的|95|目立たない；平凡な|h|||
-uneasily|adv.|不自在地；不穩定地；心神不安地|95|うそうそ|b|He shifted about uneasily in his chair.||彼は不安げにいすの上でもじもじした。
+uneasily|adv.|不自在地；不穩定地；心神不安地|95|不安そうに；落ち着かなく|v|He shifted about uneasily in his chair.||彼は不安げにいすの上でもじもじした。
 uneconomic|adj.|不經濟的；浪費的|95|採算の合わない；不経済な|h|||
 unemotional|adj.|不易動感情的；缺乏感情的；冷漠的|95|感情を表に出さない；冷静な|h|Think of me as an unemotional woman.||私はドライな女だと思っといて。
 unemployable|n.|不能受僱者；不能受僱的|95|雇用されえない人；雇用に適さない|h|||
@@ -25661,7 +25661,7 @@ unequalled|adj.|不等同的；不能比擬的；無敵的|95|並ぶものがな
 unequally|adv.|不相等地；不公平地；不均勻地|95|不平等に；不均等に|h|||
 unerring|adj.|不犯錯誤的；無過失的；沒有打歪的|95|誤りのない；的確な|h|He has an unerring eye.||彼の目に狂いはない。
 unfailingly|adv.|無窮盡地；經久不衰地；可靠地|95|いつも変わらず；確実に|h|||
-unfashionable|adj.|不流行的；不時髦的；過時的|95|野暮ったい|b|Your views aren't unfashionable so much as unconscionable.||古臭いというより無理非道な主張なんだ。
+unfashionable|adj.|不流行的；不時髦的；過時的|95|流行遅れの；時代遅れの|v|Your views aren't unfashionable so much as unconscionable.||古臭いというより無理非道な主張なんだ。
 unfavourably|adv.|不適宜地；不利地；反對地|95|不利に；好ましくなく|h|||
 unfazed|adj.|不擔憂的；不苦惱的|95|動じない；平気な|h|Tom looked like he was unfazed by that.|湯姆看起來毫髮無損。|
 unfeasible|adj.|不能實行的；難實施的；不切實際的|95|実現不可能な；非現実的な|h|||
@@ -26007,7 +26007,7 @@ anorak|n.|風雪短大衣；帶風帽的厚茄克|96|パッカー；アノラッ
 anoxia|n.|缺氧症|96|無酸素症；酸素欠乏症|h|||
 antacid|adj.|中和酸的；抗酸的；抗酸劑|96|制酸剤；胃酸を中和する|h|||
 antagonise|v.|對...起反作用；使成為仇敵；招...的怨；引起對抗/反感|96|敵対させる；反感を買う|h|||
-antechamber|n.|前廳；候見室|96|次の間|b|||
+antechamber|n.|前廳；候見室|96|控えの間；前室|v|||
 antediluvian|adj.|大洪水前的；陳舊的；過時的；大洪水以前的人|96|大洪水以前の；時代遅れの；太古の人|h|||
 anteroom|n.|候見室；前廳；休息室|96|控えの間；前室|d|There is an anteroom adjoining the library.||書斎の隣に控えの間がある。
 anthill|n.|蟻冢；人群密集的地方|96|蟻塚|b|||
@@ -26047,7 +26047,7 @@ aridity|n.|乾旱；不毛；乏味|96|乾燥；不毛；単調さ|d|||
 aristo|n.|<英口>貴族|96|貴族；上流階級の人|h|||
 arithmetical|adj.|算術的；算術上的|96|算術の；計算上の|h|||
 armless|adj.|無臂的；無扶手的；無武器的|96|腕のない；手すりのない；武器のない|h|||
-armorer|n.|兵器製造者；軍械士|96|函人|b|||
+armorer|n.|兵器製造者；軍械士|96|武器製造人；兵器係|v|||
 armorial|adj.|上有紋章的|96|紋章の付いた|h|||
 arrowroot|n.|竹芋|96|クズウコン；アロールート|d|||
 arteriosclerosis|n.|動脈硬化|96|動脈硬化|a|||
@@ -26171,7 +26171,7 @@ bigness|n.|大；偉大；重大|96|大きさ；偉大さ|h|||
 bilious|adj.|患膽病的；膽汁質的；壞脾氣的|96|胆汁質の；胆汁の多い；不機嫌な|h|||
 bilk|v.|欺騙；賴帳；使受挫折；賴帳者|96|だまし取る；踏み倒す；だまされた人|d|||
 billingsgate|n.|粗俗話；下流話|96|下品な言葉；罵詈雑言|h|||
-billowy|adj.|巨浪似的；洶湧的|96|ほわほわ|b|||
+billowy|adj.|巨浪似的；洶湧的|96|うねるような；ふくらんだ|v|||
 binational|adj.|兩個國家的；兩個民族的|96|二国間の；二国籍の|h|||
 biochemically|adv.|由生化反應產生|96|生化学的に|h|||
 biocontrol||生物電控制；生物防除|96|生物防除；生物制御|d|||
@@ -26188,10 +26188,10 @@ bipartite|adj.|由兩部分組成的|96|二部からなる；二者間の|h|||
 biped|n.|兩足動物；有兩足的|96|二足動物；二本足の|d|||
 birdshot|n.|小號鉛彈|96|小粒散弾|h|||
 bisect|v.|分成兩部份；對分|96|両分|b|||
-bittern|n.|鹽滷|96|苦汁|b|||
+bittern|n.|鹽滷|96|サンカノゴイ；にがり|v|||
 bivalve|n.|雙殼類動物|96|二枚貝|b|||
 blackguard|n.|無賴；流氓；辱罵；耍無賴|96|ならず者；悪党；罵る|h|||
-blackhead|n.|粉刺|96|黒ずみ|b|||
+blackhead|n.|粉刺|96|黒ニキビ；角栓|v|||
 blackmailer|n.|勒索者；敲詐者|96|恐喝者；ゆすり屋|h|||
 blackthorn|n.|黑刺李；黑刺李木手杖|96|ブラックソーン；リンボク|h|||
 blandly|adv.|溫和地；柔和地|96|穏やかに；まろやかに；淡々と|h|||
@@ -26280,7 +26280,7 @@ bugbear|n.|怪物；棘手的難題；恐懼或煩惱的原因|96|悩みの種�
 buildable|adj.|可建造的；可信賴的；可以建造的|96|建築可能な；建てられる|h|||
 bulbul|n.|夜鶯；歌手；詩人|96|ウグイス；歌い手；詩人|h|||
 bullhead|n.|大頭魚；頑固的人|96|カジカ；頑固者|h|||
-bumpkin|n.|鄉下人；土佬兒|96|山出し|b|Calm down a little, Kissho, your bumpkin nature is standing out!||すこし落ち着け吉祥、おのぼりさん丸出しだぞ。
+bumpkin|n.|鄉下人；土佬兒|96|田舎者|v|Calm down a little, Kissho, your bumpkin nature is standing out!||すこし落ち着け吉祥、おのぼりさん丸出しだぞ。
 bunion|n.|拇趾囊腫|96|外反母趾；足の親指の腫れ|d|||
 burdock|n.|牛蒡|96|ゴボウ；ゴボウ属の植物|h|I ate a greater burdock tempura.||ゴボウの天ぷらを食べました。
 burgle|v.|破門盜竊|96|押し入って盗む；家に侵入して盗む|h|||
@@ -26295,7 +26295,7 @@ butterball|n.|小鴨的一種；胖子|96|太った人；ふっくらした子�
 buttonhole|n.|鈕孔；鈕眼；胸花；強迫聽|96|ボタン穴；ブートニア；長々と話しかける|d|He stuck a flower in his buttonhole.||彼は自分の服のボタンホールに花を差し込んだ。
 butty|n.|三明治；夥伴；監工|96|サンドイッチ；仲間；現場監督|h|||
 cabby|n.|計程車司機；出租馬車的車伕|96|タクシー運転手；御者|h|||
-cabinetry|n.|內閣；細木工傢俱|96|キャビネット作り；家具の細工|h|||
+cabinetry|n.|內閣；細木工傢俱|96|キャビネット製作；家具類；内閣|v|||
 cabochon|n.|依天然形狀磨圓的寶石|96|カボションカット；丸く磨いた宝石|h|||
 cacophonous|adj.|發音不和諧的；粗腔橫調的|96|不協和音の；騒がしい|h|||
 cadenza|n.|裝飾樂段；華彩樂段|96|カデンツァ|b|||
@@ -26369,7 +26369,7 @@ cesspit|n.|糞坑；垃圾坑|96|汚水だめ；ごみ捨て場|d|||
 cetacean|adj.|鯨目的；鯨魚的；鯨目動物；鯨魚|96|鯨目の；鯨類|h|||
 chaebol|n.|韓國大企業；韓國財閥|96|財閥；チェボル|d|||
 chalcedony|n.|玉髓|96|玉髄|b|||
-challah||白麵包|96|ハッラー；編んだパン|h|||
+challah||白麵包|96|ハッラー|v|||
 chancellorship|n.|長官的職位或任期|96|大臣の職；学長の職|h|||
 chancy|adj.|不確定的；偶然發生的|96|不確かな；偶然の|h|||
 chanter|n.|吟唱者；調旋律管；唱詩班成員|96|詠唱者；聖歌隊員；バグパイプの旋律管|h|||
@@ -26488,7 +26488,7 @@ compunction|n.|良心的責備；後悔；悔恨|96|良心の呵責；後悔|h||
 computerization|n.|給...裝備電子計算機；用計算機控制；電子計算機化|96|コンピューター化；電算化|d|||
 concertmaster|n.|首席小提琴手|96|コンサートマスター；首席バイオリン奏者|h|||
 concessionaire|n.|讓受人；特許權所有人|96|利権保持者；特許権者|h|||
-concessionary|adj.|讓步的；特許的；特許權獲得者|96|コンセ|b|||
+concessionary|adj.|讓步的；特許的；特許權獲得者|96|譲歩の；割引の|v|||
 concordant|adj.|和諧的；相調和的；一致的|96|一致した；調和した|h|||
 concordat|n.|契約；協定|96|政教条約；協約|h|||
 concussive|adj.|有衝擊力的；震盪性的|96|衝撃性の；振動性の|h|||
@@ -26628,7 +26628,7 @@ dago|n.|義大利人；西班牙人|96|南欧系の人；蔑称|h|||
 damascene|adj.|大馬士革的；大馬士革人的；大馬士革人|96|ダマスカスの；ダマスカス鋼；ダマスカス人|h|||
 damnable|adj.|可詛咒的；該死的|96|忌まわしい；ひどい|h|||
 damson|n.|布拉斯李子；布拉斯李樹|96|ダムソンプラム；ダムソンの木|h|||
-danceable|adj.|適合跳舞的|96|ダンサブル|b|||
+danceable|adj.|適合跳舞的|96|踊りやすい；ダンス向きの|v|||
 dangly|adj.|懸擺的；擺晃的|96|ぶらぶら揺れる；ぶら下がった|h|||
 danubian|adj.|多瑙河流域居民的；多瑙河的|96|ドナウ川流域の|h|||
 daringly|adv.|毅然地；大膽地|96|大胆に；果敢に|h|||
@@ -26658,7 +26658,7 @@ decorous|adj.|有禮貌的；高雅的；端正的|96|上品な；礼儀正し�
 decrement|n.|漸減；減少；減少量|96|減少；減少量|h|||
 dedicatory|adj.|奉獻的；獻納的；獻呈的|96|献呈の；献辞の|h|||
 deerskin|n.|鹿皮；鹿皮製衣服|96|鹿革；鹿革の衣服|d|||
-defilement|n.|弄髒；汙穢；汙辱|96|塵|b|||
+defilement|n.|弄髒；汙穢；汙辱|96|汚染；汚辱；冒涜|v|||
 deforested|v.|砍伐…山林|96|森林を伐採された；森林を伐採した|h|||
 deformable|adj.|可變形的|96|変形可能な|h|||
 defrocked|v.|剝去法衣；解除僧職|96|聖職を剥奪された；僧籍を剥奪された|h|||
@@ -26829,7 +26829,7 @@ dulcet|adj.|悅目的；美妙的；美味的|96|心地よい；耳に快い|h||
 dumbness|n.|啞；無言；沉默|96|無言；口がきけないこと|h|||
 dumbstruck|adj.|被嚇得發愣的；驚呆的|96|唖然とした；呆然とした|h|||
 dumper|n.|垃圾車；卸貨車；自動傾卸車|96|ダンプカー；投げる人|h|||
-dunker||潛艇|96|潜水艦|h|||
+dunker||潛艇|96|浸す人；ダンクシュートをする人|v|||
 duodenal|adj.|十二指腸的|96|十二指腸の|h|||
 duplicator|n.|影印機；複製者|96|複写機；複製する人|h|||
 dural|adj.|硬腦膜的|96|硬膜の|h|||
@@ -26841,7 +26841,7 @@ earache|n.|耳朵痛|96|耳の痛み|h|||
 earthiness|n.|土質；土性；粗陋|96|土臭さ；素朴さ；卑俗さ|h|||
 earthling|n.|世人；俗人；俗物|96|地球人|b|||
 earwax|n.|耳垢|96|耳あか|d|My earwax got very hard.||耳あかが固くなってしまいました。
-easiness|n.|容易；輕鬆；安適|96|易；易き|b|||
+easiness|n.|容易；輕鬆；安適|96|容易さ；気楽さ|v|||
 ebullient|adj.|沸騰的；熱情的；熱情洋溢的|96|活気あふれる；熱狂的な|h|||
 ecclesial|adj.|教會的|96|教会の|h|||
 ecclesiology|n.|教會學；教會建築學|96|教会論；教会学|h|||
@@ -27239,7 +27239,7 @@ hallucinogen|n.|迷幻劑|97|幻覚剤|d|||
 halon||鹵化烷|97|ハロン|a|||
 haltingly|adv.|遲疑不決地；猶豫地|97|ためらいがちに；途切れ途切れに|h|||
 halyard|n.|吊索；升降索|97|揚げ綱；ハリヤード|h|||
-handcraft|v.|用手工造|97|手わざ|b|This area is famous for its handcraft business.|該地區因它的手工業而出名。|
+handcraft|v.|用手工造|97|手作りする；手細工|v|This area is famous for its handcraft business.|該地區因它的手工業而出名。|
 handspring|n.|手翻；前手翻騰越|97|後転跳び；ハンドスプリング|h|||
 harasser|n.|騷擾者；襲擾者導彈車|97|嫌がらせをする人；襲撃者|h|||
 harissa||辣椒橄欖油醬|97|ハリッサ|b|||
@@ -27323,7 +27323,7 @@ humourless|adj.|缺乏幽默感的；一本正經的|97|ユーモアのない；
 humourous|adj.|富幽默感的；滑稽的|97|ユーモアのある；こっけいな|h|||
 humph|int.|哼；發哼聲|97|ふん；うーん|d|||
 hundredfold|adj.|百倍的；百倍地|97|百倍の；百倍に|h|||
-hungrily|adv.|飢餓地；渴望地；貪婪地|97|ガツガツ|b|||
+hungrily|adv.|飢餓地；渴望地；貪婪地|97|空腹そうに；貪欲に|v|||
 hurler|n.|投擲者；投手|97|投げる人；投手|h|||
 hurtle|v.|猛衝；碰撞；突進；猛撞|97|猛スピードで突進する；ぶつかる|h|The boomerang hurtled whistling through the air.||ブーメランは音を立てて空中を飛んだ。
 hussy|n.|粗野女子；輕佻女子|97|慎みのない女；はすっぱな女|h|||
@@ -27331,7 +27331,7 @@ hydrocortisone|n.|皮質甾醇；氫化可的松|97|ヒドロコルチゾン|b||
 hydroelectricity|n.|水力電氣|97|水力発電；水力による電気|h|||
 hydrofoil|n.|水翼艇|97|水中翼船|b|||
 hydrophone|n.|水中聽音器；檢漏器；水診器|97|水中マイク；水中聴音器|h|||
-hydroplane|n.|水上飛機；水上滑艇；水平舵|97|潜舵|b|||
+hydroplane|n.|水上飛機；水上滑艇；水平舵|97|水上飛行機；ハイドロプレーン；潜舵|v|||
 hydroquinone|n.|對苯二酚|97|ハイドロキノン|b|||
 hygroscopic|adj.|溼度計的；吸溼性的；易潮溼的|97|吸湿性の；湿気を吸いやすい|h|||
 hypermarket|n.|大規模超級市場|97|大型スーパー；超大型店|h|||
@@ -27519,7 +27519,7 @@ irrelevancy|n.|無關；離題；不中肯|97|無関係；的外れ|h|||
 irretrievable|adj.|不能挽回的；不能復原的|97|取り返しのつかない；回復不能な|h|||
 irritatingly|adv.|刺激地；使憤怒地|97|いらいらさせるほど；刺激的に|h|||
 isolator|n.|隔離者；隔音裝置|97|アイソレータ|b|||
-isotonic|adj.|等滲的；等張的；等壓的|97|等張|b|||
+isotonic|adj.|等滲的；等張的；等壓的|97|等張の；等張性の|v|||
 itchiness||瘙癢；發癢|97|かゆさ；むずがゆさ|h|||
 jacaranda|n.|藍花楹；黃檀|97|ジャカランダ|b|||
 jackknife|n.|大摺合式刀；屈體跳水；彎身|97|ジャックナイフ|b|||
@@ -27537,8 +27537,8 @@ jimmies|n.|鐵撬|97|バール；かなてこ|h|||
 jingoism|n.|侵略主義；大國沙文主義|97|好戦的愛国主義；排外的愛国主義|h|||
 jingoistic|adj.|強硬外交政策的；侵略分子的|97|好戦的な；排外的な|h|||
 jitney|n.|小公共汽車；五分鎳幣|97|乗合バス；五セント硬貨|h|||
-jitterbug|n.|爵士樂迷；神經質的人；跳吉特巴舞|97|ジルバ|b|||
-jobcentre||就業服務中心；職業介紹所|97|職業安定所；職業紹介所|h|||
+jitterbug|n.|爵士樂迷；神經質的人；跳吉特巴舞|97|ジルバ；神経質な人|v|||
+jobcentre||就業服務中心；職業介紹所|97|職業安定所；ハローワーク|v|||
 jovian|adj.|朱庇特神的；朱庇特神似的；威風凜凜的|97|木星の；威厳のある|h|||
 jowl|n.|顎骨；下鄂的垂肉；下鄂|97|あご；あごの肉；頬の垂れ下がり|h|||
 kadi|n.|下級法官|97|裁判官；イスラム法の判事|h|||
@@ -27546,7 +27546,7 @@ kaftan|n.|土耳其式長衫|97|カフタン；ゆったりした長衣|h|||
 kahuna|n.|卡胡納|97|カフナ|b|||
 kameez||克米茲|97|カミーズ；南アジアの長い上着|h|||
 kaput|adj.|完蛋了的；徹底失敗了的；壞了的|97|壊れた；駄目になった|h|||
-kasha|n.|蕎麥粥；麥粥；麥糊|97|カーシャ|b|||
+kasha|n.|蕎麥粥；麥粥；麥糊|97|カーシャ；そばがゆ|v|||
 kayaker|n.|小划艇|97|カヤック乗り；カヤッカー|h|||
 keenness|n.|銳利；尖銳；敏感|97|鋭さ；熱意；敏感さ|h|||
 keister|n.|手提皮箱；小皮包；屁股|97|小型かばん；しり|h|||
@@ -27602,7 +27602,7 @@ leftfield|n.|活動中心之外的對方|97|左翼；本流から外れた|h|||
 leftmost|adj.|最左邊的|97|最も左の|h|||
 leftward|adj.|左方的；左側的；在左方；在左手|97|左向きの；左方向の|h|||
 legalese|n.|法律措辭；法律術語|97|法律用語；難解な法律文書|h|||
-legalism|n.|文牘主義|97|形式主義；法律万能主義|h|||
+legalism|n.|文牘主義|97|法律万能主義；形式主義|v|||
 leghorn|n.|麥稈編制的帽子；來航雞|97|レグホン|b|||
 legionary|adj.|軍團的；軍隊的；軍團士兵|97|軍団の；軍団兵|h|||
 legionnaire|n.|美國退伍軍人協會會員；軍團計程車兵|97|軍団兵；外人部隊の兵士|h|||
@@ -27618,7 +27618,7 @@ libellous|adj.|誹謗的；敗壞名譽的；愛誹謗的|97|名誉毀損の；�
 liberality|n.|慷慨；寬宏大量；心胸寬大|97|寛大さ；気前のよさ|h|||
 liberalize|v.|寬大；使自由主義化；自由主義化|97|自由化する；規制を緩める|h|||
 libidinous|adj.|好色的|97|好色な；淫らな|h|||
-licencing||許可證交易|97|免許の付与；ライセンス供与|h|||
+licencing||許可證交易|97|免許交付；ライセンス供与|v|||
 licentiate|n.|領有開業證書的人|97|開業免許を持つ人；免許者|h|||
 licentious|adj.|放肆的|97|放恣；放埓|b|He was converted from his licentious living.||彼は淫らな生活から足を洗った。
 licit|adj.|合法的；正當的|97|合法的な；正当な|h|||
@@ -27661,7 +27661,7 @@ luckless|adj.|不幸的；壞運氣的|97|不運な；ついていない|h|||
 lugubrious|adj.|憂鬱的；悲慘的；悲哀的|97|悲しげな；陰気な|h|||
 lumberyard|n.|木材堆置場；木場|97|木場|a|||
 lumpectomy|n.|乳房腫瘤切除術|97|乳房部分切除術；腫瘍摘出術|h|||
-lupine|adj.|狼的；兇殘的|97|ルピナス|b|||
+lupine|adj.|狼的；兇殘的|97|オオカミの；ルピナス|v|||
 lurker|n.|潛伏者|97|ラーカー|b|||
 lutein|n.|葉黃素|97|ルテイン|b|||
 luxuriate|v.|繁茂；過奢侈生活；沉溺|97|ぜいたくに浸る；繁茂する|h|||
@@ -28003,7 +28003,7 @@ olefin|n.|石蠟；烯烴|98|オレフィン|b|||
 oleo|n.|人造黃油；人造乳酪|98|マーガリン；人造バター|h|||
 olfaction|n.|嗅覺|98|嗅覚|d|||
 omnipresence|n.|遍在；無所不在|98|遍在|b|||
-onomatopoeia|n.|擬聲；擬聲語；聲喻法|98|オノマトペ|b|||
+onomatopoeia|n.|擬聲；擬聲語；聲喻法|98|擬音語；オノマトペ|v|||
 ontogeny|n.|個體發生；個體發生學|98|個体発生|d|||
 opalescent|adj.|乳白色的；髮乳光的|98|乳白色の；オパールのように光る|h|||
 opencast|adj.|露天開採的|98|露天掘りの|h|||
@@ -28162,7 +28162,7 @@ perfidious|adj.|不忠貞的；背信的；有異心的|98|不誠実な；背信
 perfidy|n.|不誠實；背信棄義|98|不誠実；背信；裏切り|d|||
 perforate|v.|穿孔於；刺穿；打孔穿透；穿孔|98|穴をあける；突き破る；穿孔する|h|||
 perforce|adv.|必然地；只得|98|必然的に；やむなく|d|||
-perfumer|n.|香料製造人；香水調配者；香料商|98|パフューマー|b|||
+perfumer|n.|香料製造人；香水調配者；香料商|98|調香師；香水製造者|v|||
 perianth|n.|花被|98|花被|d|||
 pericardial|adj.|心包的；位於心臟周圍的|98|心膜の；心臓の周囲の|h|||
 pericardium|n.|心包|98|心膜|d|||
@@ -28211,7 +28211,7 @@ phrenology|n.|顱相學|98|骨相学|d|||
 phyla|n.|類群|98|門；系統群|h|||
 phylloxera|n.|根瘤蚜；葡萄根瘤蚜|98|フィロキセラ|b|||
 phylogenetically||系統發生的；動植物演化史的；動植物種類史的|98|系統発生学的に|h|||
-physiognomy|n.|相面術；面相；外貌|98|観相|b|||
+physiognomy|n.|相面術；面相；外貌|98|人相；人相学；外貌|v|||
 physiographic|adj.|地形學的；地文學的|98|地形学の；自然地理学の|h|||
 pianissimo|adv.|極弱地；樂曲中以最弱音演奏之一節或一個樂章|98|ピアニッシモ|b|||
 picador|n.|騎馬鬥牛士；能言善辯者；機靈的人|98|闘牛の馬上槍兵；機転の利く人|h|||
@@ -28291,7 +28291,7 @@ potentiometer|n.|電位計；分壓計|98|ポテンショメータ|b|||
 potently|adv.|有說服力地；強有力地；有效力地|98|強力に；効果的に|h|||
 poultice|n.|泥罨劑；敷泥罨劑於|98|パップ|b|||
 prang|v.|猛烈轟炸；撞擊；飛機墜毀|98|激しく爆撃する；衝突する；墜落する|h|||
-prattle|v.|小孩般說話；閒聊；胡說；天真地說|98|片言|b|||
+prattle|v.|小孩般說話；閒聊；胡說；天真地說|98|おしゃべり；ぺちゃくちゃしゃべる|v|||
 preamplifier|n.|前置放大器|98|プリアンプ|b|||
 prebend|n.|大教堂牧師的俸祿|98|聖職禄；聖堂の給与|h|||
 prebiotic|adj.|生命起源以前的|98|生命誕生以前の；プレバイオティクスの|h|||
@@ -28363,7 +28363,7 @@ proteinuria|n.|蛋白尿|98|蛋白尿|d|||
 protozoan|n.|原生動物|98|原虫|b|||
 protractor|n.|拖延者；分度器；牽引肌|98|分度器|b|Please bring a protractor to tomorrow's math class.||明日の算数の授業には、分度器を持ってきてください。
 protuberance|n.|突起；隆起物|98|突起；隆起|a|||
-providential|adj.|天意的；根據神意的；天佑的|98|天為|b|||
+providential|adj.|天意的；根據神意的；天佑的|98|摂理による；幸運な|v|||
 provincially|adv.|外省地；地方地|98|地方的に；田舎風に|h|||
 prunella|n.|鵝口瘡；黴菌性口炎|98|鵞口瘡；口腔カンジダ症|h|||
 prurient|adj.|好色的；渴望的|98|好色な；渇望する|h|||
@@ -28465,7 +28465,7 @@ recode|v.|重新編碼|98|再符号化する|h|||
 recognizably|adv.|可被認識地；可辨別地|98|認識できるように；見分けやすく|h|||
 recombine|v.|再結合；重組|98|再び結合させる；組み合わせる|h|||
 recommence|v.|重新開始|98|再開する|h|||
-reconfirm|v.|再證實；再確認|98|リコンファーム|b|Please reconfirm the reservation by March 10.|請在3月10日前再次確認預訂。|３月１０日までに予約を再確認して下さい。
+reconfirm|v.|再證實；再確認|98|再確認する|v|Please reconfirm the reservation by March 10.|請在3月10日前再次確認預訂。|３月１０日までに予約を再確認して下さい。
 reconnoiter|v.|偵察；勘查|98|偵察する；調査する|h|||
 reconquer|v.|再征服；奪回|98|再征服する；奪回する|h|||
 recordable|adj.|可記錄的；可錄音的；適於記錄的|98|記録可能な；録音できる|h|||
@@ -28518,7 +28518,7 @@ retractor|n.|食言的人；牽拉肌；牽開器|98|牽引器；食言する人
 retread|v.|給...裝胎面；翻新；新胎面|98|タイヤを張り替える；翻新する；更生タイヤ|h|||
 retributive|adj.|報應的|98|報いの；応報の|h|||
 retrievable|adj.|可取回的；可恢復的；可挽回的|98|取り戻せる；回収可能な；挽回できる|h|||
-returnee|n.|回國人員；返回者|98|引揚者|a|Returnees have trouble getting used to life in Japan.||帰国者たちは日本の生活に慣れるのに苦労している。
+returnee|n.|回國人員；返回者|98|帰国者；引揚者|v|Returnees have trouble getting used to life in Japan.||帰国者たちは日本の生活に慣れるのに苦労している。
 reunify|v.|使重新統一|98|再統一する|h|||
 reverential|adj.|虔誠的；表示尊敬的；充滿崇敬心的|98|畏敬の念を示す；敬虔な|h|||
 reversibility|n.|可逆；可逆性；兩面可用|98|可逆性；反転可能性；両面使用可能性|d|||
@@ -28585,7 +28585,7 @@ salivation|n.|分泌唾液；汞中毒|98|唾液分泌；唾液の分泌|d|||
 saltpeter|n.|硝石；硝酸鉀；硝酸鈉|98|硝石|b|||
 salubrious|adj.|有益健康的；健康的|98|健康によい；健康的な|h|||
 sambal||<馬來語>n. 咖哩飯調味品|98|サンバル；スパイス調味料|h|||
-sandbank|n.|沙洲；沙灘；沙壩|98|州；中州|b|||
+sandbank|n.|沙洲；沙灘；沙壩|98|砂州|v|||
 sandlot|n.|沙地；小孩們的運動用空地|98|空き地；草野球場|h|||
 sandpit|n.|採沙場；沙坑|98|砂場|b|That child dug a tunnel in the sandpit.||その子は砂場にトンネルを掘った。
 sapient|adj.|裝聰明樣的；聰明的；伶俐的|98|賢い；賢明な；利口な|h|||
@@ -28595,7 +28595,7 @@ sashay|v.|行走；漫步；探身|98|闊歩する；さっと歩く|h|||
 satiation|n.|飽足；厭膩；滿足|98|満足；飽きること|h|||
 satirically|adv.|諷刺地；譏諷地|98|風刺的に；皮肉を込めて|h|||
 satisfyingly|adv.|使人滿意地|98|満足のいくように；心地よく|h|||
-satori||<日>n.開悟|98|覚|b|||
+satori||<日>n.開悟|98|悟り|v|||
 scabby|adj.|結痂的；下賤的|98|かさぶたのできた；ひどい|h|||
 scabrous|adj.|粗糙的；多痂的；難解決的|98|ざらざらした；厄介な|h|||
 scad|n.|竹莢魚；許多|98|アジ；大量の|d|||
@@ -28763,7 +28763,7 @@ sociolinguistic||社會語言學的|98|社会言語学の|h|||
 sociologically|adv.|在社會學上地|98|社会学的に|h|||
 soffit|n.|拱圈內面；拱腹|98|軒天井；アーチの内面|h|||
 soldiery|n.|軍事訓練；軍人；軍隊|98|軍隊；兵士たち；軍事訓練|h|||
-solicitude|n.|焦慮；關心；擔心|98|老婆心|b|||
+solicitude|n.|焦慮；關心；擔心|98|気遣い；心配；配慮|v|||
 solidification|n.|團結；凝固；固體化|98|固化；凝結|b|||
 solidus|n.|蘇勒德斯；斜線|98|スラッシュ；斜線|h|||
 solipsism|n.|唯我論|98|唯我論；独我論|d|||
@@ -28907,7 +28907,7 @@ sunglass|n.|凸透鏡；太陽眼鏡|98|凸レンズ；サングラス|h|I need 
 sunroom|n.|日光浴室|98|サンルーム|b|||
 sunshade|n.|遮陽傘；天棚；帽遮|98|シェード；日よけ|b|There was a sunshade over the sidewalk.||歩道の上には日よけがあった。
 sunshiny|adj.|陽光照耀的；向陽極好的；晴朗的|98|日の当たる；晴れやかな；晴天の|h|||
-sunstroke|n.|中暑|98|霍乱|b|||
+sunstroke|n.|中暑|98|日射病；熱射病|v|||
 superannuated|adj.|年老退休的；老朽的；體弱退休的|98|老齢で退職した；時代遅れの；老朽化した|h|||
 superbug||超級細菌|98|スーパーバグ；多剤耐性菌|d|||
 supercilious|adj.|傲慢的；自大的；目空一切的|98|高慢な；尊大な；横柄な|h|||
@@ -28984,7 +28984,7 @@ teamster|n.|聯畜運輸車駕駛者；卡車駕駛員|99|荷馬車の御者；�
 teasingly|adv.|煩惱地；受嘲弄地|99|からかうように；いじわるく|h|||
 technetium|n.|鎝|99|テクネチウム|b|||
 technocracy|n.|技術專家政治論；技術專家治國論|99|技術官僚政治；テクノクラシー|d|||
-techy|adj.|易怒的；暴躁的|99|神経質な；怒りっぽい；やっかいな|h|||
+techy|adj.|易怒的；暴躁的|99|怒りっぽい；神経質な；ハイテク好きの|v|||
 tediously|adv.|沉悶地；長而乏味地|99|グダグダ；くどくど|a|||
 telecommute|v.|遠距離工作|99|在宅勤務をする；遠隔で働く|h|||
 teleological|adj.|目的論的|99|目的論的な|h|||
@@ -29016,7 +29016,7 @@ thermostatic|adj.|趨溫性的；體溫調節的|99|温度調節の；サーモ�
 theropod|adj.|獸腳亞目的|99|獣脚類の|h|||
 thickener|n.|增稠器；增稠劑|99|増粘剤；濃くするもの|d|||
 thimerosal|n.|硫汞撒|99|チメロサール；防腐剤|h|||
-thoughtlessly|adv.|草率地；不體貼地；混|99|むやみに；なまじ|a|||
+thoughtlessly|adv.|草率地；不體貼地；混|99|軽率に；無思慮に|v|||
 thousandths|n.|第一千|99|千分の一；千番目|h|||
 threepenny|adj.|三便士的；無價值的；便宜的|99|三ペンスの；価値の低い；安っぽい|h|||
 thrombin|n.|凝血酶|99|トロンビン|b|||
@@ -29044,7 +29044,7 @@ toady|n.|諂媚者；馬屁精；諂媚；拍馬屁|99|おべっか使い；ご�
 toehold|n.|不穩的小立足點；克服困難的辦法；微小的優勢|99|足がかり；わずかな足場；小さな優位|d|||
 toff|n.|花花公子；有錢人；愛打扮的人|99|金持ち；気取り屋；おしゃれな人|h|||
 toft|n.|宅地；屋基|99|屋敷地；宅地|h|||
-toiletry|n.|化妝用品；梳妝用具；化妝用具|99|トイレタリー|b|||
+toiletry|n.|化妝用品；梳妝用具；化妝用具|99|トイレタリー；化粧品|v|||
 tokenism|n.|裝門面；表面文章|99|形だけの対応；名目主義；見せかけ|d|||
 tole|n.|馬口鐵；金屬薄片|99|ブリキ；金属薄板|h|||
 tolerability|n.|可忍性；尚可|99|耐えられること；我慢できる程度|h|||
@@ -29058,7 +29058,7 @@ tonsillectomy|n.|扁桃體切除術|99|扁桃摘出術|d|||
 tonsure|n.|剃髮；剃去頭髮的部分；削髮儀式；剃|99|剃髪；剃髪の部分；剃髪式|d|||
 topknot|n.|頭飾；羽冠；頂髻|99|まげ；頭頂の髪の束；羽冠|d|||
 topographically|adv.|從地形上；在地形構造方面|99|地形的に；地形上|h|||
-toque|n.|無邊女帽；羽飾絲絨帽|99|トーク|b|||
+toque|n.|無邊女帽；羽飾絲絨帽|99|トーク帽；ニット帽|v|||
 torchbearer|n.|持火炬者；啟蒙者|99|松明を持つ人；先導者|h|||
 torte|n.|德國大蛋糕；果子奶油蛋糕|99|トルテ|b|||
 tortious|adj.|侵權行為的|99|不法行為の|h|||
@@ -29200,7 +29200,7 @@ uncouple|v.|解開...的鉤；鬆開的套索|99|連結を外す；切り離す|
 uncoupled|v.|解開；分開|99|連結を外された；切り離された|h|||
 uncreated|adj.|非創造的；永存的；自存的|99|創造されていない；永遠の|h|||
 uncrowned|adj.|未戴皇冠的；未舉行加冕禮的|99|無冠|b|||
-unction|n.|塗油；虛情假意；津津有味|99|塗油；猫なで声；熱意|h|||
+unction|n.|塗油；虛情假意；津津有味|99|塗油；熱意；わざとらしさ|v|||
 unctuous|adj.|油的；油質的；油膩的|99|油っぽい；猫なで声の|h|||
 uncultivated|adj.|未經耕作的；不文明的；無教養的|99|未墾|b|||
 undemanding|adj.|要求不高的；容易的；不嚴格的|99|手間のかからない；気楽な|h|||
@@ -29227,7 +29227,7 @@ unescorted|adj.|無人護送的；沒有護衛的；沒有陪伴的|99|付き添
 unexceptional|adj.|非例外的；平常的；不特別的|99|ありふれた；特筆すべき点のない|h|||
 unexciting|adj.|不令人興奮的|99|面白みのない；退屈な|h|||
 unexposed|adj.|未曝光的；未露光的；未揭露的|99|露出していない；未公開の|h|||
-unexpressed|adj.|不明說的；未表達的|99|言外|b|||
+unexpressed|adj.|不明說的；未表達的|99|言葉に表されない；暗黙の|v|||
 unfaithfulness|n.|不忠實；不信守婚誓|99|不貞|b|He chided her for her unfaithfulness.||彼は彼女の不実をたしなめた。
 unfixed|adj.|被解開的；放鬆了的；不固定的|99|固定されていない；ゆるんだ|h|||
 unflagging|adj.|不衰的；不屈不撓的；不鬆懈的|99|衰えない；たゆまない|h|||
@@ -29311,7 +29311,7 @@ untended|adj.|未受到照顧的；被忽略了的|99|手入れされていな�
 untiring|adj.|不疲倦的；不懈的；不屈不撓的|99|疲れを知らない；たゆまない|d|Ladies and Gentlemen, thanks to your untiring efforts our hideout is finally complete!!||諸君らのたゆまぬ努力と労働によって、ついに我らがアジトが完成した！！
 untouchability|n.|不能觸控；遠不可及|99|不可触性；近寄りがたさ|h|||
 untreatable||無法醫治的|99|治療できない；手の施しようのない|h|||
-untucked|v.|拆開；分開|99|裾を出した；たくし上げを外した|h|||
+untucked|v.|拆開；分開|99|裾を出した；外した|v|||
 unverifiable|adj.|不能證實的；無法核實的；無可考證的|99|検証できない；確認できない|h|Many conspiracy theorists leverage unverifiable statements and claim them as facts.||多くの陰謀論者が、未検証な発言を利用してそれらを事実と主張する。
 unwholesome|adj.|不衛生的；不適合健康的；有害身體的|99|不健康な；体に悪い|h|||
 unworn|adj.|從未穿過的；還沒穿破的；未磨損的|99|着用していない；すり減っていない|h|||
@@ -29319,7 +29319,7 @@ unworthiness|n.|無價值；不配得到；不值得尊敬|99|価値のなさ；
 upcountry|adj.|內地的；土裡土氣的；向內地；在內陸|99|内陸の；田舎の|h|||
 updraft|adj.|向上通風的|99|上昇気流；上向きの風|d|||
 upfield||向前場的；高磁場|99|相手陣地の方へ；前線の|h|||
-uproarious|adj.|喧囂的；熱鬧的；騷動的|99|大騒ぎの；愉快な|h|||
+uproarious|adj.|喧囂的；熱鬧的；騷動的|99|大騒ぎの；爆笑を誘う|v|||
 upsilon|n.|希臘語第20個字母|99|ユプシロン；ギリシャ文字のυ|d|||
 urbanised||v.使都市化；使文雅|99|都市化された；洗練された|h|||
 ureter|n.|輸尿管|99|尿管|d|||
@@ -29370,7 +29370,7 @@ vibrantly|adv.|充滿活力地|99|活気に満ちて；生き生きと|h|||
 victoriously|adv.|獲勝地；勝利地|99|勝利を収めて；勝ち誇って|h|||
 victuals|n.|食物；飲料；食品|99|食料；食べ物|h|||
 viewport|n.|觀察孔；觀察窗|99|ビューポート|b|||
-vigilantly|adv.|警覺地；警惕地|99|虎視眈々|b|||
+vigilantly|adv.|警覺地；警惕地|99|油断なく；警戒して|v|||
 villainess|n.|壞女人；女惡棍；女的反派角色|99|悪女；女性の悪役|h|||
 vindaloo|n.|咖哩肉|99|ヴィンダルー；辛いカレー|h|||
 vindicator|n.|辯護者；維護者；辯明者|99|擁護者；弁護人|h|||
@@ -29414,7 +29414,7 @@ waterwheel|n.|水輪；水車；轆轤|99|水車；水輪|h|||
 wavefunction||波函式|99|波動関数|h|||
 waxwork|n.|蠟製品；蠟像|99|蝋細工|b|||
 weal|n.|福利；幸福；鞭痕|99|福利；ミミズ腫れ|d|||
-wearisome|adj.|使疲倦的；使厭倦的；乏味的|99|味気ない|a|The work required to investigate that is boring and wearisome.||それを調査するのは退屈で飽き飽きする仕事だ。
+wearisome|adj.|使疲倦的；使厭倦的；乏味的|99|うんざりする；退屈な|v|The work required to investigate that is boring and wearisome.||それを調査するのは退屈で飽き飽きする仕事だ。
 weeny|adj.|微小的；細小的|99|ごく小さい；ちっちゃな|h|||
 wend|v.|行；走；往|99|進む；向かう|h|||
 whacky|adj.|怪誕的；發狂的|99|奇妙な；ばかげた|h|||
@@ -29431,7 +29431,7 @@ whipper|n.|鞭打者；抽打者；似用鞭子抽打者|99|鞭で打つ人；�
 whirr|v.|發呼呼聲；作颼颼聲；作呼呼聲；vt. 呼呼地飛|99|ブーン|b|||
 whitely|adv.|產生白色地；發白光地|99|白く；白く光って|h|||
 whitener|n.|增白劑；漂白劑|99|漂白剤；増白剤|h|||
-wholesomeness||衛生性|99|健全さ；衛生的であること|h|||
+wholesomeness||衛生性|99|健全さ；健康に良いこと|v|||
 whoopee|int.|哈哈；"哈哈"觀叫聲；喧鬧|99|やったー；ワイワイ騒ぐこと|d|||
 wiggy|adj.|戴假髮的|99|かつらをつけた；奇抜な|h|||
 windage|n.|風力影響；遊隙；風力修正量|99|風の影響；風力補正|h|||

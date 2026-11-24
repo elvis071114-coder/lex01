@@ -7,7 +7,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 尼|に|bhikkhuni, Indonesia|1|比丘尼；印尼|d|||
 派|は|group, faction, clique, faction|1|派；派系|d|||
 煮|に|simmered with, cooked with, boiling|1|煮；燉|h|||
-破|は|middle section of a song|1|破；破損|h|||
+破|は|middle section of a song|1|破；中段|v|||
 箆|の|shaft|1|箭桿|h|||
 翳|さしは|large fan-shaped object held by an attendant and used to conceal the face of a noble, etc.|1|儀仗扇；遮蔽|h|あなたの意見をさしはさまないで。||Don't cut in with your remarks.
 蛾|が|moth|1|蛾；飛蛾|a|||
@@ -97,7 +97,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 医|い|medicine, the healing art, healing, doctor|3|醫；藥|a|||
 卯|う|the Rabbit, the Hare|3|卯（地支）；兔|d|||
 古都|こと|ancient city, former capital|3|古都；舊都|h|京都で途中下車して古都見物はいかがですか。||How about stopping over at Kyoto and sightseeing at the old capital?
-在す|います|to be, to go|3|居住；前往|h|客観的な歴史は存在するだろうか。|客觀的歷史存在嗎？|Does objective history exist?
+在す|います|to be, to go|3|在；有；前往|v|客観的な歴史は存在するだろうか。|客觀的歷史存在嗎？|Does objective history exist?
 堰|せき|dam, weir, barrier|3|堰；大壩|a|恋とせきとは隠せない。|愛和咳嗽是無法隱藏的。|Love and cough cannot be hidden.
 宇|う|counter for buildings, roofs, tents, etc.|3|棟；座|h|||
 寝|ね|sleep|3|睡；寢|d|||
@@ -129,7 +129,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ペット|ペット|pet|3|寵物|d|ペットのネコが昨日しんじゃったの。|我養的貓昨天死了。|My cat died yesterday.
 一緒|いっしょ|together|3|一起；一同|d|彼は一緒に遊ぶ友達が誰もいない。|他連一個能一起玩的朋友都沒有。|He has no friend to play with.
 九つ|ここのつ|nine things|3|九個|h|一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。|一、二、三、四、五、六、七、八、九、十。|One, two, three, four, five, six, seven, eight, nine, ten.
-候|そろ|to be, to do|3|是；有|d|もうそろそろ学校へ行く時間です。|差不多該去學校了。|It's about time to go to school.
+候|そろ|to be, to do|3|是；有；侍奉|v|もうそろそろ学校へ行く時間です。|差不多該去學校了。|It's about time to go to school.
 借りる|かりる|to borrow, to owe|3|借；借用|d|彼からお金を借りるのはよくない。|跟他借錢不太好。|It is not good to borrow money from him.
 冶|や|melting|3|冶煉；熔煉|h|||
 双|そう|pair|3|雙|a|老人だが、彼はまだたいそう元気だ。|雖然上了年紀，他依舊充滿活力。|He may be old, but he's still full of energy.
@@ -157,7 +157,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 易々|いい|easy, simple, plain|4|輕而易舉；簡單|d|この問題は、易々とは解けない。||This problem isn't easy to solve.
 曇る|くもる|to become cloudy, to become dim|4|變陰；模糊|h|マスクをつけると眼鏡が曇る。||When I wear a mask, my glasses fog up.
 書く|かく|to write|4|寫；著作|d|彼は書くことで生計を立てている。|他靠寫作謀生。|He earns his living by writing.
-曾|ひい|great|4|重大；宏偉|d|私は昨日は風邪をひいて寝ていた。|我感冒了，昨天便在床上睡覺。|I caught a cold and was in bed yesterday.
+曾|ひい|great|4|曾；重（輩分）|v|私は昨日は風邪をひいて寝ていた。|我感冒了，昨天便在床上睡覺。|I caught a cold and was in bed yesterday.
 来週|らいしゅう|next week|4|下週；下星期|d|来週までにその詩を暗記しなさい。|下週之前把這首詩背下來。|Memorize the poem by next week.
 槽|そう|body|4|槽；身體|d|老人だが、彼はまだたいそう元気だ。|雖然上了年紀，他依舊充滿活力。|He may be old, but he's still full of energy.
 毎晩|まいばん|every night|4|每晚；夜夜|d|私達は毎晩６時に夕食を食べます。|我們每天都在晚上六點吃飯。|We have supper at six every evening.
@@ -216,7 +216,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 外|そと|outside, exterior|5|外；之外|a|彼はひそひそと話した。|他竊竊私語。|He spoke under his breath.
 多羅|たら|palmyra, lusterleaf holly|5|多羅樹|h|||
 大好き|だいすき|very like-able, like very much|5|非常喜歡|h|私はアメリカの料理が大好きです。|我非常喜歡美國食物。|I love American food.
-奏|そう|report to the emperor|5|奏摺；演奏|h|老人だが、彼はまだたいそう元気だ。|雖然上了年紀，他依舊充滿活力。|He may be old, but he's still full of energy.
+奏|そう|report to the emperor|5|演奏；上奏|v|老人だが、彼はまだたいそう元気だ。|雖然上了年紀，他依舊充滿活力。|He may be old, but he's still full of energy.
 姉|あね|older sister|5|姐姐|d|「私のこと愛してる？」「さあね」||"Do you love me?" "I don't know."
 宗|そう|origin, source, virtuous ancestor|5|宗旨；根源|d|老人だが、彼はまだたいそう元気だ。|雖然上了年紀，他依舊充滿活力。|He may be old, but he's still full of energy.
 岳|たけ|mountain, Mount, Mt., mountain peak|5|山岳；高山|d|私は疲れていたけど、働いていた。|我雖然累，卻仍在工作。|Tired as I was, I went on working.
@@ -244,7 +244,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 益|えき|benefit, use, good, profit|5|益；利益|a|氷は非常に薄いので君の体重を支えきれないだろう。|冰面非常薄，不足以支援你的體重。|The ice is so thin that it won't bear your weight.
 立つ|たつ|to stand up|5|站立；起身|h|彼の忠告は君に大変役に立つだろう。|我覺得他的建議會對你非常有幫助。|His advice would be very useful to you.
 箸|はし|chopsticks|5|箸；筷子|a|日本ではしばしば魚を生で食べる。|我們在日本常常吃生魚。|In Japan, fish is often eaten raw.
-綺麗|きれい|pretty, clean, tidy|5|綺麗；俊美|a|こんな綺麗な景色、見たのはじめて！|它是我見過最美的景色。|This is the most beautiful sight that I have ever seen.
+綺麗|きれい|pretty, clean, tidy|5|美麗；乾淨|v|こんな綺麗な景色、見たのはじめて！|它是我見過最美的景色。|This is the most beautiful sight that I have ever seen.
 緒|お|cord, strap, thong, string|5|繩帶；頭緒|h|||
 耐|たい|-proof, -resistant|5|耐；耐受|h|何が言いたいのか分からないなあ。|我不理解你的意思。|I do not know what you mean.
 胎|たい|womb|5|胎；胎兒|h|何が言いたいのか分からないなあ。|我不理解你的意思。|I do not know what you mean.
@@ -293,9 +293,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 勤める|つとめる|to work|6|工作；任職|d|彼はコンサルティングファームに勤める。||He works for a consulting firm.
 半|はん|half|6|半；一半|a|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 友達|ともだち|friend|6|朋友|d|彼女は京都にあまり友達がいない。|她在京都沒有很多朋友。|She does not have many friends in Kyoto.
-和|わ|sum, harmony|6|和；總和|a|||
+和|わ|sum, harmony|6|和；總和；和諧|v|||
 哭く|なく|to cry, to wail, to sob|6|哭；哭泣|h|||
-問題|もんだい|a problem|6|問題；疑問|a|問題は彼女が来るかどうかである。|問題是她到底來還是不來。|The point is whether she will come or not.
+問題|もんだい|a problem|6|問題；題目|v|問題は彼女が来るかどうかである。|問題是她到底來還是不來。|The point is whether she will come or not.
 四|し|four|6|四；肆|a|||
 外国|がいこく|foreign country, abroad|6|外國；異域|a|裕子は外国人と話したことがない。|裕子從來沒有和外國人說過話。|Yuko has never spoken with a foreigner.
 大きな|おおきな|big|6|大的；巨大的|h|琵琶湖は日本で一番大きな湖です。|琵琶湖是日本最大的湖。|Lake Biwa is the largest lake in Japan.
@@ -386,7 +386,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 季|き|season, seasonal word or phrase|7|季；賽季|a|||
 学校|がっこう|a school|7|學校；宗|a|彼は病気だったので学校を休んだ。|他病了，所以沒有上學。|He was absent from school because he was sick.
 学生|がくせい|student|7|學生；學員|a|たいていの学生は徒歩で通学する。|大多數學生步行去學校。|Most students walk to school.
-寄り|より|pushing back one's opponent while locked in close quarters|7|靠近；接近|h|お年寄りにはやさしくしなさい。|善待老人。|Be kind to old people.
+寄り|より|pushing back one's opponent while locked in close quarters|7|靠近；倚靠；集會|v|お年寄りにはやさしくしなさい。|善待老人。|Be kind to old people.
 希|き|dilute, rare|7|稀；稀少|d|||
 年|とし|year, age|7|年；年度|a|彼女を説得しようとしても無駄だ。|試圖勸她是沒有用的。|It's no good trying to persuade her.
 広い|ひろい|spacious, wide, broad|7|寬廣；寬闊|d|私の新しい家の居間はとても広い。|我新家的客廳很寬敞。|The living room in my new house is very large.
@@ -443,7 +443,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 いいえ|いいえ|no, not at all|8|不；不是|d|いいえ、その必要はありません。|不，沒有這個必要。|No, you don't have to.
 え|え|eh?, what?, oh?, yes|8|嗯；咦|d|||
 かける|かける|to dial/call, to sit down|8|打電話；坐下|d|彼女は上着を引っかけると外へ出た。|她穿上大衣出門。|She threw on a coat and went out.
-かも|かも|duck, easy mark|8|鴨子；容易上當的人|d|列車に乗り遅れたのかもしれない。|他可能錯過了火車。|He may have missed the train.
+かも|かも|duck, easy mark|8|鴨子；容易上當的人；或許|v|列車に乗り遅れたのかもしれない。|他可能錯過了火車。|He may have missed the train.
 こちら|こちら|this person, this way|8|這邊；這位|h|こちらの製品は同じ品質になります。|這些產品質量同等。|These products are of the same quality.
 ご|ご|honorific/polite/humble prefix, honorific suffix|8|（敬語前綴）|h|||
 ち|ち|'s house, 's home|8|…家|h|||
@@ -492,7 +492,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 帽子|ぼうし|hat, cap|9|帽子；冠|a|壁に帽子とコートがかかっていた。|牆上掛著一頂帽子和一件大衣。|There were a hat and a coat on the wall.
 幢|はたほこ|long-handled Chinese spear bearing a small flag|9|幢（長柄旗）|h|||
 庭|にわ|garden|9|庭院；花園|h|その少女は急にわっと泣き出した。|那個少女一下子哭了起來。|The little girl burst into tears.
-後方|しりえ|rear, back, behind|9|後方；養育|a|トムは後方宙返りのやり方を学んだ。||Tom learned how to do a backflip.
+後方|しりえ|rear, back, behind|9|後方；後面|v|トムは後方宙返りのやり方を学んだ。||Tom learned how to do a backflip.
 御|み|august, beautiful|9|御；敬稱|h|||
 恵|え|wisdom, enlightenment, prajñā|9|恩惠；智慧|h|||
 成り|なり|promoted|9|成為；晉升|h|社会は個人から成り立っている。|社會是由個人組成的。|The community is made up of individuals.
@@ -522,14 +522,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 絵|え|a painting, a picture, a drawing|9|畫；圖畫|d|||
 脱ぐ|ぬぐ|to take off|9|脫；脫下|d|訪問者は通常日本式の家に入る前に、靴を脱ぐようにと求められます。|訪客通常在進入一戶日本人家之前會被要求脫鞋。|Visitors are usually asked to remove their shoes before they enter a Japanese house.
 艮|ごん|gen|9|艮（八卦之一）|h|一日中合体しっぱなしだったのでくたくたでごんす。||We are worn out because we fucked all day long.
-荏|え|egoma, Perilla frutescens var. frutescens|9|荏（紫蘇）|h|||
+荏|え|egoma, Perilla frutescens var. frutescens|9|荏胡麻；紫蘇|v|||
 葉書|はがき|postcard|9|明信片|d|彼は絵葉書の見本が欲しいといった。||He asked for samples of picture postcards.
 蒙|もう|ignorance, covering|9|蒙昧；蒙蔽|h|封筒にもう１枚切手をはりなさい。|把另一張郵票貼在信封上。|Stick another stamp on the envelope.
 見せる|みせる|to show, to display|9|給…看；展示|h|彼女は背を高く見せるためにハイヒールをはいている。|她穿著高跟鞋，這樣顯得更高一些。|She wears high heels to make herself look taller.
 語|ご|word, term, language|9|語；詞|a|||
 誤|ご|mistake, error|9|誤；錯|a|||
 警官|けいかん|police officer|9|警察|h|その現場では１０人の警官がいた。|現場有10名警員。|There were ten police officers on the spot.
-豆汁|ご|go, soy beans soaked and mashed to a creamy paste|9|豆汁|h|||
+豆汁|ご|go, soy beans soaked and mashed to a creamy paste|9|豆汁；黃豆泥湯|v|||
 重|え|-fold, -ply|9|重；…重|h|||
 靴下|くつした|socks|9|襪子|d|トムの靴下がどこにあるか知らない。|我不知道湯姆的襪子在哪裡。|I don't know where Tom's socks are.
 食堂|しょくどう|cafeteria, dining hall|9|食堂；餐廳|d|居間は食堂に続いている。|客廳緊鄰著餐廳。|The living room adjoins the dining room.
@@ -545,7 +545,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ずら|ずら|probably, seems, I suppose|10|大概；似乎|d|去年、中耳炎をわずらいました。|我去年得了中耳炎。|Last year I suffered from an inflammation of my middle ear.
 たち|たち|pluralizing suffix|10|…等；們|h|猟師たちは銃でその象をねらった。|獵人們用槍瞄準了大象。|The hunters aimed at the elephant.
 っつ|っつ|called, known as, that, to say|10|叫做；稱為|h|ガムが彼の靴にくっついた。|口香糖粘到他的鞋子上了。|Some gum stuck to his shoes.
-つける|つける|to turn on, to take|10|開（燈）；點；添加|h|適当な訳を見つけるのが難しい。|很難找到合適的翻譯。|It's hard to find a suitable translation.
+つける|つける|to turn on, to take|10|開（燈）；附著；添加|v|適当な訳を見つけるのが難しい。|很難找到合適的翻譯。|It's hard to find a suitable translation.
 できる|できる|to be able to|10|能夠；會|d|私にできることは何もありません。|我甚麼也做不了。|There's nothing I can do about it.
 なんて|なんて|how ...!, what ...!, what?|10|多麼…！；什麼…|h|なんてすばらしい家族なんだろう。|多美好的家庭啊！|What a wonderful family.
 にし|にし|small spiral-shelled snail, spiral shellfish|10|螺；螺螄|h|風邪をひかないようにしなさいよ。|小心著涼啊！|Take care not to catch a cold.
@@ -604,7 +604,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 耳|みみ|ear|10|耳；耳朵|a|そんなみみっちいこと言うな。||Don't be so stingy.
 自動車|じどうしゃ|automobile|11|自動車；車|a|父は自動車の運転がとても上手い。|我父親開車開得非常好。|My father drives very well.
 色々|いろいろ|various|11|各種各樣；五花八門|h|その店では色々な物を売っている。|那家店販賣各色商品。|The shop sells a variety of goods.
-荒れ|あれ|stormy weather, tempest, chaps|11|暴風雨；粗糙|d|北海道のいくつかの小さな町は益々荒れています。|北海道的一些小鎮正變得越來越破敗。|More and more of Hokkaido's small towns are falling into ruin.
+荒れ|あれ|stormy weather, tempest, chaps|11|荒廢；暴風雨；粗糙|v|北海道のいくつかの小さな町は益々荒れています。|北海道的一些小鎮正變得越來越破敗。|More and more of Hokkaido's small towns are falling into ruin.
 薄物|うすもの|lightweight fabric or clothing, silk gauze, thin silk|11|薄紗；輕薄織物|h|||
 裁ち|たち|cutting, cut|11|裁剪；剪裁|h|布を斜めに裁ちなさい。||Cut the cloth diagonally.
 見る|みる|to see, to look|11|看；看見|h|彼は彼女を見ると顔が赤くなった。|他看到她就臉紅了。|He saw her and blushed.
@@ -631,7 +631,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 そこ|そこ|that place, there, bottom|11|那裡；那個地方|h|彼がそこへ行くのは必要だと思う。|他有必要去那裡一趟。|I think he needs to go there.
 そちら|そちら|over there|11|那邊；那位|d|「そちらの天気はいかがですか」「晴れています」|「那邊的天氣怎麼樣？」「天氣晴朗。」|"What is the weather like over there?" "It's nice."
 とき|とき|please do|11|請；請便|h|訪ねるときは前もって連絡します。|我若拜訪你，會讓你提前知道的。|When I call on you, I'll let you know in advance.
-ところ|ところ|Dioscorea tokoro, old man living in the countryside|11|地方；地點|h|父はちょうど帰宅したところです。|我爸爸剛剛回家。|Father has just come home.
+ところ|ところ|Dioscorea tokoro, old man living in the countryside|11|地方；地點；萆薢|v|父はちょうど帰宅したところです。|我爸爸剛剛回家。|Father has just come home.
 どうも|どうも|Thank you, somehow, no matter how hard one may try|11|謝謝；總覺得|d|彼はどうも失敗しやしないかと思う。|我擔心他會失敗。|I am afraid he will fail.
 どちら|どちら|which, where|11|哪邊；哪位|h|どちらの道でも公園に行けますよ。|哪條路都可以去公園哦。|You can reach the park by either road.
 どなた|どなた|who|11|哪位；誰|d|どなたか鉛筆をお持ちではないでしょうか？|有誰有鉛筆嗎？|Does anybody have a pencil?
@@ -722,7 +722,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ざま|ざま|mess, sorry state, plight, -ways|12|樣子；慘狀|h|彼はさまざまな分野に精通している。|他精通各個領域。|He has good knows of every field.
 しかし|しかし|however, but|12|但是；然而|h|しかし、逆もまた真である。|然而，相反的理論往往也是真的。|And yet, the contrary is always true as well.
 しもべ|しもべ|servant, manservant, menial|12|僕人；僕役|d|||
-すぎ|すぎ|cobia, sergeant fish|12|杉木；杉樹|h|この箱はかさばりすぎて運べない。|這個箱子太笨重了無法攜帶。|This box is too bulky to carry.
+すぎ|すぎ|cobia, sergeant fish|12|杉木；海鱺|v|この箱はかさばりすぎて運べない。|這個箱子太笨重了無法攜帶。|This box is too bulky to carry.
 たばこ|たばこ|tobacco, cigarettes|12|菸草；香菸|h|たばこを吸うのをやめなさい。|別再吸煙了。|Stop smoking.
 ちゃん|ちゃん|suffix for familiar person|12|（親暱）小…|h|話は最後までちゃんと聞きなさい。|請好好的把我的話給聽完。|Properly listen to what I'm going to say.
 ながら|ながら|while, during, as, while|12|一邊…一邊…；雖然|h|彼女は涙を流しながら答えました。|她邊哭邊回答。|She was crying as she answered.
@@ -734,7 +734,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ホテル|ホテル|hotel|12|飯店；旅館|d|ホテルまでタクシーで行きなさい。|打的去旅館吧。|Take a taxi to the hotel.
 七|しち|seven|12|七|a|今日ノートを無くしちゃったんだ。|今天我的筆記本掉了。|I lost my notebook today.
 万|まん|ten thousand|12|萬；萬一|d|Facebookはつまんないよ。|Facebook很無聊。|Facebook is boring.
-丈夫|じょうぶ|strong, solid, durable|12|強壯；結實|d|豚の目玉って食べても大丈夫なの？|豬眼睛可以吃嗎？|Is it safe to eat a pig's eyeball?
+丈夫|じょうぶ|strong, solid, durable|12|堅固；健康；沒問題|v|豚の目玉って食べても大丈夫なの？|豬眼睛可以吃嗎？|Is it safe to eat a pig's eyeball?
 上|うえ|above, over, on top of|12|上；之上|a|そのうえ中国人は昼寝が好きなんだ。|此外，中國人喜歡睡午覺。|What's more, Chinese people like taking naps.
 中|なか|inside, middle, among|12|裡面；中間|d|彼女は私と分からなかったようだ。|她好像沒認出我。|She didn't appear to recognize me.
 九|きゅう|nine|12|九|a|きゅうりのサラダが大好きなんだ。||I love cucumber salad.
@@ -850,7 +850,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 座る|すわる|to sit|14|坐|d|トムは床に座るのが好きなんだよ。|湯姆喜歡坐在地上。|Tom likes to sit on the floor.
 意味|いみ|meaning, significance|14|意味；含義|a|英語話者に通じなきゃ意味ないぞ。|英語使用者聽不懂的話，那就沒意義囉。|That means nothing if English speakers don't understand it.
 感|かん|feeling, sensation, emotion, tentative|14|感；情感|a|富士山に登った後で一首浮かんだ。|攀登富士山後，我得到了一首詩的靈感。|After climbing Mt Fuji I got the inspiration for a poem.
-戯奴|わけ|I, me, you|14|我；僕|h|||
+戯奴|わけ|I, me, you|14|我；你|v|||
 教える|おしえる|to teach, to inform, to instruct|14|教；告知|h|彼女は英語を教える才能が豊かだ。|她很擅長英語教學。|She has great ability in teaching English.
 文章|ぶんしょう|sentence, text|14|文章；著述|a|この文章を訳してもらえませんか？|你能幫我翻譯這篇文章嗎？|Could you translate this sentence for me?
 新|しん|new, neo-, newness|14|新；新生|a|ペットのネコが昨日しんじゃったの。|我養的貓昨天死了。|My cat died yesterday.
@@ -974,7 +974,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 魔|ま|demon, devil, evil spirit, -crazed person|16|魔；惡魔|d|||
 あそこ|あそこ|there, over there, that place|16|那裡|h|あそこの店はあまり好きじゃない。|我不是很喜歡那裡的商店。|I don't really like the stores there.
 お菓子|おかし|confections, sweets, snack|16|點心；糖果|h|お菓子買ってよ。|幫我買點零食吧。|Buy me some sweets.
-くせ|くせ|long segment of a noh play forming its musical highlight|16|能樂曲節|h|嬉しいくせに。素直に喜びなよ。|明明就很開心，你就老實地承認吧。|I know you're happy about it. Why don't you just show it?
+くせ|くせ|long segment of a noh play forming its musical highlight|16|曲舞；習慣|v|嬉しいくせに。素直に喜びなよ。|明明就很開心，你就老實地承認吧。|I know you're happy about it. Why don't you just show it?
 この|この|this|16|這；這個|d|あなたはどこの国の出身ですか。|你是從哪個國家來的？|Which country are you from?
 ころ|ころ|time, around, about, suitable time|16|時候；左右|d|父はちょうど帰宅したところです。|我爸爸剛剛回家。|Father has just come home.
 す|す|to do|16|做|h|||
@@ -1067,7 +1067,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 まだ|まだ|yet, still, besides|17|還；尚未|d|彼はその仕事にはまだ経験が浅い。|他在工作中經驗尚淺。|He is still green at the job.
 まっすぐ|まっすぐ|straight, direct|17|筆直；一直|d|北海道には長くてまっすぐな道が多いんだ。|北海道有很多又長又直的路。|There are a lot of long and straight roads in Hokkaido.
 まま|まま|as, remaining, keeping|17|照舊；保持|h|彼は帽子をかぶったままだった。|他戴著帽子|He kept his hat on.
-まんま|まんま|food, cooked rice|17|飯；食物|d|彼はまんまと罠に引っかかった。||He was fairly caught in the trap.
+まんま|まんま|food, cooked rice|17|飯；原樣|v|彼はまんまと罠に引っかかった。||He was fairly caught in the trap.
 めこ|めこ|girl, vagina|17|女孩；少女|d|トムは出張中のためここにいません。||Tom isn't here because he's on a business trip.
 もしもし|もしもし|Hello?|17|喂|h|もしもし、後藤さんのお宅ですか。|您好，請問是後藤家嗎？|Hello. Is this the Gotos' residence?
 ゆっくりと|ゆっくりと|slowly, at ease|17|慢慢地；從容地|h|彼女はゆっくりと前進した。|她慢慢移動向前。|She slowly moved forward.
@@ -1215,7 +1215,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 そう|そう|really, so, yes|19|是；對|h|老人だが、彼はまだたいそう元気だ。|雖然上了年紀，他依舊充滿活力。|He may be old, but he's still full of energy.
 そんな|そんな|such, like that, that sort of|19|那樣的；那種|h|彼がそんなことをしたはずがない。|他不可能做那種事。|He cannot have done such a thing.
 とも|とも|certainly, of course, to be sure, even if|19|當然；即使|d|芭蕉はもっとも偉大な詩人だった。|芭蕉是最偉大的詩人。|Basho was the greatest poet.
-みる|みる|stag seaweed, green sea fingers, dead man's fingers|19|海蘊|h|彼の新しい小説は読んでみる価値がある。|他的新小說值得一讀。|His new novel is worth reading.
+みる|みる|stag seaweed, green sea fingers, dead man's fingers|19|海松；看|v|彼の新しい小説は読んでみる価値がある。|他的新小說值得一讀。|His new novel is worth reading.
 ケーキ|ケーキ|cake|19|蛋糕|d|これらは彼女の手製のケーキです。|這些是她自己烤的蛋糕。|These are cakes that she baked herself.
 ネット|ネット|network, Internet|19|網路|d|普段、ネットで物を買うことはないな。|我平常不太會在網路上買東西。|I don't usually buy things online.
 交|こう|association, fellowship, change|19|交際；交往|d|郵便局は半マイル向こうにある。|郵局離這兒有半英里。|The post office is half a mile away.
@@ -1233,7 +1233,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 小学校|しょうがっこう|elementary school|19|小學|h|私は名古屋の小学校に通った。|我上過名古屋的小學。|I went to elementary school in Nagoya.
 巧|こう|skilfulness, skillfulness, cleverness|19|巧妙；技巧|h|郵便局は半マイル向こうにある。|郵局離這兒有半英里。|The post office is half a mile away.
 廻る|みる|to go around|19|繞；轉動|h|||
-形|かたち|shape|19|形；組|a|アメリカ英語を使っているあいだは、このかたちは使わない。||You shall not use this form while speaking American English.
+形|かたち|shape|19|形狀；外形|v|アメリカ英語を使っているあいだは、このかたちは使わない。||You shall not use this form while speaking American English.
 打つ|うつ|to hit, to strike|19|打；擊打|h|気晴らしと言えば碁を打つことぐらいだ。|要說舒壓的話我也就是打打圍棋了。|Go is my only distraction.
 政|まつりごと|rule, government, administration|19|政；規律|a|||
 是非|ぜひ|certainly, by all means, without fail|19|是非；確是|a|是非とも私の家にお越しください。||Please come to my house by all means.
@@ -1327,7 +1327,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 致す|いたす|-- extra-modest expression for する --|20|做；辦|h|彼女とはたいてい意見が一致する。||She and I usually have the same opinion.
 葉|は|leaf|20|葉；葉子|a|||
 西洋|せいよう|the West, Western countries|20|西洋；西方|d|日本は西洋諸国との接触を必要とした。|日本有必要和西方各國接觸。|Japan needed contact with the Western countries.
-訳|わけ|reason, explanation|20|理由；道理|d|北海道がいつも寒いわけではない。|北海道並不總是寒冷。|It is not always cold in Hokkaido.
+訳|わけ|reason, explanation|20|理由；道理；翻譯|v|北海道がいつも寒いわけではない。|北海道並不總是寒冷。|It is not always cold in Hokkaido.
 講義|こうぎ|a lecture|20|講課；講義|h|講義を聞いている時は、静かにしていなければならない。|聽講座時，你應該保持安靜。|When listening to a lecture, you should be quiet.
 路|ち|way, road, way to ...|20|路；途|a|||
 辞典|じてん|encyclopedia, reference book|20|辭典|h|トムは日中辞典を買った。|湯姆買了本日漢詞典。|Tom bought a Japanese-Chinese dictionary.
@@ -1364,7 +1364,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 嬉しい|うれしい|to be happy, to be glad|20|高興；開心|h|嬉しいくせに。素直に喜びなよ。|明明就很開心，你就老實地承認吧。|I know you're happy about it. Why don't you just show it?
 寺|てら|Buddhist temple|20|寺廟|h|ルーシーは祖父母に育てられた。|Lucy是被她的祖父母養大的。|Lucy was brought up by her grandparents.
 将来|しょうらい|future, prospects|20|將來；未來|a|彼女は自分の将来に不安を感じた。|她對她的未來感到沒有安全感。|She felt insecure about her future.
-市|し|city|20|市；推銷|a|||
+市|し|city|20|市；城市；市場|v|||
 幣|まい|reward, present, gift|20|禮物；獎賞|h|彼は野球をするのがとてもうまい。|他壘球打得很好。|He's very good at playing baseball.
 彼|かれ|he, boyfriend|20|他；男友|d|地獄への道は善意で敷かれている。|通往地獄的路，都是由善意鋪成的。|The road to Hell is paved with good intentions.
 徴|ち|fourth degree|21|徵兆；徵象|h|||
@@ -1408,7 +1408,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 足りる|たりる|to be sufficient, to be enough|21|足夠；夠|h|朝食用のパンはぎりぎり足りる。|我們早飯的麵包剛夠吃。|We have barely enough bread for breakfast.
 途中|とちゅう|on the way, midway|21|途中；順道|a|家に帰る途中で雨に降られたんだ。|我在回家路上被雨淋了。|I was caught in the rain on my way home.
 運転|うんてんする|driving|21|駕駛；運轉|h|父は自動車の運転がとても上手い。|我父親開車開得非常好。|My father drives very well.
-鉤|ち|fishing hook|21|鉤子；魚鉤|h|||
+鉤|ち|fishing hook|21|魚鉤；鉤子|v|||
 韓国|かんこく|South Korea, Republic of Korea, Korean Empire|21|韓國|d|辛くない韓国料理が食べたい。|想吃不辣的韓國料理。|I want to eat some Korean food that isn't spicy.
 音|おと|sound, note|21|音；聲|a|おとなしくしているうちはここに居てもよろしい。|你保持安靜的話就可以留在這裡。|You can stay here as long as you keep quiet.
 高校生|こうこうせい|high school student|21|高中生|h|高校生の時は毎朝6時に起きていた。|讀高中的時候，每天早上六點起床。|Back in high school, I got up at 6 a.m. every morning.
@@ -1447,7 +1447,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 夜露|よつゆ|evening dew, night dew|21|夜露|h|||
 大君|おおきみ|emperor, prince|21|皇帝；君主|d|||
 官|つかさ|office, official, chief|21|官；局|a|その省は内政問題の行政をつかさどる。||The ministry administers the internal affairs.
-室|しつ|room, wife|21|室；房間|a|どうして、そんなにしつこいの？|為什麼要這麼纏人？|Why are you so persistent?
+室|しつ|room, wife|21|室；房間；妻子|v|どうして、そんなにしつこいの？|為什麼要這麼纏人？|Why are you so persistent?
 尋ねる|たずねる|to inquire|21|詢問；尋找|h|彼女に尋ねる勇気がありますか。||Dare you ask her?
 店員|てんいん|clerk, shop-employee|21|店員|h|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
 廃|はい|abandoned, out-of-use, obsolete|21|廢棄；廢止|h|彼女は赤いスカートをはいていた。|她穿著紅裙子。|She was wearing a red skirt.
@@ -1562,7 +1562,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 罫|けい|rule, line, line|23|格線；線條|d|けいこは枕に顔をうずめて泣いた。||Keiko buried her head in the pillow and cried.
 舟|ふね|ship, boat|23|船；舟|d|||
 落る|おちる|to fall, to drop|23|掉落；落下|d|||
-見物|けんぶつ|sightseeing|23|觀光；參觀|d|その城は見物する価値がある。|那座城值得一看。|The castle is worth visiting.
+見物|けんぶつ|sightseeing|23|觀光；參觀；看熱鬧|v|その城は見物する価値がある。|那座城值得一看。|The castle is worth visiting.
 輸出|ゆしゅつする|export|23|輸出；外銷|a|輸出は３００億ドル増加した。|增加了300億元輸出。|The exports increased by 30 billion dollars.
 通う|かよう|to go back and forth, to commute|23|往返；通勤|h|私たちはバスで学校へ通う。|我們乘公共汽車去上學。|We go to school by bus.
 通る|とおる|to pass, to go through|23|通過；經過|d|私が試験に通ると思っていた友人は落ちてしまった。|那個我認為會透過考試的朋友失敗了。|The friend who I thought would pass the exam failed it.
@@ -1623,7 +1623,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 指輪|ゆびわ|ring|23|戒指|d|私たちはもう終わったわ。指輪を返して！|我們之間完了，把戒指還給我！|It's over between us. Give me back my ring!
 教育|きょういく|education|23|教育|a|教育の究極の目標とは何だろうか。|教育的最終目的到底是什麼?|What is the ultimate purpose of education?
 歯医者|はいしゃ|dentist|24|牙醫|d|歯医者へ行ったほうがいいよ。|你最好去看牙醫。|You'd better go to the dentist.
-準備|じゅんびする|prepare|24|準備；製劑|a|母は朝食の準備をしています。|媽媽正在準備早餐。|My mother is getting breakfast ready.
+準備|じゅんびする|prepare|24|準備|v|母は朝食の準備をしています。|媽媽正在準備早餐。|My mother is getting breakfast ready.
 熱心|ねっしん|enthusiasm|24|熱心；熱情|h|この本は彼の熱心な研究の成果である。|這本書是他熱心研究的成果。|This book is a result of his enthusiastic research.
 理|り|reason, principle, logic, general principle|24|理；理由|a|||
 生産|せいさんする|production, to produce|24|生產|h|大量生産が多くの商品価格を下げた。|大量生產降低許多商品的價格。|Mass production reduced the price of many goods.
@@ -1633,7 +1633,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 移記|いき|transfer to the records, transcription to a special document|24|移記；轉錄|h|||
 空港|くうこう|airport|24|空港；飛機場|a|空港への行き方を教えてください。|請你告訴我機場怎麼去。|Please tell me how to get to the airport.
 米|こめ|uncooked rice|24|米；大米|d|彼は私に心をこめて迎えてくれた。||He received me cordially.
-翻|ハン|han, fan, unit that doubles the score of a hand|24|翻|h|彼女はハンドバッグを盗まれた。|她的手提包被偷了。|She had her handbag stolen.
+翻|ハン|han, fan, unit that doubles the score of a hand|24|翻；番（麻將）|v|彼女はハンドバッグを盗まれた。|她的手提包被偷了。|She had her handbag stolen.
 草|くさ|grass|24|草；青草|a|部屋には子供たちがたくさんいた。|房間裡有很多小孩。|There were many children in the room.
 親|おや|a parent|24|親|a|おやすみTatoeba。また明日。|晚安，Tatoeba。明天見。|Good night, Tatoeba. See you tomorrow.
 試験|しけん|an exam|24|試驗|a|彼は生物の試験でカンニングした。|他在生物學考試時作弊。|He cheated on the biology exam.
@@ -1645,7 +1645,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 適当|てきとう|fitness, suitability|24|適當；隨便|h|適当な訳を見つけるのが難しい。|很難找到合適的翻譯。|It's hard to find a suitable translation.
 遺棄|いき|abandonment, desertion|24|遺棄；拋棄|h|||
 里|り|Japanese league, ri, old Japanese unit of distance, approx. 3.927 km or 2.44 miles|24|里|h|||
-鏡|かがみ|mirror|24|鏡；反映|a|私の母は主婦のかがみだと思う。||I think that my mother is the perfect housewife.
+鏡|かがみ|mirror|24|鏡子|v|私の母は主婦のかがみだと思う。||I think that my mother is the perfect housewife.
 閾|いき|threshold, limen|24|閾|a|この方法ならきっとうまくいきます。|這個方法一定會成功。|This method is sure to work.
 離|り|li|24|離|h|||
 頂|いただき|crown, summit, spire|24|頂端；頂部|h|診察していただきたいです。|希望您能幫忙診察。|I'd like to see the doctor.
@@ -1921,7 +1921,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 月|つき|moon|27|月；月亮|a|銀とブリキの区別がつきますか。|能分辨銀和馬口鐵嗎？|Do you know the difference between silver and tin?
 枝|えだ|branch, twig|27|枝；分支|a|それはいい考えだと思ったよ。|我覺得那是個好主意。|I thought that was a great idea.
 模試|もし|mock exam, practice exam, practice test|27|模擬考|h|今回の模試も志望校合格範囲内か。||Was your mock exam score this time within the pass range for your preferred school?
-権|けん|right, authority|27|權；權利|a|彼らのけんかは誤解から起こった。|他們的爭吵因誤解而起。|Their quarrel sprang from misunderstanding.
+権|けん|right, authority|27|權；權利；權力|v|彼らのけんかは誤解から起こった。|他們的爭吵因誤解而起。|Their quarrel sprang from misunderstanding.
 正月|しょうがつ|New Year, New Year's Day|27|正月；新年|d|お正月に私と踊ったお友達かも〜？||Isn't that the friend I danced with on New Year's?
 求め|もとめ|request, appeal, claim, purchase|27|要求；索取|d|彼女は我々に大声で助けを求めた。|她向我們大聲求助。|She called out to us for help.
 治る|なおる|to get better, to recover from illness|27|痊癒；治好|h|風邪を人に移すと治るって本当？|感冒傳染給別人就會痊癒是真的嗎？|Is it true that you recover from colds when you give them to someone else?
@@ -1943,7 +1943,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 起こす|おこす|to wake up|27|叫醒；引起|h|酸は金属に触れると化学反応を起こす。|酸會和金屬物質起化學反應。|When acid comes in contact with metal, it causes a chemical reaction.
 返事|へんじ|reply, answer|27|回覆；回答|d|彼女はすぐに手紙の返事をくれた。|她立刻回信給我。|She answered my letter right away.
 道具|どうぐ|tool|27|工具；器具|d|古代の天文学者は、空にある物体を観察する道具を持たなかった。|古代的天文學家沒有觀測天體的工具。|Ancient astronomers did not have instruments to help them see objects in the sky.
-都|と|metropolitan|27|都；首都|h|||
+都|と|metropolitan|27|都；首都；都市|v|||
 釣る|つる|to fish|27|釣魚；垂釣|h|海老で鯛を釣る。||Throw a sprat to catch a whale.
 首|くび|neck|27|首；領|a|我々は酸素が不足するとあくびをする。|我們缺氧時就會打哈欠。|We yawn when we are short of oxygen.
 騒ぐ|さわぐ|to make noise, to clamor|27|吵鬧；喧嘩|d|騒ぐなと先生はその少年に言った。||The teacher told the boy not to make noise.
@@ -2109,7 +2109,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ステーキ|ステーキ|steak|29|牛排|d|ステーキはレアがいいな。|牛排三分熟比較好。|I like my steak rare.
 スーパー|スーパー|supermarket, subtitles|29|超市|d|女の子はスーパーで牛乳を買います。|這個女孩在超市買牛奶。|The girl buys milk at the market.
 スーパー (マーケット)|スーパー (マーケット)|supermarket|29|超市|d|||
-テキスト|テキスト|text, text book|29|教材；課本|h|テキストを開いてください。|請翻開課本。|Open your textbooks.
+テキスト|テキスト|text, text book|29|課本；文本；教材|v|テキストを開いてください。|請翻開課本。|Open your textbooks.
 パソコン|パソコン|computer|29|個人電腦|h|私は家にパソコンを持っていない。|我家沒有電腦。|I don't have a computer at home.
 パート (タイム)|パート (タイム)|part time|29|兼職；計時工|h|||
 レポート; リポート|レポート; リポート|report|29|報告；報告書|d|||
@@ -2149,7 +2149,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 見つける|みつける|to discover, to find|30|找到；發現|d|適当な訳を見つけるのが難しい。|很難找到合適的翻譯。|It's hard to find a suitable translation.
 赤ちゃん|あかちゃん|baby, infant|30|嬰兒|d|赤ちゃんの名前は決まりましたか？|小寶寶的名字決定好了嗎？|Have you chosen a name for your baby?
 選る|よる|to choose, to select, to pick|30|挑選；選擇|d|||
-雄っぱい|おっぱい|very large pecs|30|厚實胸肌|h|||
+雄っぱい|おっぱい|very large pecs|30|大胸肌|v|||
 非|ひ|fault, error, mistake, going poorly|30|錯誤；缺點|d|||
 預流|よる|sotāpanna, śrotāpanna, stream-winner|30|預流果|h|||
 高校; 高等学校|こうこう; こうとうがっこう|high school, senior high school|30|高中|d|||
@@ -2196,7 +2196,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 具える|そなえる|to be furnished with|30|具備；配備|h|||
 冷やす|ひやす|to cool, to refrigerate|30|冷卻；冰鎮|d|リンゴは冷やすと甘みが増します。||Apples are sweeter when cold.
 刑事|けいじ|criminal case, detective|30|刑警；刑事|h|男は刑事に銃を向けた。|男子把槍指向了偵探。|The man aimed a gun at the detective.
-刺刀|さすが|dagger|30|匕首|d|||
+刺刀|さすが|dagger|30|短刀；匕首|v|||
 努|ど|third principle of the Eight Principles of Yong, downward stroke|30|永字八法之一|h|||
 北海道|ほっかいどう|Hokkaido|30|北海道|h|北海道がいつも寒いわけではない。|北海道並不總是寒冷。|It is not always cold in Hokkaido.
 医院|いいん|doctor's office, clinic|30|醫院；診所|d|手術は医院内で三十分以内に完了します。||The surgery, performed at our clinic, is over in half an hour.
@@ -2215,7 +2215,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 実際|じっさい|in fact, in actuality|30|實際|a|実際、スペイン語は話せるんですよ。|事實上，我說西班牙語。|As a matter of fact, I do speak Spanish.
 客賓|まろうど|visitor from afar, guest|30|客人；貴賓|h|||
 宵|よい|evening, early night hours|30|晚上；夜初|d|彼は何と言ってよいか途方に暮れた。|他不知道說什麼好。|He didn't know what to say.
-将|はた|or, otherwise, furthermore|30|或者；將|d|私はただパンを一口食べただけだ。|我只吃了一口麵包。|I only ate a bite of bread.
+将|はた|or, otherwise, furthermore|30|或者；又；將軍|v|私はただパンを一口食べただけだ。|我只吃了一口麵包。|I only ate a bite of bread.
 尊|みこと|Lord, Highness, you|30|尊貴；貴人|h|ゆみことは仲良くしたくない。彼女はいつもうそをつく。||I don't want to associate with Yumiko; she usually tells lies.
 居眠り|いねむり|dozing, nodding off|30|打瞌睡|h|数学の授業中に私は居眠りをした。||I went to sleep during the math lesson.
 差別|さべつ|discrimination, differentiation|30|歧視；差別|d|「性差別」という言葉が今、流行っている。|“性別歧視”這個詞目前很流行。|Terms like "sexism" are now in vogue.
@@ -2303,14 +2303,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 オーレ|オーレ|olé|31|歐雷|h|||
 ゴール|ゴール|goal|31|球門；終點|h|彼はボールをゴールに蹴り入れた。||He kicked the ball into the goal.
 サッカー|サッカー|soccer, football|31|足球|h|彼女はサッカーのチャンピオンだ。|她是足球冠軍。|She's a soccer champion.
-ジョン|ジョン|jeon|31|壺|h|私はトムとジョンの間に座った。|我坐在湯姆和約翰中間。|I sat between Tom and John.
+ジョン|ジョン|jeon|31|廁所；約翰|v|私はトムとジョンの間に座った。|我坐在湯姆和約翰中間。|I sat between Tom and John.
 セット|セット|set|31|設定；套組|h|腕時計、2分早くセットしなきゃ。|我得把手錶調快兩分鐘。|I need to set my watch to two minutes faster.
 ダンス|ダンス|dance|31|跳舞；舞蹈|d|メアリーは上手にダンスができる。|瑪麗舞跳得很好。|Mary can dance well.
 ツアー|ツアー|tour|31|旅遊團|h|東京でツアーガイドをしてます。|我在東京做導遊。|I'm a tour guide in Tokyo.
 ハイ|ハイ|high, euphoric, intoxicated, high|31|高；興奮|d|ヒッチハイクは好きじゃないんだ。|我不喜歡搭便車。|I don't like hitchhiking.
 バッグ|バッグ|bag|31|包包；手提袋|h|彼女はハンドバッグを盗まれた。|她的手提包被偷了。|She had her handbag stolen.
 プレイ|プレイ|play, recreation, playing|31|玩；遊戲|d|最新のゼルダをプレイしましたか?|你玩過最新的塞爾達（Zelda）遊戲嗎？|Have you played the latest Zelda?
-プレー|プレー|praying, prayer|31|比賽；演出|h|ＭＰ３プレーヤーがほしい！|我想要一個MP3播放器！|I want an MP3 player!
+プレー|プレー|praying, prayer|31|比賽；遊玩；戲劇|v|ＭＰ３プレーヤーがほしい！|我想要一個MP3播放器！|I want an MP3 player!
 ペンキ|ペンキ|paint|31|油漆|d|アクリル性のペンキを使いなさい。||Use acrylic paint.
 ミス|ミス|miss, Miss|31|失誤；錯誤|h|この手のミスは見過ごされがちだ。|這種錯誤很容易被人忽視。|It's very easy to miss this kind of mistake.
 ユーザー|ユーザー|user|31|使用者；用戶|d|もっと短いユーザー名にしておけばよかった。|我該用短一點的使用者名稱的。|I should've chosen a shorter username.
@@ -2341,7 +2341,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 動詞|どうし|verb|31|動詞|a|不規則動詞の勉強は好きではない。|我不喜歡學習不規則動詞。|I don't like learning irregular verbs.
 務め|つとめ|duty|31|職責；任務|d|私があなたの案内役を務めましょう。|我為你充當導遊。|I'll act as a guide for you.
 化粧|けしょう|make-up|31|化妝|h|こってり化粧した顔は異様である。|化妝太濃的話臉會看著很奇怪。|A face with too much make up looks strange.
-取り|とり|taking, taker, collecting, last performer of the day|31|拿取；收割|h|彼はポケットから何かを取り出した。|他從口袋中拿出了什麼。|He took something out of his pocket.
+取り|とり|taking, taker, collecting, last performer of the day|31|拿取；壓軸|v|彼はポケットから何かを取り出した。|他從口袋中拿出了什麼。|He took something out of his pocket.
 同一|どういつ|identity, sameness, similarity|31|同一；相同|h|意見と事実を同一視してはいけない。||You shouldn't give the same weight to opinions as you give to facts.
 命|いのち|life|32|命；生命|a|こんなのちょちょいのちょいだよ。||This will be a walk in the park.
 因る|よる|to come from|32|由於；起因於|h|||
@@ -2372,7 +2372,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 役|やく|role, position|32|役；大戰|a|消防士たちはすばやく火事を消した。|消防隊很快就把大火撲熄。|The firemen quickly extinguished the blaze.
 従う|したがう|to abide, to obey|32|服從；遵從|d|彼の言いつけに従うより他に仕方がなかった。|只好服從他了。|There was nothing for it but to obey him.
 御代|みよ|reign, period|32|御代；時代|d|||
-御目出糖|おめでとう|Japanese sweets made with glutinous rice and azuki bean paste|32|紅豆麻糬|h|||
+御目出糖|おめでとう|Japanese sweets made with glutinous rice and azuki bean paste|32|紅豆年糕點心|v|||
 微妙|びみょう|delicate, subtle|32|微妙；城府|a|その２つの絵には微妙な違いがある。|這兩張圖片之間有細緻的差異。|There are subtle differences between the two pictures.
 徹夜|てつや|staying up all night, sleepless night|32|通宵；熬夜|h|私は徹夜で働くのに慣れている。|我習慣整夜工作。|I'm used to working all night.
 心臓|しんぞう|heart|32|心臟；心|a|心臓が速く鼓動しているのを感じた。|我感覺我的心跳得很快。|I felt my heart beating rapidly.
@@ -2607,7 +2607,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 柄|え|handle, grip|34|柄；把手|d|||
 棟|とう|ridge (of roof|34|棟；屋脊|h|クリスマスおめでとうございます。|祝你聖誕節快樂。|Merry Christmas!
 業界|ぎょうかい|business world, business circles, industry|34|業界；商界|a|この業界ではもう年をとりすぎている。|我對於這一業界來說，已經太老了。|I am too old for this world.
-様子|ようす|aspect, state, appearance|34|樣子；聲明|a|ナンシーはその火事の様子を私に話した。|南希告訴了我有關火災的事。|Nancy told me about the fire.
+様子|ようす|aspect, state, appearance|34|樣子；情況；狀態|v|ナンシーはその火事の様子を私に話した。|南希告訴了我有關火災的事。|Nancy told me about the fire.
 横浜|よこはま|Yokohama|34|橫濱|d|私の妹は横浜の近くに住んでいる。|我妹妹住在橫濱附近。|My sister lives near Yokohama.
 機械|きかい|machine, machinery|34|機械|h|コンピューターは複雑な機械だ。|電腦是個複雜的機器。|A computer is a complex machine.
 次ぐ|つぐ|to rank next to, to come after|34|次於；接續|h|チューリッヒはロンドンに次ぐ世界第二位の金市場である。|蘇黎世是僅次於倫敦的世界排行第二名的黃金市場。|Zurich is the second largest gold market in the world after London.
@@ -2733,7 +2733,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 予防|よぼう|prevention, protection against|35|預防|h|インフルエンザの予防接種を受けた。|我接種了流感疫苗。|I was vaccinated against the flu.
 付く|つく|to adjoin, to be attached, to adhere|35|附著；黏住|d|彼はあなたのミスにきっと気付くでしょう。|他必定會覺察到你的錯誤。|He's bound to notice your mistake.
 以前|いぜん|in the past, before|35|以前；之前|a|彼女は以前と同じ間違いをした。|她犯了和以前同樣的錯誤。|She made the same mistake as before.
-休息|きゅうそく|rest, relief, relaxation|35|休息；其餘|a|スーパーヒーローにも、時には休息が必要だ。|連超級英雄們也該偶爾休息一下。|Even superheroes need an occasional break.
+休息|きゅうそく|rest, relief, relaxation|35|休息|v|スーパーヒーローにも、時には休息が必要だ。|連超級英雄們也該偶爾休息一下。|Even superheroes need an occasional break.
 住宅|じゅうたく|resident, housing|35|住宅；住所|h|老婦人は３LDKの集合住宅に独りで住んでいた。|老婦一人住在三房公寓裡。|The old woman lived in a 3 room apartment by herself.
 体重|たいじゅう|weight|35|體重|h|彼は体重が270ポンドあります。|他重二百七十磅。|He weighs 270 pounds.
 便|びん|way, means, flight|35|方法；班機|d|ビールびんはガラスでできている。|啤酒瓶是玻璃做的。|Beer bottles are made of glass.
@@ -2770,7 +2770,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 基本|きほん|basic, basis|35|基本；根本|d|基本的にあなたの意見に賛成です。|基本上我贊同你的意見。|Basically, I agree with your opinion.
 場面|ばめん|scene, setting|35|場面；現場|a|撃ち合い場面の多い西部劇ですよ。||It's a shoot-'em-up western.
 夕|ゆう|evening|35|傍晚；晚上|d|ゆうべはとても楽しかった。|我們昨晚過得非常開心。|I had a lot of fun last night.
-外す|はずす|to unfasten, to remove|35|取下；錯過|h|トムは値札を外すのを忘れていた。||Tom forgot to remove the price tag.
+外す|はずす|to unfasten, to remove|35|取下；解開；錯過|v|トムは値札を外すのを忘れていた。||Tom forgot to remove the price tag.
 大半|たいはん|most of, majority, mostly|35|大半；大多數|a|私の一生の大半は過ぎ去った。|我的人生已過去了大半。|The better half of my life is gone.
 大御|おおみ|august, imperial, divine|35|尊貴；皇家|h|||
 天然|てんねん|nature, spontaneity|35|天然；自然|d|この石けんには天然香料が入っている。|這塊肥皂裡新增了天然香料。|This soap is infused with natural fragrances.
@@ -2803,11 +2803,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 恐怖|きょうふ|fear, terror|35|恐懼；恐怖|d|子供は恐怖のあまり立ちすくんだ。|那個孩子被嚇得一動也不能動。|The child was paralyzed with fear.
 悠|ゆう|quiet, calm, leisurely, distant|35|悠；安靜|a|ゆうべはとても楽しかった。|我們昨晚過得非常開心。|I had a lot of fun last night.
 患者|かんじゃ|patient|35|病患；患者|d|患者は深い昏睡状態にあります。|患者現在處於深度昏迷狀態。|The patient is in a deep coma.
-悲|ひ|karuna|35|悲憫|h|||
+悲|ひ|karuna|35|悲；悲憫|v|||
 意地|いじ|disposition, spirit, obstinacy|35|意氣；倔強|h|君はあくまで意地を張るのだね。|你會為己意堅持到底吧，對嗎？|You will insist on your way all the way, won't you?
 意外|いがい|unexpected, surprising|35|意外；想不到|a|創造力とは、既に知られている要素を、意外な方法で組み合わせる能力である。|創意是把已知的元素用不凡的方式結合的能力。|Creativity is taking things that are already known and combining them in an extraordinary way.
 愛し|はし|lovely, beloved, sweet|35|可愛；心愛|d|彼はまだ彼女のことを愛している。|他仍然愛著她。|He still loves her.
-折れ|おれ|fold, bend, broken part|35|折痕；摺痕|d|このスズメの羽、折れちゃってるよ。|這隻麻雀的翅膀（是）被折斷了（的狀態）。|This sparrow's wings are broken.
+折れ|おれ|fold, bend, broken part|35|折痕；折斷|v|このスズメの羽、折れちゃってるよ。|這隻麻雀的翅膀（是）被折斷了（的狀態）。|This sparrow's wings are broken.
 揃う|そろう|to become complete, to be equal|35|齊全；整齊|h|||
 握手|あくしゅ|handshake|35|握手|h|私は部屋に入り彼と握手した。|我走進了房間與他握手。|I entered the room and shook hands with him.
 摘む|つむ|to pluck, to pick, to trim|35|摘取；採摘|d|彼女は花を摘むことが大好きです。||She loves picking flowers.
@@ -2840,10 +2840,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 灰|はい|ash|35|灰|a|彼女は赤いスカートをはいていた。|她穿著紅裙子。|She was wearing a red skirt.
 煮る|にる|to boil, to cook|35|煮；燉|d|煮るなり焼くなり、好きにしてくれ。||Do as you please.
 熟れる|なれる|to mature, to ripen, to be properly aged|35|成熟；熟透|h|||
-爾|おれ|you|35|爾；你|a|仕事の邪魔立てされては黙っておれない。|我無法容忍別人打擾我的工作。|I cannot endure being disturbed in my work.
+爾|おれ|you|35|你；爾|v|仕事の邪魔立てされては黙っておれない。|我無法容忍別人打擾我的工作。|I cannot endure being disturbed in my work.
 版|はん|edition|35|版|a|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 物事|ものごと|things, everything|35|事物；事情|h|私たちは物事を変える力を持っている。|我們擁有改變事物的力量。|We have the power to change things.
-狎れる|なれる|to get too familiar with, to become too familiar with|35|熟悉；親暱|h|||
+狎れる|なれる|to get too familiar with, to become too familiar with|35|過於親暱；習慣|v|||
 狭間|さま|loophole, arrow slit, crenel|35|夾縫；間隙|h|彼は希望と絶望の狭間で揺れた。||He fluctuated between hope and despair.
 生命|せいめい|life|35|生命；人生|a|火星に生命の痕跡はありません。|火星上沒有生命的痕跡。|There is no sign of life on Mars.
 田|た|rice field|35|稻田；田地|h|||
@@ -2852,7 +2852,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 癌|がん|cancer|36|癌症|d|明日雨のようだががんばろう。|雖然明天好像會下雨，但我會加油的。|It looks like rain tomorrow, but I'll try my best.
 知事|ちじ|prefectural governor|36|知事|h|州知事は囚人達を自由の身にした。||The governor set the prisoners free.
 科目|かもく|subject, curriculum, course|36|科目；課程|h|数学は彼の最も得意な科目です。|他最擅長的科目是數學。|Mathematics is his best subject.
-穀物|こくもつ|grain, cereal, corn|36|穀物；秊|a|ライ麦は貧困の穀物と称されていた。|黑麥被稱為貧窮的穀物。|Rye was called the grain of poverty.
+穀物|こくもつ|grain, cereal, corn|36|穀物|v|ライ麦は貧困の穀物と称されていた。|黑麥被稱為貧窮的穀物。|Rye was called the grain of poverty.
 立て|たて|central, main, leading, just|36|首要；正|d|彼は書くことで生計を立てている。|他靠寫作謀生。|He earns his living by writing.
 童謡|どうよう|children's song, nursery rhyme|36|童謠|a|彼は、オペラはもちろんのこと、童謡すら歌えない。||Opera! He cannot even sing children's songs!
 筋|すじ|muscle, string, line|36|筋；肌肉|a|その計画に大すじで賛成していただけませんか。||Would you agree to the plan in principle?
@@ -2921,13 +2921,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 まさか|まさか|by no means|36|怎麼會；難道|h|まさか、嘘でしょう。|你騙人！|You must be kidding!
 もらえる|もらえる|to be able to receive, to be able to take, to be able to accept|36|能收到；能得到|h|１５分までにユニオン駅にいてもらえるかしら。|我在想能否在15分鐘之內趕到聯合車站。|Do you think you can get me to Union Station by a quarter after?
 イラスト|イラスト|illustration, picture, sketch|36|插圖；插畫|d|トムはイラストレーターなんだ。||Tom is an illustrator.
-コード|コード|code, cord, chord|36|代碼；導線|d|私は健にそのレコードを貸した。|我把錄影借給ken了。|I lent the record to Ken.
+コード|コード|code, cord, chord|36|代碼；電線；和弦|v|私は健にそのレコードを貸した。|我把錄影借給ken了。|I lent the record to Ken.
 ストーリー|ストーリー|story, tale, legend, plot|36|故事；情節|h|私はラブストーリーが好きです。||I like love stories.
 ダウン|ダウン|down|36|下降；倒下|h|ダウンロードを開始するには「保存」ボタンをクリックしてください。|開始下載時，請點選“儲存”按鈕。|Please click the "Save" button to start downloading.
 デビュー|デビュー|debut, doing something for the first time|36|首次登場；出道|h|その女優のデビューは８歳の時でした。||The actress made her debut when she was eight.
 ドラマ|ドラマ|drama|36|戲劇；連續劇|h|どのドラマが一番好きですか。|你最喜歡什麼電視劇？|Which drama series do you like best?
 ノー|ノー|no|36|不；沒有|h|今日ノートを無くしちゃったんだ。|今天我的筆記本掉了。|I lost my notebook today.
-ブロック|ブロック|block, chunk|36|方塊；封鎖|h|私の家はここから５ブロックの所にあります。|我家離這裡五個街區遠。|My house is five blocks away.
+ブロック|ブロック|block, chunk|36|積木；街區；封鎖|v|私の家はここから５ブロックの所にあります。|我家離這裡五個街區遠。|My house is five blocks away.
 ボート|ボート|rowing boat|36|小船；划艇|d|代わり番こでボートを漕ごう。|我們輪流划船吧。|Let's take turns rowing the boat.
 ヨット|ヨット|yacht|36|帆船；遊艇|d|ヨットはブイを回った。|遊艇繞浮標航行。|The yacht sailed around a buoy.
 ラーメン|ラーメン|ramen, Chinese-style noodles|36|拉麵|d|そのラーメン屋は夜中でも営業をしている。|那間拉麵店在半夜也營業|That ramen shop is open late at night.
@@ -2973,8 +2973,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 喜び|よろこび|joy, pleasure, rejoicing|36|喜悅；欣喜|h|嬉しいくせに。素直に喜びなよ。|明明就很開心，你就老實地承認吧。|I know you're happy about it. Why don't you just show it?
 地位|ちい|position, status|36|地位；位|a|ロバートは現在の地位に満足している。|羅伯特滿足於現在的地位。|Robert is content with his present position.
 地域|ちいき|area, region|37|地域；區|a|この地域で山火事が起こった。|這地區發生了山火。|A forest fire broke out in this area.
-基|もと|basis|37|基；集團|a|彼女は誰に対してもとても親切だった。|她對大家都很親切。|She was very kind to everyone.
-場|ば|place, field|37|場合；場所|d|||
+基|もと|basis|37|基礎；根據|v|彼女は誰に対してもとても親切だった。|她對大家都很親切。|She was very kind to everyone.
+場|ば|place, field|37|場所；場合；場|v|||
 増やす|ふやす|to increase, to add to|37|增加；增添|d|読書は語彙を増やすのに役に立つ。||Reading helps you build up your vocabulary.
 声優|せいゆう|voice actor or actress|37|配音員；聲優|h|声優になりたいんです。||I want to become a voice actor.
 大戦|たいせん|great war, great battle|37|大戰；大戰役|h|第３次世界大戦が起こるのかしら。|不知道第三次世界大戰會不會爆發。|I wonder if a third world war will break out.
@@ -3020,7 +3020,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 栄|はやし|ornament, adornment, decoration|37|裝飾；榮耀|d|彼はもっと大人に見えるようにひげをはやした。||He grew a beard to look more mature.
 桶|おけ|bucket, pail, tub|37|桶；木桶|h|もっと短いユーザー名にしておけばよかった。|我該用短一點的使用者名稱的。|I should've chosen a shorter username.
 梅|うめ|plum, lowest|37|梅|a|彼女は仕事が非常にきちょうめんだ。||She is very exact in her job.
-極|ごく|quite, very|37|極；杆子|a|この町は交通の便がすごくいい。|這個城市的交通方便得很。|The transportation in this city is very convenient.
+極|ごく|quite, very|37|極；非常|v|この町は交通の便がすごくいい。|這個城市的交通方便得很。|The transportation in this city is very convenient.
 楽|らく|comfort, ease|37|舒適；輕鬆|h|しばらくの間座っていて下さい。|請坐一會。|Please remain seated for a few minutes.
 止す|よす|to cease, to give up|37|停止；作罷|h|我々は死刑を廃止すべきである。|我們應該廢除死刑。|We should abolish the death penalty.
 正体|しょうたい|natural shape, one's true colors, true character|37|真面目；本來面目|h|彼らは彼の正体を警察にばらした。||They turned him over to the police.
@@ -3041,7 +3041,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 片付く|かたづく|to put in order, to solve|37|收拾好；解決|h|明日までには仕事は片付くよ。||I'll be through with my work by tomorrow.
 状況|じょうきょう|state of affairs, situation|37|狀況；情況|h|プロジェクトの進捗状況はどうなの？|你的專案進展得怎麼樣？|How is your project coming along?
 狩り|かり|hunting|37|狩獵；打獵|d|彼は狩りをするのが好きだ。|他喜歡打獵。|He likes hunting.
-現れ|あらわれ|expression, indication, sign|37|表現；跡象|d|彼が突然現れたので我々はみな驚いた。|他的突然出現，讓我們都感到驚訝。|His sudden appearance surprised us all.
+現れ|あらわれ|expression, indication, sign|37|表現；顯現；跡象|v|彼が突然現れたので我々はみな驚いた。|他的突然出現，讓我們都感到驚訝。|His sudden appearance surprised us all.
 生涯|しょうがい|one's lifetime|37|生涯；生命|a|彼の政治家としての生涯は終わった。|他的政治生涯結束了。|His political career has ended.
 畑|はたけ|field, patch|37|旱田；田地|d|宴会はたけなわだった。||The banquet was in full swing.
 異動|いどう|a change, transfer|37|調動；異動|d|市内の区から他の区へ引っ越した場合は、区間異動届をご提出ください。||If you move from one borough to another within the city, please submit a notification of the change.
@@ -3083,17 +3083,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 計器|けいき|meter, gauge|37|計量器；儀表|d|例えば、温度計や気圧計などの計器は器具です。||For instance, gauges, such as thermometers and barometers, are instruments.
 討つ|うつ|to attack, to avenge|37|討伐；攻打|d|彼は迫害者を懲らしめて人民たちのあだを討つだろう。||He will avenge the people on their oppressor.
 訴える|うったえる|to complain, to appeal, to sue|37|控訴；訴諸|d|唯一の解決法は法に訴えることだ。|唯一的解決辦法是向法律控訴。|Your only remedy is to go to the law.
-調度|ちょうど|household items, furniture, furnishings, bow and arrow|37|家具；器具|d|その夫婦は家具調度に金をたくさん使った。||The couple spent a lot of money on furnishing their house.
+調度|ちょうど|household items, furniture, furnishings, bow and arrow|37|家具；器物；剛剛好|v|その夫婦は家具調度に金をたくさん使った。||The couple spent a lot of money on furnishing their house.
 請い|こい|request, entreaty|37|請求；懇求|d|姫君は皇帝に寛恕を請いました。|公主向皇帝請求饒恕。|The princess begged forgiveness from the emperor.
 議長|ぎちょう|chairman|37|議長|h|マイクは議長に選出された。|邁克當選為主席。|Mike was elected chairperson.
 財産|ざいさん|property, fortune, assets|37|財產；資產|a|彼は遺言で妻に全財産を残した。|他在遺囑裡說要把他的財產全部留給他的妻子。|He left all his property to his wife in his will.
 貸し|かし|loan, lending|37|借出；出借|h|君に私のノートを貸してあげよう。|我會借給你我的筆記本。|I'll lend you my notebook.
 資源|しげん|resources|37|資源|h|私達は、地球のエネルギー資源をまるで無尽蔵であるかのように使ってきた。|我們一直把地球的能源當作取之不盡的資源使用。|We have used earth's energy resources as if they were limitless.
 贈る|おくる|to present, to give to, to award to|37|贈送；頒發|h|彼女は贈るものを紙で包んだ。||She wrapped some gifts in paper.
-起こし|おこし|development, revitalization, standing up|37|起身；復興|h|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
+起こし|おこし|development, revitalization, standing up|37|開發；振興；引起|v|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
 転ぶ|ころぶ|to fall down, to fall over|37|跌倒；摔倒|d|氷の上で滑って転ぶなよ。|在冰上別滑倒了啊。|Don't slip on the ice.
 述べる|のべる|to state, to express, to mention|37|陳述；敘述|h|彼は二言三言述べると行ってしまった。||He said two or three words and left.
-速|そく|gear, speed|37|速度；齒輪|d|ろうそくの火がひとりでに消えた。|蠟燭自己滅了。|The candle went out by itself.
+速|そく|gear, speed|37|速度；檔位|v|ろうそくの火がひとりでに消えた。|蠟燭自己滅了。|The candle went out by itself.
 違和|いわ|physical disorder, incongruity|37|不適；不舒服|h|だいじょぶですっ、違和感ないです！||It's fine, there's no need to feel uncomfortable!
 酛|もと|yeast starter, yeast mash|37|酒母；酵母|h|彼女は誰に対してもとても親切だった。|她對大家都很親切。|She was very kind to everyone.
 重大|じゅうだい|serious, important|37|重大；鄭重|a|飲酒運転は重大な問題だ。|酒駕是很嚴重的問題。|Drunk driving is a serious problem.
@@ -3242,10 +3242,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 河|かわ|river, stream|39|河；河流|d|嵐にもかかわらず彼は出ていった。|雖然正在刮暴風雨，但他還是出去了。|He went out in spite of the storm.
 沿う|そう|to run along, to follow|39|沿；順著|d|ご希望に沿うように努力します。||I'll try to meet your wishes.
 法人|ほうじん|corporation, corporate body, company|39|法人|a|トムの会社はケイマン諸島法人です。||Tom's company is incorporated in the Cayman Islands.
-波|なみ|wave|39|波；揮|a|ちなみに、この部屋には冷房設備なんて物は何も無い。あるのはうちわだけ。|另外，這間房裡面沒有冷氣裝置之類的東西，有的只是一把團扇。|Incidentally, this room doesn't have anything like an air conditioner. All it has is a hand-held paper fan.
+波|なみ|wave|39|波浪；波|v|ちなみに、この部屋には冷房設備なんて物は何も無い。あるのはうちわだけ。|另外，這間房裡面沒有冷氣裝置之類的東西，有的只是一把團扇。|Incidentally, this room doesn't have anything like an air conditioner. All it has is a hand-held paper fan.
 泳ぎ|およぎ|swimming|39|游泳|d|彼は私に泳ぎ方を教えてくれた。|他教了我游泳。|He taught me how to swim.
 活用|かつよう|conjugation, practical use|39|活用；運用|h|彼はその機会を最大限に活用した。||He made the most of the chance.
-流す|ながす|to drain, to float, to shed|39|沖走；流放|h|パリを貫流する川はセーヌ川です。||The river which flows through Paris is the Seine.
+流す|ながす|to drain, to float, to shed|39|沖走；流放；播放|v|パリを貫流する川はセーヌ川です。||The river which flows through Paris is the Seine.
 流行|りゅうこう|fashionable, fad, prevailing|39|流行；時尚|d|この歌は１９７０年代に流行した。|這首歌在七十年代很流行。|This song was popular in the 1970s.
 渡伊|とい|going to Italy|39|渡義大利|h|||
 満足|まんぞく|satisfaction|39|滿足|h|私は自分の英語力に満足していない。|我不滿意我的英語能力。|I'm not satisfied with my English ability.
@@ -3330,7 +3330,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ぶっ|ぶっ|adds emphasis to the following verb or indicates that the action is done forcefully or violently|39|猛烈；狠狠|h|彼女は黒い帽子をかぶっていた。|她戴著黑帽子。|She was wearing a black hat.
 まだまだ|まだまだ|still, much more, yet, still a long way to go|39|還遠得很；仍然|h|知らないことはまだまだある。|未知的東西還有很多很多。|There are still many things we don't know.
 むしろ|むしろ|rather, better, instead|39|寧可；反倒|h|私は魚よりもむしろ鳥になりたい。|我寧願是一隻鳥勝過一條魚。|I'd rather be a bird than a fish.
-もろ|もろ|both, many|39|兩者；雙方|h|風雨をもろともせず駅まで歩いた。||We braved the elements to walk to the station.
+もろ|もろ|both, many|39|兩者；完全；一起|v|風雨をもろともせず駅まで歩いた。||We braved the elements to walk to the station.
 よしみ|よしみ|friendship, friendly relations, connection|39|交情；情誼|d|昔の友情のよしみで君を助けてあげるよ。||I will help you for the sake of our old friendship.
 イギリス|イギリス|United Kingdom, UK, Britain, England|39|英國|h|日本の人口はイギリスよりも多い。|日本的人口比英國多。|The population of Japan is larger than that of Britain.
 オリンピック|オリンピック|Olympics, Olympic Games|39|奧運；奧林匹克|h|オリンピック競技で大切なことは、勝つことでなく参加することである。|奧運會重要的是參與，不是獲勝。|The important thing about the Olympic Games is not to win, but to take part in them.
@@ -3523,7 +3523,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 院|いん|house of parliament|41|院；議院|h|一晩泊めてもらいたいんだけど。|我想待一夜。|I'd like to stay for one night.
 除く|のぞく|to remove, to exclude, to except|41|除去；排除|d|悪い習慣を取り除くことはとても難しい。|改掉壞習慣是很難的。|It's very hard to get rid of bad habits.
 陳|ちん|Chen, Ch'en|41|陳（姓）|h|彼の部屋はいつもきちんとしている。|他的房間總是很整齊。|His room is always tidy.
-隊|たい|party, troops|41|隊；黨|a|何が言いたいのか分からないなあ。|我不理解你的意思。|I do not know what you mean.
+隊|たい|party, troops|41|隊伍；部隊|v|何が言いたいのか分からないなあ。|我不理解你的意思。|I do not know what you mean.
 集まり|あつまり|gathering, meeting, collection|41|聚會；集會|d|私たちは週に１回ここに集まります。|我們每週在這兒聚一次。|We gather here once a week.
 非と|ひと|condemning, denouncing|41|非難；責備|h|是非とも私の家にお越しください。||Please come to my house by all means.
 面倒|めんどう|trouble, attention|41|麻煩；照料|h|彼女は子どもたちの面倒を見た。|她照顧孩子們。|She looked after the children.
@@ -3598,11 +3598,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 出端|では|chance of going out, opportunity|42|出發時機；起步|h|||
 制限|せいげん|restriction, restraint, limitation|42|限制|d|その車は制限速度を越している。|這輛車超速了。|The car is exceeding the speed limit.
 博物館|はくぶつかん|museum|42|博物館；博物院|a|彼女は博物館までタクシーで行った。|她搭計程車去了博物館。|She took the taxi to the museum.
-印|しるし|mark, symbol, evidence|42|印；郵票|a|熱があるのは病気のしるしである。||Fever indicates sickness.
+印|しるし|mark, symbol, evidence|42|記號；標誌；證據|v|熱があるのは病気のしるしである。||Fever indicates sickness.
 友人|ゆうじん|friend|42|友人；朋友|a|彼女は香港に友人がいっぱいいる。|她在香港有很多朋友。|She has many friends in Hong Kong.
 双子|ふたご|twins, a twin|42|雙胞胎|d|ジーンとケートは双子だ。|Jean和Kate是雙胞胎。|Jean and Kate are twins.
 台湾|たいわん|Taiwan|42|台灣|h|台湾料理はインド料理ほど辛くない。|臺灣菜比印度菜口味淡。|Taiwanese food isn't as spicy as Indian food.
-右舞|うまい|variety of court dance|42|雅樂舞蹈|h|||
+右舞|うまい|variety of court dance|42|右舞（雅樂）|v|||
 合格|ごうかく|success, passing|42|及格；合格|h|もちろん、彼女は試験に合格した。|當然，她透過了測驗。|Of course she passed the test.
 名人|めいじん|master, expert|42|名人；專家|h|この街は何人もの著名人を生み出した。|該市出了數個名人。|This town gave birth to several great men.
 味方|みかた|ally, supporter|42|盟友；夥伴|d|彼女は貧しい人達の味方です。|她是窮人的同伴。|She is a friend of the poor.
@@ -3682,7 +3682,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 王|おう|king|42|國王|d|人が何を言おうと気にしない。|別人說什麼都沒關係。|I don't mind what people say.
 現す|あらわす|to show, to appear, to reveal|42|顯現；展現|d|彼女の夢はいつか実現するだろう。||Her dream will one day come true.
 現代|げんだい|today, present-day|42|現代；當代|a|私は現代美術には全く興味がない。|我對現代藝術不感興趣。|Modern art doesn't interest me.
-生ける|いける|to arrange, to plant, living|42|插花；活的|h|彼女は花を生けるのが好きです。||She likes to arrange flowers.
+生ける|いける|to arrange, to plant, living|42|插花；活著的|v|彼女は花を生けるのが好きです。||She likes to arrange flowers.
 生地|きじ|fabric, dough|42|布料；麵團|d|この生地、今度作ろうと思ってる服に使おうと思うんですが、幾らしますか。|這塊布料，我想拿來做件衣服，請問多少錢？|I want to buy this material for a new dress. How much does it cost?
 生理|せいり|physiology, menses|42|生理；生理學|a|最近生理痛がひどいんだ。|最近，我的痛經厲害。|Recently, my menstrual cramps have been severe.
 畝|ほ|mu|42|畝（面積單位）|h|||
@@ -3728,7 +3728,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 農家|のうか|farmer, farm family|43|農家；農戶|d|彼は人里離れた農家に住んでいる。||He lives in a farmhouse remote from the world.
 違い|ちがい|difference, discrepancy|43|差異；不同|h|僕はテストでひどい間違いをした。|考試的時候我犯了很嚴重的錯誤。|I made a serious mistake on the test.
 選択|せんたく|selection, choice|43|選擇|h|選択の余地がないように感じました。|我感覺好像沒有選擇的餘地。|I felt like I had no choice.
-部隊|ぶたい|force, unit, corps|43|部隊；逼|a|その部隊は戦線から撤退させられた。||The troops were retired from the front lines.
+部隊|ぶたい|force, unit, corps|43|部隊；軍隊|v|その部隊は戦線から撤退させられた。||The troops were retired from the front lines.
 酔う|よう|to get drunk|43|喝醉；暈|d|彼は酔うと手がつけられない。|他醉酒後會失控。|He is out of control when drunk.
 醜|しこ|ugly, repulsive, detestable, unworthy|43|醜；醜陋|a|もう少しここにいた方がいいよ。|你最好在這裡待久一點。|You should stay here a little longer.
 銅貨|どうか|copper coin|43|銅幣；銅板|d|ここの数枚の銅貨がある。||Here are a few coppers.
@@ -3923,7 +3923,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 越す|こす|to go over|44|越過；超過|h|来週君に手紙か電話を寄越すよ。|下週我會給你寫信或打電話的。|I'll write or phone you next week.
 身長|しんちょう|height, stature|44|身長；高度|a|身長と体重を教えていただけますか？|可以請教您的身高和體重嗎？|Could you please tell me how tall you are and how much you weigh?
 軍隊|ぐんたい|army, troops|44|軍隊|h|軍隊は反乱を制圧した。|軍隊鎮壓了叛亂。|The army quelled the rebellion.
-辞退|じたい|refusal|44|辭退；推辭|h|お心付けはご辞退いたします。|不收小費。|No gratuity accepted.
+辞退|じたい|refusal|44|婉拒；辭退|v|お心付けはご辞退いたします。|不收小費。|No gratuity accepted.
 迷子|まいご|lost child|44|走失的孩子|h|私はどこへいっても迷子になる。|不論去哪，我都會迷路。|No matter where I go, I get lost.
 通学|つうがく|commuting to school|44|上學；通勤|h|たいていの学生は徒歩で通学する。|大多數學生步行去學校。|Most students walk to school.
 連続|れんぞく|consecutive, continuity, continuing|44|連續|d|その生徒は３回連続で授業をサボった。|那名學生連續三次蹺課。|The student skipped class three times in a row.
@@ -3981,7 +3981,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 代える|かえる|to exchange, to interchange, to substitute|45|替換；代替|h|||
 代る|かわる|to take the place of, to relieve, to be substituted for|45|代替；接替|h|||
 会長|かいちょう|president, chairman|45|會長；董事長|h|彼はクラブの会長になるように要請された。|他受邀做俱樂部的主席。|He was invited to be the chairman of the club.
-伝|でん|legend, tradition, biography|45|傳說；傳記|d|何読んでんの？|你在看什麼？|Whatcha readin'?
+伝|でん|legend, tradition, biography|45|傳記；傳說|v|何読んでんの？|你在看什麼？|Whatcha readin'?
 体育|たいいく|physical education, gymnastics, athletics|45|體育|a|体育祭が延期になると発表された。||It was announced that the athletic meet would be put off.
 何とか|なんとか|somehow, anyhow, one way or another|45|設法；勉強|h|私は薄給で何とか暮らしています。||I manage to live on a small income.
 依頼|いらい|request, dependence|45|委託；請求|d|弁護士は依頼人の無罪を主張した。||The lawyer insisted on the client's innocence.
@@ -4032,7 +4032,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 容疑|ようぎ|suspicion, charge|45|嫌疑|d|容疑者は捜査官にうそを言った。|那嫌疑犯對偵察官撒了個謊。|The suspect told a lie to the inspector.
 寒|かん|midwinter, cold season, coldest days of the year|45|寒冷；寒冬|h|富士山に登った後で一首浮かんだ。|攀登富士山後，我得到了一首詩的靈感。|After climbing Mt Fuji I got the inspiration for a poem.
 寛|かん|lenient, gentle|45|寬；寬容|a|富士山に登った後で一首浮かんだ。|攀登富士山後，我得到了一首詩的靈感。|After climbing Mt Fuji I got the inspiration for a poem.
-尊重|そんちょう|respect, esteem, regard|45|尊重；方面|a|彼の感情を尊重しなさい。|請尊重他的感受|Have respect for his feelings.
+尊重|そんちょう|respect, esteem, regard|45|尊重；重視|v|彼の感情を尊重しなさい。|請尊重他的感受|Have respect for his feelings.
 就く|つく|to settle in, to take, to study|45|就任；從事|h|この国で仕事に就くのは難しいよ。||It's difficult to get a job in this country.
 州|しゅう|state, province|45|州；聲明|a|彼は復しゅう心にかられて行動した。||He was driven by revenge.
 巣|す|nest, breeding place|45|巢；窩|a|||
@@ -4146,7 +4146,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 銃|じゅう|gun|46|銃；槍|a|猫はじゅうたんをひっかき始めた。||The cat started to scratch the carpet.
 鋤|すき|spade, plough|46|鋤頭|h|すきを与えると魔がさすもの。|疏忽招致盜賊。|Opportunity makes a thief.
 鐶|かん|ring, link, open spirals of heavy metal wire twisted into a kettle and used to lift it|46|環；鐵環|d|富士山に登った後で一首浮かんだ。|攀登富士山後，我得到了一首詩的靈感。|After climbing Mt Fuji I got the inspiration for a poem.
-間隔|かんかく|space, interval, SPC|46|間隔；場地|a|どれくらいの間隔で献血してるの？||How often do you give blood?
+間隔|かんかく|space, interval, SPC|46|間隔；間距|v|どれくらいの間隔で献血してるの？||How often do you give blood?
 関|かん|barrier, gate|46|關卡；關係|h|富士山に登った後で一首浮かんだ。|攀登富士山後，我得到了一首詩的靈感。|After climbing Mt Fuji I got the inspiration for a poem.
 限界|げんかい|limit, bound|46|極限；界限|d|彼女の借金は返済できる限界を超えている。|她的欠款超出了她能夠還的程度。|Her debts amount to more than she can pay.
 雅致|がち|artistry, good taste, elegance|46|雅致；情趣|h|||
@@ -4215,14 +4215,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 共有|きょうゆう|joint ownership, co-ownership, sharing|46|共有；共享|h|そのフォルダ、共有にしておいて。|請先把那個資料夾設定為共用|Make that a shared folder.
 分の|ぶんの|-th|46|分之|h|彼女は自分の部屋をバラで飾った。|她用玫瑰花裝飾了她的房間。|She decorated her room with roses.
 刑|けい|penalty, sentence, punishment|46|刑；懲罰|a|けいこは枕に顔をうずめて泣いた。||Keiko buried her head in the pillow and cried.
-列|れつ|queue, line, row|46|列；划|a|彼女は生まれつき弱い。|她天生體弱。|She's weak by nature.
+列|れつ|queue, line, row|46|列；隊伍|v|彼女は生まれつき弱い。|她天生體弱。|She's weak by nature.
 列車|れっしゃ|train|46|列車；訓練|a|列車は１０時ちょうどに出発した。|列車在十點整出發了。|The train left at ten o'clock on the dot.
 初心者|しょしんしゃ|beginner|46|新手；初學者|h|初心者向けのコースはありますか。||Do you have courses for beginners?
 判|はん|size|46|尺寸；印章|h|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 到着|とうちゃく|arrival|46|抵達|h|電車は時間通りに到着する予定だ。|電車將準點到達。|The train will arrive on time.
 刷る|する|to print|46|印刷|d|||
 刺さる|ささる|to stick, to be stuck|46|刺入；扎到|h|||
-前進|ぜんしん|advance, drive, progress|46|前進；預|a|彼女はゆっくりと前進した。|她慢慢移動向前。|She slowly moved forward.
+前進|ぜんしん|advance, drive, progress|46|前進|v|彼女はゆっくりと前進した。|她慢慢移動向前。|She slowly moved forward.
 動揺|どうよう|disturbance, flutter shock|46|動搖；震動|h|トムはかなり動揺しているようだ。||Tom seems quite upset.
 勘|かん|perception, intuition, the sixth sense|46|直覺；感覺|d|富士山に登った後で一首浮かんだ。|攀登富士山後，我得到了一首詩的靈感。|After climbing Mt Fuji I got the inspiration for a poem.
 勤め|つとめ|work, employment|46|工作；職務|d|母は勤めの帰りに買い物をします。|媽媽下班後去購物。|My mother does her usual shopping on her way home from work.
@@ -4253,8 +4253,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 山元|やまもと|foot of a mountain, base of a mountain, mine|47|山腳；礦山|d|||
 山口|やまぐち|Yamaguchi|47|山口|d|山口県の県庁所在地は山口市です。||Yamaguchi Prefecture's capital is Yamaguchi City.
 布|ぬの|cloth|47|布；布匹|a|彼は死ぬのを怖がっている。|他害怕死亡。|He is afraid of death.
-希望|きぼう|hope, wish, aspiration|47|希望；希|a|彼の言葉が私に希望を与えてくれた。|他的話給了我希望。|His words gave me hope.
-幅|はば|width, breadth|47|幅；幅度|a|君が思うほど僕はばかじゃない。|我不像你想的那麼傻。|I'm not as stupid as you think I am.
+希望|きぼう|hope, wish, aspiration|47|希望；願望|v|彼の言葉が私に希望を与えてくれた。|他的話給了我希望。|His words gave me hope.
+幅|はば|width, breadth|47|寬度；幅度|v|君が思うほど僕はばかじゃない。|我不像你想的那麼傻。|I'm not as stupid as you think I am.
 平|ひら|something broad and flat, common|47|平；平常|d|あなたにとってひらめきの最大の源は何？|什麼是您最大的靈感來源？|What is your greatest source of inspiration?
 年中|ねんじゅう|whole year, always, everyday|47|全年；整年|d|ハワイでは１年中海水浴が楽しめる。|在夏威夷，一個人可以一年到頭享受海水浴的樂趣。|In Hawaii, we can enjoy swimming in the ocean all year round.
 年寄|としより|old people, the aged|47|老人；長者|h|お年寄りにはやさしくしなさい。|善待老人。|Be kind to old people.
@@ -4321,7 +4321,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 策|さく|plan, policy|47|策；計劃|a|彼の家は小さくて古かった。|他的房子又小又舊。|His house was small and old.
 管|くだ|pipe, tube|47|管子|d|ここで写真を撮らないでください。|請別在這裡拍照。|Please don't take pictures here.
 組み合わせ|くみあわせ|combination, assortment, set, matching|47|組合；搭配|h|創造力とは、既に知られている要素を、意外な方法で組み合わせる能力である。|創意是把已知的元素用不凡的方式結合的能力。|Creativity is taking things that are already known and combining them in an extraordinary way.
-組む|くむ|to put together|47|組合；交叉|h|そろそろ本気で仕事に取り組むころだよ。||It is time you get down to work.
+組む|くむ|to put together|47|組合；交叉；合作|v|そろそろ本気で仕事に取り組むころだよ。||It is time you get down to work.
 経る|へる|to pass, to elapse, to experience|47|經過；經歷|d|||
 羽根|はね|feather|47|羽毛；羽|d|あなたの羽根を千切り棄ててしまいましょう。|要把你的羽翼撕得粉碎丟棄|Let's shred your wings into small pieces and throw them away.
 職業|しょくぎょう|occupation, business|47|職業|h|教職は私が自分で選んだ職業です。|教書是我自己選擇的職業。|Teaching is a profession of my own choosing.
@@ -4522,7 +4522,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 観察|かんさつ|observation, survey|48|觀察|h|その実験には綿密な観察が必要だ。|做這個實驗需要仔細的觀察。|Close observation is necessary for the experiment.
 解消|かいしょう|cancellation, liquidation, resolution|48|解除；消除|h|カラオケはストレス解消によい。|卡拉OK對減輕壓力有益。|Karaoke is good for reducing stress.
 解釈|かいしゃく|explanation, interpretation|48|解釋|a|彼女は彼の発言を脅迫と解釈した。||She interpreted his remarks as a threat.
-触れる|ふれる|to touch, to feel, to violate|48|觸摸；提及|d|酸は金属に触れると化学反応を起こす。|酸會和金屬物質起化學反應。|When acid comes in contact with metal, it causes a chemical reaction.
+触れる|ふれる|to touch, to feel, to violate|48|觸摸；觸及；違反|v|酸は金属に触れると化学反応を起こす。|酸會和金屬物質起化學反應。|When acid comes in contact with metal, it causes a chemical reaction.
 訓練|くんれん|practice, training|48|訓練|a|私たちは昨日防火訓練をした。|我們昨天進行了火警演習。|We had a fire drill yesterday.
 設備|せつび|equipment, device, facilities|48|設備|h|電器設備に近づかないように。|遠離電器裝置。|Keep away from the electrical equipment.
 許す|ゆるす|to permit, to allow, to approve|48|允許；原諒|h|寛大に人を許すように努めなさい。||Try to be generous and forgive.
@@ -4580,13 +4580,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 アーティスト|アーティスト|artist, musician|49|藝術家；藝人|d|トムはずばぬけたアーティストだ。||Tom is an outstanding artist.
 コミュニティ|コミュニティ|community|49|社區；社群|d|タトエバは、コミュニティーです。|Tatoeba 是一個社群。|Tatoeba is a community.
 サブ|サブ|sub, substitute, reserve, sub-|49|替補；副|d|サブロンは肌に潤いを与えるクリームです。||Savlon is a moisturizing skin cream.
-デカ|デカ|deca-, 10^1|49|十；十倍|h|これはデカフェですか？||Is this decaf coffee?
+デカ|デカ|deca-, 10^1|49|十；刑警|v|これはデカフェですか？||Is this decaf coffee?
 ニーズ|ニーズ|needs, demands, requests|49|需求；需要|d|当社には貴社のシステムに対するニーズがありません。||Your system isn't suited to our company's needs.
 ハウス|ハウス|house, greenhouse|49|房屋；住宅|d|ポーカーのフルハウスって、何？||In poker, what's a full house?
 ハート|ハート|heart, hearts|49|心；心臟|d|トムは腕にハートの入れ墨を入れた。||Tom had a heart tattooed on his arm.
 パイプ|パイプ|pipe, channels official or otherwise|49|管道；煙斗|d|おじいさんはパイプを口にしたまま私と話をした。|爺爺叼著煙管跟我說話。|Grandfather talked to me with a pipe in his mouth.
 パック|パック|pack, packet, carton, to pack|49|盒裝；包|d|このバックパックは彼のものですか。||Does this backpack belong to him?
-プレミアム|プレミアム|premium, premium|49|溢價；高級|d|||
+プレミアム|プレミアム|premium, premium|49|溢價；高級；獎金|v|||
 ホワイト|ホワイト|white, correction fluid|49|白色；修正液|d|ホワイトチョコ好き？|你喜歡白巧克力嗎？|Do you like white chocolate?
 ポケモン|ポケモン|Pokémon|49|寶可夢|d|ポケモンゴー、まだやってるの？||Do you still play Pokemon Go?
 ユニット|ユニット|unit, group|49|單位；單元|d|２０ユニット以上注文したら、値引きしていただけますか。||If we place an order for more than 20 units, would you reduce the price?
@@ -4629,7 +4629,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 医師|いし|doctor, physician|49|醫師；醫生|h|クライン医師から紹介を受けました。|我是克萊因醫生介紹的。|Dr. Klein recommended you to me.
 反抗|はんこう|opposition, resistance|49|反抗；抵抗|d|沈黙は反抗を意味することが多い。||Silence often implies resistance.
 受賞|じゅしょう|winning a prize, receiving an award, being awarded|49|獲獎；得獎|h|マザー・テレサはノーベル賞を受賞した。|特蕾莎修女被授予諾貝爾獎。|Mother Teresa was given the Nobel prize.
-只|ただ|free of charge, mere, only|49|免費；只|h|メールをチェックしたかっただけ。|我只想查一下我的電子郵件。|I just wanted to check my email.
+只|ただ|free of charge, mere, only|49|免費；僅；普通|v|メールをチェックしたかっただけ。|我只想查一下我的電子郵件。|I just wanted to check my email.
 同じく|おなじく|in the same way, like, likewise|49|同樣；同樣地|h|彼女は私と同じくらいの年齢です。|她大約跟我同年紀。|She's about my age.
 同人|どうじん|same person, said person|49|同人；同一人|h|||
 名刺|めいし|card, business card|49|名片|d|トムは名刺を出して挨拶をした。||Tom exchanged greetings by giving his business card.
@@ -4641,8 +4641,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 国家|こっか|state, country, nation|49|國家|h|シンガポールは都市国家だ。|新加坡是城邦。|Singapore is a city-state.
 境|さかい|border, boundary, mental state|49|境；際|a|いさかいで私たちの融和が壊れた。||Quarrelling spoiled our unity.
 外交|がいこう|diplomacy|49|外交|a|彼はアメリカ大使館の外交官です。|他是美國大使館的外交官。|He is a diplomat at the American Embassy.
-大家|おおや|landlord|49|房東|d|彼は経済学の大家です。|他是經濟學的專家。|He is a great authority on economics.
-大手|おおて|major company, big company, front castle gate|49|大企業；大型|h|この街には大手テレビ局があります。||This city has a big TV station.
+大家|おおや|landlord|49|房東；大家|v|彼は経済学の大家です。|他是經濟學的專家。|He is a great authority on economics.
+大手|おおて|major company, big company, front castle gate|49|大型企業；正面城門|v|この街には大手テレビ局があります。||This city has a big TV station.
 大気|たいき|atmosphere|49|大氣|a|車が増えてくると、大気汚染もひどくなる。|隨著汽車的增加，空氣也跟著變糟。|With the increase in the number of cars, the atmosphere will get worse and worse.
 大臣|だいじん|cabinet minister|49|大臣|a|総理大臣が昨日辞職した。|總理大臣昨日辭職。|The Prime Minister resigned yesterday.
 奇妙|きみょう|strange, queer, curious|49|奇妙；怪異|d|何か奇妙なことが起こりつつある。|正有什麼奇怪的事情發生著。|There's something odd going on.
@@ -4702,21 +4702,21 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 混ざる|まざる|to be mixed, to mingle with|50|混合；摻雜|h|この物質は水と混ざる。||This substance will mix with water.
 渇く|かわく|to be thirsty|50|口渴；乾渴|h|ある種の食物を食べるとのどが渇く。||Some kinds of food make one thirsty.
 炎|ほのお|flame|50|炎；火光|a|||
-為る|する|to do, to attempt|50|做；作|h|今日、東京はとても寒く為るでしょう。||Today, Tokyo will get very cold.
+為る|する|to do, to attempt|50|做；嘗試|v|今日、東京はとても寒く為るでしょう。||Today, Tokyo will get very cold.
 犯罪|はんざい|crime|50|犯罪|h|私は私の行為を犯罪としてみた。|我把我的行為看成是犯罪。|I viewed my action as a crime.
 生える|はえる|to grow, to spring up, to cut|50|長出；生長|d|植物が生える。||Plants grow.
 生き物|いきもの|living thing, creature|50|生物|h|火星には何か生き物はいますか。|火星上有什麼活物嗎？|Is there anything living on Mars?
 用心|ようじん|care, precaution, caution|50|小心；戒備|h|用心に傘を持っていった方がいい。||You had better take your umbrella in case.
 異|い|difference|50|異；區別|a|||
 疑問|ぎもん|question, problem, doubt|50|疑問；疑惑|a|誰も私の疑問に答えてくれなかった。|沒人回答我的問題。|No one answered my question.
-盛り|さかり|helping, serving|50|盛期；旺盛|h|スイカは今が出盛りだ。|西瓜現在正值盛產期。|Watermelons are in season now.
-盤|ばん|board, record|50|盤；板|a|だれよりも君をいちばん愛している。|我愛你勝過其他任何一個人。|I love you more than anybody else.
+盛り|さかり|helping, serving|50|盛期；份量|v|スイカは今が出盛りだ。|西瓜現在正值盛產期。|Watermelons are in season now.
+盤|ばん|board, record|50|盤；棋盤；唱片|v|だれよりも君をいちばん愛している。|我愛你勝過其他任何一個人。|I love you more than anybody else.
 直し|なおし|correction, rectification, mending|50|修改；修正|h|必ず私に電話をかけ直して下さい。|別忘記給我回電話。|Don't fail to call me back.
 知恵|ちえ|wisdom, wit, intelligence|50|智慧|h|私達は彼の勇気は言うまでもなく、彼の知恵にも感嘆した。|我們很欽佩他的智慧，更別說他的勇氣了。|We admired his wisdom, not to mention his courage.
 石槨|せっかく|stone burial chamber|50|石槨|h|||
 禅|ぜん|Zen|50|禪|a|私はビールはぜんぜん飲みません。|我從不喝啤酒。|I never touch beer.
 税金|ぜいきん|tax, duty|50|稅金|h|税金を払ったら実生活の始まりだ。||Life begins when you pay taxes.
-種類|しゅるい|variety, kind|50|種類；綜藝|a|彼はあらゆる種類の本をもっている。|他有各種各樣的書。|He has all kinds of books.
+種類|しゅるい|variety, kind|50|種類；類別|v|彼はあらゆる種類の本をもっている。|他有各種各樣的書。|He has all kinds of books.
 粗末|そまつ|humble, miserable, crude|50|粗糙；簡陋|d|私の車はとてもお粗末な物です。||Mine is an apology for a car.
 粳|うる|nonglutinous grain|50|粳米|h|先生でも間違いをすることはありうる。|老師也會犯錯。|Teachers also make mistakes.
 約|やく|approximately, about, some|50|約；大約|a|消防士たちはすばやく火事を消した。|消防隊很快就把大火撲熄。|The firemen quickly extinguished the blaze.
@@ -4844,7 +4844,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 わし|わし|eagle|51|老鷹；鷲|h|彼はせわしげに働いている。|他正在忙碌地工作。|He is busily at work.
 アイスクリーム|アイスクリーム|ice cream|51|冰淇淋|d|アイスクリームが食べたい。|我想吃冰淇凌。|I want to eat ice cream.
 アルバム|アルバム|album|51|相簿；專輯|d|ここには私のアルバムがあります。|我的相簿在這裡。|Here's my album.
-イイ|イイ|Iran-Iraq|51|伊朗與伊拉克|h|市場でドライイチジクを買いました。||I bought dried figs at the market.
+イイ|イイ|Iran-Iraq|51|好；不錯|v|市場でドライイチジクを買いました。||I bought dried figs at the market.
 イメージ|イメージ|one's image|51|形象；印象|h|この画は何をイメージして描いたのですか。|畫這幅畫的時候你腦海中浮現出了什麼影象？|What image did you have in mind as you painted this picture?
 インタビュー|インタビュー|interview|51|採訪；訪談|d|彼は首相にインタビューした。||He had an interview with the Prime Minister.
 ウイスキー|ウイスキー|whiskey|51|威士忌|d|このビンの中には少量のウイスキーがある。|這瓶內有一點威士忌。|There's a little whiskey in this bottle.
@@ -4896,7 +4896,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 メンバー|メンバー|member|51|成員；會員|d|君は野球チームのメンバーですか。|你是棒球隊的一員嗎？|Are you a member of the baseball team?
 ヨーロッパ|ヨーロッパ|Europe|51|歐洲|d|私は叔母にヨーロッパで偶然会った。|我在歐洲偶遇了姑母。|I ran into my aunt by chance in Europe.
 ラベル|ラベル|label|51|標籤；標示|d|箱の内容はラベルに表示されている。|箱子的內容在標籤上面寫著。|The contents of the box are listed on the label.
-下す|おろす|to lower, to let go down|51|下達；做出|h|仲裁では普通６ヶ月に裁決を下す。||With arbitration, judgement is usually passed in six months' time.
+下す|おろす|to lower, to let go down|51|降下；下達；腹瀉|v|仲裁では普通６ヶ月に裁決を下す。||With arbitration, judgement is usually passed in six months' time.
 不要|ふよう|unnecessary, unneeded|51|不需要；多餘|d|参加のための会費は不要です。||There's no membership fee for joining.
 世紀|せいき|century|51|世紀|a|原子爆弾は２０世紀物理学の所産だ。|原子彈是二十世紀物理學的產物。|The atomic bomb is the offspring of 20th century physics.
 中味|なかみ|contents, interior, filling|51|內容；內餡|h|||
@@ -5067,7 +5067,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 バイオリン|バイオリン|violin|52|小提琴|d|彼女はバイオリンが大変上手です。|她小提琴演奏得非常好。|She plays the violin very well.
 パートナー|パートナー|partner, partner|52|夥伴；搭檔|d|僕のパートナーになってほしいんだ。||I'd like you to be my partner.
 ピクニック|ピクニック|picnic|52|野餐|d|明日はピクニックに行くつもりだ。|我明天去野餐。|I'm going on a picnic tomorrow.
-フィギュア|フィギュア|figure, form, shape, figurine|52|公仔；模型|h|トムはフィギュアスケートを習っている。||Tom is learning to figure skate.
+フィギュア|フィギュア|figure, form, shape, figurine|52|公仔；模型；數字|v|トムはフィギュアスケートを習っている。||Tom is learning to figure skate.
 ブレーキ|ブレーキ|a brake|52|煞車；剎車|d|ブレーキの機能は車を止めることだ。|剎車的功能是使車停下。|The function of the brake is to stop the car.
 プラスチック|プラスチック|plastic|52|塑膠|d|プラスチックは燃えにくい。|塑膠不易燃燒。|Plastic does not burn easily.
 ホームページ|ホームページ|home page, homepage|52|首頁；網頁|d|ホームページの人気は内容次第。||The popularity of a web site depends on its content.
@@ -5083,7 +5083,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ランド|ランド|land|52|陸地；土地|d|フィンランドの首都はどこですか。|芬蘭的首都是哪裡？|What's the capital city of Finland?
 リート|リート|lied|52|撒謊|h|トムは生まれながらのアスリートだ。|湯姆天生就是個運動員。|Tom is a natural athlete.
 ルーム|ルーム|room|52|房間|d|ダブルルームをおねがいします。|我想要雙人房。|I'd like a double room.
-ロケット|ロケット|locket, rocket|52|火箭；墜子|d|ロケットはものすごいスピードで飛ぶ。|火箭飛得極快。|The rocket travels at a tremendous speed.
+ロケット|ロケット|locket, rocket|52|火箭；盒式墜子|v|ロケットはものすごいスピードで飛ぶ。|火箭飛得極快。|The rocket travels at a tremendous speed.
 一人一人|ひとりひとり|one by one, each|52|各人；每個人|h|選手一人一人が最善を尽くした。||Every player did his best.
 中継ぎ|なかつぎ|joining, joint, intermediation|52|中繼；接替|h|||
 付き合い|つきあい|socialization, friendship, association|52|交往；交際|d|彼は町の人みんなと付き合いがあった。|他與村裡的人有過來往。|He was acquainted with everybody in town.
@@ -5097,7 +5097,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 大人しい|おとなしい|obedient, docile, quiet|52|溫順；安靜|d|||
 大腿|だいたい|thigh|52|大腿；股|a|||
 大隊|だいたい|battalion|52|營隊；大隊|h|||
-奇利|きり|unexpected benefit, sudden profit|52|意外之財；暴利|h|||
+奇利|きり|unexpected benefit, sudden profit|52|意外之財|v|||
 市長|しちょう|mayor|52|市長|a|彼は市長に立候補するつもりだ。|他將競選市長。|He is going to run for mayor.
 広く|ひろく|widely, far and wide, extensively|52|廣泛；廣闊|h|彼は両足を広く開いて立っていた。||He stood with his feet wide apart.
 当たり前|あたりまえ|usual, common, obvious|52|理所當然；通常|h|当たり前だ。|當然了。|Of course.
@@ -5128,7 +5128,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 羨ましい|うらやましい|envious, enviable|53|羨慕；令人羨慕|h|おっぱいがお椀型で羨ましいなあ。||I'm so jealous of your bowl-shaped boobs.
 脱毛|だつもう|hair loss, hair removal|53|脫毛|a|私は今は永久脱毛で肌がツルツルです。||I've had my hair removed permanently, so my skin is smooth.
 蒸し暑い|むしあつい|humid, sultry|53|悶熱；濕熱|d|春にしては少し蒸し暑い日だった。||It was a little too muggy for spring.
-蘭|らん|orchid, Netherlands|53|蘭|a|どれくらい飛べるかやってごらん。|看看你能跳多遠。|Try to see how far you can jump.
+蘭|らん|orchid, Netherlands|53|蘭花；荷蘭|v|どれくらい飛べるかやってごらん。|看看你能跳多遠。|Try to see how far you can jump.
 要するに|ようするに|in a word, after all, in short …|53|總之；簡言之|d|要するに人生は短い。|總而言之，生命是很短的。|In a word, life is short.
 訪れ|おとずれ|visit, call, arrival|53|拜訪；來臨|h|京都はたくさんの観光客が訪れる。|很多遊客赴京都旅遊。|Kyoto is visited by many tourists.
 読過|どっか|finishing reading, skimming|53|閱讀；瀏覽|h|||
@@ -5160,8 +5160,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ジャパン|ジャパン|Japan|53|日本|d|この車はメイド・イン・ジャパンだ。||This car was made in Japan.
 タイア|タイア|tire, tyre|53|輪胎|h|||
 ハン|ハン|khan|53|汗|h|彼女はハンドバッグを盗まれた。|她的手提包被偷了。|She had her handbag stolen.
-バック|バック|back|53|後背；背景|d|彼は車をバックさせて車庫に入れた。|他倒車入車庫。|He backed his car into the garage.
-バン|バン|bun|53|麵包；包子|h|彼は手にバンドエイドを貼った。|他在手上貼了一塊膠布。|He put a Band-Aid on his hand.
+バック|バック|back|53|後背；背景；包包|v|彼は車をバックさせて車庫に入れた。|他倒車入車庫。|He backed his car into the garage.
+バン|バン|bun|53|麵包；小圓麵包|v|彼は手にバンドエイドを貼った。|他在手上貼了一塊膠布。|He put a Band-Aid on his hand.
 パーツ|パーツ|part, component|53|零件；部件|d|彼はレゴのパーツを踏んでしまった。||He stepped on a Lego.
 フォン|フォン|phon|53|方；聲音單位|h|テレフォンカードはどこで手に入れることができますか。|我在哪兒可以弄到電話卡？|Where can I get a telephone card?
 フォーン|フォーン|phone, telephone|53|電話|d|||
@@ -5278,7 +5278,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 もしか|もしか|if, in case, supposing|54|或許；萬一|h|もしかして、私のこと怖がってる？||Are you, by any chance, scared of me?
 アイデア|アイデア|idea|54|點子；想法|d|彼のアイデアは全く価値がない。|他的想法完全沒有價值。|His idea counts for nothing.
 エル|エル|ell|54|エル（アルファベットの文字）|h|ムーリエルは２０歳になりました。|Muiriel現在20歲了。|Muiriel has turned twenty.
-オール|オール|all, all-nighter|54|全部；全體|d|ジェーンはオールＡをとるだろう。||Jane will get straight A's.
+オール|オール|all, all-nighter|54|全部；通宵|v|ジェーンはオールＡをとるだろう。||Jane will get straight A's.
 カップル|カップル|couple|54|情侶；夫婦|d|彼らはお似合いのカップルです。|他們是合適的一對。|They are a good couple.
 キリスト|キリスト|Christ|54|基督|d|キリスト教はアブラハムの宗教の一つです。|基督教是亞伯拉罕諸教中的一個。|Christianity is an Abrahamic religion.
 クリック|クリック|click, click|54|點擊；點選|d|そのリンクはクリックしないでください。|不要點選那個連結。|Don't click on that link.
@@ -5366,7 +5366,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 早速|さっそく|at once, immediately, promptly|54|立刻；馬上|d|早速のご返信ありがとうございます。|感謝您的迅速回覆。|Thank you for your prompt reply.
 昼寝|ひるね|nap, siesta|54|午睡；小憩|h|昼寝をしている間に変な夢を見た。|我睡午覺的時候做了個怪夢。|While napping, I had a strange dream.
 晋|しん|Jin dynasty, Chin dynasty|54|晉朝|d|ペットのネコが昨日しんじゃったの。|我養的貓昨天死了。|My cat died yesterday.
-暑|しょ|heat, midsummer|54|暑；加熱|a|明日数学のテストがあるでしょう。|明天有一個數學測驗。|There will be a math test tomorrow.
+暑|しょ|heat, midsummer|54|暑熱；炎熱|v|明日数学のテストがあるでしょう。|明天有一個數學測驗。|There will be a math test tomorrow.
 曲げる|まげる|to bend, to crook, to lean|54|彎曲；扭曲|d|||
 更ける|ふける|to get late, to wear on|54|深夜；夜深|h|夜が更けるにつれて寒くなった。||It became colder as the night wore on.
 月日|つきひ|time, years, days|54|時光；歲月|d|生年月日は１９６０年２月１４日です。|我出生於1960年2月14日。|I was born on February 14, 1960.
@@ -5410,11 +5410,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 競べ馬|くらべうま|traditional horse-racing, originally two horses head-to-head or ten at a time, esp. May 5 event at K|55|賽馬；競馬|h|||
 箇所|かしょ|place, point, part|55|地點；處所|d|私はスキー中に２箇所も骨折した。||I broke my leg in two places during a skiing mishap.
 箴|しん|warning, admonition, proverb|55|箴言；規誡|d|ペットのネコが昨日しんじゃったの。|我養的貓昨天死了。|My cat died yesterday.
-簿|ぼ|register, record book|55|簿；版|a|||
+簿|ぼ|register, record book|55|帳簿；名冊|v|||
 絵の具|えのぐ|colors, paints|55|顏料；繪具|h|赤い絵の具に青い絵の具を混ぜなさい。||Blend the red paint with the blue paint.
 継続|けいぞく|continuation|55|繼續；持續|h|討論を継続することを動議します。||I move that we continue the discussion.
-綱|つな|rope|55|繩索；網|d|この道路は東京・大阪間をつないでいる。|這條道路連線著東京和大阪。|This road connects Tokyo with Osaka.
-署|しょ|station, office|55|署；駐地|a|明日数学のテストがあるでしょう。|明天有一個數學測驗。|There will be a math test tomorrow.
+綱|つな|rope|55|繩索|v|この道路は東京・大阪間をつないでいる。|這條道路連線著東京和大阪。|This road connects Tokyo with Osaka.
+署|しょ|station, office|55|署；官署；警局|v|明日数学のテストがあるでしょう。|明天有一個數學測驗。|There will be a math test tomorrow.
 羊毛|ようもう|wool|55|羊毛|h|父のしごとは羊毛の買い付けです。||My father's work is to buy wool.
 翁|おきな|old man, venerable gentleman, venerable|55|翁；老漢|a|彼の言ったことを覚えておきなさい。|請記住他說的話。|Please remember what he said.
 肘|ひじ|elbow|55|肘；手肘|a|彼はひじに身をもたせかけた。|他把身子靠在胳膊上。|He leaned on his elbows.
@@ -5483,7 +5483,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ダム|ダム|dam|55|水壩|d|このダムは水と電力を与えてくれる。|這個水壩給我們提供水和電。|This dam supplies us with water and electricity.
 パフォーマンス|パフォーマンス|performance, something done for show|55|表演；績效|d|トムのパフォーマンスが本当に好きだった。||I really liked Tom's performance.
 パンツ|パンツ|underpants|55|內褲；褲子|d|パンツとブラジャー以外は全部脱いでください。|請脫去除內褲和內衣外的所有衣物。|Please take off all your clothes except your underpants and bra.
-ホモ|ホモ|homo-, homo|55|同性戀|h|ここだけの話だが、彼はホモらしい。||Between ourselves, he seems to be a homosexual.
+ホモ|ホモ|homo-, homo|55|同性戀；同質|v|ここだけの話だが、彼はホモらしい。||Between ourselves, he seems to be a homosexual.
 マルチ|マルチ|multi-, multi-post|55|多重；多層|d|私のロボットの名前はマルチです。||My robot's name is Maruchi.
 ミッション|ミッション|mission, delegation, mission|55|使命；任務|d|明日は朝イチで大事なミッションがあるのだ。こんなことしてる場合じゃない。||Tomorrow, I've got an important mission first thing in the morning. I shouldn't be wasting my time with this.
 メガネ|メガネ|glasses, eyeglasses, spectacles, judgment|55|眼鏡|d|ただの赤青メガネじゃないぞ。|這可不是一般的紅藍鏡喲。|These aren't just any 3-D glasses.
@@ -5568,7 +5568,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 断定|だんてい|conclusion, decision|56|斷定；結論|d|昨晩の火事は放火と断定された。|昨晚的火災被斷定為由縱火引起的。|The fire that broke out last night was judged to be caused by arson.
 日曜|にちよう|Sunday|56|星期日|d|事故は日曜日の３時頃に起こった。|事故發生在星期日下午三點左右。|The accident happened on Sunday at about 3:00.
 早め|はやめ|early, a little earlier than usual, a little faster than usual|56|提早；稍早|h|早めの返事をお待ちしております。||I look forward to hearing from you soon.
-明|みょう|vidya, mantra|56|真言；咒語|h|||
+明|みょう|vidya, mantra|56|明咒；光明|v|||
 木材|もくざい|lumber, timber, wood|56|木材；木料|a|私たちは像を木材で作った。|我們用木材做雕像。|We made statues out of wood.
 材木|ざいもく|lumber, timber|56|木材|h|大量の材木が紙の製造に使われている。||Large amounts of timber are used in paper making.
 来日|らいにち|coming to Japan, visit to Japan|56|來日；訪日|h|ボブがいつ来日したか分からない。||I don't know when Bob came to Japan.
@@ -5733,7 +5733,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 学力|がくりょく|scholarship, knowledge|57|學力|h|彼女は語学力を活かせる仕事を探している。||She is looking for a job where she can make use of her foreign language ability.
 学部|がくぶ|department of a university undergraduate|57|學院；學部|h|すみません、経済学部図書館ってどこか分かりますか？|不好意思，請問你知道經濟學部圖書館在哪裡嗎？|Excuse me, do you know where the economics department library is?
 定め|さだめ|law, rule, regulation, destiny|57|規定；定則|h|神は人間はみな死ぬものと定めた。||God has ordained that all men shall die.
-宛名|あてな|address, direction|57|收件人；收件人名|h|その手紙は宛名が間違っていた。||The letter was wrongly addressed.
+宛名|あてな|address, direction|57|收件人；收件人姓名|v|その手紙は宛名が間違っていた。||The letter was wrongly addressed.
 実績|じっせき|achievements, actual results|57|實績；業績|h|彼はその実績で金メダルを与えられた。||He was given a gold medal for his achievements.
 宮城|きゅうじょう|Imperial Palace|57|皇宮|d|宮城県の県庁所在地は仙台市です。||Miyagi Prefecture's capital is Sendai City.
 対策|たいさく|counter-plan, counter-measure|57|對策|h|徹底的な安全対策が実施された。||Strict security measures were in force.
@@ -5801,10 +5801,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 翅|はね|wing|57|翅；翼|a|今日はね、僕の誕生日なんだ。|今天是我的生日。|Today is my birthday.
 翌日|よくじつ|next day|57|翌日；第二天|a|トムは月曜日に来て翌日帰った。|湯姆星期一來的，第二天返回了。|Tom came on Monday and went back home the next day.
 職人|しょくにん|artisan, craftsman|57|工匠；職人|h|下手な職人は道具にけちをつける。||A bad workman blames his tools.
-腰掛け|こしかけ|seat, bench|57|椅子；凳子|h|二人の子どもが塀の上に腰掛けている。|兩個孩子在柵欄上坐著。|Two children are sitting on top of the fence.
+腰掛け|こしかけ|seat, bench|57|椅子；凳子；臨時工作|v|二人の子どもが塀の上に腰掛けている。|兩個孩子在柵欄上坐著。|Two children are sitting on top of the fence.
 花火|はなび|fireworks|57|煙火|d|暗くなったらすぐに花火がはじまるよ。|天一黑，就會開始放焰火了。|As soon as it gets dark, the fireworks will start.
 芸能人|げいのうじん|entertainer, performer, celebrity|57|藝人|h|バンジージャンプは日本の芸能人のお家芸です。||Japan's performers excel in bungee jumping.
-草履|ぞうり|Japanese sandals|57|草鞋；木屐|h|草履、忘れた。||I forgot my sandals.
+草履|ぞうり|Japanese sandals|57|草鞋；日式涼鞋|v|草履、忘れた。||I forgot my sandals.
 荒れる|あれる|to be stormy, to be rough, to be ruined|57|荒廢；惡化|h|この話題になるといつも荒れる。||It's always rough when this topic comes up.
 蒸発|じょうはつ|evaporation, unexplained disappearance|58|蒸發；失蹤|h|水分は温められると蒸発する。||Water evaporates when it is heated.
 蓄える|たくわえる|to save, to store, to lay in stock|58|儲蓄；儲備|h|冬に備えて食料を秋に蓄える動物もいる。|有些動物會在秋天為冬季儲藏食物。|In autumn, some animals store food away for the winter.
@@ -5824,7 +5824,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 転がる|ころがる|to roll, to tumble|58|滾動；翻倒|d|転がる石には苔がつかない。||A rolling stone gathers no moss.
 迫る|せまる|to draw near, to press|58|逼近；迫近|d|私か仕事かって迫るのはやめてくれよ。||Don't ask me to choose between you and my job.
 通し|とおし|continuing from beginning to end, continuous run, consecutive run|58|連續；貫通|h|彼はさまざまな分野に精通している。|他精通各個領域。|He has good knows of every field.
-通じ|つうじ|movement, evacuation, defecation|58|通曉；通暢|h|英語話者に通じなきゃ意味ないぞ。|英語使用者聽不懂的話，那就沒意義囉。|That means nothing if English speakers don't understand it.
+通じ|つうじ|movement, evacuation, defecation|58|通便；排便；通曉|v|英語話者に通じなきゃ意味ないぞ。|英語使用者聽不懂的話，那就沒意義囉。|That means nothing if English speakers don't understand it.
 週刊|しゅうかん|weekly publication|58|週刊；周報|a|この週刊誌は毎週１回発行される。||This weekly comes out once a week.
 達し|たっし|official notice, notification|58|通知；指令|d|彼らの損失は１００万円に達した。|他們的損失到達了一百萬日圓。|Their losses reached one million yen.
 部首|ぶしゅ|radical|58|部首|h|||
@@ -5845,7 +5845,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 くっ|くっ|tch, ugh, damn|58|可惡；嘖|h|我々はその演奏者に拍手をおくった。|我們為表演者鼓掌。|We gave the performer a round of applause.
 こわ|こわ|frightening, terrifying|58|可怕；害怕|h|私は、暗闇の中に一人でいるのがこわかった。|我害怕一個人處在黑暗之中。|I was scared to be alone in the dark.
 ねじ|ねじ|screw|58|螺絲|d|彼は手紙をポケットにねじ込んだ。||He shoved the letter into his pocket.
-よせ|よせ|yose, end game, last stage of a game, gathering|58|停手；算了|h|人前であいつといちゃつくのはよせ。||Don't hang all over her like that in public.
+よせ|よせ|yose, end game, last stage of a game, gathering|58|收官；算了；聚會|v|人前であいつといちゃつくのはよせ。||Don't hang all over her like that in public.
 アイス|アイス|ice, ice cream|58|冰；冰淇淋|d|アイスクリームが食べたい。|我想吃冰淇凌。|I want to eat ice cream.
 アップデート|アップデート|update|58|更新|d|このソフト、どうやったらアップデートできるの？|我如何才能更新這個軟體呢？|How can I update this software?
 アレンジ|アレンジ|arrangement, adaptation, interpretation|58|編曲；改編|d|このお花のアレンジ、お願いできますか？||Can you arrange these flowers for me?
@@ -5858,7 +5858,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ショット|ショット|shot, shot|58|射擊；鏡頭|h|ショットはとても速いものもある。||Some people have very fast serves.
 セブン|セブン|seven|58|七|d|ヤニーはセブンイレブンの店員だった。||Yanni was a 7-Eleven clerk.
 タウン|タウン|town|58|城鎮|d|東京ミッドタウンは緑がいっぱい！|東京中城綠意盎然！|There's a lot of greenery in Tokyo Midtown!
-ビット|ビット|bit, bit|58|位元|d|６４ビットのソフトは３２ビット環境では動かないだろう。|64位的軟體在32位架構的系統上跑不起來。|Sixty-four-bit software will not run on 32-bit architecture.
+ビット|ビット|bit, bit|58|位元；鑽頭|v|６４ビットのソフトは３２ビット環境では動かないだろう。|64位的軟體在32位架構的系統上跑不起來。|Sixty-four-bit software will not run on 32-bit architecture.
 ピザ|ピザ|pizza, fat, ugly person|58|披薩|d|ピザは私の大好きな食べ物です。|比薩是我最喜歡的食物。|Pizza is my favorite food.
 マイル|マイル|mile|58|英里|d|郵便局は半マイル向こうにある。|郵局離這兒有半英里。|The post office is half a mile away.
 マップ|マップ|map|58|地圖|d|ロードマップをください。|請給我一張路線圖。|May I have a road map, please?
@@ -5909,7 +5909,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 塗り|ぬり|coating|58|塗裝；塗抹|h|日焼け止め塗りな。|塗點防曬吧。|Put on some sunscreen.
 増|ぞう|increase|58|增加；增長|h|ぬれたぞうきんで窓をふきなさい。||Clean the window with a damp cloth.
 増減|ぞうげん|increase and decrease, fluctuation|58|增減；波動|h|この数年、体重は増減していません。||My weight has not increased or decreased for several years.
-大小|だいしょう|size|58|大小；個頭|a|道路上の大小の石に気をつけなさい。||Watch out for big and small stones on the road!
+大小|だいしょう|size|58|大小|v|道路上の大小の石に気をつけなさい。||Watch out for big and small stones on the road!
 奎|けい|Chinese "Legs" constellation|58|奎宿；星名|h|けいこは枕に顔をうずめて泣いた。||Keiko buried her head in the pillow and cried.
 妖怪|ようかい|ghost, apparition, phantom|58|妖怪；鬼魂|d|妖怪なんているわけないじゃないか。バカだな。||Of course there's no such thing as yokai. You're such an idiot.
 学会|がっかい|academic conference|58|學會；學術會議|h|その医学会議は京都で開催された。||The medical congress was held in Kyoto.
@@ -5942,7 +5942,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 新しく|あたらしく|newly, new, anew|59|新；重新|d|新しく入った人ですか？|你是新來的嗎？|Are you new?
 方言|ほうげん|dialect|59|方言；話|a|その言語学者はいくつかの中国語の方言を流暢に話す。|那個語言學家精通幾個中國方言。|The linguist is fluent in several Chinese dialects.
 既存|きそん|existing|59|既有；現存|d|||
-日日|ひにち|date|59|每天；日子|d|私は明日日本語の授業へ行きます。|我明天要去日本課程。|I will go to Japanese class tomorrow.
+日日|ひにち|date|59|日期；每天|v|私は明日日本語の授業へ行きます。|我明天要去日本課程。|I will go to Japanese class tomorrow.
 日陰|ひかげ|shadow|59|陰涼處；背陰處|h|日陰と日向ではかなり温度差がある。||The temperature in the shade is considerably different than in the sun.
 昨年|さくねん|last year|59|去年|d|彼女は昨年世界一周旅行をした。|她去年環球旅行。|She traveled around the world last year.
 景|けい|vista, view, scene, counter for scenes|59|景|a|けいこは枕に顔をうずめて泣いた。||Keiko buried her head in the pillow and cried.
@@ -6050,7 +6050,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ターゲット|ターゲット|target|59|目標；對象|d|その雑誌は10代の若者をターゲットにしています。||That magazine is aimed at teenagers.
 テーマ|テーマ|theme, project, topic|59|主題|d|論文のテーマはもう決まったの？||Have you already decided what the topic of your thesis will be?
 デッキ|デッキ|deck, deck|59|甲板；平台|d|私はあの店でビデオデッキを安く買った。|我在那商店花低價買了臺錄影機。|I bought a VCR at that store for a low price.
-トラ|トラ|trouble|59|麻煩；老虎|h|トランプで遊ぶのはとても面白い。|打牌很有意思。|Playing cards is very interesting.
+トラ|トラ|trouble|59|老虎；麻煩|v|トランプで遊ぶのはとても面白い。|打牌很有意思。|Playing cards is very interesting.
 ハンター|ハンター|hunter|59|獵人|d|ハンターは鳥をねらって撃った。||The hunter shot at the bird.
 バケツ|バケツ|bucket, pail|59|水桶|d|そのバケツは水でいっぱいだった。|這個桶裝滿了水。|The bucket was full of water.
 パイ|パイ|pie, tart, palmier|59|派；餡餅|d|もっとパイが欲しい人はいますか。|有人想要更多的餡餅嗎？|Does anyone want some more pie?
@@ -6083,7 +6083,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 共産党|きょうさんとう|Communist Party|60|共產黨|d|喜んで中国共産党に入ります。|我自願加入中國共產黨。|I willingly join the Chinese Communist Party.
 労|ろう|labor, labour, toil|60|勞力；勞工|d|列車は昼までに駅に着くだろう。|火車大概會在中午前到站。|The train will probably arrive at the station before noon.
 勝手に|かってに|arbitrarily|60|擅自；任意|h|勝手にしろ。|你隨意。|Do whatever you like.
-卒|そつ|low-ranking soldier, graduation|60|畢業；士兵|d|彼は私をうそつきだと言って非難した。|他汙衊我說我撒了謊。|He accused me of being a liar.
+卒|そつ|low-ranking soldier, graduation|60|士兵；畢業|v|彼は私をうそつきだと言って非難した。|他汙衊我說我撒了謊。|He accused me of being a liar.
 却って|かえって|on the contrary, rather|60|反而；反倒|h|||
 叔母|おば|aunt|60|叔母；舅媽|a|この人形は叔母からの贈り物です。|這個洋娃娃是嬸嬸給我的禮物。|This doll is a gift from my aunt.
 受験|じゅけん|taking an examination|60|應考；報考|h|受験地獄での戦いが終わりました。||My fight in our examination hell is over!
@@ -6181,7 +6181,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 編集|へんしゅう|editing, compilation, editorial|60|編輯|h|編集者は原稿にさっと目を通した。||The editor glanced over the manuscript.
 縦|たて|the vertical, height, front-to-back|60|縱；直|d|生みたての卵が欲しい。|我想要一些新鮮的雞蛋。|I want some fresh eggs.
 縮める|ちぢめる|to shorten, to reduce, to shrink|60|縮短；縮小|h|すさんだ生活を送るのは、命を縮めるようなものだ。||Living life in the fast lane is like burning the candle at both ends.
-老|ろう|old age, age, old people, I|60|老；年老|h|列車は昼までに駅に着くだろう。|火車大概會在中午前到站。|The train will probably arrive at the station before noon.
+老|ろう|old age, age, old people, I|60|老；年老；老夫|v|列車は昼までに駅に着くだろう。|火車大概會在中午前到站。|The train will probably arrive at the station before noon.
 耕地|こうち|arable land|60|耕地|a|||
 聾|ろう|deafness|60|聾；耳聾|h|列車は昼までに駅に着くだろう。|火車大概會在中午前到站。|The train will probably arrive at the station before noon.
 臈|ろう|year in the Buddhist order|60|臈；僧侶資歷|h|列車は昼までに駅に着くだろう。|火車大概會在中午前到站。|The train will probably arrive at the station before noon.
@@ -6192,7 +6192,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 荒い|あらい|rough, rude, wild|60|粗暴；粗魯|h|彼女は言葉使いが荒い。|她用詞很粗魯。|She is rough in speech.
 葬式|そうしき|funeral|60|葬式；喪禮|a|彼の葬式には大勢の人が参列した。|很多人都參加了他的葬禮。|A great many people attended his funeral.
 虎子|まる|bedpan, chamber pot, potty, baby tiger|60|便壺；虎崽|d|虎穴に入らずんば、虎子を得ず。|不入虎穴，焉得虎子。|You can't accomplish anything without taking a risk.
-行き方|いきかた|way, route, way|60|做法；走法|h|空港への行き方を教えてください。|請你告訴我機場怎麼去。|Please tell me how to get to the airport.
+行き方|いきかた|way, route, way|60|走法；去法|v|空港への行き方を教えてください。|請你告訴我機場怎麼去。|Please tell me how to get to the airport.
 見出し|みだし|heading, index|60|標題；索引|d|科学者たちは未だに癌を完治させる方法を見出していない。|科學家們還沒有找到癌症的治療方法。|Scientists haven't found a cure for cancer yet.
 見逃し|みのがし|overlooking, letting a good ball go by|60|放過；漏看|h|このようなミスは見逃しやすい。|這種錯誤很容易被人忽視。|It's very easy to miss this kind of mistake.
 言い方|いいかた|way of saying, way of putting it, wording|60|說法；措辭|d|ある程度君の言い方は正しい。|在某種程度上，他說的是對的。|You are right to a certain extent.
@@ -6200,7 +6200,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 譲渡|じょうと|transfer, assignment, conveyance|60|讓渡；轉讓|d|||
 走り|はしり|running, gliding|60|奔跑；早期上市|h|ジム、部屋の中を走り回らないで。|吉姆，不要在屋裡跑來跑去！|Jim, don't run about in the room.
 車庫|しゃこ|garage, car shed|60|車庫|a|彼は車をバックさせて車庫に入れた。|他倒車入車庫。|He backed his car into the garage.
-追加|ついか|addition, supplement, appendix|60|追加；增加|h|間違って追加されちゃったのかな？|是不是不小心加上去的？|Was this added by mistake?
+追加|ついか|addition, supplement, appendix|60|追加；補充|v|間違って追加されちゃったのかな？|是不是不小心加上去的？|Was this added by mistake?
 通帳|つうちょう|bankbook|60|存摺|d|貯金通帳に残っていた金で利子がついた。||Interest accrued from the money left in my savings account.
 過剰|かじょう|excess, over-|60|過剩；過度|d|自信過剰にならないよう注意しなくてはいけない。|你要注意不要太自信。|You should be careful not to become overconfident.
 道順|みちじゅん|itinerary, route|60|路線；路徑|d|道順はご存知ですか。||Do you know how to get there?
@@ -6231,7 +6231,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 かわうそ|かわうそ|otter, Japanese river otter|60|水獺|d|||
 この世|このよ|this world, this life, world of the living|60|人世；今世|d|彼はこの世で一番の金持ちだ。|他是世界上最有錢的人。|He is the richest man on earth.
 さい|さい|rhinoceros|60|犀牛|d|ここで写真を撮らないでください。|請別在這裡拍照。|Please don't take pictures here.
-せりふ|せりふ|line, one's lines|60|台詞；臺詞|h|その俳優は舞台でせりふを忘れた。||The actor went on stage to deliver his lines.
+せりふ|せりふ|line, one's lines|60|台詞|v|その俳優は舞台でせりふを忘れた。||The actor went on stage to deliver his lines.
 ってか|ってか|or rather, or better, or perhaps I should say|60|或者說；換句話說|h|昼食をとってから彼は出かけた。|他吃過午餐就出去了。|He left after he had lunch.
 ぼろ|ぼろ|rag, tattered clothes|60|破布；破爛衣服|d|私は靴をぼろぼろにしてしまった。||I've worn out my shoes.
 またぐ|またぐ|to straddle|60|跨越；跨過|h|||
@@ -6252,8 +6252,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 シン|シン|thin, shin|60|瘦；脛骨|d|シンガポールからやって来ました。|我是從新加坡來的。|I'm from Singapore.
 スカイ|スカイ|sky|60|天空|d|今夜スカイプできる？|今晚能用Skype聊天嗎？|Can you talk via Skype tonight?
 スルー|スルー|ignoring, looking the other way, letting pass|61|無視；略過|h|バスルームを散らかしたままにしないでよ。|不要讓浴室亂七八糟的喔。|Don't leave the bathroom in such a mess.
-セリフ|セリフ|serif|61|台詞；襯線|d|それはこっちのセリフですよ。||Those are my lines.
-セル|セル|cell, serge|61|細胞；賽璐珞|d|土壇場になって約束をキャンセルし、申し訳ありません。|我到最後一刻才取消約會，真不好意思。|I am sorry to cancel the appointment at the last minute.
+セリフ|セリフ|serif|61|襯線；台詞|v|それはこっちのセリフですよ。||Those are my lines.
+セル|セル|cell, serge|61|細胞；賽璐珞；儲存格|v|土壇場になって約束をキャンセルし、申し訳ありません。|我到最後一刻才取消約會，真不好意思。|I am sorry to cancel the appointment at the last minute.
 ソフトウェア|ソフトウェア|software|61|軟體|d|このソフトウェア、どうやったらアップデートできるの？|我如何才能更新這個軟體呢？|How can I update this software?
 タイヤ|タイヤ|tire, tyre|61|輪胎|h|タイヤがパンクして自転車を押さなければならなかった。|我得推我的腳踏車，因為有個輪胎漏氣了。|I had to push my bicycle because I had a flat tire.
 ターン|ターン|turn, turn|61|轉身；迴轉|h|お前の思考パターン、読まれてるぞ。||Your thought patterns are being read.
@@ -6280,10 +6280,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 債|さい|debt, loan|61|債；債務|a|ここで写真を撮らないでください。|請別在這裡拍照。|Please don't take pictures here.
 内科|ないか|internist clinic, internal medicine|61|內科|h|鈴木さんは歯科医ではなく、内科医だ。||Mr. Suzuki isn't a dentist. He's a physician.
 写生|しゃせい|sketching, drawing from nature|61|寫生|h|彼は林檎を写生しています。||He's drawing a sketch of an apple.
-凹む|へこむ|to be dented, to be indented|61|凹陷；受挫|h|||
+凹む|へこむ|to be dented, to be indented|61|凹陷；沮喪|v|||
 出迎え|でむかえ|meeting, reception|61|迎接|h|私は彼を東京駅で出迎えた。|我去東京站見他。|I met him at Tokyo Station.
 分かれ|わかれ|offshoot, branch, fork|61|分叉；分支|d|世界は二つの陣営に分かれている。||The world is split into two camps.
-分量|ぶんりょう|amount, quantity|61|分量；數量|h|その作り方の分量は六人分です。||The recipe serves six people.
+分量|ぶんりょう|amount, quantity|61|份量；數量|v|その作り方の分量は六人分です。||The recipe serves six people.
 初めに|はじめに|to begin with, first of all|61|首先；起初|h|文の初めには大文字が用いられる。||A capital letter is used at the beginning of a sentence.
 判事|はんじ|judge, justice|61|法官；審判|d|判事は彼に禁固１年を宣告した。|法官判了他一年有期徒刑。|The judge sentenced him to one year's imprisonment.
 制作|せいさく|work|61|製作；創作|h|どなたが人形を制作したのですか？||Who made the doll?
@@ -6332,7 +6332,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 広さ|ひろさ|extent|61|寬度；面積|h|その牧場は１０エーカーの広さだ。|牧場的面積有10英畝。|The pasture has an area of 10 acres.
 広報|こうほう|public relations, PR, publicity, publicizing|61|公關；宣傳|d|広報担当官は、その報告が真実であると認めた。||The spokesman confirmed that the report was true.
 弟子|でし|pupil, disciple, apprentice|61|弟子；門徒|d|その棟梁は３人の弟子を従えている。||The master carpenter is accompanied by three apprentices.
-形式|けいしき|form, formality, format|61|形式；組|a|ここで使われている文法形式は現在進行形である。|在這兒使用的語法形式是現在進行時。|The grammatical form employed here is the present progressive.
+形式|けいしき|form, formality, format|61|形式；格式|v|ここで使われている文法形式は現在進行形である。|在這兒使用的語法形式是現在進行時。|The grammatical form employed here is the present progressive.
 形状|けいじょう|shape, form|61|形狀|h|地球はオレンジのような形状です。||The earth is shaped like an orange.
 役人|やくにん|government official|61|公務員；官員|h|政府役人の豪邸が略奪された。||A government official's stately mansion was looted.
 待合室|まちあいしつ|waiting room|61|等候室；候車室|d|待合室に５人の患者がいる。|等候室裡有五位患者。|There are five patients in the waiting room.
@@ -6362,7 +6362,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 欧州|おうしゅう|Europe|61|歐洲|d|欧州通貨はドルに対して弱くなった。||European currencies weakened against the dollar.
 毛皮|けがわ|fur, skin, pelt|61|毛皮；皮毛|a|フワフワの毛皮に顔を埋めるんだ。||Bury your face into the soft fur.
 求人|きゅうじん|recruiting, job offer, job vacancy|61|招募；徵人|h|この会社の求人、毎週見るな。||Don't check this company's job listings every week.
-法則|ほうそく|law, rule|61|法則；法律|a|我々の頭脳でさえ、全て物理の法則に従っている。|就連我們的頭腦也遵守物理法則。|Even our brains are subject to the laws of physics.
+法則|ほうそく|law, rule|61|法則；定律|v|我々の頭脳でさえ、全て物理の法則に従っている。|就連我們的頭腦也遵守物理法則。|Even our brains are subject to the laws of physics.
 洗面|せんめん|wash up, have a wash|61|洗臉|h|洗面台の上に赤いろうそくがあります。|洗手檯上有一個紅色的蠟燭。|There's a red candle on top of the bathroom sink.
 涼む|すずむ|to cool oneself, to cool off|61|乘涼；納涼|h|ここは風通しが良くて、涼むにはもってこいの場所なんだ。||It's well-ventilated and an ideal place to cool down.
 清い|きよい|clear, pure, noble|61|清澈；純潔|d|心の清い人たちは幸いである。||Blessed are the pure in heart.
@@ -6412,7 +6412,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 逸れる|それる|to stray from subject, to go astray|61|走散；偏離|h|||
 過多|かた|excess, surplus, superabundance|61|過多；過剩|h|胃酸過多で空腹になると胃痛に苦しむ方に良いのがトマトです。||Tomatoes are good for people who suffer stomach pain from excess stomach acid when their stomach is empty.
 配る|くばる|to distribute, to deliver|61|分發；配送|d|郵便配達人は一軒づつ郵便を配る。||The mail carrier delivers mail from door to door.
-采|さい|baton|61|指揮棒；令旗|d|ここで写真を撮らないでください。|請別在這裡拍照。|Please don't take pictures here.
+采|さい|baton|61|指揮棒；骰子|v|ここで写真を撮らないでください。|請別在這裡拍照。|Please don't take pictures here.
 釵|さい|sai|61|髮釵；簪子|h|ここで写真を撮らないでください。|請別在這裡拍照。|Please don't take pictures here.
 鈞|きん|ancient Chinese unit of weight equivalent to 30 catties|61|古代重量單位；三十斤|h|両方一度にはできんよ。|既要馬好，又要馬不吃草。|You can't have it both ways.
 録|ろく|record, transcript|61|錄；記錄|a|試合はとてもおもしろくなかった。|這場比賽不是很有趣|The game was not exciting at all.
@@ -6453,7 +6453,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ハワイ|ハワイ|Hawaii, Hawai'i|61|夏威夷|h|ハワイは旅行者に人気の行楽地だ。|夏威夷是一個大眾化旅遊聖地。|Hawaii is a popular tourist resort.
 ファイナル|ファイナル|final|61|最終；決賽|h|ファイナルファンタジーは映画でなくゲームソフトです。||Final Fantasy is not a movie, but a videogame.
 フジ|フジ|Fuji|61|富士；富士山|d|なぜ飛行機にはパラシュートではなくライフジャケットがあるのか。|為什麼在飛機上只有救生衣，沒有降落傘？|Why, in aviation, are there life vests instead of parachutes?
-ミラー|ミラー|mirror|61|鏡子；反射|d|ミラーさんとかいう人がご面会です。||A person named Miller wants to see you.
+ミラー|ミラー|mirror|61|鏡子；後視鏡|v|ミラーさんとかいう人がご面会です。||A person named Miller wants to see you.
 メジャー|メジャー|major, large, important, the Major Leagues|61|主要；大聯盟|h|||
 ライバル|ライバル|rival, competitor, competition|61|對手；競爭對手|d|彼はライバル会社に引き抜かれました。||He was poached by a rival company.
 リズム|リズム|rhythm|61|節奏；韻律|d|サンバはブラジルのリズムですね。||Samba is a Brazilian rhythm, isn't it?
@@ -6486,7 +6486,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 北部|ほくぶ|northern part, the north|62|北部|a|北海道は日本の北部にあります。||Hokkaido is in the northern part of Japan.
 匙|さじ|spoon|62|湯匙|h|小さじ？大さじって言わなかった？||Teaspoons? I thought you said tablespoons.
 取締役|とりしまりやく|company director, board member|62|董事|d|その取締役は自分の地位を自慢した。||The director boasted of his status.
-叩き|たたき|finely chopped fish or meat, mince|62|剁碎肉魚|h|相手は４人だ。叩きのめされるぞ。||It's four against you. You'll be beaten up.
+叩き|たたき|finely chopped fish or meat, mince|62|生魚片拍鬆；剁碎；敲打|v|相手は４人だ。叩きのめされるぞ。||It's four against you. You'll be beaten up.
 召喚|しょうかん|summons, subpoena, citation, summoning|62|傳喚；召喚|d|彼は証言をするために召喚された。||He was called to give evidence.
 吹雪|ふぶき|snow storm|62|暴風雪|h|猛吹雪に遭うまでは順調に進んだ。||We made good time until we ran into a blizzard.
 味わう|あじわう|to taste, to savor|62|品味；體會|h|鳥の囀りが聞こえる中、淹れたてのコーヒーを味わう。||As I hear the birds chirp away in the background, I take a sip of my freshly-brewed coffee.
@@ -6504,7 +6504,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 姪|めい|niece|62|姪女；外甥女|h|空には無数の星がきらめいていた。||Countless stars were twinkling in the sky.
 姿勢|しせい|attitude, posture|62|姿勢；態勢|a|彼はまっすぐな姿勢で立っていた。||He stood in an upright position.
 安芸|あき|Aki|62|安藝|h|||
-定規|じょうぎ|ruler|62|尺；規則|d|定規で線を書いて。|用尺子畫線。|Draw a line with a ruler.
+定規|じょうぎ|ruler|62|尺；規矩|v|定規で線を書いて。|用尺子畫線。|Draw a line with a ruler.
 実感|じっかん|feelings, realization|62|實感；切身感受|h|その瞬間、私は現実感を失った。||I lost my sense of reality at that moment.
 実習|じっしゅう|practice, training|62|實習；實踐|a|トムは実習期間を完了した。||Tom completed an apprenticeship.
 富山|とやま|Toyama|62|富山|h|富山県の県庁所在地は富山市です。||Toyama Prefecture's capital is Toyama City.
@@ -6542,7 +6542,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 標準|ひょうじゅん|standard, level|62|標準；規格|a|君は標準英語を学ばなくてはいけない。|你必須得學標準英語。|You have to learn standard English.
 標識|ひょうしき|sign, mark|62|標誌；標識|h|彼らはその標識を壁に取り付けた。||They fixed the sign to the wall.
 死者|ししゃ|dead person, deceased, dead|62|死者；死人|a|交通事故の結果、死者が数人出た。||As a result of a traffic accident, several persons were killed.
-気配|けはい|indication, sign, hint|62|跡象；氣息|h|その家には人の気配はなかった。||There was no sign of life in the house.
+気配|けはい|indication, sign, hint|62|跡象；氣息；感覺|v|その家には人の気配はなかった。||There was no sign of life in the house.
 水滴|すいてき|drop of water|62|水滴|a|気密性でない窓ならば、水滴ができるだろう。||If your windows are not airtight, moisture will seep in.
 浮屠|ふと|Buddha, stupa|62|浮屠|a|||
 清掃|せいそう|cleaning|62|清掃；打掃|h|洗面所をつかった後には、清掃すること。||Clean up after you have finished using the bathroom.
@@ -6610,7 +6610,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 開幕|かいまく|raising the curtain, opening|62|開幕|h|オープン戦が終わり、いよいよ開幕だ。||The exhibition games are over and the regular season finally begins.
 防止|ぼうし|prevention, check|62|防止|h|森林火災の防止はすべての人が負う義務です。|防止山火，人人有責。|The prevention of forest fires is everyone's responsibility.
 限り|かぎり|limit, as far as possible|62|限度；盡量|d|私の知る限りでは彼は正直です。|據我所知他是誠實的。|As far as I know, he is honest.
-隔てる|へだてる|to be shut out|62|隔開；分隔|h|海とこれを隔てるのは何ですか？||What is it that separates this from the sea?
+隔てる|へだてる|to be shut out|62|隔開；阻隔|v|海とこれを隔てるのは何ですか？||What is it that separates this from the sea?
 電波|でんぱ|electro-magnetic wave|62|電波|h|なんかここ、電波悪いんだよねえ。||The connection is kind of bad here.
 青少年|せいしょうねん|youth, young person|62|青少年；年輕人|a|8月12日は国際青少年デーです。|八月十二日是國際青少年日。|August 12th is International Youth Day.
 顧客|こきゃく|customer, client, patron|62|顧客|h|彼は顧客から大金を騙し取った。||He cheated his clients out of a lot of money.
@@ -6658,7 +6658,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ホット|ホット|hot, coffee|62|熱；熱的|d|バンド名はレッド・ホット。|我的樂隊名叫紅熱。|My band name's Red Hot.
 ホラー|ホラー|horror|62|恐怖；驚悚|d|ホラー映画を見るつもりです。|我要去看恐怖電影。|I'm going to see a horror film.
 ポート|ポート|port, harbor, port|62|港口|d|このパスポートは５年間有効です。|這本護照的有用期限為五年。|This passport is valid for five years.
-メス|メス|scalpel, surgical knife|62|手術刀|h|あの犬って、オスなの？それともメス？||Is that dog male or female?
+メス|メス|scalpel, surgical knife|62|手術刀；雌性|v|あの犬って、オスなの？それともメス？||Is that dog male or female?
 モー|モー|mho|62|西門子|h|一番近いショッピングモールはどこにありますか。|最近的大賣場在哪裡？|Where's the nearest shopping mall?
 ライオン|ライオン|lion|62|獅子|d|ライオンはジャングルの王様です。|獅子是叢林之王。|The lion is the king of the jungle.
 ワシントン|ワシントン|Washington, D.C., Washington|62|華盛頓|d|次のワシントン行きは何時ですか。||What time's the next train to Washington?
@@ -6686,7 +6686,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 冠|かんむり|crown, wreath|62|冠；皇冠|a|絵の中の少女は黄金ではなくて花のかんむりをかぶっています。|畫中的女孩頭上戴著的是花冠，不是金皇冠。|The girl in the picture is wearing a crown not of gold but of flowers.
 出入口|でいりぐち|exit and entrance|62|出入口|h|||
 分布|ぶんぷ|distribution|62|分布|d|この種の昆虫は日本に広く分布している。||These insects are widely distributed throughout Japan.
-分数|ぶんすう|fraction|62|分數；分毫|a|次の分数を小数に直しなさい。||Convert the following fractions to decimals.
+分数|ぶんすう|fraction|62|分數|v|次の分数を小数に直しなさい。||Convert the following fractions to decimals.
 初代|しょだい|first generation, founder|62|第一代；初代|h|初代Macは1984年にリリースされた。||The first Macintosh PC was released in 1984.
 初旬|しょじゅん|first 10 days of the month|62|上旬|h|私は６月初旬にトロントに来たものです。||I came to Toronto at the beginning of June.
 別々|べつべつ|separately, individually|62|各自；分別|h|別々に包んでください。|請你分開包裝好嗎？|Could you wrap this separately, please?
@@ -6756,7 +6756,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 欲求|よっきゅう|desire, want, will|63|欲求；慾|a|君は仕事に欲求不満を感じている。||You are frustrated with your work.
 歴|れき|experience, history, record|63|歷；經驗|a|トムはすっかり疲れきっていた。|湯姆完全筋疲力盡了。|Tom was completely worn out.
 死魔|しま|demon of death|63|死神|h|||
-汁|しる|juice, soup|63|汁；瀋|a|彼はやがてその事実をしるだろう。||He will learn the facts in the course of time.
+汁|しる|juice, soup|63|湯汁；汁液|v|彼はやがてその事実をしるだろう。||He will learn the facts in the course of time.
 活力|かつりょく|vitality, energy|63|活力；生命力|a|奴隷たちは宗教に活力を見いだす。||Slaves find power in religion.
 活字|かつじ|printing type|63|活字；式|a|彼は新聞の小さな活字をじっとみた。||He peered at the small print in a newspaper.
 活性|かっせい|activity, active|63|活性|a|大統領は減税によって、低迷している経済を活性化させることを望んでいる。||The president wants to jump-start the sluggish economy by lowering taxes.
@@ -6778,7 +6778,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 競馬|けいば|horse racing|63|賽馬|d|彼は競馬で時間をむだに過ごした。||He wasted his time on gambling at the horse races.
 等分|とうぶん|division into equal parts|63|等分；平分|h|そのメロンをきって６等分しなさい。||Cut the melon into six equal pieces.
 粒|つぶ|grain|63|顆粒；穀粒|d|時間つぶしに読書する人もいます。|有些人為了消磨時間而讀書。|There are people who read books to kill time.
-索引|さくいん|index, indices|63|索引；指數|a|その本には索引がついていますか。||Is there an index to the book?
+索引|さくいん|index, indices|63|指標；指數|v|その本には索引がついていますか。||Is there an index to the book?
 給与|きゅうよ|salary|63|薪資；薪水|d|私は給与の５分の１を税金で取られてしまう。||One-fifth of my wages goes to taxes.
 締切|しめきり|deadline|63|截止；截止日|h|締切に間に合うように死に物狂いでやってるよ。||I'm killing myself to meet the deadline.
 群馬|ぐんま|Gunma|63|群馬|d|群馬県の県庁所在地は前橋市です。||Gunma Prefecture's capital is Maebashi City.
@@ -6812,7 +6812,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 隙間|すきま|crack, gap, opening|63|縫隙；空隙|d|カーテンの隙間から光が差し込む。||Light flows in through a gap in the curtain.
 集会|しゅうかい|meeting, assembly|63|集會；會議|a|その集会に多くの人々が出席した。||There were a great many people present at the assembly.
 露出|ろしゅつ|exposure, laying bare, baring|63|暴露；露出|h|メアリーは露出度の高い服をよく着ている。||Mary often wears revealing clothes.
-順位|じゅんい|order, rank, position|63|順位；令|a|君は本当に優先順位がおかしいよ。||You really don't have the right priorities!
+順位|じゅんい|order, rank, position|63|順序；名次|v|君は本当に優先順位がおかしいよ。||You really don't have the right priorities!
 飛ばし|とばし|selling or divesting in unwanted stocks, hiding bad loans|63|拋售；隱藏壞帳|h|風がベランダの埃を吹き飛ばした。||The wind blew the dust from the balcony.
 香川|かがわ|Kagawa|63|香川|h|香川県の県庁所在地は高松市です。||Kagawa Prefecture's capital is Takamatsu City.
 香水|こうすい|perfume|63|香水；芬|a|彼女はドレスに香水を振り掛けた。||She sprinkled some scent on her dress.
@@ -6857,10 +6857,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 プログラミング|プログラミング|programming, programing|63|程式設計|h|皆さんはどんなプログラミング言語が好きですか？|大家都喜歡什麼程式語言？|What programming language does everybody like?
 ペース|ペース|pace|63|步調；速度|d|自分のペースでやりなさい。|量力而行。|Do it at your own pace.
 マウス|マウス|mouse, mouse|63|滑鼠；老鼠|d|このマウス、急に動かなくなったよ。||This mouse has suddenly stopped working.
-ライ|ライ|lie|63|謊言；說謊|d|彼女のプライバシーに介入するな。|不要侵犯她的隱私。|Don't intrude on her privacy.
+ライ|ライ|lie|63|謊言；賴|v|彼女のプライバシーに介入するな。|不要侵犯她的隱私。|Don't intrude on her privacy.
 ラス|ラス|lath|63|板條|d|ビールびんはガラスでできている。|啤酒瓶是玻璃做的。|Beer bottles are made of glass.
 リアルタイム|リアルタイム|real time|63|即時；實時|d|||
-リス|リス|fracture, lithograph|63|斷裂；石版畫|d|日本の人口はイギリスよりも多い。|日本的人口比英國多。|The population of Japan is larger than that of Britain.
+リス|リス|fracture, lithograph|63|松鼠；石版畫|v|日本の人口はイギリスよりも多い。|日本的人口比英國多。|The population of Japan is larger than that of Britain.
 リボン|リボン|ribbon|63|緞帶；絲帶|d|そのリボンはドレスに合わない。||The ribbon doesn't match the dress.
 レディ|レディ|ready|63|準備；女士|h|彼女は、オフィスレディーです。||She is an office lady.
 レンズ|レンズ|lens|63|鏡頭；透鏡|d|コンタクトレンズをつけ始めたのは、いつですか？|你們是什麼時候開始戴隱形眼鏡的呀？|When did you start wearing contact lenses?
@@ -6965,7 +6965,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 煙突|えんとつ|chimney|64|煙囪|h|煙突から煙がもくもくと出ていた。||Smoke poured out of the chimney.
 物語る|ものがたる|to tell, to indicate|64|訴說；顯示|h|統計はすべてを物語るとは限らない。||Statistics don't always tell the whole story.
 理科|りか|science|64|理科；自然科學|h|今日は理科室で科学実験を行った。|今天在理科教室進行了科學實驗。|We conducted an experiment in the science room today.
-発|はつ|to depart|64|出發；開車|h|母はついに私達の計画に賛成した。|母親終於答應我們的提議了。|My mother finally approved of our plan.
+発|はつ|to depart|64|出發；發車；發|v|母はついに私達の計画に賛成した。|母親終於答應我們的提議了。|My mother finally approved of our plan.
 発揮|はっき|exhibition, demonstration, display|64|發揮|d|早くも、意志薄弱ぶりを発揮した。||He's already shown his weak-willed nature.
 皮膚|ひふ|skin|64|皮膚；肌膚|a|紫外線は皮膚癌を引き起こすことがある。|紫外線可導致皮膚癌。|Ultraviolet rays can cause skin cancer.
 目指す|めざす|to aim at, to have an eye on|64|以…為目標；瞄準|h|経済の安定はすべての政府の目指すところだ。||A stable economy is the aim of every government.
@@ -7123,7 +7123,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 当番|とうばん|being on duty|64|值班；輪值|h|僕が部屋の掃除当番だったんだ。||It was my turn to clean the room.
 復讐|ふくしゅう|revenge|64|復仇；報仇|h|彼は父の殺されたのを復讐した。||He avenged the murder of his father.
 心得る|こころえる|to understand, to have thorough knowledge|64|理解；通曉|h|||
-恩恵|おんけい|blessing, benefit|64|恩惠；優雅|a|恩恵を請うのは私の威厳に関わる。||It is beneath my dignity to ask a favor.
+恩恵|おんけい|blessing, benefit|64|恩惠；益處|v|恩恵を請うのは私の威厳に関わる。||It is beneath my dignity to ask a favor.
 惜しい|おしい|regrettable, disappointing|64|可惜；遺憾|h|これはまだ捨てるには惜しい。||This is still too good to be thrown away.
 懸念|けねん|worry, fear, anxiety|64|擔憂；顧慮|h|彼らは事態の悪化を懸念した。||They were apprehensive that the situation would worsen.
 手拭い|てぬぐい|towel|64|毛巾|d|||
@@ -7133,7 +7133,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 換わり|かわり|an exchange transaction|64|替換；更替|h|||
 改造|かいぞう|remodeling|64|改造|h|車庫を仕事場として使えるように改造した。|我把車庫改造成工作室使用。|I adapted the garage for use as a workshop.
 教養|きょうよう|culture, education, sophistication|64|教養；修養|h|彼女はいわゆる教養のある女性です。||She is what is called a woman of culture.
-散り|ちり|displacement between two surfaces, squares|64|錯位；錯開|h|彼は写真を散り散りに破いた。||He tore the photographs into pieces.
+散り|ちり|displacement between two surfaces, squares|64|錯位；飄落|v|彼は写真を散り散りに破いた。||He tore the photographs into pieces.
 文体|ぶんたい|literary style|64|文體；文風|h|その作家の文体は挿入語句が多い。||The writer has a parenthetic style.
 斜|はす|diagonal|64|斜；斜線|h|彼はすばらしい個性を持っている。|他有一個很好的性格。|He has a wonderful personality.
 新型|しんがた|new type, new style, new model|64|新型|h|この車は最新型です。|這輛車是最新款。|This car is the latest model.
@@ -7162,7 +7162,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 灯火|ともしび|light, lamp, torch|65|燈火；燈光|d|灯火をますの下にかくすな。|不要把你的光彩隱藏於斗量之下。|Hide not your light under a bushel.
 点火|とぼし|light, lamp|65|點火|h|||
 為す|なす|to accomplish, to do|65|做；完成|h|彼には為すべきことがたくさんあった。||He had a lot of things to do.
-焦点|しょうてん|focus, point|65|焦點；重點|h|委員会はもっと具体的な問題に焦点を当てるべきだ。|委員會應該把注意力集中在更具體的問題上。|A committee should apply the focus to the more concrete problem.
+焦点|しょうてん|focus, point|65|焦點|v|委員会はもっと具体的な問題に焦点を当てるべきだ。|委員會應該把注意力集中在更具體的問題上。|A committee should apply the focus to the more concrete problem.
 爪|つめ|fingernail or toenail|65|指甲；爪|h|彼が私を見つめているのが分かった。|我看見他在看我。|I saw him looking at me.
 狙う|ねらう|to aim at|65|瞄準；伺機|h|どうせ、狙うなら東大よ。||If you’re going to aim for something, aim for the University of Tokyo.
 田ぼ|たんぼ|paddy field, farm|65|稻田；水田|d|||
@@ -7200,7 +7200,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 自社|じしゃ|one's company, company one works for, in-house|65|本公司；自家公司|h|商業用旅客機の場合は、企業が自社製品を売ろうと競争する。||In the case of commercial airplanes, private companies compete to sell their product.
 舁く|かく|to carry on one's shoulders|65|抬；扛|h|||
 苦情|くじょう|complaint, grievance, grumble|65|抱怨；投訴|d|住民たちは騒音に対して苦情を訴えた。||The residents made complaints about the noise.
-蓋|ふた|cover, lid, cap|65|蓋；包|a|わたしの家には階段がふたつある。|我的房子有兩座樓梯。|There are two staircases in my house.
+蓋|ふた|cover, lid, cap|65|蓋子|v|わたしの家には階段がふたつある。|我的房子有兩座樓梯。|There are two staircases in my house.
 薬局|やっきょく|pharmacy, drugstore|65|藥局；藥學|a|ここから一番近い薬局はどこですか。|離這裡最近的藥局在哪裡？|Where's the nearest pharmacy?
 血圧|けつあつ|blood pressure|65|血壓|a|私は血圧が低いです。|我的血壓很低。|My blood pressure is low.
 行列|ぎょうれつ|line, procession, matrix|65|隊伍；行列|h|彼は行列を見ようと首を伸ばした。||He craned his neck to see the procession.
@@ -7242,7 +7242,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 くっつける|くっつける|to attach|65|黏；貼|h|||
 こうして|こうして|like this, with this|65|這樣；如此|h|こうして私はいつも魚を料理する。||This is how I usually cook fish.
 こしらえる|こしらえる|to make, to manufacture|65|製作；做|h|||
-ごちそうさま|ごちそうさま|Thank you for the meal|65|謝謝招待；吃飽了|h|コーヒー、ごちそうさまでした。||Thank you for the coffee.
+ごちそうさま|ごちそうさま|Thank you for the meal|65|謝謝款待；吃飽了|v|コーヒー、ごちそうさまでした。||Thank you for the coffee.
 さだ|さだ|certainly, truly|65|確實|h|その牧場は１０エーカーの広さだ。|牧場的面積有10英畝。|The pasture has an area of 10 acres.
 しゃがむ|しゃがむ|to squat|65|蹲；蹲下|d|||
 そのため|そのため|hence, for that reason|65|因此|h|彼女には欠点がいくつかあるけど、そのため一層ぼくは彼女が好きなのだ。|她的話是有那麼幾個缺點，但就是因為這些缺點，我更喜歡她了。|She has some faults, but I love her all the more because of them.
@@ -7252,7 +7252,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 どういたしまして (かん)|どういたしまして (かん)|you are welcome, don't mention it|65|不客氣|d|||
 ふくめる|ふくめる|to include, to instruct, to make one understand|65|包含；使理解|d|||
 ふざける|ふざける|to romp, to gambol, to frolic|65|嬉鬧；開玩笑|h|ふざけるな！|少來了！|Don't talk nonsense.
-まく|まく|to wind, to coil, to roll|65|捲；撒|d|この好機をうまく利用しなさい。|好好把握這個機會。|Make good use of this opportunity.
+まく|まく|to wind, to coil, to roll|65|捲；撒；播種|v|この好機をうまく利用しなさい。|好好把握這個機會。|Make good use of this opportunity.
 まざる|まざる|to be mixed, to be blended with, to associate with|65|混合；摻雜|h|大雨のため、私たちはそこにとどまざるを得なかった。||Because of the heavy rain, we were obliged to stay there.
 まじない|まじない|charm, incantation, spell|65|咒語；符咒|d|||
 もやす|もやす|to burn|65|燃燒|d|どの仕事もやすやすとはできない。||No work can be done with ease.
@@ -7366,7 +7366,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 歩割|ぶわり|rate, ratio, percentage, commission|65|佣金比率|h|||
 歯磨き|はみがき|toothbrushing, toothpaste|65|刷牙；牙膏|d|いつも寝る前には歯磨きしてるよ。||I always brush my teeth before I go to bed.
 残らず|のこらず|completely, without exception|65|全部；一個不剩|h|私はその本を全編残らず読んだ。||I read the book from cover to cover.
-殿|どの|Mister|65|先生；大人|h|誕生日はどのように祝いましたか。|你是怎樣慶祝生日的？|How did you celebrate your birthday?
+殿|どの|Mister|65|大人；先生；殿下|v|誕生日はどのように祝いましたか。|你是怎樣慶祝生日的？|How did you celebrate your birthday?
 比較的|ひかくてき|comparatively, relatively|65|比較；相對|d|売り場は比較的すいていました。|賣場比較空曠。|The sales floor was relatively uncrowded.
 民間|みんかん|private, civilian|65|民間；私人|a|今度の税金は全ての民間企業に適用される。||This tax is applied to all private-sector enterprises.
 河岸|かし|riverbank, riverside, market on the riverbank|65|河岸|a|ちょいとここらで河岸をかえましょうや。||Let's get out of here.
@@ -7405,7 +7405,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 見方|みかた|viewpoint, point of view, way of looking|66|看法；觀點|d|人は金持ちか貧乏人かによって物の見方が違う。|人們看待事情的角度不同取決於他們是富裕或貧窮。|People look at things differently depending on whether they are rich or poor.
 解体|かいたい|demolition, taking down, dismantling, dissolution|66|拆解；瓦解|h|あの古い建物が解体されるのを見てたんだ。|我看著那棟老建築被拆除。|I watched that old building being torn down.
 解答|かいとう|answer, solution|66|解答；答案|a|彼は解答する前に２日間熟考した。||He meditated for two days before giving his answer.
-言い出す|いいだす|to start talking, to suggest|66|開口說；提出|d|そんな事言い出すとは思わなかったよ。||I didn't expect that to come from you.
+言い出す|いいだす|to start talking, to suggest|66|開口說；提議|v|そんな事言い出すとは思わなかったよ。||I didn't expect that to come from you.
 言付ける|ことづける|to leave a message|66|託話；留言|h|||
 評論|ひょうろん|criticism, critique|66|評論|h|彼は文学評論の本を読んでいる。||He is reading a book of literary criticism.
 話中|はなしちゅう|while talking, the line is busy|66|通話中|h|まだトムは電話中なの？|湯姆還在打電話嗎？|Is Tom still on the phone?
@@ -7416,10 +7416,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 迷信|めいしん|superstition|66|迷信|a|多くの迷信がまだ信じられている。||Lots of superstitions are still believed in.
 逆様|さかさま|reverse, upside down|66|倒過來；顛倒|d|彼は真っ逆様にプールに落ちた。||He fell head over heels into the pool.
 速力|そくりょく|speed|66|速度|h|私は列車に間に合うように全速力で走った。|為了趕上火車我使出全力奔跑。|I ran as fast as I could to catch the train.
-選手権|せんしゅけん|championship, title, championship game|66|錦標賽|h|彼はきっと競泳選手権に勝つだろう。||He is sure to win the swimming championship.
+選手権|せんしゅけん|championship, title, championship game|66|錦標賽；冠軍賽|v|彼はきっと競泳選手権に勝つだろう。||He is sure to win the swimming championship.
 遺体|いたい|body, corpse, remains|66|遺體；身體|a|遺体はどのように処理されたのですか。||How were the bodies of those who died disposed of?
 酔っ払い|よっぱらい|drunkard|66|醉漢|d|トムにはっきり言ってやったわ。「酔っ払いの相手はできません！」ってね。|我直接就跟Tom說了：“我可受不了一個喝得爛醉的人！”|I said it straight to Tom's face! "I can't talk to you if you're drunk."
-重量|じゅうりょう|heavyweight|66|重量；權重|a|体積が大きいからといって常に重量も重いとは限らない。|體積大不代表重量大。|Great bulk does not always mean great weight.
+重量|じゅうりょう|heavyweight|66|重量；重量級|v|体積が大きいからといって常に重量も重いとは限らない。|體積大不代表重量大。|Great bulk does not always mean great weight.
 針金|はりがね|wire|66|鐵絲|h|私達は二本の柱の間に針金を張った。||We extended a wire between two posts.
 開き|ひらき|opening, gap, dried and opened fish|66|開口；空隙|h|彼らは明日パーティーを開きます。|明天他們將舉行派對。|They are having a party tomorrow.
 間も無く|まもなく|soon, in a short time|66|不久|d|||
@@ -7457,7 +7457,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 さわやか|さわやか|fresh, refreshing|66|清爽；爽朗|h|私はとても気分がさわやかだ。||I am feeling wonderfully refreshed.
 しかく しかくい|しかく しかくい|square|66|四角形|h|||
 しつれいしました (かん)|しつれいしました (かん)|Excuse me., I'm sorry.|66|失禮了|h|||
-しのぶ|しのぶ|squirrel's foot fern|66|鐵線蕨|h|ホントしつこいなぁ、しのぶさん。なんか根負けしそう。||Shinobu is really persistent. It seems that I am beaten.
+しのぶ|しのぶ|squirrel's foot fern|66|骨碎補；忍耐；懷念|v|ホントしつこいなぁ、しのぶさん。なんか根負けしそう。||Shinobu is really persistent. It seems that I am beaten.
 しびれる|しびれる|to become numb|66|麻木|h|その電線に触るとしびれるよ。||If you touch that wire, you will receive a shock.
 しめた (かん)|しめた (かん)|I've got it, all right, fine|66|太好了|h|||
 しゃぶる|しゃぶる|to suck, to chew|66|吮吸|d|私は夏は凍った棒アイスクリームをしゃぶるのが好きです。||I like to suck on frozen ice cream bars in the summer.
@@ -7535,7 +7535,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 データベース|データベース|database|66|資料庫|d|進行状況は毎日確認され、データベースに記録されます。||Progress is monitored daily and stored in a database.
 ドクター|ドクター|doctor|66|醫生；博士|d|ここに座って、ドクターの質問に答えるだけでいいんですよ。||All you have to do is sit down here and answer the doctor's questions.
 ドラム|ドラム|drum, drums, drum kit|66|鼓；鼓組|d|彼女はドラムたたくことができる。||She can play the drum.
-ナイス|ナイス|nice, good, well-executed|66|好；漂亮|d|ナイスアイデア！|真是個好主意！|That's a good idea!
+ナイス|ナイス|nice, good, well-executed|66|好；漂亮；精彩|v|ナイスアイデア！|真是個好主意！|That's a good idea!
 ナイロン|ナイロン|nylon|66|尼龍|d|ナイロンストッキングはすぐ伝線する。||Nylon stockings often run.
 ハンド|ハンド|hand, handball|66|手；手球|d|彼女はハンドバッグを盗まれた。|她的手提包被偷了。|She had her handbag stolen.
 バル|バル|Spanish bar, Spanish-style restaurant with a counter, serving food, alcoholic drinks, and coffee|66|西班牙小酒館|h|私たちはバルセロナに行きました。||We went to Barcelona.
@@ -7590,7 +7590,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 大震災|だいしんさい|great earthquake, highly destructive earthquake|66|大地震|h|大震災被災者が大勢います。||The victims of the earthquake disaster are numerous.
 好き嫌い|すききらい|likes and dislikes, taste|66|好惡；偏食|d|本当に好き嫌いが激しいんだから。||You have too many likes and dislikes.
 字幕|じまく|subtitles, captioning|66|字幕|h|トムは、邦画をフランス語の字幕付きで観たんだよ。||Tom watched a Japanese movie with French subtitles.
-守|かみ|director|66|守護；主管|h|私達の犬は知らない人にかみつく。||Our dog will bite strangers.
+守|かみ|director|66|守護；長官|v|私達の犬は知らない人にかみつく。||Our dog will bite strangers.
 実写|じっしゃ|live action, photograph|66|實拍|h|この実写化は原作ファンも納得です。||Fans of the original will also be satisfied with this live-action adaptation.
 射精|しゃせい|ejaculation|66|射精|a|||
 少なくとも|すくなくとも|at least|66|至少|d|彼は映画を毎日少なくとも一本見る。|他每天起碼會看一部電影。|He watches at least one movie a day.
@@ -7600,9 +7600,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 差し引き|さしひき|deduction, balance|66|扣除；差額|d|||
 差し支え|さしつかえ|hindrance, impediment|66|妨礙；障礙|d|差し支えなければ同行したいのですが。||I'd like to come along if you don't mind.
 幻想|げんそう|fantasy, illusion, vision|66|幻想|h|恒久的な平和など幻想に過ぎない。||Permanent peace is nothing but an illusion.
-引き出す|ひきだす|to pull out, to take out, to withdraw|66|提取；拉出|d|我々は勉強からさらに楽しみを引き出す。||We derive further pleasure from our study.
+引き出す|ひきだす|to pull out, to take out, to withdraw|66|拉出；取出；領錢|v|我々は勉強からさらに楽しみを引き出す。||We derive further pleasure from our study.
 引き分け|ひきわけ|draw, tie game|66|平手；和局|d|野球の試合は引き分けに終わった。||The baseball game ended in a draw.
-引っ掛かる|ひっかかる|to be caught in, to be stuck in|66|掛住；受騙|h|||
+引っ掛かる|ひっかかる|to be caught in, to be stuck in|66|掛住；卡住；受騙|v|||
 引っ繰り返す|ひっくりかえす|to turn over, to overturn, to knock over|67|翻倒；推翻|d|||
 引っ越し|ひっこし|moving, changing residence|67|搬家|h|いつベルリンに引っ越しましたか？|你是什麼時候搬到柏林的呀？|When did you move to Berlin?
 引っ込む|ひっこむ|to draw back, to sink, to cave in|67|縮回；退縮|h|無理が通れば、道理が引っ込む。||Reason retires once the unreasonable gets its way.
@@ -7688,7 +7688,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 なんとなく|なんとなく|somehow or other, for some reason or another|67|不知為何；莫名|h|私はなんとなく彼の家を見つけた。||Somehow or other I found his house.
 はい (かん)|はい (かん)|yes|67|是；好|h|||
 はじめまして|はじめまして|How do you do, I am glad to meet you|67|初次見面|h|はじめまして。|初次見面。|Nice to meet you.
-はん|はん|Mr, Mrs, Ms|67|先生；女士|d|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
+はん|はん|Mr, Mrs, Ms|67|先生；女士；印章|v|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 ひとりでに|ひとりでに|by itself, automatically, naturally|67|自然而然；自動|h|ろうそくの火がひとりでに消えた。|蠟燭自己滅了。|The candle went out by itself.
 ひも|ひも|string, cord, leash|67|繩子；帶子|h|ちょっと待って。靴ひもほどけた。|等下，我鞋帶散了。|Wait a second. My shoe is untied.
 ふるさと|ふるさと|hometown, birthplace, native place, ruins|67|故鄉|d|この歌を聞くと、ふるさとの町を思い出します。||When I hear that song, I think about my hometown.
@@ -7724,7 +7724,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ストッキング|ストッキング|stockings|67|絲襪|h|やだストッキング伝線しちゃってる。||Fudge! My stocking's run.
 スライド|スライド|slide|67|滑動；幻燈片|d|彼はそのスライドを顕微鏡で見た。||He looked at the slide under the microscope.
 セメント|セメント|cement|67|水泥|d|石の塊はセメントで接合された。||The blocks of stone were jointed with cement.
-テレ|テレ|tele-, telephone|67|害羞|h|寝る前にテレビを消すのを忘れた。|我上床之前忘記關電視機了。|I forgot to turn off the TV before going to bed.
+テレ|テレ|tele-, telephone|67|害羞；遠距|v|寝る前にテレビを消すのを忘れた。|我上床之前忘記關電視機了。|I forgot to turn off the TV before going to bed.
 ドキドキ|ドキドキ|thump-thump, bang-bang, pit-a-pat, to beat fast|67|怦怦|h|心臓が、ドキドキして破裂しそう！||My heart is pounding so hard it feels like it's going to explode.
 ドリンク|ドリンク|drink|67|飲料|d|ソフトドリンクはありますか。||Do you have any soft drinks?
 ナンバー|ナンバー|number|67|號碼|d|車のナンバーを書き留められなかった。||I was unable to write down the number of the car.
@@ -7741,7 +7741,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ブルース|ブルース|blues|67|藍調|d|ブルース夫人は英日間を飛んだ最初の女性パイロットであった。|布魯斯夫人是英國和日本之間航線的第一位女性飛行員。|Mrs. Bruce was the first female pilot to fly between England and Japan.
 ブローチ|ブローチ|brooch|67|胸針|d|宝石細工師はそのブローチに大きな真珠をはめ込んだ。|寶石師傅在胸針上鑲了一枚大珍珠。|The jeweler mounted a big pearl in the brooch.
 ヘリコプター|ヘリコプター|helicopter|67|直升機|d|彼らはヘリコプターで救出された。|他們被直升機解救。|They were rescued by helicopter.
-ボー|ボー|bow, bow|67|弓|d|ボールペンのインクがなくなった。|我的原珠筆沒墨了。|My pen just ran out of ink.
+ボー|ボー|bow, bow|67|弓；蝴蝶結|v|ボールペンのインクがなくなった。|我的原珠筆沒墨了。|My pen just ran out of ink.
 マック|マック|McDonald's, Mac|67|麥當勞|d|みんなマックが好きだ。|大家都愛麥當勞。|Everyone loves McDonald's.
 マフラー|マフラー|a winter scarf|67|圍巾|h|五次元のマフラーはよい音がする。||The 5ZIGEN exhaust makes a nice sound.
 マラソン|マラソン|marathon|67|馬拉松|d|私たちはそのマラソンに参加するつもりだ。|我們將參加馬拉松。|We'll take part in the marathon.
@@ -7808,8 +7808,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 汎|はん|pan-|67|泛|d|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 浮かべる|うかべる|to float, to express|67|浮起；露出|d|家族のことを思い浮かべるといえが恋しくなる。||I feel homesick when I remember my family.
 海軍|かいぐん|navy, naval force|67|海軍；水軍|a|彼は海軍士官の任務を受けた。||He has received a commission as a naval officer.
-湯坐|ゆえ|royal family nursemaid|67|乳母|h|||
-濡れ|ぬれ|wetting, love affair|67|淋濕；濕|h|濡れた傘はこの袋にお入れください。|淋濕的傘請放進這個袋子裡。|Put the wet umbrella in this bag, please.
+湯坐|ゆえ|royal family nursemaid|67|宮廷乳母|v|||
+濡れ|ぬれ|wetting, love affair|67|淋濕；情事|v|濡れた傘はこの袋にお入れください。|淋濕的傘請放進這個袋子裡。|Put the wet umbrella in this bag, please.
 煩|はん|trouble|67|煩|a|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 爆撃|ばくげき|bombing|67|轟炸|h|ロンドンは数回爆撃を受けた。|倫敦被轟炸過許多次。|London was bombed several times.
 特性|とくせい|special characteristic, special quality, trait|67|特性|h|泳者の呼吸機能の特性について。||Concerning the characteristics of respiratory function in swimmers.
@@ -7822,7 +7822,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 移植|いしょく|transplanting, transplant, grafting|67|移植|a|脳移植は本当に可能なのでしょうか？||Is it really possible to do a brain transplant?
 突き当たる|つきあたる|to run into, to collide with|67|撞上；碰到|d|||
 突っ込む|つっこむ|to plunge into, to stick into|67|衝進；插入|h|つまらないことに、首を突っ込むな。||Don't risk your neck over something foolish.
-筑|ちく|zhu|67|筑；古樂器|h|しばらく電話を切らずにお待ちください。|請在綫稍候。|Please hold the line a moment.
+筑|ちく|zhu|67|筑（古樂器）|v|しばらく電話を切らずにお待ちください。|請在綫稍候。|Please hold the line a moment.
 範|はん|example, model|67|範；例|a|私は毎朝朝ごはんを食べます。|我每天早上吃早餐。|I eat breakfast every morning.
 築|ちく|... years since construction, ... years old|67|建造；築|h|しばらく電話を切らずにお待ちください。|請在綫稍候。|Please hold the line a moment.
 紗|しゃ|gauze|67|薄紗|d|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
@@ -7870,7 +7870,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 うろうろ|うろうろ|loitering, aimless wandering|68|徘徊；四處閒逛|h|今日一日当ても無くうろうろした。||I wandered about aimlessly all day.
 おどれ|おどれ|you|68|你；妳|d|||
 おまちどおさま|おまちどおさま|Sorry to have kept you waiting|68|讓您久等了|h|||
-おめでたい|おめでたい|happy event, matter for congratulation|68|可喜可賀；天真|h|あいつは本当におめでたい人間だ。||He is really a perfect idiot.
+おめでたい|おめでたい|happy event, matter for congratulation|68|可喜可賀；天真單純|v|あいつは本当におめでたい人間だ。||He is really a perfect idiot.
 おん|おん|sacred site, sacred grove|68|聖地；聖林|h|彼女は赤ん坊をおんぶしていた。||She carried a baby on her back.
 お代わり|おかわり|second helping, another cup|68|再來一份；續杯|h|水のお代わりを下さい。|請再給我一些水。|I'd like some more water.
 お願いします|おねがいします|Please|68|拜託；請|d|マスタードは少なめにお願いします。|不要加太多芥末。|Easy on the mustard.
@@ -7885,18 +7885,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 そのころ|そのころ|in those days, at that time, then|68|那時候；當時|d|そのころには仕事やめてるつもりだから、行けるかも！|這段時間正好打算辭掉工作，說不定去得成。|Since I plan to have quit my job by that time, maybe I could go!
 それなら|それなら|If that's the case..., If so..., That being the case...|68|那麼；這樣的話|h|それならよりお得になります。|那就實惠多了。|That would be even better value.
 ちんちん|ちんちん|penis, with a tinkle|68|陰莖；叮噹|d|動き出すとき、ベルが「ちんちん」と鳴る。だから、ちんちん電車。|出發時會響著“噹噹“的鈴聲，所以才叫做“噹噹”電車。|When it sets off the bell rings, "ding-ding". Thus 'ding-ding-train'.
-てめえ|てめえ|you, I|68|你；混蛋|d|てめえ、なに俺の彼女ジロジロ見てんだよ。|你這傢伙為什麼盯著我女朋友看？|What are you doing staring at my girlfriend like that?
+てめえ|てめえ|you, I|68|你；老子|v|てめえ、なに俺の彼女ジロジロ見てんだよ。|你這傢伙為什麼盯著我女朋友看？|What are you doing staring at my girlfriend like that?
 でたらめ|でたらめ|irresponsible utterance, nonsense, random|68|胡說八道；隨便|h|彼は本棚に本をでたらめに入れた。||He put the books on the shelf out of order.
 どきどき|どきどき|throb, beat|68|怦怦；心跳|h|私の心臓はどきどきし始めた。|我的心開始快速跳動。|My heart began to race.
 のろのろ|のろのろ|slowly, sluggishly|68|慢吞吞；磨蹭|h|休日で車は街道をのろのろと動いた。||The holiday traffic crawled along the highway.
 はきはき|はきはき|clearly|68|爽利；清楚|h|はきはきと意見を言ってください。||Please state your opinion crisply and clearly.
-はる|はる|to do|68|搞；弄|d|私は封筒に切手をはるのを忘れた。|我忘記在信封上貼郵票了。|I forgot to put a stamp on the envelope.
-ばいかい|ばいかい|crossing|68|路口；交叉|d|||
+はる|はる|to do|68|貼；張開；搞|v|私は封筒に切手をはるのを忘れた。|我忘記在信封上貼郵票了。|I forgot to put a stamp on the envelope.
+ばいかい|ばいかい|crossing|68|媒介；交叉|v|||
 ぼけ|ぼけ|fool, idiot, dotage|68|呆子；失智|d|彼はそのとき寝ぼけていたらしい。||It seems that he was half asleep then.
 まあまあ|まあまあ|okay, so-so, decent|68|還可以；馬馬虎虎|d|昨年の物価上昇はまあまあだった。||There was a modest rise in prices last year.
 めちゃくちゃ|めちゃくちゃ|absurd, messed up, wrecked|68|亂七八糟；荒謬|h|みんな、めちゃくちゃ喜んでたよ。||Everyone was terribly happy.
 やっぱり|やっぱり|after all, anyway|68|果然；還是|h|やっぱりお前が頼りやわ！|還是你靠得住。|I knew I could rely on you!
-ゞ|ゞ|voiced repetition mark in hiragana|68|重複符號|h|||
+ゞ|ゞ|voiced repetition mark in hiragana|68|濁音重複符號|v|||
 アカデミー|アカデミー|academy, academia|68|學院；學界|d|新作の映画で彼はアカデミー賞を得た。||His new movie earned him an Academy Award.
 アドレス|アドレス|address, address|68|地址；住址|d|メールアドレスは何ですか？|電郵地址是什麼？|What is your email address?
 ウーマン|ウーマン|woman|68|女性；婦女|d|彼女はウーマンリブ運動の指導者だと言われている。||She is said to be a leader in the women's liberation movement.
@@ -7927,7 +7927,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 チュチェ|チュチェ|Juche, self-reliance|68|主體思想|h|||
 チョーク|チョーク|chalk|68|粉筆；白堊|d|チョークを二本持ってきてください。||Please bring me two pieces of chalk.
 デスク|デスク|desk, copy editor|68|書桌；檯子|d|やっぱりデスクトップの方が効率的。||Of course desktops are more efficient.
-ネーム|ネーム|name, nameplate|68|名；名字|d|君のニックネームは何？|你的暱稱是什麼？|What is your nickname?
+ネーム|ネーム|name, nameplate|68|名字；名牌|v|君のニックネームは何？|你的暱稱是什麼？|What is your nickname?
 ハンドル|ハンドル|handle, steering wheel|68|方向盤；把手|d|米国車のハンドルは左側にある。||The steering wheels on American cars are on the left side.
 バイオ|バイオ|bio-, biotechnology|68|生物技術；生化|d|彼女はバイオリンが大変上手です。|她小提琴演奏得非常好。|She plays the violin very well.
 バイバイ|バイバイ|bye bye|68|掰掰；再見|h|バイバイ。また遊ぼうね！||Bye! Let's do this again!
@@ -7965,7 +7965,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 互いに|たがいに|mutually, with each other, reciprocally|68|互相；彼此|d|その男と妻は互いに助け合った。|這男人和他妻子互相幫助。|The man and his wife helped each other.
 交通機関|こうつうきかん|transportation facilities|68|交通工具；交通運輸|h|フィンランドの公共交通機関は時間を正確に守る。|芬蘭的公共交通工具很準時。|In Finland public transport is always on time.
 仁|じん|benevolence, consideration, compassion|68|仁愛；仁德|d|卵を食べるとじんましんが出ます。||She gets hives when she eats eggs.
-何事|なにごと|what, what sort of thing, everything|68|何事；什麼事|h|人は何事にも最善をつくすべきだ。|一個人應該在所有事上都盡力而為。|One must do one's best in everything.
+何事|なにごと|what, what sort of thing, everything|68|什麼事；何事|v|人は何事にも最善をつくすべきだ。|一個人應該在所有事上都盡力而為。|One must do one's best in everything.
 兄貴|あにき|elder brother, big brother, one's senior|68|哥；兄長|d|俺の兄貴、図書館でバイトしてるんだ。||My brother has a part-time job in a library.
 全裸|ぜんら|stark naked, completely naked, nude|68|全裸；赤身裸體|h|家の中で全裸で何が悪い！|我在自己家赤身裸體有什麼不對的！|What's wrong with being nude in your own house?
 出荷|しゅっか|shipping, shipment, forwarding|68|出貨；裝運|d|出荷ありがとうございました。||Thank you for the shipment.
@@ -7999,14 +7999,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 徹底的|てっていてき|thorough, exhaustive, complete|68|徹底；全面|d|彼はその問題を徹底的に分析した。||He made a thorough analysis of the problem.
 慌ただしい|あわただしい|busy, hurried|68|匆忙；忙亂|d|彼は慌ただしい毎日を送っています。||He leads a hectic life.
 我が家|わがや|one's house, one's home, one's family|68|我家；自家|h|我が家の前には狭い庭があります。|我家前面有個小庭院。|There is a small garden in front of my house.
-我郎|わろ|boy, servant, bastard|68|男孩；小子|d|||
+我郎|わろ|boy, servant, bastard|68|小子；僕人|v|||
 戦前|せんぜん|pre-war days, before the war|68|戰前|h|戦前、ヨーロッパへ行きました。||I went to Europe before the war.
 所帯|しょたい|household, home, family|68|家庭；家計|h|うちは大所帯なんだ。||My family is a large one.
 手数料|てすうりょう|fee, charge, commission|68|手續費；佣金|d|手数料は３パーセントかかります。||We charge a commission of 3%.
 揃え|そろえ|alignment, arrangement, counter for sets|68|齊全；一套|h|靴を脱いだらきちっと揃えておきなさい。||If you are taking your shoes off, please put them in their place.
 損傷|そんしょう|damage, injury|68|損傷；損壞|a|私はその事故で右足を損傷した。||My right leg was injured in that accident.
 数々|かずかず|many, numerous, various|68|許多；種種|d|私は彼の数々の親切が忘れられない。||I cannot forget his kindness.
-数え|かぞえ|East Asian age reckoning, traditional system of age reckoning whereby newborns are considered one ye|68|虛歲；數算|h|中国語で10まで数えられますか？|你能用中文數到十嗎？|Can you count to ten in Chinese?
+数え|かぞえ|East Asian age reckoning, traditional system of age reckoning whereby newborns are considered one ye|68|虛歲；計算|v|中国語で10まで数えられますか？|你能用中文數到十嗎？|Can you count to ten in Chinese?
 整形|せいけい|orthopedics, plastic surgery, cosmetic surgery|68|整形；骨科|a|||
 明け|あけ|dawn, daybreak, end|68|黎明；天亮|h|明けましておめでとうございます。今年もよろしくお願いします。|恭喜新年。新年裡請多多關照。|Happy New Year. Here's to another great year.
 時給|じきゅう|hourly pay, hourly wage|68|時薪|d|あの修理工たちは時給一万円ももらっている。||Those mechanics are paid as much as ten thousand yen per hour.
@@ -8021,7 +8021,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 準|じゅん|semi-, quasi-, associate|68|準；半|d|||
 炎上|えんじょう|going up in flames, destruction by fire|68|起火；上火|h|家は炎上していた。|房子著火了。|The house was in flames.
 無償|むしょう|without compensation, without reward, without pay|68|無償；免費|h|||
-生意気な|なまいきな|impertinent, saucy, cheeky|68|狂妄；自大|h|生意気な人間は誰からも嫌われる。||Nobody likes a wise guy.
+生意気な|なまいきな|impertinent, saucy, cheeky|68|狂妄；自大；傲慢|v|生意気な人間は誰からも嫌われる。||Nobody likes a wise guy.
 甲子園|こうしえん|Koshien Stadium|68|甲子園；甲子園球場|h|私は、甲子園球場に行く。||I go to Koshien stadium.
 発送|はっそう|sending, forwarding, shipping|68|寄送；發貨|h|彼は小包をおととい発送した。||He sent out the parcel the day before yesterday.
 着せ替え|きせかえ|changing clothes, changing the exterior parts|68|換裝；換衣遊戲|h|メアリー、一緒に着せ替え人形で遊ぼうよ。||Let's play with dress-up dolls, Mary.
@@ -8053,14 +8053,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 Α|アルファ|alpha|68|阿爾法|b|アルファ、ベータ、ガンマはギリシャ文字です。|阿爾法、貝塔和咖瑪是希臘文字。|Alpha, beta and gamma are Greek letters.
 いつの間にか|いつのまにか|before one knows, before one becomes aware of, unnoticed|68|不知不覺；不經意間|h|いつの間にかボブは外へ出ていた。||Bob went out before I knew it.
 う歯|うし|carious tooth, decayed tooth|68|蛀牙；齲齒|h|私はきのう歯が痛かった。||I had a toothache yesterday.
-えび|えび|prawn, shrimp, lobster|68|對蝦|b|私は生きたままのえびは食べたくない。||I don't want to eat a live lobster.
+えび|えび|prawn, shrimp, lobster|68|蝦；龍蝦|v|私は生きたままのえびは食べたくない。||I don't want to eat a live lobster.
 お断り|おことわり|declining, refusal, rejection, announcement|68|謝絕；婉拒；拒絕|h|はっきりとお断りしました。|我斬釘截鐵地拒絕了她。|I flatly refused.
 がら|がら|chicken bones, chicken carcass|68|雞骨；雞骨架|h|彼女は涙を流しながら答えました。|她邊哭邊回答。|She was crying as she answered.
 くすのき|くすのき|camphor tree, camphorwood, camphor laurel|68|樟；樟樹|b|||
 こだわり|こだわり|obsession, fixation, hangup, complaining|68|執著；拘泥；講究|h|年寄りは過去にこだわりすぎなんだよな。||Old people look back on the past too much.
-しみ|しみ|stain, spot, smudge, spot|68|污點；玷污|b|春が来るの、楽しみにしてる？|你期待春天嗎？|Are you looking forward to spring?
+しみ|しみ|stain, spot, smudge, spot|68|污漬；斑點；滲入|v|春が来るの、楽しみにしてる？|你期待春天嗎？|Are you looking forward to spring?
 そういった|そういった|like that, this type|68|那樣的；這類|h|誰がそういったのか忘れている。|我記不起那是誰說的了。|I forgot who said that.
-だの|だの|and, or, and the like|68|而；並|b|彼もただの政治家に過ぎない。|他也只是個政治家而已。|He's also just a politician.
+だの|だの|and, or, and the like|68|什麼的；之類的|v|彼もただの政治家に過ぎない。|他也只是個政治家而已。|He's also just a politician.
 とある|とある|a certain ...|68|篤定|b|あなたたち、前に会ったことある？|你們見面了嗎？|Have you met each other?
 につき|につき|because of, on account of, due to, about|68|基於|b|僕はあなたの側につきます。|我站在你這邊。|I'm on your side.
 はだける|はだける|to open, to bare, to expose|68|開；打開|b|||
@@ -8080,7 +8080,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 イス|イス|swords|69|椅子|h|アドバイスありがとうございます。|謝謝你的建議。|Thank you for your advice.
 ウド|ウド|udo|69|獨活；土當歸|h|||
 エジプト|エジプト|Egypt|69|埃及|d|私はエジプト出身です。|我來自埃及。|I am from Egypt.
-エビ|エビ|evidence, test results|69|證據；佐證|b|エビが食べたいですか。|你要吃蝦嗎？|Do you want to eat prawns?
+エビ|エビ|evidence, test results|69|證據；蝦|v|エビが食べたいですか。|你要吃蝦嗎？|Do you want to eat prawns?
 エラー|エラー|error, fumble that leads to failing to put out a runner|69|過失；謬誤|b|予期せぬエラーが発生しました。||An unexpected error has occurred.
 エンド|エンド|end, ending|69|終；終點|b|その物語はハッピーエンドだった。||That story had a happy ending.
 カウンター|カウンター|counter, counting device, counter|69|計數器|b|このカウンターで支払ってください。|請在這個櫃位付款。|Please pay at this counter.
@@ -8090,13 +8090,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 グラウンド|グラウンド|ground, field, playground|69|操場；運動場|d|じゃ、グラウンドで会いましょう。||I'll meet you at the ball park.
 グラフ|グラフ|graph, chart, diagram|69|圖表；統計圖|d|そのパラグラフは内容を重視しています。||The paragraph emphasises the message.
 グローバル|グローバル|global|69|全球性|b|||
-コマンド|コマンド|command, command key|69|統帥；將令|b|私はコマンドを得る。|我收到一道命令。|I'm taking command.
-コミュ|コミュ|communication, community|69|交際|b|タトエバは、コミュニティーです。|Tatoeba 是一個社群。|Tatoeba is a community.
+コマンド|コマンド|command, command key|69|指令；命令|v|私はコマンドを得る。|我收到一道命令。|I'm taking command.
+コミュ|コミュ|communication, community|69|交流；社群|v|タトエバは、コミュニティーです。|Tatoeba 是一個社群。|Tatoeba is a community.
 コメ|コメ|comment|69|議論；點評|b|コメントありがとうございます。|謝謝您的評論。|I appreciate your comment.
 コーン|コーン|cone, cone|69|錐；圓錐|b|俺、ポップコーン好きなんだよな。||I like popcorn.
 シカゴ|シカゴ|Chicago|69|芝加哥|h|シカゴに着いたらすぐ電話します。||I'll call you as soon as I get to Chicago.
 シリア|シリア|Syria|69|敘利亞|d|トムは急いでシリアルを掻き込んだ。||Tom scarfed down his cereal in a hurry.
-シール|シール|seal, sticker|69|海豹；印章|b|箱には「ワレモノ注意」のシールが貼ってある。||There's a sticker on the box that says "fragile."
+シール|シール|seal, sticker|69|貼紙；海豹；印章|v|箱には「ワレモノ注意」のシールが貼ってある。||There's a sticker on the box that says "fragile."
 スケール|スケール|scale, rule, ruler, scale|69|登；尺度|b|||
 タブレット|タブレット|tablet, pill, tablet|69|平板電腦；藥片|h|このタブレット、言うこと聞いてくれないんです。||This tablet isn't doing what it's supposed to do.
 テロリスト|テロリスト|terrorist|69|恐怖分子|b|その惨事はあのテロリストのせいだ。||That terrorist was to blame for the disaster.
@@ -8114,7 +8114,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ボイス|ボイス|voice|69|口音；嗓音|b|友達とボイスチャットをしながらゲームをした。||I played games while voice chatting with my friends.
 ボルト|ボルト|volt, bolt|69|伏特|b|そのボルトに嵌合するナットが必要です。||We need a nut that will fit that bolt.
 ボン|ボン|good|69|好；良好|b|それは僕のズボンです。|那是我的褲子。|Those are my pants.
-ポンド|ポンド|pound, pound|69|鎊；搗|b|彼は体重が270ポンドあります。|他重二百七十磅。|He weighs 270 pounds.
+ポンド|ポンド|pound, pound|69|英鎊；磅；池塘|v|彼は体重が270ポンドあります。|他重二百七十磅。|He weighs 270 pounds.
 マニア|マニア|enthusiast, mania|69|狂熱者；迷|d|あいつはカーマニアだから、車のことならなんでも知ってるよ。|那傢伙是個車迷，對車特別瞭解。|He's a car nut. Ask him anything.
 マリア|マリア|Mary, the Virgin Mary, Mary|69|瑪利亞；聖母|d|マリアは服にたくさんお金を使う。|Maria花很多錢買衣服。|Maria spends a lot of money on clothes.
 ユーロ|ユーロ|euro, Euro-|69|歐元|b|私は一日に100ユーロ稼ぎます。|我一天掙一百歐元。|I earn 100 Euros a day.
@@ -8163,7 +8163,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 噴く|ふく|to emit, to spout, to spurt|69|噴出；噴；吹|d|||
 噴出|ふんしゅつ|spewing, gushing, spouting|69|噴出；噴發|h|間欠泉は２時間毎に湯を噴出する。||The geyser sends up a column of hot water every two hours.
 四国|しこく|Shikoku|69|四國|d|台風９号は四国に接近している。||Typhoon No.9 is approaching Shikoku.
-回る|まわる|to turn, to rotate, to revolve, to go around|69|紐；扭|b|1日や2日で東京を見て回るなんて出来ない。|一兩天是沒辦法逛完東京的。|It's impossible to do the sights of Tokyo in a day or two.
+回る|まわる|to turn, to rotate, to revolve, to go around|69|轉；繞；巡迴|v|1日や2日で東京を見て回るなんて出来ない。|一兩天是沒辦法逛完東京的。|It's impossible to do the sights of Tokyo in a day or two.
 回送|かいそう|forwarding|69|轉送；空車回送|h|||
 在籍|ざいせき|being enrolled, being registered, being a member|69|在籍；隸屬|h|ジョンは、水泳部に在籍しています。||John belongs to the swimming club.
 壬|じん|9th in rank, ninth sign of the Chinese calendar|69|壬；天干第九位|h|卵を食べるとじんましんが出ます。||She gets hives when she eats eggs.
@@ -8172,7 +8172,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 子育て|こそだて|child rearing, child raising, raising children|69|育兒；養育子女|h|タイでは、子育ては父親の責任ではなく、全面的に母親の責任である。|在泰國，照顧子女不是父親的責任，而是由母親一手包辦的。|In Thailand, bringing up the children isn't the father's responsibility; it's entirely up to the mother.
 実践|じっせん|practice, put into practice|69|實踐；練|a|共産主義はソ連で実践された体制である。|共產主義是在蘇聯被實行的制度。|Communism is the system practiced in the Soviet Union.
 対決|たいけつ|confrontation, showdown|69|對決|a|経営側と労働者側との対決があるでしょう。||There is going to be a show-down between management and labor.
-小野|おの|plain, field|69|便；坪|b|私の好きなサッカー選手は小野伸二です。||My favorite soccer player is Shinji Ono.
+小野|おの|plain, field|69|原野；小野|v|私の好きなサッカー選手は小野伸二です。||My favorite soccer player is Shinji Ono.
 尽|じん|last day|69|末日|b|卵を食べるとじんましんが出ます。||She gets hives when she eats eggs.
 尽きる|つきる|to be used up, to be run out|69|耗盡；用完；窮盡|h|奴の悪運が尽きるのも時間の問題だ。||It's just a matter of time before his outrageous and undeserved good luck comes to an end.
 展示|てんじ|exhibition, display|69|展示；陳列|h|展示物に手を触れないでください。|請勿觸碰展品。|Don't touch the exhibits.
@@ -8207,8 +8207,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 概説|がいせつ|general statement, outline|69|概述|b|まず新しいサイトの概説をしようと思う。||First, I'm going to do an outline of my new website.
 残高|ざんだか|balance, remainder|69|平衡；餘額|b|私の預金残高はどうなっていますか。||What's the balance of my account?
 母国|ぼこく|one's home country)|69|祖國；母國|h|彼らは母国のために戦った。|他們為祖國而戰鬥。|They fought for the sake of their country.
-気兼ね|きがね|hesitance, diffidence, feeling constraint|69|拘禁|b|思ったことを気兼ねなく言っていいんだよ。||Feel free to share your thoughts.
-沈黙|ちんもく|silence, reticence|69|沉寂；消音|b|雄弁は銀、沈黙は金。|開口是銀，沉默是金。|Speech is silver, silence is golden.
+気兼ね|きがね|hesitance, diffidence, feeling constraint|69|顧慮；拘束|v|思ったことを気兼ねなく言っていいんだよ。||Feel free to share your thoughts.
+沈黙|ちんもく|silence, reticence|69|沉默|v|雄弁は銀、沈黙は金。|開口是銀，沉默是金。|Speech is silver, silence is golden.
 沿い|ぞい|along, on|69|沿|b|私達の住む街は海沿いにあります。||The town we live in is beside the sea.
 涼|りょう|cool breeze, cool air, refreshing coolness|69|清風|b|||
 減|げん|reduction, decrease, subtraction|69|減|a|彼はいつも妻と口げんかをする。|他總是與他的妻子吵架。|He always quarrels with his wife.
@@ -8242,8 +8242,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 葺く|ふく|to roof, to thatch, to shingle|69|屋頂；頂部|b|||
 螺子|らし|screw|69|螺絲；螺釘|b|||
 装飾|そうしょく|ornament|69|裝飾；飾品|a|販売用に装飾品が棚に広げられた。||Accessories were laid out on the shelf for sale.
-補足|ほそく|supplement, complement|69|副刊|b|彼の説明に何か補足することがありますか。||Do you have anything to add to his explanation?
-複|ふく|compound, composite, multiple, doubles|69|複；配製|a|ほふく前進はもっと素早くゴキブリのように這え！|匍匐前進要再快一點，給我像蟑螂一樣爬！|Crawl forward is done much more agilely - scuttle like a cockroach!
+補足|ほそく|supplement, complement|69|補充|v|彼の説明に何か補足することがありますか。||Do you have anything to add to his explanation?
+複|ふく|compound, composite, multiple, doubles|69|複；複合；雙打|v|ほふく前進はもっと素早くゴキブリのように這え！|匍匐前進要再快一點，給我像蟑螂一樣爬！|Crawl forward is done much more agilely - scuttle like a cockroach!
 覆|ふく|concealment, veil, cover|69|覆蓋；遮蔽|d|ほふく前進はもっと素早くゴキブリのように這え！|匍匐前進要再快一點，給我像蟑螂一樣爬！|Crawl forward is done much more agilely - scuttle like a cockroach!
 覆面|ふくめん|mask, veil, disguise|69|面具；口罩|b|覆面をした男達が旅客を襲って金を奪った。||Masked men held up the passengers and robbed them of their money.
 解禁|かいきん|lifting a ban, raising an embargo, opening a season|69|解禁；開放|h|その記事は昨日記事解禁となった。||The press ban on the case was removed yesterday.
@@ -8320,7 +8320,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 コロナ|コロナ|corona, coronavirus|70|冠狀病毒；日冕|d|中国衛生当局は、コロナウイルス拡大を阻止するための措置をとっている。|中國的衛生當局正在採取措施來阻止冠狀病毒的傳播。|China's health authorities are taking steps to stop the spread of the coronavirus.
 サンタ|サンタ|Santa, Santa Claus|70|聖誕老人|h|いい子にしてないとサンタさん来ないよ。|你一旦不做個乖孩子，聖誕老人就不會來噢。|If you don't behave, Santa won't come.
 シンガポール|シンガポール|Singapore|70|新加坡|d|シンガポールからやって来ました。|我是從新加坡來的。|I'm from Singapore.
-ストア|ストア|store, shop, storing|70|宁；舖|b|この辺にドラッグストアってある？||Is there a drugstore around here?
+ストア|ストア|store, shop, storing|70|商店；儲存|v|この辺にドラッグストアってある？||Is there a drugstore around here?
 スペック|スペック|specifications, specs|70|規格；性能參數|h|新モデルとなりスペックが刷新された。||It is a new model with improved specifications.
 セカンド|セカンド|second, second base|70|第二；亞|b|セカンドオピニオンをご希望ですか？||Would you like a second opinion?
 テキサス|テキサス|Texas|70|德州|d|テキサス州はメキシコと接している。||Texas borders on Mexico.
@@ -8329,7 +8329,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ドラッグ|ドラッグ|drug, medicine, drug|70|毒品；藥物；藥房|d|トムはドラッグをしないと思います。|我以為湯姆不吸毒。|I think that Tom doesn't do drugs.
 ドリル|ドリル|drill|70|鑽頭|b|これはドリルではない。||This is not a drill.
 ナチス|ナチス|Nazi, Nationalsozialist, Nazi Party|70|納粹；納粹黨|d|イーロン・マスクはナチスです。||Elon Musk is a Nazi.
-ネズミ|ネズミ|mouse, rat, dark gray|70|鼠標；滑鼠|b|猫はネズミを捕まえました。|貓捉到了老鼠。|The cat caught the mouse.
+ネズミ|ネズミ|mouse, rat, dark gray|70|老鼠；深灰色|v|猫はネズミを捕まえました。|貓捉到了老鼠。|The cat caught the mouse.
 ハム|ハム|ham, ham|70|火腿|b|学生たちは「ハムレット」を演じた。|學生們表演哈姆雷特。|The pupils performed Hamlet.
 バイ|バイ|bye|70|拜拜；再見|h|彼女はバイオリンが大変上手です。|她小提琴演奏得非常好。|She plays the violin very well.
 バックアップ|バックアップ|backing, support|70|支援；備份|d|今すぐバックアップを取った方がいいよ。||We should make a backup ASAP.
@@ -8368,9 +8368,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 今頃|いまごろ|about this time, about now|70|這個時候；現在|h|昨日の今頃は何をしていましたか。|昨天的這個時間你在做甚麼呢？|What were you doing about this time yesterday?
 仏教|ぶっきょう|Buddhism|70|佛教|d|仏教はインドに起源を発した。|佛教起源於印度。|Buddhism had its beginnings in India.
 仕上げ|しあげ|finish, finishing, finishing touches|70|完；完畢|b|彼らは協力してその絵を仕上げた。||They completed the picture hand in hand.
-他方|たほう|another side, on the other hand|70|一；壹|b|その双子の一方を他方と見分けることができますか。|你可以分出那對雙胞胎中誰是誰嗎?|Can you tell one of the twins from the other?
+他方|たほう|another side, on the other hand|70|另一方面；他方|v|その双子の一方を他方と見分けることができますか。|你可以分出那對雙胞胎中誰是誰嗎?|Can you tell one of the twins from the other?
 会談|かいだん|conversation, interview|70|會談|a|彼らは遅くまで首脳会談を続けた。||They carried on the summit conference till late.
-伴い|ともない|companion, accompaniment|70|夥；伴侶|b|昨日の株価下落に伴い、今日の取引は低迷だった。||Trading was slow today after yesterday's market decline.
+伴い|ともない|companion, accompaniment|70|伴隨；同伴|v|昨日の株価下落に伴い、今日の取引は低迷だった。||Trading was slow today after yesterday's market decline.
 似通う|にかよう|to resemble closely|70|類似；相近|h|||
 体内|たいない|interior of the body|70|體內|h|これらの物質がどのようにして体内に吸収されるのかを知りたいと思う。|我想知道這些物質是怎麼被人體吸收的。|I would like to know how these substances are absorbed by the body.
 何者|なにもの|who, what kind of person|70|誰；何人|b|彼の睡眠中に何者かが押し入った。||Someone broke in while he was asleep.
@@ -8411,8 +8411,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 前々|ぜんぜん|before last, two before, two in front|70|前前；兩次前|h|前々から、アメフトは好きです。||I've always liked football.
 前年|ぜんねん|the preceding year, the previous year, last year|70|前年；去年|d|前年の総所得金額はいくらでしょうか。||What was the gross income in the previous calendar year?
 加盟|かめい|joining, participation, affiliation|70|加盟；參加|h|アルメニアは2003年にWTOに加盟した。||Armenia joined the World Trade Organization in 2003.
-動機|どうき|motive, incentive|70|用心|b|あの人の動機が信用できなかった。||I was distrustful of his motives.
-勝手|かって|kitchen, one's way, selfishness|70|任性；方便；廚房|d|勝手にしろ。|你隨意。|Do whatever you like.
+動機|どうき|motive, incentive|70|動機；誘因|v|あの人の動機が信用できなかった。||I was distrustful of his motives.
+勝手|かって|kitchen, one's way, selfishness|70|任性；隨便；廚房|v|勝手にしろ。|你隨意。|Do whatever you like.
 募金|ぼきん|fund-raising, collection of funds|70|籌款|b|彼女は盲人のために募金をしている。||She is collecting on behalf of the blind.
 参入|さんにゅう|entering, introducing to the market, access|70|進入；參與|h|あと数社の企業が同国の利益の高いペットフード市場に参入をねらっている。||Several more companies are moving to enter the lucrative pet food market of the country.
 双方|そうほう|both parties, both sides|70|雙方|a|彼は双方の候補者から票を奪った。||He attracted votes away from both candidates.
@@ -8423,20 +8423,20 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 司法|しほう|administration of justice|70|司法|h|独裁者は司法権を自分のものとした。||The dictator arrogated judicial powers to himself.
 合間|あいま|interval|70|間隙|b|勉強の合間に私はテレビをみた。||I watched television during a break in my studies.
 吻|ふん|proboscis, snout|70|吻部；嘴|d|トムは裸にふんどし一丁だった。||Tom was naked but for a loincloth.
-唱える|となえる|to recite, to chant, to call upon|70|背誦|b|彼女の提案に異議を唱えるとは君も大胆だ。||It is bold of you to question her proposal.
-回す|まわす|to turn, to rotate, to spin, to pass around|70|紐；扭|b|帽子を弄り回すのはやめなさい。||Please stop playing with your hat.
+唱える|となえる|to recite, to chant, to call upon|70|吟誦；提倡|v|彼女の提案に異議を唱えるとは君も大胆だ。||It is bold of you to question her proposal.
+回す|まわす|to turn, to rotate, to spin, to pass around|70|轉動；傳遞|v|帽子を弄り回すのはやめなさい。||Please stop playing with your hat.
 固め|かため|hardening, fortifying, pledge|70|加固；保證；誓約|d|政府はテロ撲滅の決意を固めている。||The government is determined to put an end to terrorism.
 国土|こくど|country, territory, domain|70|國土|h|国土の８割近くが山です。||Nearly 80 percent of the land is mountains.
 国産|こくさん|domestic products|70|國產|a|政府は国産品の愛用を奨励している。||The government is promoting the use of domestically made products.
 国連|こくれん|U.N., United Nations|70|聯合國|d|日本は国連総会で米国側に立った。||Japan stood with the United States at the U. N. Assembly.
-土俵|どひょう|arena|70|環；戒指|b|||
+土俵|どひょう|arena|70|相撲場；競技場|v|||
 報じる|ほうじる|to inform, to report|70|報道；報導|b|||
 変動|へんどう|change, fluctuation|70|變動；改變|a|金の価格は日ごとに変動する。||The price of gold fluctuates daily.
 夕べ|ゆうべ|evening, evening|70|晚上；晚|b|夕べラジオを消し忘れたでしょう。||Last night you forgot to turn off the radio, didn't you?
 外側|そとがわ|exterior, outside, outer|70|外側；外面|d|壁は内側が白くて外側は緑である。||The wall is white within and green without.
 外相|がいしょう|Foreign Minister|70|外相；外長|a|外相は、戦争は避けられないと言った。||The Foreign Minister said that war was inevitable.
 大地|だいち|earth, ground, the solid earth|70|大地；地|a|大地が揺れるのが感じられた。|感覺到地在搖晃。|The earth was felt to tremble.
-大幅|おおはば|full width, large scale, drastic|70|偉；碩大|b|この政策で物価は大幅に値上がりした。|這個政策導致物價大幅度的上升。|This policy resulted in a great rise in prices.
+大幅|おおはば|full width, large scale, drastic|70|大幅度；全幅|v|この政策で物価は大幅に値上がりした。|這個政策導致物價大幅度的上升。|This policy resulted in a great rise in prices.
 大賞|たいしょう|big prize, first prize|70|大獎；最高獎|h|薫、今のところおまえが一番のリアクション、大賞だよ。||Kaoru, yours is the best reaction so far - you win the grand prize.
 天下|てんか|the world, whole country|70|天下；全球|a|今日の試合は天下分け目の戦いだ。||Today's game will be a crucial battle; the result will be decisive.
 嫉妬|しっと|jealousy|70|嫉|b|彼女の成功は彼女を嫉妬の標的にした。|她的成功讓她受盡嫉妒。|Her success made her the target of jealousy.
@@ -8481,17 +8481,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 改悪|かいあく|deterioration, changing for the worse|70|惡化；變得更糟|h|||
 救出|きゅうしゅつ|rescue, extricate, reclaim|70|救出；搶救|a|彼らはヘリコプターで救出された。|他們被直升機解救。|They were rescued by helicopter.
 教科|きょうか|subject, curriculum|70|話題；課|b|日本史は私の好きな教科です。|日本歷史是我最喜歡的科目。|Japanese history is my favorite subject.
-教訓|きょうくん|lesson, precept, moral instruction|70|課業|b|その教訓は私の頭に叩き込まれた。||The lesson was driven into my head.
-断面|だんめん|cross section|70|款；地段|b|||
+教訓|きょうくん|lesson, precept, moral instruction|70|教訓；訓誡|v|その教訓は私の頭に叩き込まれた。||The lesson was driven into my head.
+断面|だんめん|cross section|70|斷面；橫截面|v|||
 新着|しんちゃく|newly arrived, newly received|70|新到；新收到|h|||
 施行|しこう|enforcement, operation|70|施行；實施|h|いつその法律は施行されますか。||When will the law go into force?
 日本一|にほんいち|Japan's best, number one in Japan|70|日本第一|h|彼女は日本一周旅行をした。|她環遊了日本。|She traveled around Japan.
 有力|ゆうりょく|influence, prominence, potent|70|有力|a|彼は出版業界に有力なコネがある。||He has powerful connections in the publishing industry.
 未知|みち|not yet known|70|未知|a|Ｘ記号は数学ではたいてい未知数を表す。||The symbol "x" usually stands for an unknown quantity in mathematics.
-本場|ほんば|home, best place, genuine|70|家；家裡|b|本場のプレッツェルが食べてみたくなった！||I fancied eating an authentic pretzel.
+本場|ほんば|home, best place, genuine|70|正宗；發源地；本場|v|本場のプレッツェルが食べてみたくなった！||I fancied eating an authentic pretzel.
 本館|ほんかん|main building|70|主樓|b|別館は本館の北側にある。||The annex is on the north of the original building.
 構想|こうそう|plan, plot, idea|70|計劃；方案|b|彼女が建設的な構想を持つ。||She has constructive ideas.
-欠乏|けつぼう|shortage|70|缺|b|浪費なければ欠乏なし。|不浪費則不匱乏。|Waste not, want not.
+欠乏|けつぼう|shortage|70|缺乏；不足|v|浪費なければ欠乏なし。|不浪費則不匱乏。|Waste not, want not.
 歩み|あゆみ|step, progress, history|70|步伐；進展；歷程|d|お互い歩み寄って問題を解決した。||We solved the problem by mutual concessions.
 歩行|ほこう|walking, walk|70|步行|a|長距離の歩行には慣れていない。||I am not accustomed to walking long distances.
 歴代|れきだい|successive generations, successive emperors|70|歷代|a|今日の土地問題は歴代の政府の無策によるものである。||Today's land problems are the product of years of neglect by successive governments.
@@ -8510,7 +8510,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 濫用|らんよう|abuse, misuse, using to excess|70|濫用；過度使用|d|||
 災害|さいがい|calamity, disaster, misfortune|70|災害；浩劫|a|嵐は、多くの災害を引き起こした。||The storm caused a lot of damage.
 炭酸|たんさん|carbonic acid, carbonated water|70|碳酸|b|炭酸を飲むとすぐにお腹が膨れる。||When I drink carbonated water my stomach quickly starts feeling inflated.
-無口|むくち|reticence|70|沉默|b|彼は観察が鋭いがとても無口だ。|他觀察入微，但沉默寡言。|His observations are sharp, but he doesn't say much.
+無口|むくち|reticence|70|沉默寡言|v|彼は観察が鋭いがとても無口だ。|他觀察入微，但沉默寡言。|His observations are sharp, but he doesn't say much.
 無知|むち|ignorance|70|無知|a|彼女は私の無知に付け込んだ。|她利用了我的無知。|She took advantage of my ignorance.
 爆笑|ばくしょう|roar of laughter, burst of laughter, uproarious laughter|70|爆笑；哄|a|彼の冗談はクラス全員を爆笑させた。||His joke made all the class burst into laughter.
 球根|きゅうこん|bulb|70|球根；鱗莖|d|||
@@ -8565,7 +8565,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 転任|てんにん|change of post|71|調任；調職|h|||
 転売|てんばい|resale|71|轉賣；倒賣|h|||
 転居|てんきょ|moving, changing residence|71|搬家；遷居|h|ご両親は転居されたんですか？||Are your parents relocating?
-辞任|じにん|resignation|71|辭呈|b|彼は近く辞任するといううわさだ。||It is rumored that he will shortly resign.
+辞任|じにん|resignation|71|辭職；辭任|v|彼は近く辞任するといううわさだ。||It is rumored that he will shortly resign.
 農|のう|farming, agriculture|71|農；農耕|a|私は三人のうちで一番背が高い。|我是三個人之中最高的。|I am the tallest of the three.
 農地|のうち|agricultural land|71|農地|a|河川の盆地には普通肥沃な農地がある。||The basin of a river usually has rich farmland.
 連動|れんどう|operating together, working together, being linked|71|連動；聯動|h|エンジンを前輪に連動させてください。||Gear the engine to the front wheels.
@@ -8575,7 +8575,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 遥か|はるか|far, far-away, distant|71|遙遠；遠遠|d|彼は普通の人より遥かに力が強い。||His strength is much greater than that of an ordinary man.
 遭難|そうなん|disaster, shipwreck, accident|71|禍；禍害|b|彼らは山で遭難した。||They met with an accident in the mountains.
 釣り鐘|つりがね|temple bell|71|吊鐘；寺鐘|h|||
-鉛|なまり|lead|71|鉛；領導|a|彼はドイツなまりの英語をはなす。|他說英語有德國口音。|He speaks English with a German accent.
+鉛|なまり|lead|71|鉛|v|彼はドイツなまりの英語をはなす。|他說英語有德國口音。|He speaks English with a German accent.
 銀河|ぎんが|Milky Way, galaxy|71|銀河|d|花子ちゃんの好きなアニメは「銀河鉄道の夜」です。|花子喜歡的動畫是「銀河鐵道之夜」。|Hanako's favorite anime is "Night on the Galactic Railroad".
 銛|もり|lance, harpoon|71|魚叉；標槍|d|明日はピクニックに行くつもりだ。|我明天去野餐。|I'm going on a picnic tomorrow.
 鍛え|きたえ|forging, tempering, drilling|71|鍛鍊；磨練|h|鍛冶屋になるのは，鉄を鍛えながらだ。|要成為鍛造師，就要鍛打鐵。|It's by smithing that one becomes a blacksmith.
@@ -8641,13 +8641,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ハリウッド|ハリウッド|Hollywood|71|好萊塢|d|私の夢は、ハリウッドの俳優として成功する事です。|我的夢想是成為一個成功的荷里活演員。|My dream is to make it as an actor in Hollywood.
 バラエティ|バラエティ|variety, variety show|71|綜藝；花色|b|||
 バード|バード|bird|71|鳥；鳥兒|b|彼はハーバードの生物学教授だ。|他是哈佛大學的生物學教授。|He's a professor of biology at Harvard.
-パズル|パズル|puzzle|71|迷惑；謎題|b|彼女はそのパズルを簡単に解いた。||She solved the puzzle with ease.
-パート|パート|part-time job|71|局部；部位|b|彼はアパートに一人で住んでいます。|他一個人住在公寓裡。|He lives alone in his flat.
-ビジョン|ビジョン|vision, foresight, prospect|71|願景；異象|b|あなたは自分の将来のビジョンを持っていますか。||Do you have a vision of your future?
+パズル|パズル|puzzle|71|謎題；拼圖|v|彼女はそのパズルを簡単に解いた。||She solved the puzzle with ease.
+パート|パート|part-time job|71|兼職；部分|v|彼はアパートに一人で住んでいます。|他一個人住在公寓裡。|He lives alone in his flat.
+ビジョン|ビジョン|vision, foresight, prospect|71|願景；視野；遠見|v|あなたは自分の将来のビジョンを持っていますか。||Do you have a vision of your future?
 ファ|ファ|fa, fah|71|發；音階第四音|h|ファックスの送り方が分からない。|我不知道如何傳真。|I don't know how to send a fax.
 フレンズ|フレンズ|friends|71|朋友；好友|h|||
 ヘ|ヘ|6th, f, vi|71|第六音|h|||
-ボーカル|ボーカル|vocal, vocals, singing, vocalist|71|歌手；人聲；主唱|h|トムはうちのバンドのボーカルの一人です。||Tom is one of the singers in my band.
+ボーカル|ボーカル|vocal, vocals, singing, vocalist|71|主唱；人聲；聲樂|v|トムはうちのバンドのボーカルの一人です。||Tom is one of the singers in my band.
 マーケティング|マーケティング|marketing|71|營銷；市場營銷|b|通信販売がダイレクト・マーケティングの主な形態である。|郵購是直接銷售的主要形式。|Mail order is the main form of direct marketing.
 ラム|ラム|lamb, lamb|71|小羊；羊羔|b|ラム肉より牛肉の方が好きです。|比起羊肉我更喜歡牛肉。|I like beef more than lamb.
 リツイート|リツイート|retweet|71|轉推；轉發|h|||
@@ -8683,18 +8683,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 優先|ゆうせん|preference, priority|71|優先|h|何よりも安全を優先すべきだよ。|你應該把安全放在其他一切之上。|You should put safety before everything else.
 優越|ゆうえつ|supremacy, predominance, being superior to|71|優越；超越|h|他人に対して優越感を持ってはいけない。||You should not feel superior to other people.
 冷蔵|れいぞう|refrigeration|71|冷藏|a|赤い冷蔵庫を見たことがない。|我從沒見過紅色的冰箱。|I've never seen a red refrigerator.
-処置|しょち|treatment|71|措施；度量|b|彼は裁判官に寛大な処置を願った。||He pleaded with the judge for mercy.
+処置|しょち|treatment|71|處理；處置；治療|v|彼は裁判官に寛大な処置を願った。||He pleaded with the judge for mercy.
 分子|ぶんし|numerator, molecule|71|分子|a|有機物というのは大きな分子から形成されている。||Organic matter is formed by large molecules.
 分離|ぶんり|separation, detachment, segregation|71|分離；分開|h|最高裁が人種分離教育を攻撃。||The Supreme Court attacks school segregation.
 切開|せっかい|opening up, cutting through|71|切口|b|半年前に帝王切開しました。||I had a Caesarian section six months ago.
 励ます|はげます|to encourage, to cheer, to raise|71|鼓勵；激勵|b|||
 勇敢|ゆうかん|bravery, heroism, gallantry|71|勇；血性|b|彼女は女の子だが、勇敢だ。|她是個女孩，但她勇敢。|She's a girl, but she's brave.
-動き|うごき|movement, activity, trend|71|動態；樂章|b|ダンサーの１つ１つの動きは完璧だった。|這舞者的每一個動作都是完美的。|Each movement of the dancer was perfect.
+動き|うごき|movement, activity, trend|71|動作；動向；活動|v|ダンサーの１つ１つの動きは完璧だった。|這舞者的每一個動作都是完美的。|Each movement of the dancer was perfect.
 勝る|まさる|to excel, to surpass, to out-rival|71|勝過|b|健康が富に勝ることは言うまでもない。|健康勝過財富，這件事誰都知道。|It goes without saying that health is above wealth.
 募る|つのる|to invite, to solicit help, participation|71|招募；募集；越來越強|h|寒さは募る一方です。||It keeps getting colder.
 単体|たんたい|simple substance, something standing alone|71|單體；單獨個體|h|||
 即座に|そくざに|immediately, right away|71|立即；隨即|b|消防士たちは即座に火事を消した。||The firefighters put out the fire on the spot.
-及ぶ|およぶ|to reach, to extend|71|達成|b|博識の点で彼に及ぶものはいない。||No one can approach him in wideness of knowledge.
+及ぶ|およぶ|to reach, to extend|71|達到；及；比得上|v|博識の点で彼に及ぶものはいない。||No one can approach him in wideness of knowledge.
 取り扱い|とりあつかい|treatment, service, handling|71|待遇|b|刃物の取り扱いには注意しなさい。||You should be careful with a knife.
 右側|みぎがわ|right side, right-hand side|71|右側；右邊|a|アメリカでは、車は右側通行です。||In America, cars drive on the right side of the road.
 合わす|あわす|to join together, to face, to unite|71|相符；相稱|b|私は収支を合わすのに苦労しました。||I had a hard time making both ends meet.
@@ -8722,7 +8722,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 寸前|すんぜん|just before, on the verge of, on the brink of|71|眼看就要；臨近|h|かわいそうにその子供は餓死寸前だった。|那可憐的孩子快餓死了。|The poor child was on the verge of starvation.
 対面|たいめん|interview, meeting|71|會面；見面|d|初対面の人と友達になるのって難しいね。||Meeting new people and making new friends is hard.
 専修|せんしゅう|specialization|71|專業化|b|||
-尊ぶ|とうとぶ|to value, to prize, to esteem|71|值；估價|b|イギリス人は自由を尊ぶ国民である。||The English set a high value on freedom.
+尊ぶ|とうとぶ|to value, to prize, to esteem|71|尊重；珍視|v|イギリス人は自由を尊ぶ国民である。||The English set a high value on freedom.
 尽くす|つくす|to exhaust, to run out, to devote|71|盡；窮盡|b|大事なのは全力を尽くすかどうかだ。|重要的是你有沒有竭盡全力。|The important thing is whether you do your best or not.
 島根|しまね|Shimane, island country|71|島根|h|島根県の県庁所在地は松江市です。||Shimane Prefecture's capital is Matsue City.
 巡り|めぐり|circumference, girth, tour|71|巡迴；周圍；周長|d|道に迷ったらお巡りさんに尋ねなさい。|如果你迷路了，請向警察詢問。|If you lose your way, ask a policeman.
@@ -8731,16 +8731,16 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 座り|すわり|sitting, stability|71|坐；穩定|d|みんなが彼女のそばに座りたがる。|大家都想坐在她旁邊。|Everybody wants to sit beside her.
 廃止|はいし|abolition, repeal|71|廢止|a|我々は死刑を廃止すべきである。|我們應該廢除死刑。|We should abolish the death penalty.
 弦|つる|bowstring, string|71|弦；琴弦|d|このつる草は木にからみつきます。||This vine winds around trees.
-後継|こうけい|succession, successor|71|世襲；嗣|b|国王の長男は、王座の後継者である。||The king's eldest son is the heir to the throne.
+後継|こうけい|succession, successor|71|繼承；繼任者|v|国王の長男は、王座の後継者である。||The king's eldest son is the heir to the throne.
 復活|ふっかつ|revival, restoration|71|復活|a|いわば彼は死から復活したのだ。||He rose from the dead, so to speak.
 必見|ひっけん|must-see, not-to-be-missed|71|必看|h|||
 忌諱|きき|displeasure, offense, offence|71|忌諱；不悅|h|||
 忍者|にんじゃ|ninja, person trained in ninjutsu and employed for covert purposes in feudal Japan|71|忍者|a|現代の日本に忍者や侍はいません。||Nowadays there are no ninjas or samurais in Japan.
-思考|しこう|thought|71|思想|b|男の人の思考回路って分かんない。||I just don't get the way that men think.
+思考|しこう|thought|71|思考；思維|v|男の人の思考回路って分かんない。||I just don't get the way that men think.
 恐れ|おそれ|fear, horror|71|恐怕；畏懼|b|質問することを恐れていてはだめ。|不要害怕發問。|Don't be afraid to ask questions.
 悪質|あくしつ|malicious, vicious, malignant, shoddy|71|惡毒|b|悪質な迷惑電話、ワンギリにご注意！！||Beware of 'One Ring' malicious nuisance calls!!
 悲惨|ひさん|tragedy, disaster, misery|71|悲慘；慘重|a|台風で多くの悲惨な事態が生じた。||Much misery came about because of the typhoon.
-成す|なす|to form, to make, to constitute, to build up|71|組；格式|b|私は３年で目標を達成する決心をした。|我下定決心要在三年之內達成目標。|I have made up my mind to achieve my goals in three years.
+成す|なす|to form, to make, to constitute, to build up|71|形成；構成；完成|v|私は３年で目標を達成する決心をした。|我下定決心要在三年之內達成目標。|I have made up my mind to achieve my goals in three years.
 成果|せいか|results, fruits|71|成果；效果|a|この本は彼の熱心な研究の成果である。|這本書是他熱心研究的成果。|This book is a result of his enthusiastic research.
 成育|せいいく|growth, raising|71|增殖|b|||
 所定|しょてい|fixed, prescribed|71|規定的；既定的|h|私たちは所定の場所で会った。||We met at the designated spot.
@@ -8762,7 +8762,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 早朝|そうちょう|early morning|71|早上；早晨|b|明日の早朝に出発だよ。|我們明天一大早出發。|We're leaving early tomorrow morning.
 早期|そうき|early stage|71|早期|h|その事件の早期解決を期待する。||We expect an early settlement of the affair.
 昆虫|こんちゅう|insect, bug|71|昆蟲；蟲子|a|昆虫を食べたことがあるのか。|你吃過昆蟲嗎？|Have you ever eaten insects?
-書き込み|かきこみ|writing, entry|71|著述|b|蔵書に書き込みをしないで下さい。||Please do not write in this library book.
+書き込み|かきこみ|writing, entry|71|留言；寫入；填寫|v|蔵書に書き込みをしないで下さい。||Please do not write in this library book.
 未開|みかい|savage land, backward region, uncivilized|71|未開化；未開發|h|その島にはまだ未開の種族がいる。||There are still some savage tribes on that island.
 末期|まっき|deathbed, hour of death|71|末期；臨終|h|今年、祖父を末期癌で亡くしました。||My grandfather succumbed to a terminal cancer this year.
 来店|らいてん|coming to a store|71|來店；到店|h|来週またご来店下さい。||Please come back next week.
@@ -8809,7 +8809,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 発足|ほっそく|starting, inauguration|72|成立；開始|h|||
 盟|めい|aimag, league, administrative subdivision in Mongolia and Inner Mongolia|72|盟；同盟|h|空には無数の星がきらめいていた。||Countless stars were twinkling in the sky.
 目当て|めあて|mark, guide, landmark, purpose|72|馬克；標|b|目当てのお店がすぐに見つかった。||I soon found the store I was looking for.
-目方|めかた|weight|72|重量；權重|b|彼女は目方がふえつつある。||She is gaining in weight.
+目方|めかた|weight|72|重量|v|彼女は目方がふえつつある。||She is gaining in weight.
 目論見|もくろみ|a plan, a scheme, intention|72|計劃；方案|b|その目論見は失敗に終わった。||The attempt ended in failure.
 眉|まゆ|eyebrow|72|眉；眉毛|a|毛深いまゆ毛が彼の顔の特徴だった。||His bushy brows accented his face.
 知名度|ちめいど|degree of familiarity, popularity, name recognition|72|知名度|h|知名度はあるが人気ない。||It's well known, but it's not popular.
@@ -8817,14 +8817,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 称する|しょうする|to take the name of, to call oneself|72|號召；呼|b|私は建築を凍結した音楽と称する。|我將建築稱作被凍結的音樂。|I call architecture frozen music.
 移籍|いせき|transfer|72|調；轉讓|b|||
 種族|しゅぞく|race, tribe, ethnic group, species|72|族；人種|b|世界には実に多くの種族がいます。||There are quite a lot of tribes in the world.
-突っ込み|つっこみ|thrust, charge, penetration, digging into|72|吐槽；插嘴；深入追究|h|彼女は何にでも首を突っ込みたがる。||She is curious about anything.
+突っ込み|つっこみ|thrust, charge, penetration, digging into|72|吐槽；深入追究；衝入|v|彼女は何にでも首を突っ込みたがる。||She is curious about anything.
 第三者|だいさんしゃ|third party, third person, outsider|72|第三者；第三方|a|第三者が解読を試みても、この暗号を解読することはできない。||A potential third party would not be able to crack the code.
 等々|とうとう|etc., et cetera, and so on|72|等等|d|||
 粘り|ねばり|stickiness, viscosity|72|黏性；韌性；堅持|d|彼は粘り強い精神の持ち主だ。||He has a spirit of tenacity.
 精子|せいし|sperm, spermatozoon|72|精子|h|何これ？オムライスに精子入れるなんて，信じられない！||What the hell is this? I can't believe you put sperm in the Omelette Rice.
 精度|せいど|precision, accuracy|72|精度|a|測定には寸分の狂いもない精度が要求される。||Flawless precision is required in the measurements.
 紀伊|きい|Kii|72|紀伊|h|||
-素早い|すばやい|fast, quick|72|靈；快捷|b|そのクモは素早い反撃をする。|這蜘蛛迅速回擊。|The spider responds with a swift attack.
+素早い|すばやい|fast, quick|72|迅速；敏捷|v|そのクモは素早い反撃をする。|這蜘蛛迅速回擊。|The spider responds with a swift attack.
 細やか|こまやか|meager, modest|72|細嫩；溫存|b|細やかなお心遣いに感謝いたします。||I appreciate your attention to detail.
 経過|けいか|passage, progress|72|經過|a|彼が出発して３時間半が経過した。||Three and a half hours have passed since he left.
 結晶|けっしょう|crystal, crystallization|72|結晶；水晶|a|彼女は紙で雪の結晶を作った。||She made a paper snowflake.
@@ -8883,16 +8883,16 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 遮る|さえぎる|to interrupt, to intercept, to obstruct|72|打斷；插嘴|b|||
 遺伝|いでん|heredity, inheritance|72|遺傳|a|一部の疾患の原因は欠陥遺伝子です。|一些疾病的產生原因是基因缺陷。|Some diseases are caused by a defective gene.
 部活|ぶかつ|club activities, extracurricular activities|72|社團活動|h|外国人生徒でも部活動に入れますか？||Can foreign students join this club?
-配置|はいち|arrangement, disposition|72|佈局；條理|b|軍隊は戦闘の配置で整列していた。||The troops were in battle array.
+配置|はいち|arrangement, disposition|72|配置；排列；部署|v|軍隊は戦闘の配置で整列していた。||The troops were in battle array.
 野生|やせい|wild|72|野生|a|野生のコアラは見たことがありません。|沒見過野生無尾熊。|I've never seen a koala in the wild before.
-金槌|かなづち|hammer|72|錘；錘子|b|彼は過って親指を金槌で打ち付けた。||He accidentally hit his thumb with the hammer.
+金槌|かなづち|hammer|72|鐵鎚；旱鴨子|v|彼は過って親指を金槌で打ち付けた。||He accidentally hit his thumb with the hammer.
 銘|めい|inscription, epitaph, engraved signature|72|題詞；銘文|b|空には無数の星がきらめいていた。||Countless stars were twinkling in the sky.
 鑑定|かんてい|judgement, judgment, expert opinion|72|鑑定；鑑別|h|彼は宝石の鑑定には目がきく。||He has a sharp eye for jewels.
 閉口|へいこう|shut mouth|72|閉口；無言以對|h|めちゃくちゃな演奏に閉口した。||That weird performance was a turn-off.
 閉店|へいてん|closing up shop, stopping business|72|打烊；歇業|h|１１時に閉店します。|商店十一點關門。|The store closes at eleven.
 開業|かいぎょう|opening a business, opening a practice|72|開業；開店|h|彼の職業は医者で町で開業した。||He was a doctor by profession and he had a practice in the town.
 関数|かんすう|function, function|72|函數；職能|b|次の関数の最大値と最小値を求めよ。||Find this function's global maximum and global minimum.
-閲覧|えつらん|inspection, reference, browse|72|檢查；稽查|b|定期雑誌類は閲覧室より帯出禁止。||Periodicals may not be removed from the reading room.
+閲覧|えつらん|inspection, reference, browse|72|瀏覽；閱覽|v|定期雑誌類は閲覧室より帯出禁止。||Periodicals may not be removed from the reading room.
 闇|やみ|darkness, shady, illegal|72|闇|a|雪が降りやみました。|雪停了。|It's stopped snowing.
 除|じょ|division|72|除法|b|私は前と同じようにじょうぶです。||I'm as strong as before.
 陳列|ちんれつ|exhibition, display, show|72|陳列；展示|h|有名な陶器が陳列されている。||Famous china is on display.
@@ -8908,7 +8908,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 驚異|きょうい|wonder, miracle|72|驚異；驚奇|d|彼は驚異的な記憶力を持っていた。||He had a wonderfully powerful memory.
 魔器|まき|magical focus, magical foci|72|魔器；法器|h|||
 麻雀|マージャン|mahjong, mah-jongg|72|麻雀；麻將|a|彼は麻雀が上手だそうです。|我聽說他打麻將很厲害。|I hear he is good at mahjong.
-黒字|くろじ|balance in the black|72|黑；黑色|b|日本の貿易黒字は史上最高を記録しました。||Japan's trade surplus soared to a record high.
+黒字|くろじ|balance in the black|72|盈餘；黑字|v|日本の貿易黒字は史上最高を記録しました。||Japan's trade surplus soared to a record high.
 鼕々|とうとう|beating, rushing|72|咚咚；鼓聲|h|||
 あおい|あおい|mallow, Asarum caulescens|72|葵；錦葵|h|彼はあおいで火をおこした。||He fanned the fire into flame.
 あんず|あんず|apricot|72|杏；杏子|b|あんずの花が満開だ。||The apricot trees are in full blossom.
@@ -8922,17 +8922,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 さっと|さっと|suddenly, smoothly|72|迅速；突然；乾脆|h|彼は絵筆をカンバスにさっと走らせた。|他將畫筆在畫布上輕輕一揮。|He swept his brush across the canvas.
 さも|さも|with gusto, with satisfaction|72|真；實在|b|だまれ、さもないとほうり出されるぞ。|住嘴，不然我就把你趕出去咯。|Shut up. If you don't, you'll be thrown out.
 そういや|そういや|which reminds me ..., come to think of it ..., now that you mention it ...|72|說起來；經你一提|h|母語だって、完璧に使いこなせる人なんてそうそういやしない。||There does not exist any person with truly perfect command over a language, even their native language.
-たか|たか|hawk, falcon|72|叫賣|b|メールをチェックしたかっただけ。|我只想查一下我的電子郵件。|I just wanted to check my email.
+たか|たか|hawk, falcon|72|鷹；數量|v|メールをチェックしたかっただけ。|我只想查一下我的電子郵件。|I just wanted to check my email.
 たし|たし|want to ... do something, would like to ...|72|想要；希望|h|買うかどうかはあなたしだいです。|買不買由你決定。|It's up to you whether to buy it or not.
 だからこそ|だからこそ|for this very reason, that is exactly why|72|正因如此；所以才|h|だからこそ、車で行くなといったんですよ。||That's why I told you not to go by car.
 どら|どら|gong, tam-tam|72|鑼；銅鑼|b|１０時までにもどらねばならない。||You must be back by 10 o'clock.
 はらわた|はらわた|intestines, bowels, entrails|72|腸道；腸|b|はらわたの煮えくり返る思いをした。||I was having thoughts that made my blood boil.
 ばれる|ばれる|to leak out, to come out, to be exposed|72|透露|b|名前が呼ばれるのを聞いた。|我聽到我的名字。|I heard my name called.
-まめ|まめ|diligent, hardworking, conscientious, healthy|72|用功|b|その靴のせいでまめができちゃった。||Those shoes gave me blisters.
+まめ|まめ|diligent, hardworking, conscientious, healthy|72|勤快；健康；豆子|v|その靴のせいでまめができちゃった。||Those shoes gave me blisters.
 りんご|りんご|apple, apple tree|72|蘋果|b|りんごの木はすべて切り倒された。|所有蘋果樹都被砍倒了。|All the apple trees were cut down.
 アイコ|アイコ|iced coffee|72|冰咖啡|d|骸骨のアイコンより、こっちのアイコンの方が絶対いいって。私が保証する。||This icon is definitely better than the skeleton one. I'm sure of it.
 アド|アド|ad, advertisement|72|廣告|d|アドバイスありがとうございます。|謝謝你的建議。|Thank you for your advice.
-ウェア|ウェア|wear, clothing, dress|72|身穿；佩戴|b|このソフトウェア、どうやったらアップデートできるの？|我如何才能更新這個軟體呢？|How can I update this software?
+ウェア|ウェア|wear, clothing, dress|72|服裝；軟體|v|このソフトウェア、どうやったらアップデートできるの？|我如何才能更新這個軟體呢？|How can I update this software?
 ウルトラ|ウルトラ|ultra|72|超級；超|h|うちの娘はウルトラマンが好きだ。||My daughter likes Ultraman.
 エコ|エコ|ecological, eco-|72|環保；生態|h|エコノミーサイズの車を希望されますか。||Do you want an economy-size car?
 オープニング|オープニング|opening, start, launch, opening credits|72|開局；揭幕|b|このオープニング、見た瞬間引きこまれた。||I was pulled in the moment I saw this opening.
@@ -8973,8 +8973,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ロープ|ロープ|rope|72|繩；繩索|b|彼は両手でロープをしっかり握っていた。|他用兩隻手抓住了繩子。|He grasped the rope with two hands.
 ワンマン|ワンマン|one-man, tyrant|72|獨裁；一人獨攬|h|||
 一時期|いちじき|a period|72|時期；朞|b|私は一時期、天体物理学者になりたかった。|我曾經想過當個太空物理學家。|I once wanted to be an astrophysicist.
-一環|いっかん|link, part|72|連；相連|b|政府は取締の一環として不法入国外国人を追放しています。||The government is expelling illegal aliens as part of a crackdown.
-上昇|じょうしょう|rising, ascending, climbing|72|新興|b|土地の価格は毎年上昇している。|土地價格每年都在上漲。|Land prices are running higher every year.
+一環|いっかん|link, part|72|一環；一部分|v|政府は取締の一環として不法入国外国人を追放しています。||The government is expelling illegal aliens as part of a crackdown.
+上昇|じょうしょう|rising, ascending, climbing|72|上升；上漲|v|土地の価格は毎年上昇している。|土地價格每年都在上漲。|Land prices are running higher every year.
 上海|シャンハイ|Shanghai|72|上海|h|私たち、北京と上海に行きたいの。|我們要去北京，也要去上海。|We want to go to Beijing and Shanghai.
 上部|じょうぶ|top part, surface|72|上部；上層|h|ページの上部の写真を見てごらんなさい。|請看看頁頂的圖片。|Look at the picture at the top of the page.
 下半身|かはんしん|lower half of the body, nether parts|72|下半身|h|||
@@ -9004,7 +9004,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 公用|こうよう|government business, public use, public expense|72|公務|b|スイスには幾つかの公用語がある。||Switzerland has several official languages.
 共稼ぎ|ともかせぎ|working together, earning a living together|72|雙薪家庭；共同工作|h|今では多くの家庭が共稼ぎで、夫と妻の両方が働いている。||Many families now have two breadwinners with both husbands and wives working.
 冷淡|れいたん|coolness, indifference|72|冷淡；涼|a|私の演説は冷淡な沈黙で迎えられた。||My speech was greeted with cold silence.
-刃|は|blade, sword|72|邊沿|b|||
+刃|は|blade, sword|72|刀刃；劍|v|||
 分裂|ぶんれつ|split, division, break up|72|分裂；裂|a|インフレ問題が党を分裂させた。||The inflation issue split the party.
 切れ目|きれめ|break, pause, gap|72|間隔；空子|b|小泉さんは話の切れ目のない人です。||Mr. Koizumi talks endlessly without stopping.
 初音|はつね|first warbling heard in a New Year|72|初次鳴叫；新年初鳴|h|||
@@ -9017,7 +9017,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 卓球|たっきゅう|table tennis, ping-pong|73|乒乓球；桌球|b|ピンポンは卓球とも呼ばれている。||Ping pong is also called table tennis.
 単行|たんこう|going alone, travelling by oneself, doing independently|73|獨自前往；單行本|h|||
 原点|げんてん|origin|73|原點；起點|a|原点を中心とする半径2の円と，直線 y = x − 1 の交点を求めよ。|已知一個以原點為圓心，半徑為2的圓，請求出它與直線 y = x - 1 的交點。|Consider a circle of radius 2 centered at the origin. Find its points of intersection with the line y = x - 1.
-厳密|げんみつ|strict, close|73|整肅；森嚴|b|厳密に言うと、トマトは果物です。|嚴格地講，番茄是水果。|Strictly speaking, the tomato is a fruit.
+厳密|げんみつ|strict, close|73|嚴密；精密|v|厳密に言うと、トマトは果物です。|嚴格地講，番茄是水果。|Strictly speaking, the tomato is a fruit.
 参上|さんじょう|calling on, visiting|73|拜訪；登門|h|腰痛のため、小泉さんのパーティー に参上いたしません。||Due to my lumbago, I won't be able to attend Koizumi's party.
 収容|しゅうよう|accommodation, seating, custody|73|收容；容納|h|このホールは５０００人収容できる。|這個大廳可以容納5000個人。|This hall can hold 5,000 people.
 収集|しゅうしゅう|gathering up, collection|73|收集；蒐集|h|洋子は、切手の収集に興味がある。|洋子有收集郵票的興趣。|Yoko is interested in collecting stamps.
@@ -9026,7 +9026,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 同級|どうきゅう|the same grade, same class|73|同年級；同班|h|私の姉は高校時代の同級生と結婚しました。|我的姐姐嫁給了她的高中同學。|My sister married one of her high school classmates.
 名簿|めいぼ|register of names|73|名冊；名單|h|名簿に私の名前も追加してください。|請在名單上加上我的名字。|Please add my name to the list.
 名義|めいぎ|name, formal name, published name|73|名義；名|a|彼は娘の名義で毎月収入から１万円貯蓄した。||Every month, he saved ten thousand yen out of his income for his daughter.
-周期|しゅうき|cycle, period|73|循環|b|その活火山は周期的に噴火する。||The active volcano erupts at regular intervals.
+周期|しゅうき|cycle, period|73|週期；循環|v|その活火山は周期的に噴火する。||The active volcano erupts at regular intervals.
 呼びかけ|よびかけ|call, appeal|73|號召；呼|b|大統領は国民に貧窮や病気との戦いで団結するように呼びかけた。|總統呼籲全國民眾在對抗貧窮或疾病的時候，一定要團結一致。|The president called on the people to unite in fighting poverty and disease.
 和解|わかい|reconciliation, amicable settlement, accommodation|73|和解|h|私は、彼らが平和的和解に達する事を望む。|我希望他們能和平地解決。|I hope they can reach a peaceful compromise.
 嘴|くちばし|beak, bill|73|嘴；鳥喙|d|鳥にはくちばしがあります。||Birds have beaks.
@@ -9037,13 +9037,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 外見|がいけん|outward appearance, looks|73|外觀；表象|b|彼の外見にだまされた。|他的外表欺騙了我。|His appearance deceived me.
 多価|たか|polyvalence, multivalence|73|多價|h|||
 多子|たし|large number of children, bearing many children|73|多子|h|||
-多寡|たか|degree, greatness or smallness, quantity|73|份兒|b|||
+多寡|たか|degree, greatness or smallness, quantity|73|多少；數量|v|||
 多指|たし|polydactyly, polydactylism, hyperdactyly|73|多指|h|||
 大概|たいがい|in general, mainly|73|大致；大抵|h|酒もいいが大概にしておきなさい。||It's all right to drink, but drink in moderation.
 大正|たいしょう|Taishō era, Taisho era|73|大正|h|大正12年12月27日に皇太子が難波大助に狙撃された。||On December 27th 1923, the crown prince was shot by Daisuke Namba.
 大衆|たいしゅう|general public|73|大眾|h|彼らの小さな抗議が大衆デモに発展した。|他們小型的示威引發了一場大規模的遊行。|Their small protest triggered a mass demonstration.
-奉る|たてまつる|to offer, to do respectfully|73|提供；開設|b|||
-如く|しく|to match, to equal, to catch up with|73|相符；相稱|b|喉に刺さった棘の如く。|如鯁在喉 。|Just as a thorn stuck in one's throat.
+奉る|たてまつる|to offer, to do respectfully|73|奉獻；恭敬地做|v|||
+如く|しく|to match, to equal, to catch up with|73|如同；比得上|v|喉に刺さった棘の如く。|如鯁在喉 。|Just as a thorn stuck in one's throat.
 妓|ぎ|geisha|73|藝妓|b|||
 学院|がくいん|institute, academy|73|學院|h|私の妹は神戸女学院の３回生です。||My sister is a junior at Kobe College.
 安静|あんせい|rest|73|安靜；休息|a|「先生の容態は？」「絶対安静だ」||"How is her condition?" "She must have absolute bed rest."
@@ -9129,7 +9129,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 水気|みずけ|moisture, dampness|73|水氣|a|||
 沈める|しずめる|to sink, to submerge|73|沉沒；淪|b|彼の善良な性格は、家の中の不和を沈める役割を果たすように見える。||His good nature seems to fulfill the role of reducing the family's trouble.
 液晶|えきしょう|liquid crystal|73|液晶|a|液晶画面は、見にくいなぁ。||You can't see too well with these LCD displays.
-渡り|わたり|crossing, passage, transit, importing|73|路口|b|その道路は気をつけて渡りなさい。||Cross the road with care.
+渡り|わたり|crossing, passage, transit, importing|73|渡過；遷徙；交涉|v|その道路は気をつけて渡りなさい。||Cross the road with care.
 満たす|みたす|to satisfy, to ingratiate, to fill|73|滿足；遂|b|彼らはその条件を満たすことが出来なかった。||They failed to fulfill the conditions.
 滲む|にじむ|to run, to blur, to spread|73|滲出；模糊|h|||
 漏る|もる|to leak, to run out|73|漏洞；洩漏|b|雨が降ると必ず屋根から雨水が漏る。||The roof leaks every time it rains.
@@ -9137,7 +9137,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 無敵|むてき|invincible, unrivaled, unrivalled|73|無敵|h|私たちは無敵のチームです。||We are an invincible team.
 無線|むせん|wireless, radio|73|無線；收音機|a|市の防災行政無線放送が聞こえる。||The city's disaster prevention radio broadcast can be heard.
 無能|むのう|inefficiency, incompetence|73|無能|a|彼の無能ぶりに誰もが苛立ち始めた。||His incompetence began to irritate everyone.
-無言|むごん|silence|73|沉寂；消音|b|無言が記録されたためしはない。||No silence was ever written down.
+無言|むごん|silence|73|沉默；無言|v|無言が記録されたためしはない。||No silence was ever written down.
 煙る|けむる|to smoke|73|抽菸；吸煙|b|||
 独創|どくそう|originality|73|原創性|b|彼は独創力では誰より勝っている。||He is above all others in originality.
 疑|ぎ|doubt, distrust, suspicion|73|疑惑；置疑|b|||
@@ -9147,13 +9147,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 発症|はっしょう|outbreak of an illness, onset of a condition, appearance of symptoms|73|發病|h|||
 盛り上がり|もりあがり|climax, uprush, bulge|73|高潮；熱烈氣氛|d|盛り上がりに欠ける試合だった。||The game lacked excitement.
 盛装|せいそう|be dressed up, wear rich clothes|73|盛裝|a|盛装なさる必要はありません。||You don't have to dress up.
-相応|そうおう|suitability, fitness|73|適宜；妥|b|そのような行為は紳士に相応しくない。|這不是紳士行為。|Such conduct does not become a gentleman.
+相応|そうおう|suitability, fitness|73|相稱；適合；相當|v|そのような行為は紳士に相応しくない。|這不是紳士行為。|Such conduct does not become a gentleman.
 真ん前|まんまえ|right in front, under the nose|73|正前方|h|その店はちょうど駅の真ん前にあります。|那家店就在車站前面。|The shop is just in front of the station.
 研ぐ|とぐ|to sharpen, to grind, to polish|73|磨；研磨|d|||
 神殿|しんでん|temple, sacred place|73|神殿；廟|a|火星上にある神殿には蓮の花が飾ってあります。|火星上的神殿飾有蓮花。|The temples on Mars are decorated with lotus flowers.
 私有|しゆう|private ownership|73|私有|h|彼はわれわれの私有地に不法侵入している、無断で通っている。||He is trespassing on our private property.
 税込み|ぜいこみ|including tax, pretax, before tax|73|含稅|h|それは、税込みの値段ですか。||Does that price include tax?
-穂|ほ|ear, head|73|耳朵；耳|b|||
+穂|ほ|ear, head|73|穗；稻穗|v|||
 究極|きゅうきょく|ultimate, final, eventual|73|究極；終極|h|教育の究極の目標とは何だろうか。|教育的最終目的到底是什麼?|What is the ultimate purpose of education?
 終日|しゅうじつ|all day|73|整天；終日|h|当駅は終日禁煙となっております。||Smoking is prohibited in this train station at all times.
 終盤|しゅうばん|endgame, final stage|73|殘局；終局|b|||
@@ -9162,7 +9162,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 緩やか|ゆるやか|lenient|73|鬆；鬆動|b|この学校は規律がやや緩やかだ。||Discipline is rather mild at this school.
 縵面|なめ|smooth unlettered back surface of an old "zeni" coin|73|無字古錢|h|||
 義|ぎ|morality, righteousness, justice, meaning|73|義；道義|a|||
-老いる|おいる|to age, to grow old|73|時代；年齡|b|生きることは老いること。それだけ。||Living is growing old, nothing more.
+老いる|おいる|to age, to grow old|73|變老；老化|v|生きることは老いること。それだけ。||Living is growing old, nothing more.
 聴講|ちょうこう|lecture attendance, auditing|73|旁聽|h|聴講切符を前もって入手しておかなければならない。||You must get lecture tickets in advance.
 職務|しょくむ|professional duties|73|職務|h|群集が警察の職務執行の妨げになった。|群眾妨礙了警員執行任務。|The crowd obstructed the police in the discharge of their duties.
 臨床|りんしょう|clinical|73|臨床|b|トムはここ5年、嗜癖の臨床治療を続けています。||Tom has been in clinical treatment for addiction for the last five years.
@@ -9239,12 +9239,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 とって|とって|handle, grip, knob|73|把手；柄|d|教師にとって忍耐力は不可欠だ。|耐心對一個教師來說是必需的。|Patience is essential for a teacher.
 ものすごい|ものすごい|terrific, staggering, tremendous, frightful|73|了不得|b|ロケットはものすごいスピードで飛ぶ。|火箭飛得極快。|The rocket travels at a tremendous speed.
 やり直し|やりなおし|redoing, doing over again|73|重做；重來|h|彼は心機一転やり直した。||He turned over a new leaf in life.
-よごれ|よごれ|oceanic whitetip shark|73|白尖鯊；污垢|h|彼は車がよごれていても気にしない。||He doesn't care if his car is dirty.
+よごれ|よごれ|oceanic whitetip shark|73|白邊真鯊；污垢|v|彼は車がよごれていても気にしない。||He doesn't care if his car is dirty.
 アメリカン|アメリカン|American, American-style drip coffee|73|美式咖啡|h|一番近いアメリカンエキスプレスのオフィスはどこにありますか。|最近的美國運通辦公室在哪裡？|Where is nearest American Express office?
 アラン|アラン|Alan|73|艾倫|h|アラン君は運良く税理士試験に合格しました。|艾倫很幸運地考過了稅務師考試。|Allan was lucky and passed the tax accountant examination.
 エリート|エリート|elite|73|菁英；精銳|b|君はいまやエリート集団の一員だ。||You're now among the elite.
 エージェント|エージェント|agent, agent|73|代理人；代理商|b|彼女はFBIのエージェントだ。||She's an FBI agent.
-オン|オン|on, being on the green|73|上；開啟；在場|h|ライオンはジャングルの王様です。|獅子是叢林之王。|The lion is the king of the jungle.
+オン|オン|on, being on the green|73|開啟；在果嶺上|v|ライオンはジャングルの王様です。|獅子是叢林之王。|The lion is the king of the jungle.
 ギャップ|ギャップ|gap, difference|73|間隔；空子|b|データギャップを打開するように簡単な方法論を開発した。||In order to overcome the data gap, I developed a simple methodology.
 クルーズ|クルーズ|cruise|73|巡遊|b|新しい英語の先生、トム・クルーズ似のイケメンらしいよ。||I heard that the new English teacher is a handsome guy who looks like Tom Cruise.
 グローブ|グローブ|glove, mitt|73|手套|b|トムは新しいグローブを見せてくれた。||Tom showed me his new baseball glove.
@@ -9264,7 +9264,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ツイン|ツイン|twin, twin room|74|雙胞胎；孿生|b|今宵の映画は「ツインズ」です。||Tonight's movie will be "Twins".
 ツリー|ツリー|tree, tree|74|樹；木|b|どでかいクリスマスツリーだぁ！||What a big Christmas tree!
 テクノロジー|テクノロジー|technology|74|科技|h|オーバーテクノロジーは英語で何ですか。||What is science fiction technology in English?
-ディスプレイ|ディスプレイ|display, display|74|發揮；羅布|b|||
+ディスプレイ|ディスプレイ|display, display|74|顯示器；展示|v|||
 トラウマ|トラウマ|trauma|74|心理創傷；陰影|h|||
 ナチュラル|ナチュラル|natural, natural|74|天然|b|||
 ナン|ナン|naan, nan|74|馕；印度烤餅|d|ナンシーはうそをついたはずがない。|南希不可能撒謊。|Nancy cannot have told a lie.
@@ -9406,7 +9406,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 日刊|にっかん|daily publication, daily issue|74|日刊|h|その話は、全ての日刊紙に載っていた。||The story was in all daily newspapers.
 星座|せいざ|constellation|74|星座；星宿|a|サミはレイラの星座を知りたかった。||Sami wanted to know Layla's zodiac sign.
 映像|えいぞう|reflection, image|74|映像；形象|a|多くの場合、音楽を聴く時に心に浮かぶ映像はＣＤのアートワークです。|聽歌時腦海裡浮起的影象，許多時候都是唱片的封面。|In many cases, the image that comes to mind when you listen to music is that of the CD's artwork.
-映写|えいしゃ|projection|74|射影|b|彼はその劇場で映写係をやっている。||He's the projectionist at the theater.
+映写|えいしゃ|projection|74|放映；投影|v|彼はその劇場で映写係をやっている。||He's the projectionist at the theater.
 暦|こよみ|calendar, almanac|74|曆；日曆|a|||
 最低限|さいていげん|minimum, at the very least|74|最低限度|h|多くの会社が人員を最低限にまで縮小した。||A lot of companies have pared their staff down to a minimum.
 最速|さいそく|fastest|74|最快|h|あれが世界最速の列車だよ。||That's the fastest train in the world.
@@ -9417,7 +9417,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 概略|がいりゃく|outline, summary, gist|74|綱要；概論|b|彼に計画の概略を述べてもらおう。||Ask him to sketch out his plan.
 構える|かまえる|to set up|74|樹立；立下|b|気長に構える必要があります。||You have to be patient.
 模範|もはん|model, example|74|模範|a|あなたの答案を模範答案と比較しなさい。||Compare your paper with the model one.
-次官|すけ|assistant director|74|專員|b|その次官は政界のボスたちのおかげで地位に留まることができた。||The undersecretary was maintained in office by the political bosses.
+次官|すけ|assistant director|74|次官；副部長|v|その次官は政界のボスたちのおかげで地位に留まることができた。||The undersecretary was maintained in office by the political bosses.
 歯科|しか|dentistry|74|牙科|b|歯科医は彼女の虫歯を引き抜いた。||The dentist pulled out her bad tooth.
 残金|ざんきん|remaining money|74|剩餘款項|h|残金は６月３０日までに御支払いします。||We will pay this amount by June 30.
 母校|ぼこう|alma mater|74|母校|a|ハーバードはトムの母校だよ。||Harvard is Tom's alma mater.
@@ -9443,7 +9443,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 潤う|うるおう|to be moist, to profit by|74|濕潤；受惠|h|このクリーム試してみて、肌がめっちゃ潤うから。||Try this cream. It's so moisturizing.
 無効|むこう|invalid, no effect, unavailable|74|無效|a|脅迫のもとになされた約束は無効だ。||A promise given under a threat is worthless.
 焦る|あせる|to be in a hurry, to be impatient|74|焦急；著急|h|焦るな。落ち着いて選んで。||Don't rush. Choose calmly.
-片手|かたて|one hand, five|74|單手|b|その彼女は重い箱を片手で持ち上げた。|那女孩單手舉起了沉重的箱子。|The girl lifted the heavy box with one hand.
+片手|かたて|one hand, five|74|單手；一手|v|その彼女は重い箱を片手で持ち上げた。|那女孩單手舉起了沉重的箱子。|The girl lifted the heavy box with one hand.
 特技|とくぎ|special talent, skill|74|特長；專長|h|特技はどこでも寝られることです。||My special skill is being able to sleep anywhere.
 独裁|どくさい|dictatorship, despotism|74|獨裁；專政|a|独裁者は司法権を自分のものとした。||The dictator arrogated judicial powers to himself.
 獲物|えもの|game, spoils, trophy|74|獵物；戰利品|h|男は狩人で、女はその獲物である。|男人是獵人而女人就是他的獵物。|Man is the hunter, woman is his game.
@@ -9485,13 +9485,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 自尊心|じそんしん|self-respect, conceit|74|自尊心|a|彼女を支えているのは自尊心です。||It's pride that drives her.
 自我|じが|self, ego|74|自我|a|よく「自我が強い」と言われます。||I'm often told I have a strong ego.
 自覚|じかく|self-conscious|74|自我意識|b|彼は社会人としての自覚に欠ける。||He lacks consciousness that he is a member of society.
-芯地|しんじ|padding, lining, foundation|74|褚|b|||
+芯地|しんじ|padding, lining, foundation|74|襯布；內襯|v|||
 茎|くき|stalk|74|莖|a|みんながとても注意深くきいてきた。||Everyone was listening very carefully.
 落書き|らくがき|scrawl, scribble, graffiti|74|塗鴉；亂寫|d|その壁には一面に落書きがあった。||There were scribbles all along the wall.
 著しい|いちじるしい|remarkable, considerable|74|顯著；明顯|d|両者の間には著しい違いがある。|兩者之間有顯著的差別。|There are noticeable differences between the two.
 蝉|せみ|cicada, locust, small-sized pulley|74|蟬|b|ホームなのに嫌がらせみたいな応援だなぁ。|雖然是主場作戰，但那些歡呼聲（聽起來）像是在嘲笑（我們）吶。|
 衣冠|いかん|kimono and ancient head-dress|75|衣冠；禮服|h|||
-裁つ|たつ|to cut|75|割；切割|b|||
+裁つ|たつ|to cut|75|裁剪|v|||
 襲う|おそう|to attack|75|攻擊；襲擊|b|トラは空腹の時は人を襲うものだ。||A tiger will attack people when it's hungry.
 要件|ようけん|important matter, requirement|75|要件|a|||
 親父|おやじ|one's father, old man, one's boss|75|父親；父|b|「親父これって・・・真剣？」「当たり前だろう、決闘なのだからな」|“爸爸，這是真的劍嗎？”“當然，畢竟這是一場對決。”|"Dad, this a real sword?" "Of course, it is a duel after all."
@@ -9563,7 +9563,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 どぶ|どぶ|ditch, drain, gutter, gap|75|溝|b|金をどぶに捨てるようなものである。||It's money down the drain.
 ぬいぐるみ|ぬいぐるみ|stuffed toy, stuffed animal, plush toy|75|布偶；玩偶|d|僕は本当の魚じゃなくて、ただのぬいぐるみだよ。|我不是一條真的魚，我只是一個長毛絨玩具。|I'm not a real fish, I'm just a mere plushy.
 ねぎ|ねぎ|Welsh onion, Japanese bunching onion, green onion|75|蔥|d|玉ねぎ以外なら、何でも食べるよ。|除了洋蔥我什麼都可以吃。|I can eat anything but onions.
-ひる|ひる|leech|75|吸血鬼|b|組合員たちは反旗をひるがえした。||The union members were up in arms.
+ひる|ひる|leech|75|水蛭；曬乾|v|組合員たちは反旗をひるがえした。||The union members were up in arms.
 まと|まと|mark, target|75|目標；靶心|d|新聞をまとめておくファイルを持っている。|我有一本剪報夾。|I have a newspaper clipping file.
 みかん|みかん|mandarin), mandarin orange, tangerine|75|橘子|h|そのみかんは中が腐っているようだ。|那個橘子裡面好像爛掉了。|The orange appears rotten inside.
 もてる|もてる|to be well liked, to be popular|75|受歡迎；有人緣|h|なぜ彼が成功すると確信がもてるの？||Why are you so sure of his success?
@@ -9601,7 +9601,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 モザイク|モザイク|mosaic, pixelated obscuring in images and video, usu. for censorship|75|馬賽克|b|局部には必ずモザイクをかけて下さい。||Please ensure the genitals are obscured by a mosaic effect.
 ヤード|ヤード|yard|75|碼|d|私たちはもう１００ヤード歩いた。||We walked another hundred yards.
 ヨーグルト|ヨーグルト|yogurt, yoghurt|75|酸奶|b|冷蔵庫にヨーグルトが入ってるよ。||There's yoghurt in the fridge.
-ライス|ライス|rice|75|大米；水稻|b|トムは玉ねぎをスライスしました。||Tom sliced the onion.
+ライス|ライス|rice|75|米飯；稻米|v|トムは玉ねぎをスライスしました。||Tom sliced the onion.
 リトル|リトル|little|75|有點；稍許|b|彼はリトル・ジョンと呼ばれる大男だった。||He was a big man called Little John.
 レーダー|レーダー|radar|75|雷達|b|レーダーで謎の信号を探知した。||The radar detected a mysterious signal.
 並列|へいれつ|arrangement, parallel, abreast|75|平行|b|||
@@ -9648,7 +9648,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 協会|きょうかい|association, society, organization|75|協會；社團|a|トムは全米ライフル協会の会員だ。||Tom is a member of the NRA.
 単発|たんぱつ|firing one shot at a time, single-shot gun|75|單發；單次|h|||
 単調|たんちょう|monotony, monotone, dullness|75|單調|h|毎日の単調な生活にはうんざりだ。||I am tired of the day-to-day routine of life.
-博|はく|doctor, PhD, exposition|75|博士；郎中|b|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
+博|はく|doctor, PhD, exposition|75|博士；博覽會|v|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
 及び|および|and, as well as|75|而；並|b|私の収入は彼のには及びもつかない。||My income is a far cry from his.
 反する|はんする|to be inconsistent with, to oppose, to contradict|75|違反；相反|h|お金を借りる事は私の主義に反する。||It is against my principles to borrow money.
 反論|はんろん|objection, refutation, rebuttal|75|反駁；反論|h|彼は私の陳述に反論した。||He disputed my statement.
@@ -9689,11 +9689,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 張|ちょう|Chinese "Extended Net" constellation|75|張宿；朱雀七宿之一|h|列車は１０時ちょうどに出発した。|列車在十點整出發了。|The train left at ten o'clock on the dot.
 強度|きょうど|strength, intensity, strong|75|強度；實力|a|この金属は強度では鉄に匹敵する。||This metal is comparable to iron in strength.
 御師|おし|low-ranking priest|75|下級神職人員；御師|h|||
-微笑|びしょう|smile|75|微笑；听|a|有名なピアニストは微笑みました。|著名的鋼琴家露出了微笑。|The famous pianist smiled.
+微笑|びしょう|smile|75|微笑|v|有名なピアニストは微笑みました。|著名的鋼琴家露出了微笑。|The famous pianist smiled.
 必殺|ひっさつ|bringing certain death, deadly, knockout|75|必殺；致命；絕殺|d|||
 志向|しこう|intention, aim|75|心意；意向|b|その会社の強さは未来志向の戦略によって生みだされている。||The strength of the firm is attributed to its future-oriented strategy.
 怪獣|かいじゅう|monster|75|怪獸；怪物|a|トムが、ベッドの下に怪獣がいるって言ってたよ。|湯姆說過，床底下有怪獸喔。|Tom said that there was a monster under his bed.
-悟る|さとる|to attain enlightenment, to understand|75|意義；感受|b|事後に事を悟るのは容易だ。||It is easy to be wise after the event.
+悟る|さとる|to attain enlightenment, to understand|75|領悟；覺悟|v|事後に事を悟るのは容易だ。||It is easy to be wise after the event.
 情熱|じょうねつ|passion, enthusiasm, zeal|75|激情|b|どこへ行こうとも情熱は失わない。||Wherever I go, I won't lose my passion.
 感染|かんせん|infection, contagion|75|感染；傳染|h|パソコンがウイルス感染してる。|那臺電腦中毒了。|The computer has a virus.
 憎しみ|にくしみ|hatred|75|仇|b|俺には憎しみの意味が分からない。||I do not know the meaning of hatred.
@@ -9725,13 +9725,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 染め|そめ|dyeing, printing|75|染色；印染|h|布は鮮やかな赤色に染められた。|布被染成鮮紅。|The cloth was dyed bright red.
 植民地|しょくみんち|colony|75|殖民；殖民地|b|ケニアはかつてイギリスの植民地であった。|肯亞曾經是英國的殖民地。|Kenya used to be a British colony.
 検定|けんてい|official certification, official approval, inspection|75|檢定；審定；鑑定|h|日本語検定の二級に受かった。||I passed the second level of the Japanese language examination.
-楽譜|がくふ|score|75|樂譜；比分|a|彼女は楽譜なしにピアノを弾く。||She plays the piano by ear.
+楽譜|がくふ|score|75|樂譜|v|彼女は楽譜なしにピアノを弾く。||She plays the piano by ear.
 権限|けんげん|power, authority, jurisdiction|75|權力；力|b|彼は権限を腕利きの助手に委任した。||He delegated his authority to his competent assistant.
 機密|きみつ|secrecy, highly classified information|75|機密；機要；機密情報|h|彼の秘書は、機密情報は一切漏らしていないと明言した。||His secretary flatly denied leaking any confidential information.
 次第に|しだいに|gradually, by degrees, little by little|75|逐漸；漸漸|b|人々は次第に本来の目的を見失うだろう。|我們都會慢慢忘記自己最初的目的。|People will gradually lose sight of the original purpose.
 武将|ぶしょう|military commander|75|武將；將領|h|||
 気風|きふう|character, traits, ethos|75|文字；質|b|||
-決着|けっちゃく|conclusion, decision, end|75|結論|b|あの件はまだ決着がついてないんだ。||The matter has not been settled yet.
+決着|けっちゃく|conclusion, decision, end|75|解決；結果|v|あの件はまだ決着がついてないんだ。||The matter has not been settled yet.
 治安|ちあん|public order, security|75|治安；公共秩序|a|最近目に見えて治安が悪くなった。||Recently, it's become clear that public order has deteriorated.
 沿岸|えんがん|coast, shore|75|沿岸|a|船は沿岸に向かって急いで進んだ。||The ship made for the shore.
 洗脳|せんのう|brainwashing|75|洗腦|h|トムは洗脳されている。||Tom has been brainwashed.
@@ -9845,7 +9845,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 酸味|さんみ|sourness, acidity|75|酸味|h|チョコレートは少し酸味があるものが好きですね。||You like the slightly sour chocolates, don't you?
 金利|きんり|interest rate, interest|75|利率；利息率|b|そのローンの金利は5.5％だ。||The loan carries 5.5% interest.
 開店|かいてん|opening a new shop, opening a shop|75|開店；開張|h|開店時間は何時ですか。|商店幾點開門啊？|What time does the store open?
-阿叔|おとおじ|uncle|75|叔；老伯|b|||
+阿叔|おとおじ|uncle|75|叔叔|v|||
 階級|かいきゅう|class, rank, grade|75|階級；班級|a|日本の企業は階級性を重要視する。||Japanese companies emphasize hierarchy.
 隔離|かくり|isolation, segregation, separation|75|隔離；隔絕|h|その伝染病患者は他の患者から隔離された。||The infectious case was isolated from other patients.
 雫|しずく|drop|75|水滴；露珠；滴|d|彼の服からしずくが垂れていた。||His clothes were dripping.
@@ -9881,8 +9881,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 わら|わら|straw|75|吸管；秸稈|b|嵐にもかかわらず彼は出ていった。|雖然正在刮暴風雨，但他還是出去了。|He went out in spite of the storm.
 アタック|アタック|attack, attack|75|攻擊；襲擊|b|彼らは山頂にアタックしました。||They made an assault on the summit.
 アナウンス|アナウンス|announcement|75|公報；告示|b|今のアナウンスは何だったのですか。||What did the announcement just say?
-アプリケーション|アプリケーション|application, application software, application|75|申請書|b|Android 用アプリケーションの開発は今日から可能です。||The development of applications for Android is possible from today.
-イレブン|イレブン|eleven, team|75|十一|b|ヤニーはセブンイレブンの店員だった。||Yanni was a 7-Eleven clerk.
+アプリケーション|アプリケーション|application, application software, application|75|應用程式；申請|v|Android 用アプリケーションの開発は今日から可能です。||The development of applications for Android is possible from today.
+イレブン|イレブン|eleven, team|75|十一人；足球隊|v|ヤニーはセブンイレブンの店員だった。||Yanni was a 7-Eleven clerk.
 ウィーン|ウィーン|Vienna|75|維也納|h|彼はハロウィーンで海賊の衣装を着た。|他在萬聖節穿了海盜的服裝。|He wore a pirate costume for Halloween.
 エルフ|エルフ|elf|75|小精靈|b|私はエルフです。||I'm an elf.
 オペラ|オペラ|opera|75|歌劇；歌劇院|h|メアリーはトムをオペラに誘った。|瑪麗邀請湯姆去欣賞歌劇。|Mary asked Tom to go to the opera with her.
@@ -9894,7 +9894,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ギャンブル|ギャンブル|gambling|75|博彩|b|彼はギャンブルの借金で破産した。||He went bankrupt because of gambling debts.
 クリーン|クリーン|clean|75|乾淨；清潔|b|トムはスクリーンに釘付けだった。||Tom's eyes were glued to the screen.
 ゲージ|ゲージ|gauge|75|量規；規格；計量器|h|満腹ゲージのドラムスティックが３本以下になるとダッシュできなくなります。||You can't sprint if your food bar is at under three drumsticks.
-コンサルタント|コンサルタント|consultant|75|參議|b|私は経営コンサルタントです。||I'm a management consultant.
+コンサルタント|コンサルタント|consultant|75|顧問|v|私は経営コンサルタントです。||I'm a management consultant.
 コント|コント|conte, short story, tale, comedy sketch|75|短劇；小品；喜劇短篇|h|誰も私達をコントロールできない。||Nobody can control us.
 コンパクト|コンパクト|compact, compact|75|緊湊|b|コンパクトで携帯しやすい辞書がいるな。||I really need an easy to carry dictionary that's compact.
 コンプレックス|コンプレックス|complex, inferiority complex, complex|75|複合；情結|b|||
@@ -9923,7 +9923,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 プリンス|プリンス|prince|75|王子；親王|b|僕はケモナー界のプリンスマイルズだよ！||I'm Miles, Prince of the Furry Realm!
 プレッシャー|プレッシャー|pressure|75|壓力；施壓|b|プレッシャーをかけるつもりはない。||I don't want to pressure you.
 ホイール|ホイール|wheel|75|車輪；輪子|b|彼の車にはホイールがありません。||His car has no wheels.
-ポテト|ポテト|potato, French fries|75|土豆；馬鈴薯|b|もっとポテトチップスをご自由に召し上がれ。|隨意多吃點洋芋片吧。|Help yourself to more potato chips.
+ポテト|ポテト|potato, French fries|75|馬鈴薯；薯條|v|もっとポテトチップスをご自由に召し上がれ。|隨意多吃點洋芋片吧。|Help yourself to more potato chips.
 マクドナルド|マクドナルド|MacDonald, Macdonald, Mcdonald, McDonald's|75|麥當勞|d|マクドナルドで朝食を食べませんか。|你覺得在麥當勞吃早餐如何？|What do you think about having breakfast at McDonald's?
 マザー|マザー|mother, motherboard|75|母親；母|b|マザー・テレサはノーベル賞を受賞した。|特蕾莎修女被授予諾貝爾獎。|Mother Teresa was given the Nobel prize.
 マレーシア|マレーシア|Malaysia|75|馬來西亞|d|私はマレーシアに住んでいます。|我在馬來西亞居住。|I live in Malaysia.
@@ -9971,8 +9971,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 傾斜|けいしゃ|inclination, slope, dip|76|傾斜；志趣|a|屋根は鋭い角度で傾斜している。||The roof slopes sharply.
 八王子|はちおうじ|Hachiōji|76|八王子|h|||
 内部|ないぶ|interior, inside, internal|76|內部|a|炭鉱の内部に多くの労働者が閉じ込められた。|許多勞動者受困在煤礦場中。|Many workers were trapped in the coal mine.
-円滑|えんかつ|harmony, smoothness|76|光滑；潤滑|b|彼は、中国語をしっていたので、私たちは計画を円滑に実行できた。||His knowledge of Chinese enabled us to carry out our plan smoothly.
-写し|うつし|copy, duplicate|76|拷貝；文案|b|彼は友達のノートを正確に写した。||He copied his friend's notebook with precision.
+円滑|えんかつ|harmony, smoothness|76|圓滑；順利|v|彼は、中国語をしっていたので、私たちは計画を円滑に実行できた。||His knowledge of Chinese enabled us to carry out our plan smoothly.
+写し|うつし|copy, duplicate|76|抄本；副本|v|彼は友達のノートを正確に写した。||He copied his friend's notebook with precision.
 出資|しゅっし|investment, contribution, financing|76|投資|b|彼らは出資を切り詰めるでしょう。||They will cut down on their expenses.
 刷り|すり|printing|76|印刷；印刷品；印刷版|d|私達は招待状を５０通刷りました。||We ran off 50 copies of the invitation.
 創設|そうせつ|establishment, founding, organization|76|創設；設立；成立|h|その大学は２０年前に、彼の父によって創設された。|大學在20年前由他的父親建立。|The university was founded by his father twenty years ago.
@@ -10022,7 +10022,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 封鎖|ふうさ|blockade, freezing|76|封鎖；圍堵|a|警察はそのエリアを封鎖した。|警察封鎖了那片區域。|The police have blocked off the area.
 小川|おがわ|stream, brook, creek|76|浜；溪流|b|私の家の近くを小川が流れている。||A small stream runs by my house.
 就活|しゅうかつ|job hunting, job searching|76|求職活動；找工作|h|就活どんな感じ？||How's job hunting going?
-居場所|いばしょ|whereabouts, place, location, place where one belongs|76|下落；行蹤|b|彼の居場所が分かっていればなあ。||I wish I knew where he was!
+居場所|いばしょ|whereabouts, place, location, place where one belongs|76|住處；容身之處；下落|v|彼の居場所が分かっていればなあ。||I wish I knew where he was!
 崩し|くずし|simplification|76|簡單化|b|トムはバランスを崩して転んだ。|湯姆失去平衡，跌倒了。|Tom lost his balance and fell down.
 巡回|じゅんかい|going around, patrol, round|76|巡迴；巡視；巡邏|d|ある夜、高校の巡回中、幽霊を見た。||One night while patrolling the high school, I saw a ghost.
 左利き|ひだりきき|left-handedness, sake drinker, left-hander|76|左撇子；善飲的人|d|私は私の左利きの彼と共通点がない。||I don't have much in common with my left-handed boyfriend.
@@ -10094,7 +10094,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 漏らす|もらす|to let leak, to reveal|76|洩漏；漏出；透露|d|医師が患者の秘密を漏らすのは道義にもとる。||It is not ethical for a doctor to reveal confidences.
 演習|えんしゅう|practice, exercise, drill, military exercise|76|實踐；練|b|明日は運動会の予行演習につき、通常の授業はありません。|明天是運動會的排練，沒有往常的課程。|Tomorrow there will be no normal lessons, in view of the athletic meet rehearsal.
 炭素|たんそ|carbon|76|碳|b|樹木は酸素を排出し、二酸化炭素を吸収する。|樹木排出氧氣，吸收二氧化碳。|Trees give off oxygen and absorb carbon dioxide.
-無双|むそう|peerless, unparalleled, unparallelled, mowing down the enemy|76|聖|b|彼は、古今無双の詩人である。||He is as great a poet as ever lived.
+無双|むそう|peerless, unparalleled, unparallelled, mowing down the enemy|76|無雙；無敵|v|彼は、古今無双の詩人である。||He is as great a poet as ever lived.
 無理やり|むりやり|forcibly, by force, against one's will|76|強行；硬是；強迫地|h|警察は彼女を無理やり白状させた。||The police forced a confession from her.
 無用|むよう|useless, needlessness, unnecessariness|76|無用；沒用|a|自然の中には無用なものは何もない。||There is nothing useless in nature.
 無論|むろん|of course, naturally|76|當然；自不待言；無論如何|d|彼は英語は無論のこと、フランス語も話します。||He speaks French, not to speak of English.
@@ -10162,7 +10162,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 貧乏|びんぼう|poverty, destitute, poor|76|貧苦；窘迫|b|彼は若い頃、ひどい貧乏だった。|他年輕的時候窮困潦倒。|He was terribly poor when he was young.
 貨幣|かへい|money, currency, coinage|76|貨幣；幣|a|貨幣は銀行制度を通じて流通する。||Money circulates through the banking system.
 貫く|つらぬく|to go through|76|通|b|光は闇を貫く。||The light penetrates the darkness.
-起用|きよう|appointment, being used for a role, promotion|76|約會|b|最終回にピンチヒッターが起用された。||A pinch hitter was brought into action in the last inning.
+起用|きよう|appointment, being used for a role, promotion|76|起用；任用|v|最終回にピンチヒッターが起用された。||A pinch hitter was brought into action in the last inning.
 軒並|のきなみ|row of houses, uniformly|76|鱗次櫛比；家家相連；一律地|h|||
 軸|じく|axis, stem, shaft|76|軸；主軸|a|彼女は私と同じくらいの年齢です。|她大約跟我同年紀。|She's about my age.
 辿る|たどる|to follow, to follow up|76|循著；追溯；摸索前行|d|その電話は南デトロイトからであると辿ることができた。||The call was traceable to an address in south Detroit.
@@ -10203,7 +10203,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 かえって|かえって|on the contrary, rather, instead|76|反而；反倒；相反地|h|事故は減らずにかえって多くなっている。|事故沒減少而增加。|Instead of fewer accidents there are more.
 かさむ|かさむ|to pile up, to increase|76|增加；累積；膨脹|h|||
 きつね|きつね|fox, fox|76|狐|b|きつねの尾はウサギのより長い。||The tail of a fox is longer than that of a rabbit.
-ささら|ささら|small, little, fine, fine pattern|76|小；小可|b|||
+ささら|ささら|small, little, fine, fine pattern|76|竹刷；細小|v|||
 ざあ|ざあ|if it is not ..., if it does not ...|76|那麼；那就；若非|h|ざあっと雨が降ってきた。||Down came the rain in torrents.
 なんだ|なんだ|what!, oh, what the heck|76|什麼嘛；原來是；怎麼了|h|なんてすばらしい家族なんだろう。|多美好的家庭啊！|What a wonderful family.
 のたまわく|のたまわく|according to ..., ... says|76|根據；據|b|||
@@ -10239,7 +10239,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タカ|タカ|taka|76|鷹；鷹派|h|レンタカーの予約もお願いします。||I would also like to rent a car.
 ダース|ダース|dozen|76|一打|b|卵は１ダース単位で売られる。|蛋是按打賣的。|Eggs are sold by the dozen.
 トランス|トランス|transformer|76|變壓器|b|車はエントランスにあります。||The car is at the entrance.
-トレーナー|トレーナー|trainer|76|教練機|b|トムはドッグトレーナーです。||Tom is a dog trainer.
+トレーナー|トレーナー|trainer|76|訓練師；運動衫|v|トムはドッグトレーナーです。||Tom is a dog trainer.
 ナース|ナース|nurse|76|護士；看護|b|僕はあなたはナースだと思った。||I thought that you were a nurse.
 ネス|ネス|-ness|76|…性；…度|h|彼は、お父さんのビジネスを引き継ぎました。|他接手了他父親的公司。|He has taken over his father's business.
 バッジ|バッジ|badge|76|徽章；徽|b|誰か僕のバッジ見なかった？||Has anyone seen my badge?
@@ -10250,7 +10250,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 フッ|フッ|hah, pooh, pfft|76|哼；噗；呸|h|彼は野球もフットボールも好きではない。|他既不喜歡棒球，又不喜歡足球。|He likes neither baseball nor football.
 フック|フック|hook, hook|76|鉤；鉤子|b|タオルはフックに掛かってるよ。||A towel is hanging on the hook.
 フラ|フラ|hula|76|草裙舞；夏威夷舞|d|彼はフランス語がすらすら読める。|他能很好地讀懂法語。|He has a good reading knowledge of French.
-フラグ|フラグ|flag, boolean value, something that foreshadows a future event or outcome|76|國旗；旂|b|実家に行くことになったの？それってめっちゃ結婚フラグたってるじゃん！||You'll be going to visit their parents' house? That's a strong sign they want to marry you!
+フラグ|フラグ|flag, boolean value, something that foreshadows a future event or outcome|76|旗幟；立旗（預兆）|v|実家に行くことになったの？それってめっちゃ結婚フラグたってるじゃん！||You'll be going to visit their parents' house? That's a strong sign they want to marry you!
 ブザー|ブザー|buzzer|76|蜂鳴器；警報器；蜂鳴聲|d|社長はブザーで秘書を呼んだ。||The boss buzzed his secretary.
 ブリッジ|ブリッジ|bridge, bridge|76|橋；橋梁|b|彼はケンブリッジ大学を優等で卒業した。|他以優異的成績畢業於劍橋大學。|He graduated from Cambridge with honors.
 ブーム|ブーム|boom|76|咚；轟鳴|b|韓流ドラマブームに便乗して、韓国の製品を売る業者が増えた。|隨著韓劇的熱潮，賣韓國產品的業者增加了。|Taking advantage of the popular boom in Korean drama, workers selling Korean goods have increased.
@@ -10262,7 +10262,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 メロン|メロン|melon|76|哈密瓜；甜瓜|h|そのメロンをきって６等分しなさい。||Cut the melon into six equal pieces.
 ヤクルト|ヤクルト|Yakult, Tokyo Yakult Swallows|76|養樂多；養樂多燕子隊|d|||
 ヤンキー|ヤンキー|delinquent, Yankee|76|小混混；太妹；不良少年|h|警官がヤンキーに足を撃たれた。||The policeman was shot in the leg by a delinquent.
-ルーズ|ルーズ|loose|76|胡亂；草率|b|彼女はいつも時間にルーズだ。||She is always careless about time.
+ルーズ|ルーズ|loose|76|鬆散；散漫|v|彼女はいつも時間にルーズだ。||She is always careless about time.
 一見|いっけん|a look, a glimpse, glance|76|模樣；長得|b|あの店、一見さんでも入れるのかな。||I wonder if that restaurant accepts unfamiliar customers.
 上回る|うわまわる|to exceed|76|越；超|b|もちろん利潤は生産費を上回るべきです。||Benefits of course should exceed the costs.
 下がり|さがり|fall, decline, lowering, string apron|76|掉；下跌|b|電気料金が値下がりした。|電費下調了。|Electricity prices went down.
@@ -10281,14 +10281,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 仮説|かせつ|hypothesis, supposition, assumption|76|假說|a|諸事実がこの仮説を実証している。||The facts bear out this hypothesis.
 任務|にんむ|duty, mission, task|76|職責；責|b|大使はその任務に対して責任がある。||The ambassador is responsible for the assignment.
 伝達|でんたつ|transmission|76|傳達|a|水は空気よりも音をよく伝達する。||Water transmits sound better than air.
-伺い|うかがい|call, visit, inquiry|76|號召；呼|b|明日お伺いしてもよろしいですか。||Do you mind if I call on you tomorrow?
-保管|ほかん|custody, safekeeping, storage|76|要錢|b|その書類に関しては私が保管しています。|至於該檔案，我在保管。|As for the papers, I have custody of them.
+伺い|うかがい|call, visit, inquiry|76|拜訪；請示；詢問|v|明日お伺いしてもよろしいですか。||Do you mind if I call on you tomorrow?
+保管|ほかん|custody, safekeeping, storage|76|保管；保存|v|その書類に関しては私が保管しています。|至於該檔案，我在保管。|As for the papers, I have custody of them.
 債務|さいむ|debt, liabilities, obligation to a person or party|76|債務；債|a|あの男の人は多重債務者である。||That man has many debts.
 儲け|もうけ|profit, earnings, stroke of luck|76|盈利；獲利|b|彼は株でかなり儲けている。|他炒股賺很多錢。|He's making a lot of money in the stock market.
 先代|せんだい|family predecessor, previous age, previous generation|76|上一代；前任；先人|h|||
 先着|せんちゃく|first arrival|76|先到；先到者；先來先得|h|先着順に並んでください。||Please line up in order of arrival.
 入手|にゅうしゅ|obtaining, coming to hand|76|取得；入手；獲得|h|この商品は相当入手が困難ですよ。|這件商品相當難入手。|These items are rather hard to obtain.
-入試|にゅうし|entrance examination|76|聯考|b|太郎は大学入試に合格したそうだ。||Taro is very likely to pass the university entrance examination.
+入試|にゅうし|entrance examination|76|入學考試|v|太郎は大学入試に合格したそうだ。||Taro is very likely to pass the university entrance examination.
 全米|ぜんべい|all of the United States, the whole of the USA|76|全美國|h|トムは全米ライフル協会の会員だ。||Tom is a member of the NRA.
 公|おおやけ|public|76|公；官員|a|彼はそこで発見したものをおおやけにしなかった。||He didn't make public what he had discovered there.
 共和|きょうわ|republicanism, cooperation|76|共和|a|アメリカ合衆国は共和国である。|美國是一個共和國。|The United States is a republic.
@@ -10320,20 +10320,20 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 困惑|こんわく|bewilderment, perplexity, embarrassment|76|困惑|a|ある程度は彼の困惑も理解できる。||In a sense, I can understand his confusion.
 国道|こくどう|national road, national highway|76|國道|a|戦後国道のほとんどが補修を緊急に必要とされた。||After the war most of the highways were in urgent need of repair.
 地形|ちけい|landform, geographical features, topography|76|地形；地勢|a|ヘリコプターの運転席からなら、その地の素晴らしい地形を見渡すのは容易い。||It's easy to see the area's majestic topography from the cockpit of a helicopter.
-垂れる|たれる|to hang, to droop, to drip|76|垂；絞死|b|実るほど頭を垂れる稲穂かな。|越成熟越飽滿的稻穗，頭垂得越低。|The boughs that bear most hang lowest.
+垂れる|たれる|to hang, to droop, to drip|76|下垂；低垂；滴落|v|実るほど頭を垂れる稲穂かな。|越成熟越飽滿的稻穗，頭垂得越低。|The boughs that bear most hang lowest.
 変革|へんかく|change, reform Reformation|76|變革；改變|a|政府は根本的な変革をしなければならない。||The government must make fundamental changes.
 夕暮れ|ゆうぐれ|evening, twilight|76|晚上；晚|b|夕暮れ時、空は紫色の光に染まっています。|黃昏時分，天空染上了紫色的光。|At dusk, the sky is tinted with purple light.
 多忙|たぼう|busy|76|繁忙；忙碌|d|彼女は多忙のため来られなかった。||She couldn't come because she was busy.
 夜更し|よふかし|staying up late, keeping late hours|76|熬夜；深夜不睡|h|||
 大鳥|おおとり|large bird, peng|76|大鳥；大型鳥類；大鵬|h|||
-太もも|ふともも|thigh, buttocks|76|股；大腿|b|||
+太もも|ふともも|thigh, buttocks|76|大腿|v|||
 奨励|しょうれい|encouragement, promotion|76|獎勵；鼓勵；推廣|d|私たちは想像力を使うように奨励されています。|我們被鼓勵使用想像力。|We're encouraged to use our imagination.
 好調|こうちょう|satisfactory, in good shape|76|良好；狀況不錯；順利|h|売上が右肩上がりで好調を裏づけた。||Growing sales gave support to the idea that all was well.
-妥結|だけつ|agreement|76|聚落；定居點|b|||
+妥結|だけつ|agreement|76|達成協議；談妥|v|||
 子会社|こがいしゃ|subsidiary|76|附屬|b|その会社は当社の完全子会社です。||The company is our wholly-owned subsidiary.
 学説|がくせつ|theory|76|學說；理論|a|この実験で彼の学説はいっそう強固なものになった。|實驗證實了他的理論。|The experiment confirmed his theory.
 守衛|しゅえい|security guard, doorkeeper|76|守衛；守|a|彼らの鞄は門の所で守衛に調べられた。||Their bags were checked by security guards at the gate.
-実証|じっしょう|demonstration, verification, substantiation|76|示威遊行|b|諸事実がこの仮説を実証している。||The facts bear out this hypothesis.
+実証|じっしょう|demonstration, verification, substantiation|76|實證；驗證|v|諸事実がこの仮説を実証している。||The facts bear out this hypothesis.
 宣教|せんきょう|religious mission|76|傳教；宣教|h|三人の宣教師が人食い部族に殺され、食べられた。||Three missionaries were killed and eaten by cannibals.
 専ら|もっぱら|wholly, solely, entirely|76|專門；主要；完全|h|政治に対する私の関心は専ら学問上のものです。||My interest in politics is strictly academic.
 射殺|しゃさつ|shooting to death|76|槍殺；射殺|h|トムは教会の前の通りで射殺された。||Tom was shot down in the street in front of the church.
@@ -10359,8 +10359,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 従|じゅう|subordinate, secondary, junior|76|下屬；屬下|b|猫はじゅうたんをひっかき始めた。||The cat started to scratch the carpet.
 従兄|じゅうけい|cousin|76|表親|b|彼は私の従兄弟ではありません。||He isn't my cousin.
 従妹|じゅうまい|cousin|76|表親|b|私とメアリーは従妹同士です。||Mary and I are cousins.
-従姉|じゅうし|cousin|76|表親|b|従姉妹の連絡先を教えられなくてごめん。||I'm sorry that I haven't been able to give you my cousin's contact info.
-従弟|じゅうてい|cousin|76|表親|b|私は従弟から１０００円借りた。||I borrowed 1,000 yen from my cousin.
+従姉|じゅうし|cousin|76|堂姊；表姊|v|従姉妹の連絡先を教えられなくてごめん。||I'm sorry that I haven't been able to give you my cousin's contact info.
+従弟|じゅうてい|cousin|76|堂弟；表弟|v|私は従弟から１０００円借りた。||I borrowed 1,000 yen from my cousin.
 従来|じゅうらい|up to now, so far, traditional|76|以往；向來；傳統|h|彼は従来の習慣と違ったことをした。||He departed from the old custom.
 復刻|ふっこく|republication, reissue, reprinting|76|復刻|a|||
 志願|しがん|aspiration, volunteering, desire|76|志願；志|a|彼はその仕事に志願し採用された。||He applied for the job and got it.
@@ -10377,7 +10377,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 拳銃|けんじゅう|pistol, handgun|76|手槍|b|警官は殺人犯から拳銃をもぎ取った。||The policeman wrested a gun from the murderer.
 指数|しすう|index, index number, indicator, exponent|76|指數；索引|a|物価指数はこれまでの最高に達した。||The price index hit an all-time high.
 指標|しひょう|index, indices, indicator|76|指數；索引|b|世論調査は政府の信用度の指標だ。||Public opinion polls are barometers of confidence in the government.
-捧げる|ささげる|to lift up, to give, to offer|76|高舉；抬起|b|彼らは１２月２４日の晩、熱心に祈りを捧げる。||They offer an earnest prayer on the evening of December 24.
+捧げる|ささげる|to lift up, to give, to offer|76|奉獻；高舉|v|彼らは１２月２４日の晩、熱心に祈りを捧げる。||They offer an earnest prayer on the evening of December 24.
 採掘|さいくつ|mining|76|採礦；採礦業|b|彼らは石油の採掘を行うつもりだった。||They intended to drill for oil.
 採用|さいよう|use, adopt|76|採用；以|a|彼はその仕事に志願し採用された。||He applied for the job and got it.
 改修|かいしゅう|repair, improvement|76|補；修理|b|職員室と体育館は、改修工事中です。||The teachers' room and the gym are under renovation.
@@ -10388,7 +10388,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 断える|たえる|to cease, to become extinct|76|斷絕；滅絕|h|||
 新刊|しんかん|new book, new publication|76|新刊；新出版物|h|私は新聞に新刊書の広告を出した。||I put an advertisement for the new publications in the newspaper.
 施す|ほどこす|to give, to conduct, to perform|76|予以|b|人々に善行を施すのに積極的であれ。||Be active in doing good for people.
-早々|そうそう|as soon as ..., just after ..., immediately after ...|76|一經|b|仕事の初日早々、へまをやらかした。||First day on the job, and I already messed up.
+早々|そうそう|as soon as ..., just after ..., immediately after ...|76|一…就；匆匆|v|仕事の初日早々、へまをやらかした。||First day on the job, and I already messed up.
 晩年|ばんねん|last years|76|晚年|a|彼は晩年を自伝を書くことに献げた。|他晚年致力於寫自傳。|He devoted the last years of his life to writing his autobiography.
 暁|あかつき|dawn, daybreak, event|76|曉；旭|a|当選のあかつきには皆様のために一生懸命に働きます。||Once elected, I will do my best for all of you who supported me.
 暴露|ばくろ|disclosure, exposure, revelation|76|暴露；揭露；曬|d|彼は市政の堕落を暴露した。||He exposed corruption in the city government.
@@ -10402,7 +10402,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 梁|りょう|Liang dynasty|76|梁朝|d|||
 棄権|きけん|abstain from voting, renunciation of a right|76|棄權；放棄|h|いざ投票という時、彼は棄権した。||When it was time to vote, he abstained.
 極めて|きわめて|exceedingly, extremely|76|十二分|b|彼女は話し振りが極めて凡俗だ。|她講話非常俗氣。|She is extremely vulgar in her speech.
-模型|もけい|model, dummy, marquette|76|模型；典型|a|彼は模型飛行機を作るのが好きだ。|他喜歡建造模型飛機。|He likes to build model planes.
+模型|もけい|model, dummy, marquette|76|模型；樣品|v|彼は模型飛行機を作るのが好きだ。|他喜歡建造模型飛機。|He likes to build model planes.
 模索|もさく|groping|76|摸索；探索|h|現状の打開策を暗中模索している。||We are groping for a way out of the present situation.
 横綱|よこづな|sumo grand champion|76|橫綱|a|||
 樹木|じゅもく|trees and shrubs, arbor|76|樹木；樹|a|樹木は酸素を排出し、二酸化炭素を吸収する。|樹木排出氧氣，吸收二氧化碳。|Trees give off oxygen and absorb carbon dioxide.
@@ -10415,7 +10415,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 混同|こんどう|confusion, mixing, merger|76|混同；混淆|h|欲望を愛情と混同するな。|不要把慾望和愛情混為一談。|Don't confuse desire with love.
 滑らか|なめらか|smoothness, glassiness|76|光滑；潤滑|b|彼女の肌は滑らかです。|她的皮膚光滑。|Her skin is smooth.
 漁|りょう|fishing, gathering seafood|76|漁業；捕魚|h|||
-演出|えんしゅつ|production|76|曏；走向|b|その劇は彼によって演出された。||The play was produced by him.
+演出|えんしゅつ|production|76|演出；製作；表現|v|その劇は彼によって演出された。||The play was produced by him.
 潜入|せんにゅう|infiltration, sneaking in|76|潛入；潛行|h|彼は農夫に身をやつして城下町に潜入した。||Disguising himself as a peasant, he crept into the castle town.
 灌漑|かんがい|irrigation|76|灌溉|h|ワイン畑の中には、未だ地下水を使用した灌漑を選択するところもある。||Some vineyards still choose to irrigate using underground water sources.
 爆|ばく|burst of laughter, roar of laughter, in copious amounts|76|爆笑；大量；非常|d|彼を破滅させたのはばくちであった。||It was gambling that brought about his ruin.
@@ -10442,8 +10442,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 真田|さなだ|plait, braid|76|辮子|b|||
 着工|ちゃっこう|start of work|76|開工；動工|h|そのビルの建設は来年着工されます。||The construction of the building will be started next year.
 瞬き|まばたき|wink, twinkling, flicker|76|眨；眨眼|b|人って、1分間に平均何回瞬きをするの？||On average, how many times per minute does a person blink?
-祝福|しゅくふく|celebration, blessing, giving one's blessing|76|慶典；慶祝會|b|神の祝福あれ、と彼は私に言った。||He prayed God to bless me.
-移行|いこう|switching over to|76|躍遷|b|農場生活から都市の生活への移行は困難なことが多い。||The transition from farm life to city life is often difficult.
+祝福|しゅくふく|celebration, blessing, giving one's blessing|76|祝福|v|神の祝福あれ、と彼は私に言った。||He prayed God to bless me.
+移行|いこう|switching over to|76|轉移；過渡|v|農場生活から都市の生活への移行は困難なことが多い。||The transition from farm life to city life is often difficult.
 稜|りょう|edge, angle, ridge|76|邊沿|b|||
 立体|りったい|solid body|76|立體；立體物|h|我々はその問題を立体的に調査した。||We investigated the matter from all angles.
 管轄|かんかつ|jurisdiction, control|76|司法權；審判權|b|その件は通産省の管轄下にある。||The matter comes under MITI.
@@ -10456,9 +10456,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 累計|るいけい|cumulative total, accumulated total, total up to now|76|累計；總計|h|回収対象のソニー製充電池は累計で７６５万９０００個となった。||The number of Sony rechargeable batteries supposed to be collected totalled 7,659,000 units.
 紳士|しんし|gentleman|76|紳士|a|「猫ですか？」老紳士は尋ねた。|“一隻貓？”老先生問。|"A cat?" asked the old man.
 統治|とうち|rule, reign, governing|76|統治；規律|a|国会は日本の主要統治機関である。||The Diet is the chief organ of government in Japan.
-置き換え|おきかえ|replacement, substitute, displacement|76|代謝|b|現在のバージョンは、アップグレード版で置き換えます。||We will replace the current version with the upgrade.
+置き換え|おきかえ|replacement, substitute, displacement|76|替換；取代|v|現在のバージョンは、アップグレード版で置き換えます。||We will replace the current version with the upgrade.
 美肌|びはだ|beautiful skin|76|美膚；美肌|h|||
-耐える|たえる|to endure, to put up with|76|負；負擔|b|人生にはいろいろ耐えるべき苦労がある。||You have to endure a lot of hardships in life.
+耐える|たえる|to endure, to put up with|76|忍耐；經得起|v|人生にはいろいろ耐えるべき苦労がある。||You have to endure a lot of hardships in life.
 腫瘍|しゅよう|tumor, tumour, neoplasm|76|腫瘤；瘤|b|胃に腫瘍ができたので切ってもらった。||I got a stomach tumor and had to have it operated on.
 自立|じりつ|independence, self-reliance|76|自立；獨立|d|私はもっと自立したいと思っている。|我想更加自立。|I want to be more independent.
 航空機|こうくうき|aircraft|76|航空器|b|航空機のチケットは高いですか。||Are airplane tickets expensive?
@@ -10488,10 +10488,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 進展|しんてん|progress, development|76|挺進|b|科学技術の進展で人類は豊かになった。|由於科學技術的進步，人類現在很富裕。|Humanity is now affluent due to progression in science and technology.
 進撃|しんげき|advance, charge|76|預；行進|b|軍隊は敵に向かって進撃した。||The army advanced on the enemy.
 遊戯|ゆうぎ|play, playing, game, play and dance|76|遊戲；玩|a|||
-運び|はこび|progress, pace, carriage|76|挺進|b|警官たちはその死体を運び去った。||The policemen carried away the body.
-達成|たっせい|achievement|76|成績|b|私は３年で目標を達成する決心をした。|我下定決心要在三年之內達成目標。|I have made up my mind to achieve my goals in three years.
+運び|はこび|progress, pace, carriage|76|進展；搬運|v|警官たちはその死体を運び去った。||The policemen carried away the body.
+達成|たっせい|achievement|76|達成；實現|v|私は３年で目標を達成する決心をした。|我下定決心要在三年之內達成目標。|I have made up my mind to achieve my goals in three years.
 遼|りょう|Liao, Khitan Empire|76|遼朝|h|||
-部員|ぶいん|staff, member|76|人員；杖|b|私は中学のときはサッカー部員だった。||I was a member of the soccer club when I was in junior high.
+部員|ぶいん|staff, member|76|部員；社團成員|v|私は中学のときはサッカー部員だった。||I was a member of the soccer club when I was in junior high.
 郷愁|きょうしゅう|nostalgia, homesickness|76|鄉愁|a|管弦楽団は郷愁に満ちた音楽を演奏し始めた。||The orchestra struck up nostalgic music.
 都知事|とちじ|metropolitan governor, governor of Tokyo|76|東京都知事|h|||
 酸|さん|acid|76|酸；酸性|d|部屋には子供たちがたくさんいた。|房間裡有很多小孩。|There were many children in the room.
@@ -10499,7 +10499,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 鍛える|きたえる|to forge, to train, to discipline|76|打造；偽造|b|体を鍛えるのが好きなんです。||I like working out.
 開催|かいさい|holding a meeting, open an exhibition|76|舉辦；召開；舉行|h|委員会は月に2回、開催されます。|委員會一個月召開兩次。|The committee meets twice a month.
 間柄|あいだがら|relationship|76|關係；交情|h|彼らは近所の人と良い間柄にある。||They've been on good terms with their neighbors.
-院長|いんちょう|director, superintendent, rector|76|主任|b|||
+院長|いんちょう|director, superintendent, rector|76|院長；所長|v|||
 陵|みささぎ|imperial mausoleum, Emperor's tomb, big hill|76|陵墓；皇陵|h|||
 隔たる|へだたる|to be distant|76|相隔；隔閡；有距離|h|||
 障る|さわる|to hinder, to interfere with, to affect|76|妨礙；有害；影響|d|咲桜の話し方って、癇に障るのよ。||Sakura's way of speaking gets on my nerves.
@@ -10514,7 +10514,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 養成|ようせい|training, education, development|76|培養；培訓；養成|d|心身共にベストのコンディションで新人養成合宿に臨みましょう。|以最佳的身心狀態，來迎接新人集訓吧！|With both mind and body in their best condition, let's look forward to the newcomers' training camp.
 馬鍬|まぐわ|harrow, rake|76|耙；馬耙|d|||
 馴染み|なじみ|familiarity, intimacy, acquaintance|76|熟識；常客；熟悉|h|この種の経験は誰にも馴染み深い。||This kind of experience is familiar to everyone.
-駒|こま|piece, horse|76|馬；棋子；小馬|d|ここからそこまで車で１時間です。|從這到那駕車要一箇小時。|It is an hour's drive from here to there.
+駒|こま|piece, horse|76|棋子；馬|v|ここからそこまで車で１時間です。|從這到那駕車要一箇小時。|It is an hour's drive from here to there.
 騙し|だまし|deceiving, cheating, fooling|76|欺騙；詐欺；矇騙|h|騙すならもっと上手に騙してよ。|下次你要騙我的話騙得更有點水平吧。|If you are going to try and fool me at least do it well.
 高麗|こま|Goguryeo|76|高麗|h|||
 Β|ベータ|beta|76|貝塔|b|私は四階までエレベーターで行った。|我搭電梯去了四樓。|I took the elevator to the fourth floor.
@@ -10535,7 +10535,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 にせ物|にせもの|imitation, counterfeit|76|冒牌貨；仿冒品；假貨|d|||
 ねだる|ねだる|to nag, to demand|76|懇求；乞討|b|彼らは金をくれとしつこく親にねだる。||They importune their parents for money.
 のどか|のどか|tranquil, calm, quiet|76|寧靜；澹|b|何てのどかな昼下がりなんだろう。||What a tranquil early afternoon it seems to be.
-ぶた|ぶた|hand with a total value of 10 or 20 points|76|十點或二十點的牌型|h|彼は英語を学ぶためそこへ行った。||He went there to learn English.
+ぶた|ぶた|hand with a total value of 10 or 20 points|76|零分牌型；豬|v|彼は英語を学ぶためそこへ行った。||He went there to learn English.
 ぽい|ぽい|carelessly, nonchalantly, casually|76|草草|b|彼は惚れっぽい人だ。|他是個多情的人。|He often falls in love.
 もた|もた|having done ... by mistake, having messed up ...|76|搞砸；做錯|h|彼女は母の肩に頭をもたせかけた。|她把頭枕在母親的肩膀上。|She rested her head on her mother's shoulder.
 アイアン|アイアン|iron, iron|76|鐵|b|||
@@ -10615,23 +10615,23 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 付与|ふよ|grant, allowance, endowment|77|准予|b|||
 仰ぐ|あおぐ|to look up, to respect, to ask for|77|仰望；依靠；請求|h|彼らは彼をリーダーとして仰ぐ。||They look up to him as their leader.
 休止|きゅうし|pause, suspension, rest|77|休止；暫停；停止|d|霧のため全列車は運転休止となった。||Railroad service was suspended because of the fog.
-体格|たいかく|physique, constitution|77|體格；興建|a|彼は体格が良い。|他長得很健壯。|He's well built.
+体格|たいかく|physique, constitution|77|體格；體型|v|彼は体格が良い。|他長得很健壯。|He's well built.
 体育館|たいいくかん|gymnasium|77|體育館|a|体育館は式のために使用されます。||The gym is used for the ceremony.
 何もかも|なにもかも|anything and everything, just about everything|77|一切；全部；所有|h|彼は何もかもうまくいっているようだ。|他好像做甚麼事兒都很順利。|Everything seems to go right with him.
 侵略|しんりゃく|aggression, invasion, raid|77|侵略|a|ロシアはウクライナに侵略した。|俄羅斯侵略了烏克蘭。|Russia invaded Ukraine.
 便宜|べんぎ|convenience, accommodation|77|便利性|b|公衆の便宜は尊重されねばならない。||The public convenience should be respected.
-促進|そくしん|promotion, acceleration, encouragement|77|升格|b|相互理解は平和を促進する。|相互理解能促進和平。|Mutual understanding promotes peace.
+促進|そくしん|promotion, acceleration, encouragement|77|促進；推動|v|相互理解は平和を促進する。|相互理解能促進和平。|Mutual understanding promotes peace.
 保つ|たもつ|to keep, to preserve, to sustain|77|保持；保留|b|体調を保つために何をしていますか。||What do you do to stay in shape?
-保守|ほしゅ|conservative, maintaining|77|維修|b|イギリス人は概して保守的である。||Englishmen are, on the whole, conservative.
+保守|ほしゅ|conservative, maintaining|77|保守；維護|v|イギリス人は概して保守的である。||Englishmen are, on the whole, conservative.
 保険|ほけん|insurance, guarantee|77|保險|a|どうして旅行保険に加入したの？|為什麼你買了旅行保險？|Why did you buy travel insurance?
-健全|けんぜん|health, soundness, wholesome|77|健全；胖|a|健全な精神は健全な肉体に宿る。||A sound mind dwells in a sound body.
+健全|けんぜん|health, soundness, wholesome|77|健全；健康|v|健全な精神は健全な肉体に宿る。||A sound mind dwells in a sound body.
 元年|がんねん|first year|77|元年；第一年|h|||
 入国|にゅうこく|entry into a country|77|入境；入國|h|入国手続きって緊張しちゃう。||I get nervous at immigration.
 入居|にゅうきょ|moving in, taking up residence|77|入住；遷入|h|つい先日、入居なさったんですよ。||They moved in recently.
 入札|にゅうさつ|bid, tender, bidding|77|投標；出價|b|公団は建設計画の入札を募集した。||The corporation invited bids for the construction project.
 全開|ぜんかい|opening fully, full throttle|77|全開；完全打開；全力|h|寒いよ！なんで窓全開してるんだよ？||It's cold. Why are all the windows open?
 公募|こうぼ|public appeal, public contribution|77|公開徵求；公開募集|h|||
-公然|こうぜん|openly|77|開；打開|b|公然と悪態をつかないでよ。||Don't swear in public.
+公然|こうぜん|openly|77|公開；公然|v|公然と悪態をつかないでよ。||Don't swear in public.
 公立|こうりつ|public institution|77|公立；公眾|a|その当時、どこの公立の学校にもネイティブの英語の先生などいませんでした。|當時沒有任何以英語為母語的人在公立學校任教。|At the time there were no native English speakers teaching in any public school.
 内定|ないてい|tentative decision, unofficial offer, informal offer|77|內定；預定錄取|h|その会社に就職が内定した。||It has been unofficially decided that I will be employed by the company.
 内心|ないしん|innermost thoughts, real intention, inmost heart|77|內心；心底|h|政治家は決して内心を見せない。||Politicians never tell us their inner thoughts.
@@ -10644,7 +10644,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 判官|はんがん|judge, magistrate, 3rd grade official|77|判官；法官|a|事件を審議したのはどの裁判官ですか。|哪一位法官審理此案？|Which judge heard the case?
 前方|ぜんぽう|ahead, forward, front, having a square front|77|前方；前面|a|彼らは前方へはって進んでいった。||They crept forward.
 加工|かこう|manufacturing, processing, treatment|77|加工|a|ミルクはバターに加工される。||Milk is made into butter.
-動力|どうりょく|power, motive power, dynamic force|77|動力；權力|a|見かけ通り彼女は行動力がある。||She is as active as she looks.
+動力|どうりょく|power, motive power, dynamic force|77|動力|v|見かけ通り彼女は行動力がある。||She is as active as she looks.
 北斗|ほくと|the Big Dipper, the Plough, the Plow|77|北斗七星|d|北斗七星は簡単に見つかる。||You can find the Big Dipper easily.
 北欧|ほくおう|Northern Europe, Nordic countries, Scandinavia|77|北歐|d|北欧では冬の訪れが早い。||Winter comes earlier in North Europe.
 合宿|がっしゅく|lodging together, training camp, boarding house|77|集訓；住宿訓練；合宿|h|心身共にベストのコンディションで新人養成合宿に臨みましょう。|以最佳的身心狀態，來迎接新人集訓吧！|With both mind and body in their best condition, let's look forward to the newcomers' training camp.
@@ -10652,7 +10652,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 名曲|めいきょく|famous piece of music, excellent song, masterpiece|77|名曲；名作|d|リストの「忘れられたワルツ第3番」は隠れた名曲だと思う。|我覺得李斯特的《被遺忘的圓舞曲第三首》是個被埋沒的名曲。|I think that Liszt's "Forgotten Waltz No.3" is a hidden masterpiece.
 名札|なふだ|name plate, name tag|77|名牌；名片|d|トムは店員の名札をチラッと見た。||Tom glanced at the clerk's name tag.
 名産|めいさん|noted product|77|名產；特產|h|||
-告白|こくはく|confession, acknowledgment|77|自白；供述|b|彼は自分が無神論者だと告白した。||He avowed himself an atheist.
+告白|こくはく|confession, acknowledgment|77|告白；坦白|v|彼は自分が無神論者だと告白した。||He avowed himself an atheist.
 呪文|じゅもん|spell, charm, incantation|77|咒文；拼寫|a|悪い魔女は呪文をかけてその男を虫に変えてしまった。|惡毒的巫婆在男人身上施了咒語，把他變成了一隻蟲子。|The wicked witch cast a spell on the man and turned him into a bug.
 和文|わぶん|Japanese text, sentence in Japanese|77|日文；日語文章|h|この和文をフランス語に訳してください。||Please translate this Japanese text into French.
 和気|わき|harmonious atmosphere|77|和氣；和睦的氣氛|h|||
@@ -10690,7 +10690,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 差額|さがく|balance, difference, margin|77|差額；平衡|a|差額はありますか。||Is there a difference?
 市役所|しやくしょ|municipal office, council, city hall|77|市政府；市公所|d|市民は市役所で健康管理について議論している。|市民們正在市政廳討論關於衛生保健的事情。|Citizens are debating about health care at City Hall.
 市立|しりつ|municipal, city|77|市立|a|私は市立図書館で本を借りています。||I borrow books from the city library.
-幅広い|はばひろい|extensive, wide, broad|77|廣博；粗放|b|彼は幅広い経験を積んでいる人だ。||He is a man of wide experience.
+幅広い|はばひろい|extensive, wide, broad|77|廣泛；寬廣|v|彼は幅広い経験を積んでいる人だ。||He is a man of wide experience.
 幹線|かんせん|main line, trunk line|77|幹線；主線|a|その都市へ通じる幹線道路にはもう落石はない。|通往那座城市的幹道已經沒有落石了。|The highway leading to the city is now free of fallen rocks.
 当店|とうてん|this store|77|本店；本舖|h|当店の水は浄水器を使用しています。||This store's water is filtered.
 従業員|じゅうぎょういん|employee, worker|77|雇員；從業人員|b|６時を過ぎると従業員は帰り始めた。|一過6點僱員開始回家。|After 6 p.m. the employees began to disappear.
@@ -10706,7 +10706,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 悪者|わるもの|bad fellow, rascal|77|壞人；惡人|h|いない者がいつも悪者になる。||The absent are always in the wrong.
 悲観|ひかん|pessimism, disappointment|77|悲觀|h|そんな悲観的になるなよ。|不要感覺那麼悲觀。|Don't be so pessimistic.
 惜しむ|おしむ|to be frugal, to value, to regret|77|惜；珍惜；遺憾|d|行く秋を惜しむ気持でいっぱいだ。||The passing autumn fills me with a feeling of grief.
-態勢|たいせい|attitude, conditions, tendency|77|態勢；心態|a|大型台風への万全の態勢が整いました。|我們已經做好了應對大型颱風的萬全準備。|Everything has been perfectly prepared to deal with a major typhoon.
+態勢|たいせい|attitude, conditions, tendency|77|態勢；準備狀態|v|大型台風への万全の態勢が整いました。|我們已經做好了應對大型颱風的萬全準備。|Everything has been perfectly prepared to deal with a major typhoon.
 我ら|われら|we, us, I|77|吾人|b|天にまします我らの父よ。||Our Father who art in heaven.
 戦災|せんさい|war damage|77|戰禍；戰爭災害|h|彼は戦災孤児をひきとって養女として育てています。||He adopted a war orphan and is bringing her up as a foster daughter.
 手持ち|てもち|in hand, on hand, on one, handheld|77|手裡|b|たまたま手持ちのお金がなかった。||As it happened, I had no money with me.
@@ -10720,7 +10720,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 採れる|とれる|to be collected, to be gathered, to be picked|77|能採收；能採取|h|スペインはオレンジがたくさん採れる。||Spain is abundant in oranges.
 控室|ひかえしつ|waiting room|77|休息室；候客室|h|||
 推進|すいしん|propulsion, driving force|77|推進；推動|h|||
-掻き|かき|stroke, arm stroke, adds strength or emphasis to verbs|77|搔；抓；加強語氣|h|トムは急いでシリアルを掻き込んだ。||Tom scarfed down his cereal in a hurry.
+掻き|かき|stroke, arm stroke, adds strength or emphasis to verbs|77|划水；搔；加強語氣|v|トムは急いでシリアルを掻き込んだ。||Tom scarfed down his cereal in a hurry.
 換算|かんさん|conversion, change, exchange|77|換算|a|彼は何でもお金に換算してしまう。||He thinks of everything in terms of money.
 搭乗|とうじょう|embarkation, boarding|77|搭乘|h|搭乗手続きはここでできますか？|我可以在這裡辦理登機手續嗎？|Can I check in here?
 撤回|てっかい|withdrawal, retraction, revocation|77|撤回；收回|h|発言を撤回しろ！||Withdraw your remarks!
@@ -10770,7 +10770,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 沿線|えんせん|along railway line|77|沿線|h|入学式も終わりました。同じ沿線の大学です。||I've already had the entrance ceremony. It's a university alongside the same railway line.
 法令|ほうれい|statute, law, act|77|憲；成文法|b|その日は国会の法令によって祝日になった。||That day was made a holiday by an act of the diet.
 法学|ほうがく|law, jurisprudence|77|法學；法律|a|法学部の図書館で仕事を見つけた。||He got a job at the Law Library.
-洛|らく|the capital|77|資本；首都|b|しばらくの間座っていて下さい。|請坐一會。|Please remain seated for a few minutes.
+洛|らく|the capital|77|洛陽；京都|v|しばらくの間座っていて下さい。|請坐一會。|Please remain seated for a few minutes.
 派遣|はけん|dispatch, send|77|調度；發貨|b|彼は特派員として海外に派遣された。||He was sent abroad as a correspondent.
 浄化|じょうか|purification, cleanup|77|淨化；淨化作用|h|||
 海人|あま|male diver|77|潛水採物的男子|h|私は上海人です。|我是上海人。|I'm Shanghainese.
@@ -10783,7 +10783,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 火器|かき|firearms, guns|77|火槍|b|合衆国には小火器の販売に関する法律上の制約はほとんどない。||There are few legal constraints on the sale of firearms in the U.S.
 火気|かき|fire, trace of fire, heat of fire, force of a fire|77|火；火力|b|||
 点線|てんせん|dotted line|77|虛線；點線|d|||
-無邪気|むじゃき|innocence, simple-mindedness|77|無罪|b|彼女の事で私が一番感心するのは無邪気な事です。|她最讓我欽佩的地方是她的天真爛漫。|What strikes me most about her is her innocence.
+無邪気|むじゃき|innocence, simple-mindedness|77|天真無邪|v|彼女の事で私が一番感心するのは無邪気な事です。|她最讓我欽佩的地方是她的天真爛漫。|What strikes me most about her is her innocence.
 煙草|えんそう|tobacco|77|菸；煙草|b|父は一日に一箱は煙草を吸うんです。|我爸爸每天抽一包煙。|My father smokes a pack of cigarettes a day.
 牧師|ぼくし|pastor, minister, clergyman|77|牧師|a|彼は牧師に自分の罪を告白した。||He confessed his sins to the pastor.
 特有|とくゆう|characteristic)|77|特有；特徵|a|その植物はその地域特有のものだ。||The plants are peculiar to the district.
@@ -10806,14 +10806,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 素朴|そぼく|simplicity, artlessness, naivety|77|單純；簡|b|マリーは素朴な学生だ。||Marie is a naive student.
 細かく|こまかく|minutely, finely|77|仔細地；細緻地；小小地|h|肉を食べる前に細かく切るべきです。||You should cut the meat into small pieces before eating it.
 結核|けっかく|tuberculosis|77|結核；結核病|a|最近、肺結核を患う人はほとんどいない。||These days few people suffer from tuberculosis.
-繁殖|はんしょく|breed, multiply, propagation|77|孵化|b|ネズミはどんどん繁殖する。||Rats breed rapidly.
+繁殖|はんしょく|breed, multiply, propagation|77|繁殖；繁衍|v|ネズミはどんどん繁殖する。||Rats breed rapidly.
 織物|おりもの|textile, fabric|77|紡織品；織品|b|彼らの主たる輸出品は織物であり、特に絹と木綿である。|他們主要輸出的產品是紡織品，尤其以絲綢和綿為主。|Their main exports are textiles, especially silk and cotton.
 纏まり|まとまり|conclusion, settlement, consistency|77|統一；整合；結局|h|||
 美味|びみ|exquisite flavor, delectable flavor, delicious flavor|77|美味|a|カレーはとても美味しかったです。|咖哩非常好吃。|The curry was very delicious.
 群衆|ぐんしゅう|group, crowd, mob|77|集團；團體|b|群衆は公会堂からドッと出てきた。|群眾從觀眾席上湧了出來。|The crowd poured out of the auditorium.
 考古学|こうこがく|archeology|77|考古學；考古|a|彼は考古学者の助手である。||He is an archeologist's assistant.
 耐性|たいせい|resistance, tolerance|77|阻力；抵抗力|b|除草剤耐性品種でなぜ収量が増えるのか？||Why do yields increase with herbicide-resistant varieties?
-背景|はいけい|background, scenery, setting|77|履歷；烘托|b|青空を背景にその塔がくっきり見えた。|在藍天的背景下，那座塔清晰可見。|The tower was seen clearly against the blue sky.
+背景|はいけい|background, scenery, setting|77|背景|v|青空を背景にその塔がくっきり見えた。|在藍天的背景下，那座塔清晰可見。|The tower was seen clearly against the blue sky.
 臓|ぞう|viscera, bowels|77|臟|a|ぬれたぞうきんで窓をふきなさい。||Clean the window with a damp cloth.
 興業|こうぎょう|starting a business, industry|77|興業；興辦產業|h|||
 舗装|ほそう|pavement, road surface|77|鋪面|b|この道路は未舗装で凸凹している。||This road is unpaved and uneven.
@@ -10827,7 +10827,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 華麗|かれい|splendid, magnificent, gorgeous|77|華麗；輝煌|a|女王は華麗な銀色のドレスを着ていた。||The queen was wearing a magnificent silver dress.
 蔵相|ぞうしょう|Minister of Finance|77|財政部長|b|||
 行幸|ぎょうこう|imperial visit|77|行幸；天皇出巡|h|||
-補強|ほきょう|reinforcement|77|後援|b|彼らは村を洪水から守るために堤防を補強した。||They strengthened the embankments to protect the village from flooding.
+補強|ほきょう|reinforcement|77|補強；加固|v|彼らは村を洪水から守るために堤防を補強した。||They strengthened the embankments to protect the village from flooding.
 製鉄|せいてつ|iron manufacture|77|製鐵；煉鐵|h|その製鉄工場を建てるのは非常に大変な事業だった。||Building the steel factory was a great enterprise.
 褌|みつ|T-shaped section of a loincloth, mawashi|77|兜襠布；丁字褲|h|宇宙でどうやって食べ物をみつけるの？|怎麼在太空中找到食物？|How do you find food in outer space?
 西日|にしび|westering sun|77|西曬的太陽；夕陽|h|僕の部屋は西日をまともにうける。||The afternoon sun comes directly into my room.
@@ -10836,15 +10836,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 証人|しょうにん|witness|77|證人；目睹|a|父が私の借金の保証人になった。|父親成了我欠債的保證人。|My father stood guarantee for my debts.
 誓い|ちかい|oath, vow|77|盟；誓|b|誰にも何も言わないと誓いますか？||Do you promise not to tell anybody anything?
 諦め|あきらめ|resignation, reconciliation, consolation|77|辭呈|b|彼女は夢を諦めざるをえなかった。|她不得不放棄夢想。|She had to give up her dream.
-貧弱|ひんじゃく|poor, meager, insubstantial|77|貧窮；窮|b|私のドイツ語の知識は貧弱です。||My knowledge of German is poor.
-身振り|みぶり|gesture|77|比劃|b|彼女の身振りは私にはわからない。||Her gestures convey no meaning to me.
+貧弱|ひんじゃく|poor, meager, insubstantial|77|貧乏；薄弱|v|私のドイツ語の知識は貧弱です。||My knowledge of German is poor.
+身振り|みぶり|gesture|77|手勢；動作|v|彼女の身振りは私にはわからない。||Her gestures convey no meaning to me.
 返還|へんかん|return, restoration|77|歸；回去|b|||
 追放|ついほう|exile, banishment|77|流放|b|彼はその王国から追放となった。||He was banished from the kingdom.
 逃亡|とうぼう|escape|77|逃；逃避|b|盗賊達は待っていた車で逃亡した。||The thieves made off in a waiting car.
 通い|かよい|coming and going, going back and forth, running between|77|往來；通勤；通學|h|一週間のうちで何日学校に通いますか。|一個星期你有多少天上學？|How many days a week do you go to school?
 通常|つうじょう|common, normal, usual|77|往常；慣常|b|女性は通常男性よりも長生きする。|女性通常比男性長壽。|Women commonly live longer than men.
-連なる|つらなる|to extend, to stretch out, to stand in a row|77|推廣；擴展|b|||
-遂行|すいこう|accomplishment, execution|77|成就；素養|b|私は能力の限り職務を遂行します。||I will do my duty to the best of my ability.
+連なる|つらなる|to extend, to stretch out, to stand in a row|77|連成一排；延伸；出席|v|||
+遂行|すいこう|accomplishment, execution|77|執行；完成|v|私は能力の限り職務を遂行します。||I will do my duty to the best of my ability.
 運営|うんえい|management, administration, operation|77|經營；運作；營運|d|彼は病院の管理運営に責任がある。||He's in charge of administration at the hospital.
 運賃|うんちん|freight rates, shipping expenses, fare|77|運價|b|バスの運賃が20%値上げされました。||The bus fares have been raised by 20 percent.
 遺族|いぞく|bereaved family, surviving family, family of the deceased|77|遺族；喪家|d|彼の遺族は妻と娘１人である。||He leaves a widow and a daughter.
@@ -10853,7 +10853,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 錦|にしき|brocade, fine dress|77|錦|a|||
 録れる|とれる|to be recorded, to be caught on tape|77|能錄到；能錄下|h|||
 閉鎖|へいさ|closing, closure, shutdown|77|關閉；封閉|h|5時半に閉鎖します。|（它）5點半關門。|It shuts at half five.
-開封|かいふう|opening, breaking the seal|77|開局；揭幕|b|彼はよくも私の手紙を開封したものだな。||How dare he open my letters!
+開封|かいふう|opening, breaking the seal|77|開封；拆封|v|彼はよくも私の手紙を開封したものだな。||How dare he open my letters!
 降下|こうか|descent, fall, drop, passing down|77|降下|a|ワシは獲物めがけて急降下した。||The eagle dived at its prey.
 陛下|へいか|Your Majesty, His Majesty, Her Majesty|77|陛下；殿下|a|女王陛下万歳！||God save the Queen.
 除外|じょがい|exception, exclusion|77|例外|b|彼はその女性を容疑者から除外した。||He excluded the woman from the suspects.
@@ -10881,15 +10881,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 とかく|とかく|anyhow, anyway, in any case|77|往往；總是；大抵|h|歴史を無視する人はとかくあやまちを繰り返しがちだ。|無視歷史的人往往會重蹈覆轍。|People who ignore history tend to repeat it.
 にあたり|にあたり|on the occasion of, at the time of|77|在…之際；值此…|h|父の母は、私の祖母にあたります。||My father's mother is my grandma.
 びら|びら|handout, leaflet|77|傳單；廣告單|h|彼女は私たちに新しいドレスを見せびらかしていると思う。|我覺得，她想向我們顯擺她的新裙子。|I think she is showing off her new dress to us.
-ふろりだ|ふろりだ|got to go, taking a bath|77|走了；去洗澡|h|||
-ぶる|ぶる|to assume an air of ..., to act ..., to affect ...|77|演出；舉動|b|トムって帽子をかぶるの好きかな？||Does Tom like to wear hats?
+ふろりだ|ふろりだ|got to go, taking a bath|77|去洗澡了|v|||
+ぶる|ぶる|to assume an air of ..., to act ..., to affect ...|77|裝作；擺架子|v|トムって帽子をかぶるの好きかな？||Does Tom like to wear hats?
 むしる|むしる|to pluck, to pick, to tear|77|拔；摘；撕扯|d|ぐはっ！？俺の貴重な頭髪を、むしるな！||O-oi!? Don't rip off my precious hair!
 もがく|もがく|to struggle, to wriggle, to be impatient|77|鬥爭；掙扎|b|||
 もめる|もめる|to disagree, to dispute|77|爭執；糾紛；鬧矛盾|d|その子供たちはいつも親ともめる。||Those children always get into trouble with their parents.
 わたし的|わたしてき|my personal|77|個人的；我個人的|h|||
 アイルランド|アイルランド|Ireland, Republic of Ireland, Éire|77|愛爾蘭|d|アイルランドは西ヨーロッパにある。|愛爾蘭在西歐。|Ireland is in western Europe.
-イェス|イェス|yes, Jesus|77|耶穌；是的|d|||
-ウォッチ|ウォッチ|watch, watching|77|錶；收看|b|スマートウォッチを買ってあげようよ。||Let's buy him a smart watch.
+イェス|イェス|yes, Jesus|77|是的；耶穌|v|||
+ウォッチ|ウォッチ|watch, watching|77|手錶；觀看|v|スマートウォッチを買ってあげようよ。||Let's buy him a smart watch.
 ウクライナ|ウクライナ|Ukraine|77|烏克蘭|d|キエフはウクライナの首都です。|基輔是烏克蘭的首都。|Kiev is the capital of Ukraine.
 エイリアン|エイリアン|alien|77|外星|b|私はエイリアンに誘拐されていた。|我被外星人綁架了。|I was abducted by aliens.
 オラ|オラ|hola|77|你好；嗨|h|どうしてオランダ語を学びたいのですか？|你為什麼想學習荷蘭語？|Why do you want to learn Dutch?
@@ -10925,10 +10925,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ホール|ホール|hall, hole|77|廳；堂|b|このホールには人が二千人入れる。|這個廳可以接待2000人。|This hall holds 2,000 people.
 ポジティブ|ポジティブ|positive, positive|77|陽；陽性|b|それはポジティブというより現実逃避だよ。||That's not "having a positive outlook"; that's more like escapism.
 ポンプ|ポンプ|pump|77|泵|b|心臓とポンプは似かよっている。||The human heart is analogous to a pump.
-マウント|マウント|mount, stand, fixture, lens mount|77|裝潢；掛載|b|||
+マウント|マウント|mount, stand, fixture, lens mount|77|騎乘位；占上風；接環|v|||
 マスコット|マスコット|mascot|77|吉祥物；福星|b|この犬は我が連隊のマスコットだ。||This dog is our regimental mascot.
-マリン|マリン|marine, Marine Corps|77|海產|b|サブマリンのペリスコープが水中からにょっきり突き出ていた。||The submarine's periscope was sticking right out of the water.
-ミスター|ミスター|mister, Mr|77|先生；某某先生|h|ジョンは、クラスの中で一番背が高いのだがミスターハイというあだ名だ。|約翰在班上個子最高，所以他的綽號叫做 Mr. High。|John, the tallest boy in our class, is nicknamed "Mr High".
+マリン|マリン|marine, Marine Corps|77|海洋的；海軍陸戰隊|v|サブマリンのペリスコープが水中からにょっきり突き出ていた。||The submarine's periscope was sticking right out of the water.
+ミスター|ミスター|mister, Mr|77|先生|v|ジョンは、クラスの中で一番背が高いのだがミスターハイというあだ名だ。|約翰在班上個子最高，所以他的綽號叫做 Mr. High。|John, the tallest boy in our class, is nicknamed "Mr High".
 ミドル|ミドル|middle, middle age|77|中期；正中|b|僕のミドルネームはトムです。||My middle name is Tom.
 モスクワ|モスクワ|Moscow|77|莫斯科|h|モスクワ地下鉄は、深夜１時まで運行しています。|莫斯科地鐵營運至深夜一點。|The Moscow subway runs until one a.m.
 ラック|ラック|rack|77|架子；置物架|h|トムはトラックの運転手をしている。|湯姆現在從事卡車駕駛.|Tom is a trucker.
@@ -10938,7 +10938,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ロット|ロット|lot, batch, lot|77|地皮|b|私の夢はパイロットになることです。|我的夢想是成為一名飛行員。|My dream is to become a pilot.
 ロト|ロト|lottery, lotto|77|樂透；彩票|d|プロトコルだけに固執すればいい、分かった？||Just stick to the protocol, would you?
 一連|いちれん|a series, a chain, a ream|77|系列；級數|b|彼らは一連の音楽会を開催した。|他們辦了一系列的音樂會。|They gave a series of concerts.
-上陸|じょうりく|landing, disembarkation|77|著陸|b|毎年、日本には台風が上陸します。||Typhoons hit Japan every year.
+上陸|じょうりく|landing, disembarkation|77|登陸|v|毎年、日本には台風が上陸します。||Typhoons hit Japan every year.
 不景気|ふけいき|business recession, hard times, depression|77|不景氣|a|不景気になってきているみたいね。||We're in store for a recession.
 不気味|ぶきみ|weird, eerie, ominous|77|詭異；陰森；不祥|d|近頃は地震が頻繁で不気味だ。||The recent frequency of earthquakes makes us nervous.
 中枢|ちゅうすう|center, mainstay, nucleus|77|中樞；核心|h|東京は今や世界経済の中枢だ。||Tokyo is now a center of the world economy.
@@ -10963,7 +10963,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 全長|ぜんちょう|full length, total length, overall length|77|全長|a|それは翼の全長が約４インチある。||It has a wingspan of about four inches.
 全額|ぜんがく|total, full amount, sum|77|全額；總額|a|父は母に給料の全額を渡している。||My father gives my mother all of his salary.
 共和党|きょうわとう|Republican Party|77|共和黨|d|民主党は共和党に勝つと思いますか。||Do you think the Democratic Party will get the better of the Republican Party?
-具わる|そなわる|to be furnished with|77|具備；具有；生來就有|h|||
+具わる|そなわる|to be furnished with|77|具備；具有|v|||
 出生|しゅっしょう|birth|77|誕|b|彼はいわゆる自力で出生した人だ。||He is what is called a self-made man.
 函館|はこだて|Hakodate|77|函館|h|この飛行機は大阪と函館の間を飛ぶ。||This plane flies between Osaka and Hakodate.
 分岐|ぶんき|divergence, ramification, bifurcation|77|分岔；分支|h|川は町の３キロ下流で分岐する。||The river branches three kilometers below the town.
@@ -11008,7 +11008,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 垓|がい|10^20, 100,000,000,000,000,000,000, hundred quintillion|77|垓；十的二十次方|h|東京ミッドタウンは緑がいっぱい！|東京中城綠意盎然！|There's a lot of greenery in Tokyo Midtown!
 城下|じょうか|land near the castle|77|城下；城下町|h|彼は農夫に身をやつして城下町に潜入した。||Disguising himself as a peasant, he crept into the castle town.
 執事|しつじ|steward, butler, court official|77|執事；管家|h|執事はスミス夫妻の到着を告げた。||The butler announced Mr. and Mrs. Smith.
-堂々|どうどう|magnificent, grand, impressive|77|華；華美|b|彼は非難されても堂々としていた。||He stood tall even under criticism.
+堂々|どうどう|magnificent, grand, impressive|77|堂堂；大方|v|彼は非難されても堂々としていた。||He stood tall even under criticism.
 増殖|ぞうしょく|increase, multiplication, propagation|77|增殖；增強|a|||
 大国|たいこく|large country, major nation, great power|77|大國；強國|h|日本は世界有数の経済大国である。||Japan is one of the greatest economic powers in the world.
 大筋|おおすじ|outline, summary|77|綱要；概論|b|||
@@ -11025,9 +11025,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 定める|さだめる|to decide, to determine|77|決；議決|b|職員の選考に関する規則を次のように定める。||Rules in connection with staff selection are set as follows.
 定義|ていぎ|definition|77|定義；界定|a|あなたは「幸福」をどのように定義しますか。|你怎麼定義“幸福”？|How would you define "happiness"?
 定食|ていしょく|fixed-price lunch, set meal, dinner|77|定食；套餐|a|彼は焼き魚定食一人前を注文した。||He ordered one grilled fish dinner.
-寄与|きよ|contribution, service|77|功勞|b|国際連盟は平和に寄与しなかった。||The League of Nations did not make for peace.
+寄与|きよ|contribution, service|77|貢獻|v|国際連盟は平和に寄与しなかった。||The League of Nations did not make for peace.
 対談|たいだん|talk, dialogue|77|對談；對話|a|私たちは老人と楽しく対談した。||We held a pleasant conversation with the old man.
-封|ふう|seal|77|封；海豹|a|そんなふうにジロジロ見るのはやめてくれ。|不要再這麼盯著我了。|Stop staring at me like that.
+封|ふう|seal|77|封；信封|v|そんなふうにジロジロ見るのはやめてくれ。|不要再這麼盯著我了。|Stop staring at me like that.
 小児|しょうに|young child, infant|77|小兒；幼兒|a|彼は五歳の時に小児麻痺にかかった。||He was struck with polio when he was five.
 小児科|しょうにか|pediatrics|77|小兒科；兒科|a|トムは小児科の先生じゃないよ。||Tom isn't a pediatrician.
 小物|こもの|accessories, small articles, minor character|77|小物件；小角色|h|ライザは大変器用なので、自分でネジや同じような小物を作ることさえできる。||Lisa is so skillful that she can even make screws and similar small objects for herself.
@@ -11079,7 +11079,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 旨意|しい|intent, purpose, aim|77|意圖；意旨|b|||
 月賦|げっぷ|monthly installment|77|按月分期付款|h|このテレビを月賦で買った。||I bought this TV on the installment plan.
 月額|げつがく|monthly sum, monthly amount|77|月額；每月金額|h|非常に高い収入を得るチャンスがあるビジネス、月額１００万円可能！！||There's the chance to get a huge income in this business, a million yen a month is possible!
-有卦|うけ|streak of good luck|77|好運；走運期|h|||
+有卦|うけ|streak of good luck|77|走運；好運|v|||
 有望|ゆうぼう|good prospects, full of hope, promising|77|有望；有戲|a|彼は有望な青年です。|他是個有為的青年。|He is a promising youth.
 期日|きじつ|fixed date, settlement date|77|期限；日期|h|試験期日を照会してみる必要がある。||We need to make inquiries about the date of the examination.
 未練|みれん|lingering affection, attachment, regret|77|留戀；依戀；不捨|h|彼女にはまだ未練がある。||I still have some feelings for her.
@@ -11090,7 +11090,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 橘|たちばな|tachibana orange|77|橘子；橘樹|h|||
 次郎|じろう|second son|77|次子|b|私、赤川次郎の小説大好き。|我最喜歡赤川次郎寫的小說。|I really like Jiro Akagawa's novels.
 欲深い|よくふかい|greedy|77|貪心的；貪得無厭|h|さて人間とは欲深いものです。||Mankind is greedy.
-正当|せいとう|just, due, proper|77|正好；剛好|b|目的は手段を正当化する。|目的將手段正當化。|The end justifies the means.
+正当|せいとう|just, due, proper|77|正當；合理|v|目的は手段を正当化する。|目的將手段正當化。|The end justifies the means.
 正気|しょうき|sanity, consciousness, soberness|77|神智清醒；理智|h|その旅人は空腹のために気を失ったが、すぐに正気づいた。|雖然這個旅者餓暈了，但他又迅速地恢復了神智。|The traveler fainted from hunger, but soon he came to.
 武蔵|むさし|Musashi|77|武藏|h|||
 歩む|あゆむ|to walk|77|走；遊|b|学び続けるのは成功の道を歩む人だ。||People who keep on learning are those who follow the path of success.
@@ -11132,40 +11132,40 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 突如|とつじょ|suddenly, all of a sudden|77|俄；霍|b|暗闇から強盗が突如として現れた。||The robber emerged from the darkness.
 立法|りっぽう|legislation, lawmaking|77|法規|b|その州の立法者は時代遅れの法律を廃止した。|那個州的立法單位把不合時宜的法律廢止了。|The legislators of that state did away with outdated laws.
 竿|さお|rod, pole|77|竿；竹竿|h|まさおはここに来ないでしょうね。||Masao won't come here, will he?
-簡易|かんい|simplicity, easiness, quasi-|77|單純；簡|b|安価な簡易住宅を提供します。||We offer low-cost prefabricated houses.
+簡易|かんい|simplicity, easiness, quasi-|77|簡易；簡單|v|安価な簡易住宅を提供します。||We offer low-cost prefabricated houses.
 精一杯|せいいっぱい|the best one can do, one's best effort, with all one's might|77|竭盡全力；盡力|h|精一杯やってみるしかないですね。||We'll have to try and make the best of it.
 糖尿|とうにょう|glycosuria, glucosuria, urine sugar|77|糖尿|h|糖尿病なんです。|我有糖尿病。|I have diabetes.
 紫衣|しえ|purple vestment, high-ranking priest's purple robe|77|紫衣；高僧所穿紫色法衣|h|||
 結び|むすび|ending, conclusion, union|77|結尾|b|海は世界を分けるのではなく、むしろ結びつけるものです。|海洋不是將世界分隔開來，而是將世界連線起來|Oceans do not so much divide the world as unite it.
 続|ぞく|sequel, second series|77|續集；續篇|b|もらい者の馬の口の中をのぞくな。||Don't look a gift horse in the mouth.
-網|あみ|net|77|球網|b|わたしはあみで蝶を捕まえた。||I captured butterflies with a net.
+網|あみ|net|77|網；球網|v|わたしはあみで蝶を捕まえた。||I captured butterflies with a net.
 緇衣|しえ|priest's black robe, priest|77|緇衣；僧人黑色法衣|h|||
 繁盛|はんじょう|prosperity, flourishing, thriving|77|繁盛|a|商売は、繁盛しているようですね。||Your business is flourishing, I hear.
 老翁|ろうおう|old man|77|老翁；老漢|a|||
 聖地|せいち|sacred place, holy ground, the Holy Land|77|聖地|a|ここは聖地だ。||This is holy ground.
 肢位|しい|body joints position|77|肢位；身體姿勢|h|||
 胴|どう|trunk, body, frame|77|胴；主幹|a|問題は彼女が来るかどうかである。|問題是她到底來還是不來。|The point is whether she will come or not.
-脚色|きゃくしょく|dramatization (e.g., film|77|改編；改編劇本|h|その物語は映画用に脚色された。||The story was adapted for the movie.
+脚色|きゃくしょく|dramatization (e.g., film|77|改編；劇本改編|v|その物語は映画用に脚色された。||The story was adapted for the movie.
 脱退|だったい|secession, withdrawal|77|脫離；退出|h|君は直ちにクラブを脱退したほうがよい。||You may as well withdraw from the club right away.
 腐敗|ふはい|decay, depravity|77|腐敗|a|わが国の政治家の道徳は腐敗した。||The morals of our politicians have been corrupted.
 腕時計|うでどけい|wristwatch, watch|77|手錶；腕錶|b|腕時計、2分早くセットしなきゃ。|我得把手錶調快兩分鐘。|I need to set my watch to two minutes faster.
-腿|もも|thigh, femur|77|股；大腿|b|人間が月に住むのももはや夢ではない。|人類在月球上居住已不再是夢想。|It is no longer a dream for man to live on the moon.
+腿|もも|thigh, femur|77|大腿|v|人間が月に住むのももはや夢ではない。|人類在月球上居住已不再是夢想。|It is no longer a dream for man to live on the moon.
 臥位|がい|lying down, reclining position, decubitus|77|臥位；仰臥姿勢|h|||
 自爆|じばく|suicide bombing, self-destruction, blowing oneself up|77|自爆|a|自爆テロ犯はベナジル・ブット元首相に向けて発砲したが、弾はそれた。||The suicide bomber fired towards former Prime Minister Benazir Bhutto, but missed.
 良心|りょうしん|conscience|77|良心|a|突然彼のこころに良心が目覚めた。||His conscience suddenly awoke in him.
 芸|げい|art, accomplishment, performance|77|藝；藝術|a|お買い上げいただきありがとうございます。||Thank you for shopping with us.
-茶の間|ちゃのま|living room|77|客廳；起居室|d|山羽さんが茶の間の大きい盆に胡桃を盛った。||Mr Yamaha filled the big tray in his living room with walnuts.
+茶の間|ちゃのま|living room|77|起居室；客廳|v|山羽さんが茶の間の大きい盆に胡桃を盛った。||Mr Yamaha filled the big tray in his living room with walnuts.
 菊|きく|chrysanthemum|77|菊；菊花|a|この箱はあの箱ほど大きくはない。|這個盒子沒那個盒子大。|This box isn't as big as that one.
 華やか|はなやか|brilliant, gorgeous, florid|77|亮麗；明媚|b|ものすごく華やかだったわよ。||She was absolutely gorgeous.
 落語|らくご|rakugo, traditional Japanese comic storytelling, comic story|77|落語；單口相聲|h|私の息子は落語家になろうとしたんだ。||My son tried to become a rakugo story teller.
 蔵|くら|warehouse, cellar|77|庫；貨倉|b|彼女は私と同じくらいの年齢です。|她大約跟我同年紀。|She's about my age.
 薄弱|はくじゃく|feebleness, weakness, weak|77|薄弱；脆弱|d|早くも、意志薄弱ぶりを発揮した。||He's already shown his weak-willed nature.
-蛙手|かえるで|maple|77|楓；槭|b|||
+蛙手|かえるで|maple|77|楓樹；槭樹|v|||
 衆議院|しゅうぎいん|Lower House, House of Representatives|77|眾議院|d|衆議院の少数派の議席は、急速にむしばまれてきています。||The number of minority seats in the Lower House is rapidly eroding.
 街頭|がいとう|in the street|77|街頭；街|a|彼は街頭で買った絵を額縁に入れた。||He framed the picture he had bought on the street.
 見地|けんち|point of view|77|觀點|b|実践的見地からすれば、彼の計画には欠点が多くある。|從現實的角度看，他的計劃有很多缺點。|From the practical point of view, there are many shortcomings in his plan.
 計測|けいそく|measuring, measurement|77|測量；計測|h|||
-訪れる|おとずれる|to visit|77|探望；光顧|b|京都はたくさんの観光客が訪れる。|很多遊客赴京都旅遊。|Kyoto is visited by many tourists.
+訪れる|おとずれる|to visit|77|造訪；來臨|v|京都はたくさんの観光客が訪れる。|很多遊客赴京都旅遊。|Kyoto is visited by many tourists.
 詩意|しい|poetic sentiment, meaning of a poem|77|詩意；詩的含義|h|||
 該|がい|said, matter in question|77|該；該當；相應|h|東京ミッドタウンは緑がいっぱい！|東京中城綠意盎然！|There's a lot of greenery in Tokyo Midtown!
 説得|せっとく|persuasion|77|說服；勸說|d|彼女を説得しようとしても無駄だ。|試圖勸她是沒有用的。|It's no good trying to persuade her.
@@ -11181,7 +11181,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 農場|のうじょう|farm|77|農場；農莊|a|彼の農場の土はとても肥えている。|他農場的土地十分肥沃。|The land on his farm is very fertile.
 近眼|きんがん|nearsightedness|77|近視|h|十人に一人は近眼である。||One out of ten persons is nearsighted.
 進化|しんか|evolution, progress|77|演進|b|ダーウィンの進化論は学びましたか。||Have you studied Darwin's theory of evolution?
-進呈|しんてい|presentation|77|簡報|b|||
+進呈|しんてい|presentation|77|贈送；呈獻|v|||
 遊牧|ゆうぼく|nomadism|77|遊牧|h|||
 道場|どうじょう|dojo, hall used for martial arts training, mandala|77|道場；練武場|h|||
 達者|たっしゃ|skillful, in good health|77|無恙|b|彼は水泳が達者でテニスもうまい。||He is a good swimmer and also plays tennis well.
@@ -11200,21 +11200,21 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ＥＲＩＣ|エリック|Educational Resources Information Center, ERIC|77|教育資源資訊中心|h|||
 あらかじめ|あらかじめ|beforehand, in advance, ahead of time|77|事先；預先|d|あらかじめ計画をお知らせください。||Please let me know the schedule beforehand.
 ありゃ|ありゃ|oh, ah, I'll be darned, if there is|77|唔|b|邪魔くさいったら、ありゃしない。||It's incredibly annoying.
-いじる|いじる|to touch, to tamper with|77|指；手指|b|トムはいつだって俺の服装をいじる。||Tom always comments on my clothes.
+いじる|いじる|to touch, to tamper with|77|擺弄；玩弄|v|トムはいつだって俺の服装をいじる。||Tom always comments on my clothes.
 おまけ|おまけ|a discount, something additional|77|贈品；折扣；附加|d|彼は若いし、おまけに、二枚目だ。||He is young and, what is more, handsome.
 お迎え|おむかえ|receiving, welcoming, going to meet, final call|77|迎接；接送；來接|h|素晴らしき日をお迎えください。||All the best wishes on this wonderful day.
 かつて|かつて|once, before, formerly|77|曾；曾經|b|かつて彼らは名古屋にすんでいた。|以前他們住在名古屋。|At one time they lived in Nagoya.
 かり|かり|wild goose, glans|77|雁；大雁|b|何と言ったら良いか分かりません。|我不知道應該說什麼才好。|I don't know what I should say.
 がま|がま|common cattail, broadleaf cattail, common bulrush|77|香蒲；蒲草|h|彼の下で働くなら辞めた方がましだ。|與其讓我在他手下幹，我寧願辭職。|I would rather quit than work under him.
-くるん|くるん|around, while revolving, with a curl|77|前後|b|なんか・・・女湯から悲鳴が聞こえてくるんだけど。|怎麼回事……我聽到女湯那邊有尖叫聲。|Say ... I can hear screams coming from the women's bath.
-こなし|こなし|carriage, movement|77|車廂；座車|b|センスのある着こなしですね。||I love that combination.
+くるん|くるん|around, while revolving, with a curl|77|旋轉；捲曲|v|なんか・・・女湯から悲鳴が聞こえてくるんだけど。|怎麼回事……我聽到女湯那邊有尖叫聲。|Say ... I can hear screams coming from the women's bath.
+こなし|こなし|carriage, movement|77|舉止；處理|v|センスのある着こなしですね。||I love that combination.
 しこ|しこ|Japanese anchovy|77|日本鯷|h|もう少しここにいた方がいいよ。|你最好在這裡待久一點。|You should stay here a little longer.
 せいぜい|せいぜい|at the most, at best, to the utmost|77|盡量；至多；最多|h|そこにいたのはせいぜい５０人だ。||There were barely fifty people there.
 つぶれ|つぶれ|collapse, ruin, destruction, break|77|倒塌；倒下|b|暖房器具の時期に、冷房器具を並べるようなデパートは、たちまちつぶれる。|在需要暖氣裝置的季節把冷氣裝置擺出來賣，這種百貨公司很快就會倒閉。|Department stores that display air conditioners in heater season will very quickly go out of business.
 てこ|てこ|lever, agent|77|槓桿|b|彼は明日帰ってこないでしょう。|他明天不回來。|He will not be back tomorrow.
 どうにも|どうにも|in any way, in no way, at all, terribly|77|無論如何；怎麼也；實在|h|この風邪はどうにも良くならない。||I can't get rid of this cold.
 に渡り|にわたり|throughout, over a period of ..., over a span of ...|77|持續…；歷經…|h|私はフランスに渡りたいと思っている。||I want to go over to France.
-ひきがえる|ひきがえる|toad|77|蟾；蟾蜍|b|||
+ひきがえる|ひきがえる|toad|77|蟾蜍|v|||
 め組|めぐみ|fire brigade|77|消防隊|h|||
 もみ|もみ|Japanese fir, momi fir|77|冷杉|h|誰でもみんなそれを知っている。|那件事誰都知道。|Everyone knows that.
 やけに|やけに|sure, very|77|格外；非常；特別|h|バスはやけにゆっくりと走っていた。||The bus was driving extremely slowly.
@@ -11283,7 +11283,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 一挙に|いっきょに|at a stroke, with a single swoop|78|一舉；一下子|d|||
 万が一|まんがいち|by some chance, by some possibility, in the unlikely event that|78|萬一；萬一有個萬一|h|万が一気が変わったら、知らせて下さい。||If you change your mind, let us know.
 万人|ばんにん|all people, everybody, 10000 people|78|萬人；一萬人|h|横浜は300万人以上の人が住む都市だ。|橫濱是有超過三百萬人居住的城市。|Yokohama is a city where more than three million people live.
-上がり|あがり|ascent, income, completion|78|起；上升|b|もう一杯ワインを召し上がりませんか。|您要再來一杯紅酒嗎？|Will you have another glass of wine?
+上がり|あがり|ascent, income, completion|78|完成；收入；上升|v|もう一杯ワインを召し上がりませんか。|您要再來一杯紅酒嗎？|Will you have another glass of wine?
 下吏|かり|lower official|78|下級官吏；小吏|h|||
 下心|したごころ|secret intention, motive|78|居心；私心；暗中打算|h|彼はあの女性に下心を抱いている。||He has designs on that girl.
 不服|ふふく|dissatisfaction, discontent, disapproval|78|不服；不滿|h|彼は不服そうに口をとがらせた。||He pouted with dissatisfaction.
@@ -11334,7 +11334,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 囚われ|とらわれ|captivity, imprisonment|78|被囚；被束縛|h|被害妄想に囚われるな。||Don't get paranoid.
 国旗|こっき|national flag|78|國旗|h|フランスの国旗は青、白、赤です。|法國國旗是藍、白、紅三色。|The French flag is blue, white and red.
 土壌|どじょう|soil, breeding ground|78|土壤|a|雨で土壌が流されてしまった。|土壤被雨水沖走了。|The rain washed away the soil.
-堤防|ていぼう|bank, weir|78|堤防；銀行|a|堤防が都市を洪水から守ってくれた。||The bank secured the city from a flood.
+堤防|ていぼう|bank, weir|78|堤防|v|堤防が都市を洪水から守ってくれた。||The bank secured the city from a flood.
 大根|だいこん|daikon|78|白蘿蔔|h|大根は人参より高いかもしれない。|白蘿蔔可能比紅蘿蔔貴。|Daikon might be more expensive than the carrots.
 大騒ぎ|おおさわぎ|clamour, clamor, uproar|78|大吵大鬧；轟動|h|彼は、現れるといつも大騒ぎをする。||He never turns up without making a fuss.
 天災|てんさい|natural calamity, disaster|78|天災；自然災害|a|天災はいつ起こるか分からない。||There is no telling when disasters may strike.
@@ -11347,7 +11347,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 寄贈|きぞう|donation, presentation|78|贈送；捐贈|h|同書を一部ご寄贈いただければ幸いに存じます。||I would very much appreciate receiving a copy of the book.
 審査|しんさ|judging, inspection, examination|78|審查；評審|h|審査員は誰ですか？||Who are the judges?
 審議|しんぎ|deliberation|78|審議|h|事件を審議したのはどの裁判官ですか。|哪一位法官審理此案？|Which judge heard the case?
-対等|たいとう|equivalent|78|等式|b|すべての人は対等の権利を有する。||All men have equal rights.
+対等|たいとう|equivalent|78|對等；平等|v|すべての人は対等の権利を有する。||All men have equal rights.
 小女|こめ|small girl|78|小女孩；小姑娘|h|||
 尿|にょう|urine|78|尿；小便|a|||
 屋台|やたい|cart, stall, stand, festival float|78|馬車；推車|b|こんなにひどい屋台を引き継ぎたい人なんていない。|沒人願意接管這個爛攤子。|
@@ -11373,8 +11373,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 懐|ふところ|inside the breast of one's clothing, bosom, pocket|78|懷|a|トムは今日給料をもらったのでふところがあったかい。||Tom is flush with money since he got paid today.
 手数|てかず|trouble, labor, handling|78|麻煩；手續|h|手数料は３パーセントかかります。||We charge a commission of 3%.
 技法|ぎほう|technique|78|技法；手法|a|彼は絵画の技法を完成させた。||He brought the art of painting to perfection.
-把握|はあく|grasp, catch, understanding|78|把握；操|a|私は彼の議論の全体像を把握した。||I grasped the entire structure of his argument.
-抑制|よくせい|control, restraint, suppression|78|控制；管制|b|政府はインフレ抑制に努力すべきだ。||The government should endeavor to curb inflation.
+把握|はあく|grasp, catch, understanding|78|把握；掌握|v|私は彼の議論の全体像を把握した。||I grasped the entire structure of his argument.
+抑制|よくせい|control, restraint, suppression|78|抑制；控制|v|政府はインフレ抑制に努力すべきだ。||The government should endeavor to curb inflation.
 抹茶|まっちゃ|matcha, powdered green tea|78|抹茶|h|「なんでもかんでも、抹茶味にすればいいってもんじゃないよ」「思う。思う」||"Not everything needs to be matcha-flavored." "You are so right. So right."
 担保|たんぽ|security, guarantee, collateral, guarantee|78|擔保；安全性|a|家を担保にお金を借りよう。||We'll use the house as collateral so we can borrow some money.
 挑発|ちょうはつ|provocation, stirring up, arousal|78|挑釁；挑撥|h|あなたはトムを挑発するつもりなのだと思っていました。||I thought you were going to provoke Tom.
@@ -11414,7 +11414,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 水源|すいげん|source of river|78|水源|h|川の始まるところが、水源である。||The place where a river starts is its source.
 浦|うら|inlet, seashore|78|海灣；海濱|h|彼女は私の幸運をうらやんでいる。|她嫉妒我的好運。|She is envious of my good fortune.
 海峡|かいきょう|channel|78|通道；信道|b|その海峡に長い橋を建設中です。||They are building a long bridge across the channel.
-清純|せいじゅん|purity, innocence|78|純度|b|写真が暴露された後で女優の清純なイメージが汚された。||After the pictures were revealed, the actress' clean image was tainted.
+清純|せいじゅん|purity, innocence|78|清純；純潔|v|写真が暴露された後で女優の清純なイメージが汚された。||After the pictures were revealed, the actress' clean image was tainted.
 湯取り|ゆとり|clothing to absorb dampness after bathing, yukata|78|浴衣；浴後的吸汗衣物|h|||
 満喫|まんきつ|having one's fill, eating to one's heart's content|78|盡情享受；飽嘗|h|人生、結構満喫してるよね？||You're really enjoying life, aren't you?
 滅ぼす|ほろぼす|to destroy, to overthrow, to ruin|78|殘；銷毀|b|核兵器はわが地球を滅ぼすと思う。||We think nuclear weapons will destroy our earth.
@@ -11430,7 +11430,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 王道|おうどう|righteous government, just rule, kingship|78|王道；正道|h|学問に王道なし。||There is no easy road to learning.
 理屈|りくつ|theory, reason|78|理論；學說|b|お前の屁理屈はもう聞き飽きたよ。||I'm tired of hearing you pull arguments out of who knows where.
 痘痕|いも|smallpox, pockmark|78|痘痕；天花|a|痘痕も笑窪。||When in love, even pockmarks are dimples.
-発散|はっさん|emission, emanation, radiation, letting out|78|發散；釋放|h|それだとストレスを発散できますね。||That will let you blow off steam.
+発散|はっさん|emission, emanation, radiation, letting out|78|發散；排解|v|それだとストレスを発散できますね。||That will let you blow off steam.
 発狂|はっきょう|madness, craziness, insanity|78|發瘋；瘋狂|h|部屋がタバコ臭くて発狂しそう。||I'm going crazy from the cigarette stench in this room.
 発病|はつびょう|attack, to become sick|78|發病|h|||
 発芽|はつが|germination|78|發芽|h|||
@@ -11481,15 +11481,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 補助|ほじょ|assistance, support, auxiliary|78|補助|a|授業料の補助金が交付された。||I got a grant for my tuition.
 複製|ふくせい|reproduction, duplication, reprinting|78|複製；翻印|h|君が見ている絵はピカソの複製だ。||The picture you are looking at is a copy of a Picasso.
 見せ掛け|みせかけ|seeming, pose, show|78|外表；偽裝|h|||
-見込み|みこみ|prospects, expectation, hope|78|希望；希|b|彼はもう見込みがない。|他是個無可救藥的傢伙。|He is beyond hope.
+見込み|みこみ|prospects, expectation, hope|78|可能性；預期；前景|v|彼はもう見込みがない。|他是個無可救藥的傢伙。|He is beyond hope.
 規格|きかく|standard, norm|78|規格|a|||
-視力|しりょく|eyesight, vision, visual acuity|78|眼力|b|視力がだんだん落ちています。|我的視力正慢慢下降。|My eyesight is getting worse.
+視力|しりょく|eyesight, vision, visual acuity|78|視力|v|視力がだんだん落ちています。|我的視力正慢慢下降。|My eyesight is getting worse.
 覗き|のぞき|peep, peeping, peep show|78|窺；偷看|b|トムはメアリーの目を覗き込んだ。||Tom looked into Mary's eyes.
-言論|げんろん|discussion, speech|78|講話；演說|b|私はあらゆる言論の自由に賛成だ。||I stand for freedom of speech for everyone.
+言論|げんろん|discussion, speech|78|言論|v|私はあらゆる言論の自由に賛成だ。||I stand for freedom of speech for everyone.
 訴訟|そしょう|litigation, lawsuit|78|訴訟；官司|a|法廷はその訴訟に判決を下した。||The court judged the case.
 証言|しょうげん|evidence, testimony|78|證言；證詞|a|彼は証言をするために召喚された。||He was called to give evidence.
 該当|がいとう|corresponding, answering to, coming under|78|符合；適用|h|この条件に該当する人は誰もいない。||There is nobody who fulfils these conditions.
-誠|まこと|truth, faith, fidelity|78|真理；實話|b|彼はまことに利口な少年です。||He is indeed a clever boy.
+誠|まこと|truth, faith, fidelity|78|真誠；確實|v|彼はまことに利口な少年です。||He is indeed a clever boy.
 誤差|ごさ|error|78|誤差|a|我々は誤差を見込んで余裕をとっておいた。||We left a margin for error in our estimates.
 調印|ちょういん|signature, sign, sealing|78|簽印；簽署|d|首相が両国間の貿易協定に調印しました。||The Prime Minister signed a trade agreement between the two countries.
 謹む|つつしむ|to be careful, to be chaste or discreet|78|謹慎；恭敬|h|||
@@ -11507,7 +11507,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 近畿|きんき|Kinki|78|近畿|h|||
 逃す|のがす|to let loose, to set free, to let escape|78|錯過；想念|b|急がないと終電逃すよ。|再不快點你就要趕不上末班車了。|If you don't hurry, you'll miss the last train.
 造形|ぞうけい|molding, moulding, shaping|78|造型；塑造|h|||
-連中|れんちゅう|colleagues, company, a lot|78|連隊|b|私はあの連中からは金を借りない。|我是不會向那些人借錢的。|I will not borrow money from those people.
+連中|れんちゅう|colleagues, company, a lot|78|那夥人；同伴|v|私はあの連中からは金を借りない。|我是不會向那些人借錢的。|I will not borrow money from those people.
 連休|れんきゅう|consecutive holidays|78|連假|h|今度の３連休には何をしますか。||How will you spend the coming three-day holiday?
 連鎖|れんさ|chain, series, connection, linkage|78|鍊；鏈|b|||
 運動会|うんどうかい|athletic meet, sports day, field day|78|運動會|h|雨のために運動会は延期になった。|運動會因為下雨延後了。|Owing to the rain, the athletic meeting was put off.
@@ -11521,7 +11521,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 鎌|かま|sickle, leading question|78|鐮刀；鐮|b|どうか私にかまわないでください。|請不要太在意我。|Please don't mind me.
 限定|げんてい|limit, restriction|78|限定；限|a|開店と同時に限定品に客が殺到した。||As soon as the store opened, customers rushed in towards the limited edition.
 雨天|うてん|rainy weather|78|雨天|a|雨天の後には晴天が来る。|風暴過後，太陽出來了。|After rain comes fair weather.
-露骨|ろこつ|blunt, outspoken, conspicuous|78|開；打開|b|武田君はいつも露骨に怒りを表す。||Takeda always shows his anger openly.
+露骨|ろこつ|blunt, outspoken, conspicuous|78|露骨；直率|v|武田君はいつも露骨に怒りを表す。||Takeda always shows his anger openly.
 非公開|ひこうかい|private, non-public, secret|78|私人；私有|b|このエリアは、非公開です。||This area isn't open to the public.
 非難|ひなん|blame, attack, criticism|78|非難|a|君はなぜ私の息子を非難するのか。|你為什麼指責我兒子？|Why do you accuse my son?
 題材|だいざい|subject, theme|78|話題；課|b|殺し屋というのはテレビ映画では人気のある題材だ。||Hit men are a popular subject for TV movies.
@@ -11533,7 +11533,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 魔力|まりょく|magical powers, supernatural powers, spell|78|魔力|h|彼はすべての悪から魔力で守られた。||He was charmed against all evil.
 鼯鼠|もみ|flying squirrel|78|鼯鼠|a|鼯鼠が木から飛んできました。||The flying squirrel came flying down from the tree.
 えり|えり|fishing weir, fish weir, fish trap|78|魚梁；捕魚的石堰|h|彼のえりのサイズはいくつですか。||What size of collar does he take?
-きりん|きりん|giraffe, qilin|78|長頸鹿|b|ライオンは死んだきりんの肉を食いちぎった。||The lion ripped the flesh from the dead giraffe.
+きりん|きりん|giraffe, qilin|78|長頸鹿；麒麟|v|ライオンは死んだきりんの肉を食いちぎった。||The lion ripped the flesh from the dead giraffe.
 くい|くい|with a light pull, with a gentle tug, with a small motion|78|輕輕一拉；一下|h|真相は井戸の底にあり探りにくい。|在井底很難找到真理。|Truth is difficult to find at the bottom of a well.
 こく|こく|to expel, to let off, to let out|78|開除；驅逐|b|彼はしつこく退職を迫られました。||He was hounded into quitting.
 さやか|さやか|clear, fresh, bright|78|明顯；清楚|b|首相は危篤だとささやかれている。||It is whispered that the Prime Minister is critically ill.
@@ -11562,20 +11562,20 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 クリニック|クリニック|clinic, workshop|78|診所|b|彼女は高須クリニックに行きました。||She went to the Takasu clinic.
 ゲリラ|ゲリラ|guerrilla, guerrilla warfare, sudden|78|游擊隊；突襲|h|彼はゲリラの一隊に要撃された。||He was waylaid by a band of guerrillas.
 コンテナ|コンテナ|container, skip|78|集裝箱|b|||
-ゴー|ゴー|go, going|78|于；去|b|ゴーグルは砂ぼこりから目を守ってくれる。|泳鏡能防沙塵進眼。|Goggles protect your eyes from dust.
+ゴー|ゴー|go, going|78|去；圍棋|v|ゴーグルは砂ぼこりから目を守ってくれる。|泳鏡能防沙塵進眼。|Goggles protect your eyes from dust.
 シリアル|シリアル|serial|78|連續的；早餐穀片|h|トムは急いでシリアルを掻き込んだ。||Tom scarfed down his cereal in a hurry.
 ジャズ|ジャズ|jazz|78|爵士樂|b|彼女はジャズ好きで、私もなんです。|她喜歡爵士樂，我也是。|She likes jazz, and so do I.
 ジャングル|ジャングル|jungle, jungle|78|叢林；密林|b|ライオンはジャングルの王様です。|獅子是叢林之王。|The lion is the king of the jungle.
 スケベ|スケベ|lewdness, lewd person, pervert|78|色狼；好色|h|||
 スタンス|スタンス|stance, attitude, standpoint, stance|78|立場；態度|d|||
-スマイル|スマイル|smile|78|听；微笑|b|僕はケモナー界のプリンスマイルズだよ！||I'm Miles, Prince of the Furry Realm!
-センス|センス|sense|78|味兒|b|この広告はセンスがいいね。|這個廣告的感覺很不錯哦！|That's an interesting ad.
+スマイル|スマイル|smile|78|微笑|v|僕はケモナー界のプリンスマイルズだよ！||I'm Miles, Prince of the Furry Realm!
+センス|センス|sense|78|感覺；品味|v|この広告はセンスがいいね。|這個廣告的感覺很不錯哦！|That's an interesting ad.
 ソファ|ソファ|sofa, couch|78|沙發|b|ソファーを買いたいのですが。|我們想買張沙發。|I'd like to buy a couch.
 ソード|ソード|sword|78|寶劍；刀劍|b|クリスはソードを振るった！||Chris swung his sword!
 タイツ|タイツ|tights, pantyhose|78|緊身褲襪；連身褲襪|h|||
 デリヘル|デリヘル|prostitution, call girl business|78|賣淫；性交易|b|||
-トラップ|トラップ|trap|78|困|b|これはストラップです。||This is a strap.
-ニック|ニック|nick|78|缺口|b|明日はピクニックに行くつもりだ。|我明天去野餐。|I'm going on a picnic tomorrow.
+トラップ|トラップ|trap|78|陷阱；停球|v|これはストラップです。||This is a strap.
+ニック|ニック|nick|78|缺口；尼克|v|明日はピクニックに行くつもりだ。|我明天去野餐。|I'm going on a picnic tomorrow.
 ネオ|ネオ|neo|78|新；新型|h|私たちを招くようにネオンサインが輝いていた。||The neon sign shone as if to invite us.
 ネック|ネック|neck, bottleneck|78|領；脖子|b|これは、パールのネックレスだよ。||This is a pearl necklace.
 ハイブリッド|ハイブリッド|hybrid|78|雜種|b|トムはハイブリッドカーを買った。||Tom bought a hybrid car.
@@ -11614,8 +11614,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 下調べ|したしらべ|preliminary investigation|78|事前調查；預先調查|h|下調べはしたかい。会議は２日後だよ。||Did you do your homework? The meeting is only two days away.
 不可欠|ふかけつ|indispensable, essential|78|不可或缺；必不可少|d|教師にとって忍耐力は不可欠だ。|耐心對一個教師來說是必需的。|Patience is essential for a teacher.
 不愉快|ふゆかい|unpleasant, disagreeable, displeasing|78|不愉快；不好受|a|その言葉には不愉快な連想がある。||The word has unpleasant associations.
-不意|ふい|sudden, abrupt, unexpected|78|暴；驟|b|そのニュースは彼の不意をついた。||The news took him by surprise.
-不況|ふきょう|recession, depression, slump|78|憂鬱症|b|世界はいま不況におちいっている。||The world economy is in recession now.
+不意|ふい|sudden, abrupt, unexpected|78|突然；意外|v|そのニュースは彼の不意をついた。||The news took him by surprise.
+不況|ふきょう|recession, depression, slump|78|不景氣；經濟蕭條|v|世界はいま不況におちいっている。||The world economy is in recession now.
 中毒|ちゅうどく|poisoning|78|中毒|h|食中毒に罹ったことはありますか。|您曾經食物中毒過嗎？|Have you ever gotten food poisoning?
 中盤|ちゅうばん|middle stage, middle phase, middle game, midfield|78|中盤|a|||
 主体|しゅたい|subject, main constituent|78|主體|a|社長が社員の主体的な取り組みを促した。||The president urged employees to act on their initiative.
@@ -11642,13 +11642,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 債権|さいけん|credit, claim|78|信貸|b|債権と一緒にお金も盗まれた。||The money was stolen along with the bonds.
 優遇|ゆうぐう|favorable treatment, favourable treatment, hospitality|78|優待；優惠待遇|h|||
 先天的|せんてんてき|inherent, congenital, hereditary|78|先天的；天生的|h|彼女は先天的な無口です。||She is reserved by nature.
-内蔵|ないぞう|internal organ, built-in|78|對內|b|||
-円か|まどか|round, tranquil|78|團；圓形|b|１０００円かそこらで買えますよ。||You can buy it for a thousand yen or so.
+内蔵|ないぞう|internal organ, built-in|78|內建；內置|v|||
+円か|まどか|round, tranquil|78|圓；安詳|v|１０００円かそこらで買えますよ。||You can buy it for a thousand yen or so.
 冒頭|ぼうとう|beginning, start, outset|78|開頭；朔|b|彼はほんの冒頭部分を書き終えた。||He finished the opening.
 冬眠|とうみん|hibernation, winter sleep|78|冬眠；蟄伏|a|どうして人間は冬眠しないのですか？||Why don't people hibernate?
 冷や|ひや|cold water, cold sake|78|冷水|b|頭を冷やせよ。|冷靜點。|Calm down.
 処方|しょほう|prescription, formula|78|配方；藥方|b|その薬は処方箋無しで買ってはいけません。|那個藥的話沒有處方是買不到的。|You cannot purchase this medicine without a prescription.
-出馬|しゅつば|running, coming forward as a candidate|78|營運|b|彼は大統領選挙に出馬しないことに決めた。||He chose not to run for the presidential election.
+出馬|しゅつば|running, coming forward as a candidate|78|參選；親自出馬|v|彼は大統領選挙に出馬しないことに決めた。||He chose not to run for the presidential election.
 切替|きりかえ|exchange, conversion, switchover|78|切換；轉換|h|||
 到来|とうらい|arrival, coming, advent|78|到來；來臨|h|私は春の到来を待ちわびている。||I'm impatient for spring to arrive.
 刻|こく|period of time|78|期間；期|b|彼はしつこく退職を迫られました。||He was hounded into quitting.
@@ -11713,11 +11713,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 年輪|ねんりん|annual tree ring|78|年輪|a|||
 広大|こうだい|vast, extensive, immense|78|灝；洋洋|b|彼は広大な土地を所有している。||He is possessed of a wide landed property.
 店主|てんしゅ|shopkeeper, storekeeper, proprietor of a shop|78|掌櫃|b|店主は従業員の先頭に立ってはたらいた。||The proprietor of the store worked at the head of his employees.
-庭園|ていえん|garden, park|78|圃|b|その庭園は菖蒲の名所です。|那座庭園是賞菖蒲勝地。|The garden is famous for its irises.
+庭園|ていえん|garden, park|78|庭園；花園|v|その庭園は菖蒲の名所です。|那座庭園是賞菖蒲勝地。|The garden is famous for its irises.
 弁解|べんかい|explanation, justification, excuse|78|解釋|b|彼の返事は実際は弁解にすぎない。||His reply is no more than an excuse.
 強|きょう|strong|78|強|a|日曜日に働いたかわりに、きょう休みを取りました。|因為星期日工作了，所以今天請了假。|I took today off in exchange for working on Sunday.
 強行|きょうこう|forcing, enforcement|78|強行；硬幹|h|||
-弾む|はずむ|to bounce, to be encouraged, to splurge on|78|春天；春|b|ゴムのボールは弾力性があるから弾む。||A rubber ball bounces because it is elastic.
+弾む|はずむ|to bounce, to be encouraged, to splurge on|78|彈跳；興奮；慷慨解囊|v|ゴムのボールは弾力性があるから弾む。||A rubber ball bounces because it is elastic.
 弾薬|だんやく|ammunition, ammo|78|彈藥|a|軍は敵に弾薬庫を引き渡した。||The army surrendered its arsenal to the enemy.
 彫り|ほり|carving, engraving, chiselled features|78|雕花|b|彼女は彫りの深い顔立ちの女の子でした。||She was a girl with finely chiseled features.
 徹する|てっする|to devote oneself, to believe in|78|穿透；識破|b|夜を徹するか否か。||Should I stay up all night or not?
@@ -11731,10 +11731,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 惚ける|ぼける|to grow senile, to fade|78|老糊塗；裝傻；褪色|d|||
 意向|いこう|intention, idea, inclination|78|意向；心意|a|彼の意向をもう一度確認すべきだ。||We should confirm his intentions once more.
 愚か|おろか|foolish, stupid|78|傻；傻氣|b|君は、自分の愚かさを恥ずべきだ。|你應該為你的愚蠢感到羞恥。|You should be ashamed of your stupidity.
-愛い|うい|fine, good, nice|78|罰款；優良|b|あのパン屋で働いている女の子は可愛い。|在麵包房工作的姑娘很可愛。|The girl who works at that bakery is cute.
+愛い|うい|fine, good, nice|78|可愛；美好|v|あのパン屋で働いている女の子は可愛い。|在麵包房工作的姑娘很可愛。|The girl who works at that bakery is cute.
 慣習|かんしゅう|usual custom|78|習俗；俗|b|その慣習は守らなくてはならない。||That institution must be protected.
 憂い|うい|unhappy, sad, miserable|78|不快|b|憂いの反面には喜びがあるものだ。||Every cloud has a silver lining.
-懐かし|なつかし|dear, good old, longed-for|78|親愛|b|彼女は懐かしい思い出にふけった。||She indulged herself in nostalgic memories.
+懐かし|なつかし|dear, good old, longed-for|78|懷念；親切|v|彼女は懐かしい思い出にふけった。||She indulged herself in nostalgic memories.
 懲役|ちょうえき|penal servitude, imprisonment with hard labor|78|有期徒刑|h|銀行強盗すると懲役１０年食らうぞ。|搶劫銀行的後果就是在監獄裡蹲十年。|Bank robbery will cost you ten years in prison.
 懸賞|けんしょう|offering prizes, winning, reward|78|懸賞；獎金|h|懸賞ってほんとに当たるのかね。||Think I'll actually win the prize?
 戦時|せんじ|wartime|78|戰時|a|戦時中、彼は陸軍に所属していた。||During the war, he served in the army.
@@ -11844,10 +11844,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 行為|こうい|act, deed, conduct|78|演出；舉動|b|彼は自分の違法行為を恥じていない。|他對自己的違法行為毫不羞恥。|He is not ashamed of his misconduct.
 裏切り|うらぎり|treachery, betrayal, perfidy|78|奸詐|b|彼女の微笑みの裏には裏切りがある。||Behind her smile lies betrayal.
 製法|せいほう|manufacturing method, recipe, formula|78|製法；做法|d|チーズの製法を教えてください。||Would you teach me how to make cheese?
-解像度|かいぞうど|resolution|78|解像度；決議|a|この画像、解像度が低すぎてすごく汚い。|這張圖片的解像度太低了，所以畫質很差。|The image quality is really bad - the resolution is so low.
+解像度|かいぞうど|resolution|78|解析度；分辨率|v|この画像、解像度が低すぎてすごく汚い。|這張圖片的解像度太低了，所以畫質很差。|The image quality is really bad - the resolution is so low.
 解約|かいやく|cancellation of a contract|78|解約；終止合約|h|私はその商品の予約を解約した。||I canceled my order for the commodities.
 触り|さわり|feel, touch, manner|78|感；覺|b|触りたかったら、触ってもいいよ。||You can touch it if you want.
-言い訳|いいわけ|excuse, explanation|78|原諒；說辭|b|そんなのは言い訳に過ぎないよ。|這只不過是個藉口。|That's just an excuse.
+言い訳|いいわけ|excuse, explanation|78|藉口；辯解|v|そんなのは言い訳に過ぎないよ。|這只不過是個藉口。|That's just an excuse.
 証拠|しょうこ|evidence, proof|78|證據；佐證|a|警察が来て、あらゆる証拠を調査した。|警察來了，調查了所有證據。|The police came and looked into all the evidence.
 試みる|こころみる|to try, to test|78|嘗試；設法|b|彼女は再び試みる事を心決めた。||She made up her mind to try again.
 試作|しさく|trial manufacture, experiment, test piece|78|試做；試製|d|||
@@ -11889,7 +11889,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ずれ|ずれ|difference, gap|78|間隔；空子|b|わたしは彼らのいずれも知らない。|他們中的任何一位我都不認識。|I don't know either of them.
 ただただ|ただただ|absolutely, completely, utterly|78|只；一味地|h|母はただただ泣くだけだった。||My mother did nothing but weep.
 ちっと|ちっと|a little bit, a little while|78|一點點；稍微|b|彼はテニスがちっとも上手ではない。|他離網球高手還差得遠呢。|He is far from a good tennis player.
-ちり|ちり|dish of fish, tofu, vegetables boiled together and served with ponzu dipping sauce|78|涮鍋；魚豆腐蔬菜火鍋|h|彼女にばっちりキスされちゃったよ。||She kissed me full on the lips.
+ちり|ちり|dish of fish, tofu, vegetables boiled together and served with ponzu dipping sauce|78|魚豆腐蔬菜火鍋；灰塵|v|彼女にばっちりキスされちゃったよ。||She kissed me full on the lips.
 ついつい|ついつい|unintentionally, unconsciously, by mistake|78|無心|b|ついついおちょくりたくなっちゃうの。||I can't help making fun of him.
 でかい|でかい|huge|78|龐|b|ボストンってシカゴよりでかいの？||Is Boston bigger than Chicago?
 とことん|とことん|the very end, finish, to the very end|78|徹底；到底|h|とことん話し合ってわかりあおうよ。||Let's hash it all out.
@@ -11898,7 +11898,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ぶれ|ぶれ|camera shake, picture blur, deviation|78|晃動；偏差|h|暖房器具の時期に、冷房器具を並べるようなデパートは、たちまちつぶれる。|在需要暖氣裝置的季節把冷氣裝置擺出來賣，這種百貨公司很快就會倒閉。|Department stores that display air conditioners in heater season will very quickly go out of business.
 もはや|もはや|already, now|78|已經；已|b|人間が月に住むのももはや夢ではない。|人類在月球上居住已不再是夢想。|It is no longer a dream for man to live on the moon.
 よっしゃ|よっしゃ|gotcha, alrighty, got it|78|好；行|h|よっしゃあ！勝った！||Alright! I won!
-ろくな|ろくな|satisfactory, decent|78|稱心|b|試合はとてもおもしろくなかった。|這場比賽不是很有趣|The game was not exciting at all.
+ろくな|ろくな|satisfactory, decent|78|像樣的；正經的|v|試合はとてもおもしろくなかった。|這場比賽不是很有趣|The game was not exciting at all.
 アフガニスタン|アフガニスタン|Afghanistan|78|阿富汗|d|カブールはアフガニスタンの首都です。|喀布林是阿富汗的首都。|Kabul is the capital of Afghanistan.
 アメリカ合衆国|アメリカがっしゅうこく|United States of America|78|美利堅合眾國；美國|d|アメリカ合衆国は共和国である。|美國是一個共和國。|The United States is a republic.
 ウォーキング|ウォーキング|walking|78|健走；散步|h|ウォーキングは優れた運動です。||Walking is an excellent exercise.
@@ -11966,7 +11966,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 促す|うながす|to urge, to suggest, to demand|79|催；驅使|b|||
 保全|ほぜん|preservation, conservation, maintenance|79|保全；保護|h|この地域は保全地域に指定されています。||This has been designated a conservation area.
 修士|しゅうし|Masters degree program|79|碩士|h|彼女は３年前に修士の学位をとりました。||She got her master's degree three years ago.
-俺|おれ|I|79|予；老夫|b|仕事の邪魔立てされては黙っておれない。|我無法容忍別人打擾我的工作。|I cannot endure being disturbed in my work.
+俺|おれ|I|79|我|v|仕事の邪魔立てされては黙っておれない。|我無法容忍別人打擾我的工作。|I cannot endure being disturbed in my work.
 値引き|ねびき|price reduction, discount|79|折扣；減價|d|あの店ではすべての商品を１０％値引きをしている。|那商店裡的商品全都打九折呢。|Everything at that store is 10 percent off the regular price.
 光学|こうがく|optics|79|光學|a|光学の研究で彼は拡大鏡の発明をした。||His study of optics led him to the invention of the magnifying glass.
 光沢|こうたく|luster, glossy finish|79|光華|b|この指輪は光沢をうしなった。||This ring lost its luster.
@@ -11985,7 +11985,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 動脈|どうみゃく|artery, arterial road|79|動脈|a|肺、心臓、静脈、動脈、毛細血管により循環器系が形成されています。||Lungs, heart, veins, arteries and capillaries form the cardiovascular system.
 勝者|しょうしゃ|winner, victor|79|勝者；贏家|a|彼は優勝者の名前を大声で叫んだ。||He called out the name of the winner.
 勧誘|かんゆう|invitation, canvassing, inducement|79|招攬；勸誘|h|彼は私たちに投票を勧誘した。||He solicited our votes.
-区画|くかく|division, section, area|79|除法|b|彼女はここから数区画離れた所に住んでいる。||She lives a few blocks away from here.
+区画|くかく|division, section, area|79|區劃；地塊|v|彼女はここから数区画離れた所に住んでいる。||She lives a few blocks away from here.
 半端|はんぱ|fragment, fraction, incompleteness|79|殘餘；殘留物|b|半端な時間に自転車に乗るだけだ。||I only ride a bicycle at odd times.
 危懼|きく|apprehension, misgivings, uneasiness|79|憂慮；不安|h|||
 危機|きき|crisis|79|危機|a|人々が危機は去ったと言っています。|人們說危機已經走了。|People are saying that the crisis is over.
@@ -12079,11 +12079,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 暮雨|ぼう|evening rain|79|暮雨；傍晚的雨|h|||
 暴|ぼう|violence, force|79|暴力|b|さて、今日は何をして遊ぼうかなあ。。。|那麼，今天玩點兒什麼好呢······|Well, what shall we do for fun today...
 暴力団|ぼうりょくだん|bōryokudan, gangster organization, crime syndicate|79|暴力團；黑幫|h|暴力団を見張るのは危険な冒険だった。||Spying on gangsters was a dangerous venture.
-最多|さいた|most, largest|79|最為；多半|b|||
+最多|さいた|most, largest|79|最多；最高紀錄|v|||
 有益|ゆうえき|beneficial, profitable|79|有益|a|ミミズも時には土壌に有益です。||Worms are sometimes beneficial to soil.
 朝代|ちょうだい|dynastic era|79|朝代|h|||
 期末|きまつ|end of term; end of semester|79|學期末|g|昨年彼は期末の２科目を落とした。||Last year, he failed two of his final examinations.
-本気|ほんき|seriousness, truth, sanctity|79|嚴重性|b|彼女は私の冗談を本気にした。|她把我的玩笑當真了。|She took my joke seriously.
+本気|ほんき|seriousness, truth, sanctity|79|認真；真心|v|彼女は私の冗談を本気にした。|她把我的玩笑當真了。|She took my joke seriously.
 朱|あけ|red, vermilion, cinnabar|79|朱；紅|a|この箱のあけ方を知っていますか。|你知道如何開啟這個箱子嗎？|Do you know how to open this box?
 机下|きか|word of respect added to the addressee's name on a letter|79|几下|h|||
 桟橋|さんばし|wharf, jetty, pier|79|埗|b|昔ここには桟橋があったんだ。||There used to be a pier here.
@@ -12121,18 +12121,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 生誕|せいたん|birth, nativity|79|誕|b|||
 生身|なまみ|living flesh, flesh and blood, the quick|79|血肉之軀；活生生的人|h|||
 産経新聞|さんけいしんぶん|Sankei Shimbun|79|產經新聞|d|それは昨日の産経新聞に掲載された。||It came out in yesterday's Sankei.
-用件|ようけん|business|79|業務；商業|b|ご用件をうけたまわりましょうか。||May I help you?
+用件|ようけん|business|79|事情；要事|v|ご用件をうけたまわりましょうか。||May I help you?
 町代|ちょうだい|assisting town official|79|町代；江戶時期的町小吏|h|||
 異見|いけん|different opinion, objection|79|異議；不同意見|h|||
 痴女|ちじょ|female molester, lewd woman|79|色情女；淫女|h|||
-発作|ほっさ|fit, attack|79|適；擬合|b|喘息の発作が起きました。|我哮喘發作了。|I had an asthma attack.
+発作|ほっさ|fit, attack|79|發作|v|喘息の発作が起きました。|我哮喘發作了。|I had an asthma attack.
 百貨店|ひゃっかてん|department store|79|百貨店；百貨公司|a|たいていの物は百貨店で買います。||I get most things at the stores.
 盛大|せいだい|grand, prosperous, magnificent|79|盛大；隆|a|私は盛大で豪華な結婚式はいらない。||I don't want a big, fancy wedding.
 監視|かんし|observation, guarding, surveillance|79|監視|d|市民プールの監視の仕事に応募しました。|我去了公共游泳池應徵當救生員。|I applied for a job as a lifeguard at the community pool.
 目盛|めもり|scale, gradations|79|刻度|h|日本では摂氏の目盛りが使われている。||The Celsius scale is used in Japan.
 盲点|もうてん|blind spot|79|盲點|a|||
-直接的|ちょくせつてき|direct|79|導演；執導|b|君の質問は直接的すぎた。||Your questions were too direct.
-直結|ちょっけつ|direct connection, direct link|79|直接連結；直接關聯|h|||
+直接的|ちょくせつてき|direct|79|直接的|v|君の質問は直接的すぎた。||Your questions were too direct.
+直結|ちょっけつ|direct connection, direct link|79|直接連接；直通|v|||
 直衣|のうし|everyday robes worn by males of the imperial family, nobility, etc.|79|直衣；貴族便服|h|||
 真珠|しんじゅ|pearl|79|珍珠；明珠|b|香港はアジアの真珠と呼ばれている。|香港被稱作東方之珠。|Hong Kong is referred to as the Pearl of Asia.
 着陸|ちゃくりく|landing, touch down|79|著陸|b|まもなく新東京国際空港に着陸します。|我們將於幾分鐘內降落在新東京國際機場。|In a few minutes we'll be landing at New Tokyo International Airport.
@@ -12165,7 +12165,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 肉食|にくしょく|meat eating, eating of meat, meat diet, carnivorous|79|肉食|h|自分より犬の方が良い肉食べてる。||My dog eats better meat than me.
 脆弱|ぜいじゃく|weak, frail, fragile|79|脆弱；軟弱|a|脆弱で力の無い、ただの人間なんだ。||She's weak, powerless. A mere human.
 脱走|だっそう|escape, flight, breakout|79|逃；逃避|b|彼は脱走するたびにこの土地に帰ってきた。|他每次逃跑都回到這個地區。|Each time he escaped, he returned to this region.
-良識|りょうしき|good sense|79|良知；常識|h|彼は良識があると思いますか。||Do you think he's sensible?
+良識|りょうしき|good sense|79|常識；良知|v|彼は良識があると思いますか。||Do you think he's sensible?
 色気|いろけ|colouring, coloring, shade of colour|79|色彩；性感；興趣|h|彼はすごく色気がある。|他性感得很。|He's very sexy.
 花粉|かふん|pollen|79|花粉|a|近頃は多くの人が花粉症持ちだ。||A lot of people are dealing with hay fever now.
 荒らし|あらし|troll, disturber, raising havoc|79|搗亂者；惡意破壞|h|彼らは私の果実園を荒らした。||They robbed my orchard.
@@ -12196,7 +12196,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 追悼|ついとう|mourning|79|追悼|h|||
 運命|うんめい|fate|79|運命|a|人は皆自己の運命の支配者になるべきだ。|每個人都應該做自己命運的主人。|Everyone ought to be the master of his own destiny.
 過労|かろう|overwork, strain|79|過勞|a|彼は過労の結果病気になっている。||He's suffering from the effects of overwork.
-遺跡|いせき|historic ruins|79|遺體；殘骸|b|我々は古代文明の遺跡を発見した。||We discovered relics of an ancient civilization.
+遺跡|いせき|historic ruins|79|遺跡；古蹟|v|我々は古代文明の遺跡を発見した。||We discovered relics of an ancient civilization.
 郷土|きょうど|homeland|79|老家|b|この近辺で、美味しい郷土料理を食べさせてくれるお店はありますか。||Is there a restaurant around here that serves local delicacies?
 配列|はいれつ|arrangement, array|79|排列；配置|h|||
 配送|はいそう|delivery|79|交割|b|きっと配送中に壊れちゃったんだよ。||I'm sure it got broken during shipping.
@@ -12281,7 +12281,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ベタ|ベタ|betta|79|鬥魚；平淡；老套|h|ベタベタするんじゃねえよっ！鬱陶しい！||Get off me you little pest!
 ホース|ホース|hose|79|水龍；軟管|b|彼はホースを使って庭に水を撒いていました。||He was watering his garden with a hose.
 マイクロソフト|マイクロソフト|Microsoft|79|微軟|h|マイクロソフトエクセルのファイルを添付しました。||I have attached a Microsoft Excel file.
-マッチング|マッチング|matching, networking|79|配合|b|||
+マッチング|マッチング|matching, networking|79|配對；匹配|v|||
 マツダ|マツダ|Mazda|79|馬自達|h|||
 マヤ|マヤ|Maya|79|瑪雅|d|マヤ暦には、19の月があります。||The Mayan calendar has 19 months.
 ミント|ミント|mint, peppermint|79|薄荷|b|スポーツ屋さんで、バトミントンの羽根を2つ買いました。|在運動用品店買了兩盒羽毛球。|I bought two new shuttlecocks from the sporting goods store.
@@ -12295,7 +12295,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 万能|ばんのう|all-purpose, almighty, omnipotent|79|萬能|a|お金は万能ではないが、お金がないと何もできない。|錢不是萬能的，但是沒有錢什麼都幹不成。|Money isn't everything, but if you have no money, you can't do anything.
 上層|じょうそう|upper stratum, upper layer, layer above|79|上層|a|||
 下取り|したどり|trade in, part exchange|79|折價收購；舊貨抵值|h|車を下取りに出して新車を買った。||I traded in my car for a new one.
-不全|ふぜん|partial, incomplete, imperfect|79|偏心|b|夫の勃起不全はお酒を呑むようになったのが原因でしょうか？||Is the source of the erectile dysfunction of my husband the fact that he started drinking?
+不全|ふぜん|partial, incomplete, imperfect|79|不完全；不全|v|夫の勃起不全はお酒を呑むようになったのが原因でしょうか？||Is the source of the erectile dysfunction of my husband the fact that he started drinking?
 不明|ふめい|unknown, ambiguous|79|不明；不清|a|行方不明だった漁船が無事帰港した。|迷路的漁船安全地返回了港口。|The fishing boat that had been missing returned to its port safely.
 世論|せろん|public opinion|79|輿論；民意|b|その計画は世論の圧力で中止になった。|計劃受到輿論的壓力而被取消了。|The plan was given up under the pressure of public opinion.
 両極|りょうきょく|both extremities, north and south poles|79|兩極|d|両極端は一致する。||Extremes meet.
@@ -12307,11 +12307,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 亡命|ぼうめい|fleeing from one's country, seeking asylum, defection|79|流亡；逃亡|h|彼は他の大勢の人達と共に亡命した。||Along with thousands of others, he fled the country.
 交わる|まじわる|to cross, to intersect, to mingle with|79|過；交叉|b|彼は交わるにはむずかしい人だ。||He is a hard man to deal with.
 人手|ひとで|someone else's hands, someone else's possession|79|人手；他人之手|h|このロボットは多くの人手を省く。||This robot dispenses with many hands.
-人目|ひとめ|glimpse, public gaze|79|告示牌|b|左から５人目の男にキスしなさい。||Kiss the fifth man from the left.
+人目|ひとめ|glimpse, public gaze|79|別人的目光；注目|v|左から５人目の男にキスしなさい。||Kiss the fifth man from the left.
 今季|こんき|this season|79|本季；這一季|h|||
 介護|かいご|nursing|79|照護；看護|h|来年から日本では介護保険制度が始まるね。||The new national elder-care insurance system starts next year, right?
 代理人|だいりにん|proxy, agent, substitute|79|代理人|a|緊急の際には、すぐに私の代理人と連絡を取って下さい。|如遇情況緊急，請立即聯絡我的代理。|In case of an emergency, get in touch with my agent right away.
-伝来|でんらい|ancestral, hereditary, imported|79|導論|b|この先祖伝来の家宝は君の物だ。||This heirloom shall be yours.
+伝来|でんらい|ancestral, hereditary, imported|79|傳來；祖傳|v|この先祖伝来の家宝は君の物だ。||This heirloom shall be yours.
 使命|しめい|mission, errand, message|79|使命|a|彼は極秘の使命を帯びていた。|他身負機密使命。|He was charged with a secret mission.
 個性|こせい|individuality, personality, idiosyncrasy|79|個性|a|彼女は個性的な話し方をしていた。|她說話有自己的風格。|She had an individual style of speaking.
 傍ら|かたわら|beside(s, while, nearby|79|邊；側|b|彼は読書をし、その傍らで妻が手袋を編んでいた。||He sat reading, with his wife knitting a pair of gloves beside him.
@@ -12444,7 +12444,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 枯死|こし|withering, dying|79|枯死|h|||
 柯|ふる|handle of an axe, handle of a hatchet|79|斧柄；斧頭的柄|h|寒さで体がガクガクふるえる。|我的身體被凍得瑟瑟發抖。|I shiver from the cold.
 栄える|さかえる|to flourish, to prosper, to thrive|79|繁榮；興盛|d|善人必ずしも栄える者でない。||Not all good men will prosper.
-標語|ひょうご|motto, slogan, catchword|79|座右銘|b|標語は「未来へ！！夢に向かってさあ走ろう！！」である。|標語是「前往未來！前往夢境吧！」|The slogan is "To the future! Let's run toward our dreams!"
+標語|ひょうご|motto, slogan, catchword|79|標語；口號|v|標語は「未来へ！！夢に向かってさあ走ろう！！」である。|標語是「前往未來！前往夢境吧！」|The slogan is "To the future! Let's run toward our dreams!"
 次期|じき|next term, next period, next version|79|下一任；下一期|h|水泳が次期オリンピックの主要競技となるだろう。||Swimming will be the main event of the next Olympics.
 歓喜|かんき|delight, great joy|79|歡喜；狂喜|h|遠くに灯りを見つけ、旅人は歓喜した。|發現了遠處的燈光的旅行者歡喜不已。|The traveler was delighted at the sight of a light in the distance.
 民事|みんじ|civil affairs, civil case|79|民事|a|||
@@ -12456,7 +12456,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 沈殿|ちんでん|precipitation, deposition, settlement|79|降雨；降水量|b|||
 治す|なおす|to cure, to heal|79|治療；醫治|h|ジョンはその病気を治すのに約２週間かかりました。|差不多兩週John的病才好了。|It took John about two weeks to get over his illness.
 治下|ちか|under the rule of|79|統治之下；管轄之下|h|||
-法廷|ほうてい|courtroom|79|朝廷；宮廷|b|法廷は彼のその殺人容疑について無罪とした。|法庭對他的謀殺罪名作出了無罪判決。|The court declared him innocent on the charge of murder.
+法廷|ほうてい|courtroom|79|法庭|v|法廷は彼のその殺人容疑について無罪とした。|法庭對他的謀殺罪名作出了無罪判決。|The court declared him innocent on the charge of murder.
 洋風|ようふう|western style|79|西式|b|私は洋風の家に住んでいます。||I live in a Western-style house.
 海流|かいりゅう|ocean current|79|洋流|b|海流に変化が起きたのだろうか。||Has a change in ocean currents occurred?
 消去|しょうきょ|elimination, erasing|79|消除；刪除|h|一番下の背景レイヤーを消去します。||Remove the lower-most background layer.
@@ -12464,7 +12464,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 淫乱|いんらん|debauched, lewd, lascivious|79|淫亂；淫蕩|d|||
 添える|そえる|to add to, to attach, to accompany|79|附加；陪伴|d|歳月は距離同様二重の魅力を添える。||Age, like distance, lends a double charm.
 添付|てんぷ|attaching, appending, affixing|79|附加；附件|h|あなたの写真を申込書に添付することが必要だ。|你必須把你的照片貼在申請書上。|You need to attach your photo to the application form.
-添加|てんか|addition, annexing|79|加法|b|あのマヨネーズの中、添加物ばっかり！||There are only food supplements in that mayonnaise!
+添加|てんか|addition, annexing|79|添加；加入|v|あのマヨネーズの中、添加物ばっかり！||There are only food supplements in that mayonnaise!
 温和|おんわ|gentle, mild, moderate|79|溫和；輕度|a|概して日本の気候は温和である。||Generally speaking, the climate of Japan is mild.
 満場|まんじょう|unanimous, whole audience|79|全場；滿場|d|彼のばかげた提案が満場一致で承認された。||His foolish proposal was approved unanimously.
 滅多|めった|thoughtless, reckless, careless, ordinary|79|輕率；很少|d|ここは冬でも滅多に雪は降らないのよ。|這裡的冬天很少下雪。|It rarely snows here in the winter.
@@ -12480,24 +12480,24 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 甚だ|はなはだ|very, greatly, exceedingly|79|十分；大為|b|フランス料理は私の甚だ好む所だ。||I like French food very much.
 異論|いろん|different opinion, objection|79|異議；反對意見|h|学生側にはなんの異論もなかった。||There was no objection on the part of the students.
 疑惑|ぎわく|doubt, misgivings, suspicion|79|疑惑；置疑|a|彼の言葉は疑惑を引き起こした。||His words gave rise to doubts.
-発祥|はっしょう|origin, appearance of an auspicious sign that one will receive a divine mandate to becoming emperor|79|起源；根源|b|中東は文明の発祥地である。||The Middle East is the cradle of civilization.
+発祥|はっしょう|origin, appearance of an auspicious sign that one will receive a divine mandate to becoming emperor|79|發源；起源|v|中東は文明の発祥地である。||The Middle East is the cradle of civilization.
 白黒|しろくろ|black and white, monochrome, good and evil|79|黑白|b|白黒テレビは、時代遅れになった。||Black and white television sets have gone out of date.
 目付き|めつき|look, expression of the eyes, eyes|79|眼神；目光|h|||
-目玉|めだま|eyeball, special feature|79|眼球|b|豚の目玉って食べても大丈夫なの？|豬眼睛可以吃嗎？|Is it safe to eat a pig's eyeball?
+目玉|めだま|eyeball, special feature|79|眼球；焦點；招牌|v|豚の目玉って食べても大丈夫なの？|豬眼睛可以吃嗎？|Is it safe to eat a pig's eyeball?
 真上|まうえ|just above, right overhead|79|正上方；頭頂上|h|私の寝室はちょうどこの真上にある。||My bedroom is just above.
 真心|まごころ|sincerity, devotion|79|誠心；精誠|b|彼女は彼に真心こめて感謝しました。||She thanked him with all her heart.
-真相|しんそう|truth, real situation|79|真理；實話|b|真相は井戸の底にあり探りにくい。|在井底很難找到真理。|Truth is difficult to find at the bottom of a well.
-砂嘴|さし|spit, sandspit|79|吐；吐口|b|||
+真相|しんそう|truth, real situation|79|真相|v|真相は井戸の底にあり探りにくい。|在井底很難找到真理。|Truth is difficult to find at the bottom of a well.
+砂嘴|さし|spit, sandspit|79|沙嘴|v|||
 砂州|さす|sandbar, sandbank, shoal|79|汀|b|||
 破滅|はめつ|ruin, destruction, fall|79|敗壞|b|社会は破滅する運命にある。|社會將註定滅亡。|Society is destined to be destroyed.
 祝女|のろ|noro, member of a hereditary caste of female mediums in Okinawa|79|祝女；琉球女祭司|h|||
-禁断|きんだん|prohibition, interdiction, forbidden|79|禁令；禁制令|b|ふっ、禁断の魔術とやらは、俺には通用しないぜ！||Hah, your 'forbidden magics' aren't going to work with me!
-秘訣|ひけつ|secret, key, mysteries|79|秘；奧祕|b|成功の秘訣は失敗を考えないことだ。||The secret of success is not to think of failure.
+禁断|きんだん|prohibition, interdiction, forbidden|79|禁斷；禁忌|v|ふっ、禁断の魔術とやらは、俺には通用しないぜ！||Hah, your 'forbidden magics' aren't going to work with me!
+秘訣|ひけつ|secret, key, mysteries|79|秘訣|v|成功の秘訣は失敗を考えないことだ。||The secret of success is not to think of failure.
 移民|いみん|emigrant, immigrant|79|移民|a|アメリカは移民の国である。|美國是一個移民國家。|America is a country of immigrants.
-納まる|おさまる|to settle into, to be obtained|79|收納；得到平息|h|||
+納まる|おさまる|to settle into, to be obtained|79|平息；裝進；滿意|v|||
 終戦|しゅうせん|end of war, cessation of hostilities|79|終戰|h|彼は終戦直後に出獄した。||He was released from prison immediately after the war.
 経歴|けいれき|personal history, career|79|經歷；履歷|h|彼の経歴を会社に問い合わせた。|我向他公司詢問了他的經歷。|I asked the company for his resume.
-結束|けっそく|union, unity|79|團結；綑綁|h|||
+結束|けっそく|union, unity|79|團結；綁緊|v|||
 続出|ぞくしゅつ|appearing one after another, cropping up one after another, occurring in succession|79|接連出現；層出不窮|h|||
 綱具|つなぐ|rigging|79|繩索裝備；索具|h|||
 総督|そうとく|governor-general, governor, viceroy|79|總督|a|||
@@ -12522,22 +12522,22 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 要り|いり|expenses, expenditure|79|需要；費用|d|説明は要りません。|不需要解釋。|I don't need an explanation.
 要員|よういん|personnel, required person|79|人事|b|||
 見分け|みわけ|distinction|79|分辨；辨別|h|その双子の一方を他方と見分けることができますか。|你可以分出那對雙胞胎中誰是誰嗎?|Can you tell one of the twins from the other?
-見逃す|みのがす|to miss, to overlook, to leave at large|79|錯過；想念|b|見逃すことはありませんよ。||You can't miss it.
-覚え|おぼえ|memory, sense, experience|79|記性；存儲器|b|彼に鍵を渡したことを覚えている。|我記得給了他鑰匙。|I remember giving him the key.
+見逃す|みのがす|to miss, to overlook, to leave at large|79|錯過；放過|v|見逃すことはありませんよ。||You can't miss it.
+覚え|おぼえ|memory, sense, experience|79|記憶；感覺；經驗|v|彼に鍵を渡したことを覚えている。|我記得給了他鑰匙。|I remember giving him the key.
 討議|とうぎ|debate, discussion|79|辯論；論戰|b|彼らは困難な問題を討議し始めた。||They fell into the difficult problems.
 記載|きさい|mention, entry|79|記載；提到|a|著者と出版社の名前を記載します。||I will include the author's and publisher's names.
 設置|せっち|establishment, institution|79|設置；設立|h|仕事場にコンピューターを設置した。||We have equipped our office with computers.
 議事堂|ぎじどう|Diet building|79|議事堂；國會大廈|h|||
 賢者|けんじゃ|wise person, sage|79|賢者；聰明人|h|賢者は己の失策から学ぶ。||A wise man profits from his mistakes.
-質疑|しつぎ|question|79|問題；疑問|b|||
-赤字|あかじ|deficit, go in the red|79|赤字；紅|a|彼はどうにか赤字を出さずにすんだ。||He managed to make both ends meet.
+質疑|しつぎ|question|79|質疑；提問|v|||
+赤字|あかじ|deficit, go in the red|79|赤字；虧損|v|彼はどうにか赤字を出さずにすんだ。||He managed to make both ends meet.
 起伏|きふく|undulation|79|起伏|a|||
 超人|ちょうじん|superman, superwoman, Ubermensch|79|超人|h|彼は世界平和のために超人的な努力をした。||He made superhuman efforts to maintain world peace.
 趣|おもむき|flavor, appearance, quaint|79|含義；意味|b|||
 躾ける|しつける|to discipline, to teach manners|79|教導；訓練規矩|h|||
 軍艦|ぐんかん|warship, battleship|79|軍艦；艦|a|その大砲8門を備えた軍艦の船級は「クイーンエリザベス」です。|那艘配備八門大砲的軍艦艦級為「伊麗莎白女王」級。|That warship armed with eight cannons is a "Queen Elizabeth" class.
 転換|てんかん|convert, divert|79|轉換；改變|d|気分転換に今朝は外で食事しませんか。||How about eating out this morning for a change?
-軽率|けいそつ|thoughtless, careless, hasty|79|皮疹；狂躁|b|軽率なこと言っちゃってごめんね。||I spoke without thinking, sorry.
+軽率|けいそつ|thoughtless, careless, hasty|79|輕率|v|軽率なこと言っちゃってごめんね。||I spoke without thinking, sorry.
 輿|こし|palanquin, litter, bier, portable shrine|79|轎子；神轎|d|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
 近親|きんしん|near relative|79|近親；近親屬|h|近親者に高血圧の方はいらっしゃいますか？||Does anyone in your close family have high blood pressure?
 追って|おって|later on, shortly, presently, P.S.|79|日後；另行；附筆|h|あの車を追ってくれ。|跟上那輛車。|Follow that car!
@@ -12566,7 +12566,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 高尚|こうしょう|high, noble, refined|79|高尚；高|a|彼は趣味が高尚です。||He has elegant tastes.
 高崎|たかさき|Takasaki|79|高崎|h|||
 鳥居|とりい|Shinto shrine archway|79|鳥居|a|鳥居は大きいです。||The shrine gate is huge.
-あみ|あみ|opossum shrimp, mysid|80|磷蝦；糠蝦|h|わたしはあみで蝶を捕まえた。||I captured butterflies with a net.
+あみ|あみ|opossum shrimp, mysid|80|糠蝦|v|わたしはあみで蝶を捕まえた。||I captured butterflies with a net.
 あやふや|あやふや|uncertain, vague, ambiguous|80|渺茫|b|あやふやな手つきで一枚の紙を動かした。||She fumbled with a piece of paper.
 いたって|いたって|very much, exceedingly, extremely|80|非常；極為|h|たまに朝飯を抜いたって、別に悪いことじゃないよ。|偶爾不吃早餐也不會如何不好呀。|It's no crime to skip breakfast once in a while.
 うなぎ|うなぎ|eel|80|鰻魚；鰻|b|生計費は昨年うなぎ上りでした。||The cost of living has shot through the ceiling in the last year.
@@ -12578,11 +12578,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 くも|くも|spider|80|蜘蛛；蛛|b|行くも留まるもあなたの自由です。|是留是走都是你的自由。|You may go or stay at will.
 こなす|こなす|to digest, to break down|80|消化；文摘|b|彼にはその仕事をこなす能力がある。||He has the ability to do the work.
 これぞ|これぞ|this|80|這個；這位|b|これぞまさにコーヒーだ。||This is the coffee.
-さく|さく|block|80|阻斷；阻塞|b|彼の家は小さくて古かった。|他的房子又小又舊。|His house was small and old.
+さく|さく|block|80|柵欄；策略；裂開|v|彼の家は小さくて古かった。|他的房子又小又舊。|His house was small and old.
 さつき|さつき|satsuki azalea|80|杜鵑花|h|||
 さらば|さらば|farewell, goodbye, adieu, if so|80|再見；告別|d|探せ、さらば見いだすであろう。||Seek, and you will find.
 さりげ|さりげ|like that, in that manner|80|若無其事；不經意|h|彼女さりげなく否定しましたよ。||She just blew it off.
-しがらみ|しがらみ|weir, bonds|80|堰|b|そうしたいのは山々だけど、色々なしがらみがあるのも確かです。||As much as I'd love to, there are certainly many things still holding me back.
+しがらみ|しがらみ|weir, bonds|80|人情世故；束縛；水柵|v|そうしたいのは山々だけど、色々なしがらみがあるのも確かです。||As much as I'd love to, there are certainly many things still holding me back.
 すこ|すこ|liking, being fond of, to one's liking|80|喜愛；喜歡|h|彼女は人前で話すことに慣れている。|她習慣在公開場合說話。|She is used to speaking in public.
 すずき|すずき|Japanese sea bass|80|鱸魚|h|||
 ずく|ずく|relying entirely on ..., using solely ...|80|只靠；完全靠|h|けい子と一朗が納得ずくで別れた。||Keiko and Ichiro parted with mutual consent.
@@ -12605,27 +12605,27 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 やあ|やあ|yo!, hello there!, hi!, wow!|80|嘿；哎呀|h|トムはやあと言った。|湯姆打了個招呼。|Tom said hi.
 やに|やに|resin, tar|80|樹脂|b|彼は、今日はいやに礼儀正しい。|他今天非常禮貌。|He is being very polite today.
 よし (かん)|よし (かん)|all right!|80|好；行|d|||
-アフター|アフター|after, socializing outside the club|80|以後|b|当社はアフターサービスと部品を保証しています。||We guarantee after-sales service and parts.
-アルト|アルト|alto|80|女中音|h|モーツアルトの一生は大変短かった。||Mozart's life was very short.
+アフター|アフター|after, socializing outside the club|80|下班後陪酒；之後|v|当社はアフターサービスと部品を保証しています。||We guarantee after-sales service and parts.
+アルト|アルト|alto|80|女低音；中音|v|モーツアルトの一生は大変短かった。||Mozart's life was very short.
 アンドロイド|アンドロイド|android, Android|80|安卓；機器人|d|今アンドロイド用アプリを開発しているところだ。|我正在開發一個安卓應用。|We're developing an Android application at the moment.
-アーケード|アーケード|arcade|80|拱廊；騎樓商街|h|アーケード天井にたくさんの張りぼてが飾られてた。||The shopping arcade was covered with lots of paper decorations.
+アーケード|アーケード|arcade|80|拱廊商店街；街機|v|アーケード天井にたくさんの張りぼてが飾られてた。||The shopping arcade was covered with lots of paper decorations.
 インテリア|インテリア|interior|80|內部|b|インテリアの趣味がいいですね。||You have a good taste in interior design.
 ウォーク|ウォーク|walk|80|走；遊|b|最近買ったウォークマンでハリポタのオーディオブック聴いてる。||I'm listening to a Harry Potter audio book with the Walkman I just bought.
 エアメール|エアメール|air mail|80|航空郵件|h|彼女は手紙をエアメールで送った。||She sent the letter by airmail.
 エフェクト|エフェクト|effect|80|效應；成效|b|||
 エロゲ|エロゲ|erotic video game|80|色情遊戲|h|||
 エンジニア|エンジニア|engineer|80|工程師|b|トムはエンジニアです。|湯姆是工程師。|Tom is an engineer.
-オファー|オファー|offer|80|提供；開設|b|このオファーは５日間有効です。||This offer is good for five days.
+オファー|オファー|offer|80|邀約；提供|v|このオファーは５日間有効です。||This offer is good for five days.
 カウントダウン|カウントダウン|countdown|80|倒數計時|h|カウントダウンが始まりました。||The countdown has begun.
 カジュアル|カジュアル|casual, informal|80|隨性|b|この話し方が好きじゃなければ、カジュアルに話してくれていいよ。||Unless you prefer talking like this, you can speak to me casually.
 カラフル|カラフル|colorful, colourful|80|多彩|b|その絵はこの絵とは対照的にカラフルだ。|和這幅比起上來，那幅畫的色彩鮮艷多了。|The picture is colorful in contrast with this one.
 カルト|カルト|cult|80|邪教|h|宗教とカルトの違いは何ですか？||What's the difference between a religion and a cult?
-カントリー|カントリー|country, countryside, country|80|鄉村音樂；鄉村|d|カントリークラブに入会した。||We joined the country club.
+カントリー|カントリー|country, countryside, country|80|鄉村；鄉村音樂；國家|v|カントリークラブに入会した。||We joined the country club.
 カーペット|カーペット|carpet|80|地毯|b|このカーペットはあれよりも質がいい。|這地毯在質量上比那箇好得多。|This carpet is superior to that one in quality.
 キャバクラ|キャバクラ|hostess bar, bar with female companions for male customers|80|女公關酒吧|h|俺は週に２回くらいキャバクラに行くがアフターにはまったく興味がない。||I go to cabarets two times a week, but I have no interest in after-hours.
 キャンディ|キャンディ|candy, sweets|80|糖果|b|このキャンディーは８０セントです。||This candy costs eighty cents.
 キュー|キュー|cue, cue stick, cue|80|撞球桿；提示|h|男性たちはバーベキューをしている。||The men are having a barbecue.
-ギルド|ギルド|guild|80|會社；行會|b|||
+ギルド|ギルド|guild|80|公會；行會|v|||
 クイズ|クイズ|quiz|80|猜謎；問答遊戲|h|このクイズは全然分からない。||I can make nothing of this quiz.
 クラーク|クラーク|clerk, office worker|80|營業員|b|クラーク博士、お願いがあるのですが。||Dr. Clark, may I ask a favor of you?
 クーデター|クーデター|coup d'état, coup|80|政變|b|クーデターは慎重に遂行された。||The coup was meticulously executed.
@@ -12641,7 +12641,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 シニア|シニア|senior|80|前輩；尊|b|||
 シャン|シャン|beautiful|80|美；美麗|b|トムはプロのマジシャンだ。|湯姆是個專業的魔術師。|Tom is a professional magician.
 シルエット|シルエット|silhouette|80|身影|b|この服のシルエットが気に入ってるの。||I like the silhouette these clothes give me.
-スズキ|スズキ|Suzuki|80|鈴木；鱸魚|d|清蒸スズキにするか、オイスターソースの牛肉にするか、どちらがいいですか？|叫個清蒸鱸魚好呢，還是蠔油牛肉好？|
+スズキ|スズキ|Suzuki|80|鱸魚；鈴木|v|清蒸スズキにするか、オイスターソースの牛肉にするか、どちらがいいですか？|叫個清蒸鱸魚好呢，還是蠔油牛肉好？|
 スタバ|スタバ|Starbucks|80|星巴克|h|スタバに行かない？||Do you want to go to Starbucks?
 スニーカー|スニーカー|sneaker, sneakers, trainers|80|運動鞋|h|そのスニーカーはダサいよ。||Those sneakers are ugly.
 スパイダーマン|スパイダーマン|Spiderman plank, Spiderman abs|80|蜘蛛人|h|スパイダーマンはかっこいいけど、蜘蛛は違うよ。||Spider-Man is cool. Spiders are NOT.
@@ -12680,13 +12680,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 フン|フン|Huns|80|匈奴|h|俺は犬のフンなんてかたづけたくない。||I do not want to clean up dog poop.
 プラザ|プラザ|plaza|80|廣場；購物中心|h|いいですよ。プラザデパートの隣です。||Sure. It's next to the Plaza Department Store.
 ベストセラー|ベストセラー|best-seller|80|暢銷書|d|有名作家はまたベストセラー書を著した。||The famous author created another best-selling book.
-ベース|ベース|base, bass|80|基地；卑鄙|b|彼女は、あのベースが好き。||She likes that bass.
+ベース|ベース|base, bass|80|基礎；基地；貝斯|v|彼女は、あのベースが好き。||She likes that bass.
 ホップ|ホップ|hop, hopping, jumping on one foot|80|跳；啤酒花|d|日曜日、トムは農場へホップを収穫にいってきました。||On Sunday, Tom went hop-picking on the farm.
 ホームレス|ホームレス|homeless, homeless person|80|無家可歸|b|あなたたち全員ホームレスなの？||Are all of you guys homeless?
-ポーズ|ポーズ|pause|80|暫停；姿勢|d|彼女は絵のためにポーズをとった。||She posed for a drawing.
+ポーズ|ポーズ|pause|80|姿勢；暫停|v|彼女は絵のためにポーズをとった。||She posed for a drawing.
 マクロ|マクロ|macro, macro|80|巨集；微距|d|||
 マヨネーズ|マヨネーズ|mayonnaise|80|美乃滋|d|マヨネーズは楽器？|蛋黃醬是一種樂器嗎？|Is mayonnaise an instrument?
-ミサ|ミサ|Mass|80|群眾；質量|b|毎週日曜日には、ミサに行きます。||We go to mass every Sunday.
+ミサ|ミサ|Mass|80|彌撒|v|毎週日曜日には、ミサに行きます。||We go to mass every Sunday.
 ミラクル|ミラクル|miracle|80|神跡|b|||
 メロディー|メロディー|melody|80|旋律|b|彼はメロディーを口笛で吹き始めた。||He began to whistle a tune.
 モンゴル|モンゴル|Mongolia|80|蒙古|d|彼女はいつモンゴルに行ったの？||When did she go to Mongolia?
@@ -12696,7 +12696,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 リサイクル|リサイクル|recycling|80|回收再利用|h|それ、本当にリサイクルできるの？||Is it really recyclable?
 リソース|リソース|resource|80|資源|d|||
 リハーサル|リハーサル|rehearsal|80|彩排|h|１０分休憩してからまたリハーサルを続けました。||After a ten-minute break, we resumed our rehearsal.
-リーマン|リーマン|office worker, company employee, company man|80|職員|b|私はしがないサラリーマンです。|我是個不起眼的上班族。|I'm just a regular office worker.
+リーマン|リーマン|office worker, company employee, company man|80|上班族|v|私はしがないサラリーマンです。|我是個不起眼的上班族。|I'm just a regular office worker.
 レッスン|レッスン|lesson|80|課業|b|彼女は１週間に１度、ピアノのレッスンを受けている。|她每週上一次鋼琴課。|She takes piano lessons once a week.
 一気|いっき|at one push, in one gulp|80|一口氣|b|トムがビールを一気飲みしたんだ。||Tom chugged his beer.
 一線|いっせん|one line, single line, boundary|80|一線；界線|h|彼女は今も第一線で活躍している。||She's still active in the front lines.
@@ -12721,7 +12721,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 仲人|なこうど|go-between, matchmaker|80|媒人；紅娘|b|あの夫婦は私たちの仲人です。||That couple is our go-between.
 企画|きかく|planning, project|80|企劃；計畫|h|その企画は彼の承認を必要とする。||The plan is subject to his approval.
 伏せ|ふせ|lying down, down!|80|趴下；伏倒|h|毎朝腕立て伏せを２０回やります。||He does twenty push-ups every morning.
-伯|はく|count, earl, chief official of the Department of Worship|80|數；計數|b|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
+伯|はく|count, earl, chief official of the Department of Worship|80|伯爵；伯父|v|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
 体力|たいりょく|physical strength|80|體力；力氣|a|彼は体力をすべて使い果たした。||He exhausted all his energy.
 体験|たいけん|personal experience|80|經驗；歷|b|私の両親の世代は戦争を体験していた。|我父母那一代經歷過戰爭。|My parents' generation went through the war.
 何ぞ|なんぞ|something, what|80|某事；某物|b|||
@@ -12761,9 +12761,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 卒業生|そつぎょうせい|graduate, alumnus, alumna|80|畢業生；舉人|b|校長は卒業生一人一人と握手をした。||The principal shook hands with each of the graduates.
 危地|きち|dangerous position, peril|80|危境；險境|h|||
 却下|きゃっか|rejection, dismissal|80|駁回；拒絕受理|h|会社は彼の転勤願いを却下した。||The company rejected his request for a transfer.
-反動|はんどう|reaction, recoil, kick|80|反動；反作用|a|保守主義の人が必ずしも反動主義者とは限らない。||A conservative is not always a reactionary.
+反動|はんどう|reaction, recoil, kick|80|反動；後座力|v|保守主義の人が必ずしも反動主義者とは限らない。||A conservative is not always a reactionary.
 収支|しゅうし|income and expenditure|80|收支|a|私は収支を合わすのに苦労しました。||I had a hard time making both ends meet.
-取り扱う|とりあつかう|to treat, to handle, to deal in|80|辦事；處置|b|科学者は主として物質の問題を取り扱う。||Scientists deal mainly with physical matters.
+取り扱う|とりあつかう|to treat, to handle, to deal in|80|處理；經營；對待|v|科学者は主として物質の問題を取り扱う。||Scientists deal mainly with physical matters.
 取り消し|とりけし|cancellation, withdrawal, abolition|80|取消；撤銷|h|急病のために、彼女は約束を取り消した。|因為急病，她取消了預約。|A sudden illness forced her to cancel her appointment.
 取り調べる|とりしらべる|to investigate, to examine|80|探討；覈|b|事件の原因を取り調べるために実情調査委員会が作られた。||A fact-finding committee was set up to determine the cause of the incident.
 取締り|とりしまり|control, crackdown, supervision|80|取締；管制|d|||
@@ -12779,7 +12779,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 問屋|とんや|wholesale store|80|批發商|h|そうは問屋がおろさないぞ。||It won't be as easy as you think.
 啓発|けいはつ|enlightenment, development, edification|80|啟發；教化|d|絵本は子供たちの頭を啓発する。||Picture books will cultivate the minds of children.
 営利|えいり|money-making, commercialized, commercialised|80|營利|h|彼は営利のためにこれをした。||He did it for the money.
-囚人|しゅうじん|prisoner, convict|80|囚|b|囚人は自由を与えられた。|囚犯重獲自由。|The prisoner was set at liberty.
+囚人|しゅうじん|prisoner, convict|80|囚犯|v|囚人は自由を与えられた。|囚犯重獲自由。|The prisoner was set at liberty.
 四気|しき|weather of the four seasons|80|四季之氣|h|||
 回路|かいろ|circuit|80|迴路|b|男の人の思考回路って分かんない。||I just don't get the way that men think.
 団子|だんご|dango, dumpling, doughboy, ball-shaped object|80|糰子|b|メアリーは髪をお団子にまとめた。||Mary pulled her hair in a bun.
@@ -12807,7 +12807,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 実体|じったい|substance, essence, entity|80|實體；實質|a|実体験をお書きください。||Please write about your real experience.
 客観|きゃっかん|objective|80|客觀；客觀性|a|客観的な歴史は存在するだろうか。|客觀的歷史存在嗎？|Does objective history exist?
 宣|せん|imperial order, imperial decree|80|詔令|b|何と言ったら良いか分かりません。|我不知道應該說什麼才好。|I don't know what I should say.
-宴|うたげ|party, banquet, feast|80|黨；一方|b|||
+宴|うたげ|party, banquet, feast|80|宴會|v|||
 密か|ひそか|secret, private, surreptitious|80|秘；奧祕|b|彼は密かに遊びたいと思っている。||He has a secret desire to play.
 専念|せんねん|absorption, giving undivided attention, devoting oneself|80|專心；專注|h|彼は勉強に専念した。|他專心於學習。|He applied himself to his study.
 小松|こまつ|small pine, young pine|80|小松；小松樹|h|||
@@ -12844,7 +12844,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 手本|てほん|model, pattern|80|模型；典型|b|子供達に良い手本をしめすべきだ。||You should give a good example to your children.
 折り返し|おりかえし|by return, without delay|80|立即回覆；摺返處|h|折り返し電話する。|我會給你回電話的。|I'll call you back.
 折り返す|おりかえす|to turn up, to fold back|80|摺回；折返；翻回|h|||
-拍|はく|beat, mora|80|贏；攷|b|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
+拍|はく|beat, mora|80|拍子；節拍|v|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
 持ち込み|もちこみ|bring-your-own, carry-on|80|自行攜入；帶入的物品|h|それが機内持ち込みの荷物ですか。||Is that your carry-on luggage?
 探査|たんさ|probe, inquiry, enquiry|80|探查；探針|a|私たちは火星を探査しています。|我們正在探測火星。|
 接待|せったい|entertainment, treating, wining and dining|80|遊藝|b|彼が外人客の接待にあたっている。||He is in charge of entertaining the foreign guests.
@@ -12927,7 +12927,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 爵|しゃく|jue|80|爵；古代酒器|h|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
 物流|ぶつりゅう|physical distribution, distribution of goods, logistics|80|物流|a|||
 猛烈|もうれつ|violent, vehement, rage|80|兇猛|b|彼らは、猛烈にいがみあっている。||They fight like cat and dog.
-現像|げんぞう|developing|80|發展|b|このフィルムを現像して下さい。||Please develop this film.
+現像|げんぞう|developing|80|顯影|v|このフィルムを現像して下さい。||Please develop this film.
 瓜|うり|melon, gourd|80|瓜|h|だまれ、さもないとほうり出されるぞ。|住嘴，不然我就把你趕出去咯。|Shut up. If you don't, you'll be thrown out.
 異例|いれい|exceptional, unusual, extraordinary|80|罕見；破例；異常|h|それは全く異例のことだ。||That's an unusual thing, undoubtedly.
 痕跡|こんせき|trace, vestige, mark|80|痕跡；遺跡|a|火星に生命の痕跡はありません。|火星上沒有生命的痕跡。|There is no sign of life on Mars.
@@ -12940,7 +12940,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 盛岡|もりおか|Morioka|80|盛岡市|h|岩手県の県庁所在地は盛岡市です。||Iwate Prefecture's capital is Morioka City.
 目覚しい|めざましい|brilliant, remarkable|80|驚人的；顯著的；出色的|h|彼が１９歳で優勝したのは目覚しい。||It's amazing that he won the championship at the age of nineteen.
 直感|ちょっかん|intuition, instinct|80|直感；直覺|a|彼は直感で彼女の嘘をついているとわかった。|他憑直覺發現她在撒謊。|By intuition he knew she was lying.
-省みる|かえりみる|to reflect|80|思考|b|||
+省みる|かえりみる|to reflect|80|反省；回顧|v|||
 真下|ました|right under, directly below|80|正下方|h|私の部屋はこの真下です。||My room is just below.
 碁盤|ごばん|Go board|80|棋盤|h|||
 確信|かくしん|conviction, confidence|80|確信|h|私は彼が来ることを確信している。|我確信他會來。|I'm certain that he'll come.
@@ -12954,7 +12954,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 答弁|とうべん|response, reply, answer|80|感應|b|首相の答弁は玉虫色だった。||The prime minister's answer was equivocal.
 策定|さくてい|formulation, decision, settling on|80|制定；擬定|h|||
 箔|はく|foil, leaf, prestige|80|金箔；箔片；聲望|h|彼はくたくたの背広を着ていた。|他穿著一件磨得破破爛爛的西裝。|He was wearing a threadbare suit.
-簡素|かんそ|simplicity, plain|80|單純；簡|b|彼らは簡素な生活で満足している。||They are satisfied with a simple life.
+簡素|かんそ|simplicity, plain|80|簡樸；簡單|v|彼らは簡素な生活で満足している。||They are satisfied with a simple life.
 籍|せき|one's family register, one's domicile, nationality|80|戶籍；國籍|d|恋とせきとは隠せない。|愛和咳嗽是無法隱藏的。|Love and cough cannot be hidden.
 精密|せいみつ|precise, exact, detailed|80|精密|a|ご主人には精密検査をお勧めします。||I recommend a thorough checkup for your husband.
 精液|せいえき|semen, seminal fluid, sperm|80|精液|a|精液は瓶詰めにする価値はあるよ。||Semen is worth bottling.
@@ -12964,7 +12964,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 細工|さいく|work, craftsmanship, trick|80|工作；作品|b|宝石細工師はそのブローチに大きな真珠をはめ込んだ。|寶石師傅在胸針上鑲了一枚大珍珠。|The jeweler mounted a big pearl in the brooch.
 細胞|さいぼう|cell|80|細胞|a|人体は無数の細胞からなっている。||A human body consists of a countless number of cells.
 給仕|きゅうじ|waiter|80|服務生；侍者|d|彼らは給仕が急いでくるのを見た。||They saw the waiter coming in a hurry.
-絶頂|ぜっちょう|top, summit, peak|80|上邊；顛|b|彼女は幸せの絶頂ってところだね。||She must be very happy.
+絶頂|ぜっちょう|top, summit, peak|80|頂峰；高潮|v|彼女は幸せの絶頂ってところだね。||She must be very happy.
 縷々|るる|in detail, minutely, at great length, unceasing|80|絮絮；詳細地|h|||
 罵詈|ばり|abuse, abusive language|80|辱罵；罵聲|d|はい、大阪でも相手に罵詈雑言を浴びせるとき、アホと言います。||Yes, in Osaka, too, we say "idiot" when we are insulting someone.
 群がる|むらがる|to swarm, to gather|80|聚集；蜂擁|h|その歌手はファンの群がる中を苦心して進んだ。||The singer fought his way through the crowd of fans.
@@ -12981,7 +12981,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 苗字|みょうじ|surname, family name, last name|80|姓氏；姓|d|池田が苗字で、かず子が名前です。||Ikeda is my last name, and Kazuko is my first name.
 苦戦|くせん|hard fight, close game, struggle|80|苦戰；苦鬥|h|フランス語の文法に苦戦しています。||I'm struggling with French grammar.
 荒野|こうや|wasteland, wilderness, deserted land|80|荒野；荒地|a|新たな入植者達がその広大な荒野を開拓した。||The newcomers cultivated the immense wilderness.
-著しく|いちじるしく|considerably, remarkably, strikingly|80|良多；大加|b|彼の英語は最近著しく進歩した。||He has recently made remarkable progress in English.
+著しく|いちじるしく|considerably, remarkably, strikingly|80|顯著地；非常|v|彼の英語は最近著しく進歩した。||He has recently made remarkable progress in English.
 蒴|さく|capsule, capsule|80|蒴；膠囊|a|彼の家は小さくて古かった。|他的房子又小又舊。|His house was small and old.
 蜂|はち|bee, wasp, hornet|80|蜂；蜜蜂|a|父はちょうど帰宅したところです。|我爸爸剛剛回家。|Father has just come home.
 表彰|ひょうしょう|commendation, public recognition, awarding|80|表彰；公開表揚|h|トムは表彰台まで歩いた。||Tom walked to the podium.
@@ -13014,7 +13014,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 賞味|しょうみ|relish, gusto, appreciation|80|品嚐；欣賞|h|このパンって賞味期限大丈夫か？|這個麵包的保質期可以嗎？|This bread isn't expired?
 車椅子|くるまいす|wheelchair|80|輪椅|b|車椅子の女性、スーパーに立てこもる。||Woman in a wheelchair holes up in supermarket.
 車線|しゃせん|traffic lane, road lane|80|車道|b|一番右側の車線は現在工事中である。||The rightmost lane is now under construction.
-転じる|てんじる|to turn, to shift|80|紐；扭|b|ナポレオン時代のフランス、卓越した才能で魅了するシェフがスパイに転じる。||A brilliant, seductive chef turns to espionage in Napoleon-era France.
+転じる|てんじる|to turn, to shift|80|轉換；轉向|v|ナポレオン時代のフランス、卓越した才能で魅了するシェフがスパイに転じる。||A brilliant, seductive chef turns to espionage in Napoleon-era France.
 転落|てんらく|fall, degradation|80|掉；下跌|b|彼はまっさかさまに川に転落した。||He fell head-long into the river.
 辞職|じしょく|resignation|80|辭呈|b|私は辞職する意志はまったくない。|我一點也沒有要辭職的意思。|I have no intention of resigning.
 近辺|きんぺん|neighbourhood, neighborhood, vicinity|80|附近；周邊|h|この近辺にATMはありますか？||Is there an ATM nearby?
@@ -13024,7 +13024,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 連行|れんこう|taking, dragging away|80|押送；帶走|h|泥棒は警察署に連行された。||The thief was marched off to the police station.
 遊園|ゆうえん|playground, park|80|操場；遊樂場|b|昨日遊園地でばったり先生に会ったよ。||Yesterday, I ran into my teacher at the amusement park.
 過密|かみつ|crowded|80|過密；過於擁擠|h|彼は過密スケジュールを都合して、私の舞台を見に来てくれた。||He organized his overcrowded schedule and managed to come to see my performance.
-道中|どうちゅう|journey, trip, travels, during the journey|80|征；旅程|b|道中御無事を祈ります。||I wish you a good journey.
+道中|どうちゅう|journey, trip, travels, during the journey|80|途中；旅途中|v|道中御無事を祈ります。||I wish you a good journey.
 適性|てきせい|aptitude|80|適性；性向|d|最も重要なのが住環境の快適性である。||The most important thing is a pleasant living environment.
 避く|さく|to avoid, to evade|80|避開；避|b|||
 那覇|なは|Naha|80|那霸|h|沖縄県の県庁所在地は那覇市です。||Okinawa Prefecture's capital is Naha City.
@@ -13066,7 +13066,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 Δ|デルタ|delta|80|三角洲|b|||
 あつらえる|あつらえる|to give an order, to place an order|80|訂製；訂購|d|冬にグレーのスーツを１着あつらえる事を考えています。||I have it in mind to have a gray suit made to order for the winter.
 ありのまま|ありのまま|the truth, as it is, frankly|80|原樣；如實；坦率|h|物事は、ありのまま見るのではなく、自分自身をそこに見る。|我們看東西不是看其實質，而是以我們的主觀意識看它們的。|We don't see things as they are, but as we are.
-あり方|ありかた|the way ought to be, state|80|聲明；說道|b|ヒートアイランド現象の実体解析と対策のあり方について。||An analysis of the nature of the heat island phenomenon and countermeasures.
+あり方|ありかた|the way ought to be, state|80|應有的樣子；狀態|v|ヒートアイランド現象の実体解析と対策のあり方について。||An analysis of the nature of the heat island phenomenon and countermeasures.
 いくらでも|いくらでも|as many as one likes, as much as one likes|80|盡量；多少都行|h|食料はまだいくらでもある。|我們還剩很多食物。|There's still plenty of food left.
 いたわり|いたわり|sympathy, consideration, carefulness, service|80|體貼；照顧；慰問|h|自分をもっといたわりなさい。||Take better care of yourself.
 いやいや|いやいや|no!, no no!, no, not at all|80|不要；不情願地|h|彼はいやいや彼女に会いに行った。||He reluctantly went to see her.
@@ -13080,11 +13080,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 おだてる|おだてる|to flatter|80|奉承；捧高|d|||
 おっかない|おっかない|frightening, scary|80|可怕；嚇人|d|それを飲むのはおっかないな。||I'm afraid to drink it.
 おどおど|おどおど|coweringly, hesitantly|80|畏縮；膽怯地|h|彼女の前に出るときまっておどおどする。||I always get nervous in her presence.
-おなじみ|おなじみ|familiar, well-known, regular|80|暱|b|その物語はおなじみである。||The tale is familiar to us.
+おなじみ|おなじみ|familiar, well-known, regular|80|熟悉的；常客|v|その物語はおなじみである。||The tale is familiar to us.
 お守り|おまもり|charm, amulet, talisman|80|魅力；風趣|b|神様が女王をお守り下さいますように。||God save the Queen.
-かさ|かさ|cone|80|錐；圓錐|b|君は、自分の愚かさを恥ずべきだ。|你應該為你的愚蠢感到羞恥。|You should be ashamed of your stupidity.
+かさ|かさ|cone|80|圓錐；傘；斗笠|v|君は、自分の愚かさを恥ずべきだ。|你應該為你的愚蠢感到羞恥。|You should be ashamed of your stupidity.
 かじ|かじ|paper mulberry|80|構樹；楮|d|君が思うほど僕はばかじゃない。|我不像你想的那麼傻。|I'm not as stupid as you think I am.
-かど|かど|grounds, charge, suspicion|80|論據|b|問題は彼女が来るかどうかである。|問題是她到底來還是不來。|The point is whether she will come or not.
+かど|かど|grounds, charge, suspicion|80|角落；理由；嫌疑|v|問題は彼女が来るかどうかである。|問題是她到底來還是不來。|The point is whether she will come or not.
 かな|かな|how!, what!, alas!|80|啊；唉|h|結局は誰でも自分で学ぶしかない。|到了最後，大家一定要靠自己學習。|Everyone must learn on their own in the end.
 からには|からには|now that, since, so long as|80|既然；既然如此|h|やるからには最善を尽くしなさい。||If you try at all, you should try your best.
 かろうじて|かろうじて|barely, narrowly|80|僅；僅僅|b|私はかろうじて汽車に間に合った。||I barely caught the train.
@@ -13174,7 +13174,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 イングランド|イングランド|England|80|英格蘭|d|私はイングランドからその本を注文した。|我從英國訂了這本書。|I ordered the book from England.
 インターチェンジ|インターチェンジ|interchange|80|交流道；交匯點|h|||
 インターナショナル|インターナショナル|international|80|國際；國際性|b|||
-インテル|インテル|lead|80|領導；率|b|インテル社はその発明で膨大な特許料を得ている。|英特爾公司由那個發明取得著巨大的專利權收入|Intel gets a huge royalty from the invention.
+インテル|インテル|lead|80|英特爾；情報|v|インテル社はその発明で膨大な特許料を得ている。|英特爾公司由那個發明取得著巨大的專利權收入|Intel gets a huge royalty from the invention.
 ウォン|ウォン|won|80|韓元|b|||
 ウルフ|ウルフ|wolf|80|狼|b|||
 エイト|エイト|eight, eight|80|八；捌|b|ウエイトレスさん、注文お願いします。|服務生，我要點菜。|Waitress, I'd like to order.
@@ -13239,18 +13239,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ストライキ|ストライキ|strike|81|罷工|b|ストライキはほとんどむだだった。||The strike was to little purpose.
 ストロー|ストロー|straw|81|吸管|d|ストローに穴は幾つあるでしょう？||How many holes are there in a straw?
 スピン|スピン|spin, rotation, spin|81|績；紡|b|||
-スペース|スペース|space|81|場地|b|サイバースペースへようこそ。||Welcome to Cyberspace!
-スムーズ|スムーズ|smooth|81|光滑；潤滑|b|計画力があると業務がスムーズに進みます。||If one has organisational skills, then work should proceed smoothly.
+スペース|スペース|space|81|空間；太空|v|サイバースペースへようこそ。||Welcome to Cyberspace!
+スムーズ|スムーズ|smooth|81|順暢；光滑|v|計画力があると業務がスムーズに進みます。||If one has organisational skills, then work should proceed smoothly.
 スラックス|スラックス|slacks|81|西褲；長褲|h|彼のスラックスはしわくちゃだ。||His slacks are all wrinkled.
 スー|スー|Sioux, sou|81|蘇族；蘇法國古幣|h|スーツケースが盗まれたようです。|我的行李箱好像被偷了。|I think that my suitcase was stolen.
 セレモニー|セレモニー|ceremony|81|儀式；大典|b|セレモニーには出席できませんでした。||I could not attend the ceremony.
-セーフ|セーフ|safe, in|81|泰；保險櫃|b|セーフティーボックスがございます。||We have safety deposit boxes.
+セーフ|セーフ|safe, in|81|安全；安全上壘|v|セーフティーボックスがございます。||We have safety deposit boxes.
 セーラー服|セーラーふく|sailor suit, middy uniform, two-piece school uniform modeled after the sailor suit|81|水手服|h|||
 ゼウス|ゼウス|Zeus|81|宙斯|d|ソクラテスは主神ゼウスを信じなかったので無神論の罪に問われた。||Socrates was accused of atheism because he did not believe in Zeus.
 ソックス|ソックス|socks|81|襪子；襪|b|あなたのソックス、くさい。|你的襪子好臭。|Your socks stink.
 タトゥー|タトゥー|tattoo|81|刺青；文身|b|トムは腕にハートのタトゥーを入れた。||Tom had a heart tattooed on his arm.
 タフ|タフ|tough|81|強硬；強悍|b|バタフライノットは、上手にできる？||Are you good at tying butterfly knots?
-タラ|タラ|Japanese angelica tree|81|楤木；楤木嫩芽|h|タランチュラはそのいけにえを素早く捕まえた。||The tarantula seized its victim very quickly.
+タラ|タラ|Japanese angelica tree|81|鱈魚；楤木|v|タランチュラはそのいけにえを素早く捕まえた。||The tarantula seized its victim very quickly.
 ターボ|ターボ|turbo|81|渦輪增壓|h|モーターボートを買ったんだって？||I heard you bought a motorboat.
 ダンボール|ダンボール|cardboard, cardboard box|81|紙板|b|これらのダンボールは壊れ易い。||The cardboard boxes are fragile.
 チェス|チェス|chess|81|棋；國際象棋|b|ケンはチェスで私を打ち負かした。|肯下棋打敗了我。|Ken beat me at chess.
@@ -13259,8 +13259,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 チャック|チャック|zip fastener, zipper, zip|81|拉鍊|d|彼はかばんのチャックを閉めた。||He zipped his bag shut.
 チューブ|チューブ|tube|81|筒；管子|b|ユーチューブには、広告がありすぎだよ。|YouTube 上的廣告太多了。|There are too many ads on YouTube.
 テル|テル|tell|81|吐露|b|ホテルまでタクシーで行きなさい。|打的去旅館吧。|Take a taxi to the hotel.
-デモンストレーション|デモンストレーション|demonstration|81|示威遊行|b|７地区で新製品のデモンストレーションを行い、成功しました。||Successfully demonstrated a new product in 7 districts.
-トイ|トイ|toy|81|玩意|b|トイレで読書するのが私の習慣だ。|我習慣在馬桶上看書。|It's my habit to read on the toilet.
+デモンストレーション|デモンストレーション|demonstration|81|示威遊行；示範|v|７地区で新製品のデモンストレーションを行い、成功しました。||Successfully demonstrated a new product in 7 districts.
+トイ|トイ|toy|81|玩具|v|トイレで読書するのが私の習慣だ。|我習慣在馬桶上看書。|It's my habit to read on the toilet.
 トス|トス|toss, tossing, toss|81|擲；拋出|b|トムはウェットスーツを着ている。|湯姆穿著潛水服。|Tom is wearing a wetsuit.
 トライアル|トライアル|trial|81|審判|b|||
 トリガー|トリガー|trigger|81|觸發；扳機|b|||
@@ -13289,10 +13289,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ビラ|ビラ|villa, holiday house|81|別墅|b|彼は価格変更のビラをはり出した。||He put up a notice about the change in price.
 ピエロ|ピエロ|clown|81|丑；小丑|b|そのピエロはわざと転んだ。||The clown fell down on purpose.
 ピコ|ピコ|pico-, 10^-12|81|兆分之一；皮|d|||
-ピッチ|ピッチ|pace, speed, rate, pitch|81|步伐|b|ピッチャーを落として割っちゃった。||I dropped the pitcher and it broke.
+ピッチ|ピッチ|pace, speed, rate, pitch|81|節奏；音高；球場|v|ピッチャーを落として割っちゃった。||I dropped the pitcher and it broke.
 ピーチ|ピーチ|peach|81|桃子；桃|b|彼のスピーチは私を退屈にさせた。|他的演講讓我很無聊。|His speech bored me.
 ファイター|ファイター|fighter|81|戰士；戰鬥機|b|||
-ファイル|ファイル|file, portfolio|81|卷宗；銼|b|ファイルが破損しています。|檔案已損壞。|The file is corrupt.
+ファイル|ファイル|file, portfolio|81|檔案；文件夾；銼刀|v|ファイルが破損しています。|檔案已損壞。|The file is corrupt.
 ファミコン|ファミコン|Famicom, Family Computer, Nintendo Entertainment System|81|紅白機；任天堂家用遊戲機|h|たとえいつ訪問しても、彼はファミコンをやっているだろう。||Whenever you visit him, you will find him playing video games.
 ファンクラブ|ファンクラブ|fan club|81|粉絲俱樂部；後援會|d|||
 フィル|フィル|philharmonic|81|愛樂|b|カラーフィルムを一本ください。|請給我一卷彩色膠片。|A roll of color film, please.
@@ -13322,17 +13322,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 マウンテン|マウンテン|mountain|81|山嶽|b|そのマウンテン・バイクはいくらですか。|那輛山地車多少錢？|How much is that mountain bike?
 マンハッタン|マンハッタン|Manhattan, Manhattan|81|曼哈頓；曼哈頓雞尾酒|h|マンハッタンをください。||I'd like a Manhattan.
 ミュージック|ミュージック|music|81|音樂；音韻|b|トムはポップミュージックが好きだ。||Tom likes pop music.
-ムーア|ムーア|moor, moorland|81|泊|b|||
+ムーア|ムーア|moor, moorland|81|荒原；摩爾人|v|||
 メイ|メイ|May|81|五月；梅|d|このラグはハンドメイドです。|這塊地毯是手工製作的。|This rug is handmade.
 メカニズム|メカニズム|mechanism|81|機構；機制|b|この機械のメカニズムは複雑です。||The mechanism of this machine is complicated.
 メンツ|メンツ|face, honour, honor, meld|81|面；臉|b|メンツ丸つぶれだ。||I have lost face completely.
-モチ|モチ|motivation|81|動因|b|モチベーションが上がらない。||I can't get motivated.
+モチ|モチ|motivation|81|麻糬；動力|v|モチベーションが上がらない。||I can't get motivated.
 モル|モル|mole, mol|81|摩爾；鼴鼠|b|モルモットは孤独死しちゃうんだ。||Guinea pigs can die of loneliness.
 ヤフオク|ヤフオク|Yahoo! Auctions|81|雅虎拍賣|h|あなた同様私もヤフオクの評価が信じられません。||I also, same as you, don't trust Yahoo Auction ratings.
 ヤマハ|ヤマハ|Yamaha|81|山葉|h|ヤマハの二輪車に乗るが大好きです。||I love riding Yamaha motorcycles.
 ユニフォーム|ユニフォーム|uniform|81|劃一|b|警官は青いユニフォームを着ている。||Police officers wear blue uniforms.
-ユニーク|ユニーク|unique|81|絕世|b|彼のユニークな建築スタイルの誕生についての歴史的研究である。||This is a historical examination of the birth of his unique architectural style.
-ライナー|ライナー|liner, line drive, liner|81|平飛球；襯墊|h|アイライナー貸してもらえないかな？||Could I borrow your eyeliner?
+ユニーク|ユニーク|unique|81|獨特；風趣|v|彼のユニークな建築スタイルの誕生についての歴史的研究である。||This is a historical examination of the birth of his unique architectural style.
+ライナー|ライナー|liner, line drive, liner|81|平飛球；襯裡；班輪|v|アイライナー貸してもらえないかな？||Could I borrow your eyeliner?
 ラブホ|ラブホ|love hotel|81|情人旅館|h|あれは朝にラブホから出るのを目撃されるかのごとく気まずかった。||That was as awkward as being seen coming out of a love hotel in the morning.
 リアクション|リアクション|reaction, response, reaction|81|反動；反作用|b|トムのリアクションを見てみよう。||Let's see how Tom reacts to that.
 リサーチ|リサーチ|research|81|研究；查|b|リサーチ・イン・モーションが約２千人の従業員解雇と組織再編を発表した。||Research in Motion announced the layoff of 2000 employees and a restructuring of the company.
@@ -13350,7 +13350,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 一挙|いっきょ|one effort, one action|81|一舉；一次|h|あの人は私の一挙一動を見守っている。||He is watching my every move.
 一行|いちぎょう|line, row|81|線條；長隊|b|その一行の中には５人のロシア人がいる。|那些人裡面有5個俄羅斯人。|There are five Russians among the party.
 一角|いっかく|corner, section, point, one horn|81|角落；牆角|b|彼は自分が一角の人物であると思った。||He thought himself to be somebody.
-三振|さんしん|strikeout|81|三振|a|バッターは空振りの三振をした。||The batter struck out swinging.
+三振|さんしん|strikeout|81|三振出局|v|バッターは空振りの三振をした。||The batter struck out swinging.
 下ろす|おろす|to take down, to bring down, to lower|81|筆記|b|教会は町を見下ろす丘の上にある。||The church is on the hill overlooking the city.
 下落|げらく|depreciation, decline, fall|81|下落；折舊|a|今日で５日連続の株価下落だ。||Today is the fifth day of continual stock price decline.
 不信|ふしん|distrust, mistrust, disbelief, insincerity|81|信不過|b|花子は不信に思って本当かどうか問いただした。||Hanako questioned his sincerity.
@@ -13361,8 +13361,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 丸い|まるい|round, circular, spherical, curved|81|團；圓形|b|私たちは丸いテーブルを買った。|我們買了張圓桌。|We bought a round table.
 丸く|まるく|in a circle, amicably|81|圓圓地；圓滿地；和氣地|h|この鉛筆、先が丸くなってる。鉛筆削り持ってる？|這隻鉛筆的尖變鈍了。有削鉛筆機嗎？|This pencil is blunt. Have you got a sharpener?
 丸出し|まるだし|exposed, bare, uncovered|81|外露|b|すこし落ち着け吉祥、おのぼりさん丸出しだぞ。||Calm down a little, Kissho, your bumpkin nature is standing out!
-乗|じょう|power, counter for vehicles|81|權力；力|b|私は前と同じようにじょうぶです。||I'm as strong as before.
-乗り込む|のりこむ|to board, to get into, to march into|81|板；板子|b|彼女は飛行機に乗り込む前に、私に手を振った。|她上飛機前，給我招了招手。|She waved at me before she got on board the plane.
+乗|じょう|power, counter for vehicles|81|乘方；乘；車輛量詞|v|私は前と同じようにじょうぶです。||I'm as strong as before.
+乗り込む|のりこむ|to board, to get into, to march into|81|搭乘；進駐|v|彼女は飛行機に乗り込む前に、私に手を振った。|她上飛機前，給我招了招手。|She waved at me before she got on board the plane.
 乗員|じょういん|crew member, crewman, crew|81|乘務員；機組人員|h|乗員は皆無事だった。||Everyone on board was safe.
 乗組|のりくみ|crew|81|乘組|a|乗組員の何人かは溺れ死んだ。|有幾個船員溺水而亡。|Some of the crew were drowned.
 人殺し|ひとごろし|murder, murderer|81|謀殺；殺害|b|トムが人殺しだとは思えないよ。||I don't think that Tom is the killer.
@@ -13412,7 +13412,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 刻印|こくいん|engraving a seal, engraved seal, inscribed seal|81|刻印；印記|h|||
 前述|ぜんじゅつ|aforementioned, above-mentioned|81|上述|b|前述参照のこと。||See above.
 前部|ぜんぶ|front part, fore, front|81|前部；前段|a|トムはバスの前部のほうに座っていた。||Tom was sitting in the front of the bus.
-剪る|きる|to cut, to prune, to trim|81|割；切割|b|||
+剪る|きる|to cut, to prune, to trim|81|剪；修剪|v|||
 力士|りきし|sumo wrestler, rikishi, strong man|81|力士|a|姉は若い力士を応援しています。||My sister cheers young sumo wrestlers.
 勇魚|いさな|whale|81|鯨；鯨魚|b|||
 北側|きたがわ|north side, north bank|81|北側|a|カナダはアメリカの北側にある。||Canada is on the north side of America.
@@ -13442,12 +13442,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 台北|タイペイ|Taipei|81|臺北|h|台北から来ました。||I come from Taipei.
 合コン|ごうコン|joint party, combined party, mixer|81|聯誼；聯誼會|h|テニス部と合コンしましょう。||Let's have a party with members of the tennis club.
 合金|ごうきん|alloy|81|合金|a|黄銅は銅と亜鉛の合金である。|黃銅是銅和鋅的合金。|Brass is an alloy of copper and zinc.
-名付ける|なづける|to name|81|名；名字|b|トムは我が子をジョンと名付けることにした。||Tom decided to name his son John.
+名付ける|なづける|to name|81|命名|v|トムは我が子をジョンと名付けることにした。||Tom decided to name his son John.
 向き合う|むきあう|to be opposite, to face each other, to confront|81|面對；正視|h|||
 吟|ぎん|recitation, chanting, singing|81|吟誦；吟詠|h|彼は大臣の腰ぎんちゃくだ。||He is just a minion of the minister.
 吹き替え|ふきかえ|dubbing|81|配音|b|||
 味付け|あじつけ|seasoning, flavour, flavor|81|調味；調味料|b|塩は料理の味付けに用いられます。||Salt is used to season food.
-呼称|こしょう|name, designation, denomination|81|名；名字|b|||
+呼称|こしょう|name, designation, denomination|81|稱呼；名稱|v|||
 命名|めいめい|naming, christening|81|命名；取名|d|彼女は祖母の名をとって命名された。||She was named after her grandmother.
 和了り|あがり|winning|81|胡牌；和牌|h|||
 和泉|いずみ|Izumi|81|和泉；日本舊國名|h|||
@@ -13483,7 +13483,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 専業|せんぎょう|special occupation, principal occupation, specialty|81|專業|a|メアリーは、専業主婦です。||Mary is a stay-at-home mom.
 将校|しょうこう|commissioned officer, military officer|81|軍官；將校|h|将校は部下を鼓舞して勇気を出させた。||The officer inspired his men to be brave.
 導き|みちびき|guidance|81|引導；指引|d|彼は神の導きのもとで働いた。||He worked under divine guidance.
-小さ|ちいさ|baby, infant|81|娃娃；娃|b|私の兄は、小さな村に住んでいます。|我哥住在一座小村莊裡。|My brother lives in a small village.
+小さ|ちいさ|baby, infant|81|小；幼小|v|私の兄は、小さな村に住んでいます。|我哥住在一座小村莊裡。|My brother lives in a small village.
 小僧|こぞう|youngster, boy, kid, young Buddhist monk|81|小和尚；小伙計；小子|d|彼女は腕白小僧に腹を立てている。||She got angry with the naughty boy.
 展覧|てんらん|exhibition, showing, displaying|81|展覽|a|その展覧会は来月開かれるでしょう。||The exhibition will be held next month.
 山中|さんちゅう|in the mountains, among the mountains|81|山中；山裡|h|彼の飛行機は山中で墜落した。|他的飛機在山上墜毀。|His airplane crashed in the mountains.
@@ -13522,11 +13522,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 慰め|なぐさめ|comfort, consolation, diversion|81|溫馨；撫|b|私は彼女を慰めることができる。|我可以安慰她。|I can comfort her.
 懲戒|ちょうかい|discipline, punishment, reprimand|81|懲戒；紀律|a|||
 戦死|せんし|death in battle|81|戰死；陣亡|h|トムの息子は二人とも戦死した。|湯姆的兩個兒子都在戰爭中犧牲了。|Both of Tom's sons died in the war.
-截る|きる|to cut|81|割；切割|b|||
-手助け|てだすけ|a help, assistance|81|幫；援助|b|彼女は僕たちの手助けに感謝した。||She thanked us for our help.
+截る|きる|to cut|81|截斷；切斷|v|||
+手助け|てだすけ|a help, assistance|81|幫助；協助|v|彼女は僕たちの手助けに感謝した。||She thanked us for our help.
 手掛ける|てがける|to handle, to manage, to work with|81|經手；親手負責|h|||
 手放し|てばなし|not holding on, not using the hands, letting go one's hold|81|放手；鬆手；撒手|h|使い慣れた家具を手放したくない。||I don't want to get rid of the familiar furniture.
-打ち切り|うちきり|end, close, finish, end of play|81|終；終點|b|この交渉を打ち切りたい。||We want to break off this negotiation.
+打ち切り|うちきり|end, close, finish, end of play|81|結束；中止；停刊|v|この交渉を打ち切りたい。||We want to break off this negotiation.
 打ち切る|うちきる|to stop, to abort, to discontinue|81|卡；停|b|||
 打ち込む|うちこむ|to devote oneself to, to shoot into|81|投入；全心投入；灌入|h|||
 投げ出す|なげだす|to abandon, to throw out|81|摔；扔下|b|投げ出すな。||Don't throw in the towel.
@@ -13581,7 +13581,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 水上|すいじょう|on the water, aquatic, waterside|81|水上|a|トムは水上スキーをしたことがないと言った。||Tom said he'd never water skied.
 汀|みぎわ|water's edge, shore, waterside|81|水邊；岸邊；灘|d|||
 決闘|けっとう|duel, shoot-out|81|決鬥；對抗賽|a|「親父これって・・・真剣？」「当たり前だろう、決闘なのだからな」|“爸爸，這是真的劍嗎？”“當然，畢竟這是一場對決。”|"Dad, this a real sword?" "Of course, it is a duel after all."
-沙汰|さた|affair, state, incident, verdict|81|務|b|冬にあの山に登るのは狂気の沙汰だ。||It would be crazy to climb that mountain in the winter.
+沙汰|さた|affair, state, incident, verdict|81|消息；處置；事件|v|冬にあの山に登るのは狂気の沙汰だ。||It would be crazy to climb that mountain in the winter.
 洗練|せんれん|refinement, polish|81|洗練；精緻|h|彼女は本当に洗練された女性だよ。||She's a very refined lady.
 流入|りゅうにゅう|inflow, influx|81|流入；湧入|d|外国人労働者の流入が、この地域で深刻な住宅難を引き起こした。||The influx of foreign workers has caused a serious housing problem in this area.
 海水|かいすい|seawater, saltwater|81|海水|a|ハワイでは１年中海水浴が楽しめる。|在夏威夷，一個人可以一年到頭享受海水浴的樂趣。|In Hawaii, we can enjoy swimming in the ocean all year round.
@@ -13680,7 +13680,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 見守る|みまもる|to watch over, to keep watch over, to keep an eye on|81|守望；照看|h|彼はただ見守ることしかできなかった。||He could do nothing but watch.
 見苦しい|みぐるしい|unsightly, ugly|81|難看；不堪入目|d|見苦しいから愚痴は言わないことだ。||You shouldn't complain because you'll look ugly.
 見落とす|みおとす|to overlook, to fail to notice|81|遺漏；俯視|b|その家は教会の向かいだから見落とすはずはない。||The house is across from the church, so you shouldn't miss it.
-見計らう|みはからう|to choose at one's own discretion|81|估；預估|b|||
+見計らう|みはからう|to choose at one's own discretion|81|斟酌；看準時機|v|||
 親方|おやかた|master, boss, chief, stable master|81|師傅；主子|b|||
 解読|かいどく|deciphering, decoding|81|解讀；破譯|h|この暗号は私には解読できない。||I can't break this code.
 触手|しょくしゅ|feeler, tentacle, antenna, touching|81|觸手|a|||
@@ -13819,7 +13819,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 まごつく|まごつく|to be confused, to be flustered|81|不知所措；困惑；慌亂|h|||
 みなし|みなし|deemed, presumptive, imputed|81|視為；推定|h|彼女は彼を間抜けな人間とみなした。||She regarded him as stupid.
 もて|もて|emphatic prefix|81|非常；很；頗為|h|天気がよければ、パーティーは、おもてでやります。|若天氣許可的話，派對將會在戶外舉行。|The party will be held outdoors, weather permitting.
-もてなす|もてなす|to entertain, to make welcome|81|治療；對待|b|彼女は誰を招いても厚くもてなす。||Whomsoever she invites, she is quite hospitable.
+もてなす|もてなす|to entertain, to make welcome|81|招待；款待|v|彼女は誰を招いても厚くもてなす。||Whomsoever she invites, she is quite hospitable.
 もやし|もやし|bean sprouts|81|豆芽|h|アメリカではもやしをサラダにして食べる。||Bean sprouts are eaten as a salad in America.
 やけど|やけど|burn, scald, getting one's fingers burned|81|焚燒；燒傷|b|火ばさみで人差し指をやけどした。||I burned my forefinger on fire tongs.
 やりとげる|やりとげる|to accomplish|81|完成；做到底|h|彼は若いけれども、その仕事をやりとげる力がある。||Though he is young, he is equal to the task.
@@ -13880,12 +13880,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ジェル|ジェル|gel|81|凝膠|b|私は先月、休暇でロサンジェルスへ行きました。||I went to Los Angeles on vacation last month.
 ジャンル|ジャンル|genre|81|體裁|b|このジャンルの曲が好きです。||I like this kind of music.
 ジョナサン|ジョナサン|Jonathan, Jonathan's|81|喬納森|d|ジョナサン・スウィフトなら私を弁護するでしょう。||Jonathan Swift would defend me.
-スクロール|スクロール|scroll, scrolling|82|卷；卷軸|b|下にスクロールして。||Scroll down.
+スクロール|スクロール|scroll, scrolling|82|捲動；卷軸|v|下にスクロールして。||Scroll down.
 スタジオ|スタジオ|studio|82|工作室|b|夜にスタジオでは電気をつけない。||I don't switch on the light in my studio at night.
 スタミナ|スタミナ|stamina, energy, stamina-boosting|82|體力；耐力；精力|d|||
 スチーム|スチーム|steam|82|蒸汽；汽|b|彼は私達のテニスチームに入っている。||He belongs to our tennis team.
 スパイス|スパイス|spice|82|香料|b|ときどき私は辛くてスパイスのきいたものを食べたくなる。|有時候我會想吃辣的東西。|Every now and then I like to have hot and spicy food.
-スプリング|スプリング|spring|82|春天；春|b|ホワイト氏はスプリングフィールドのあるホテルの支配人でした。||Mr. White was the manager of a hotel in Springfield.
+スプリング|スプリング|spring|82|彈簧；春天|v|ホワイト氏はスプリングフィールドのあるホテルの支配人でした。||Mr. White was the manager of a hotel in Springfield.
 スリム|スリム|slim|82|苗條|b|トムって背が高いしスリムなのよ。||Tom is tall and slim.
 セクション|セクション|section|82|款；地段|b|||
 セックス|セックス|sex|82|性愛；性事|b|||
@@ -13896,7 +13896,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タイマー|タイマー|timer|82|計時器；定時器|b|タイマーはもうセットされてるよ。||The timer has already been set.
 タスク|タスク|task|82|課題|b|僕達のタスクは壁を治す。||Our task is to repair a wall.
 タックル|タックル|tackling, tackle|82|擒抱；衝撞|h|||
-ダイジェスト|ダイジェスト|digest, summary, abridgment|82|消化；文摘|b|彼女は「戦争と平和」のダイジェストを読んだ。|她讀了《戰爭與和平》的文摘。|She read the digest of War and Peace.
+ダイジェスト|ダイジェスト|digest, summary, abridgment|82|摘要；文摘|v|彼女は「戦争と平和」のダイジェストを読んだ。|她讀了《戰爭與和平》的文摘。|She read the digest of War and Peace.
 チェコ|チェコ|Czech Republic, Czechia|82|捷克|d|チェコ共和国ではビールは水より安い。||Beer is cheaper than water in the Czech Republic.
 チャラ|チャラ|cancelling, forgiving, being even|82|免除；扯平；兩清|h|謝ったんだから、さっきのはチャラにしてよ。||I've apologized, so get off my back.
 チャンネル|チャンネル|a channel|82|頻道|d|チャンネルを替えてもかまわない？||Do you mind if I change the channel?
@@ -13927,7 +13927,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ハンガー|ハンガー|hanger|82|衣架|h|服は畳むかハンガーにかけておかないと、くしゃくしゃになっちゃうよ。|若沒有將衣服摺起來或是掛在衣架上，會起皺紋。|If you don't fold your clothes or hang them, they will be wrinkled.
 バイブ|バイブ|vibrator, vibe|82|震動器；按摩棒|h|数回バイブルに言及する。||I make several allusions to the Bible.
 バッテリー|バッテリー|battery|82|電池；投手與捕手|h|バッテリー残量が少なくなっています。|電池快沒電了。|The battery is low.
-バナー|バナー|banner, banner|82|旗；大旗|b|バナーと同じ、白を基調としたデザイン。||Like the banner, the design was based around the colour white.
+バナー|バナー|banner, banner|82|橫幅；旗幟|v|バナーと同じ、白を基調としたデザイン。||Like the banner, the design was based around the colour white.
 バンダイ|バンダイ|Bandai|82|萬代|h|||
 パジャマ|パジャマ|pajamas|82|睡衣|d|パジャマのまま朝食を食べた。|我穿著我的睡衣吃早餐。|I ate breakfast in my pajamas.
 パチンコ|パチンコ|pachinko|82|柏青哥|d|彼がパチンコするなんて絶対にないよ。||He wouldn't be caught dead playing pachinko.
@@ -13970,7 +13970,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 メディア|メディア|media|82|媒體；傳媒|h|メディアが憎悪の痕跡を安売りする。||The media sells a trace of hatred at bargain prices.
 メルカリ|メルカリ|Mercari, Inc., Mercalli|82|煤炉；二手交易平台|h|||
 メンヘラ|メンヘラ|nutjob, mental job, lunatic|82|精神不穩的人；情緒化的人|h|メンヘラ臭いのはスルーすればいいのになんでみんなレスつけてんの？||Why does everybody have to reply to them when you can just ignore the cracked-sounding ones?
-メーター|メーター|meter, gauge, metre|82|公尺|b|メーターの数字を読んでください。||Please read the numbers on the meter.
+メーター|メーター|meter, gauge, metre|82|儀表；計量器；公尺|v|メーターの数字を読んでください。||Please read the numbers on the meter.
 メールアドレス|メールアドレス|email address|82|電子郵件地址|h|メールアドレスは何ですか？|電郵地址是什麼？|What is your email address?
 モニター|モニター|monitor|82|監控；監視|b|私はモニターの文字を読む事が困難です。||I'm having trouble reading the letters on the monitor.
 モーテル|モーテル|motel|82|汽車旅館|d|そのモーテルは４００人もの宿泊客を泊められる。|汽車旅館可以接待多達400名客人。|The motel can accommodate as many as 400 guests.
@@ -14010,7 +14010,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 伊豆|いず|Izu|82|伊豆|h|ケイトは週末の間、伊豆に滞在する。||Kate stays in Izu on weekends.
 伝承|でんしょう|handing down, legend, tradition|82|傳承；口傳|h|島の民間伝承はいまだにそのいかだの話を伝えている。||Island folklore still recounts the story of the raft.
 低温|ていおん|low temperature|82|低溫|a|それはもっと低温で保存しなさい。||Keep it at a lower temperature.
-何一つ|なにひとつ|one|82|一；壹|b|何一つ隠し立てするつもりはない。||I will keep nothing back from you.
+何一つ|なにひとつ|one|82|（連同否定）一點也…不|v|何一つ隠し立てするつもりはない。||I will keep nothing back from you.
 使徒|しと|apostle, disciple|82|使徒|a|しかし、使徒たちはその危険に気付いた。||However the disciples awoke to that danger.
 使者|ししゃ|messenger, envoy, emissary|82|使者；信使|a|使者はひそかにロンドンへ出発した。||The messenger left for London in secret.
 例年|れいねん|average year, every year|82|往年；每年|d|この冬は例年になく雪が多かった。||We've had more snow than usual this winter.
@@ -14019,8 +14019,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 信条|しんじょう|creed, belief, conviction|82|信條；教義|a|君の信条は行為と一致していない。||Your principles are not consistent with your actions.
 修了|しゅうりょう|completion|82|結束；修畢；完成|h|私は高校の全課程を修了した。||I completed the whole high school curriculum.
 傘下|さんか|affiliated with, under jurisdiction of, under the umbrella|82|旗下；屬下；麾下|h|なぜ、Ａ社の傘下に入ることを選んだのか。||Why did you decide to affiliate yourself with Company A?
-備え付ける|そなえつける|to provide, to equip, to install|82|發放|b|家に家具を備え付けるのに私達はずいぶんとお金を使った。||We spent a lot of money on furnishing our house.
-傷つける|きずつける|to wound, to injure, to hurt someone's feelings|82|傷口|b|傷つけられた人は人を傷つけるものだ。|受了傷害的人會傷害別人。|Hurt people hurt people.
+備え付ける|そなえつける|to provide, to equip, to install|82|配備；安裝|v|家に家具を備え付けるのに私達はずいぶんとお金を使った。||We spent a lot of money on furnishing our house.
+傷つける|きずつける|to wound, to injure, to hurt someone's feelings|82|傷害；弄傷|v|傷つけられた人は人を傷つけるものだ。|受了傷害的人會傷害別人。|Hurt people hurt people.
 傷付ける|きずつける|to wound, to hurt someone's feelings|82|傷害；傷害感情；刺傷|h|君の心を傷付けるつもりはなかったんだ。||I didn't mean to hurt you.
 傷害|しょうがい|injury, inflicting bodily injury|82|外傷|b|傷害罪ってどの程度の怪我を負わせると傷害罪に問われますか？||You know Grievous Bodily Harm? Just how bad do the injuries have to be before it counts as Grievous?
 僧侶|そうりょ|priest, monk, bonze|82|僧侶；祭司|a|彼は僧侶に近い禁欲生活をしている。||He practices austerities almost like a monk.
@@ -14030,7 +14030,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 全文|ぜんぶん|whole passage, full text, whole sentence|82|全文|a|私たちは彼の小説の全文を読んだ。||We read his whole novel.
 公言|こうげん|declaration, profession|82|宣言|b|彼は自分の信念を公言した。||He avowed his beliefs.
 冊子|さっし|book, booklet, story book|82|冊子；書|a|この小冊子は無料だ。|這本小冊子是免費的。|This booklet is free of charge.
-凄まじい|すさまじい|terrible, dreadful, awful, tremendous|82|恐怖；兇|b|||
+凄まじい|すさまじい|terrible, dreadful, awful, tremendous|82|驚人的；猛烈的；可怕的|v|||
 凸|とつ|convex|82|凸起|b|私は彼の手にしっかりとつかまった。|我緊緊握住了他的手。|I held fast to his hand.
 利き|きき|effectiveness, efficacy, efficaciousness|82|效力|b|彼にああいう口の利き方をするな。||Don't speak to him like that.
 刺青|しせい|tattoo, tattooing|82|刺青；文身|a|トムは体中に刺青がある。||Tom has tattoos all over his body.
@@ -14076,7 +14076,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 周知|しゅうち|common knowledge, being well-known, making well-known|82|周知；眾所周知|h|||
 呵呵|かか|loudly|82|轟然|b|||
 回帰|かいき|return, revolution, recurrence, regression|82|回歸；歸|a|||
-囲碁|いご|go|82|于；去|b|||
+囲碁|いご|go|82|圍棋|v|||
 国々|くにぐに|countries, nations|82|各國；諸國|h|これらの花は暖かい国々で生息する。|這些花生長在溫暖的國家。|These flowers grow in warm countries.
 国債|こくさい|national debt, national securities, government bonds|82|國債|a|戦費の捻出に国債が発行された。||Bonds were issued to finance a war.
 国営|こくえい|government management, state management|82|國營|h|||
@@ -14089,7 +14089,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 埋め込む|うめこむ|to embed, implant|82|埋；葬|b|||
 塩分|えんぶん|salt, salt content, amount of salt|82|鹽分；鹽|a|トムは高血圧で塩分を控えている。||Tom has high blood pressure and is avoiding salt.
 変数|へんすう|variable|82|變數；變量|a|||
-多重|たじゅう|multiple, multiplex|82|倍數|b|あの男の人は多重債務者である。||That man has many debts.
+多重|たじゅう|multiple, multiplex|82|多重；多層|v|あの男の人は多重債務者である。||That man has many debts.
 大きめ|おおきめ|largish, biggish, on the large side|82|偏大；稍大|h|大きめのボールに黄身を入れます。||Put the yolks in a large mixing bowl.
 大げさ|おおげさ|exaggerated, overdone, overblown|82|誇張；小題大做|h|私は遅れたことを大げさに詫びた。||I apologized profusely for my being late.
 大日本帝国|だいにっぽんていこく|Empire of Japan|82|大日本帝國|h|||
@@ -14098,7 +14098,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 天ぷら|てんぷら|tempura, deep-fried fish and vegetables in a light batter|82|天婦羅|d|天ぷらの作りかたを本で読みました。||I read about how to make tempura in a book.
 奏者|そうしゃ|instrumentalist, player|82|演奏者；演奏家|h|我々はその演奏者に拍手をおくった。|我們為表演者鼓掌。|We gave the performer a round of applause.
 好ましい|このましい|nice, likable, desirable|82|令人喜歡的；理想的|h|その志望者は試験官に好ましい印象を与えた。||The applicant impressed the examiner favorably.
-嫁す|かす|to wed, to be married, to shift blame to someone else|82|出嫁；推卸責任|h|ジョンは責任を他人に転嫁する。||John casts the blame on others.
+嫁す|かす|to wed, to be married, to shift blame to someone else|82|出嫁；嫁禍|v|ジョンは責任を他人に転嫁する。||John casts the blame on others.
 完走|かんそう|finishing, running the whole distance, reaching the goal|82|跑完全程；完賽|h|サムにはマラソンを完走するだけの力がない。||Sam doesn't have the stamina to finish a marathon.
 官邸|かんてい|official residence|82|官邸|a|||
 実名|じつめい|real name|82|實名；本名|h|「名前は何て言うの？」「タトエバよ」「それって、実名？」「ううん」||"What's your name?" "Tatoeba." "Is that your real name?" "No."
@@ -14122,7 +14122,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 平面|へいめん|level surface, plane|82|平面|a|マインクラフトが平面という理由で地球も平面だと言うのはダメなんです！||You can’t say that the Earth is flat just because Minecraft is flat!
 年々|ねんねん|year by year, annually, every year|82|年年；每年|d|シンガポールを訪れる人の数は年々増加している。|最近幾年到新加坡的旅客人數不斷增長。|The number of visitors to Singapore has increased year by year.
 引っ掻く|ひっかく|to scratch|82|抓；搔|d|||
-強大|きょうだい|powerful, strong, mighty|82|衝；有力|b|最も強大な帝国ですら崩壊する。||Even the mightiest of empires comes to an end.
+強大|きょうだい|powerful, strong, mighty|82|強大|v|最も強大な帝国ですら崩壊する。||Even the mightiest of empires comes to an end.
 待ち合わせ|まちあわせ|appointment|82|約會|b|待ち合わせの場所間違えたかしら？||Am I waiting in the wrong place?
 後々|のちのち|future, distant future|82|未來|b|||
 後押し|あとおし|pushing, support, backing, pushing from behind|82|推助；支持；推一把|d|後押しをありがとう。||Thanks for your support!
@@ -14139,7 +14139,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 悪用|あくよう|abuse, misuse, perversion|82|濫用；惡用|d|彼は公金を悪用したかどで逮捕された。||He was arrested for misappropriating public funds.
 悲報|ひほう|sad news, news of a death|82|噩耗；惡訊|h|悲報を聞くと彼女は泣き崩れた。||Hearing the sad news, she collapsed in tears.
 意気込む|いきごむ|to be enthusiastic about|82|幹勁十足；躍躍欲試|h|||
-憂さ|うさ|gloom, sadness, melancholy|82|幽暗|b|そして、どうすることも出来ない物憂さに、ふっとため息をつく。||And then I breathe a sigh from melancholy in being unable to do anything about it.
+憂さ|うさ|gloom, sadness, melancholy|82|憂愁；悶氣|v|そして、どうすることも出来ない物憂さに、ふっとため息をつく。||And then I breathe a sigh from melancholy in being unable to do anything about it.
 憎悪|ぞうお|hatred, abhorrence, loathing|82|仇|b|メディアが憎悪の痕跡を安売りする。||The media sells a trace of hatred at bargain prices.
 成り立つ|なりたつ|to consist of, to be practical, to be concluded|82|成立；構成|h|給料があがったので生活がどうにか成り立つ。||Since I got a raise, I can manage.
 打ち消し|うちけし|negation, denial, negative|82|否定；否認|d|彼はうわさを打ち消したわよ。||He denied the rumor.
@@ -14160,10 +14160,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 据え付ける|すえつける|to install, to equip, to mount|82|安裝；裝置|b|||
 探知|たんち|detection|82|偵測；探知|h|重力波は探知するのが非常に難しい。||Gravitational waves are very hard to detect.
 接点|せってん|point of tangency, point of contact, contact|82|接點|a|||
-掻き回す|かきまわす|to stir up, to churn, to disturb|82|攪亂；攪拌；擾亂|d|||
-換金|かんきん|realization, conversion, liquidation|82|兌現；換成現金|h|||
+掻き回す|かきまわす|to stir up, to churn, to disturb|82|攪拌；攪亂|v|||
+換金|かんきん|realization, conversion, liquidation|82|兌現；換錢|v|||
 撃墜|げきつい|shooting down|82|擊落；擊墜|h|彼らは空襲を受けたとき敵の飛行機を２機撃墜した。||They shot down two enemy planes during the raid.
-政界|せいかい|politics, political world, political circles|82|政治；政治學|b|政界では金が非常に重要である。||Money counts for much in political circles.
+政界|せいかい|politics, political world, political circles|82|政界；政壇|v|政界では金が非常に重要である。||Money counts for much in political circles.
 救世主|きゅうせいしゅ|saviour, savior, messiah, Messiah|82|救世主；救星|d|彼は自分が救世主だとかんがえた。||He saw himself as the savior of the world.
 文部|もんぶ|Ministry of Education, Science and Culture|82|文部省；教育部|d|スピーチコンテストは文部省後援のもとに開催された。||The speech contest was held under the auspices of the Ministry of Education.
 断片|だんぺん|fragment, scrap, piece|82|斷片；片段|a|ハードが断片化を起こしてるみたい。||It looks like your hard disk is fragmented.
@@ -14202,11 +14202,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 極力|きょくりょく|to the utmost, to the best of one's ability|82|盡力；竭盡全力|h|我々はあの悪い状況を極力生かした。||We made the best of that bad situation.
 榛|はり|Japanese alder|82|榛樹；榛子|h|封筒にもう１枚切手をはりなさい。|把另一張郵票貼在信封上。|Stick another stamp on the envelope.
 機内|きない|inside a plane, in-flight|82|機內|h|これは機内に持ち込めますか。|我能把這個東西帶到飛機上嗎？|Can I bring this on board?
-機雷|きらい|mine|82|礦山；礦井|b|||
+機雷|きらい|mine|82|水雷|v|||
 歌語|かご|word mainly used in tanka, poetical word|82|歌語；和歌用語|h|||
 武道|ぶどう|martial arts, military arts, Bushido|82|武道|h|薙刀は日本の伝統的な武道の一つだ。||Naginata is one of Japan's traditional martial arts.
 死馬|しば|dead horse|82|死馬|h|||
-民家|みんか|private house|82|民房|b|||
+民家|みんか|private house|82|民宅；民居|v|||
 気まぐれ|きまぐれ|whim, caprice, uneven temper|82|心血來潮；善變|h|あの子、気まぐれなのよ。||The kid is temperamental.
 気取り|きどり|affectation, pretension, posturing, posing as|82|做作；裝模作樣|h|彼女の態度は気取りやわざとらしさがない。||Her nature is neither affected nor pretentious.
 気絶|きぜつ|faint, fainting, losing consciousness|82|暈倒；昏倒|b|その俳優は人気絶頂の時に死んだ。||The actor died at the height of his popularity.
@@ -14244,14 +14244,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 猛虎|もうこ|fierce tiger, ferocious tiger, Hanshin Tigers|82|猛虎|a|||
 王家|おうけ|royal family|82|皇室；王室|b|王家の家族は皇居に住んでいる。||The royal family lives in the Imperial Palace.
 王座|おうざ|throne, first place|82|王座；寶座|a|国王の長男は、王座の後継者である。||The king's eldest son is the heir to the throne.
-玻璃|はり|quartz, glass|82|玻璃；石英|a|||
+玻璃|はり|quartz, glass|82|玻璃；水晶|v|||
 現職|げんしょく|present post, current office, incumbent|82|現職；現任|h|報道機関は現職議員についてはいつもマル秘情報をつかんでいます。||The press always has something on the incumbent.
 瑞|ずい|Sweden, Switzerland|82|瑞典；瑞士|d|ずいぶん簡単なトリックだったな。|還真是簡單的詭計啊。|It was a very simple trick.
 甘味|あまみ|sweetness, sugary taste, sweets|82|甜味|b|口いっぱいに甘味が広がってクセになりそう。||I can feel the sweetness spreading inside my mouth. I feel like I'm going to get addicted.
 生前|せいぜん|while alive, during one's lifetime|82|生前|h|彼は生前は偉大な政治家であった。||He was a great statesman in life.
 生姜|しょうきょう|dried ginger root|82|薑|h|お寿司にはよく甘酢生姜が添えられています。||Sushi is often served with pickled ginger.
 産婦人科|さんふじんか|maternity and gynecology department|82|婦產科|h|最近、産婦人科の不足が問題になっているね。||Recently, shortages of obstetrics and gynecology specialists have become a problem.
-申し出る|もうしでる|to report to, to tell, to suggest|82|提供；開設|b|||
+申し出る|もうしでる|to report to, to tell, to suggest|82|提出；申請；提議|v|||
 申し立て|もうしたて|statement, account, declaration|82|陳述；申訴；聲明|d|彼は警察に偽りの申し立てをした。||He made a false statement to the police.
 画期的|かっきてき|ground-breaking, revolutionary, unprecedented|82|劃時代的；嶄新的|h|当時としちゃ画期的な発明だったね。||It was a groundbreaking invention at the time.
 番長|ばんちょう|leader of a group of juvenile delinquents|82|老大；不良少年頭目|h|これは世界中で一番長い橋だ。|這是世界上最長的大橋。|This is the world's longest bridge.
@@ -14271,10 +14271,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 直近|ちょっきん|latest, most recent, nearest|82|最新|b|||
 相方|あいかた|partner, companion, partner for the night|82|合夥人；伙計|b|||
 真っ二つ|まっぷたつ|in two equal parts|82|一分為二；完全斷開|h|トムはリンゴを真っ二つに切った。||Tom cut the apple in half.
-真ん円い|まんまるい|perfectly round|82|圓滾滾；正圓|h|||
+真ん円い|まんまるい|perfectly round|82|圓滾滾的；正圓的|v|||
 眠れる|ねむれる|sleeping, asleep, resting, to be able to sleep|82|沉睡的；睡得著|h|よく眠れるように明かりを消しなさい。||Put out the light so that you can get a good sleep.
 着信|ちゃくしん|arrival, receiving|82|來電；收到|h|||
-着地|ちゃくち|landing, landing place|82|著陸|b|パイロットは完璧な着地をした。||The pilot made a perfect three-point landing.
+着地|ちゃくち|landing, landing place|82|著地；落地|v|パイロットは完璧な着地をした。||The pilot made a perfect three-point landing.
 磐城|いわき|Iwaki|82|磐城|h|||
 神楽|かぐら|kagura, traditional Shinto music and dancing|82|神樂|h|||
 神酒|しんしゅ|sacred wine, sacred sake, sake offered to the gods|82|神酒；供神的酒|h|お正月には金箔入りのお神酒を頂きました。||I drank ceremonial sake with gold leaf in it at the new year.
@@ -14288,7 +14288,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 空白|くうはく|blank space, blank|82|空白|a|母の死は私の生涯に大きな空白を残した。||The death of my mother left a big blank in my life.
 立ち寄る|たちよる|to stop by, to drop in for a short visit|82|順道去一下；順路拜訪|h|時間があまりないので、ファーストフード店に立ち寄るつもりです。|我沒有多少時間，所以打算去快餐店。|I don't have much time, so I'm going to drop in at a fast-food restaurant.
 立て替える|たてかえる|to pay in advance, to pay for another|82|墊付；代墊|h|||
-競走|きょうそう|race, run, dash|82|族；人種|b|ゆっくりで着実なのが競走に勝つ。||Slow and steady wins the race.
+競走|きょうそう|race, run, dash|82|競賽；賽跑|v|ゆっくりで着実なのが競走に勝つ。||Slow and steady wins the race.
 筑紫|つくし|Tsukushi|82|筑紫；九州古稱|h|貴方は、筑紫川に行く。||You go to the Chikushi river.
 管制|かんせい|control, controlling, coordination|82|管制；控制|a|飛行機は管制塔の上をすれすれに飛んだ。||The plane buzzed the control tower.
 粘着|ねんちゃく|cohesion, adhesion|82|凝聚力|b|トムはメアリーの手足を粘着テープで縛った。||Tom has tied Mary's limbs with tape.
@@ -14318,7 +14318,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 自粛|じしゅく|self-restraint, voluntary restraint, self-imposed control|82|自我克制；自律|h|彼は自粛の波に乗らなかった。||He refused to exercise self-restraint.
 自販機|じはんき|vending machine|82|販賣機|b|私はかっとなって、その自販機をけとばした。|我怒氣上頭，重重地踢向那臺自動售貨機。|I lost my temper and kicked the vending machine.
 舞踏|ぶとう|dance, dancing|82|舞蹈；舞|b|彼は舞踏会を催した。|他舉辦了一場舞會。|He gave a ball.
-舫い|もやい|painter, mooring rope|82|畫家；畫師|b|||
+舫い|もやい|painter, mooring rope|82|繫船索|v|||
 花束|はなたば|bunch of flowers, bouquet|82|花束|a|彼は大きな花束を抱えてやって来た。||He came bearing a large bunch of flowers.
 草紙|そうし|written work|82|草紙；書冊|h|||
 華夏|かか|Huaxia, civilized land|82|華夏|h|||
@@ -14402,7 +14402,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 お似合い|おにあい|well-matched, becoming, suitable|82|般配；相稱|h|彼らはお似合いのカップルです。|他們是合適的一對。|They are a good couple.
 お宝|おたから|treasure, precious article, valuable possession|82|珍惜；寶物|b|||
 お手上げ|おてあげ|given in, given up hope|82|束手無策；沒轍|h|何もかもが難しい。お手上げだい。||Everything is hard. I'm throwing in the towel.
-かけら|かけら|fragment, broken piece, chip, ounce|82|片段|b|この電話で外線がかけられますか。|我可以用這部電話撥打外線電話嗎？|Can I make an outside call on this phone?
+かけら|かけら|fragment, broken piece, chip, ounce|82|碎片；碎屑|v|この電話で外線がかけられますか。|我可以用這部電話撥打外線電話嗎？|Can I make an outside call on this phone?
 かさばる|かさばる|to be bulky|82|佔地方；笨重|h|これはかさばるから宅配便で送ろう。||This is bulky, so I'll send it by home delivery.
 かすみ|かすみ|haze, mist, dimness|82|霾；陰霾|b|目がかすみます。||I have bleary eyes.
 かぶ|かぶ|turnip|82|蕪菁|d|彼女は黒い帽子をかぶっていた。|她戴著黑帽子。|She was wearing a black hat.
@@ -14442,11 +14442,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ぼつぼつ|ぼつぼつ|gradually, here and there, spots|82|逐漸；漸漸|b|||
 まう|まう|to finish ..., to do ... completely|82|完；完畢|b|人は食事を取らなければ死んでしまう。|人不吃東西就會死。|If you don't eat, you'll die.
 まさしく|まさしく|surely, no doubt, evidently|82|確是|b|彼はまさしくそう言った。|這就是他所說的。|That's exactly what he said.
-めちゃめちゃ|めちゃめちゃ|disorderly, messy, ruined, absurd|82|無序|b|めちゃめちゃお腹が痛かったんだ。||I had a bad stomachache.
+めちゃめちゃ|めちゃめちゃ|disorderly, messy, ruined, absurd|82|混亂；一團糟|v|めちゃめちゃお腹が痛かったんだ。||I had a bad stomachache.
 めんどい|めんどい|troublesome, bothersome|82|費事|b|||
 もたらす|もたらす|to bring, to take, to bring about|82|帶來；拿來|b|核兵器は人類の絶滅をもたらすかもしれない。|核子武器會為人類帶來滅絕。|Nuclear weapons may bring about the annihilation of man.
 もやもや|もやもや|hazy, misty, foggy, hazy feeling|82|朦朧；煩悶|h|頭がもやもやしている。||I'm feeling dizzy.
-ややこしい|ややこしい|puzzling, tangled, complicated|82|繁；繁複|b|韓国語を学ぶのがややこしいよね。||Korean is a puzzling language to learn, isn't it?
+ややこしい|ややこしい|puzzling, tangled, complicated|82|複雜；棘手|v|韓国語を学ぶのがややこしいよね。||Korean is a puzzling language to learn, isn't it?
 わさび|わさび|wasabi, Japanese horseradish|82|芥末；山葵|d|このすしはわさびがよく効いている。||This sushi is seasoned with plenty of horse-radish.
 わざわざ|わざわざ|take the trouble, doing something especially rather than incidentally|82|特地；特意|h|わざわざ、ありがとうございます。|謝謝你特地跑來這裡。|Thank you for taking the trouble to do this.
 アイヌ|アイヌ|Ainu|82|阿伊努族|h|私はアイヌの家族の構造を研究した。||I studied the structure of Ainu families.
@@ -14521,7 +14521,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タイミング|タイミング|timing|82|時序|b|いいタイミングだ。|好時機。|Nice timing.
 タイムリー|タイムリー|timely, run-batted-in, RBI|82|適時|b|||
 タレント|タレント|talent, star, personality|82|藝人；才能|d|彼の妹は人気のテレビタレントだよ。|他妹妹是個著名的電視明星。|His younger sister is a well-known TV star.
-ダイレクト|ダイレクト|direct|82|導演；執導|b|通信販売がダイレクト・マーケティングの主な形態である。|郵購是直接銷售的主要形式。|Mail order is the main form of direct marketing.
+ダイレクト|ダイレクト|direct|82|直接|v|通信販売がダイレクト・マーケティングの主な形態である。|郵購是直接銷售的主要形式。|Mail order is the main form of direct marketing.
 チェロ|チェロ|cello, violoncello|82|大提琴|b|私はチェロとピアノに興味があります。||I have an interest in cello and piano.
 チベット|チベット|Tibet|82|西藏|h|中国やチベットの山に住んでいる白黒の熊はパンダと呼ばれている。||The black and white bears living in the mountains of China and Tibet are called pandas.
 チャリ|チャリ|bicycle|82|腳踏車|h|トムはチャリの乗り方を学びたい。||Tom wants to learn how to ride a bicycle.
@@ -14581,7 +14581,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ミュージアム|ミュージアム|museum|83|博物館；博物院|b|あのミュージアムを設計したのは誰なの？||Who designed that museum?
 ミート|ミート|meat|83|肉；肉類|b|トムはミートボールが好きなんだ。||Tom likes meatballs.
 メソッド|メソッド|method, method|83|路子|b|||
-メリー|メリー|merry, mobile|83|旋轉玩具；快樂的|h|メリークリスマス！|聖誕節快樂！|Merry Christmas!
+メリー|メリー|merry, mobile|83|快樂的；旋轉床鈴|v|メリークリスマス！|聖誕節快樂！|Merry Christmas!
 メーカー|メーカー|manufacturer|83|廠商|b|トムはムードメーカーだった。||Tom was the life of the party.
 モノクロ|モノクロ|monochrome|83|單色|b|モノクロ印刷よりカラー印刷の方が高い。||A monochrome print is cheaper than a colour print.
 ヤンキース|ヤンキース|Yankees|83|洋基隊|h|ヤンキースがドジャースを負かした。||The Yankees got the better of the Dodgers.
@@ -14662,7 +14662,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 取り付ける|とりつける|to furnish, to install, to get someone's agreement|83|安裝；裝置|b|私たちがハトの頭に磁石を取り付けるとハトはどんな反応をするのでしょうか。||When we put magnets on the pigeon's heads, what was the reaction?
 取り寄せる|とりよせる|to order, to send away for|83|令；命令|b|インターネットで願書を取り寄せるといいよ。||Have them send you an application form over the Internet.
 取り締まり|とりしまり|control, management, supervision|83|控制；管制|b|警察は違法駐車の取り締まりを始めた。||The police began a crackdown on illegal parking.
-取り締まる|とりしまる|to crack down, to control, to supervise|83|經紀|b|不正アクセスは、法律で取り締まるべき。||There should be a law against computer hacking.
+取り締まる|とりしまる|to crack down, to control, to supervise|83|取締；管制|v|不正アクセスは、法律で取り締まるべき。||There should be a law against computer hacking.
 取り込み|とりこみ|taking in, bringing in, capturing|83|收入；吸收|h|||
 受け入れる|うけいれる|to accept, to receive|83|接下來；採納|b|私は彼の要望を受け入れるつもりです。|我會接受他的請求。|I will accept his request.
 受験生|じゅけんせい|student preparing for or taking examinations, test-taker|83|考生|h|妹の咲子です。俺と年子で、今受験生です。||This is my little sister Sakiko. She was born the same year as me and is now studying for her exams.
@@ -14684,9 +14684,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 地道|じみち|steady, honest, sober|83|穩定；穩重|b|地道な者はいつか勝つ。||Slow but steady wins the race.
 執|しゅう|attachment, obsession, persistence|83|執念|d|彼は復しゅう心にかられて行動した。||He was driven by revenge.
 執拗|しつよう|persistent, obstinate, tenacious|83|執拗；頑固|h|彼は私に迅速な回答を執拗に求めた。||He pressed me for a prompt reply.
-培養|ばいよう|culture, cultivation, cultivation|83|文化|b|組織培養の視点からは、この実験の環境はもっと厳密に規定されるべきである。||From the viewpoint of tissue culture, the environment for this experiment should be more rigidly defined.
+培養|ばいよう|culture, cultivation, cultivation|83|培養；培育|v|組織培養の視点からは、この実験の環境はもっと厳密に規定されるべきである。||From the viewpoint of tissue culture, the environment for this experiment should be more rigidly defined.
 増設|ぞうせつ|adding, establishing more, installing more|83|增設|h|メモリ増設しようかな。||Maybe I ought to expand the memory.
-壮絶|そうぜつ|heroic, fierce, grand|83|英勇；悍|b|||
+壮絶|そうぜつ|heroic, fierce, grand|83|壯烈；慘烈|v|||
 売り出す|うりだす|to put on sale, to market|83|推出；上市|h|クリスマスは新しいおもちゃを売り出すいい機会だ。||Christmas is a good time to market new toys.
 変人|へんじん|eccentric, crank, weirdo|83|奇人|b|彼は歌がうまいので大変人気がある。||He is very popular because he is a good singer.
 変装|へんそう|disguise, masquerade|83|變裝；偽裝|d|彼は警官に変装して逃げた。|他偽裝成警察逃跑了。|He got away disguised as a policeman.
@@ -14742,7 +14742,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 待ち望む|まちのぞむ|to look anxiously for, to wait eagerly for|83|翹首期盼|h|||
 後援|こうえん|support, backing|83|支；架|b|その会は外務省の後援で開かれた。||That party was held under the auspices of the Foreign Ministry.
 心霊|しんれい|spirit, soul, spirit|83|精神；精靈|b|この心霊写真、よくできているけど、ただの合成写真だよ。||This ghost photo is well made, but it's just a composite.
-思いつき|おもいつき|idea, plan, fancy|83|意見；意思|b|もっといいこと思いつきませんか。||Can you think of something better?
+思いつき|おもいつき|idea, plan, fancy|83|靈感；突然的想法|v|もっといいこと思いつきませんか。||Can you think of something better?
 思い通り|おもいどおり|as one likes, as one wants, as one wishes|83|如願；如意|h|私達は全てを思い通りに出来ない。||We can't have our own way in everything.
 怯え|おびえ|fear, dread, fright|83|恐怕；畏懼|b|トムは怯えているのかもしれない。||Tom might be frightened.
 恐怖症|きょうふしょう|phobia, morbid fear|83|恐怖症；恐懼症|a|メアリーは男性恐怖症だ。|瑪麗患有男性恐懼症。|Mary is afraid of men.
@@ -14751,7 +14751,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 悲喜|ひき|joys and sorrows|83|悲歡離合|b|私の胸中は悲喜こもごもだ。||Joy and grief alternate in my breast.
 悲歌|ひか|elegy, dirge, mournful melody|83|悲歌；哀歌|d|||
 惨事|さんじ|disaster, tragedy, tragic incident|83|慘事；禍|a|その惨事はあのテロリストのせいだ。||That terrorist was to blame for the disaster.
-愛しい|いとしい|lovely, dear, beloved, pitiable|83|嫵媚|b|||
+愛しい|いとしい|lovely, dear, beloved, pitiable|83|可愛的；憐愛的；心愛的|v|||
 愛称|あいしょう|pet name, nickname, affectionate name|83|愛稱|a|「きなちゃん」はうちの猫の愛称だ。||"Kina-chan" is our cat's nickname.
 慈善|じぜん|charity, benevolence, philanthropy|83|慈善機構|b|彼は慈善活動にいそしんでいる。||He's active doing charity work.
 扇|おうぎ|folding fan|83|扇子|h|||
@@ -14761,7 +14761,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 打ち明ける|うちあける|to confess, to be open|83|坦白；吐露|d|君はすべてのことを打ち明けるほうがよい。||You had better make a clean breast of everything.
 投影|とうえい|projection, casting, reflection|83|投影；射影|a|||
 抜け出す|ぬけだす|to slip out, to sneak away, to excel|83|溜走；脫離|h|この迷路は抜け出すのがとても難しい。||This maze is very hard to get out of.
-押し切る|おしきる|to have one's own way|83|克服|b|||
+押し切る|おしきる|to have one's own way|83|強行通過；堅持到底|v|||
 担い|にない|carrying, bearing, shouldering|83|扛；承擔|h|彼は肩に銃を担いだ。||He carried a rifle on his shoulder.
 招集|しょうしゅう|call, summons, convening|83|號召；呼|b|彼は大尉以上の者を全員招集した。||He called together everyone who was a captain and above.
 持ち切り|もちきり|hot topic, talk of the town|83|熱門話題|h|||
@@ -14781,7 +14781,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 支配人|しはいにん|manager, executive|83|經理；管理員|b|彼は本当のところ支配人ではない。|事實上他並不是主管。|He isn't actually the manager.
 放り込む|ほうりこむ|to throw into|83|投入；傾注|b|||
 斬|ざん|beheading, decapitation|83|斬殺；斬首|h|雨でピクニックはさんざんだった。||The rain spoiled our picnic.
-断り|ことわり|notice, notification, warning, permission|83|告示牌|b|はっきりとお断りしました。|我斬釘截鐵地拒絕了她。|I flatly refused.
+断り|ことわり|notice, notification, warning, permission|83|拒絕；事先通知；許可|v|はっきりとお断りしました。|我斬釘截鐵地拒絕了她。|I flatly refused.
 新党|しんとう|new party|83|新黨|d|船田氏が新党に加わるかどうかは、定かでは、ない。||It is not certain if Mr Funada will join the new party.
 新潮|しんちょう|Shinchō|83|新潮|h|||
 新田|しんでん|new rice field, newly developed rice field|83|新開墾田|h|||
@@ -14808,12 +14808,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 東電|とうでん|Tokyo Electric Power Co., Inc., Tokyo Denryoku, TEPCO|83|東京電力|h|東電は高濃度の放射性物質を含む汚染水の流出を防ぐことができない。||TEPCO is unable to stop the flow of dirty water contaminated with highly radioactive material.
 染色|せんしょく|dyeing, staining|83|染色；染布|h|ウールは染色しやすい。||Wool takes a dye well.
 棋士|きし|professional shogi player, professional go player|83|棋士|h|トムは、自分で考えているほどいいチェスの棋士ではありません。||Tom is not as good a chess player as he thinks he is.
-極上|ごくじょう|first-rate, finest quality, the best|83|優等|b|彼は私に缶詰の極上品を贈ってくれた。||He gave me a select brand of canned goods.
+極上|ごくじょう|first-rate, finest quality, the best|83|極品；最上等|v|彼は私に缶詰の極上品を贈ってくれた。||He gave me a select brand of canned goods.
 榾|ほた|kindling, tinder, chips of firewood|83|柴火；木屑|h|||
 残虐|ざんぎゃく|cruel, brutal, savage|83|殘虐；凶狠|a|戦争中多くの残虐行為が行われた。||Many atrocities were committed during the war.
 母ちゃん|かあちゃん|mum, mom, mummy, wifey|83|媽媽|h|うわ、父ちゃんと母ちゃんがチューしてるよ。||Ugh, mommy and daddy are kissing.
 比丘|びく|bhikkhu|83|比丘|h|||
-比価|ひか|parity|83|比價|h|||
+比価|ひか|parity|83|平價；比價|v|||
 民放|みんぽう|commercial broadcast|83|民營電視台|h|民主党は選挙運動のために民放テレビの放送枠を買いました。||The Democrats bought space on commercial television for the campaign.
 汚し|よごし|soiling, polluting, being dirty, shame|83|弄髒；汙點|h|寝具も土埃で汚してしまいました。||Also my bedding got dirt on it.
 没|ぼつ|death, rejection|83|死亡；退稿|d|トムはおぼつかない足取りだった。||Tom was unsteady on his feet.
@@ -14961,7 +14961,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 閣議|かくぎ|cabinet meeting|83|閣議|a|その時閣議はほとんど終わっていた。||The Cabinet conference was all but over then.
 防弾|ぼうだん|bulletproof, bombproof|83|防彈|a|これは防弾ガラスです。||This is bulletproof glass.
 陽子|ようし|proton|83|質子|b|原子は陽子・中性子・電子で構成されている。||Atoms are composed of protons, neutrons, and electrons.
-離島|りとう|isolated island, outlying island, leaving an island|83|孤島|b|||
+離島|りとう|isolated island, outlying island, leaving an island|83|離島；孤島|v|||
 雨夜|あまよ|rainy night|83|雨夜|a|||
 雲母|うんも|mica, isinglass|83|雲母|a|||
 零し|こぼし|waste-water container|83|廢水桶|h|||
@@ -15005,7 +15005,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 そうね|そうね|Oh well, yeah, good|83|是啊；對呢|h|それ本当に美味しそうね。|那個看起來很好吃呢。|That looks really delicious.
 ぞい|ぞい|don't you think?|83|吧；對吧|h|彼女はその穴から外をのぞいた。||She looked out through the hole.
 ちくしょう|ちくしょう|damn it, damn, son of a bitch, beast|83|該死；混蛋|h|ちくしょう！わるくないなあ！||Damn! It's not bad!
-なぎ|なぎ|nagi, Asian bayberry|83|無風；平靜的海面|h|その木は風でなぎ倒されたんだよ。||The tree was blown down.
+なぎ|なぎ|nagi, Asian bayberry|83|風平浪靜；竹柏|v|その木は風でなぎ倒されたんだよ。||The tree was blown down.
 なにやら|なにやら|something, some kind of, for some reason|83|某事；某物|b|本のすみになにやら書き込んである。||Something is written in the corner of the book.
 に関し|にかんし|related to, in relation to|83|關於；有關|d|価格に関して話し合いたいのですが。|我想和你談談價錢。|I want to discuss the price with you.
 はえ|はえ|fly|83|飛；蠅|b|天井に大きなはえがとまっています。|有一隻大蒼蠅在天花板上。|There's a big fly on the ceiling.
@@ -15041,7 +15041,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 クラゲ|クラゲ|jellyfish|83|水母|b|今日はクラゲがいるから気をつけて。||There are jellyfish out there today, so watch out.
 クラスメイト|クラスメイト|classmate|83|同班同學|b|クラスメイトの何人かが私が彼にチョコレートをあげるのを見た。|一些同學看見我給了他巧克力。|Some classmates saw me give him chocolate.
 クラッチ|クラッチ|clutch|83|捉；離合器|b|クラッチペダルが壊れてしまった。||I broke the clutch.
-クリーナー|クリーナー|cleaner|83|清潔工|b|||
+クリーナー|クリーナー|cleaner|83|吸塵器；清潔劑；清潔工|v|||
 クロム|クロム|chromium|83|鉻|b|||
 ケージ|ケージ|cage|83|牢籠|b|ケージの中にいるのはカナリアだよ。||The birds in the cage are canaries.
 コイル|コイル|coil|83|線圈；繞組|b|電流が流れる電線にコイルを近づけると、コイルにも電気が流れます。||When a coil is moved near to a wire with current flowing in it current flows in the coil as well.
@@ -15099,7 +15099,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ドバイ|ドバイ|Dubai|83|杜拜|d|アドバイスありがとうございます。|謝謝你的建議。|Thank you for your advice.
 ドーン|ドーン|bang, whump, boom|83|啪；嘩|b|||
 ノミネート|ノミネート|nomination|83|提名|h|彼女はアカデミー賞の最優秀助演女優にノミネートされた。||She won an Oscar nomination for best supporting actress.
-ハプニング|ハプニング|incident, unforeseen event, surprising occurrence|83|事變|b|こりゃ、とんだハプニングだな！||This is terribly unexpected!
+ハプニング|ハプニング|incident, unforeseen event, surprising occurrence|83|意外事件；突發事件|v|こりゃ、とんだハプニングだな！||This is terribly unexpected!
 バタバタ|バタバタ|flapping, rattling, fluttering, with a clatter|83|啪噠啪噠；匆忙|h|今日もバタバタした一日だった。||Today was a day filled with commotion.
 バリア|バリア|barrier, protective wall, bulwark, obstacle|83|障礙；屏障|b|||
 バレーボール|バレーボール|volleyball|83|排球|b|バレーボールをよくやります。|我常打排球。|I often play volleyball.
@@ -15132,13 +15132,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ホワイトハウス|ホワイトハウス|White House|83|白宮|d|首相はホワイトハウスを公式訪問した。||The premier paid a formal visit to the White House.
 ホールディングス|ホールディングス|Holdings|83|控股公司|h|||
 ホールド|ホールド|hold, holding, long press|83|舉行；拿|b|たった今、ホールドアップされました。||I was just mugged.
-ボコボコ|ボコボコ|with a burble, hollow|83|咕嘟咕嘟；凹凸不平|h|トムはメアリーをボコボコに殴った。||Tom beat Mary black and blue.
+ボコボコ|ボコボコ|with a burble, hollow|83|凹凸不平；咕嘟咕嘟；痛扁|v|トムはメアリーをボコボコに殴った。||Tom beat Mary black and blue.
 ポルシェ|ポルシェ|Porsche, Porsche|83|保時捷|d|トムってポルシェに乗ってるんだって。||They say that Tom has a Porsche.
 マイアミ|マイアミ|Miami|83|邁阿密|d|大統領は目下マイアミにいる。|總統目前在邁阿密。|The president is presently in Miami.
 マダム|マダム|madam, woman, lady, proprietress|83|夫人；女主人|d|||
 マッハ|マッハ|Mach, fast speed|83|馬赫；超音速|h|||
 マンゴー|マンゴー|mango|83|芒果|b|種なしぶどうとか種なしスイカはあるけど、種なしマンゴーってあるのかな？|有無籽葡萄和無籽西瓜，那有無籽芒果嗎？|There are seedless grapes and seedless watermelons. I wonder if there are seedless mangoes.
-マーガレット|マーガレット|marguerite, Japanese women's hairstyle comprised of a long braid tied up in a loop with a ribbon|83|雛菊；瑪格麗特|h|マーガレットは音楽の才がある。||Margaret has a talent for music.
+マーガレット|マーガレット|marguerite, Japanese women's hairstyle comprised of a long braid tied up in a loop with a ribbon|83|瑪格麗特；雛菊|v|マーガレットは音楽の才がある。||Margaret has a talent for music.
 マーシャル|マーシャル|marshal|83|馬歇爾|h|テレビ番組にはコマーシャルが入る。||Television programs are interspersed with commercials.
 ミャンマー|ミャンマー|Myanmar|83|緬甸|d|ミャンマーは軍事独裁政権に支配されている。||Myanmar is ruled by a military dictatorship.
 メル|メル|mel|83|梅爾|h|クリント・イーストウッドはカーメルの市長に選ばれた。|克林伊斯威特當選為卡梅爾市市長。|Clint Eastwood was elected mayor of Carmel.
@@ -15161,7 +15161,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ロスト|ロスト|lost, loss, to lose|83|遺失；失去|d|フロスト氏はその地位につく資格がある。||Mr Frost is eligible for the post.
 ワークショップ|ワークショップ|workshop|83|坊；車間|b|||
 ワークス|ワークス|works|83|工廠；製作|h|||
-一人物|いちじんぶつ|person to be reckoned with, person of importance|83|人物；大人物|h|||
+一人物|いちじんぶつ|person to be reckoned with, person of importance|83|大人物；重要人物|v|||
 一人称|いちにんしょう|first person, self-reference term|83|第一人稱|h|日本語の一人称の多さに日本人自身も選択を戸惑います。||The many first person pronouns in the Japanese language causes even Japanese people some confusion.
 一刻|いっこく|a moment, a minute, an instant, stubborn|83|一會；一會兒|b|事態は一刻の猶予も許さない。||There's not a moment to waste.
 一転|いってん|one turn, spinning around, complete change|83|一轉；突然改變|h|心機一転して出直すのが一番だね。||You'll have to turn over a new leaf.
@@ -15217,7 +15217,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 厨房|ちゅうぼう|kitchen, galley, troll|84|廚房；廚|b|厨房はどこにありますか？|廚房在哪?|Where's the kitchen?
 参画|さんかく|taking part, participation|84|參與；參劃|h|||
 双葉|ふたば|seed leaves, cotyledons, bud|84|雙葉；嫩芽|h|||
-反り|そり|warp, curvature, bend, curve|84|經線|b|イエス振反りて、その從ひ來たるを見て言ひ給ふ「何を求むるか」。||Turning around, Jesus saw them following and asked, "What do you want?"
+反り|そり|warp, curvature, bend, curve|84|彎曲；翹曲|v|イエス振反りて、その從ひ來たるを見て言ひ給ふ「何を求むるか」。||Turning around, Jesus saw them following and asked, "What do you want?"
 収監|しゅうかん|imprisonment|84|牢獄之災|b|||
 取り調べ|とりしらべ|investigation, examination, inquiry|84|調查|b|トムは警察の取り調べを受けた。||Tom was questioned by the police.
 受容|じゅよう|acceptance, reception|84|接受；接納|h|研究者は頭脳の新しい受容器の複合体を識別する。||Researchers Identify New Receptor Complex in Brain
@@ -15253,7 +15253,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 好く|すく|to like, to love, to be fond of|84|同；喜愛|b|||
 威嚇|いかく|threat, intimidation, menace|84|威嚇|h|あれはただの威嚇射撃だったんです。||That was just a warning shot.
 存知|ぞんじ|knowing, being aware|84|知悉；知道|h|今ボストンでは何時かご存知ですか？|請問現在波士頓是幾點鐘？|Do you know what time it is in Boston?
-学位|がくい|degree|84|份兒|b|彼女は生物学の学位を持っている。||She has a degree in biology.
+学位|がくい|degree|84|學位|v|彼女は生物学の学位を持っている。||She has a degree in biology.
 学費|がくひ|tuition, school expenses|84|學費|a|彼は大学の学費を親に頼っている。||He depends on his parents for his university fees.
 孵化|ふか|incubation, hatching|84|孵化|h|めんどりは孵化するまで卵を抱きます。||The hen sits on her eggs until they hatch.
 官能|かんのう|the senses, sensuality|84|感官；官能|h|彼らは官能的快楽にふけった。||They gave themselves up to the enjoyment of sensual pleasures.
@@ -15263,13 +15263,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 寂|さび|patina, antique look, elegant simplicity|84|寂靜；古樸韻味|h|昔はその坂はとてもさびしかった。||In old times the slope was very lonely.
 富裕|ふゆう|wealthy, rich, affluent|84|富裕|h|早寝、早起きは人を健康に、富裕に、賢明にする。||Early to bed and early to rise makes a man healthy, wealthy and wise.
 寝ぬ|いぬ|to sleep, to go to bed|84|睡；睡眠|b|||
-察知|さっち|to sense, to infer, to gather|84|意義；感受|b|危険を察知して彼は逃げた。||Sensing danger, he ran away.
+察知|さっち|to sense, to infer, to gather|84|察覺；感知|v|危険を察知して彼は逃げた。||Sensing danger, he ran away.
 尊厳|そんげん|dignity, majesty, sanctity|84|尊嚴|a|ルネサンスは人間の尊厳を確立した。||The Renaissance established the dignity of man.
 就寝|しゅうしん|going to bed, retiring|84|就寢|h|彼女は就寝中安らかに永眠した。||She passed away peacefully in her sleep.
 尾根|おね|ridge|84|岡|b|||
 屈指|くっし|leading, foremost, preeminent|84|主導；領銜|b|ここね、ボストン屈指のレストランなのよ。||This is one of Boston's top restaurants.
 屈辱|くつじょく|disgrace, humiliation|84|恥辱；辱|b|太郎は屈辱を忍んで謝罪し辞職した。||Taro had to eat dirt and resigned.
-差し替え|さしかえ|replacement, correcting|84|代謝|b|||
+差し替え|さしかえ|replacement, correcting|84|替換；更換|v|||
 市営|しえい|municipal management, city facility management|84|市營|h|毎日市営プールに行きます。||I go to the city pool every day.
 市議|しぎ|city councillor, city councilor, city assemblyman|84|市議員|d|市議会は遠慮なく意見をいえる大事な場所だ。||The city council meeting is a great place to sound off.
 帰属|きぞく|belonging, ascription, attribution, reversion|84|歸屬|h|製品仕様にかかわる一切の工業所有権はＡＢＣ社に帰属するものとする。||Any industrial property rights relating to the Product Specification shall belong to ABC Inc.
@@ -15283,7 +15283,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 引き継ぎ|ひきつぎ|taking over, handing over, transfer of control|84|交接；移交|h|彼は、お父さんのビジネスを引き継ぎました。|他接手了他父親的公司。|He has taken over his father's business.
 弱体|じゃくたい|weak constitution, weak body, weak|84|弱體；衰弱|d|エマは虚弱体質だ。||Emma has a very poor constitution.
 強固|きょうこ|firm, strong, solid|84|堅定；果斷|b|この実験で彼の学説はいっそう強固なものになった。|實驗證實了他的理論。|The experiment confirmed his theory.
-往ぬ|いぬ|to leave, to go home, to go|84|離；留|b|||
+往ぬ|いぬ|to leave, to go home, to go|84|離去；回去|v|||
 御方|おかた|lady, gentleman, person|84|夫人；女士|b|||
 徴兵|ちょうへい|conscription, draft, enlistment|84|徵兵|h|彼は軍に徴兵された。||He was drafted into the army.
 心がけ|こころがけ|attitude, way of thinking, attention|84|心態；姿態|b|行間を読むように心がけてみよう。||Let's try to read between the lines.
@@ -15325,18 +15325,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 教習所|きょうしゅうじょ|training institute, school, driving school|84|駕訓班；訓練所|h|ジムは教習所に通っている。||Jim goes to driving school.
 敬遠|けいえん|pretending to respect while in fact staying distant, keeping at arm's length, giving a wide berth|84|敬而遠之；故意保送|h|彼はそのバッターを敬遠した。||He walked the batter intentionally.
 文字数|もじすう|number of characters, character count|84|字數|h|||
-文言|もんごん|wording, classical Chinese literary style|84|字眼；措辭|b|||
-断層|だんそう|fault, dislocation, gap|84|斷層；毛病|a|我々の町は活断層の上にある。||Our city sits on an active fault.
+文言|もんごん|wording, classical Chinese literary style|84|措辭；文句|v|||
+断層|だんそう|fault, dislocation, gap|84|斷層；代溝|v|我々の町は活断層の上にある。||Our city sits on an active fault.
 新米|しんまい|new rice, first rice crop of the year, novice|84|新米；新手|d|新米のくせに大きな顔をするな。||Act your place.
 日銀|にちぎん|Bank of Japan, BOJ|84|日本銀行|d|彼らは昨日銀行から金を奪った。||They robbed the bank of some money yesterday.
 明る|あかる|to become bright, to become clear|84|變亮；變明朗|h|彼はこの辺の事情に明るい。|他對那件事瞭如指掌。|He knows every inch of this area.
 昼夜|ちゅうや|day and night|84|晝夜；日夜|a|彼は金持ちになるために昼夜働いた。||He worked day and night so that he might become rich.
 曲名|きょくめい|title of a musical composition, name of a piece of music, song title|84|曲名；歌名|h|||
-最上|さいじょう|highest, top, best|84|太|b|自助は最上の助け。|自助是最好的幫助。|Self-help is the best help.
+最上|さいじょう|highest, top, best|84|最上；最高；最好|v|自助は最上の助け。|自助是最好的幫助。|Self-help is the best help.
 最良|さいりょう|the best, ideal|84|最好|b|それが最良の英語学習法だ。|那是學英語最好的方法。|That's the best approach to the study of English.
 有数|ゆうすう|prominent, eminent, leading|84|突出|b|日本は世界有数の経済大国である。||Japan is one of the greatest economic powers in the world.
 服従|ふくじゅう|obedience, submission, resignation|84|服從|h|彼らはリーダーの命令に服従した。||They submitted to their leader's order.
-末端|まったん|end, tip, extremities, rank and file|84|終；終點|b|||
+末端|まったん|end, tip, extremities, rank and file|84|末端；基層|v|||
 本心|ほんしん|true feelings, real intention, one's heart|84|心裡話|b|酒は本心を表す。|酒後吐真言。|In wine, there is truth.
 杜鵑花|とけんか|satsuki azalea|84|杜鵑花|h|||
 来世|らいせ|afterlife, the next world, the world beyond|84|來世|a|彼らは、来世について話しあった。||They had a talk about the future life.
@@ -15348,10 +15348,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 正論|せいろん|sound argument, fair argument, just reasoning|84|正論；正確言論|h|彼の言葉は正論だったが、僕は心のどこかで引っかかりを感じていた。||Even though what he said was sound, I still wasn't completely convinced.
 歯ブラシ|はブラシ|toothbrush|84|牙刷|b|もぉ、人の歯ブラシ使わないでよ。||Stop using other people's toothbrushes.
 殺戮|さつりく|slaughter, massacre|84|殺戮；屠|a|||
-殿下|でんか|Your Highness, His Highness, Her Highness|84|主公|b|そのオペラにはおそれ多くも皇太子殿下ご夫妻が足を運ばれた。||The opera was graced with the august presence of the Crown Prince and Princess.
+殿下|でんか|Your Highness, His Highness, Her Highness|84|殿下|v|そのオペラにはおそれ多くも皇太子殿下ご夫妻が足を運ばれた。||The opera was graced with the august presence of the Crown Prince and Princess.
 民法|みんぽう|civil law, civil code|84|民法|a|||
 水夫|すいふ|sailor, seaman|84|船員|b|水夫たちは海のもくずと消え去った。||The sailors perished in the sea.
-水木|みずき|dogwood|84|山茱萸|h|平日は、月火水木金です。||The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.
+水木|みずき|dogwood|84|水木；四照花|v|平日は、月火水木金です。||The weekdays are: Monday, Tuesday, Wednesday, Thursday, and Friday.
 水没|すいぼつ|submergence, immersion|84|淹沒；沉沒|h|町全体が水没した。||The whole town was under water.
 水葱|なぎ|Monochoria korsakowii|84|水葱|h|||
 水銀|すいぎん|mercury|84|汞|b|||
@@ -15360,7 +15360,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 法定|ほうてい|legal, designated by law|84|依法|b|||
 洋画|ようが|Western painting, Western film|84|西洋畫；外國電影|h|||
 洗礼|せんれい|baptism, christening, initiation|84|洗禮|a|彼は洗礼を受けてカトリック教徒となった。||He was baptized a Catholic.
-流動|りゅうどう|flow|84|流；流淌|b|水も空気も両方とも流動体である。||Water and air are both fluids.
+流動|りゅうどう|flow|84|流動|v|水も空気も両方とも流動体である。||Water and air are both fluids.
 淡々|たんたん|uninterested, unconcerned, indifferent, plain|84|淡然；平淡|d|トムは最初から最後まで淡々と話した。||From beginning to end Tom has only spoken with a lackluster demeanour.
 減量|げんりょう|loss in weight, weight reduction|84|減量|h|彼は走って１０ポンド減量した。|他透過跑步減了十磅|He's run off ten pounds.
 湿|しつ|moisture, humidity, dampness, scabies|84|濕氣|b|どうして、そんなにしつこいの？|為什麼要這麼纏人？|Why are you so persistent?
@@ -15379,7 +15379,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 版権|はんけん|copyright, publishing rights|84|版權；著作權|a|この本はまだ版権が生きている。||This book is still copyrighted.
 特例|とくれい|special case, exception|84|特例|a|||
 王室|おうしつ|royal family|84|王室；皇室|a|王室の結婚式は大変な壮観だった。||The royal wedding was a great spectacle.
-王族|おうぞく|royalty, royal family|84|王權；版稅|b|||
+王族|おうぞく|royalty, royal family|84|王族；王室|v|||
 琵琶湖|びわこ|Lake Biwa, Biwako|84|琵琶湖|h|琵琶湖は日本で一番大きな湖です。|琵琶湖是日本最大的湖。|Lake Biwa is the largest lake in Japan.
 田んぼ|たんぼ|rice field, rice paddy, paddy field|84|稻田；水田|d|津波は田んぼを押し流し、町は水浸しになりました。|海嘯席捲稻田, 淹沒了城鎮。|Tsunamis swept through rice fields and flooded the towns.
 町村|ちょうそん|towns and villages|84|町村|h|||
@@ -15389,7 +15389,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 発する|はっする|to let out, to utter, to produce, to issue|84|發出；發布|d|彼は明日中国に向けて出発する。|他明天出發去中國。|He's leaving for China tomorrow.
 発光|はっこう|emission, radiation, luminescence|84|發光|h|||
 発熱|はつねつ|generation of heat, fever|84|發熱|h|発熱は体の防御反応の一つだ。||Fever is one of the body's defence mechanisms.
-白紙|はくし|white paper, flyleaf, blank paper|84|白皮書|b|トムは白紙の答案を出した。||Tom turned in a blank test paper.
+白紙|はくし|white paper, flyleaf, blank paper|84|白紙；空白|v|トムは白紙の答案を出した。||Tom turned in a blank test paper.
 皺|しぼ|bumpy texture of a material|84|皺紋；皺褶|h|もう少し脳みそをしぼって考えろ。||Rack your brains a little harder.
 目の当たり|まのあたり|before one's eyes, in one's presence, up close|84|眼前|b|見渡す限り、地震による被害を目の当たりにすることができる。||Everywhere you look you can see damage caused by the earthquake.
 目先|めさき|before one's eyes, under one's nose, immediate|84|眼前|b|目先の利益だけにとらわれてはいけない。||You must not think about your immediate profit only.
@@ -15405,7 +15405,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 立ち入り|たちいり|entering, going into|84|進入；闖入|h|この建物は、現在立ち入り禁止だ。||This building is off limits now.
 立ち向かう|たちむかう|to fight against, to oppose, to face|84|面對；迎戰|h|勇気を持って逆境に立ち向かう。||Face adversity with courage.
 立つ崎|たつさき|standing form of "cape" character|84|崎字的異體|h|||
-笑み|えみ|smile|84|听；微笑|b|有名なピアニストは微笑みました。|著名的鋼琴家露出了微笑。|The famous pianist smiled.
+笑み|えみ|smile|84|微笑|v|有名なピアニストは微笑みました。|著名的鋼琴家露出了微笑。|The famous pianist smiled.
 算出|さんしゅつ|calculation, computation|84|算出；計算|h|その家の経費は５０ポンドと算出された。||The cost of the house was figured out at fifty pounds.
 籰|わく|spool, reel|84|紗捲；紡線軸|h|それはわくわくする夜の行事です。||It is an exciting night event.
 精通|せいつう|being well versed, being well acquainted, being familiar|84|精通|h|彼はさまざまな分野に精通している。|他精通各個領域。|He has good knows of every field.
@@ -15440,12 +15440,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 親字|おやじ|entry kanji in a kanji dictionary|84|字典字頭|h|||
 親密|しんみつ|intimacy, friendship|84|親密|h|親密度は年月とともに増していった。||Their intimacy grew with the years.
 親衛隊|しんえいたい|bodyguards, elite guards, imperial guards|84|親衛隊|h|||
-話しかける|はなしかける|to address, to accost a person, to talk|84|地址；住址|b|彼女は私にトムと言って話しかける。|她和我聊起了湯姆。|
+話しかける|はなしかける|to address, to accost a person, to talk|84|搭話；攀談|v|彼女は私にトムと言って話しかける。|她和我聊起了湯姆。|
 誠意|せいい|sincerity, good faith|84|誠心；精誠|b|彼の言う事には誠意が欠けている。||His statement lacks sincerity.
 課戸|かこ|household with at least one member subject to taxation|84|課戶；課稅戶|h|||
 談話|だんわ|talk, conversation, dialogue, informal expression of opinion|84|談話；對話|a|姉のところに縁談話が舞い込んできた。||The subject of marriage came up unexpectedly when I was at my older sister’s place.
 譌字|かじ|variant kanji form, unorthodox kanji form|84|訛字；俗字|h|||
-警護|けいご|bodyguard, escort|84|保鏢|b|||
+警護|けいご|bodyguard, escort|84|護衛；警衛|v|||
 護摩|ごま|homa, Buddhist rite of burning wooden sticks to ask a deity for blessings|84|護摩；護摩儀式|h|||
 豪儀|ごうぎ|great, grand, obstinate|84|重大；宏|b|||
 豪快|ごうかい|hearty, tremendous, magnificent|84|豪爽；豪邁|h|豪快な花火を打ち上げました。||They set off fireworks with a great bang.
@@ -15453,7 +15453,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 賄賂|わいろ|bribe, sweetener, douceur|84|賄賂；打點|a|商人はその政治家に賄賂を送った。||The merchant sent the politician a bribe.
 起因|きいん|to be caused by, to result from, to arise from|84|起因；所致|a|自動車事故の大部分が運転者の不注意に起因する。|大部分汽車事故的起因都是駕駛員的粗心。|Most car accidents happen because drivers aren't paying attention.
 起臥|きが|daily life, daily living, waking up and going to sleep|84|起居|h|||
-車道|しゃどう|roadway, road, carriageway|84|橋面|b|車道の向こう側にあるバリケードは、「入れない」ということである。||Barricades across driveways say "Keep Out."
+車道|しゃどう|roadway, road, carriageway|84|車道|v|車道の向こう側にあるバリケードは、「入れない」ということである。||Barricades across driveways say "Keep Out."
 転移|てんい|moving, change, transition|84|轉移；遷移|h|癌が、他の臓器に転移し始めています。||The cancer has begun to spread to other organs.
 迂回|うかい|detour, circumvention, turning movement|84|繞過|b|ここで迷わず迂回路を取ることにする。||Here I decide, without hesitating, to take the alternative route.
 返却|へんきゃく|return, returning, giving back|84|歸；回去|b|私はその本を図書館に返却しました。|我把書還給圖書館。|I returned the book to the library.
@@ -15475,7 +15475,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 鍛冶|かじ|blacksmithing, forging, smithery, blacksmith|84|鍛冶；鐵匠|d|鍛冶屋になるのは，鉄を鍛えながらだ。|要成為鍛造師，就要鍛打鐵。|It's by smithing that one becomes a blacksmith.
 長らく|ながらく|long, long time|84|久；悠久|b|長らくお待たせして申し訳ありません。||Sorry to have kept you waiting so long.
 開閉|かいへい|opening and shutting, opening and closing|84|開閉|h|||
-防具|ぼうぐ|guard, protector, defensive armament|84|守；衛|b|剣道は竹刀と防具を使って行う日本の武道です。||Kendo is a Japanese martial art which uses bamboo swords and protective armour.
+防具|ぼうぐ|guard, protector, defensive armament|84|護具；防具|v|剣道は竹刀と防具を使って行う日本の武道です。||Kendo is a Japanese martial art which uses bamboo swords and protective armour.
 障壁|しょうへき|enclosing wall, boundary fence, obstacle|84|障壁|a|貿易障壁は戦争終結後解除されました。||Trade barriers were lifted after the war ended.
 隠れ家|かくれが|hiding place, hideout, refuge, retreat|84|藏身處|b|警察は、トムの隠れ家を見つけた。||The police found Tom's hideout.
 雀|すずめ|tree sparrow, talkative person|84|麻雀|h|すずめ百まで踊り忘れず。||What is learned in the cradle is carried to the tomb.
@@ -15492,7 +15492,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 餓死|がし|starvation, starving to death|84|餓死|h|かわいそうにその子供は餓死寸前だった。|那可憐的孩子快餓死了。|The poor child was on the verge of starvation.
 魔界|まかい|demon world|84|魔界|h|||
 黙示録|もくしろく|Revelation, the Apocalypse|84|啟示錄|d|||
-〆る|しめる|to total, to sum, to kill|84|總額；總數|b|||
+〆る|しめる|to total, to sum, to kill|84|結算；總計；勒緊|v|||
 あたかも|あたかも|as if, as it were, as though, right then|84|好像；猶|b|彼はあたかもすべてを知っているかのように話す。|他說話的樣子好像知道你所有的事情。|He talks as though he knew everything.
 あゆ|あゆ|ayu, sweetfish|84|香魚|h|太郎君とあゆみちゃんの提案に賛成です。||I agree with Taro and Ayumi's proposal.
 いらくさ|いらくさ|Urtica thunbergiana|84|蕁麻|h|バラのとげで刺されるよりは、いらくさのとげで刺された方がましだ。||It is better to be stung by a nettle than pricked by a rose.
@@ -15531,7 +15531,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 わいせつ|わいせつ|obscene, indecent, dirty|84|猥褻；淫穢|h|||
 わかめ|わかめ|wakame|84|裙帶菜|h|「わかめ」と「昆布」って、違うの？||Are wakame and kombu different?
 アイスランド|アイスランド|Iceland|84|冰島|d|アイスランドはデンマークに属していた。|冰島曾屬於丹麥。|Iceland belonged to Denmark.
-アイロン|アイロン|iron, hair iron|84|鐵|b|彼女はシャツにアイロンを掛けた。|她熨了襯衫。|She ironed her shirt.
+アイロン|アイロン|iron, hair iron|84|熨斗；電捲棒|v|彼女はシャツにアイロンを掛けた。|她熨了襯衫。|She ironed her shirt.
 アテネ|アテネ|Athens|84|雅典|h|パリに行く途中、アテネに立ち寄った。||We stopped over in Athens on our way to Paris.
 アパレル|アパレル|apparel|84|服飾|b|||
 アラスカ|アラスカ|Alaska|84|阿拉斯加|h|ここはアラスカほど寒くありません。||It's not as cold here as in Alaska.
@@ -15566,7 +15566,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 コロラド|コロラド|Colorado|84|科羅拉多|d|彼はコロラドに大きな農場を持っている。|他在科羅拉多州有一個大農場。|He has a large farm in Colorado.
 コンサルティング|コンサルティング|consulting|84|諮詢；顧問|h|彼はコンサルティングファームに勤める。||He works for a consulting firm.
 ゴリ|ゴリ|freshwater goby|84|鰕虎魚|h|ココは普通のゴリラではない。|可可不是一隻普通的猩猩。|Koko is not an ordinary gorilla.
-サプリメント|サプリメント|supplement|84|副刊|b|||
+サプリメント|サプリメント|supplement|84|營養補充品；保健食品|v|||
 サントラ|サントラ|soundtrack|84|原聲帶|h|||
 ジャイアンツ|ジャイアンツ|Giants, Giant|84|巨人隊|h|昨日、ジャイアンツぼろ負け！！||The Giants got clobbered yesterday.
 ジャガー|ジャガー|jaguar|84|美洲豹|d|彼女は子猫をジャガーと名付けた。||She called the kitten "Jaguar".
@@ -15582,7 +15582,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タイムズ|タイムズ|times|84|時報|h|私は「ニューヨークタイムズ」を読んでいる。||I'm reading The New York Times.
 ダスト|ダスト|dust|84|埃；灰塵|b|ハウスダストにアレルギーがあります。||He is allergic to house dust.
 ダニ|ダニ|tick, mite, hoodlum|84|蟎；蜱|d|ダニエルさんが良い職を得た。||Daniel got a good job.
-チャイルド|チャイルド|child|84|孩子；兒童|b|||
+チャイルド|チャイルド|child|84|兒童；孩子|v|||
 チャーシュー|チャーシュー|roasted pork fillet|84|叉燒|h|||
 ツーリング|ツーリング|touring|84|騎車旅遊|h|ハーレーダビッドソンでのツーリングを体験したいです。||I'd like to experience a tour on a Harley Davidson.
 デュアル|デュアル|dual|84|對偶|b|||
@@ -15595,25 +15595,25 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ネルソン|ネルソン|nelson|84|尼爾森|h|彼は今晩ネルソンのようにふるまっている。||He is acting like Nelson tonight.
 ハッチ|ハッチ|hatch|84|艙口|h|||
 ハッピーエンド|ハッピーエンド|happy ending|84|圓滿結局|h|その物語はハッピーエンドだった。||That story had a happy ending.
-ハーモニー|ハーモニー|harmony|84|怡；雍|b|その音楽の美しさはハーモニーにある。||The beauty of the music consists of its harmony.
+ハーモニー|ハーモニー|harmony|84|和諧；和聲|v|その音楽の美しさはハーモニーにある。||The beauty of the music consists of its harmony.
 バズ|バズ|buzz|84|嗡|b|思ったことをズバズバ言うタイプだよ。||She's an outspoken person.
 バックス|バックス|back, the backs|84|後；背面|b|||
 バッファ|バッファ|buffer|84|緩衝|b|あれって牛なの？それともバッファローなの？||Is that a cow or a buffalo?
 バラード|バラード|ballade|84|敘事曲；抒情曲|h|||
 バージョンアップ|バージョンアップ|update, upgrade|84|版本升級|h|バージョンアップして速くなった気がする。||I feel like it's gotten faster after the update.
-バースト|バースト|burst, rupture, blowout|84|一陣；衝垮|b|||
+バースト|バースト|burst, rupture, blowout|84|爆裂；突發|v|||
 パイナップル|パイナップル|pineapple|84|菠蘿；鳳梨|b|一番大きいパイナップルをください。|請給我最大的菠蘿。|Please, give me the biggest pineapple.
-パケット|パケット|packet, packet|84|小包|b|||
-パワフル|パワフル|powerful|84|衝；有力|b|||
+パケット|パケット|packet, packet|84|封包；小包|v|||
+パワフル|パワフル|powerful|84|強有力的；精力充沛的|v|||
 パーソナリティー|パーソナリティー|personality, individuality, TV personality|84|人格|b|||
 ヒューマン|ヒューマン|human|84|人性的；人類|h|||
-ヒラ|ヒラ|elongate ilisha, Chinese herring|84|扁鯧；一般職員|h|ヒラリさんは塀にはしごをかけた。||Hillary rested the ladder against the wall.
+ヒラ|ヒラ|elongate ilisha, Chinese herring|84|鰳魚；一般職員|v|ヒラリさんは塀にはしごをかけた。||Hillary rested the ladder against the wall.
 ビジネスマン|ビジネスマン|businessman|84|商務人士|h|彼は一介のビジネスマンにすぎない。||He is nothing but a businessman.
 ピカピカ|ピカピカ|with a glitter, with a sparkle, brand new|84|閃閃發亮；嶄新|d|トムは車をピカピカの新車で買った。||Tom bought a brand-new car.
 ピッ|ピッ|with a blip, with a beep|84|嗶；嘟|h|そのドレスは彼女にピッタリだった。|那件禮服非常適合她。|That dress fit her perfectly.
 ピンク色|ピンクいろ|pink|84|粉紅色；粉紅|b|実はビートを食べると、尿がうっすらピンク色をすることがあります。||Actually if you eat beets your urine may turn a light pink colour.
 フライング|フライング|flying, false start|84|搶跑；飛行|h|彼女は２度のフライングで失格した。||She was disqualified from the race for two false starts.
-フラッグ|フラッグ|flag|84|國旗；旂|b|||
+フラッグ|フラッグ|flag|84|旗幟|v|||
 ブラジャー|ブラジャー|bra, brassiere|84|文胸|b|パンツとブラジャー以外は全部脱いでください。|請脫去除內褲和內衣外的所有衣物。|Please take off all your clothes except your underpants and bra.
 ブルマ|ブルマ|bloomers, gym shorts|84|運動褲|h|彼のテーブルマナーはひどいものだ。||He has atrocious table manners.
 ブーン|ブーン|whirr, hum, buzz, whoosh|84|嗡嗡；呼嘯|h|蚊が羽を上下にバタバタすると、ブーンという独特の音がする。||When mosquitoes beat their wings up and down, they produce a distinctive buzzing sound.
@@ -15621,14 +15621,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 プー|プー|toot, honk|84|嘟嘟；喇叭聲|h|このプールは一般開放されている。|這個泳池對一般民眾開放。|The swimming pool is open to the public.
 ベイスターズ|ベイスターズ|Baystars|84|海灣之星隊|h|||
 ペロペロ|ペロペロ|licking, lapping up, quickly|84|舔；舔舐|h|このペロペロキャンディ、甘ったるいわね。||This lollipop is too sweet.
-ホープ|ホープ|hope, white hope|84|希望；希|b|||
+ホープ|ホープ|hope, white hope|84|希望；新星|v|||
 ホーン|ホーン|horn|84|喇叭|b|ヴァンホーン家は裕福だった。||The Van Horn family was prosperous.
 ポップコーン|ポップコーン|popcorn|84|爆米花|d|俺、ポップコーン好きなんだよな。||I like popcorn.
 ポンポン|ポンポン|pompom, pompon, pom-pom|84|啪啪；啦啦隊花球|h|トムは、ポンポンが痛いんだよ。||Tom has a tummy ache.
 ポーカー|ポーカー|poker|84|撲克；撲克牌|b|トムとポーカーやったらダメだよ。||Don't play poker with Tom.
 マイペース|マイペース|one's own pace, one's own way|84|按自己步調|h|トムは呑気でマイペースな性格だ。||Tom tends to do things at his own pace.
 マッチョ|マッチョ|macho, muscular man|84|肌肉男|h|マッチョな男性はモテるそう。||Macho men are said to be popular.
-マナ|マナ|manna, mana|84|瑪納|h|彼のマナーの悪さには参ったよ。||I was embarrassed by his bad manners.
+マナ|マナ|manna, mana|84|嗎哪；魔力|v|彼のマナーの悪さには参ったよ。||I was embarrassed by his bad manners.
 ムスリム|ムスリム|Muslim|84|穆斯林|d|彼は、ムスリムとして生まれ育った。||He was born and raised as a Muslim.
 メドレー|メドレー|medley, medley relay|84|混合泳|b|彼はサイモンとガーファンクルのメドレーを歌った。||He sang a medley of Simon and Garfunkel hits.
 モナコ|モナコ|Monaco|84|摩納哥|d|モナコって、どこ？||Where is Monaco?
@@ -15646,11 +15646,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 リンパ|リンパ|lymph|84|淋巴|b|彼は急性リンパ性白血病で死亡しました。||He died from acute lymphoblastic leukemia.
 ルクス|ルクス|lux|84|勒克斯|d|マルクスは書くことが上手だと思います。||Marco thinks he writes well.
 ルックス|ルックス|looks|84|外貌；長相|d|彼の魅力はルックスではなく性格だ。||His attraction lies in his character, not his looks.
-レズビアン|レズビアン|lesbian|84|拉拉|b|私はレズビアンです。|我是女同。|I'm a lesbian.
+レズビアン|レズビアン|lesbian|84|女同性戀|v|私はレズビアンです。|我是女同。|I'm a lesbian.
 レベルアップ|レベルアップ|leveling up, raising the level, boosting|84|升級；提升水準|h|||
 ロースト|ロースト|roast|84|烘烤|b|もっとローストビーフを召し上がれ。||How about some more roast beef?
 ワッフル|ワッフル|waffle|84|華夫餅|h|昨日の朝は、ワッフルを食べました。||Yesterday morning I ate a waffle.
-一向に|いっこうに|completely, absolutely, totally, at all|84|總體；全然|b|私はそれで一向に構いません。||That's just fine with me.
+一向に|いっこうに|completely, absolutely, totally, at all|84|完全（不）；一點也（不）|v|私はそれで一向に構いません。||That's just fine with me.
 一因|いちいん|one cause, one reason, one factor|84|一個原因|h|停電が場内の混乱の一因となった。||Power failure is one of the factor that caused the chaos in the hall.
 一大|いちだい|one large ..., a great ...|84|一大；重大|d|映画産業は一大ビジネスになった。||The movie industry became a big business.
 万引き|まんびき|shoplifting, shoplifter|84|順手牽羊；偷竊|h|しらばっくれるな！君が万引きしたところを警備員が見ていたんだぞ。|別裝傻！你順手牽羊的時候警衛都看在眼裡了。|Stop playing dumb! The security guards saw you shoplifting!
@@ -15673,7 +15673,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 京大|きょうだい|Kyoto University|84|京都大學|h|彼はこの春東京大学に入学した。||He entered Tokyo University this spring.
 人力|じんりき|human power, human strength, human effort|84|人力；人手|h|トムがうちのチームに来てくれれば、百人力だよ。||If Tom comes to our team, we'll have a tremendous strength.
 人脈|じんみゃく|personal connections|84|人脈；人際關係|h|彼は社外で人脈を築いている。||He's building up a network of acquaintances outside his office.
-仕事場|しごとば|place where one works, construction site, working area|84|工地|b|車庫を仕事場として使えるように改造した。|我把車庫改造成工作室使用。|I adapted the garage for use as a workshop.
+仕事場|しごとば|place where one works, construction site, working area|84|工作場所；工地|v|車庫を仕事場として使えるように改造した。|我把車庫改造成工作室使用。|I adapted the garage for use as a workshop.
 仕切り|しきり|partition, division, boundary, settlement of accounts|84|瓜分；隔斷|b|トムって、仕切りたがり屋だよね？||Tom is a control freak, isn't he?
 付和|ふわ|blindly following others|84|附和；盲目附和|h|||
 代物|しろもの|article, goods, product, fine thing|84|文章|b|しかし、それは代物とも呼べない。|然而這也算不上什麼像樣的東西。|
@@ -15683,12 +15683,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 伝授|でんじゅ|instruction, initiation, teaching|84|傳授；傳承|h|||
 何卒|なにとぞ|please, kindly, I beg of you, by all means|84|敬請|b|||
 作風|さくふう|style, characteristics|84|作風；風格|a|||
-依然として|いぜんとして|still, as yet, as of old|84|還；還是|b|その殺人事件は依然として謎である。||The murder remains a mystery.
+依然として|いぜんとして|still, as yet, as of old|84|依然；仍然|v|その殺人事件は依然として謎である。||The murder remains a mystery.
 俺ら|おれら|we, us, I|84|吾人|b|俺ら、野球であいつらに勝ったんだ。||We defeated them in baseball.
 倒壊|とうかい|destruction, collapse, crumbling|84|破壞；覆滅|b|その家は今にも倒壊しそうだった。||The house seemed about to collapse at any moment.
 候ふ|そうろう|to serve, to be|84|服務；效勞|b|||
 側近|そっきん|close aide, close associate, entourage|84|近侍；親信|h|その独裁者は側近たち全員の絶対的な忠誠を受けた。||The dictator had the absolute loyalty of all his aides.
-傑|けつ|the top, the best|84|上邊；顛|b|全員がトムに向かって駆けつけた。||Everybody rushed towards Tom.
+傑|けつ|the top, the best|84|傑出；豪傑|v|全員がトムに向かって駆けつけた。||Everybody rushed towards Tom.
 僕たち|ぼくたち|we|84|吾人|b|僕たちは皆、同じ寮に住んでます。|我們大家住在同一個宿舍。|We all live in the same dorm.
 優弧|ゆうこ|superior arc|84|大於半圓的圓弧|h|||
 先住民|せんじゅうみん|indigenous people, native people, aborigines|84|原住民|h|アメリカ先住民の祖先は、ベーリング海峡を経由してアジアから大陸へ渡った。||The ancestors of Native Americans went to the continent from Asia by way of the Bering Strait.
@@ -15703,8 +15703,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 共生|きょうせい|coexistence, living together, symbiosis|84|共生|a|この村の住人は自然と共生している。||The people of this village live in harmony with nature.
 兵衛|ひょうえ|middle palace guard|84|古代宮廷的衛士|h|私はただの名無しの権兵衛です。||I am just a nobody.
 冤罪|えんざい|false charge, false accusation, misrepresentation|84|冤罪；冤枉|h|||
-処方箋|しょほうせん|prescription|84|配方；藥方|b|その薬は処方箋無しで買ってはいけません。|那個藥的話沒有處方是買不到的。|You cannot purchase this medicine without a prescription.
-出航|しゅっこう|departure, setting sail, leaving port|84|發車|b|嵐のために、船は出航できなかった。||Because of the storm, the ship couldn't leave port.
+処方箋|しょほうせん|prescription|84|處方箋|v|その薬は処方箋無しで買ってはいけません。|那個藥的話沒有處方是買不到的。|You cannot purchase this medicine without a prescription.
+出航|しゅっこう|departure, setting sail, leaving port|84|出航；啟航|v|嵐のために、船は出航できなかった。||Because of the storm, the ship couldn't leave port.
 出走|しゅっそう|entry in a race|84|出賽；出發|h|彼の馬はダービーに出走した。||His horse ran in the Derby.
 前夜|ぜんや|last night, the previous night, night before|84|前夜；昨夜|a|まるで革命前夜のような騒ぎだった。||It looked as if we were on the eve of a revolution.
 劣等|れっとう|inferiority, low grade|84|劣等；低等|h|彼は劣等感を持ってるんでしょ？||He has an inferiority complex, doesn't he?
@@ -15750,7 +15750,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 多量|たりょう|large quantity, large amount|84|大量|d|彼女は休暇に多量の額のお金を費やした。|她休假期間花了一大筆錢。|She spent a good deal of money on her vacation.
 夜空|よぞら|night sky|84|夜空|a|夜空に星がきらきら輝いていた。||Stars were twinkling in the sky.
 夢見る|ゆめみる|to dream|84|夢；夢幻|b|||
-大いなる|おおいなる|big, large, great|84|偉；碩大|b|この詩は読者の大いなる洞察を必要としている。||This poem calls for great insight from the reader.
+大いなる|おおいなる|big, large, great|84|偉大的；宏大的|v|この詩は読者の大いなる洞察を必要としている。||This poem calls for great insight from the reader.
 大創|ダイソー|Daiso|84|大創，日本連鎖百元商店|h|||
 大口|おおぐち|big mouth, mouth opened wide, boastful speech|84|大口；誇大|h|大口叩きは何もできない。||Great talkers are little doers.
 大名|だいみょう|daimyo|84|大名|a|あの大名は十万石を領している。||That daimyo holds a fief yielding 100,000 koku of rice.
@@ -15759,7 +15759,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 失神|しっしん|fainting, losing consciousness, passing out|84|昏厥|h|彼女は失神しそうに見えました。||It seemed as if she was going to faint.
 夷俘|いふ|Emishi allied with the central government|84|古代向朝廷歸順的蝦夷人|h|||
 奉納|ほうのう|dedication, offering, presentation|84|奉獻；供奉|d|知事は戦死した兵士たちに記念碑を奉納した。||The governor dedicated the memorial to the soldiers who died in the war.
-委付|いふ|abandonment|84|委棄；放棄所有權|h|||
+委付|いふ|abandonment|84|委付；放棄所有權|v|||
 委任|いにん|entrusting, charge, delegation|84|委任；委託|h|彼は権限を腕利きの助手に委任した。||He delegated his authority to his competent assistant.
 嬉々|きき|merry, joyful, gleeful|84|歡喜雀躍|h|||
 子役|こやく|child actor, child actress, child's role|84|童星；兒童演員|h|||
@@ -15810,7 +15810,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 振替|ふりかえ|transfer, switching over, change, money transfer|84|調；轉讓|b|１０ドルを郵便振替にしていただきたいのですが。||I'd like a money order for ten dollars.
 挽く|ひく|to saw, to grind|84|鋸|b|飲む分だけ豆をローストして、ミルで挽くんです。||We roast just enough beans for the amount we're going to drink, and grind them in the coffee mill.
 控訴|こうそ|appeal to a higher court, intermediate appeal|84|上訴|h|被告は上級裁判所に控訴するだろう。|被告會向上級法院上訴。|The defendant will appeal to a higher court.
-援軍|えんぐん|reinforcement|84|後援|b|||
+援軍|えんぐん|reinforcement|84|增援；援軍|v|||
 撓|しおり|interpenetration of spirit between the poet and nature in a haiku|84|俳句用語，指詩人與自然心靈相通|h|トムは古いハガキをしおり代わりにした。||Tom used an old postcard as a bookmark.
 改ざん|かいざん|alteration, falsification, faking|84|竄改；篡改|h|私の同僚は報告書を改ざんした。||My colleague doctored the report.
 敗退|はいたい|being defeated, being eliminated|84|敗退；落敗|h|ヒンギスが一回戦敗退の大番狂わせ。||It was a big upset when Hingis was eliminated in the first round.
@@ -15842,8 +15842,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 梯|はし|ladder|84|扶梯|b|日本ではしばしば魚を生で食べる。|我們在日本常常吃生魚。|In Japan, fish is often eaten raw.
 構内|こうない|premises, grounds, campus|84|院內；場內|h|大学構内の中央に、創立者の像が立っている。|創校人的雕像在大學校園的中心矗立著。|In the center of the university campus stands the statue of the founder.
 模擬|もぎ|imitation|84|模擬；高仿|a|未来のパイロットは模擬操縦室で訓練される。||The future pilot is trained in a mock cockpit.
-機長|きちょう|captain|84|隊長；船長|b|機長よりご挨拶申し上げます。||This is your captain speaking.
-武し|たけし|brave, courageous, valiant, vigorous|84|勇；血性|b|||
+機長|きちょう|captain|84|機長；船長|v|機長よりご挨拶申し上げます。||This is your captain speaking.
+武し|たけし|brave, courageous, valiant, vigorous|84|勇武；勇敢|v|||
 死苦|しく|inevitability of death|84|死亡之苦|h|||
 毀棄|きき|destruction, demolition, damage|84|破壞；覆滅|b|||
 母体|ぼたい|mother's body|84|母體|a|フランス語はラテン語を母体として発達した。||French developed from Latin.
@@ -15887,7 +15887,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 生後|せいご|post-natal, since birth|85|出生後|h|祖父は私の生後間もない頃に亡くなった。|我出生不久之後我的外公就去世了。|My grandfather died shortly after my birth.
 甲板|かんぱん|deck|85|甲板|a|朝が明けると彼らは甲板に出ていた。||Morning found them on deck.
 畏怖|いふ|awe, fear, dread|85|畏懼；敬畏|d|||
-異父|いふ|different father|85|同母異父的|h|モハンドは、異父兄弟なのよ。||Mohand is my half brother.
+異父|いふ|different father|85|同母異父|v|モハンドは、異父兄弟なのよ。||Mohand is my half brother.
 疑似|ぎじ|pseudo, quasi, false, suspected|85|疑似；假冒|h|この記事で扱う例は、Pascal言語に似た疑似コードを使用しています。||The examples used in this article make use of a Pascal-like pseudocode.
 疾走|しっそう|sprint, dash, scampering|85|短跑|b|１台のトラックが道路を疾走していた。||A truck was careering along the road.
 痙攣|けいれん|convulsion, cramp, spasm|85|痙攣|a|この薬を飲むと胃の痙攣が治ります。||This medicine will ease your cramps.
@@ -15921,7 +15921,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 精製|せいせい|refining, purification, careful manufacture|85|精製；精煉|h|原油は精製されて多くの製品を産出する。||When refined, crude oil yields many products.
 素子|そし|element, elemental device, device|85|因素；元素|b|||
 紫色|むらさきいろ|purple, violet|85|紫色；紫|a|夕暮れ時、空は紫色の光に染まっています。|黃昏時分，天空染上了紫色的光。|At dusk, the sky is tinted with purple light.
-結集|けっしゅう|concentration, gathering together, regimentation|85|濃度|b|非喫煙者は新しい禁煙法を支持して結集しています。||Non-smokers are rallying behind the new anti-smoking law.
+結集|けっしゅう|concentration, gathering together, regimentation|85|集結；聚集|v|非喫煙者は新しい禁煙法を支持して結集しています。||Non-smokers are rallying behind the new anti-smoking law.
 絞める|しめる|to strangle, to constrict|85|扼殺；勒死|b|||
 給水|きゅうすい|water supply, supplied water, water refill|85|水務|b|同ダムは、当時世界最大の給水池を創った。||The dam created the world's largest water supply reservoir at the time.
 絶体|ぜったい|desperate situation with no escape, being driven into a corner, being cornered|85|絕境；走投無路|h|我々は絶体絶命のピンチに追い込まれた。||We were driven to the wall.
@@ -15947,7 +15947,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 自機|じき|one's character or vehicle, player-controlled character or vehicle|85|遊戲中玩家操控的角色或機體|h|||
 自記|じき|writing oneself, self-recording|85|自記；自動記錄|h|||
 自閉症|じへいしょう|autism|85|自閉症|a|トムは自閉症なんですか？|湯姆有自閉症嗎？|Is Tom autistic?
-舌苔|ぜったい|fur|85|毛皮；皮毛|b|||
+舌苔|ぜったい|fur|85|舌苔|v|||
 舐める|なめる|to lick, to lap, to suck, to taste|85|舔；舐|b|煙草を吸う人とキスをするのは灰皿を舐めるようなものだ。|親吻一個抽菸的人就像在舔菸灰缸。|Kissing a smoker is like licking an ashtray.
 船員|せんいん|sailor, seaman, seafarer|85|船員|a|船員達は火事で燃える船を見捨てた。||The sailors abandoned the burning ship.
 若め|わかめ|youngish, young-looking|85|稍年輕；略顯年輕|h|||
@@ -15965,22 +15965,22 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 計上|けいじょう|including in a total calculation, appropriating, recording|85|計入；列入|h|国防のため大きな額が計上された。||A considerable amount of money was appropriated for the national defense.
 記紀|きき|the Kojiki and Nihon Shoki|85|古事記與日本書紀的合稱|h|||
 詩句|しく|verse|85|詩句；詩詞|a|||
-読み込み|よみこみ|reading, loading|85|讀數|b|||
+読み込み|よみこみ|reading, loading|85|讀取；載入|v|||
 誹謗|ひぼう|slander, abuse|85|誹謗；污衊|a|あれ？私たちって、もしかして誹謗中傷されてる？||Huh? Could it be that we are being slandered?
 論点|ろんてん|point in question|85|論點；爭點|h|論点の中心は、近代化という問題である。||Central to this issue is the problem of modernization.
-賑やか|にぎやか|bustling, busy, crowded, lively|85|嘈|b|彼の店は町の賑やかな区域にある。||His shop is in a busy section of town.
+賑やか|にぎやか|bustling, busy, crowded, lively|85|熱鬧；繁華|v|彼の店は町の賑やかな区域にある。||His shop is in a busy section of town.
 質感|しつかん|feel, texture|85|質感；感|a|||
 軍勢|ぐんぜい|military forces, army, troops|85|軍勢；軍隊|h|その軍勢は敵の攻撃に対して勇敢に抵抗した。||The force held out bravely against their enemy's attacks.
 軽自動車|けいじどうしゃ|light motor vehicle, k-car, kei car|85|輕型汽車|h|||
 輝々|きき|brilliant, shining|85|閃亮；煌|b|||
-返る|かえる|to return, to come back, to go back, to turn over|85|歸；回去|b|後ろを振り返るな。|別回頭。|Don't look back.
-返上|へんじょう|return, giving back, giving up|85|歸；回去|b|私は家族のために休日を返上することに同意した。||I agreed to give up my vacation for my family.
+返る|かえる|to return, to come back, to go back, to turn over|85|返回；回去；翻轉|v|後ろを振り返るな。|別回頭。|Don't look back.
+返上|へんじょう|return, giving back, giving up|85|歸還；交還|v|私は家族のために休日を返上することに同意した。||I agreed to give up my vacation for my family.
 迫り|せり|stage elevator, trapdoor|85|升降舞台；逼近|h|そのロボットはあまりにも真に迫りすぎて気持ち悪かった。||The robot was so lifelike that it was creepy.
 送り出し|おくりだし|pushing out of the ring from behind|85|推出場外；送出|h|その大学は優秀な医師を世に送り出した。||The university has turned out competent doctors.
 送迎|そうげい|seeing off and meeting on return|85|迎送|h|次の送迎バスは何時にでますか。||What time does the airport bus leave?
 送電|そうでん|transmission of electricity, electricity supply, power supply|85|送電；供電|h|||
 透過|とうか|penetration, permeation, transmission|85|穿透；透過|h|||
-途切れ|とぎれ|break, pause, interruption|85|斷；折|b|雨は途切れることなく一日中ふりつづいた。||It was raining all day long without intermission.
+途切れ|とぎれ|break, pause, interruption|85|中斷；間斷|v|雨は途切れることなく一日中ふりつづいた。||It was raining all day long without intermission.
 途絶え|とだえ|pause, intermission, break|85|中斷；斷絕|h|大雪で交通が途絶えた。||The traffic was interrupted by the heavy snow.
 連呼|れんこ|calling repeatedly, shouting repeatedly|85|連呼；不斷呼喊|h|||
 連装|れんそう|coaxial mounting, multiple mounting|85|連裝；多聯裝|h|||
@@ -15990,8 +15990,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 部会|ぶかい|section meeting, division|85|部會；分組會議|h|||
 部数|ぶすう|number of copies, circulation|85|份數；發行量|h|５部はあるがその２倍の部数欲しい。||I have five copies, but I need twice as many.
 都民|とみん|resident of Tokyo, citizen of Tokyo, Tokyoite|85|都民；東京居民|h|10月1日は都民の日です。||October 1st is Citizen's Day.
-野原|のはら|field, plain, prairie|85|田；平原|b|野原の間に１本の小道があります。||There is a path through the fields.
-野良|のら|field, farm, stray|85|田；平原|b|||
+野原|のはら|field, plain, prairie|85|原野；田野|v|野原の間に１本の小道があります。||There is a path through the fields.
+野良|のら|field, farm, stray|85|田野；流浪的|v|||
 野蛮|やばん|savage, barbarous, barbaric|85|野蠻；野人|a|指を使うことは野蛮なのだろうか。||Is using fingers uncivilized?
 量販|りょうはん|volume sales, volume retail|85|量販；大量銷售|h|||
 金輪|かなわ|metal ring, metal hoop, metal band, trivet|85|金屬環|h|彼は金輪際君を助けてくれないだろう。||You can make book on it that he won't help you.
@@ -16024,8 +16024,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 Λ|ラムダ|lambda|85|希臘字母，拉姆達|h|||
 〃|おなじ|ditto mark|85|同上符號|h|トムの歳はメアリーの歳とおなじ。||Tom is the same age as Mary is.
 〻|おなじ|iteration mark used to represent repetition of the previous kanji|85|疊字符號|h|トムの歳はメアリーの歳とおなじ。||Tom is the same age as Mary is.
-あの世|あのよ|the other world, the next world, the world beyond|85|來世；陰間|h|村人たちは、あの世があると思っていた。||The villagers believed in life after death.
-うろこ|うろこ|scale, serif)|85|登；尺度|b|目からうろこの落ちる思いです。||The scales have fallen from my eyes.
+あの世|あのよ|the other world, the next world, the world beyond|85|陰間；來世|v|村人たちは、あの世があると思っていた。||The villagers believed in life after death.
+うろこ|うろこ|scale, serif)|85|鱗片|v|目からうろこの落ちる思いです。||The scales have fallen from my eyes.
 おいっす|おいっす|hey, yo, hi, yessir|85|喂；嘿|b|||
 おっちゃん|おっちゃん|middle-aged man, uncle|85|大叔；大叔叔|d|||
 お任せ|おまかせ|leaving to someone else, entrusting|85|交給你；全權委託|h|時間はあなたにお任せします。||The time is up to you.
@@ -16034,14 +16034,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 かき氷|かきごおり|shaved ice, Italian ice, snow cone|85|刨冰|h|アイスかかき氷が食べたい。||I want to eat either ice cream or shaved ice.
 こまめ|こまめ|diligent, earnest, attentive to detail|85|用功|b|人のいない部屋の照明をこまめに消す。||Take care to turn off lights in rooms when nobody's in them.
 こんにゃく|こんにゃく|konnyaku, konjac, devil's tongue|85|蒟蒻|h|こんにゃくは、太らない。||Eating konjac, you will never gain weight.
-ご馳走|ごちそう|treat, entertainment, treating someone|85|治療；對待|b|手伝ってくれたら、夕飯ご馳走するよ。||I'll treat you to dinner if you help me.
+ご馳走|ごちそう|treat, entertainment, treating someone|85|款待；佳餚|v|手伝ってくれたら、夕飯ご馳走するよ。||I'll treat you to dinner if you help me.
 しっとり|しっとり|damp, moist, wet, quiet|85|潮濕；濕漉漉|b|黒くて、甘くて、しっとりした何かです。||It's something black, sweet, and moist.
 しゃぶしゃぶ|しゃぶしゃぶ|shabu-shabu, hot pot dish where thinly sliced meat is boiled quickly and then dipped in sauce|85|涮涮鍋|d|えーと、俺はこのしゃぶしゃぶで。||Well, I'll choose the shabu-shabu.
 しーっ|しーっ|shh!, shush!, hush!, shoo!|85|噓！；噤聲|h|しーっ、声が大きい。|噓，太大聲啦。|Shh, you're speaking too loudly.
 じかに|じかに|directly, in person, firsthand|85|徑直；迎面而來|b|牛乳は牛乳パックからじかに飲むよ。||I drink milk straight from the carton.
 たぬき|たぬき|tanuki, raccoon dog|85|貉；狸|d|||
 だからといって|だからといって|while it may be true that, just because, nevertheless|85|即使如此；就算那樣|h|貧乏だからといって人を軽蔑するものではない。|雖然說是窮人，但也不可輕蔑對方。|You should not despise a man because he is poor.
-だに|だに|even|85|哪怕；均勻|b|未だにあなたのことが大好きです。|我依舊愛你。|I still love you.
+だに|だに|even|85|甚至；連|v|未だにあなたのことが大好きです。|我依舊愛你。|I still love you.
 だらし|だらし|prudence, judgement, sense|85|規矩；節制|h|母は私のだらしなさをしかった。||My mother got after me for my sloppiness.
 ちゅう|ちゅう|kiss, squeak|85|吻；親吻|b|ここには、しょっちゅう来るよ。|我很經常來這。|I come here very often.
 ちょこっと|ちょこっと|a little, a bit, slightly|85|有點；稍許|b|料理をちょこっと残してしまった。||I left part of the meal uneaten.
@@ -16058,7 +16058,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 もしや|もしや|perhaps, possibly, by some chance|85|興許|b|あいつら、何もしやがらない。||They don't do anything.
 もっぱら|もっぱら|wholly, solely, entirely, principally|85|專門；主要|h|私の成功はもっぱら幸運の賜物だ。||My success was largely due to luck.
 ものまね|ものまね|imitation, impersonation, mimicry|85|模擬；高仿|b|||
-ろくに|ろくに|well, properly, enough|85|井；水井|b|昨夜はろくに眠れなかった。|我昨晚沒睡好。|I didn't sleep well last night.
+ろくに|ろくに|well, properly, enough|85|好好地；像樣地|v|昨夜はろくに眠れなかった。|我昨晚沒睡好。|I didn't sleep well last night.
 をめぐって|をめぐって|concerning ..., over ..., about ...|85|圍繞；有關|d|円形の軌道に沿って、地球をめぐっている。||It is orbiting around the Earth along a circular path.
 アイリス|アイリス|iris|85|虹膜|b|アイリス、君は普段朝食は何を食べているの？||Iris, what do you usually eat for breakfast?
 アクア|アクア|aqua|85|水；水藍色|h|||
@@ -16066,7 +16066,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 アトム|アトム|atom|85|原子|b|鉄腕アトムが国を危険から守った。||Iron Arm Atom protected the country from danger.
 アナリスト|アナリスト|analyst|85|分析師；分析家|b|彼は金融アナリストで経済動向の分析には定評がある。||He's a financial analyst with a pretty good reputation for his analysis of economic trends.
 アニメーター|アニメーター|animator|85|動畫師|h|||
-アミ|アミ|friend|85|朋友；友|b|大統領は目下マイアミにいる。|總統目前在邁阿密。|The president is presently in Miami.
+アミ|アミ|friend|85|網；朋友（阿米）|v|大統領は目下マイアミにいる。|總統目前在邁阿密。|The president is presently in Miami.
 アラサー|アラサー|person around thirty years old|85|三十歲左右的人|h|あと3年でアラサーかと思うととても辛いな。||It hurts to realise I'll be 30 in just 3 years.
 アリア|アリア|aria|85|唱段|b|第３幕のアリアが彼女の一番の聴かせどころだ。||The third aria is the part in which she makes herself heard the best.
 アロマ|アロマ|aroma, class|85|芳香；香氛|d|||
@@ -16110,7 +16110,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 シアン|シアン|cyan|85|青色|b|||
 シェルター|シェルター|shelter, refuge, protected place|85|遮擋|b|戦争を恐れてシェルターが作られてきた。||Shelters have been built in fear of war.
 シスコ|シスコ|San Francisco, Cisco Systems|85|舊金山；思科公司|h|サンフランシスコへようこそ。|歡迎來到舊金山。|Welcome to San Francisco.
-シチョウ|シチョウ|ladder|85|扶梯|b|||
+シチョウ|シチョウ|ladder|85|征子（圍棋）；市長|v|||
 シチー|シチー|shchi|85|俄羅斯酸菜湯|h|||
 シャドー|シャドー|shadow|85|陰影；影子|b|彼女はアイシャドーをつけている。||She's wearing eye shadow.
 シロップ|シロップ|syrup|85|糖漿；糖水|b|咳止めシロップ。本番前に一口飲まないと落ち着かない！||Cough syrup. If I don't drink a mouthful before going on stage I can't settle down!
@@ -16140,7 +16140,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 チューリップ|チューリップ|tulip|85|鬱金香|b|チューリップはまもなく咲く。|鬱金香將很快盛開。|Tulips will be in flower soon.
 テーマパーク|テーマパーク|theme park|85|主題公園|b|テーマパークは先月閉鎖されました。||The theme park was closed down last month.
 ディスコ|ディスコ|disco, discotheque|85|迪斯科|b|大学の頃、彼女はディスコに行ったことは一度しかなかった。|她上大學的時候只跑去迪斯可過一次。|When she was a student, she went to the disco only once.
-デコ|デコ|decoration, ornamental item|85|飾|b|ナタデココを食べたいんですよ。||I'd like to eat Nata de coco.
+デコ|デコ|decoration, ornamental item|85|裝飾；額頭|v|ナタデココを食べたいんですよ。||I'd like to eat Nata de coco.
 トランペット|トランペット|trumpet|85|小號|b|トランペットを吹いてみるか。||Will you try to play the trumpet?
 トレー|トレー|tray|85|盤子；托盤|b|彼はストレートだよ。|他是個直男。|He's straight.
 ドリフト|ドリフト|drift, drifting|85|漂移；飄盪|b|||
@@ -16160,9 +16160,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 パワハラ|パワハラ|harassment from a position of power, power harassment|85|職權騷擾；職場霸凌|h|||
 ヒーター|ヒーター|heater|85|暖氣；加熱器|d|寒くなったので、ヒーターをつけた。|天氣開始轉涼，我便開了暖爐。|I got cold, so I turned on the heater.
 ビスケット|ビスケット|cookie, biscuit|85|曲奇|b|誰が最後のビスケット食べたの？||Who ate the last biscuit?
-ビューティー|ビューティー|beauty|85|姿；佳麗|b|||
+ビューティー|ビューティー|beauty|85|美麗；美人|v|||
 ピアニスト|ピアニスト|pianist|85|鋼琴家|b|有名なピアニストは微笑みました。|著名的鋼琴家露出了微笑。|The famous pianist smiled.
-ピック|ピック|pick, plectrum, ice pick|85|採；掐|b|オリンピック競技で大切なことは、勝つことでなく参加することである。|奧運會重要的是參與，不是獲勝。|The important thing about the Olympic Games is not to win, but to take part in them.
+ピック|ピック|pick, plectrum, ice pick|85|撥片；冰鎬；挑選|v|オリンピック競技で大切なことは、勝つことでなく参加することである。|奧運會重要的是參與，不是獲勝。|The important thing about the Olympic Games is not to win, but to take part in them.
 ピーナッツ|ピーナッツ|peanut|85|花生|b|ピーナッツバターサンドがいいな。||I want a peanut butter sandwich.
 ファイブ|ファイブ|five|85|五|b|||
 フィードバック|フィードバック|feedback|85|回饋；反饋|d|僕らは君のフィードバックを楽しみしています。||We look forward to your feedback.
@@ -16175,11 +16175,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ヘルシー|ヘルシー|healthy|85|胖；康|b|サラダはフライドポテトよりヘルシーよ。||Salad is healthier than fries.
 ホルダー|ホルダー|holder|85|持有人|b|飲み物が、カップホルダーに入んなかった。||My drink didn't fit in the cupholder.
 ホームセンター|ホームセンター|hardware store, DIY store, home improvement retailer|85|居家修繕中心；建材超市|h|||
-ポジ|ポジ|positive|85|陽；陽性|b|それはポジティブというより現実逃避だよ。||That's not "having a positive outlook"; that's more like escapism.
+ポジ|ポジ|positive|85|正片；積極；正極|v|それはポジティブというより現実逃避だよ。||That's not "having a positive outlook"; that's more like escapism.
 ポーター|ポーター|porter|85|搬運工|b|ポーターに部屋まで荷物を運ばせた。||I had the porter carry my luggage to my room.
 マシュマロ|マシュマロ|marshmallow|85|棉花糖|d|トラング、もしあなたにマシュマロを送れたら、私は送るよ。|Trang，如果我能寄給你一個棉花糖，我會這麼做的。|If I could send you a marshmallow, Trang, I would.
 マスト|マスト|mast|85|桅杆；桅|b|マストが折れて僕たちの船は漂流し始めた。||The mast broke and our ship went adrift.
-マドンナ|マドンナ|madonna|85|女神；心儀的女性|h|私達はその猫をマドンナと呼んでいる。||We call the cat Madonna.
+マドンナ|マドンナ|madonna|85|聖母瑪利亞；女神|v|私達はその猫をマドンナと呼んでいる。||We call the cat Madonna.
 マリファナ|マリファナ|marijuana, marihuana, cannabis|85|大麻|d|マリファナについてトムと議論した。||I had an argument with Tom about the use of marijuana.
 メモリアル|メモリアル|memorial, testimonial, commemorative|85|追思|b|||
 モットー|モットー|motto|85|座右銘|b|||
@@ -16189,7 +16189,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ラテン|ラテン|Latin, Latin-American|85|拉丁|b|ラテン語は死んだ言語である。|拉丁語是一個死語言。|Latin is a dead language.
 ラブラブ|ラブラブ|lovey-dovey, head-over-heels in love|85|熱戀；甜蜜|h|トムはまだメアリーとラブラブなの？||Is Tom still in love with Mary?
 ランドセル|ランドセル|randoseru, firm-sided leather backpack used by elementary school children|85|書包，日本小學生背的硬殼背包|h|僕のランドセル、めっちゃ重いんだ。||My schoolbag is heavy as hell.
-リコール|リコール|recall, removal of an elected official from office though a petition and popular vote|85|想起；回憶|b|||
+リコール|リコール|recall, removal of an elected official from office though a petition and popular vote|85|召回；罷免|v|||
 リフレッシュ|リフレッシュ|refreshment, refreshing oneself, refreshing one's spirit|85|恢復精神；放鬆|h|とても気分がリフレッシュされる。||I feel like a brand new person.
 リモート|リモート|remote|85|遠程；偏遠|b|リモート勤務もだんだん慣れてきて今では快適だ。||I gradually grew accustomed to remote work and now find it pleasant.
 リンチ|リンチ|beating, mob violence, mob justice|85|私刑；群毆|h|バスの中でリンチ氏に出くわした。||I ran into Mr. Lynch on the bus.
@@ -16202,7 +16202,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 一直線|いっちょくせん|straight line|85|直線|b|彼は仕事が終わるとすぐ一直線にパブへ向かう。||As soon as work is over, he makes a beeline for the pub.
 三月|みつき|three months|85|三個月|h|三月にはもっと暖かくなるだろう。|到了三月會變的更溫暖吧|It'll become much warmer in March.
 下層|かそう|lower layer, layer beneath, lower strata|85|下層|a|そこの人々が下層社会の生活を送っているのを見た。||I saw some people there leading a low life.
-下流|かりゅう|downstream, lower reaches of a river, lower classes|85|下水|b|その滝は橋の少し下流にあります。||The falls are some distance below the bridge.
+下流|かりゅう|downstream, lower reaches of a river, lower classes|85|下游；下流|v|その滝は橋の少し下流にあります。||The falls are some distance below the bridge.
 不利益|ふりえき|disadvantage, handicap, drawback|85|不利；損害|h|||
 不都合|ふつごう|inconvenient, inexpedient, unfavourable, wrong|85|不便|b|彼に不都合なことは何もない。||Nothing comes amiss to him.
 両足|りょうあし|both feet, both legs|85|雙腳|d|彼は両足を広く開いて立っていた。||He stood with his feet wide apart.
@@ -16210,14 +16210,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 中型|ちゅうがた|medium size|85|中型|h|今は彼らは小型車または中型車を好む。||Now they like cars of small or middle size.
 中庭|なかにわ|courtyard, quadrangle, middle court|85|中庭；院|a|中庭に小さな菜園があります。||I have a small vegetable garden on my patio.
 中絶|ちゅうぜつ|abortion, discontinuance|85|人工流產|b|中絶問題で議論が二分しています。||People are taking sides on the abortion issue.
-乗用車|じょうようしゃ|car, automobile|85|車；汽車|b|トラックが乗用車にぶつかりました。||The truck hit a car.
+乗用車|じょうようしゃ|car, automobile|85|乘用車；轎車|v|トラックが乗用車にぶつかりました。||The truck hit a car.
 乗馬|じょうば|horse riding, horseback riding, mounting a horse|85|騎馬|h|グレートブリテンは紳士と乗馬の国です。||Great Britain is a land of gentlemen and horse riding.
 乱舞|らんぶ|boisterous dance|85|亂舞；狂舞|h|||
 乳房|ちぶさ|breast, udder|85|乳房；奶|a|乳房にしこりがあります。||I have a lump in my breast.
-亀裂|きれつ|crack, crevice, fissure|85|龜裂；槍聲|a|耐震性の悪い建物に亀裂が生じることもある。||Also cracks may form in buildings that aren't Earthquake proof.
+亀裂|きれつ|crack, crevice, fissure|85|龜裂；裂縫|v|耐震性の悪い建物に亀裂が生じることもある。||Also cracks may form in buildings that aren't Earthquake proof.
 事典|じてん|encyclopedia|85|事典；百科全書|a|この百科事典は検索に便利である。||This encyclopaedia is convenient for looking up things.
 五位|ごい|fifth court rank, black-crowned night heron|85|朝廷的第五位階；五位鷺|h|||
-人道|じんどう|humanity, sidewalk|85|人類|b|難民に人道的援助を行いました。||We have supplied humanitarian aid to refugees.
+人道|じんどう|humanity, sidewalk|85|人道；人行道|v|難民に人道的援助を行いました。||We have supplied humanitarian aid to refugees.
 代役|だいやく|substitute, stand-in, fill-in|85|替代品；遞補|b|代役を探すのはおおごとだよ。||Finding a replacement will be difficult.
 仲間入り|なかまいり|joining, becoming a member, joining the ranks|85|加入；成為一員|h|その僧は子供達の遊びに仲間入りした。||The priest participated in the children's games.
 何様|なにさま|person of importance, a someone, absolutely|85|何等人物；了不起|h|何様だと思ってるんだ。|你當你是誰啊？|Who do you think you are?
@@ -16226,13 +16226,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 侍医|じい|court physician|85|侍醫；御醫|h|||
 信州|しんしゅう|Shinshū|85|信州，舊國名，今長野縣|h|||
 備蓄|びちく|stocking up, stockpile, reserves|85|儲備；囤積|d|食糧は備蓄しておきましたか？||Have you made provisions?
-兆候|ちょうこう|sign, indication, omen|85|簽署；誌|b|社会不安の兆候が高まりつつある。||Signs of social unrest are mounting.
+兆候|ちょうこう|sign, indication, omen|85|徵兆；跡象|v|社会不安の兆候が高まりつつある。||Signs of social unrest are mounting.
 入団|にゅうだん|joining, enrollment, enrolment|85|入團；加入|h|||
 全曲|ぜんきょく|all compositions, the entire composition|85|全曲|h|トムはベートーヴェンのピアノ・ソナタ全曲を暗譜で演奏できる。||Tom can play all of Beethoven's Sonatas without using sheet music.
 共犯|きょうはん|complicity|85|共犯|h|彼は共犯者とみなされた。||They thought that he was an accomplice.
 兵力|へいりょく|military force, force of arms, strength of an army|85|武力|b|敵は新兵力を投入した。||The enemy flung fresh troops into the battle.
 再販|さいはん|resale|85|再販；再次發行|h|||
-写り|うつり|projection, reflection, image, match|85|射影|b|免許証の写真は、みんな写りが悪い。||Everyone's driver's license photo looks horrible.
+写り|うつり|projection, reflection, image, match|85|映照；上相|v|免許証の写真は、みんな写りが悪い。||Everyone's driver's license photo looks horrible.
 凍てる|いてる|to freeze, to freeze over|85|凍結；凍|b|||
 凱旋|がいせん|triumphant return, returning in triumph|85|凱旋|h|敵を蹴散らし、凱旋した俺はみなにこう呼ばれるんだ！||Having scattered the enemy before me and triumphantly returned, this is how they would herald me.
 凶器|きょうき|dangerous weapon, lethal weapon, deadly weapon|85|凶器|d|凶器はまだ発見されていません。||The murder weapon still hasn't been found.
@@ -16241,7 +16241,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 出稼ぎ|でかせぎ|working away from home, person working away from home|85|民工；農民工|b|冬になる度に、父は東京に出稼ぎに行っていた。||Every winter, my father would go to Tokyo to work.
 分身|ぶんしん|other self, alter ego, part of oneself|85|分身；另一個自己|h|||
 刑法|けいほう|criminal law, penal code|85|刑法|a|証人が事実を隠せば刑法の罪に問われる。||The concealment of facts by a witness is a criminal offense.
-利権|りけん|interest, rights, concession|85|興趣；利息|b|||
+利権|りけん|interest, rights, concession|85|利權；利益|v|||
 前橋|まえばし|Maebashi|85|前橋，日本城市|d|群馬県の県庁所在地は前橋市です。||Gunma Prefecture's capital is Maebashi City.
 前立腺|ぜんりつせん|prostate|85|前列腺|h|前立腺肥大になりました。||I had an enlarged prostate.
 剥がれ|はがれ|peeling, separation, exfoliation|85|剝落；脫落|h|切手が封筒から剥がれ落ちた。||The stamp fell off the envelope.
@@ -16257,7 +16257,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 原案|げんあん|original plan, original bill, original motion|85|原案；原提案|h|彼は原案に固執した。|他堅持原來的計畫。|He stuck to the original plan.
 去勢|きょせい|castration, neutering, gelding, enervation|85|閹割；絕育|h|||
 受理|じゅり|acceptance|85|受理；接受|h|彼の申し込みがやっと受理された。||His application went through.
-口内|こうない|oral, in the mouth|85|口頭|b|私は唇の中を噛んで口内炎ができた。||I bit the inside of my lip and got a canker sore.
+口内|こうない|oral, in the mouth|85|口腔內|v|私は唇の中を噛んで口内炎ができた。||I bit the inside of my lip and got a canker sore.
 口出し|くちだし|meddling, butting in, interference|85|插嘴；干涉|d|トムは何にでも口出ししてくるのよ。||Tom pokes his nose into everything.
 口論|こうろん|quarrel, argument, row|85|吵架；爭吵|b|彼女はいつも親と口論していました。|她總和她父母吵架。|She was always quarreling with her parents.
 只今|しこん|just now|85|纔；剛才|b|只今、ジョエルさんは公務中です。||Mr Joel is now on duty.
@@ -16299,7 +16299,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 実効|じっこう|practical effect, efficacy, efficiency|85|實效|a|||
 実情|じつじょう|real condition, actual circumstances, actual state of affairs|85|實情|h|実情がどうなっているかはっきり言いましょう。||I will tell you exactly how the matter stands.
 実業|じつぎょう|industry, business|85|實業；工業|a|彼は実業界に強い影響力を持っている。|他在商界有很大的影響力。|He has a strong influence over the business world.
-寄稿|きこう|contribution|85|功勞|b|彼は新聞に何か寄稿しようと思った。||He thought that he would write something for the newspaper.
+寄稿|きこう|contribution|85|投稿；寄稿|v|彼は新聞に何か寄稿しようと思った。||He thought that he would write something for the newspaper.
 密輸|みつゆ|smuggling, contraband trade|85|走私|h|警察は密輸のかどで彼を捕縛した。||The police arrested him for smuggling.
 対局|たいきょく|game|85|遊戲|b|||
 対空|たいくう|anti-aircraft, antiaircraft|85|防空|h|||
@@ -16311,7 +16311,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 左足|ひだりあし|left foot, left leg|85|左腳|h|彼は転んだ時に左足を痛めた。|他摔倒時左腳受傷了。|He hurt his left foot when he fell.
 差し出し|さしだし|sending, mailing, posting|85|寄件人；發出|h|彼女はうふふと照れながらコンドームを差し出した。|她害羞地笑著拿出了避孕套。|Giggling with embarrassment, she held out the condom.
 差し挟む|さしはさむ|to insert, to interrupt|85|插；穿插|b|||
-巻子|へそ|bobbin, reel, spool|85|卷軸|h|||
+巻子|へそ|bobbin, reel, spool|85|紗管；線軸|v|||
 師団|しだん|division|85|除法|b|医師団はもう一度手術を行うのを拒んだ。||Doctors refused to perform a second operation.
 帯域|たいいき|band, zone, range, bandwidth|85|帶；樂團|b|||
 帰納|きのう|induction, inductive reasoning|85|歸納|a|||
@@ -16362,7 +16362,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 春休み|はるやすみ|spring break, spring vacation|85|春假|d|私の子供達はもうすぐ春休みです。||My kids have their spring break soon.
 昭|しょう|nth year in the Shōwa era|85|昭和年間的年份|h|明日数学のテストがあるでしょう。|明天有一個數學測驗。|There will be a math test tomorrow.
 是非とも|ぜひとも|by all means, at all costs, absolutely|85|無論如何；務必|h|是非とも私の家にお越しください。||Please come to my house by all means.
-時効|じこう|prescription, statute of limitations, limitation period|85|配方；藥方|b|この犯罪については時効が成立している。||The statute of limitations has already passed for this crime.
+時効|じこう|prescription, statute of limitations, limitation period|85|時效|v|この犯罪については時効が成立している。||The statute of limitations has already passed for this crime.
 時限|じげん|period, period or division of time|85|時限；時期|a|４時限が３時限に繰り上げになった。||The fourth period was moved up to the third.
 有り得|ありう|to be possible, to be conceivable, to be likely|85|可能；有可能|h|有り得ない！||It can't be!
 望月|もちづき|full moon, moon on the 15th day of the month|85|望月；望|a|||
@@ -16370,14 +16370,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 本拠地|ほんきょち|stronghold, inner citadel, base|85|寨；據點|b|我が社の本拠地は東京である。||Our company's base is in Tokyo.
 松原|まつばら|pine grove|85|松林|h|||
 果汁|かじゅう|fruit juice|85|果汁|a|トムは毎日果汁100%のオレンジジュースを飲んでいる。|湯姆每天都喝100%的鮮橙汁。|Tom drinks 100% pure orange juice every day.
-査定|さてい|assessment, scrutiny|85|估算|b|彼らはその土地を９００万円と査定した。||They assessed the land at nine million yen.
+査定|さてい|assessment, scrutiny|85|査定；評估|v|彼らはその土地を９００万円と査定した。||They assessed the land at nine million yen.
 核心|かくしん|core, heart, point|85|內核；中堅|b|これがその問題の核心である。||This is the core of the problem.
-格段|かくだん|dramatic, remarkable, marked|85|戲劇性|b|両者の間には格段の違いがある。||There is a marked difference between them.
+格段|かくだん|dramatic, remarkable, marked|85|顯著；格外|v|両者の間には格段の違いがある。||There is a marked difference between them.
 桜木|さくらぎ|cherry tree, cherry wood|85|櫻樹|h|||
 梅酒|うめしゅ|ume liqueur, Japanese plum brandy, unripe ume infused in liquor with added sugar|85|梅酒|h|梅酒って、梅を使った和リキュールなんだ。||Umeshu is a Japanese liqueur made from plums.
 極度|きょくど|maximum, extreme, utmost|85|極度；極點|h|トムは極度の秘密主義者だ。||Tom is extremely secretive.
 楽団|がくだん|orchestra, band|85|樂團|a|ダンサーたちは楽団の音楽にあわせてステップを踏んだ。|舞蹈員們隨著樂團音樂的拍子踏著舞步。|The dancers timed their steps to the music of the band.
-楽屋|がくや|dressing room, green room, backstage, behind the scenes|85|後臺；化妝室|d|楽屋口はどこですか。|請問劇場後門在哪？|Where is the backstage entrance?
+楽屋|がくや|dressing room, green room, backstage, behind the scenes|85|後台；休息室|v|楽屋口はどこですか。|請問劇場後門在哪？|Where is the backstage entrance?
 横領|おうりょう|embezzlement, misappropriation, usurpation|85|侵占；挪用|h|その市長は市の金を横領した。||The mayor appropriated city money for his own use.
 次位|じい|second rank, second place|85|次位；第二名|h|||
 次女|じじょ|second daughter|85|次女|a|||
@@ -16401,7 +16401,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 漂流|ひょうりゅう|drifting, drift, being adrift|85|漂流|h|潮流がその船を外海へと漂流させた。||The tide carried the boat out to sea.
 演歌|えんか|enka, traditional-style Japanese popular ballad|85|演歌|a|||
 漠|ばく|vague, obscure, vast|85|曖昧；隱晦|b|彼を破滅させたのはばくちであった。||It was gambling that brought about his ruin.
-激突|げきとつ|crash, smashing, ramming, clash|85|崩壞；崩盤|b|二台のバンが激突してめり込んだ。||The two vans telescoped together.
+激突|げきとつ|crash, smashing, ramming, clash|85|猛烈撞擊；激烈衝突|v|二台のバンが激突してめり込んだ。||The two vans telescoped together.
 火炎|かえん|flame, blaze|85|炎；火光|b|トムは火炎瓶を警察に投げつけた。||Tom threw Molotov cocktails at the police.
 炸裂|さくれつ|violent explosion, bursting|85|炸裂；爆裂|h|||
 無害|むがい|harmless|85|無害；無毒|a|この除草剤は人間には無害だ。||This weed killer does not harm human beings.
@@ -16418,11 +16418,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 用具|ようぐ|tool, implement, instrument|85|工具；具|b|筆記用具を持って来るのを忘れた。||I have forgotten to bring something to write with.
 町長|ちょうちょう|town mayor|85|町長|h|||
 番線|ばんせん|track number, platform number, wire gauge|85|月臺編號；線號|h|ダウンタウン行きは何番線ですか。||What platform does the downtown train leave from?
-疎意|そい|wanting to remain distant, alienation, estrangement|85|異化|b|||
+疎意|そい|wanting to remain distant, alienation, estrangement|85|疏遠；隔閡|v|||
 疾風|しっぷう|gale, strong wind, swift wind|85|疾風；大風|a|||
 発令|はつれい|official announcement, proclamation, issuance|85|發布；頒布命令|h|||
 白衣|はくい|white clothes, white robe, white gown|85|白衣；白袍|h|看護婦さんは白衣を着ている。||A nurse wears white.
-盛り上げる|もりあげる|to pile up, to heap up, to stir up|85|堆；堆積|b|||
+盛り上げる|もりあげる|to pile up, to heap up, to stir up|85|炒熱氣氛；堆高|v|||
 相次ぐ|あいつぐ|to follow in succession, to happen one after another|85|接連；相繼|h|相次ぐ不祥事にも関わらず、警察はオメオメ違反切符を切っている。|與自身相次發生的醜聞毫無關係，警方無恥地不斷髮出違規的罰票。|Notwithstanding their own repeated scandals, the police continue to nonchalantly issue infringement tickets.
 真意|しんい|real intention, true motive, true meaning|85|真意|a|彼女の真意は明らかではなかった。||It was not clear what she really meant.
 着任|ちゃくにん|taking up a new post|85|就任；赴任|h|彼がフランス本社から先月着任した新しいＣＥＯです。||He's the new CEO who arrived last month from the French head office.
@@ -16432,9 +16432,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 祖父母|そふぼ|grandparents|85|祖父母；祖父與祖母|h|ルーシーは祖父母に育てられた。|Lucy是被她的祖父母養大的。|Lucy was brought up by her grandparents.
 福音|ふくいん|good news, glad tidings, gospel|85|福音；喜訊|a|彼らはキリストの福音を全世界に広めた。||They spread the Gospel all over the world.
 秀逸|しゅういつ|excellent, superb, first-rate|85|優；嘉|b|||
-移入|いにゅう|introduction, import, bringing in|85|導論|b|||
+移入|いにゅう|introduction, import, bringing in|85|移入；引進|v|||
 税別|ぜいべつ|excluding tax, not including tax, before tax|85|不含稅|h|料金は、税別で一泊１００ドルです。||It costs $100 a night not counting tax.
-積|せき|product, volume|85|積；產品|a|恋とせきとは隠せない。|愛和咳嗽是無法隱藏的。|Love and cough cannot be hidden.
+積|せき|product, volume|85|乘積；體積|v|恋とせきとは隠せない。|愛和咳嗽是無法隱藏的。|Love and cough cannot be hidden.
 突出|とっしゅつ|projection, protrusion, jutting out, rupture|85|射影|b|||
 窒素|ちっそ|nitrogen|85|氮；氮氣|b|私達の吸っている空気は酸素と窒素からできている。|我們呼吸的空氣是由氧氣和氮氣組成的。|The air we breathe consists of oxygen and nitrogen.
 立案|りつあん|planning, devising, drafting|85|立案；擬定|h|彼女は計画の立案を指示した。||She directed the planning of the project.
@@ -16446,7 +16446,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 篠原|しのはら|field of bamboo grass|85|竹林原野|h|||
 粗衣|そい|simple clothes, humble clothes|85|粗衣；粗布衣服|h|||
 粛清|しゅくせい|purge|85|肅清|a|反体制派はすべて旧体制のもとで粛清されました。||All political dissidents were purged under the former regime.
-精進|しょうじん|concentration, diligence, devotion, asceticism|85|濃度|b|私は去年名古屋で精進料理というとても美味しい料理を食べた。|我去年在名古屋吃了一道非常美味的料理，名為精進料理。|Last year in Nagoya I ate a very delicious dish called "Shoujin Ryouri".
+精進|しょうじん|concentration, diligence, devotion, asceticism|85|精進；勤奮；素食|v|私は去年名古屋で精進料理というとても美味しい料理を食べた。|我去年在名古屋吃了一道非常美味的料理，名為精進料理。|Last year in Nagoya I ate a very delicious dish called "Shoujin Ryouri".
 精鋭|せいえい|elite, best, pick|85|菁英；精銳|b|||
 糸冬|おわり|end, conclusion, ending|85|終；終點|b|||
 納期|のうき|appointed date of delivery, delivery time, due date for payment|85|交貨期限；繳款期限|h|最低価格と一番早い納期を見積もってくださるようお願いいたします。||Please estimate your best price and the earliest delivery date.
@@ -16460,20 +16460,20 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 総称|そうしょう|general term, generic name|85|總稱；統稱|h|||
 縅|おどし|leather strap binding the plates of traditional Japanese armor|85|鎧甲甲片的繫繩|h|彼のおどしなどちっともこわくない。||I am not in the least afraid of his threats.
 縛|ばく|tying up, restraint, restriction|85|束縛；捆綁|h|彼を破滅させたのはばくちであった。||It was gambling that brought about his ruin.
-置き換える|おきかえる|to move to another location, to change the position of, to rearrange|85|重排|b|||
+置き換える|おきかえる|to move to another location, to change the position of, to rearrange|85|替換；取代|v|||
 美貌|びぼう|beautiful face, good looks, beauty|85|美貌|a|僕は彼女の美貌のとりこになった。||I was captivated by her beauty.
 義務付け|ぎむづけ|obligation|85|強制；使成為義務|h|それは義務付けられているんですか？||Is that mandatory?
 翻弄|ほんろう|having at one's mercy, trifling with, toying with|85|玩弄；擺佈|h|船は風と波に翻弄されていた。||The ship was at the mercy of the wind and the waves.
 聖戦|せいせん|holy war, crusade|85|聖戰|a|||
 肩書き|かたがき|title, job title, position|85|標題；頭銜|b|彼の公式の肩書きは環境庁長官です。||His official title is Director-General of the Environment Agency.
-胸元|むなもと|breast, chest, pit of the stomach|85|奶；乳房|b|その時、メアリーは胸元に純白のパールのネックレスをしていました。||At that time, Mary wore a pure white pearl necklace on her chest.
+胸元|むなもと|breast, chest, pit of the stomach|85|胸口；胸前|v|その時、メアリーは胸元に純白のパールのネックレスをしていました。||At that time, Mary wore a pure white pearl necklace on her chest.
 脱水|だっすい|dehydration, desiccation, evaporation|85|脫水|a|脱水症状には、塩をひと舐め。||For dehydration, take a lick of salt.
 腹痛|ふくつう|stomach ache, abdominal pain|85|腹痛|h|お腹痛い。スイカ食べ過ぎたかな。|肚子痛。是不是西瓜吃太多了？|My stomach hurts. I wonder if I ate too much watermelon.
 自維|じい|the Liberal Democratic Party and the Japan Innovation Party|85|日本自民黨與維新會的合稱|h|||
 至上|しじょう|supremacy|85|至上；至高無上|h|||
 致命傷|ちめいしょう|fatal wound|85|致命傷|h|傷は彼にとって致命傷だった。||The wound was fatal to him.
 臼|うす|millstone, mortar|85|臼|a|もし１００万あったら、どうする？|如果你有100萬你會做什麼？|If you had a million yen, what would you do with it?
-舎利|しゃり|bones left after cremation|85|米粒|b|||
+舎利|しゃり|bones left after cremation|85|舍利；米飯|v|||
 航行|こうこう|cruise, navigation, sailing|85|巡遊|b|数艘のヨットが、はるか沖合を並んで航行していた。|數艘遊艇在遠方的海洋並列航行。|Several yachts were sailing side by side far out at sea.
 船体|せんたい|hull|85|船體；船身|a|||
 色素|しきそ|pigment, coloring, colouring|85|色素|a|||
@@ -16493,10 +16493,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 表題|ひょうだい|title, index, heading|85|標題；頭銜|b|||
 被曝|ひばく|being exposed to radiation, radiation exposure|85|受輻射；被輻射|h|||
 見どころ|みどころ|point worthy of note, good point, part worth seeing|85|看頭；亮點|h|このあたりは見どころがいっぱいです。|這附近有很多值得一看的地方。|There are a lot of places to see around here.
-見所|けんじょ|audience seating, audience|85|觀眾席；看頭|h|京都にはたくさんの見所がある。|在京都，有很多的景點值得一看。|There are many sights to see in Kyoto.
+見所|けんじょ|audience seating, audience|85|看點；觀眾席|v|京都にはたくさんの見所がある。|在京都，有很多的景點值得一看。|There are many sights to see in Kyoto.
 見極め|みきわめ|ascertainment|85|判斷；鑑定|h|善悪を見極めることは難しい。||It's hard to get to the bottom of good and evil.
 見立て|みたて|choice, selection, diagnosis|85|挑選；診斷|h|彼の性格についてのあなたの見立てはまるきり正しい。||You are absolutely right about his character.
-見覚え|みおぼえ|memory, remembrance, recollection|85|記性；存儲器|b|トムに見覚えがあると思った。||I thought that I recognized Tom.
+見覚え|みおぼえ|memory, remembrance, recollection|85|見過；印象|v|トムに見覚えがあると思った。||I thought that I recognized Tom.
 視認|しにん|visual confirmation, sighting|85|目視確認|h|||
 覚|さとり|Satori, folklore monster that can read minds|85|傳說中能讀心的妖怪|h|||
 言い過ぎ|いいすぎ|exaggeration, overstatement|85|言過其實；說得太過|h|生き地獄は、言い過ぎだと私も思う。||I also think 'living hell' is putting it too strongly.
@@ -16506,7 +16506,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 語意|ごい|meaning of a word|85|語意|h|||
 誤認|ごにん|misrecognition, mistaking|85|誤認|h|科学者の通弊は、あらゆる問題に技術的解決策があると誤認すること。||A fault common to scientists is mistakenly believing that every problem has a technical solution.
 読み上げ|よみあげ|reading aloud, recitation|85|朗讀；唸出|h|彼は高らかにその詩を読み上げた。||He read the poem with a loud voice.
-請負|うけおい|contract, contracting, undertaking|85|患有；承包|b|その役人は請負業者にとり入ったかどで、くびになった。||The official got the sack for currying favor with the contractors.
+請負|うけおい|contract, contracting, undertaking|85|承包；承攬|v|その役人は請負業者にとり入ったかどで、くびになった。||The official got the sack for currying favor with the contractors.
 謝り|あやまり|excuse, apology|85|原諒；說辭|b|私は自分の遅刻を平謝りに謝った。||I apologized profusely for my being late.
 譜面|ふめん|sheet music, score|85|樂譜|d|||
 貞|てい|firm adherence to one's principles, chastity|85|貞操；貞潔|b|嵐にもかかわらず彼は出ていった。|雖然正在刮暴風雨，但他還是出去了。|He went out in spite of the storm.
@@ -16629,7 +16629,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 コカイン|コカイン|cocaine|86|可卡因|b|彼はコカインに溺れている。||He is addicted to cocaine.
 コスモ|コスモ|cosmos|86|宇宙|h|コスモノートは宇宙服を着ています。||Cosmonauts wear spacesuits.
 コスモス|コスモス|cosmos, garden cosmos|86|大波斯菊；秋櫻|h|||
-コロン|コロン|colon|86|結腸|b|私たちはコロンブスの話を演じた。||We acted the story of Columbus.
+コロン|コロン|colon|86|冒號；結腸；古龍水|v|私たちはコロンブスの話を演じた。||We acted the story of Columbus.
 コンパニオン|コンパニオン|promotional model, female guide, booth babe|86|活動司儀；展場模特|h|私は博覧会のコンパニオンに応募した。||I applied to be an attendant at the exposition.
 コーティング|コーティング|coating|86|塗層；鍍膜|d|||
 ゴージャス|ゴージャス|gorgeous, sumptuous, extravagant|86|華麗；絢麗|b|彼女はかなりゴージャスだね。||She's quite gorgeous.
@@ -16658,7 +16658,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 チタン|チタン|titanium|86|鈦|b|広辞苑はチタンの入っている紙を使います。||Kojien uses a paper that contains titanium.
 チューナー|チューナー|tuner|86|調諧器；調音師|h|私はチューナーを使いヴァイオリンをチューニングした。||I used a tuner to tune the violin.
 ティタン|ティタン|Titan, Titan|86|泰坦；鈦|d|||
-テンプ|テンプ|temporary|86|暫|b|テンプレートには、スライドの背景、フォント、色、および設定が含まれる。||Templates include slide backgrounds, fonts, colors, and settings.
+テンプ|テンプ|temporary|86|臨時；暫時|v|テンプレートには、スライドの背景、フォント、色、および設定が含まれる。||Templates include slide backgrounds, fonts, colors, and settings.
 テンプレート|テンプレート|template|86|模板；樣板|b|テンプレートには、スライドの背景、フォント、色、および設定が含まれる。||Templates include slide backgrounds, fonts, colors, and settings.
 ディフェンス|ディフェンス|defense, defence|86|防禦；防務|b|アメリカンフットボールではディフェンスは特別な仕事だ。||In American football the defense has a specific job.
 デジ|デジ|digital, digi-|86|數位；數位化|d|新しいカメラを買うよ、今度はデジタルのを。|我要買新相機囉，這次買數位的。|I'm going to buy a new camera. This time it will be a digital one.
@@ -16698,7 +16698,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ヘイトスピーチ|ヘイトスピーチ|hate speech|86|仇恨言論|h|||
 ベネズエラ|ベネズエラ|Venezuela|86|委內瑞拉|d|||
 ボウリング|ボウリング|bowling|86|保齡球|h|夜はたいていボウリングに行きます。||At night, we usually go bowling.
-ボーリング|ボーリング|boring, drilling|86|沒意思|b|僕らは普通、月曜日にボーリングに行く。||On Mondays, we usually go bowling.
+ボーリング|ボーリング|boring, drilling|86|鑽探；保齡球|v|僕らは普通、月曜日にボーリングに行く。||On Mondays, we usually go bowling.
 マキシ|マキシ|maxi, maxim|86|長版；長裙|h|||
 マグニチュード|マグニチュード|magnitude|86|規模；震級|h|マグニチュード５の地震が東京を見舞った。||An earthquake of magnitude 5 shook Tokyo.
 マルタ|マルタ|Malta|86|馬爾他|d|ライラはマルタ語が話せます。||Layla speaks Maltese.
@@ -16722,8 +16722,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ルーター|ルーター|router, router|86|路由器|b|このルーターの管理者パスワードって、わかる？||Do you know the admin password for the router?
 レーサー|レーサー|racer|86|賽車手|h|グランプリに勝つことは有名なレーサーにとっては名誉であった。||Winning the Grand Prix was a feather in the cap of the famous drivers.
 ロッキー|ロッキー|Rocky|86|洛基，電影名；落基山的|h|彼らはその犬をロッキーと呼びました。||They called the dog Rocky.
-ローブ|ローブ|robe|86|長袍；外袍|d|彼の批評はまるでローブローだ。||His comment hit below the belt.
-一宮|いちのみや|most important provincial shrine, first-born imperial prince|86|某國最重要的神社|h|||
+ローブ|ローブ|robe|86|長袍|v|彼の批評はまるでローブローだ。||His comment hit below the belt.
+一宮|いちのみや|most important provincial shrine, first-born imperial prince|86|一宮（神社）；第一皇子|v|||
 一新|いっしん|complete change, reform, restoration|86|煥然一新；革新|h|その罪人はキリスト教徒になり、生活を一新した。||The criminal became a Christian and turned over a new leaf.
 七夕|たなばた|Star Festival, Tanabata, Festival of the Weaver|86|七夕|h|日本の七夕はいつなのでしょうか。||When is Japan's Tanabata festival?
 万年|まんねん|ten thousand years, eternity, perennial|86|萬年；永久|h|この万年筆はインクが切れた。|這支筆沒墨了。|This pen has run dry.
@@ -16732,7 +16732,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 上質|じょうしつ|fine quality|86|上等；優質|h|上質の物を買うと結局損はない。||Quality goods are worth it in the long run.
 下山|げざん|descending a mountain, descent|86|下山|h|私は頂上から下山する途中彼らに会った。||I met them during my descent from the peak.
 下級|かきゅう|lower grade, low class, junior|86|下級；低階|h|山田君ってさ、同じ学年の女子には人気ないけど、下級生にはモテるんだよね。||Yamada isn't popular with girls in his own grade, but he's popular with the younger girls at school.
-不器|ふき|clumsiness, unskillfulness|86|笨拙；不擅長|h|不器用なので、折り紙は苦手です。||I'm all thumbs, so I'm not very good at origami.
+不器|ふき|clumsiness, unskillfulness|86|笨拙；不靈巧|v|不器用なので、折り紙は苦手です。||I'm all thumbs, so I'm not very good at origami.
 不帰|ふき|returning no more, dying|86|不歸；死去|h|||
 不期|ふき|unexpected, accidental|86|意外；想不到|b|||
 不死|ふし|immortality, eternal life, undeath|86|不死；永生|d|本当に不死身になりたいか？||Do you really want to be immortal?
@@ -16753,7 +16753,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 京阪|けいはん|Kyoto and Osaka, Kyoto-Osaka area|86|京都與大阪|h|||
 他所|たしょ|another place, somewhere else, elsewhere|86|別處；他處|d|||
 付け加え|つけくわえ|addition|86|加法|b|もう１点付け加えてもいいですか。||May I add a point?
-付記|ふき|addition, appendix, note|86|加法|b|||
+付記|ふき|addition, appendix, note|86|附記；附註|v|||
 伏線|ふくせん|foreshadowing, preparation|86|伏線|a|||
 伐採|ばっさい|felling timber, cutting down trees, logging|86|砍伐；採伐|h|彼は木の伐採をしている。||He fells trees.
 似合い|にあい|well-matched, becoming, suitable|86|相襯；相配|h|彼らはお似合いのカップルです。|他們是合適的一對。|They are a good couple.
@@ -16809,7 +16809,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 商工|しょうこう|commerce and industry|86|工商業|h|||
 善悪|ぜんあく|right and wrong, good and evil|86|善惡；是非|a|赤ん坊には善悪が認識出来ない。|嬰兒不懂得分是非黑白。|A baby has no knowledge of good and evil.
 喘息|ぜんそく|asthma|86|哮喘|b|喘息の発作が起きました。|我哮喘發作了。|I had an asthma attack.
-嘆き|なげき|grief, lamentation|86|沉痛；慼|b|彼は身の不運を嘆き悲しんだ。||He wept over his misfortunes.
+嘆き|なげき|grief, lamentation|86|悲嘆；哀嘆|v|彼は身の不運を嘆き悲しんだ。||He wept over his misfortunes.
 四方|しほう|the four cardinal directions, north, east, south and west, all directions|86|四方；四周|h|日本は四方を海に囲まれた国である。|日本是個四面環海的國家。|Japan is a country surrounded by the sea on all sides.
 因縁|いんねん|fate, destiny, connection|86|因緣；淵源|h|早くこの世を去ったのも彼女の因縁だ。||It was her fate to die young.
 固執|こしつ|sticking to, clinging to, adherence|86|固執；堅持|h|彼は、自分の意見に固執している。|他（仍然）在固執己見。|He persists in his opinion.
@@ -16818,7 +16818,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 地検|ちけん|District Public Prosecutor's Office|86|地方檢察廳|h|||
 埋め立て|うめたて|land reclamation, land fill|86|填海|b|||
 変質|へんしつ|alteration, change in quality, transformation|86|變質|h|暗い道は変質者に狙われやすい。||Dark streets are an easy target for perverts.
-大まか|おおまか|rough, broad, general|86|粗略；粗獷|b|大まかに言って、犬は猫より忠実だ。||Broadly speaking, dogs are more faithful than cats.
+大まか|おおまか|rough, broad, general|86|大致；粗略|v|大まかに言って、犬は猫より忠実だ。||Broadly speaking, dogs are more faithful than cats.
 大棟|おおむね|top ridge of a roof, main ridge of a roof|86|屋頂的大脊|h|||
 大河ドラマ|たいがドラマ|Taiga drama, annual year-long historical drama TV series produced by NHK|86|日本放送協會年度歷史連續劇|h|||
 大社|たいしゃ|grand shrine, famous shrine, Izumo Grand Shrine|86|著名的大神社|h|||
@@ -16831,11 +16831,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 定例|ていれい|regular, ordinary|86|正規；有序|b|||
 定形|ていけい|fixed form, regular shape, standard-size mail|86|定型；標準形狀|h|否定形ってさぁ、訳すの難しんだよ。||Negative forms are difficult to translate.
 密閉|みっぺい|shutting tightly, making airtight, sealing hermetically|86|密閉；封閉|h|こちらの容器は密閉式です。||These containers are airtight.
-対向|たいこう|counter-, corresponding, face|86|相對；對向|h|対向車に気をつけて。||Watch out for the oncoming traffic.
+対向|たいこう|counter-, corresponding, face|86|對向；相對|v|対向車に気をつけて。||Watch out for the oncoming traffic.
 導坑|どうこう|pilot tunnel|86|開挖坑道前先挖的小坑道|h|||
 小人|しょうにん|child|86|孩子；兒童|b|小人はつまらないことに興ずる。||Small things amuse small minds.
 小杉|こすぎ|small cedar, thin Japanese paper|86|小杉樹；細杉木|h|小杉さんにお目にかかりたいのですが。||I'd like to see Mr Kosugi.
-小百合|さゆり|lily|86|百合|b|||
+小百合|さゆり|lily|86|小百合|v|||
 少尉|しょうい|second lieutenant, sublieutenant, ensign|86|少尉|a|||
 山内|さんない|in the mountains, within the grounds of a temple|86|山內，寺院境內|h|私、菜々です。山内秀樹の娘です。||I'm Nana. I'm Hideki Yamauchi's daughter.
 山陽|さんよう|south side of a mountain, Sanyo district|86|山的南側；山陽地方|h|||
@@ -16867,7 +16867,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 性愛|せいあい|sexual love, eros|86|性愛|h|彼女の母性愛がかき立てたれた。||The mother in her was aroused.
 恩返し|おんがえし|paying back a favour, repayment|86|還款|b|近い内にあなたの親切に恩返しをしたい。||I would like to repay your kindness in the near future.
 息抜き|いきぬき|taking a breather, relaxation, rest, vent|86|喘口氣；放鬆|h|息抜きしようよ。||Let's ease up.
-悌|てい|respect for one's elders, harmony among siblings|86|敬重兄長、友愛弟弟|h|嵐にもかかわらず彼は出ていった。|雖然正在刮暴風雨，但他還是出去了。|He went out in spite of the storm.
+悌|てい|respect for one's elders, harmony among siblings|86|悌；友愛兄長|v|嵐にもかかわらず彼は出ていった。|雖然正在刮暴風雨，但他還是出去了。|He went out in spite of the storm.
 悪性|あくせい|malignant, virulent, pernicious|86|惡性|a|悪性の風邪が全国に流行っている。||Bad cold is prevailing throughout the country.
 惣菜|そうざい|small dish, side dish|86|家常小菜；配菜|d|この惣菜買いは、それから後中学へ行っても続いていた。||I continued buying prepared dishes even after I went to middle school.
 愛らしい|あいらしい|pretty, charming, lovely|86|俊美；倩|b|あれは可愛らしい少女の学校です。||That's a pretty little girls' school.
@@ -16920,7 +16920,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 検閲|けんえつ|censorship, inspection|86|審查；檢閱|d|検閲とは：真実を消し去ることである。||Censorship erases truth.
 極東|きょくとう|Far East|86|遠東|d|日本はアジアの極東に位置しています。||Japan is located in Far East Asia.
 欠損|けっそん|deficit, shortage, loss, being partially broken|86|虧損；赤字|b|同社は第一四半期に４億ドルの欠損を出した。||The company incurred a deficit of $400 million during the first quarter.
-止まれ|とまれ|Stop|86|卡；停|b|止まれとおっしゃっているんですか？||Are you telling me to stop?
+止まれ|とまれ|Stop|86|停|v|止まれとおっしゃっているんですか？||Are you telling me to stop?
 武道館|ぶどうかん|martial arts stadium, Budokan|86|武道館|h|||
 死傷|ししょう|death and injury, being killed or injured|86|傷亡|h|その事故で死傷者が１５名出た。||Fifteen people were killed or injured in the accident.
 殺菌|さっきん|sterilization, sterilisation, disinfection|86|殺菌|h|この牛乳は殺菌してある。||This milk is free from germs.
@@ -16932,9 +16932,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 法学部|ほうがくぶ|faculty of law, school of law, college of law|86|法學院；法學系|h|法学部の図書館で仕事を見つけた。||He got a job at the Law Library.
 法規|ほうき|laws and regulations, legislation|86|法規|a|道路法規は厳重に守らなければならない。||The rule of the road must be strictly observed.
 注力|ちゅうりょく|pouring one's energy into, focusing one's efforts on, concentrating on|86|集中精力；專注|h|||
-洗|せん|washing machine, washer|86|洗衣機|h|何と言ったら良いか分かりません。|我不知道應該說什麼才好。|I don't know what I should say.
+洗|せん|washing machine, washer|86|洗；洗衣機|v|何と言ったら良いか分かりません。|我不知道應該說什麼才好。|I don't know what I should say.
 浄水|じょうすい|clean water, purified water|86|淨水|a|当店の水は浄水器を使用しています。||This store's water is filtered.
-淡い|あわい|light, faint, pale|86|輕；輕鬆|b|メアリーは淡い青色のドレスを着た。||Mary wore a pale blue dress.
+淡い|あわい|light, faint, pale|86|淡；微弱|v|メアリーは淡い青色のドレスを着た。||Mary wore a pale blue dress.
 淡路|あわじ|Awaji|86|淡路，島名|h|淡路で大地震があったというニュースを聞いた。|我聽到了淡路發生大地震的訊息。|I heard the news that there had been a big earthquake in Awaji.
 混在|こんざい|existing alongside, mixture, intermingling|86|混雜；並存|h|ベルギーにはフラマン語とフランス語を話す人が混在しています。||In Belgium, here is a mix between people who speak Flemish and French.
 減額|げんがく|reduction, diminution, abatement|86|減額；減少金額|h|||
@@ -16968,12 +16968,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 疾病|しっぺい|illness, disease|86|病；病患|b|この疾病の要因は、ストレスです。||The cause of this illness is stress.
 病人|びょうにん|sick person, patient, invalid|86|病人|a|その病人は夏中はもたないだろう。||That patient cannot hold out through the summer.
 病原|びょうげん|origin of an illness, cause of a disease, pathogenesis|86|病原；病因；致病源|h|||
-癒す|いやす|to heal, to cure, to satisfy|86|癒；癒合|b|心の傷を癒すには時間がかかる。||Healing the wounds of the heart takes time.
+癒す|いやす|to heal, to cure, to satisfy|86|治癒；撫慰|v|心の傷を癒すには時間がかかる。||Healing the wounds of the heart takes time.
 癸巳|みずのとみ|Water Snake|86|癸巳；水蛇年|h|||
 発声|はっせい|utterance, speaking, vocalization, leading a group of people|86|發聲；發出聲音；帶頭|h|まず発声練習から始めましょう。||Let's begin practicing voice projection.
 白書|はくしょ|white paper|86|白皮書|b|私はこれらの統計数値を政府の教育白書から借りた。||I took these statistics from a government white paper on education.
 白米|はくまい|polished rice, white rice|86|白米；精米|h|白米と玄米、どっちが好き？|你更喜歡白米還是糙米呢？|Which do you like better, white rice or brown rice?
-白雪姫|しらゆきひめ|Snow White|86|雪白|b|彼女は白雪姫のように美しい。||She is as beautiful as Snow White.
+白雪姫|しらゆきひめ|Snow White|86|白雪公主|v|彼女は白雪姫のように美しい。||She is as beautiful as Snow White.
 百済|くだら|Baekje, Paekche|86|百濟；朝鮮古國名|h|||
 盛況|せいきょう|success, boom, being well-attended|86|盛況；熱鬧；盛大場面|h|バザーは盛況のうちに終わった。||The bazaar ended a great success.
 直下|ちょっか|directly under, falling perpendicularly|86|正下方；直下；垂直落下|h|ほぼ赤道直下にあるシンガポールでは、雨季・乾季があまり明瞭ではない。||In Singapore, practically right on the equator, the rainy and dry seasons aren't very clear cut.
@@ -16997,7 +16997,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 系譜|けいふ|genealogy, lineage, family tree|86|家譜|b|||
 納品|のうひん|delivery of goods|86|交貨；交付商品|h|納品は、5営業日かかります。||Delivery will take 5 business days.
 純愛|じゅんあい|pure love|86|純愛|a|彼氏じゃないわ、利益をともなう純愛よ！||He's not my boyfriend, it's just platonic love with benefits!
-素性|すじょう|birth, lineage, parentage, identity|86|誕|b|ぜんぜん素性の分からない人間を軽々しく信用してはならぬ。||Don't trust a man whose past you know nothing about.
+素性|すじょう|birth, lineage, parentage, identity|86|出身；來歷；本性|v|ぜんぜん素性の分からない人間を軽々しく信用してはならぬ。||Don't trust a man whose past you know nothing about.
 組成|そせい|composition, constitution, composition|86|構圖|b|||
 統括|とうかつ|unification, bringing together, generalization|86|大一統|b|国務長官は対外関係を統括する。||The Secretary of State administers foreign affairs.
 絶縁|ぜつえん|breaking off relations, severing one's connections, breaking with|86|斷絕關係；絕緣|h|軟木の絶縁された部屋およびよいヒーターはサウナのための絶対必要である。||An insulated soft-wood room and a good heater are the absolute necessities for a sauna.
@@ -17042,13 +17042,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 観賞|かんしょう|admiration, appreciation, enjoyment|86|觀賞；欣賞|h|この部屋の隅に観賞植物を置きたいんです。||In this corner of the room I'd like to put a house-plant.
 言いなり|いいなり|doing as one is told, yes-man|86|唯命是從；言聽計從|h|彼は彼女の言いなりになっています。||She has him wrapped around her finger.
 言い換え|いいかえ|putting in other words, rephrasing, rewording|86|換句話說；改寫；換說法|h|言い換えれば、彼は私たちを裏切った。|換句話說，他就背叛了我們。|In other words, he betrayed us.
-許諾|きょだく|consent, assent, approval|86|諾|b|||
+許諾|きょだく|consent, assent, approval|86|許可；同意|v|||
 評|ひょう|criticism, commentary, review|86|評論；批評；評價|d|ひょうが作物に被害を与えた。||The hail harmed the crops.
 試行錯誤|しこうさくご|trial and error|86|試誤；反覆嘗試|h|試行錯誤は進歩に不可欠だ。||Trial and error is essential to progress.
 警部補|けいぶほ|assistant inspector|86|警部補|h|||
 議事|ぎじ|proceedings, business|86|議事；議程；審議|h|前回の議事録は承認されました。||Minutes of the previous meeting were accepted.
 谷川|たにがわ|mountain stream|86|澗|b|||
-豈|あに|never, by no means, not in the least, why|86|從未；從不|b|なあに、しがないサラリーマンですよ。||Me? I'm a plain old salaryman.
+豈|あに|never, by no means, not in the least, why|86|豈；難道|v|なあに、しがないサラリーマンですよ。||Me? I'm a plain old salaryman.
 貧血|ひんけつ|anemia, anaemia|86|貧血|a|貧血で倒れました。||I collapsed from anemia.
 貴姉|きし|your older sister, you|86|令姊；貴姊|h|||
 貴誌|きし|your magazine, your journal, your paper|86|貴刊；貴誌|h|||
@@ -17086,7 +17086,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 長め|ながめ|longish, moderately long, somewhat long|86|略長；偏長|h|バットを長めに持ってください。||Please hold your bat by the end of its handle.
 長続き|ながつづき|lasting long, continuation, keeping at|86|持續很久；長久持續|h|彼は何事にも長続きしない。||He never sticks to anything very long.
 長袖|ながそで|long sleeves|86|長袖|a|このシャツは長袖です。||This shirt has long sleeves.
-開口|かいこう|opening, aperture, opening one's mouth|86|開局；揭幕|b|Xbox 360については「いいハードです」と開口一番切り出した。||On the Xbox 360 the very first thing he said was "good hardware."
+開口|かいこう|opening, aperture, opening one's mouth|86|開口；開局|v|Xbox 360については「いいハードです」と開口一番切り出した。||On the Xbox 360 the very first thing he said was "good hardware."
 開演|かいえん|curtain raising, starting|86|開演；開始表演|h|コンサートは、午後8時開演です。|演唱會從晚上八點開始。|The concert starts at 8 p.m.
 阿字|あじ|first Sanskrit alphabet letter|86|阿字；梵文第一個字母|h|||
 降格|こうかく|demotion, relegation, downgrading|86|降級；降職|h|彼は降格されたことを達観している。||He's quite philosophical about his demotion.
@@ -17101,7 +17101,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 頭文字|かしらもじ|first letter of a word, capital letter|86|首字母；開頭文字|h|頭文字のＮＴＴは何を表していますか。||What do the initials NTT stand for?
 頻発|ひんぱつ|frequent occurrence|86|頻發；接連發生|h|大都市では殺人事件が頻発している。||Murders are very common in big cities.
 風力|ふうりょく|wind power, force|86|風力；風能|a|風力は安価でクリーンなエネルギー源です。||Wind is a cheap and clean source of energy.
-飲み屋|のみや|bar, saloon, pub|86|酒吧；單槓|b|トムは飲み屋を経営してるのよ。||Tom owns a bar.
+飲み屋|のみや|bar, saloon, pub|86|酒館；小酒吧|v|トムは飲み屋を経営してるのよ。||Tom owns a bar.
 館内|かんない|inside a library, museum, cinema, etc., on the premises|86|館內；館方內部|h|図書館内での読書は禁止です。||Reading is prohibited in this library.
 駄菓子|だがし|penny candy, cheap individually wrapped sweets|86|廉價零食；便宜糖果|h|駄菓子屋さんが閉店してしまった。||The candy store has closed.
 駆け引き|かけひき|bargaining, haggling, tactics|86|較量；交涉；策略|h|外交の駆け引きでは、とても彼には及ばない。||I am no match for him in diplomatic shrewdness.
@@ -17120,9 +17120,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 おける|おける|in, at, for|86|乎；身處|b|公園の都市におけるのは肺の動物におけるようなものである。|公園和城市的關係，就好比肺和動物的關係一樣。|Parks are for the city what lungs are for animals.
 お寺|おてら|temple, monk|86|廟；寺廟|b|京都には古いお寺がたくさんある。|京都有許多古剎。|There are many old temples in Kyoto.
 お正月|おしょうがつ|New Year, first month of the year|86|新年|b|お正月に私と踊ったお友達かも〜？||Isn't that the friend I danced with on New Year's?
-お決まり|おきまり|standard, set, routine, decided|86|規格|b|ご注文はお決まりですか？|您決定好要下訂單了嗎？|Have you decided what you want to order?
+お決まり|おきまり|standard, set, routine, decided|86|慣例；老套|v|ご注文はお決まりですか？|您決定好要下訂單了嗎？|Have you decided what you want to order?
 かつら|かつら|wig, hairpiece, toupee|86|假髮|b|トムは昔、かつらをつけていた。||Tom used to wear a wig.
-きっぷ|きっぷ|character, disposition, spirit|86|文字；質|b|きっぷをタダで手に入れたよ。||I got a ticket for free.
+きっぷ|きっぷ|character, disposition, spirit|86|氣概；車票|v|きっぷをタダで手に入れたよ。||I got a ticket for free.
 くちなし|くちなし|Cape jasmine, Cape jessamine, gardenia|86|梔子|b|||
 くびれ|くびれ|constriction, narrow part, waist|86|收窄處；腰身；縮細部分|d|||
 くるくる|くるくる|whirling, revolving, spinning, coiling around|86|團團轉；旋轉；捲起|h|木の葉が庭でくるくる舞っていた。||The leaves whirled in the yard.
@@ -17133,7 +17133,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 すれ違い|すれちがい|passing each other, missing each other|86|擦身而過；交錯；錯過|h|||
 せんべい|せんべい|rice cracker, senbei|86|仙貝；米餅；煎餅|d|お母さん、このおせんべい、しけってておいしくないよ。||Mum, the rice crackers have gone soft and they don't taste good anymore.
 たたき|たたき|hard-packed dirt floor, concrete floor|86|夯實地面；剁碎；拌剁料理|h|リンカーン大統領は、いわゆるたたき上げの人だった。|林肯總統就是我們所謂白手起家的男人。|President Lincoln was what we call a self-made man.
-たった今|たったいま|just now, a moment ago, this very minute|86|纔；剛才|b|たった今シャワーを浴びていた。|我剛洗了澡。|I was just showering.
+たった今|たったいま|just now, a moment ago, this very minute|86|剛才；剛剛|v|たった今シャワーを浴びていた。|我剛洗了澡。|I was just showering.
 だるま|だるま|daruma, tumbling doll, round, red-painted good-luck doll in the shape of Bodhidharma, with a blank e|86|達摩；不倒翁；達摩娃娃|h|トムとメアリーは雪だるまを作った。|湯姆和瑪麗堆了個雪人。|Tom and Mary made a snowman.
 だんトツ|だんトツ|far and away the best, the very best, cream of the crop|86|遙遙領先；遠超群雄|h|||
 ちどり|ちどり|plover|86|鴴鳥；千鳥|h|||
@@ -17145,7 +17145,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ねだり|ねだり|begging, pestering, pleading|86|撒嬌；纏著要求|h|息子はないものねだりをしている。||My son asks for the moon.
 はしご|はしご|ladder, stairs|86|扶梯|b|彼は平衡を失ってはしごから落ちた。|他失去了平衡，從梯子上摔了下來。|He lost his balance and fell off the ladder.
 ひだ|ひだ|fold, pleat, gathers, folds|86|摺；折疊|b|ひだるい時にまずい物なし。||Hunger is the best sauce.
-ひび|ひび|crack, fissure, rift|86|槍聲；裂縫|b|そのコップにはひびが入っている。||There is a crack in the glass.
+ひび|ひび|crack, fissure, rift|86|裂痕；皸裂|v|そのコップにはひびが入っている。||There is a crack in the glass.
 ひょう|ひょう|leopard|86|豹；金錢豹|b|ひょうが作物に被害を与えた。||The hail harmed the crops.
 ひ孫|ひまご|great-grandchild|86|曾孫；曾孫輩|h|ひ孫は八歳ですよ。|我的孫子現在八歲。|My great-granddaughter is eight years old.
 ふか|ふか|shark|86|鯊魚；鯊|b|男は起き上がって煙草をふかした。||The man got up and smoked.
@@ -17177,7 +17177,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 カーディガン|カーディガン|cardigan|86|開襟毛衣|h|||
 ガラガラ|ガラガラ|with a clatter, with a rattle, empty|86|嘩啦作響；空蕩蕩；嘈雜|h|ガラガラ、という音が響き渡った。||A rattling sound echoed through the air.
 キリスト教徒|キリストきょうと|Christian|86|基督徒；基督教徒|d|彼女は存命中キリスト教徒であった。||She was a Christian in life.
-クォーター|クォーター|quarter, person with one non-Japanese grandparent|86|刻|b|アメリカでは１クォーターは２５セント、４クォーターは１ドルだ。||In American money, a "quarter" is 25 cents; 4 quarters make a dollar.
+クォーター|クォーター|quarter, person with one non-Japanese grandparent|86|四分之一；混血兒|v|アメリカでは１クォーターは２５セント、４クォーターは１ドルだ。||In American money, a "quarter" is 25 cents; 4 quarters make a dollar.
 クリティカル|クリティカル|critical, critical hit|86|危急；臨界|b|||
 クローズ|クローズ|close, closing|86|合；闇|b|今日この番組でハッカーの問題をクローズアップするんだって。||This program is going to focus on computer hacking issues today.
 クローズアップ|クローズアップ|close-up, bringing attention to|86|特寫；聚焦；突顯|d|今日この番組でハッカーの問題をクローズアップするんだって。||This program is going to focus on computer hacking issues today.
@@ -17188,7 +17188,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 コンディション|コンディション|condition|86|狀態；身體狀況；條件|h|心身共にベストのコンディションで新人養成合宿に臨みましょう。|以最佳的身心狀態，來迎接新人集訓吧！|With both mind and body in their best condition, let's look forward to the newcomers' training camp.
 コンペ|コンペ|competition|86|比賽；賽事|b|||
 ゴア|ゴア|gore, triangular piece of fabric, used for making skirts, umbrellas, etc.|86|血腥場面；三角布片|h|イチゴアイスをお願いします。||A strawberry ice cream, please.
-ゴシップ|ゴシップ|gossip|86|嘮|b|君の馬鹿げたゴシップはもうたくさんだ。||I've had enough of your stupid gossip.
+ゴシップ|ゴシップ|gossip|86|八卦；閒聊|v|君の馬鹿げたゴシップはもうたくさんだ。||I've had enough of your stupid gossip.
 サイコ|サイコ|psycho|86|精神病態者；變態殺人狂|h|近年では人間心理の謎を扱うサイコホラーも人気である。|這幾年有關心理之謎的心理恐怖片很熱門。|Psycho-horror films dealing with the mysteries of human psychology are popular these days.
 サファイア|サファイア|sapphire|86|藍寶石|b|||
 サボテン|サボテン|cactus|87|仙人掌|b|「僕のサボテンはどこ？」「窓辺だよ」||"Where is my cactus?" "On the windowsill."
@@ -17217,7 +17217,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 デュエット|デュエット|duet|87|二重唱|b|彼女は彼とデュエットしたことがない。||She has never sung a song with him.
 デリケート|デリケート|sensitive, delicate|87|敏感；敏感性|b|それはデリケートな点です。||That's a delicate point.
 デリバリー|デリバリー|delivery|87|交割|b|||
-トイレットペーパー|トイレットペーパー|toilet paper, lavatory paper|87|手紙|b|トイレットペーパーがありません。||There is no toilet paper.
+トイレットペーパー|トイレットペーパー|toilet paper, lavatory paper|87|衛生紙|v|トイレットペーパーがありません。||There is no toilet paper.
 トラクター|トラクター|tractor|87|拖拉機|b|トムはスキーのインストラクターだ。||Tom is a ski instructor.
 ドッキリ|ドッキリ|feeling startled, getting a shock, prank|87|惡作劇；突然受驚；整人|d|||
 ドラッグストア|ドラッグストア|drugstore, pharmacy|87|藥妝店；藥房|h|この辺にドラッグストアってある？||Is there a drugstore around here?
@@ -17257,9 +17257,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ブロードウェイ|ブロードウェイ|Broadway|87|百老匯|d|好きなブロードウェイミュージカルは何？||What's your favorite Broadway musical?
 プロトタイプ|プロトタイプ|prototype|87|樣機|b|||
 プロパガンダ|プロパガンダ|propaganda|87|宣傳；宣傳活動；宣傳品|d|||
-プロフ|プロフ|profile, profile|87|外貌；剖面|b|君のプロフィール写真、好きだよ。|我喜歡你的頭像。|I like your profile picture.
+プロフ|プロフ|profile, profile|87|個人簡介|v|君のプロフィール写真、好きだよ。|我喜歡你的頭像。|I like your profile picture.
 プロファイル|プロファイル|profile|87|外貌；剖面|b|トムって、プロファイルの写真とは全然違ってたよ。||Tom looked nothing like his profile picture.
-ヘッダー|ヘッダー|header|87|頭球|b|||
+ヘッダー|ヘッダー|header|87|標頭；頁首；頭球|v|||
 ベーシック|ベーシック|basic|87|基本|b|||
 ペンダント|ペンダント|pendant, pendant|87|吊墜；墜飾；項鍊墜子|d|君にこのペンダントをあげるよ。||I'll give you this pendant.
 ボア|ボア|boa, boa|87|毛絨；絨毛圍巾；長毛絨|h|バルボアさんはとても有名なので、紹介する必要はありません。||Mr Balboa is so well known as to need no introduction.
@@ -17270,10 +17270,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 マーメイド|マーメイド|mermaid|87|美人魚|b|||
 ムーミン|ムーミン|Moomin|87|嚕嚕米|h|ムーミン谷って、めっちゃきれいだよね？||Moominvalley is very beautiful, isn't it?
 メアド|メアド|email address|87|電子郵件地址；信箱|h|トムのメアド教えて。|告訴我湯姆的郵箱地址吧。|Tell me Tom's email address.
-メッセ|メッセ|trade fair, exhibition center|87|交易會|b|君に届けてほしいメッセージがあるんだ。|有想要傳達給你的訊息。|I have a message I want you to deliver.
+メッセ|メッセ|trade fair, exhibition center|87|訊息；展覽會|v|君に届けてほしいメッセージがあるんだ。|有想要傳達給你的訊息。|I have a message I want you to deliver.
 モカ|モカ|mocha|87|摩卡|b|||
 モデリング|モデリング|modelling, modeling|87|建模；造型；模型製作|h|||
-ヤー|ヤー|yes|87|俞；喏|b|ＭＰ３プレーヤーがほしい！|我想要一個MP3播放器！|I want an MP3 player!
+ヤー|ヤー|yes|87|是|v|ＭＰ３プレーヤーがほしい！|我想要一個MP3播放器！|I want an MP3 player!
 ユタ|ユタ|Utah|87|猶他州|d|ネッドはユタ州の出身。||Ned comes from the state of Utah.
 ユナイテッド|ユナイテッド|united|87|聯合；聯合的；團結的|h|ユナイテッド航空のカウンターはどこですか。||Where's the counter for the United Airlines?
 ラオス|ラオス|Laos|87|寮國；老撾|d|ヴィエンチャンはラオスの首都。||Vientiane is the capital of Laos.
@@ -17284,13 +17284,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 リール|リール|reel|87|捲線器；卷盤；膠捲|h|今日がエイプリールフールだということを忘れていたよ。|我忘了今天是愚人節。|I forgot that today was April Fool's Day.
 ルンバ|ルンバ|rumba|87|倫巴；倫巴舞曲|h|||
 ルース|ルース|loose stone, unset jewel|87|裸石；未鑲嵌寶石；鬆散|h|トムとルースは婚約している。|湯姆和露絲訂婚了。|Tom is engaged to Ruth.
-レスポンス|レスポンス|response|87|感應|b|||
+レスポンス|レスポンス|response|87|回應；反應|v|||
 ロケーション|ロケーション|location|87|場所|b|||
 ローテーション|ローテーション|rotation|87|輪流；輪班；輪替|h|||
 ワックス|ワックス|wax|87|蠟；打蠟劑；蠟質|d|その液から溶剤を揮発させる。残るのは、香り成分と植物ワックスの塊。|將液體中的溶劑揮發掉。留下來的，是香氣成分與植物蠟組成的塊。|Vaporise the solvent from the liquid. What's left is the perfume component and a lump of vegetable wax.
 一口|ひとくち|mouthful, morsel, bite, gulp|87|一口|a|私はただパンを一口食べただけだ。|我只吃了一口麵包。|I only ate a bite of bread.
 一天|いってん|the whole sky, firmament|87|滿天|b|万一天気なら私は行きます。||If by some chance the weather is good, I'll go.
-一文|いちもん|tiny amount of money, a penny, a cent, one letter|87|子兒|b|自分の金はびた一文持っていない。||I haven't a cent to my name.
+一文|いちもん|tiny amount of money, a penny, a cent, one letter|87|一文錢；一字|v|自分の金はびた一文持っていない。||I haven't a cent to my name.
 一文字|いちもんじ|straight line, beeline|87|直線|b|||
 一点|いってん|point, dot, speck, one point|87|一點；點點|a|我々の関心はその一点に集中する。||Our interest converges on that point.
 三角形|さんかくけい|triangle|87|三角形；三角|a|三角形の面積を求めてくれ。|求三角形的面積|Please find the area of the triangle.
@@ -17330,7 +17330,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 優待|ゆうたい|preferential treatment, hospitality, warm reception|87|優待；優惠；特別招待|h|うん。確か使ってない優待券もどこかにあったはず。||Yes. I'm pretty sure there are complimentary tickets that haven't been used somewhere.
 党内|とうない|party-internal, within the party|87|黨內|a|||
 全勝|ぜんしょう|complete victory, winning a tournament with no losses|87|全勝；全數獲勝|h|||
-公判|こうはん|public hearing, trial|87|公聽會|b|その殺人者は今、公判中だ。||The murderer is now on trial.
+公判|こうはん|public hearing, trial|87|公審；開庭審理|v|その殺人者は今、公判中だ。||The murderer is now on trial.
 公爵|こうしゃく|prince, duke|87|公爵；王子|a|その公爵はたくさんの土地を所有している。||The duke holds a lot of land.
 共済|きょうさい|mutual aid|87|互助；互助保險|h|従業員は共済手当を守るために、ストライキのおどしをかけました。||Employees threatened a strike to protect worker benefits.
 冥福|めいふく|happiness in the next world, heavenly bliss, repose of one's soul|87|冥福；安息；冥冥中的福份|h|ご冥福をお祈り致します。|願你的在天之靈安息。|May your soul rest in peace.
@@ -17357,7 +17357,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 千載|せんざい|thousand years, millennium, perpetuity|87|千秋|b|これは私の生涯にとって千載一遇の機会だ。||This is the chance of a lifetime.
 半月|はんげつ|half-moon, half a month|87|半月|a|私たちはその船を半月と名付けた。||We named the boat the Half Moon.
 即刻|そっこく|immediately, at once, instantly|87|即刻；立即|a|ポスターは即刻壁から撤去された。||The posters were immediately removed from the wall.
-厚み|あつみ|thickness, profundity|87|厚度|b|||
+厚み|あつみ|thickness, profundity|87|厚度；深度|v|||
 原動力|げんどうりょく|motive power, driving force|87|動力|b|||
 収拾|しゅうしゅう|control, bringing under control, settling|87|控制；管制|b|事態は収拾に向かいつつある。||The situation is gradually moving towards a resolution.
 取り外し|とりはずし|removal, detachment, demounting|87|拆卸；拆除；卸下|h|ねじを緩めて、ランプ・カバーを取り外します。||Loosen the screws and remove the lamp cover.
@@ -17404,14 +17404,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 大祭|たいさい|grand festival|87|大祭；大型祭典|h|||
 大福|だいふく|great fortune, good luck, rice cake stuffed with bean jam|87|大福；大福麻糬；大吉|h|彼の顔は大福のようだった。||His face was very chubby.
 天文学|てんもんがく|astronomy|87|天文學；天文|a|天文学は恒星と惑星を扱う。|天文學涉及恆星和行星。|Astronomy deals with the stars and planets.
-天秤|てんびん|scales, carrying pole|87|鱗；天平|b|両天秤をかけると失敗する。||If you try to have it both ways, you'll end up with neither.
+天秤|てんびん|scales, carrying pole|87|天秤；扁擔|v|両天秤をかけると失敗する。||If you try to have it both ways, you'll end up with neither.
 娼婦|しょうふ|prostitute|87|娼婦；婊子|a|警察は、娼婦全員を一列に並べさせた。||The police had all the prostitutes line up in a straight line.
 孜々|しし|assiduously, diligently|87|孜孜不倦；勤勉|h|||
 孫悟空|そんごくう|Sun Wukong, Monkey King|87|孫悟空；齊天大聖|h|||
 宅地|たくち|building lot, residential land|87|宅地；住宅用地|h|工場は住宅地域にはふさわしくない。||A factory is not suitable for a residential district.
 安堵|あんど|relief, reassurance, recognition of right to land ownership|87|安心；安堵；安定|h|みんな安堵のため息をつきました。||Everyone breathed a sigh of relief.
 家中|うちじゅう|whole family, entire family, all the family|87|一家；全家|b|失った物がないかと家中を捜した。||I searched all the rooms for the lost thing.
-寄り道|よりみち|dropping in on the way, stopping off at, making a side trip|87|順道；繞道；中途停留|h|ぶらぶら寄り道していこうよ。||Let's just wander and see where it takes us.
+寄り道|よりみち|dropping in on the way, stopping off at, making a side trip|87|順道拜訪；繞道|v|ぶらぶら寄り道していこうよ。||Let's just wander and see where it takes us.
 寄席|よせ|entertainment hall, vaudeville theater, music hall|87|寄席；曲藝場；落語場|h|||
 富家|ふうか|wealthy family|87|富戶；富裕人家|h|||
 寝不足|ねぶそく|lack of sleep, insufficient sleep|87|睡眠不足；缺覺|h|寝不足で彼女は元気がなかった。||Lack of sleep whittled away her energy.
@@ -17424,7 +17424,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 少子|しょうし|small number of children, bearing few children|87|少子；生育少|h|||
 少子化|しょうしか|declining birth rate, decline in the number of children, sub-replacement fertility|87|少子化；生育率下降|h|||
 差分|さぶん|incremental difference, diff|87|差分|a|||
-市肆|しし|store, market storehouse|87|宁；舖|b|||
+市肆|しし|store, market storehouse|87|市肆；商店|v|||
 帖|じょう|folding book, counter for units of paper and nori|87|帖；本；摺冊|h|私は前と同じようにじょうぶです。||I'm as strong as before.
 師資|しし|relying on someone as one's teacher|87|師資；以某人為師|h|||
 常温|じょうおん|normal temperature, room temperature, constant temperature|87|常溫|a|直射日光を避け、常温で保存してください。||Avoid direct sunlight and store at room temperature.
@@ -17440,7 +17440,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 強豪|きょうごう|overwhelming strength, extremely strong person, powerhouse|87|強隊；強豪；高手|h|||
 当の|とうの|the ... in question|87|當事的；本人的|h|私の本当の住所は下記の通りです。|我的真實地址如下。|My real address is as follows.
 彩色|さいしき|colouring, coloring, colouration|87|上色；著色；彩繪|h|||
-彼女ら|かのじょら|they, them|87|她們；那些女性|h|彼女らは喜びで満ち溢れていた。||They bubbled over with joy.
+彼女ら|かのじょら|they, them|87|她們|v|彼女らは喜びで満ち溢れていた。||They bubbled over with joy.
 後続|こうぞく|succeeding, following, trailing|87|後續；後繼；後面的|h|||
 必勝|ひっしょう|certain victory|87|必勝；必定獲勝|h|先手必勝だよ。||Seizing the initiative leads to victory.
 忌む|いむ|to avoid, to refrain from, to shun, to detest|87|避開；避|b|||
@@ -17488,8 +17488,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 最愛|さいあい|beloved, dearest|87|心愛|b|最愛の友人たちにも別れの時が来る。||The best of friends must part.
 月光|げっこう|moonlight, moonbeam|87|月光；月色|a|島は月光の中に黒々と見えた。||The island showed black in the moonlight.
 月面|げつめん|moon's surface|87|月面；月球表面|h|まるで月面を歩いているみたいだ。||It's just like walking on the moon.
-有様|ありさま|state, condition, circumstances, the way things should be|87|聲明；說道|b|それはさんたんたる有様だった。||That was a fearful scene.
-有識者|ゆうしきしゃ|expert, knowledgeable person, authority|87|高手；好手|b|||
+有様|ありさま|state, condition, circumstances, the way things should be|87|情形；狀況|v|それはさんたんたる有様だった。||That was a fearful scene.
+有識者|ゆうしきしゃ|expert, knowledgeable person, authority|87|專家；有識之士|v|||
 朝ドラ|あさドラ|morning soap opera, morning television serial|87|晨間連續劇|h|||
 朝飯|あさめし|breakfast|87|早餐；早點|b|たまに朝飯を抜いたって、別に悪いことじゃないよ。|偶爾不吃早餐也不會如何不好呀。|It's no crime to skip breakfast once in a while.
 木々|きぎ|trees, every tree, all kinds of trees|87|綠樹|b|木々は芽を出し始めた。|樹木開始抽芽。|The trees have begun to bud.
@@ -17534,7 +17534,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 牧野|ぼくや|pasture land, ranch|87|牧野；牧場|d|牧野博士は多くの人々に尊敬されている。||Dr. Makino is looked up to by many people.
 物産|ぶっさん|product|87|產品；產物|b|共立物産に、貴社にご助力をお願いするよう提案しました。||We suggested Kyoritsu Bussan approach you for assistance.
 物販|ぶっぱん|sale of goods|87|商品販賣；零售|h|トムはインターネットで物販を手掛けている。||Tom sells things online.
-牽制|けんせい|check, keeping in check, restraint, containment|87|考；查詢|b|||
+牽制|けんせい|check, keeping in check, restraint, containment|87|牽制；牽制球|v|||
 独学|どくがく|self-education, self-instruction, self-study|87|自學；自修|d|彼は独学でフランス語を学んだ。||He taught himself French.
 献血|けんけつ|blood donation|87|獻血|h|どれくらいの間隔で献血してるの？||How often do you give blood?
 献金|けんきん|donation, contribution, offering|87|獻金|a|企業の政治献金は厳しい検査の対象になっています。||Corporate political donations are coming under heavy scrutiny.
@@ -17561,13 +17561,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 研磨|けんま|grinding, polishing, refining|87|研磨；磨光；鑽研|h|この指輪のダイヤは研磨してある。||The diamond in this ring is polished.
 破局|はきょく|catastrophe, cataclysm, collapse|87|災變|b|トムとメアリーは先週に破局した。||Tom and Mary broke up last week.
 硫黄|いおう|sulfur, sulphur|87|硫黃；硫|a|硫黄は青い炎を上げて燃える。|硫磺燃燒著藍色的火焰。|Sulfur burns with a blue flame.
-硬式|こうしき|hard|87|固；堅硬|b|||
+硬式|こうしき|hard|87|硬式|v|||
 私史|しし|non-official history, privately composed history|87|私人史；個人歷史|h|||
 秋冬|しゅうとう|autumn and winter, fall and winter|87|秋冬；秋季與冬季|h|||
 秋月|しゅうげつ|autumn moon, harvest moon|87|秋月；中秋明月|h|||
 称え|となえ|given name, title, appellation|87|稱號；稱呼；頌揚|d|マネージャーは彼の功績を称えた。||The manager complimented him on his achievement.
 税務|ぜいむ|taxation business|87|稅務；稅務事務|h|税務署は控除を認めた。||The tax agent allowed the deduction.
-究明|きゅうめい|investigation, finding out the facts, bringing to light|87|調查|b|いじめの根本原因を究明しない限り、いじめは永遠になくならないだろう。||If we don't thoroughly examine the cause of bullying, bullying will probably never go away.
+究明|きゅうめい|investigation, finding out the facts, bringing to light|87|究明；查明|v|いじめの根本原因を究明しない限り、いじめは永遠になくならないだろう。||If we don't thoroughly examine the cause of bullying, bullying will probably never go away.
 立ち上がり|たちあがり|start, beginning, build up, how well a pitcher pitches at the start of the game|87|發動；啟動|b|彼は立ち上がりました。|他起身。|He stood up.
 立て直し|たてなおし|revamping, reshaping, rearranging|87|重整；重振；整頓|h|この古い上着を仕立て直したい。||I want to have this old coat made over.
 竜王|りゅうおう|Dragon King, promoted rook|87|龍王；將棋龍王|d|||
@@ -17609,7 +17609,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 試算|しさん|trial calculation, preliminary calculation, estimation|87|試算；估算；預估|h|||
 試聴|しちょう|trial listening, audition|87|試聽|a|||
 詩史|しし|history of poetry, history recorded in the form of poetry|87|詩史；以詩寫史|h|||
-調書|ちょうしょ|protocol, written evidence, record|87|議定書|b|||
+調書|ちょうしょ|protocol, written evidence, record|87|筆錄；調查書|v|||
 論破|ろんぱ|defeating an argument, winning an argument, refutation|87|駁倒；論破；辯贏|h|僕は虚偽を論破しようと論争した。||I contended against falsehood.
 諭吉|ゆきち|10,000 yen note|87|一萬圓鈔票；福澤諭吉|h|福沢諭吉は日本に西洋思想を広めた。||Yukichi Fukuzawa introduced Western ideas into Japan.
 財閥|ざいばつ|zaibatsu, financial conglomerate, industrial group|87|財閥；財團|h|||
@@ -17617,14 +17617,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 貯める|ためる|to save up|87|積攢；存錢；儲蓄|h|お金を使うも貯めるも自由にしなさい。||You may spend or save at will.
 賦課|ふか|levy, imposition|87|徵收|b|||
 赤旗|あかはた|red flag, Red Flag|87|紅旗|b|赤旗が危険があることを示していた。||The red flag indicated the presence of danger.
-起始|きし|start, beginning|87|發動；啟動|b|||
+起始|きし|start, beginning|87|起始；開始|v|||
 趣向|しゅこう|plan, idea, design, taste|87|計劃；方案|b|||
 身代わり|みがわり|substitution, substitute, stand-in|87|替身；替代；代罪|h|その司祭は病気の男の身代わりになった。||The priest took the sick man's place.
 身動き|みうごき|movement, moving about, stirring|87|動態；樂章|b|その子供は恐怖で身動きができなかった。|那個孩子被嚇得一動也不能動。|The child was paralyzed with fear.
 輪郭|りんかく|contour, outline, silhouette, summary|87|輪廓；外形；大綱|d|霧のため山の輪郭がぼんやりしていた。||The mountain was blurred by fog.
 辛口|からくち|dry taste, a liking for sake|87|辛辣；嚴厲；偏好辣味|h|点数高いけど辛口なアドバイスだった。||The score was high but the advice was harsh.
 迷走|めいそう|straying, wandering|87|迷走；彷徨；迷失方向|h|||
-追い詰める|おいつめる|to corner, to drive to the wall, to run down|87|角落；牆角|b|||
+追い詰める|おいつめる|to corner, to drive to the wall, to run down|87|逼入絕境；追趕|v|||
 退位|たいい|abdication|87|退位；讓位|h|||
 過振り|かぶり|overdraft|87|透支；超額支用|d|||
 里子|さとご|foster child, adopted animal|87|寄養子女；寄養動物|h|麻里子はエステに行った。||Mariko went to the aesthetic salon.
@@ -17661,7 +17661,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 １月|いちがつ|January, first month of the lunar calendar|87|一月份|b|１１月に入ると日増しに寒くなる。|到了十一月，天就開始逐漸變涼了。|It gets colder day by day in November.
 Θ|シータ|theta|87|西塔|b|||
 Ι|イオタ|iota|87|伊歐塔；希臘字母ι|h|||
-あからさま|あからさま|plain, frank, candid|87|便；坪|b|彼は過ちをあからさまに白状した。||He openly confessed his faults.
+あからさま|あからさま|plain, frank, candid|87|露骨；坦率|v|彼は過ちをあからさまに白状した。||He openly confessed his faults.
 あらいぐま|あらいぐま|common raccoon|87|浣熊|h|||
 ありとあらゆる|ありとあらゆる|every conceivable, every single, every possible|87|各種；一切；所有|h|私はありとあらゆる方法をやってみました。||I have tried every way.
 あんこ|あんこ|red bean paste, red bean jam, anko, filling|87|紅豆餡；豆沙餡|h|||
@@ -17672,7 +17672,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 お酢|おす|vinegar|87|醋|b|お酢と油を持ってきてください。||Please bring me vinegar and oil.
 お釣り|おつり|change, toilet splashback|87|改變；變|b|「お釣りは取っといて」「ありがとう」||"Keep the change." "Thank you."
 かくれんぼ|かくれんぼ|hide-and-seek, hide-and-go-seek|87|躲貓貓|b|かくれんぼしよう。|來玩捉迷藏吧！|Let's play hide-and-seek!
-かけがえ|かけがえ|replacement, substitution, rebuilding|87|代謝|b|生命はかけがえのないものだ。|生命只有一次。|Life is all in all.
+かけがえ|かけがえ|replacement, substitution, rebuilding|87|替換；替代|v|生命はかけがえのないものだ。|生命只有一次。|Life is all in all.
 かせ|かせ|hank, skein, reel, reeled thread|87|線束；絞絲；繞線器|h|我々は最終決定を彼にまかせた。|我們讓他做最後的決定。|We left the final decision to him.
 かぶれ|かぶれ|rash, eruption|87|皮疹；狂躁|b|食器用洗剤で手がかぶれました。||I got a rash on my hands from dishwasher detergent.
 けしからん|けしからん|outrageous, scandalous, inexcusable|87|豈有此理；可惡；不成體統|h|こんなくだらないことに多額の金を支払うとはけしからん。||It is criminal to pay so much money for such trifles.
@@ -17687,13 +17687,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ずり|ずり|earth removed from a mine|87|礦渣；廢石；碎礦|h|子供たちは部屋を駆けずり回った。||Children ran around the room.
 だじゃれ|だじゃれ|feeble joke, poor joke, corny joke|87|雙關語；冷笑話；諧音梗|d|||
 ちらほら|ちらほら|here and there, in twos and threes, sporadically|87|零星；稀稀落落；三三兩兩|d|博物館の参観者の中にちらほら外人が見えた。|博物館的參觀者中有少數是外國人。|There was a sprinkling of foreigners among the visitors in the museum.
-つばめ|つばめ|swallow, martin|87|吞；吞噬|b|つばめはとても速く飛ぶ。|燕子飛得非常快。|Swallows fly very fast.
+つばめ|つばめ|swallow, martin|87|燕子|v|つばめはとても速く飛ぶ。|燕子飛得非常快。|Swallows fly very fast.
 つみ|つみ|Japanese sparrowhawk|87|雀鷹；鷂|h|このこづつみは宛名がちがう。||The address on this parcel is wrong.
-どっぷり|どっぷり|totally, addicted|87|統統|b|首まで仕事にどっぷりだ。||I'm up to my neck in work.
+どっぷり|どっぷり|totally, addicted|87|深深地；完全沉浸|v|首まで仕事にどっぷりだ。||I'm up to my neck in work.
 なあに|なあに|what, what?|87|何；哪門子|b|なあに、しがないサラリーマンですよ。||Me? I'm a plain old salaryman.
 ねじれ|ねじれ|twist, wrench, distortion, torsion|87|扭曲；絞|b|ほのかな光が俺のねじれた視界を幻影に変えてゆく。||Light shines on my sigh of doubt.
 はぜのき|はぜのき|wax tree, Japanese wax tree|87|黃櫨；漆樹|h|||
-ばあさん|ばあさん|grandmother, old woman|87|婆|b|彼のおばあさんは元気そうです。|他祖母看起來很健康。|His grandmother looks healthy.
+ばあさん|ばあさん|grandmother, old woman|87|老太婆；奶奶|v|彼のおばあさんは元気そうです。|他祖母看起來很健康。|His grandmother looks healthy.
 ほったらかし|ほったらかし|neglecting, leaving alone|87|置之不理；放任不管|h|部屋はほったらかしのままだった。||The room was in a state of neglect.
 ぼら|ぼら|striped mullet, flathead grey mullet, black mullet|87|鯔魚；烏魚|d|トム、みすぼらしい服を着てたわ。||Tom was wearing shabby clothes.
 ぼんぼん|ぼんぼん|fiercely, bong-bong|87|砰砰；咚咚；富家少爺|h|火がぼんぼん燃えている。||The fire is burning furiously.
@@ -17702,7 +17702,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 むくみ|むくみ|swelling, edema, oedema|87|腫脹；腫塊|b|||
 やり直す|やりなおす|to do over again, to redo, to start over|87|重做；重新來過；重來|d|トムは私にやり直すチャンスをくれたんです。||Tom gave me a second chance.
 よろ|よろ|best regards, please take care of, please do|87|請多指教；請多關照|h|住所をお聞きしてよろしいですか。|請問可以打聽您的地址嗎？|Might I ask your address?
-わっぱ|わっぱ|child, kid, brat|87|孩子；兒童|b|||
+わっぱ|わっぱ|child, kid, brat|87|木盒；小鬼|v|||
 をもって|をもって|with, by, by means of, because of|87|以；憑藉；由於|d|君はいくつかの本をもっています。|你有一些書。|You have some books.
 アザラシ|アザラシ|earless seal, true seal, seal|87|海豹|d|アザラシは魚を食べるんですよ。||Seals eat fish.
 アシ|アシ|assistant|87|助理；副手|b|アシスタントが２ドル取りました。|助手留了2美金。|The assistant kept $2.
@@ -17734,8 +17734,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 クトゥルフ|クトゥルフ|Cthulhu|87|克蘇魯|h|||
 クリーチャー|クリーチャー|creature|87|生物；怪物；生靈|d|||
 グダグダ|グダグダ|tediously, persistently, repeatedly, lazily|87|拖拖拉拉；鬆散；散漫|h|一日中グダグダしてた。||I've been tired all day.
-グー|グー|rock, stone, fist|87|石；岩石|b|「これ本当に自然な言い方なのかな？」「グーグル先生に聞いてみよう」|“這麼說聽起來會不會有點怪？”“你可以去谷歌一下。”|"Is this really a natural expression?" "Let's ask Mr. Google."
-コアラ|コアラ|koala|87|考拉|b|野生のコアラは見たことがありません。|沒見過野生無尾熊。|I've never seen a koala in the wild before.
+グー|グー|rock, stone, fist|87|石頭（猜拳）；拳頭|v|「これ本当に自然な言い方なのかな？」「グーグル先生に聞いてみよう」|“這麼說聽起來會不會有點怪？”“你可以去谷歌一下。”|"Is this really a natural expression?" "Let's ask Mr. Google."
+コアラ|コアラ|koala|87|無尾熊|v|野生のコアラは見たことがありません。|沒見過野生無尾熊。|I've never seen a koala in the wild before.
 コットン|コットン|cotton, cotton pads|87|棉花；緜|b|２枚ほどコットンシャツを買いました。||I bought two cotton shirts.
 コンプ|コンプ|completion|87|集齊；收滿；完成收集|h|ついにフルコンプしたぞ！||I've finally got the whole set!
 コーディネーター|コーディネーター|coordinator|87|協調員|b|||
@@ -17746,7 +17746,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 サトシ|サトシ|satoshi|87|聰；比特幣最小單位|h|||
 シナモン|シナモン|cinnamon|87|肉桂|h|シナモンドーナツを３個おねがいします。||Could I have three cinnamon donuts?
 ショコラ|ショコラ|chocolate|87|巧克力；朱古力|b|||
-シンク|シンク|sink|87|沉沒；淪|b|水が蛇口からシンクへと流れゆく。||Water is running from the faucet into the sink.
+シンク|シンク|sink|87|水槽；同步|v|水が蛇口からシンクへと流れゆく。||Water is running from the faucet into the sink.
 ジュリー|ジュリー|jury|87|陪審團；評審團|b|私はジュリーを空港で見送った。||I saw Julie off at the airport.
 ジューシー|ジューシー|juicy|87|多汁；多汁的|d|このステーキ、とてもジューシーね。||This steak is very juicy.
 ジュール|ジュール|joule|87|焦耳|b|電車はスケジュール通りに駅を出た。||The train left the station on time.
@@ -17854,14 +17854,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 一眼|いちがん|one eye, single-lens|87|單眼；單鏡頭；一眼|d|||
 一石二鳥|いっせきにちょう|killing two birds with one stone|87|一石二鳥；一舉兩得|h|一石二鳥にする。||Kill two birds with one stone.
 一等|いっとう|first class, first rank, first grade, one degree|87|一等；一級|a|一等賞は王女からのキスです。|一等獎是公主的香吻。|The grand prize is a kiss from the princess.
-一足|いっそく|a pair|87|一雙；一隻；一步|h|私は靴を一足買わなければならない。||I must buy a pair of shoes.
+一足|いっそく|a pair|87|一雙；一步|v|私は靴を一足買わなければならない。||I must buy a pair of shoes.
 三菱電機|みつびしでんき|Mitsubishi Electric|87|三菱電機|h|||
 三越|さんえつ|San'etsu|88|三越；三越百貨|h|||
 上書き|うわがき|superscription, address|88|覆寫；覆蓋；加註|h|赤川次郎が小説を４８０作以上書きました。||Jiro Akagawa has written over 480 novels.
 下敷き|したじき|desk pad, sheet of plastic placed under writing paper, underlay|88|墊板；墊子；墊在下面的東西|h|キティちゃんの下敷きが欲しい。||I want a Hello Kitty pencil board.
 下段|げだん|lower tier, lower step, lower column, low position|88|下層；下段；下欄|h|直径23m(下段)及び18m(上段)、高さ5ｍの二段式の円墳である。||It is a two level style round burial mound, 23m diameter (lower level), 18m (higher).
 不意打ち|ふいうち|surprise attack, surprise visit, catching a person off guard|88|奇襲|b|彼は敵に不意打ちを食らわせた。||He surprised his opponent.
-不滅|ふめつ|immortal, undying, indestructible|88|仙；天仙|b|彼らは霊魂が不滅だと信じている。||They believe that the soul is immortal.
+不滅|ふめつ|immortal, undying, indestructible|88|不滅；永恆|v|彼らは霊魂が不滅だと信じている。||They believe that the soul is immortal.
 不発|ふはつ|misfire|88|不發；未爆；失效|h|||
 世にも|よにも|extremely, very|88|極；極其|b|彼は世にもまれな大政治家である。||He is as great a statesman as any.
 中元|ちゅうげん|15th day of the 7th lunar month, Bon lantern festival|88|中元節；盂蘭節|h|御中元や御歳暮の習慣はなかなかすたれない。||The gift-giving custom dies hard.
@@ -17870,7 +17870,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 乳児|にゅうじ|infant, suckling baby|88|嬰兒；嬰|b|||
 人差し指|ひとさしゆび|index finger, forefinger, first finger|88|食指|b|火ばさみで人差し指をやけどした。||I burned my forefinger on fire tongs.
 人見知り|ひとみしり|shyness, fear of strangers, stranger anxiety|88|怕生；認生；怯生|d|私、人見知りで話下手だからか、なかなか会話が続かないんだよね。|因為我認生不太會說話，所以談話怎麼也進行不下去了吧。|I have a fear of strangers and am a poor talker, so I find it difficult to continue conversation.
-仕分け|しわけ|classification, sorting, grouping, assortment journalizing|88|類別；分屬|b|||
+仕分け|しわけ|classification, sorting, grouping, assortment journalizing|88|分類；分揀|v|||
 仕打ち|しうち|treatment, conduct, behavior|88|待遇|b|彼は彼らの仕打ちに激怒している。||He is furious at what they have done to him.
 他界|たかい|death, the next world, to pass away|88|去世；逝世；他界|d|祖父は５年前に他界した。|我祖父五年前去世了。|My grandfather died five years ago.
 付け根|つけね|root, joint, base|88|根；源|b|||
@@ -17900,7 +17900,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 免責|めんせき|exemption from responsibility|88|免責|a|３００ドルの免責額の保険でカバーされます。||You are covered with a $300 deductible.
 入り込む|はいりこむ|to go into, to come into, to penetrate, to become complicated|88|進入；深入；糾纏|h|目の前で繰り広げられるやり取りは、俺が入り込む隙なんて一ミリもない。||The exchange unfolding in front of my eyes had not a single millimetre of a gap in which for me to slip.
 入園|にゅうえん|enrollment in kindergarten, enrollment in nursery school|88|入園；入學幼稚園|h|おい、クレオ。あんまりうろちょろするなー？まだ入園したばっかりなんだぞ。||Hey, Cleo. Don't wander around too much, OK? We've only just entered the park.
-公司|コンス|company, firm|88|連隊|b|||
+公司|コンス|company, firm|88|公司|v|||
 公職|こうしょく|public office|88|公職|a|||
 兵役|へいえき|military service, conscription|88|兵役|a|彼は兵役を免除されている。||He is exempt from the military service.
 具現|ぐげん|incarnation, embodiment, realization|88|化身|b|||
@@ -17925,7 +17925,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 千秋楽|せんしゅうらく|final day of a performance, closing date, final show|88|千秋樂；最後一天演出；終場|h|||
 南方|なんぽう|the south, southward, southern direction|88|南邊|b|私の故郷の町はニューヨークの南方１０マイルのところにある。||My home town lies 10 miles south of New York.
 南蛮|なんばん|southern barbarians|88|南蠻；古稱西洋人；南方異族|h|||
-占有|せんゆう|possession, occupation, occupancy|88|所有物|b|現実の占有は九分の勝ち目。||Possession is nine-tenths of the law.
+占有|せんゆう|possession, occupation, occupancy|88|佔有|v|現実の占有は九分の勝ち目。||Possession is nine-tenths of the law.
 厳禁|げんきん|strict prohibition, ban, interdiction|88|嚴禁；嚴格禁止|h|希少野生動物をこの国に輸入することは厳禁されています。|該國嚴禁進口稀有野生動物。|The importation of rare wild animals to this country is strictly prohibited.
 受動|じゅどう|passivity, passiveness, passivity|88|被動；受動|h|テレビを見ることは受動的活動である。||Watching TV is a passive activity.
 受診|じゅしん|having a medical examination, seeing a doctor|88|就診；受診；看病|h|1ヵ月振りの受診ですね。その後の経過はどうでしょうか？||It's been a month since you went to the doctor. How has it been since then?
@@ -17937,7 +17937,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 同月|どうげつ|the same month|88|同月；同一個月|h|１月の輸出は昨年の同月に比べ２０％の増加だった。||Exports in January were up 20% over the same period of last year.
 同業|どうぎょう|same trade, same business, same profession|88|同行；同業|h|同業他社に比べて業績がずっと良かった。||Business results of the company were much better than other companies in the industry.
 同義|どうぎ|same meaning, synonymy|88|同義；同義詞|h|栄華と便利は幸せと同義ではない。||Luxury and convenience do not equate to happiness.
-告ぐ|つぐ|to tell, to inform, to announce, to indicate|88|吐露|b|||
+告ぐ|つぐ|to tell, to inform, to announce, to indicate|88|告知；宣告|v|||
 命がけ|いのちがけ|putting one's life on the line, staking one's life, risking one's life|88|拚命；豁出性命；冒死|h|その写真の中には命がけで撮ったものもある。|這其中的有些相片是冒著生命危險拍的。|Some of the photos have been taken at the risk of life.
 和式|わしき|Japanese-style|88|日式；和式|h|||
 咎め|とがめ|blame, censure, rebuke|88|責怪；責備|b|先生は彼女が間違ったことを咎めた。||The teacher blamed her for the mistake.
@@ -18005,7 +18005,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 常々|つねづね|always, usually|88|總是；常|b|トムは常々、賞金稼ぎになりたいと夢見ていた。||Tom always dreamed of becoming a bounty hunter.
 平原|へいげん|plain, moor, prairie|88|平原；便|a|その山は平原の上高くそびえている。||The mountain rises above the plain.
 年明け|としあけ|beginning of the year, early in the New Year|88|年初；新年伊始|d|年明けに子供が産まれる予定です♪||I'm expecting a baby in the new year!
-年次|ねんじ|annual, yearly, year|88|一年生|b|その代表者は年次会議を欠席した。||The representative was absent from the annual conference.
+年次|ねんじ|annual, yearly, year|88|年度；年級|v|その代表者は年次会議を欠席した。||The representative was absent from the annual conference.
 年越し|としこし|greeting the New Year, welcoming the New Year|88|跨年；除夕；過年|h|友達と一緒に年越ししたよ。||I spent New Year's Eve with some of my friends.
 幻影|げんえい|phantom, vision, illusion|88|幻影；魅影|a|蜃気楼は幻影だと言われている。||A mirage is said to be an illusion.
 店名|てんめい|store name, shop name, restaurant name|88|店名；店號|h|||
@@ -18019,12 +18019,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 彼岸|ひがん|equinoctial week|88|彼岸；春秋分前後七天|h|暑さ寒さも彼岸まで。||No heat or cold lasts beyond the equinox.
 後ほど|のちほど|later on, eventually, afterwards|88|稍後；待會；之後|h|後ほど、またお電話いただけますか。||Would you please call him back later?
 従者|じゅうしゃ|attendant, valet, servant|88|侍者；跟班|b|従者にとっては誰も英雄ではない。||No man is a hero to his valet.
-心構え|こころがまえ|preparedness, readiness, mental attitude|88|整備|b|何事が起ころうとも、彼女はそれに対する心構えが出来ている。||Should anything arise, she will be prepared for it.
+心構え|こころがまえ|preparedness, readiness, mental attitude|88|心理準備|v|何事が起ころうとも、彼女はそれに対する心構えが出来ている。||Should anything arise, she will be prepared for it.
 忍ぶ|しのぶ|to conceal oneself, to hide, to endure|88|躲藏|b|||
 思う存分|おもうぞんぶん|to one's heart's content, to one's complete satisfaction, as much as one likes|88|開懷|b|彼は思う存分楽しんでいた。|他對自己感到心滿意足。|He was enjoying himself to his heart's content.
 怠惰|たいだ|lazy, idle, indolent|88|懶；惰|b|彼の怠惰は将来に対する悪い前兆だった。|他的懶惰是他未來不好的預兆。|His laziness boded ill for the future.
 悪天候|あくてんこう|bad weather|88|惡劣天氣；壞天氣|h|悪天候のため飛行機は延着した。|由於天氣惡劣，飛機延誤了。|The plane was late due to bad weather.
-悴|かせ|low, poor, scrawny|88|低；卑|b|我々は最終決定を彼にまかせた。|我們讓他做最後的決定。|We left the final decision to him.
+悴|かせ|low, poor, scrawny|88|憔悴；低微|v|我々は最終決定を彼にまかせた。|我們讓他做最後的決定。|We left the final decision to him.
 想起|そうき|remembering, recollection, calling to mind|88|想起；回想；憶起|h|||
 慰霊|いれい|consoling the spirits of the dead|88|慰靈；祭奠亡魂|h|||
 懺悔|ざんげ|repentance, confession, penitence|88|懺悔；告解；悔過|h|||
@@ -18038,7 +18038,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 折り紙|おりがみ|origami, art of paper folding, hallmark|88|摺紙；保證；信譽|h|不器用なので、折り紙は苦手です。||I'm all thumbs, so I'm not very good at origami.
 押し付ける|おしつける|to press against, to push against, to force against|88|強加；推給；硬塞|h|自分の意見を人に押し付けるべきではない。||We shouldn't impose our opinions on other people.
 押忍|おっす|hi!, yo!, hey man!, yessir!|88|押忍；武道問候語|h|||
-拍車|はくしゃ|spur, spurring on|88|馬刺|b|円高がその会社の経営不振に拍車をかけた。||The yen's appreciation accelerated the decline of that company.
+拍車|はくしゃ|spur, spurring on|88|馬刺；加速|v|円高がその会社の経営不振に拍車をかけた。||The yen's appreciation accelerated the decline of that company.
 捕り手|とりて|policeman, official in charge of imprisoning offenders|88|捕快；捕吏；捕役|h|||
 捕手|ほしゅ|catcher|88|捕手|a|||
 捻出|ねんしゅつ|managing, contriving, scraping together|88|籌措；擠出；設法湊出|h|戦費の捻出に国債が発行された。||Bonds were issued to finance a war.
@@ -18055,7 +18055,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 料亭|りょうてい|ryotei, traditional Japanese restaurant|88|料亭；高級日式餐廳|h|||
 斬首|ざんしゅ|decapitation, decapitated head|88|斬首；斬頭；砍頭|h|さて、斬首刑の時間だ。この世に言い残す事はないか。||Well, it's time for your decapitation. Don't you have any last words to say?
 断絶|だんぜつ|extinction, dying out, discontinuation|88|斷絕；斷絕關係；絕後|h|彼らの間には世代の断絶がある。||There is a generation gap between them.
-早乙女|さおとめ|young female rice planter, young girl|88|幼女|b|||
+早乙女|さおとめ|young female rice planter, young girl|88|插秧女|v|||
 早見|はやみ|chart, table|88|譜；圖表|b|||
 昇華|しょうか|sublimation, sublimation|88|昇華；提升|h|物質が直接固体から気体に変わる過程を昇華という。||The process by which substances are turned directly from a solid state into a gas is called sublimation.
 時報|じほう|announcement of time, time signal, news report|88|時報；報時；新聞快報|h|||
@@ -18132,8 +18132,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 紙代|しだい|newspaper subscription fee|88|報紙費用；紙費|h|||
 紡錘|ぼうすい|spindle|88|紡錘；錠|a|||
 細分|さいぶん|subdivision|88|區劃|b|||
-細身|ほそみ|narrow, slender|88|侷；狹窄|b|||
-組長|くみちょう|boss, foreman|88|上司；老總|b|暴力団の組長は団員全部に規則を守らせ、恐怖感によって、団員を掌握した。||The gang leader made all the members toe the line, keeping control through fear.
+細身|ほそみ|narrow, slender|88|纖細；修長|v|||
+組長|くみちょう|boss, foreman|88|組長；黑道老大|v|暴力団の組長は団員全部に規則を守らせ、恐怖感によって、団員を掌握した。||The gang leader made all the members toe the line, keeping control through fear.
 絵図|えず|illustration, drawing|88|插圖；插畫|b|||
 続投|ぞくとう|continuing to pitch, staying at one's post|88|續任；續留；繼續擔任|h|||
 縫い|ぬい|embroidery, sewing|88|縫製；刺繡；縫合|d|彼女は上着にボタンを縫い付けた。||She sewed a button on her coat.
@@ -18163,13 +18163,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 製菓|せいか|confectionery production|88|製菓；糕點製作|h|||
 西欧|せいおう|Western Europe, the West|88|西歐；歐洲西部|d|西欧の思考はすべて等質です。||Western thought is consistent.
 覇権|はけん|hegemony|88|霸權|a|||
-見出す|みいだす|to find out, to discover, to notice, to select|88|得知；查出|b|彼はコンサートに行くことで楽しみを見出す。||He derives pleasure from attending concerts.
-見分ける|みわける|to distinguish, to recognize, to recognise|88|辨；甄|b|その双子の一方を他方と見分けることができますか。|你可以分出那對雙胞胎中誰是誰嗎?|Can you tell one of the twins from the other?
+見出す|みいだす|to find out, to discover, to notice, to select|88|發現；找出|v|彼はコンサートに行くことで楽しみを見出す。||He derives pleasure from attending concerts.
+見分ける|みわける|to distinguish, to recognize, to recognise|88|辨別；區分|v|その双子の一方を他方と見分けることができますか。|你可以分出那對雙胞胎中誰是誰嗎?|Can you tell one of the twins from the other?
 見栄え|みばえ|good outward appearance, looking nice, being attractive|88|外觀；好看；體面|h|||
 親和|しんわ|friendship, fellowship|88|聯誼；交情|b|鉄は硫黄に、水素は酸素に親和性がある。|鐵對硫、氫對氧有親和性。|Iron has an affinity for sulphur, and so does hydrogen for oxygen.
 試着|しちゃく|trying on clothes|88|試穿；試衣|h|このジャケットを試着できますか。|我可以試穿這件外套嗎？|Can I try on this jacket?
 詰み|つみ|checkmate, mate|88|將死；絕境；無路可走|d|||
-話者|わしゃ|speaker, narrator, speaker|88|揚聲器|b|英語話者に通じなきゃ意味ないぞ。|英語使用者聽不懂的話，那就沒意義囉。|That means nothing if English speakers don't understand it.
+話者|わしゃ|speaker, narrator, speaker|88|說話者；講者|v|英語話者に通じなきゃ意味ないぞ。|英語使用者聽不懂的話，那就沒意義囉。|That means nothing if English speakers don't understand it.
 誌代|しだい|magazine subscription fee|88|雜誌費；訂閱費|h|||
 誓約|せいやく|oath, vow, pledge|88|誓約；盟|a|この誓約書には法的拘束力はありません。||This written pledge is not legally binding.
 読み取る|よみとる|to read and understand, to take in, to sense from external cues|88|讀懂|b|言外の意味を読み取るならば、この手紙はお金の無心です。||If you read between the lines, this letter is a request for money.
@@ -18203,7 +18203,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 野放し|のばなし|pasturing, letting run loose|88|放任；放縱；置之不理|h|||
 金城|きんじょう|impregnable castle, inner castle citadel|88|金城；堅城；鐵壁|h|||
 金山|きんざん|gold mine|88|金礦|b|||
-金玉|きんたま|testicles, balls, nuts|88|卵子|b|ハムスターの金玉が片方肥大しています。||My hamster has a swollen testicle on one side.
+金玉|きんたま|testicles, balls, nuts|88|睪丸；寶玉|v|ハムスターの金玉が片方肥大しています。||My hamster has a swollen testicle on one side.
 銀色|ぎんいろ|silver|88|銀色；銀|a|女王は華麗な銀色のドレスを着ていた。||The queen was wearing a magnificent silver dress.
 錠剤|じょうざい|pill, lozenge, tablet|88|藥丸|b|錠剤のおかげで痛みがなくなった。|藥片止住了我的疼痛。|Because of the pills I took, the pain went away.
 錦織|にしきおり|brocade|88|錦|b|||
@@ -18242,14 +18242,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 うらら|うらら|bright, clear, fine|88|明；心靈|b|||
 えげつない|えげつない|dirty, vulgar, nasty|88|髒；污|b|えげつないやり方だったな。||It was a nasty trick.
 おっとり|おっとり|gently, quietly, calmly|88|溫和；從容；斯文|h|表日本は明るい裏日本はおっとりとは本当ですか？||Is it true that the Pacific side of Japan is cheerful while the Sea of Japan side of Japan is more quiet?
-おとなしい|おとなしい|gentle, quiet, mild, quiet|88|平和；柔和|b|彼女、すごいおとなしいの。||She's very quiet.
+おとなしい|おとなしい|gentle, quiet, mild, quiet|88|溫順；安靜|v|彼女、すごいおとなしいの。||She's very quiet.
 お年玉|おとしだま|New Year's gift|88|壓歲錢；新年紅包|h|それが「お年玉」ってやつよ。||That's what we call an "otoshidama".
 お札|おさつ|banknote, bill, note|88|紙鈔；鈔票；符紙|d|このお札を小銭にしてください。||Please change these bills into coins.
 ぐちゃぐちゃ|ぐちゃぐちゃ|pulpy, soppy, sloppy|88|亂七八糟；黏糊糊；稀爛|h|これがぐちゃぐちゃすぎてますか？||Is this too sloppy?
 こぞって|こぞって|all, all together, unanimously|88|所有；全|b|彼らはこぞってその候補者を支援した。||They all got behind the candidate.
 ことわざ|ことわざ|proverb, saying, aphorism|88|諺語|b|時は金なりと古いことわざにもある。||An old proverb says that time is money.
 こぶ|こぶ|bump, lump, protuberance|88|腫塊；瘤；突起|d|ラクダには一つか二つのこぶがある。||Camels have either one or two humps.
-ごくごく|ごくごく|extremely, highly|88|極；極其|b|こいつ、のど渇いてんのか、ごくごく飲んでるね。||This guy must be thirsty, he's gulping it down like crazy.
+ごくごく|ごくごく|extremely, highly|88|極其；咕咚咕咚|v|こいつ、のど渇いてんのか、ごくごく飲んでるね。||This guy must be thirsty, he's gulping it down like crazy.
 さらさら|さらさら|with a rustling sound, rippling|88|沙沙；潺潺；乾爽|h|小川がさらさらと流れる音が聞こえる。||We can hear a brook murmuring.
 しそ|しそ|shiso, perilla, beefsteak plant|88|紫蘇|d|その料理は、とてもおいしそうだ。|這些食物看起來很好吃。|The food seems very delicious.
 しのぎ|しのぎ|ridge on the side of a sword blade, ridged pattern|88|刀脊；刀背脊線；勉強撐過|h|二社がしのぎを削っている。||The two companies are competing with each other.
@@ -18261,7 +18261,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ところどころ|ところどころ|here and there, in places|88|各處；零星地方；有些地方|h|その地図はとても古く、ところどころ破れかけていた。||The map was very old and it was torn here and there.
 とび|とび|black kite, construction worker|88|鳶；鳶鷹；鷹鳶類|h|閉じた口の中に蝿はとび込まない。||A fly does not fly into a shut mouth.
 にら|にら|garlic chives, Chinese chives, Chinese leek|88|韭菜；韭|h|彼は眼鏡越しに私をにらみつけた。||He looked sharply at me over his spectacles.
-はやる|はやる|to be impatient, to be eager, to be restless|88|流行；熱衷；急躁|h|今日はやることがたくさんあるんだ。|今天有很多事要做。|I have a good many things to do today.
+はやる|はやる|to be impatient, to be eager, to be restless|88|流行；急躁|v|今日はやることがたくさんあるんだ。|今天有很多事要做。|I have a good many things to do today.
 ぱらぱら|ぱらぱら|sprinkling, pattering|88|淅瀝；稀稀落落；快速翻閱|h|屋根には雨がぱらぱら落ちていた。||Rain was pattering on the roof.
 ひねもす|ひねもす|for the whole day, all day|88|整天；終日|h|||
 ひょっとしたら|ひょっとしたら|possibly, by some possibility, perhaps|88|或許；說不定；萬一|h|ひょっとしたら彼が産業スパイではないかと思い浮かんだ。|我突然想到他可能是個商業間諜。|It occurred to me that he might be an industrial spy.
@@ -18270,7 +18270,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ほいほい|ほいほい|recklessly, thoughtlessly, carelessly, pamperingly|88|輕率；隨便；不假思索|h|||
 ぼーっと|ぼーっと|in a daze, absent-mindedly, vacantly, dimly|88|迷迷糊糊|b|あの子はぼーっとしているようだ。||The kid looks blank.
 むかで|むかで|centipede|88|蜈蚣|b|重要なのは、何冊本を読むかでなく、どんな本を読むかである。|最重要的不是你看了多少書，而是你看的是甚麼書。|What's important isn't how many books you read, but what books you read.
-めっかち|めっかち|blindness in one eye, having one eye much bigger than the other, someone blind in one eye|88|獨眼；單眼失明|h|||
+めっかち|めっかち|blindness in one eye, having one eye much bigger than the other, someone blind in one eye|88|獨眼龍；單眼失明|v|||
 もとより|もとより|from the beginning, from the first, all along|88|自來|b|もとよりそんなことは承知の上だ。||Of course I am aware of that.
 もふもふ|もふもふ|soft to the touch, fluffy|88|蓬鬆|b|また、空気を含ませることにより、もふもふ感が出ます。||Also, after it is whipped, a fluffy texture emerges.
 やわ|やわ|soft, weak, fragile|88|軟；柔軟|b|やっぱりお前が頼りやわ！|還是你靠得住。|I knew I could rely on you!
@@ -18293,7 +18293,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 オブジェ|オブジェ|objet d'art, item of artwork, object|88|藝術裝飾品；擺設品；物件|d|鳥居と言うと、階段を上がったところにあった赤いオブジェ？||By 'Torii' you mean that red objet d'art at the top of the steps?
 オムライス|オムライス|omurice, fried rice wrapped in or topped with omelette|88|蛋包飯|h|オムライスを食べた。||I ate a Japanese rice omelette.
 カブトムシ|カブトムシ|rhinoceros beetle|88|獨角仙|d|みんなでカブトムシを競争させた。||We raced our beetles.
-カンカン|カンカン|can-can|88|烈日；震怒；咚咚|h|トムはそのことでカンカンだった。||Tom was very angry about that.
+カンカン|カンカン|can-can|88|盛怒；烈日；康康舞|v|トムはそのことでカンカンだった。||Tom was very angry about that.
 カーソル|カーソル|cursor|88|光標|b|||
 キャッチフレーズ|キャッチフレーズ|catchphrase|88|廣告標語；宣傳口號|h|||
 キャピタル|キャピタル|capital|88|資本；首都|b|||
@@ -18335,7 +18335,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タッチパネル|タッチパネル|touch panel|88|觸控面板|h|||
 ダダ|ダダ|Dada, Dadaism, Dadaist|88|達達主義；任性胡鬧|h|||
 チューニング|チューニング|tuning|88|調音；調校；改裝|h|俺のギター、チューニングしてくれない？||Can you tune my guitar for me?
-チルドレン|チルドレン|children, group of politicians associated with a particular political leader|88|娃兒|b|ミスター・チルドレンは若者の間でとても人気がある。||Mr. Children is very popular among young people.
+チルドレン|チルドレン|children, group of politicians associated with a particular political leader|88|孩子們；追隨者|v|ミスター・チルドレンは若者の間でとても人気がある。||Mr. Children is very popular among young people.
 チンパンジー|チンパンジー|common chimpanzee, chimpanzee, chimp|88|黑猩猩|b|彼らはチンパンジーを見て面白がっている。||They are amused at the sight of chimpanzees.
 ツナ|ツナ|tuna|88|金槍魚|b|トムはツナサンドを食べたんだ。||Tom ate a tuna sandwich.
 テレパシー|テレパシー|telepathy|88|心電感應；心靈感應|d|||
@@ -18380,7 +18380,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 プラモ|プラモ|plastic model|88|組裝模型|h|静岡にはプラモデルメーカーがたくさんある。||There are many plastic model manufacturers in Shizuoka.
 プロダクト|プロダクト|product|88|產品；產物|b|このプロダクトはインテリジェント総合情報システムです。||This product is an intelligent integrated information system.
 ヘイ|ヘイ|hey|88|喂；嘿|b|この本はヘイリーが書いた。||This book was written by Haley.
-ベンツ|ベンツ|vent|88|賓士汽車|h|彼は車を２台持っていて、１台はベンツで、もう１台はポルシェだ。||He has two cars; one is a Benz and the other is a Porsche.
+ベンツ|ベンツ|vent|88|賓士|v|彼は車を２台持っていて、１台はベンツで、もう１台はポルシェだ。||He has two cars; one is a Benz and the other is a Porsche.
 ベージュ|ベージュ|beige|88|米色|b|彼女は壁をベージュ色にした。||She stained the wall beige.
 ペラペラ|ペラペラ|fluently, incessantly|88|流利；話多；薄薄的|h|トムはフランス語がペラペラです。|湯姆的法語說的很流暢。|Tom speaks fluent French.
 ホッケー|ホッケー|hockey|88|曲棍球|h|トムはアイスホッケーをしたよ。||Tom played ice hockey.
@@ -18405,7 +18405,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 メビウス|メビウス|Moebius|88|莫比烏斯|h|||
 モブ|モブ|mob, crowd of people, background character|88|群眾演員；路人角色|h|モブがスポーンしないように松明を置いといて。||Place some torches so that mobs don't spawn.
 モーツァルト|モーツァルト|Mozart|88|莫札特|h|君はモーツァルトの音楽は好きですか。||Do you like Mozart's music?
-ユー|ユー|you|88|你；妳|b|私は一日に100ユーロ稼ぎます。|我一天掙一百歐元。|I earn 100 Euros a day.
+ユー|ユー|you|88|你|v|私は一日に100ユーロ稼ぎます。|我一天掙一百歐元。|I earn 100 Euros a day.
 ヨーク|ヨーク|yoke|88|軛|b|ニューヨークへ行ったら訪ねるよ。|我去紐約時會來看看你的。|I'll look you up when I visit New York.
 ラブレター|ラブレター|love letter|88|情書|b|彼女にラブレターが書けなかった。||I could not write a love letter to her.
 ランタン|ランタン|lantern|88|燈籠|b|トムはランタンを掲げた。||Tom held up the lantern.
@@ -18413,7 +18413,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ルーフ|ルーフ|roof|88|屋頂；頂部|b|||
 レスラー|レスラー|wrestler|88|摔角選手|h|そのレスラーは試合中右足を骨折した。||The wrestler had his right leg broken in a bout.
 レッテル|レッテル|label, sticker|88|標籤；冠以|b|自分に「できそこない」のレッテルを貼って生きていくのは辛いことだ。||It's hard to live with the knowledge that you're a failure.
-レパートリー|レパートリー|repertoire, repertory|88|曲目|b|料理のレパートリーは限られてるの。||I don't know how to cook too many things.
+レパートリー|レパートリー|repertoire, repertory|88|曲目；拿手好戲|v|料理のレパートリーは限られてるの。||I don't know how to cook too many things.
 レフト|レフト|left, left field|88|左；左派|b|レフトが好走して大飛球を捕った。||The left fielder ran hard and caught the long fly.
 ローリー|ローリー|tanker truck, tank truck|88|油罐車|h|ローリーはオーストラリア出身です。||Laurie is from Australia.
 ワンこ|ワンこ|dog, doggy, bow-wow|88|狗；犬|b|||
@@ -18443,17 +18443,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 体液|たいえき|body fluid, semen|88|體液|h|||
 併合|へいごう|merger, joining into one, amalgamation|88|合併；併吞|h|その小国は隣の大国に併合された。||The small country was annexed to its larger neighbor.
 侵食|しんしょく|encroachment, invasion, erosion|88|侵蝕；侵襲|h|錆が金属の部分を少しずつ侵食している。||Rust is gradually eating into the metal parts.
-便座|べんざ|toilet seat|88|馬桶座|h|携帯電話と便座は同じくらいの菌に汚染されている。|手機如同馬桶一樣被細菌汙染。|A cell phone is as contaminated with bacteria as a toilet is.
+便座|べんざ|toilet seat|88|馬桶坐墊|v|携帯電話と便座は同じくらいの菌に汚染されている。|手機如同馬桶一樣被細菌汙染。|A cell phone is as contaminated with bacteria as a toilet is.
 信士|しんじ|male lay devotee, believer|88|男性在家信徒；信士|h|船長は無線通信士に遭難信号を打つように命令した。||The ship's captain ordered the radio operator to send a distress signal.
 偉業|いぎょう|great achievement, great feat, great work|88|偉業；豐功偉業|h|月着陸は記念すべき偉業であった。||The moon landing was a monumental achievement.
 停戦|ていせん|armistice, ceasefire|88|休戰|b|国連総会は停戦決議案を採択した。||The United Nations General Assembly adopted the cease-fire resolution.
 備品|びひん|equipment, fixtures, furnishings|88|裝備；器材|b|教室にはどんな備品が取り付けられたのですか。||What kind of equipment is installed in the classrooms?
-備後|びんご|Bingo|88|賓果|b|||
+備後|びんご|Bingo|88|備後|v|||
 傷口|きずぐち|wound, cut|88|傷口|a|痛む傷口をおさえながら・・・。||Clutching my painful wound...
 元凶|げんきょう|ringleader, main culprit, main cause|88|元凶；頭目|a|||
 先々|さきざき|distant future, inevitable future, places one goes to|88|將來；今後；前方|h|彼は出かけた先々で歓迎された。||He was welcomed wherever he went.
 先人|せんじん|predecessor, pioneer, ancestor|88|前任；前人|b|彼はその船の水先人を勤めた。||He served as the pilot of the ship.
-光一|ぴかいち|dealt hand consisting of one 20-point card and six 1-point cards|88|顯著；傑出|b|||
+光一|ぴかいち|dealt hand consisting of one 20-point card and six 1-point cards|88|首屈一指；出類拔萃|v|||
 公示|こうじ|public announcement, official notice, edict|88|公告；公示|h|||
 内包|ないほう|connotation, comprehension, intension, inclusion|88|內涵；包含|d|||
 内政|ないせい|domestic affairs, internal administration|88|內政|h|その国はわが国に内政干渉をした。||That country intervened in the internal affairs of our nation.
@@ -18493,7 +18493,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 墓石|ぼせき|tombstone, gravestone|88|墓碑|d|||
 壁面|へきめん|surface of a wall|88|牆面|d|||
 外道|げどう|tirthika, non-Buddhist teachings, non-Buddhist|88|外道；異端；旁門左道|h|||
-大さじ|おおさじ|tablespoon|88|大湯匙|h|小さじ？大さじって言わなかった？||Teaspoons? I thought you said tablespoons.
+大さじ|おおさじ|tablespoon|88|大匙|v|小さじ？大さじって言わなかった？||Teaspoons? I thought you said tablespoons.
 大吉|だいきち|excellent luck|88|大吉|h|||
 大垣|おおがき|roofed mud wall around a villa or temple|88|土牆；大垣地名|h|マイクは校長先生である大垣先生を訪ねました。||Mike visited Mr. Ogaki who is our principal.
 大文字|おおもじ|uppercase letter, capital letter, large character|88|大寫字母；大字|h|君の名前を大文字で書きなさい。|寫下你名字的大寫字母。|Write your name in capital letters.
@@ -18502,7 +18502,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 天官|てんかん|Ministry of State|88|天官；吏部|h|||
 天干|てんかん|celestial stems|88|天干|h|||
 天漢|てんかん|Milky Way|88|銀河；天河|d|||
-太古|たいこ|ancient times, prehistoric times|88|自古|b|太古の昔、恐竜は死に絶えた。||Dinosaurs died out a very long time ago.
+太古|たいこ|ancient times, prehistoric times|88|太古；遠古|v|太古の昔、恐竜は死に絶えた。||Dinosaurs died out a very long time ago.
 奏でる|かなでる|to play an instrument|88|演奏；奏響|h|その盲目のピアニストが奏でる曲は、私の心にずっしりと響いた。||The song played by that blind pianist really moved me.
 奪取|だっしゅ|usurpation, taking back, dispossession|88|奪取；奪回|h|||
 始祖|しそ|founder, originator, pioneer|88|祖師；創辦人|b|||
@@ -18528,11 +18528,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 岩盤|がんばん|bedrock|89|岩盤；基岩|d|||
 州立|しゅうりつ|state-run|89|州立；國營|a|||
 巻き込み|まきこみ|makikomi, vehicle accident involving a turn|89|捲入；牽連；捲入事故|h|お前をゴタゴタに巻き込みたくないんだ。||I don't want to get you into trouble.
-平坦|へいたん|even, flat, level, calm|89|平坦；哪怕|a|平和への道は決して平坦ではない。||The road to peace is never smooth.
-庁舎|ちょうしゃ|government office building|89|辦公大樓；官署大樓|h|市長執務室は市庁舎の中にある。||The mayor's office is in the city hall.
-座談|ざだん|conversation, discussion|89|會話|b|||
-座長|ざちょう|chairman, leader of a troupe|89|總裁|b|||
-弁明|べんめい|explanation, excuse, clarification|89|解釋|b|長期の欠席について彼に弁明を求めた。||We called him to account for his long absence.
+平坦|へいたん|even, flat, level, calm|89|平坦；平穩|v|平和への道は決して平坦ではない。||The road to peace is never smooth.
+庁舎|ちょうしゃ|government office building|89|辦公大樓；廳舍|v|市長執務室は市庁舎の中にある。||The mayor's office is in the city hall.
+座談|ざだん|conversation, discussion|89|座談；交談|v|||
+座長|ざちょう|chairman, leader of a troupe|89|座長；團長；主席|v|||
+弁明|べんめい|explanation, excuse, clarification|89|辯解；說明|v|長期の欠席について彼に弁明を求めた。||We called him to account for his long absence.
 弓道|きゅうどう|kyūdō, kyudo, Japanese archery|89|弓道；射箭|h|明君って毎週金曜日に弓道をするんだって。||I hear Akira practices archery every Friday.
 強迫|きょうはく|compulsion, coercion, duress, obsession|89|強迫；脅迫|h|下手に手を動かすと気付かれてしまうという強迫観念が俺を襲う。||I was assailed by the stupid, but unshakeable, idea that if I was imprudent enough to move my hand I'd be noticed.
 形跡|けいせき|traces, evidence|89|痕跡；跡象|h|その島に人がいる形跡はなかった。||There were no signs of life on the island.
@@ -18540,7 +18540,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 徒爾|とじ|uselessness|89|徒勞；白費|h|||
 御札|おふだ|amulet or talisman issued by a Shinto shrine or Buddhist temple|89|符咒；護身符|h|ペットのためにご祈祷していただける御守と御札が実現しました。||Now there are charms and talismans for your pet that you can have blessed.
 復職|ふくしょく|reinstatement, reappointment|89|復職|h|||
-心事|しんじ|mind|89|心目；心思|b|それは唯一の関心事です。|這是我唯一關心的。|That's my sole concern.
+心事|しんじ|mind|89|心事；心思|v|それは唯一の関心事です。|這是我唯一關心的。|That's my sole concern.
 心耳|しんじ|mind and ears, listening with the heart, auricle|89|心靈聆聽；心耳|h|||
 心肺|しんぱい|heart and lungs, cardiopulmonary bypass|89|心肺|h|心肺蘇生法を試みる。||I'm going to attempt CPR.
 悪げ|わるげ|seeming bad|89|看似不良；惡意的樣子|h|||
@@ -18555,12 +18555,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 懲罰|ちょうばつ|discipline, punishment, reprimand|89|懲罰；紀律|a|シンガポールでは罪人を懲罰する方法としてむち打ちがある。||In Singapore, one way to punish a criminal is to whip him or her.
 成仏|じょうぶつ|attaining enlightenment, becoming a Buddha, entering Nirvana|89|成佛；超度|h|||
 成形|せいけい|forming, shaping, fashioning, casting|89|成形|a|||
-手取り|てとり|talented wrestler, good at manipulating|89|實得薪資；到手金額|h|||
+手取り|てとり|talented wrestler, good at manipulating|89|實領薪資；善於摔角者|v|||
 打倒|だとう|overthrow, defeat, bringing down|89|打倒；推翻|a|支配者は打倒され国外に追放された。||The ruler was overthrown and banished from the country.
 打球|だきゅう|hitting, batting, batted ball|89|擊球；球的擊出|h|打球がインかアウトかを判定するのは難しいことが多い。||It is often difficult to see if a ball is in or out.
 抗菌|こうきん|antibacterial, antimicrobial|89|抗菌|a|||
 抵触|ていしょく|infringement, contravention, running afoul|89|抵觸|a|||
-拘置|こうち|detention, confinement, arrest|89|拘役|b|三浦容疑者の拘置中の過ごし方が明らかになった。||It has become clear what murder-suspect Miura's jail lifestyle is like.
+拘置|こうち|detention, confinement, arrest|89|拘留；羈押|v|三浦容疑者の拘置中の過ごし方が明らかになった。||It has become clear what murder-suspect Miura's jail lifestyle is like.
 拠出|きょしゅつ|donation, contribution|89|捐出；出資|h|環境を救うために、みんなが拠出も含めた協力をしなければならないでしょう。||Everybody will have to pitch in to save the environment.
 持病|じびょう|chronic disease, chronic illness, old complaint|89|慢性病|b|腰に持病があります。||I have back problems.
 指南|しなん|instruction, teaching, coaching|89|指導；指南|h|代わりと言っては何ですが、・・・私が、いささか、ご指南いたしましょう。||It would be presumptuous to call myself his replacement, but I could offer some guidance.
@@ -18569,7 +18569,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 接戦|せっせん|close contest, close match, close game, close combat|89|接戰；勢均力敵的比賽|h|レースはもつれた接戦となった。||The race went down to the wire.
 推論|すいろん|inference, deduction, induction|89|推論|a|彼は論理的な推論で議論に勝つ。||He wins his arguments by logical reasoning.
 提灯|ちょうちん|paper lantern, Chinese lantern, Japanese lantern|89|燈籠|h|||
-操業|そうぎょう|operation, work|89|行動；手術|b|全工場が限界操業をしています。||All of the factories are nearing capacity.
+操業|そうぎょう|operation, work|89|營運；開工|v|全工場が限界操業をしています。||All of the factories are nearing capacity.
 攻勢|こうせい|offensive, aggression|89|攻勢|a|われわれは敵の攻勢に後退した。||We recoiled from the enemy's offensive.
 政令|せいれい|government ordinance, cabinet order|89|政令；政府法令|h|||
 散見|さんけん|being seen here and there, appearing in various places|89|散見；零星可見|h|「すべき」というのは、現在形で書かれている論文も散見されるからです。||I say "should", because theses written in the present tense are still seen around and about.
@@ -18582,7 +18582,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 新旧|しんきゅう|new and old, incoming and outgoing|89|新舊|h|||
 新浪|シナ|Sina Corporation|89|新浪|h|||
 新装|しんそう|redecoration, remodelling, remodeling|89|新裝；新裝修|h|||
-施術|せじゅつ|treatment, carrying out, practicing|89|待遇|b|||
+施術|せじゅつ|treatment, carrying out, practicing|89|施術；治療|v|||
 既成|きせい|established, existing, accomplished|89|既成；現有|h|既成概念を壊そう！||Let's break stereotypes!
 旧作|きゅうさく|old work, existing work|89|舊作|h|システム障害の復旧作業は、夜通し続けられました。|系統故障的修復工作持續了一整夜。|
 早漏|そうろう|premature ejaculation|89|早洩|b|早漏ほど人生を無駄にするものはない。||There's nothing that ruins life as much as premature ejaculation.
@@ -18594,7 +18594,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 最上級|さいじょうきゅう|highest grade, finest quality, top class|89|最高級；頂級|h|最上級生は週末にも図書館への入場許可がある。||Senior students have access to the library at weekends.
 有人|ゆうじん|manned, occupied, piloted|89|有人|a|||
 有明|ありあけ|dawn|89|曉；旭|b|有明海は日本のもっとも広い干潟の一つです。||The Ariake Sea is one of the biggest tidelands in Japan.
-服む|のむ|to take|89|取；服用|b|||
+服む|のむ|to take|89|服用|v|||
 服役|ふくえき|penal servitude, serving time in prison, military service|89|服刑；服兵役|h|囚人は強盗罪により服役していた。||The inmate was doing time for a burglary conviction.
 木戸|きど|wicket gate, wooden door, entrance to an entertainment venue|89|木門；入場口|h|||
 本尊|ほんぞん|principal object of worship, principal image|89|本尊；主像|h|この寺の本尊は何であるか知っていますか。||Do you know which deity this temple is dedicated to?
@@ -18652,7 +18652,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 異色|いしょく|unique, distinctive, novel, different color|89|絕世|b|われわれの仲間ではあなたは異色の存在だった。||You stood out in our circle.
 病理|びょうり|pathology|89|病理；病理學|a|||
 病的|びょうてき|pathological, morbid, unhealthy|89|病態的；病態|h|||
-登用|とうよう|appointment, assignment, promotion|89|約會|b|||
+登用|とうよう|appointment, assignment, promotion|89|任用；提拔|v|||
 白金|はっきん|platinum|89|白金；鉑|a|彼女は色白金髪だ。||She has fair skin and hair.
 皇子|おうじ|imperial prince|89|皇子|h|||
 盗塁|とうるい|base stealing, steal, stolen base|89|盜壘|a|その走者は３塁に盗塁した。||The runner stole third base.
@@ -18687,8 +18687,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 米倉|こめぐら|rice granary|89|米倉|a|||
 粘膜|ねんまく|mucous membrane, mucosa|89|黏膜|b|ストレスが胃の粘膜を荒らす原因のひとつは次のように考えられています。||The following is thought to be one of the reasons stress damages the stomach's mucous membrane.
 紀行|きこう|traveller's journal, traveler's journal, travelogue|89|遊記；紀行|h|ジェラール・ド・ネルヴァルが『東方紀行』を書いた。||Gérard de Nerval wrote Journey to the East.
-純一|じゅんいつ|purity, homogeneity, unadorned|89|純度|b|||
-結びつける|むすびつける|to tie, to fasten, to attach, to connect|89|繫；綁|b|海は世界を分けるのではなく、むしろ結びつけるものです。|海洋不是將世界分隔開來，而是將世界連線起來|Oceans do not so much divide the world as unite it.
+純一|じゅんいつ|purity, homogeneity, unadorned|89|純一；純粹|v|||
+結びつける|むすびつける|to tie, to fasten, to attach, to connect|89|連結；綁在一起|v|海は世界を分けるのではなく、むしろ結びつけるものです。|海洋不是將世界分隔開來，而是將世界連線起來|Oceans do not so much divide the world as unite it.
 網膜|もうまく|retina|89|網膜；視網膜|a|５年前に網膜剥離を起こしました。|我五年前做了網膜剝離。|I had retinal detachment five years ago.
 緇素|しそ|priests and laymen|89|僧俗；緇素|h|||
 総勢|そうぜい|all members, whole army|89|總人數；全體人數|h|我々は総勢４３名です。||We are forty-three in all.
@@ -18722,7 +18722,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 装い|よそおい|dress, outfit, equipment|89|服裝；著裝|b|野山は春の装いだ。|山野染上了春色。|Hills and fields cloaked in spring colors.
 裸地|らち|bare ground, denuded land, barren area|89|裸地|a|||
 見てくれ|みてくれ|appearance, outward show|89|相；樣子|b|ダンスに行ってる間、母が赤ちゃんを見てくれます。|我去參加舞會，母親就幫忙照顧嬰兒。|While I'm at the dance, my mother will take care of the baby.
-見極める|みきわめる|to watch to the end, to ascertain|89|批；探明|b|善悪を見極めることは難しい。||It's hard to get to the bottom of good and evil.
+見極める|みきわめる|to watch to the end, to ascertain|89|看清；查明|v|善悪を見極めることは難しい。||It's hard to get to the bottom of good and evil.
 見殺し|みごろし|letting die without helping|89|見死不救|h|彼女は息子を見殺しにした。||She abandoned her son to his fate.
 親会社|おやがいしゃ|parent company|89|總公司；母公司|b|||
 解凍|かいとう|thawing, defrosting, decompression|89|解凍|h|LZHファイルって、どうやって解凍するんですか？|LZH格式的檔案怎麼解壓啊？|How do I decompress the LZH file?
@@ -18824,12 +18824,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 とてつもない|とてつもない|extravagant, absurd, unbelievable, enormous|89|靡；奢|b|時間とお金の浪費はとてつもない。||The waste of time and money is incredible.
 どんぐり|どんぐり|acorn|89|橡實；橡子|d|どんぐりからオークが生まれる。||From acorns come oaks.
 なまず|なまず|catfish|89|鯰魚|b|なんでこんなまずいもの食ってんの？||Why are you eating this disgusting stuff?
-のれん|のれん|curtain hung at shop entrance, split curtain used to divide spaces in a house|89|名聲；聲譽|b|||
+のれん|のれん|curtain hung at shop entrance, split curtain used to divide spaces in a house|89|暖簾；商譽|v|||
 のろ|のろ|roe deer, European roe|89|獐|h|バースデーケーキのろうそくを一度に吹き消しなさい。|一口氣吹滅生日蛋糕上所有的蠟燭。|Blow out all the candles on the birthday cake at once.
 はんこ|はんこ|seal, stamp, chop|89|海豹；印章|b|||
 びき|びき|last player|89|末位；殿後者|h|いびきをかいたことがある？|你打過鼾嗎？|Has he ever snored?
 ぴょんぴょん|ぴょんぴょん|hopping, skipping, lightly and repeatedly jumping|89|蹦蹦跳跳；跳來跳去|h|黒い小猫がぴょんぴょんと水溜をさけて、隣の生垣の下をくぐった。|一隻黑色的小貓蹦蹦跳跳地躲開水窪，從隔壁的籬笆底下鑽了過去。|The black kitten hopped to avoid the puddle, and passed under the neighbouring hedge.
-ふさ|ふさ|plenty|89|充足；很多|h|倒れた木が通り道をふさいだ。|一棵倒下的樹擋住了通道。|A fallen tree blocked the path.
+ふさ|ふさ|plenty|89|穗；束；茂盛|v|倒れた木が通り道をふさいだ。|一棵倒下的樹擋住了通道。|A fallen tree blocked the path.
 ふたなり|ふたなり|hermaphrodite, androgyny, hermaphroditism|89|雌雄同體|d|||
 ふわっと|ふわっと|floatingly, driftingly, with a sense of weightlessness|89|輕飄飄；輕柔地|h|||
 ぷるぷる|ぷるぷる|trembling, shivering, jiggling|89|瑟瑟|b|||
@@ -18857,7 +18857,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 オリエント|オリエント|Orient|89|東方；東方世界|h|ガラスの歴史は極めて古く、古代オリエントに始まりました。||The history of glass is extremely long, and begins in the ancient Orient.
 カヌー|カヌー|canoe|89|獨木舟；輕舟|d|大波を受けて彼のカヌーは転覆した。||A big wave turned over his canoe.
 カレーライス|カレーライス|curry and rice, rice and curry, curry rice|89|咖哩飯|h|カレーライスは私の好きな料理です。||Curry and rice is my favorite dish.
-カーネル|カーネル|kernel, kernel|89|顆粒|b|||
+カーネル|カーネル|kernel, kernel|89|核心；內核|v|||
 キャラデザ|キャラデザ|character design|89|人設|b|||
 キャラバン|キャラバン|caravan, group of people touring to sell, investigate, etc.|89|商隊|b|||
 キーン|キーン|with a screech, with a whine, with a shrill|89|尖聲；嗡嗡作響|h|離陸する時に、耳がキーンとなります。||During takeoff, one's ears pop.
@@ -18868,13 +18868,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 グレープフルーツ|グレープフルーツ|grapefruit|89|葡萄柚|d|毎食グレープフルーツを食べれば体重が減ると思っている人もいる。|有些人認為吃飯的時候吃葡萄柚會有助於減肥。|Some people think that eating grapefruit with every meal will help you lose weight.
 ケニア|ケニア|Kenya|89|肯亞|d|ケニアはかつてイギリスの植民地であった。|肯亞曾經是英國的殖民地。|Kenya used to be a British colony.
 ケープ|ケープ|cape|89|岬；披肩|b|トムは才能のあるホッケープレーヤーです。||Tom is a talented hockey player.
-コンファレンス|コンファレンス|conference|89|座談會|b|||
+コンファレンス|コンファレンス|conference|89|會議；研討會|v|||
 コンプリート|コンプリート|complete, completion|89|完整；齊全|b|||
 コープ|コープ|co-op, co-operative|89|合作社|h|サブマリンのペリスコープが水中からにょっきり突き出ていた。||The submarine's periscope was sticking right out of the water.
 ゴーゴー|ゴーゴー|go-go|89|搖擺舞；快速|h|||
 ゴーヤ|ゴーヤ|bitter melon, bitter gourd, goya|89|苦瓜|b|||
 サイダー|サイダー|soda pop, pop, lemonade|89|汽水；蘇打水|h|サイダーをください。||I'd like some cider, please.
-サスペンション|サスペンション|suspension, suspension|89|懸吊系統；懸掛裝置|h|||
+サスペンション|サスペンション|suspension, suspension|89|懸吊系統；暫停|v|||
 サドル|サドル|saddle|89|馬鞍；鞍|b|サドルなしで乗れるの？||Can you ride without a saddle?
 サリン|サリン|sarin|89|沙林|b|キャサリン、もしくは略してキャス。||Catherine, or Cath for short.
 シビア|シビア|severe, strict, tough|89|嚴厲；嚴苛|b|日本人は遅刻にシビアだ。||Japanese people are strict about coming on time.
@@ -18914,7 +18914,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 バチカン|バチカン|Vatican|89|梵蒂岡|d|||
 バチ環|バチかん|clasp or ring for attaching a pendant to a chain, bail|89|環扣；吊飾環|h|||
 バッタ|バッタ|grasshopper, locust|89|蚱蜢；蝗蟲|d|バッターは空振りの三振をした。||The batter struck out swinging.
-バーゲン|バーゲン|bargain, bargain sale|89|議價|b|彼女はバーゲンには抜け目がない。||She has an eye on a good bargain.
+バーゲン|バーゲン|bargain, bargain sale|89|大減價；特賣|v|彼女はバーゲンには抜け目がない。||She has an eye on a good bargain.
 パクチョイ|パクチョイ|bok choy, pak choi|89|小白菜；青江菜|d|||
 パフェ|パフェ|parfait|89|芭菲；聖代|d|||
 ヒーリング|ヒーリング|healing|89|療傷|b|||
@@ -18928,13 +18928,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ブランデー|ブランデー|brandy|89|白蘭地|b|ブランデーは割らないのが好きだ。||I like my brandy straight.
 ブロンド|ブロンド|blonde|89|金髮；金髮的|d|彼女は長いブロンドの髪をしていた。||She had long blond hair.
 プラネタリウム|プラネタリウム|planetarium|89|天文館|b|||
-プルトニウム|プルトニウム|plutonium|89|鈈|b|||
+プルトニウム|プルトニウム|plutonium|89|鈽|v|||
 プロバイダ|プロバイダ|Internet service provider, ISP|89|網路服務供應商|h|||
-ヘッドライト|ヘッドライト|headlight, headlamp|89|大燈|b|僕は前から来る自動車のヘッドライトで目がくらんだ。|我被前方駛來的車的車頭燈晃得眼花。|I was dazzled by the headlights of an approaching car.
+ヘッドライト|ヘッドライト|headlight, headlamp|89|頭燈；車頭燈|v|僕は前から来る自動車のヘッドライトで目がくらんだ。|我被前方駛來的車的車頭燈晃得眼花。|I was dazzled by the headlights of an approaching car.
 ベビーカー|ベビーカー|stroller, buggy, pushchair|89|嬰兒車|d|ベビーカーが店の前に置かれている。||A stroller has been left in front of the store.
 ベースボール|ベースボール|baseball|89|棒球|b|トムは、Tシャツにベースボールキャップをかぶってるわ。||Tom is wearing a T-shirt and a baseball cap.
 ペスト|ペスト|plague, black plague|89|疫病；鼠疫|b|私はブタペストから来ました。|我來自布達佩斯。|I'm from Budapest.
-ホロコースト|ホロコースト|Holocaust, Shoah|89|大屠殺|h|||
+ホロコースト|ホロコースト|Holocaust, Shoah|89|猶太人大屠殺；大浩劫|v|||
 ボトム|ボトム|bottom, lower garment|89|底部；底面|b|どうしたの、ベルボトムなんかはいて。||Have you lost your marbles, wearing those bell-bottoms?
 マイクラ|マイクラ|Minecraft, Micra|89|我的世界|d|マイクラをちょこっとプレイしたいならハードコアモードが最適。||If you want to play Minecraft just a bit, then Hardcore mode is the best choice.
 マグネット|マグネット|magnet|89|磁鐵；磁石|b|ぶんぶんマグネットは面白い音をしてるよ。||Buzzing Magnets make a funny noise.
@@ -18945,7 +18945,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 メルヘン|メルヘン|fairy tale|89|童話故事|b|俺は小学校の時見たんだ、人魚。でもそんなメルヘンチックな話じゃなくて。||I saw one, a mermaid, when I was a primary schooler. But it wasn't that sort of fairy-tale atmosphere of a story.
 モビルスーツ|モビルスーツ|mobile suit|89|機動戰士；機器人|h|||
 ヤンデレ|ヤンデレ|person with an unhealthy romantic obsession|89|病嬌；偏執愛戀型角色|h|||
-ライトニング|ライトニング|lightning|89|電；閃電|b|||
+ライトニング|ライトニング|lightning|89|閃電|v|||
 リスニング|リスニング|listening|89|聽力|h|リスニングの練習は単調になってしまうことがある。||Listening practice tends to be monotonous.
 リミックス|リミックス|remix|89|混音版；重混|d|||
 ルーキー|ルーキー|rookie|89|新人；菜鳥|d|||
@@ -18967,18 +18967,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 下請け|したうけ|subcontract, subcontractor|89|轉包；分包|b|||
 不変|ふへん|eternal, everlasting, unchangeable, invariant|89|不變；永恆|a|これ不変の真理なり。||This is an immutable truth.
 主将|しゅしょう|commander-in-chief, supreme commander, captain|89|主將；帥|a|主将の入院中は私が代理を務めた。||I acted for our captain while he was in the hospital.
-予見|よけん|foresight, foreknowledge, divination|89|遠見|b|将来を予見するのは私の責任ではない。||It is not mine to foretell the future.
+予見|よけん|foresight, foreknowledge, divination|89|預見；先見|v|将来を予見するのは私の責任ではない。||It is not mine to foretell the future.
 二次会|にじかい|after-party, second party|89|二次聚會；續攤|h|明日バイトなかったら絶対二次会行ってたわ。||If I didn't have to work tomorrow, I'd definitely go to the after-party.
 交友|こうゆう|friend, companion, acquaintance, friendship|89|朋友；友|b|貸借の期間が短ければ交友期間は長い。||Short accounts make long friends.
 人並み|ひとなみ|ordinary, average, common|89|凡；平常|b|彼は人並みの楽もできない。||He cannot afford the common comforts of life.
-人道的|じんどうてき|humane|89|仁|b|難民に人道的援助を行いました。||We have supplied humanitarian aid to refugees.
+人道的|じんどうてき|humane|89|人道的|v|難民に人道的援助を行いました。||We have supplied humanitarian aid to refugees.
 人選|じんせん|selecting a suitable person, personnel selection|89|人選；挑選人才|h|今回の取締役の人選は見事だ。||The company director elections were really something this time.
 仮眠|かみん|nap, doze|89|小睡；打盹|d|トムは仮眠が必要だと言っている。|湯姆說他需要午睡。|Tom says he needs a nap.
 仰向け|あおむけ|facing upward|89|仰臥；朝上|h|彼は仰向けに寝ていた。|他仰躺。|He lay on his back.
 仲裁|ちゅうさい|arbitration, intercession, mediation|89|仲裁|a|彼が仲裁してその場は丸く収めた。||He intervened and settled the matter peacefully for the time being.
 休職|きゅうしょく|temporary retirement, leave of absence, suspension from office|89|停職；留職停薪|h|||
 伸縮|しんしゅく|expansion and contraction, elasticity, flexibility|89|伸縮；彈性|d|この水着は伸縮性のある素材でできている。||This swimming suit is made of elastic material.
-何気なく|なにげなく|unintentionally, calmly, inadvertently|89|無心|b|彼女はその本に何気なく目をやった。||She took a casual glance at the book.
+何気なく|なにげなく|unintentionally, calmly, inadvertently|89|無意中；不經意地|v|彼女はその本に何気なく目をやった。||She took a casual glance at the book.
 余剰|よじょう|surplus, remainder, residue|89|盈餘；順差|b|人員に余剰が出る||There will be a surplus of personnel.
 修羅場|しゅらば|fighting scene, scene of carnage|89|修羅場；血腥現場|h|||
 偏向|へんこう|propensity, tendency, inclination|89|偏向；偏頗|h|||
@@ -18994,7 +18994,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 兼任|けんにん|serving concurrently as, holding the additional post of|89|兼任；兼職|h|こちらの数学の先生は、バスケット班の監督も兼任されています。||This math teacher is also the coach of the basketball team.
 内海|ないかい|inland sea, inlet, gulf, lake|89|內海|a|||
 再帰|さいき|returning again, recurrence, recursion|89|再度；遞歸|d|||
-再来|さいらい|return, coming back, second coming|89|歸；回去|b|また再来週。|大下週再見。|See you in two weeks.
+再来|さいらい|return, coming back, second coming|89|再來；重臨|v|また再来週。|大下週再見。|See you in two weeks.
 再燃|さいねん|recurrence, revival, resuscitation|89|再燃；死灰復燃|h|その問題が再燃した。||The problem has come to the fore again.
 再起|さいき|comeback, recovery, restoration|89|東山再起；再起|h|PCを再起動する必要があります。||You need to restart your PC.
 冬場|ふゆば|wintertime, winter season|89|冬日|b|ラズベリーは冬場は値段が高いんだ。||Raspberries are expensive in the winter.
@@ -19046,7 +19046,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 堅果|けんか|nut|89|堅果|a|||
 境目|さかいめ|borderline, boundary|89|分界；界線|h|私のおじいさんは生死の境目にいる。||My Grandad is living on the verge of death.
 墓参り|はかまいり|visit to a grave|89|掃墓；拜墓|h|この日私たちは先祖の墓参りをする。||We visit the tombs of our ancestors on this day.
-増額|ぞうがく|increase|89|增強；加大|b|小遣いの増額を父に掛け合った。||I approached my father about an increase in allowance.
+増額|ぞうがく|increase|89|增額；增加金額|v|小遣いの増額を父に掛け合った。||I approached my father about an increase in allowance.
 壁画|へきが|fresco, mural, wall painting|89|壁畫|a|この壁画からは古代人の生活の片鱗をうかがうことができる。||We can get a glimpse of the lifestyle of ancient people from this wall painting.
 売れ筋|うれすじ|popular line, best-selling line, hot sellers|89|暢銷商品；熱銷款|h|||
 外務|がいむ|foreign affairs|89|外務；外事|a|その会は外務省の後援で開かれた。||That party was held under the auspices of the Foreign Ministry.
@@ -19059,7 +19059,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 天敵|てんてき|natural enemy|89|天敵|h|鳥は昆虫の天敵です。||Birds are natural enemies of insects.
 天津|あまつ|heavenly, imperial|89|天津；天上|h|この天津飯のかに玉、美味しい。どうやって作ったの？||This Tianjin rice crab ball is delicious. How did you make it?
 失明|しつめい|loss of eyesight, loss of sight, going blind|89|失明|h|交通事故でその若者は失明した。||The traffic accident deprived the young man of his sight.
-奇形|きけい|deformity, malformation, strange shape|89|殘廢|b|||
+奇形|きけい|deformity, malformation, strange shape|89|畸形|v|||
 奇抜|きばつ|unusual, unconventional, eccentric|89|反常；異乎尋常|b|奇抜な考えがふと心に浮かんだ。||A novel idea occurred to me.
 奇遇|きぐう|unexpected meeting, coincidence|89|奇遇；巧遇|h|まさかこんなところでお会いするとは、奇遇ですね。||Fancy seeing you here.
 好事|こうじ|fortune, good deed, curious|89|好事；善事|h|好事門を出でず悪事千里を走る。|好事不出門，壞事傳千里。|
@@ -19088,17 +19088,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 小路|こうじ|lane, alley|89|巷|b|その町には狭い小路が多い。||The town has many narrow lanes.
 少額|しょうがく|small sum, small amount, small denomination|89|小額|h|父は１００万ドルの少額融資をしてくれました。||My father gave me a small loan of a million dollars.
 就学|しゅうがく|entering school, school attendance|89|就學；入學|h|未就学のお子様は入場無料です。||Admission is free for preschool children.
-履行|りこう|performance, fulfillment, fulfilment|89|績效|b|年末までに契約を履行しなければならない。||We must complete the bond by the end of this year.
+履行|りこう|performance, fulfillment, fulfilment|89|履行|v|年末までに契約を履行しなければならない。||We must complete the bond by the end of this year.
 山川|さんせん|mountains and rivers|89|山川；山河|a|円山川は城崎を流れている。||The Maruyama river flows through Kinosaki.
 巣窟|そうくつ|den, haunt, hangout|89|巢穴；窩點|d|||
 差し手|さして|slipping one's hand beneath the opponent's arm and latching on to the underside of his belt|89|相撲插手；出手|h|||
 差し押さえ|さしおさえ|seizure, attachment, foreclosure|89|查封；扣押|h|||
 帳簿|ちょうぼ|account book, register, ledger|89|賬本|b|彼は会社の帳簿に穴を開けた。||He embezzled the money from his office.
 広聴|こうちょう|public consultation, public information|89|廣聽|h|||
-序|じょ|order, ordering, beginning|89|令；命令|b|私は前と同じようにじょうぶです。||I'm as strong as before.
+序|じょ|order, ordering, beginning|89|序；開端；順序|v|私は前と同じようにじょうぶです。||I'm as strong as before.
 康治|こうじ|Kōji era|89|康治|h|||
 延命|えんめい|keeping alive longer, prolonging life, life extension|89|延命；延長壽命|h|||
-建立|こんりゅう|building, erection|89|館；大樓|b|その大聖堂の建立は中世にまでさかのぼる。||The cathedral dates back to the Middle Ages.
+建立|こんりゅう|building, erection|89|建立；興建|v|その大聖堂の建立は中世にまでさかのぼる。||The cathedral dates back to the Middle Ages.
 弓矢|ゆみや|bow and arrow, weapon|89|弓箭|b|トムは弓矢で魚を捕るのが好きだ。||Tom likes to catch fish with a bow and arrow.
 引きこもり|ひきこもり|shut-in, stay-at-home, hikikomori, social withdrawal|89|宅居族；社會退縮|h|||
 弘治|こうじ|Kōji era|89|弘治|h|||
@@ -19130,19 +19130,19 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 手引き|てびき|guidance, lead, acting as guide, introduction|89|指南；引導；入門|d|||
 手荷物|てにもつ|hand luggage, hand baggage|89|手提行李|h|彼女は手荷物をたくさん持っていた。|她有很多手提行李。|She took a lot of baggage with her.
 才器|さいき|talent, ability|89|才能；人才|b|||
-才気|さいき|wisdom|89|才氣；聰明|h|彼はハンサムで才気も金もある紳士である。||He is a gentleman, handsome, clever, and rich.
+才気|さいき|wisdom|89|才氣；才智|v|彼はハンサムで才気も金もある紳士である。||He is a gentleman, handsome, clever, and rich.
 打破|だは|breaking down, defeating, abolishing|89|打破；突破|h|彼らはその悪習を打破した。||They did away with the bad habit.
 投降|とうこう|surrender|89|投降；屈服|a|||
 披露宴|ひろうえん|reception, banquet, celebration|89|接收；招待會|b|彼は結婚披露宴でスピーチをした。||He made a speech at the wedding feast.
 拒む|こばむ|to refuse, to reject, to decline, to prevent|89|拒簽|b|トムはフランス語を話すのを拒む。||Tom refuses to speak French.
-括り|くくり|knot, tying, bundle|89|結；纈|b|彼らは彼を括りつけた。||They tied him up.
+括り|くくり|knot, tying, bundle|89|捆綁；分類；總結|v|彼らは彼を括りつけた。||They tied him up.
 持ち帰る|もちかえる|to take home, to carry home, to bring back home|89|帶回；拿回家|h|大きな大根を買ったはいいが持ち帰るときかさばる。||It's good that I bought a nice big radish, but it's awfully bulky to take home.
 持論|じろん|one's cherished opinion, pet theory|89|持論；一貫主張|h|彼は自分の持論に固執した。||He stuck with his own theory.
-指し手|さして|move, shogi player|89|運動；動|b|||
+指し手|さして|move, shogi player|89|棋手；著手|v|||
 挙式|きょしき|holding a ceremony, wedding ceremony|89|舉行婚禮|h|来月、ジョンとジルの挙式が執り行われます。||John and Jill will take their vows as husband and wife next month.
 振り回す|ふりまわす|to wield, to brandish, to flourish, to display|89|執掌|b|そのように刃物を振り回すことは危険だ。||It is dangerous to wield an edged tool in such a way.
-振るう|ふるう|to swing, to wield, to exert|89|鞦韆；掄|b|彼女は自分の子供に平気で暴力を振るう。||She has no qualms about being violent towards her children.
-捕捉|ほそく|capture, seizure, prehension, apprehension|89|攻克；擒|b|||
+振るう|ふるう|to swing, to wield, to exert|89|揮舞；發揮；振作|v|彼女は自分の子供に平気で暴力を振るう。||She has no qualms about being violent towards her children.
+捕捉|ほそく|capture, seizure, prehension, apprehension|89|捕捉；掌握|v|||
 授賞|じゅしょう|awarding a prize, giving an award|89|頒獎|h|彼女が授賞する見込みは十分にある。||She stands a good chance of winning the prize.
 排斥|はいせき|rejection, expulsion, boycott|89|排斥；排擠|h|その国では日本製品を排斥する運動が起こっている。||There is a movement against Japanese goods in that country.
 掛け合い|かけあい|negotiations, bargaining, dialogue|89|交涉；對口相聲|h|||
@@ -19157,11 +19157,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 政務|せいむ|government affairs|89|政務|a|||
 敢行|かんこう|decisive action, going through with, daring to do|89|敢於實行；果斷實施|h|舞が家出を敢行する、直前のことだろう。||That was probably just before Mai took the drastic step of leaving home.
 散乱|さんらん|dispersion, scattering, spreading out|89|散亂；凌亂|h|鏡の破片が床に散乱していた。||Fragments of the mirror were scattered on the floor.
-文目|あやめ|pattern, design, distinction|89|範；花樣|b|||
+文目|あやめ|pattern, design, distinction|89|紋理；分辨|v|||
 断熱|だんねつ|insulation|89|隔熱；保溫|h|この梱包材が断熱機能を担っている。||This packaging material provides heat insulation.
 新参|しんざん|newcomer, tyro|89|新手；新進人員|h|村人達は新参者に対しても偏見を持っていた。||The villagers had a bias against any newcomer.
 新生児|しんせいじ|newborn baby|89|新生兒|a|||
-新調|しんちょう|making, having made, buying new|89|新做；新製|h|彼女は彼にスーツを新調してやった。||She made him a new suit.
+新調|しんちょう|making, having made, buying new|89|新購；新做|v|彼女は彼にスーツを新調してやった。||She made him a new suit.
 新選|しんせん|newly compiled, newly edited|89|新編；新選|h|||
 旅立つ|たびだつ|to begin a trip, to depart, to embark, to die|89|啟程；出發；離世|h|由美はあさって大阪に旅立つ。||Yumi is leaving for Osaka the day after tomorrow.
 旋律|せんりつ|melody, tune|89|旋律|a|聞える旋律は美しいが、聞えない旋律はさらに美しい。||Heard melodies are sweet, but those unheard are sweeter.
@@ -19181,7 +19181,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 未然|みぜん|before it happens, beforehand|89|未然|a|政府は感染の拡大を未然に防ぐための適切な措置を取らなかった。||The government didn't take appropriate measures to prevent the infection from spreading.
 本郷|ほんごう|one's hometown|89|故鄉；本鄉|h|||
 本領|ほんりょう|characteristic quality, special character, one's real ability|89|本領；真本事|h|彼は経済学の話をすると本領を発揮する。||He is in his element when talking economics.
-東名|とうめい|Tokyo and Nagoya|89|東名高速|h|東名高速道路は東京と名古屋を結んでいる。||The Tomei Expressway connects Tokyo with Nagoya.
+東名|とうめい|Tokyo and Nagoya|89|東京與名古屋；東名高速|v|東名高速道路は東京と名古屋を結んでいる。||The Tomei Expressway connects Tokyo with Nagoya.
 東経|とうけい|east longitude|89|東經|a|日本の子午線は東経１３５度です。||Japan is on the 135th meridian East.
 架する|かする|to span|90|橫跨；跨度|b|||
 某所|ぼうしょ|certain place|90|某處；某地|h|||
@@ -19208,7 +19208,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 浮き彫り|うきぼり|relief, embossed carving, bringing to the fore|90|浮雕；凸顯|h|||
 浴槽|よくそう|bathtub|90|浴缸|b|何者かが彼女を浴槽で溺死させた。||Somebody had drowned her in the bathtub.
 消防車|しょうぼうしゃ|fire engine, fire truck|90|消防車|a|消防車はほかの乗り物に優先する。||Fire engines have priority over other vehicles.
-淑女|しゅくじょ|lady, pervert|90|淑女；夫人|a|彼女が淑女であるように、彼は紳士だ。||As she is a lady, so he is a gentleman.
+淑女|しゅくじょ|lady, pervert|90|淑女|v|彼女が淑女であるように、彼は紳士だ。||As she is a lady, so he is a gentleman.
 深度|しんど|depth|90|深度；水深|a|||
 添削|てんさく|correction, looking over, touching up|90|批改；修改|d|添削していただいてありがとうございました。|謝謝你的修改。|Thank you for the corrections.
 減輝|げんき|decalescence|90|去輝|h|||
@@ -19239,7 +19239,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 疫病|えきびょう|epidemic, plague, pestilence|90|疫病|a|古代では疫病でたくさんの人が死んだ。||In ancient times, plagues killed many people.
 病室|びょうしつ|sickroom, hospital room, ward|90|病室|a|看護婦は、患者が危篤状態なので、病室に入らないようにと私たちに言った。||The nurse told us not to enter the room because the patient was in a critical condition.
 白菜|はくさい|napa cabbage, nappa cabbage, Chinese cabbage|90|白菜|h|1/4カットの白菜を太めの千切りにザクザク切る。||Cut the quartered Chinese cabbage into wide strips.
-白馬|はくば|white horse, unrefined sake|90|白馬|h|||
+白馬|はくば|white horse, unrefined sake|90|白馬；濁酒|v|||
 的射|まとい|target shooting|90|打靶|b|||
 盆踊り|ぼんおどり|Bon Festival dance, Lantern Festival dance|90|盂蘭盆舞|h|「今夜、盆踊りに行くの？」「もちろん！」||"Are you going to the Bon Festival tonight?" "Of course!"
 監察|かんさつ|inspection, inspector|90|檢查；稽查|b|||
@@ -19321,7 +19321,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 調合|ちょうごう|mixing, blending, compounding|90|混音|b|薬剤師は処方どおりに調合してくれた。||The pharmacist made up the prescription for me.
 財宝|ざいほう|treasure|90|珍惜；寶物|b|彼はその財宝を盗んだことを認めた。||He admitted that he had stolen the treasure.
 資生堂|しせいどう|Shiseido|90|資生堂|h|||
-赤子|あかご|baby, infant|90|娃娃；娃|b|赤子の手をひねるような物だ。||That's as easy as taking cake from a baby.
+赤子|あかご|baby, infant|90|嬰兒；赤子|v|赤子の手をひねるような物だ。||That's as easy as taking cake from a baby.
 赤松|あかまつ|Japanese red pine, Japanese umbrella pine, tanyosho pine|90|赤松|h|||
 赤毛|あかげ|red hair, ginger hair|90|紅髮；赤褐色毛髮|h|メアリーはそばかすがあって、髪は赤毛です。||Mary has freckles and red hair.
 超新星|ちょうしんせい|supernova|90|超新星|a|||
@@ -19363,7 +19363,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 食道|しょくどう|esophagus, oesophagus, gullet|90|食道|h|||
 高み|たかみ|height, elevated place|90|高度；身高|b|||
 高専|こうせん|technical college, higher schools and colleges|90|高等專門學校|h|||
-高次|こうじ|high-level, higher-order, higher-order|90|高等|b|||
+高次|こうじ|high-level, higher-order, higher-order|90|高次；高階|v|||
 鹸化|けんか|saponification, conversion to soap|90|皂化|h|||
 麦茶|むぎちゃ|barley tea|90|大麥茶|h|「麦茶のむ？」「飲む！飲む！」||"Would you like a drink of barely tea?" "A drink? Yes please!"
 ８月|はちがつ|August, eighth month of the lunar calendar|90|八月份|b|彼の誕生日は、８月２１日です。|他的生日是八月二十一日。|His birthday is August 21st.
@@ -19400,11 +19400,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 とっさ|とっさ|moment, instant|90|一會；一會兒|b|社長のとっさのひらめきなんだって。||It came to the president like a bolt of lightning.
 となかい|となかい|reindeer|90|馴鹿|b|||
 とんこつ|とんこつ|pork bones, broth made from pork and pork bones|90|豚骨湯|h|||
-どん底|どんぞこ|very bottom, rock bottom|90|谷底；最底層；最低谷|h|彼女は絶望のどん底にあった。||She was in an abyss of despair.
+どん底|どんぞこ|very bottom, rock bottom|90|谷底；最底層|v|彼女は絶望のどん底にあった。||She was in an abyss of despair.
 なまる|なまる|to speak with an accent, to mispronounce|90|帶口音；發音不標準|h|家畜はみんなまるまるしている。||Their cattle are all fat.
 にじみ|にじみ|blur, bleed, bleeding|90|暈染；滲開|h|臆病な鼓動とともに血はにじみ続ける。||With a weak beat, it continues to bleed.
 にわか|にわか|sudden, abrupt, unexpected, improvised|90|暴；驟|b|にわか雨に降られてずぶぬれになった。|我被雨淋成了落湯雞。|I was utterly soaked by the downpour.
-ぬくもり|ぬくもり|warmth|90|親和力|b|ぬくもりなどどこにも見つからない。||I can't find anything like warmth anywhere.
+ぬくもり|ぬくもり|warmth|90|溫暖|v|ぬくもりなどどこにも見つからない。||I can't find anything like warmth anywhere.
 のろい|のろい|thickheaded, obtuse, stupid, slow|90|遲鈍；緩慢；笨拙|d|彼はのろいの言葉をつぶやいた。||He muttered a curse.
 はっか|はっか|mint, Japanese peppermint|90|薄荷|b|||
 ばち|ばち|plectrum, pick|90|撥；彈奏用的撥子|h|正直なところ、それはいちかばちかだ。||Honestly, it's all or nothing.
@@ -19418,14 +19418,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ぼかし|ぼかし|blurring, blur, gradient|90|漸層暈染；模糊處理|h|海綿は水を吸収しますので水彩絵具をぼかしたりする時に便利です。||Sponge absorbs water so it is convenient for shading water-colours and such.
 またもや|またもや|once again, yet again|90|再次；又一次|d|またもや、バスが遅れてる。||The bus is late again.
 まとめ買い|まとめがい|bulk buying, buying in quantity, stocking up|90|大量採購；囤貨|h|||
-まわす|まわす|to gang-rape|90|轉動；粗俗指輪姦|h|グラスをいじくりまわすのはやめろ。||Don't play around with the glass.
+まわす|まわす|to gang-rape|90|轉動；輪流；輪姦|v|グラスをいじくりまわすのはやめろ。||Don't play around with the glass.
 まんまと|まんまと|successfully, fairly, artfully|90|輕易得手；巧妙地；成功地|h|彼はまんまと罠に引っかかった。||He was fairly caught in the trap.
 むき出し|むきだし|naked, bare, uncovered, frank|90|裸體；裸|b|ライオンはさらに牙をむき出した。||The lion bared its teeth even further.
 むく|むく|to peel, to skin, to pare, to bare|90|扒；剝|b|私は林檎の皮をむくことができる。||I can peel an apple.
 むくのき|むくのき|Aphananthe oriental elm, mukutree|90|朴樹|h|||
 めど|めど|aim, goal, prospect|90|目標；前景；眉目|d|彼女はいったん話し始めると止めどがない。|她一旦開始說話，就很難讓她停下來。|Once she starts talking, she is hard to stop.
 もぐもぐ|もぐもぐ|mumbling, chewing one's words, chewing|90|咀嚼貌；含糊地說|h|もぐもぐして食べなさい。||Chew your food with your mouth closed.
-もぐら|もぐら|mole|90|摩爾；鼴鼠|b|真珠を探したいと思う者は深くもぐらなければならぬ。||Who wants to find pearls, has to dive deep.
+もぐら|もぐら|mole|90|鼴鼠|v|真珠を探したいと思う者は深くもぐらなければならぬ。||Who wants to find pearls, has to dive deep.
 やむを得ない|やむをえない|cannot be helped, unavoidable|90|不得已；無可奈何|h|それはやむを得ないね。||I can't help it.
 やんちゃ|やんちゃ|naughty, mischievous, unruly, rascal|90|調皮；頑皮|b|やんちゃな子供が堪えられない。||I can't tolerate naughty children.
 わんぴ|わんぴ|wampee|90|黃皮|b|||
@@ -19485,7 +19485,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ジョイ|ジョイ|joy|90|喜樂|b|彼は最後の試合をエンジョイしたんだろうか。||I wonder if he enjoyed the last match.
 ジョーグー|ジョーグー|liker of, fan, enthusiast|90|愛好者；粉絲|h|||
 ジンバブエ|ジンバブエ|Zimbabwe|90|辛巴威|d|ジンバブエはかつてイギリスの植民地だった。|辛巴威曾經是英國的殖民地。|Zimbabwe was once a colony of Britain.
-スクウェア|スクウェア|Square|90|方；平方|b|||
+スクウェア|スクウェア|Square|90|廣場；正方形；史克威爾|v|||
 スクエニ|スクエニ|Square Enix|90|史克威爾艾尼克斯|h|||
 スケボー|スケボー|skateboard, skateboarding|90|滑板|b|||
 ストール|ストール|stole|90|披肩；圍巾|h|それインストールするのって簡単？||Is it easy to install?
@@ -19534,7 +19534,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ハイレベル|ハイレベル|high-level|90|高等|b|||
 ハラスメント|ハラスメント|harassment, bullying, discrimination|90|騷擾；霸凌；歧視|d|ハラスメントを受けたことがありますか？||Have you ever been harassed?
 ハワイアン|ハワイアン|Hawaiian, Hawaiian|90|夏威夷的；夏威夷人|h|||
-ハンティング|ハンティング|hunting, oscillatory behavior of a non-converging feedback loop|90|獵|b|||
+ハンティング|ハンティング|hunting, oscillatory behavior of a non-converging feedback loop|90|狩獵|v|||
 バジル|バジル|basil|90|羅勒|h|スパゲッティのソースにバジルを加えるのが好きです。||I like to add basil to season my spaghetti sauce.
 バスター|バスター|fake bunt, slash bunt|90|假觸擊；短打|h|バスターミナルはどこですか。||Where is the bus terminal?
 バニー|バニー|bunny|90|兔子；兔女郎|h|||
@@ -19650,7 +19650,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 別姓|べっせい|different surname, married couple maintaining separate surnames|90|不同姓氏；夫妻各自保留姓氏|h|||
 別格|べっかく|special, exceptional|90|特；特殊|b|コックとして彼は別格だ。||As a cook he is in a class by himself.
 前任|ぜんにん|former, predecessor|90|前任；原|a|彼の経歴は前任者のそれに匹敵する。||His background parallels that of his predecessor.
-劣悪|れつあく|poor, bad, inferior|90|貧窮；窮|b|そのため、派遣労働者は劣悪な労働条件の下で働いている。||For that reason, temporary workers are working under inferior conditions.
+劣悪|れつあく|poor, bad, inferior|90|惡劣；低劣|v|そのため、派遣労働者は劣悪な労働条件の下で働いている。||For that reason, temporary workers are working under inferior conditions.
 助力|じょりょく|assistance, support|90|助力|a|私は君の助力が必要だ。|我需要你的幫助。|I need your help.
 勅語|ちょくご|imperial rescript|90|敕語；詔書|h|||
 勾配|こうばい|slope, incline, gradient, slope|90|斜坡；斜率|b|山越えの道は狭く、しかも急勾配だった。||The road across the mountain was narrow, and what's more, it was a steep slope.
@@ -19720,7 +19720,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 御殿|ごてん|palace, court|90|宮；宮殿|b|||
 御社|おんしゃ|your company, your shrine|90|貴公司|d|御社の社長もゴルフをなさいますか？||Does the president of your company also play golf?
 微笑ましい|ほほえましい|heartwarming, pleasant, charming|90|令人莞爾；可愛動人|h|それは見るからに微笑ましい眺めだった。||It was a lovely sight to see.
-微細|びさい|minute, fine, detailed|90|分鐘；微小|b|空気中の微細な粒子が癌を引き起こすことがある。|空氣中的微粒可以引發癌症。|Tiny particles in the air can cause cancer.
+微細|びさい|minute, fine, detailed|90|微細；細微|v|空気中の微細な粒子が癌を引き起こすことがある。|空氣中的微粒可以引發癌症。|Tiny particles in the air can cause cancer.
 忘却|ぼうきゃく|lapse of memory, forgetting completely, oblivion|90|遺忘；忘卻|h|||
 思い当たる|おもいあたる|to suddenly understand, to come to mind, to recall|90|想起；恍然想到|d|思い当たる節はない。||That doesn't ring a bell.
 恥知らず|はじしらず|shameless, shameless person|90|厚顏無恥|b|恥知らずな嘘つきは笑って嘘をいう。||A shameless liar lies smilingly.
@@ -19731,12 +19731,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 我人|わひと|you|90|你；妳|b|彼らは怪我人を病院まで車で運んだ。||They carried the injured man by car to the hospital.
 戦友|せんゆう|comrade in arms, war buddy, fellow soldier|90|戰友|h|||
 所存|しょぞん|opinion, intention, thought|90|論；見解|b|乗りかかった船ということでやっていく所存です。||I've come this far, so I'll keep going.
-所蔵|しょぞう|possession, to possess|90|所有物|b|その図書館は多くの書物を所蔵している。||The library has many books.
+所蔵|しょぞう|possession, to possess|90|收藏；所藏|v|その図書館は多くの書物を所蔵している。||The library has many books.
 手形|てがた|draft, draught, promissory note, handprint|90|草案；草稿|b|手形は来月１日が支払日になっている。||The bill is due on the 1st of next month.
 手描き|てがき|hand-drawn, drawn by hand, hand-painted|90|手繪；手畫|h|||
 手羽|てば|chicken wing|90|雞翅|b|あのお店の手羽先が大好きなの。||I love the chicken wings from that restaurant.
 打ち込み|うちこみ|driving, pounding in, shooting into, falling badly in love|90|投入；熱衷；打入|h|自分の事に打ち込みなさい。||Mind your own business.
-払い下げ|はらいさげ|sale, disposal|90|銷路|b|||
+払い下げ|はらいさげ|sale, disposal|90|廉價出售；處理|v|||
 技量|ぎりょう|ability, competency, talent|90|能耐；才幹|b|クラスをまとめるためには、教師としてすべての技量が必要である。|控制一個班級需要你做老師的所有技能。|To control a class calls for all your skills as a teacher.
 投棄|とうき|abandonment, giving up, throwing away|90|丟棄；拋棄|h|今朝こんなの無かったけど・・・誰かが不法投棄したみたい。||This wasn't here this morning ... looks like somebody's been fly tipping.
 抜け道|ぬけみち|byway, bypath, byroad, loophole|90|小路；捷徑；漏洞|d|奈落の底には抜け道はなく。||I feel there is just no way out.
@@ -19813,8 +19813,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 漁り|あさり|searching, rummaging, fishing|90|搜尋；覓食；翻找|h|カラスはよくゴミ漁りします。||Crows often fish through garbage.
 潔白|けっぱく|innocence, guiltlessness, purity|90|清白；無罪；純潔|h|私は彼が潔白だと断言した。|我保證他是無辜的。|I affirmed that he was innocent.
 激痛|げきつう|sharp pain, acute pain, intense pain|90|劇痛|d|足を動かすと、激痛が走る。||When I move my leg extreme pain runs through it.
-点てる|たてる|to make, to perform|90|使；造|b|||
-無二|むに|peerless, matchless, unparalleled|90|聖|b|この地上で唯一無二の平等は死である。||The sole equality on earth is death.
+点てる|たてる|to make, to perform|90|點茶；泡茶|v|||
+無二|むに|peerless, matchless, unparalleled|90|無二；獨一無二|v|この地上で唯一無二の平等は死である。||The sole equality on earth is death.
 無気力|むきりょく|apathy, lassitude, lethargy|90|無力；消沉；倦怠|h|||
 煩悩|ぼんのう|worldly desires, evil passions, appetites of the flesh|90|煩惱；欲望|h|トムって子煩悩で、いいお父さんだね。||Since Tom adores his children, he must be a good father.
 熟知|じゅくち|being familiar with, having a thorough knowledge of, being well-informed about|90|熟知；深諳|h|僕はそのエリアに熟知している。||I'm familiar with the area.
@@ -19860,9 +19860,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 結界|けっかい|boundaries for religious practices|90|禁令；禁制令|b|||
 絶する|ぜっする|to exceed, to surpass, to end|90|越；超|b|問題は私が受諾するか拒絶するかである。||The point is whether I accept or refuse.
 編入|へんにゅう|admission, incorporation, enlistment|90|編入；轉入|h|||
-緻密|ちみつ|fine, close, delicate|90|罰款；優良|b|彼は緻密に立てた計画を実行した。||He carried out the plan he had made in detail.
+緻密|ちみつ|fine, close, delicate|90|緻密；精細|v|彼は緻密に立てた計画を実行した。||He carried out the plan he had made in detail.
 羞恥|しゅうち|shyness, bashfulness, shame|90|羞恥|a|彼女は無邪気なのか羞恥心がないのか。||Is she an innocent, or is she just shameless?
-義弟|ぎてい|brother-in-law|90|弟弟；小叔|d|義弟は、私より年上なのよ。||My younger sister's husband is older than I am.
+義弟|ぎてい|brother-in-law|90|妹夫；小叔；義弟|v|義弟は、私より年上なのよ。||My younger sister's husband is older than I am.
 耳元|みみもと|close to the ear|90|耳邊|h|彼は私の耳元でその答えを囁いた。||He whispered the answer in my ear.
 肌色|はだいろ|flesh colour, flesh color, pale orange|90|膚色|h|||
 脱糞|だっぷん|defecation, excretion, bowel movement|90|排便|h|「うっかり観覧車の中で脱糞してしまったわい」「もう，おじいちゃんったら」||"I carelessly soiled myself on the Ferris wheel." "You're already an old man."
@@ -19884,17 +19884,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 見越し|みこし|anticipation, expectation, looking over|90|預期；估計|h|収入を見越して金を使ってはならない。||Don't anticipate your income.
 覚醒剤|かくせいざい|stimulant|90|興奮劑|b|||
 親日|しんにち|pro-Japanese|90|親日|h|||
-読み取り|よみとり|reading|90|讀數|b|||
+読み取り|よみとり|reading|90|讀取|v|||
 読了|どくりょう|finishing reading|90|讀完|h|ご読了ありがとございました～。||Thank you for reading to the end.
 警察庁|けいさつちょう|National Police Agency, NPA|90|警察廳|d|||
 象牙|ぞうげ|ivory|90|象牙|a|彼は象牙に図案を彫った。||He carved designs in ivory.
 資す|しす|to contribute, to play a part in, to have a hand in|90|貢獻；捐贈|b|政府は農業にもっと投資するべきだ。|政府應該加大對農業的投資。|The government should invest more money in agriculture.
-賜物|たまもの|gift, boon, godsend, result|90|天賦；禮|b|彼が会社の社長になれたのは、彼の努力と勤勉の賜物です。|他可以當上社長是他努力不懈並勤奮的成果。|Everyone knows that he worked hard to get to the top of the company.
+賜物|たまもの|gift, boon, godsend, result|90|恩賜；成果|v|彼が会社の社長になれたのは、彼の努力と勤勉の賜物です。|他可以當上社長是他努力不懈並勤奮的成果。|Everyone knows that he worked hard to get to the top of the company.
 質屋|しちや|pawnshop|90|當鋪|b|彼は質屋から時計買い戻した。||He redeemed his watch from the pawnbroker.
 赤十字|せきじゅうじ|Red Cross|90|紅十字|d|赤十字は難民たちに食糧を配った。||The Red Cross distributed food to the refugees.
 赤面|せきめん|blushing, getting red in the face, embarrassment|90|臉紅；尷尬|h|私たちがからかうと彼女は赤面した。||When we made fun of her, she blushed.
 越後|えちご|Echigo|90|越後|h|||
-跑|だく|trot|90|小跑；慢跑|h|お待ちいただくことになりますが。||You'll have to wait.
+跑|だく|trot|90|小跑|v|お待ちいただくことになりますが。||You'll have to wait.
 踏み出す|ふみだす|to step forward, to step forth, to advance|90|踏出；邁出|h|夢への一歩を踏み出すべく体験入学に行ってみた。||I went to see the school so as to take the first step towards my dream.
 軍師|ぐんし|strategist, tactician, schemer|90|軍師；謀士|d|||
 農協|のうきょう|agricultural cooperative|90|農協；農業合作社|h|||
@@ -19906,7 +19906,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 逆手|さかて|underhand grip|90|反手握法；反制|h|彼はうまくそのトラブルを逆手に取った。||He skillfully turned the trouble to his advantage.
 通行人|つうこうにん|passerby, pedestrian, foot passenger|90|行人；路人|d|追い剥ぎが通行人から金を奪った。||A highwayman robbed a foot passenger of his money.
 進言|しんげん|advice, counsel, proposal|90|進言；建議|h|||
-運航|うんこう|operation, service, navigation|90|行動；手術|b|船は大しけの中でも性能よく運航した。||The ship performed well in the heavy storm.
+運航|うんこう|operation, service, navigation|90|航行；營運|v|船は大しけの中でも性能よく運航した。||The ship performed well in the heavy storm.
 過小|かしょう|too small, too little|90|過小；太小|h|自分の力を過小評価しちゃだめだよ。|不要低估自己的實力。|Don't underestimate your own strength.
 道筋|みちすじ|course, way, route|90|流程；歷程|b|鉄道の道筋を決めるのは一体何だろうか。||What is it that determines the route a railway takes?
 道連れ|みちづれ|fellow traveler, fellow traveller, travelling companion|90|同行者；旅伴|h|二人の道連れと一緒に出立した。||I started with two traveling companions.
@@ -19931,13 +19931,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 陵辱|りょうじょく|insult, affront, disgrace, sexual assault|90|侮辱；凌辱|b|||
 陶|すえ|pottery, earthenware, ceramics|90|陶；陶器|a|彼女の態度は少々腹にすえかねる。||I find her manner a little hard to take.
 隔て|へだて|partition, division, barrier, discrimination|90|瓜分；隔斷|b|性別で人を分け隔てすべきでない。||You should not discriminate against people because of their sex.
-隠る|なまる|to hide, to be hidden, to conceal oneself|90|隱藏；躲|b|天の海に雲の波立ち月の船星の林に漕ぎ隠る見ゆ。||In the heavenly sea, waves of clouds rise; the moon appears as if it were a boat, hidden among the starry groves.
+隠る|なまる|to hide, to be hidden, to conceal oneself|90|隱藏；隱居|v|天の海に雲の波立ち月の船星の林に漕ぎ隠る見ゆ。||In the heavenly sea, waves of clouds rise; the moon appears as if it were a boat, hidden among the starry groves.
 雅人|がじん|individual of taste|90|風雅之人|h|||
 雑学|ざつがく|miscellaneous knowledge|90|雜學；雜學知識|h|||
 雑種|ざっしゅ|hybrid, crossbreed, mongrel|90|雜種|a|ヨーロッパは強力な雑種民族大陸である。||Europe is a continent of energetic peoples.
 難度|なんど|degree of difficulty|90|難度|a|||
 雪だるま|ゆきだるま|snowman|90|雪人|b|トムとメアリーは雪だるまを作った。|湯姆和瑪麗堆了個雪人。|Tom and Mary made a snowman.
-静寂|せいじゃく|silence, stillness, quietness|90|沉寂；消音|b|悲鳴で静寂がやぶられた。||A scream broke the silence.
+静寂|せいじゃく|silence, stillness, quietness|90|寂靜；寧靜|v|悲鳴で静寂がやぶられた。||A scream broke the silence.
 非合法|ひごうほう|illegal, unlawful|90|非法；違法|b|非合法なことはしたことがない。|我沒有做過非法的事。|
 非常時|ひじょうじ|time of emergency, emergency|90|非常時期；緊急時刻|h|非常時の備えはしていますか？||Are you prepared for emergencies?
 音符|おんぷ|musical note, note symbol, phonetic symbol|90|音符|a|彼は、ピアノを音符を見ずに弾いた。||He played the piano without looking at the notes.
@@ -19953,7 +19953,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 骨髄|こつずい|bone marrow, medulla, heart's core|90|骨髓|a|||
 高低|こうてい|high and low, rise and fall|90|高低；起伏|h|||
 鳳凰|ほうおう|Chinese firebird, Chinese phoenix|90|鳳凰|h|||
-鳴門|なると|strait with a roaring tidal ebb and flow, whirlpool, maelstrom|90|漩渦；漩|b|||
+鳴門|なると|strait with a roaring tidal ebb and flow, whirlpool, maelstrom|90|鳴門；漩渦|v|||
 ２分|にふん|two minutes|90|兩分鐘|h|ぼくの、時計はひと月に２分進む。||My watch gains two minutes a month.
 お義父さん|おとうさん|father-in-law, foster father|91|岳父；公公|h|||
 お花畑|おはなばたけ|field of flowers, flower garden, flower bed|91|花海；花田；花圃|h|||
@@ -19965,13 +19965,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ささやき|ささやき|whispering, whisper, secret talk|91|耳語；低語|d|群集の中にささやきが伝わった。||A whisper ran through the crowd.
 さざ波|さざなみ|ripple, wavelets, ripple|91|微波；漣漪|b|右手に海のさざ波が見えてきたよ。||I could see the rippling waves on my right.
 さながら|さながら|just like, exactly like, as if, just like ...|91|儼然|b|その子供達はさながら蟻のように働いていた。||The children were working like so many ants.
-ざら|ざら|common, commonplace, pulp paper|91|共；共同|b|サメの皮はマグロの皮よりはるかにざらざらしている。|鯊魚皮比金槍魚皮粗糙多了。|The skin of a shark is much rougher than that of a tuna fish.
-しかり|しかり|yes, yea, aye, to be so|91|俞；喏|b|恋は盲目。憎しみもまたしかり。||Love is blind. Hatred is also blind.
+ざら|ざら|common, commonplace, pulp paper|91|常見；粗糙|v|サメの皮はマグロの皮よりはるかにざらざらしている。|鯊魚皮比金槍魚皮粗糙多了。|The skin of a shark is much rougher than that of a tuna fish.
+しかり|しかり|yes, yea, aye, to be so|91|是的；正是如此|v|恋は盲目。憎しみもまたしかり。||Love is blind. Hatred is also blind.
 しばたたく|しばたたく|to blink repeatedly|91|眨眼；眨眼睛|h|||
 しめじ|しめじ|Lyophyllum shimeji|91|鴻禧菇；玉蕈|h|||
 ずさん|ずさん|careless, sloppy, faulty, using unreliable sources|91|胡亂；草率|b|トムはよく哀しい歌を口ずさんでるよ。||Tom is frequently humming sad songs.
 そぐわない|そぐわない|unsuitable, not matching, out of character|91|不相稱；不合適|h|壁の色は床の色とそぐわない。||The color of the wall clashes with that of the floor.
-そそる|そそる|to excite, to incite, to stimulate|91|聳；扣人心弦|b|興味をそそる話を、彼は上手に話しました。||It was a fascinating story, and he told it well.
+そそる|そそる|to excite, to incite, to stimulate|91|勾起；挑動|v|興味をそそる話を、彼は上手に話しました。||It was a fascinating story, and he told it well.
 たげ|たげ|looking as if one wants to ..., looking eager to ...|91|想要做…的樣子|h|彼の嫉妬が頭をもたげてきた。||His jealousy began to raise its head again.
 たで|たで|knotweed, jointweed, smartweed|91|蓼|d|カレーはとても美味しかったです。|咖哩非常好吃。|The curry was very delicious.
 たわわ|たわわ|heavily laden, sagging, drooping|91|沉甸甸；累累|h|その木には実がたわわになっていた。||The tree was heavy with fruit.
@@ -19983,7 +19983,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 つるつる|つるつる|smooth, shiny, slick, slippery|91|光滑；潤滑|b|私の父はビリヤードの玉のように頭がつるつるだ。||My father is as bald as a billiard ball.
 つるり|つるり|smoothly, with a slipping or sliding motion|91|滑溜；光滑地|h|||
 ねっとり|ねっとり|viscously, stickily|91|黏稠；黏糊糊|h|||
-のし|のし|noshi, long thin strip of dried abalone in folded patterned paper, attached to a gift|91|熨斗；禮金紙|h|勉強のしすぎで頭が爆発しそう！|學過勁兒到頭都要炸了！|My head is about to explode from too much study!
+のし|のし|noshi, long thin strip of dried abalone in folded patterned paper, attached to a gift|91|熨斗紙；禮籤|v|勉強のしすぎで頭が爆発しそう！|學過勁兒到頭都要炸了！|My head is about to explode from too much study!
 ひしくい|ひしくい|bean goose|91|雁；大雁|h|||
 ひんやり|ひんやり|cool, chilly, feeling nice and cold|91|涼；冷卻|b|部屋は薄暗くてひんやりしていた。||The room was gloomy and cold.
 ふわり|ふわり|softly, gently, lightly|91|輕柔；輕飄飄|h|||
@@ -20009,7 +20009,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 インドア|インドア|indoor|91|室內|b|彼氏がインドア派なので、今年の夏は海にも山にも行かなかった。||Since my boyfriend is more of an indoors person, we didn't go to the beach, nor to the mountains this summer.
 イージー|イージー|easy|91|易；輕而易舉|b|オレンジジュースと卵２個をオーバー・イージーでお願いする。||Orange juice, and two eggs over easy.
 ウィークリー|ウィークリー|weekly|91|週刊；每週|d|||
-ウインド|ウインド|wind, wind instrument|91|風；繞|b|トムはウインドウを下げた。||Tom rolled down the window.
+ウインド|ウインド|wind, wind instrument|91|風；管樂器|v|トムはウインドウを下げた。||Tom rolled down the window.
 ウェールズ|ウェールズ|Wales|91|威爾斯|h|英国本土はウェールズを含まない。||England proper does not include Wales.
 ウォシュレット|ウォシュレット|Washlet, electronic bidet, toilet seat with bidet functions|91|免治馬桶；電子潔身器|h|ウォシュレット自体が日本以外の国ではほとんど普及していません。||The bidet-toilet itself has not spread much outside of Japan.
 エステル|エステル|ester|91|酯|b|エステルはユダヤ系アメリカ人です。||Esther is a Jewish American.
@@ -20087,7 +20087,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 パシフィック|パシフィック|Pacific|91|太平洋的|h|パシフィック通りに行くには、このバスでいいんでしょうか。||Is this the right bus for Pacific Boulevard?
 パステル|パステル|pastel|91|粉彩；淡色|h|||
 パラオ|パラオ|Palau|91|帛琉|d|||
-ビジター|ビジター|visitor, visiting team|91|賓|b|||
+ビジター|ビジター|visitor, visiting team|91|訪客；客隊|v|||
 ビックカメラ|ビックカメラ|Bic Camera|91|比克相機|h|||
 ピョンヤン|ピョンヤン|Pyongyang|91|平壤|h|ピョンヤンとワシントンの間で何らかの妥協に至ることが不可欠だ。||It is essential that some kind of compromise be reached between Pyongyang and Washington.
 ピリピリ|ピリピリ|with a sting, with a tingle, with a burn|91|刺痛；辣得刺痛；緊張|h|試験の前、トムがピリピリしてたんだ。||Tom was nervous before the exam.
@@ -20097,7 +20097,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ブリキ|ブリキ|tin plate|91|馬口鐵；鐵皮|h|銀とブリキの区別がつきますか。|能分辨銀和馬口鐵嗎？|Do you know the difference between silver and tin?
 ブリーチ|ブリーチ|bleach, bleaching|91|漂白|b|美容院でヘアブリーチしてもらわなきゃ。||I need to get my hair bleached at the salon.
 ブローカー|ブローカー|broker|91|經紀人|b|ブローカーは円高のおかげで大もうけしました。||Brokers made a killing because of the high yen.
-ブースト|ブースト|boost|91|提振|b|||
+ブースト|ブースト|boost|91|提升；助推|v|||
 プレイボーイ|プレイボーイ|playboy|91|花花公子|b|||
 プロペラ|プロペラ|propeller|91|推進器；螺旋槳|b|ジェット機はプロペラ機よりもずっと速い。||Jet planes fly much faster than propeller planes.
 ヘアスタイル|ヘアスタイル|hairstyle|91|髮型|h|彼女はヘアスタイルを変えた。||She has altered the way she does her hair.
@@ -20161,14 +20161,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 仏壇|ぶつだん|Buddhist altar|91|佛壇|h|||
 休眠|きゅうみん|dormancy, quiescence, diapause|91|休眠；休止|h|||
 伸し|のし|stretching, sidestroke|91|伸展|b|||
-位相|いそう|phase, topology|91|段落；相位|b|||
+位相|いそう|phase, topology|91|相位；拓撲|v|||
 体外|たいがい|ectogenesis, outside the body|91|體外|h|体外離脱を経験したことってある？||Have you ever had an out-of-body experience?
 体長|たいちょう|length, body length|91|體長；長度|a|||
 併記|へいき|writing side by side, writing together, writing both|91|並列記述；併記|h|||
 使いこなす|つかいこなす|to handle, to master, to manage|91|辦事；處置|b|彼は英語をうまく使いこなす。||He has a good command of English.
 使い手|つかいて|user, consumer, employer, master|91|用戶；使用者|b|||
 係員|かかりいん|person in charge, official, attendant|91|負責人|b|そこにいる係員から買ってください。||Please buy it from that official.
-保身|ほしん|self-protection|91|防身|b|||
+保身|ほしん|self-protection|91|明哲保身；自保|v|||
 信徒|しんと|layman, believer, adherent|91|信徒；外行|a|||
 修練|しゅうれん|training, drill, practice|91|修練|a|||
 偶像|ぐうぞう|image, idol, statue|91|偶像；形象|a|||
@@ -20242,9 +20242,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 夢想|むそう|dream, vision, reverie|91|夢想；夢|a|彼は一言で言えば夢想家なのだ。||He is, in a word, a utopian.
 大卒|だいそつ|university graduate, having graduated from university|91|大學畢業；大學畢業生|h|トムの両親は二人とも大卒だ。||Both of Tom's parents went to college.
 大成|たいせい|completion, accomplishment, attainment of greatness or success|91|大成；成就|d|昨日の重役会は大成功だった。|昨天的董事會會議是一個大成功。|Yesterday's board meeting was a big success.
-大理石|だいりせき|marble|91|大理石；彈珠|a|彼らは大理石で像を彫っている。||They are chiseling a statue out of marble.
+大理石|だいりせき|marble|91|大理石|v|彼らは大理石で像を彫っている。||They are chiseling a statue out of marble.
 奉公|ほうこう|live-in domestic service, live-in apprenticeship|91|當學徒；做傭人；效忠|h|彼は息子を仕立屋に奉公に出した。||He bound his son to a tailor.
-奔放|ほんぽう|wild, uninhibited, extravagant|91|野生|b|たまに彼女の自由奔放な態度は無礼に見えることがある。|有時候覺得她放蕩不羈的樣子有失體面。|Sometimes her free manner seems rude.
+奔放|ほんぽう|wild, uninhibited, extravagant|91|奔放；豪放|v|たまに彼女の自由奔放な態度は無礼に見えることがある。|有時候覺得她放蕩不羈的樣子有失體面。|Sometimes her free manner seems rude.
 奥底|おくそこ|depths, deep place, bottom|91|深處；底層|d|心の奥底にしまわれた記憶が突如としてよみがえった。||Memories that had been tucked away in the deepest recesses of my mind suddenly recured to me.
 妖しい|あやしい|mysterious, bewitching, alluring|91|神秘；玄妙|b|||
 子女|しじょ|sons and daughters, children, girl|91|子女；少女|d|彼女は良家の子女のように見えた。||She looked like a daughter of a good family.
@@ -20263,14 +20263,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 寝袋|ねぶくろ|sleeping bag|91|睡袋|b|||
 対馬|たいま|playing on equal terms, having no handicap for either player|91|對馬；勢均力敵|h|||
 専政|せんせい|autocracy|91|專制；專權|b|||
-小道|こみち|path, lane|91|路徑|b|野原の間に１本の小道があります。||There is a path through the fields.
+小道|こみち|path, lane|91|小路；小徑|v|野原の間に１本の小道があります。||There is a path through the fields.
 尺度|しゃくど|gauge, standard, measure, length|91|尺度；標準|d|米国人は、人が稼ぐ金額をその人の能力を測る尺度にするといわれている。|據說美國人把一個人的收入視為評判他能力的重要尺度。|Americans are said to regard the amount of money a man makes as a criterion of his ability.
 屋根裏|やねうら|attic, loft|91|閣樓；屋頂下|d|屋根裏にほこりがたまっていた。|閣樓上積了灰。|Dust had accumulated in the attic.
 山菜|さんさい|edible wild plants|91|山菜|h|見て！「わらび」を売ってるよ。山菜が採れる季節ね。||Look! They're selling Warabi. It must be harvesting season.
 山賊|さんぞく|bandit, brigand|91|山賊；暴徒|a|山賊がその村を襲った。||The bandits made a raid on the village.
 岩国|いわこく|Iwanami Kokugo Jiten|91|岩國|h|||
 巡洋艦|じゅんようかん|cruiser|91|巡洋艦|a|||
-希薄|きはく|thin, weak, dilute, lacking|91|瘦；稀薄|b|今日オゾン層は希薄になりつつある。||Today the ozone layer is thinning.
+希薄|きはく|thin, weak, dilute, lacking|91|稀薄；淡薄|v|今日オゾン層は希薄になりつつある。||Today the ozone layer is thinning.
 帰郷|ききょう|homecoming, return to one's home|91|返鄉|h|その電報は彼女を帰郷させるための手であった。||The telegram was a trick to get her to come home.
 常任|じょうにん|standing, regular, permanent|91|常任|a|||
 幕開け|まくあけ|rise of the curtain, opening of a play, beginning|91|開頭；朔|b|これは新時代の幕開けです。||This is the beginning of a new era.
@@ -20287,7 +20287,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 彩る|いろどる|to colour, to color, to paint, to apply make-up|91|裝點；上色；化妝|d|秋の夜空を彩る「サプライズ花火」は、私たちに笑顔を届けてくれました。||The surprise fireworks colouring the autumn sky brought smiles to our faces.
 往年|おうねん|years gone by, earlier years, former years|91|往年；往昔|h|||
 待ち伏せ|まちぶせ|ambush, lying in wait for an ambush|91|埋伏；伏擊|b|彼を待ち伏せる一計を案じた。||He has a plan to ambush him.
-御坊|ごぼう|temple, monk's quarters, monk|91|廟；寺廟|b|御坊ちゃんに幸あれ。||All our best to that little boy.
+御坊|ごぼう|temple, monk's quarters, monk|91|寺廟；和尚|v|御坊ちゃんに幸あれ。||All our best to that little boy.
 心療内科|しんりょうないか|psychosomatic medicine|91|身心內科|h|||
 忌避|きひ|evasion, avoidance, shirking, recusation|91|迴避；逃避|h|||
 思い浮かべる|おもいうかべる|to remember, to recall, to call to mind, to imagine|91|記得；記住|b|家族のことを思い浮かべるといえが恋しくなる。||I feel homesick when I remember my family.
@@ -20320,7 +20320,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 改心|かいしん|reforming, mending one's ways, turning over a new leaf|91|改過自新；悔改|h|父は私に改心するように言った。||Father told me to reform myself.
 放尿|ほうにょう|urination|91|排尿；小便|h|||
 敬愛|けいあい|respect and affection, love and respect|91|敬愛|h|敬愛するおばあちゃんがいなくて寂しい。||We miss our dear grandmother.
-敬称|けいしょう|honorific title, honorific term of address|91|尊號|b|||
+敬称|けいしょう|honorific title, honorific term of address|91|敬稱|v|||
 数珠|じゅず|rosary, string of prayer beads|91|數珠|a|交通渋滞で、車が数珠つなぎでした。||The traffic was very heavy. The cars were lined up bumper to bumper.
 敵う|かなう|to match, to be a match for, to rival|91|相符；相稱|b|物理で彼に敵う者はいない。||When it comes to physics, no one comes close to him.
 文中|ぶんちゅう|in the sentence, in the text, Bunchū era|91|文中；文章之中|h|彼女の論文中のデータは我々の目的をおし進めるのに役立つ。||The data in her paper serves to further our purpose.
@@ -20338,21 +20338,21 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 春季|しゅんき|spring season|91|春季|h|||
 時短|じたん|reduction in working hours, reduction in business hours|91|縮短工時；縮短營業時間|h|このアプリは家事の時短に役立つ。||This app helps save time on household chores.
 景勝|けいしょう|picturesque scenery, place of scenic beauty|91|名勝；風景名勝|h|||
-暖|だん|warming, warmth|91|暖化|b|この国の人口はだんだん減っている。|這個國家的人口正在逐漸減少。|The population of this country is gradually decreasing.
+暖|だん|warming, warmth|91|溫暖；暖氣|v|この国の人口はだんだん減っている。|這個國家的人口正在逐漸減少。|The population of this country is gradually decreasing.
 暗躍|あんやく|secret manoeuvres, operating behind the scenes|91|暗中活動；幕後操縱|h|支配人の背後で暗躍した。||He acted behind the manager's back.
 曲調|きょくちょう|melody, tune|91|曲調；旋律|a|||
 更迭|こうてつ|change, reshuffle, shake-up|91|更迭；改變|a|田中前外相の更迭に続く政治混乱がその象徴である。||The dismissal of foreign minister Tanaka is symbolic of the continuing political turmoil.
-書簡|しょかん|letter, note, epistle|91|書簡；字|a|||
+書簡|しょかん|letter, note, epistle|91|書信；書簡|v|||
 替え歌|かえうた|parody, new lyrics to an old melody, song parody|91|改編歌詞；戲仿歌曲|h|||
 月夜|つきよ|moonlit night|91|月夜|a|子供たちは月夜に踊るひなぎくを見ることができませんでした。||The children failed to see the daisies dancing in the moonlight.
 月見|つきみ|moon viewing|91|賞月|h|明日、月見の会があるだろう。||They will have a moon-viewing party tomorrow.
 有意|ゆうい|significant, meaningful, intentional|91|有意；有意義的|h|余暇の時間は有意義に過ごしたいです。|我想要有意義地度過閒暇時間。|I want to spend my free time wisely.
 服飾|ふくしょく|clothing and accessories, attire|91|服飾；服裝配件|h|||
-木の実|きのみ|fruit of a tree, nut, berry|91|堅果|b|リスは忙しく木の実を集めていた。||The squirrel was busy gathering nuts.
+木の実|きのみ|fruit of a tree, nut, berry|91|樹果；堅果|v|リスは忙しく木の実を集めていた。||The squirrel was busy gathering nuts.
 木場|きば|lumberyard|91|木材場；木材堆置場|h|||
 木馬|もくば|wooden horse, rocking horse, vaulting horse|91|木馬|a|||
 未払い|みはらい|unpaid, overdue|91|未付款；拖欠|h|未払い給料の受取りを諦めました。||I gave up on receiving the unpaid salary.
-本堂|ほんどう|main hall, main temple|91|庭|b|||
+本堂|ほんどう|main hall, main temple|91|正殿；本堂|v|||
 本戦|ほんせん|final selection|91|正賽；決賽|h|||
 札束|さつたば|bundle of banknotes, stack of bills, large sum of money|91|一疊鈔票；大筆金錢|h|そこには札束がいくつも入っていた。||There were bundles and bundles of cash.
 来た|きた|all right, let's do this!, you got it!, it's here!|91|來了；好|h|彼女はカナダから私に会いに来た。|她從加拿大來看我。|She came from Canada to see me.
@@ -20367,7 +20367,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 権益|けんえき|rights and interests|91|權益|h|||
 横丁|よこちょう|bystreet, side street, back street|91|小巷；小街道|h|||
 横取り|よこどり|snatching, stealing, seizure|91|搶奪；霸佔|h|彼女ね、私の彼氏を横取りしようとしたのよ。||She tried to steal my boyfriend.
-正す|ただす|to correct, to rectify, to reform, to straighten|91|不錯；然|b|誤りを訂正するほうが賢明であろう。||You would do well to correct your mistakes.
+正す|ただす|to correct, to rectify, to reform, to straighten|91|糾正；端正|v|誤りを訂正するほうが賢明であろう。||You would do well to correct your mistakes.
 正装|せいそう|full dress, formal dress, uniform|91|正裝|a|私達は正装しなければなりませんか。||Must we dress up?
 死闘|しとう|life or death struggle, mortal combat, struggle to the death|91|死戰；拼死搏鬥|h|||
 残党|ざんとう|remnants, survivors, refugees|91|餘黨|b|||
@@ -20382,7 +20382,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 水辺|みずべ|water's edge, waterside, shore|91|水邊|a|もし水辺にすむのなら子供たちに泳ぎを教えられるよ。||If you live near water, you should teach your children to swim.
 治験|ちけん|clinical trial|91|臨床試驗|h|||
 法師|ほうし|Buddhist priest, bonze, layman dressed like a priest|91|法師；和尚|h|それは高い木の影法師にすぎなかった。||It was nothing but the shadow of a tall tree.
-波止|はと|breakwater, mole, seawall|91|磯|b|そのボートは波止場につながれていた。||The boat was alongside the quay.
+波止|はと|breakwater, mole, seawall|91|防波堤；碼頭|v|そのボートは波止場につながれていた。||The boat was alongside the quay.
 泥沼|どろぬま|bog, marsh, swamp, quandary|91|泥沼|a|私たちは書類事務の泥沼に陥っていた。||We were bogged down in a morass of paperwork.
 注視|ちゅうし|gazing steadily at, observing closely, maintain a watch over|91|注視；密切觀察|h|警察は山田の挙動を注視している。||The police are closely watching Yamada's behaviour.
 海中|かいちゅう|in the sea|91|海中；海裡|h|その船はインドに向けて航海中だ。||The ship is at sea for India.
@@ -20396,7 +20396,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 溺死|できし|death by drowning|91|溺死|h|彼は危うく溺死するところだった。||He was almost drowned.
 滝川|たきがわ|rapids|91|瀧|b|||
 漂白|ひょうはく|blanching, bleaching|91|漂白|h|||
-演目|えんもく|program, programme|91|綱領；應用程序|b|||
+演目|えんもく|program, programme|91|劇目；節目|v|||
 演者|えんじゃ|presenter, speaker, performer|91|表演者；演出者|d|講演者は節約の必要を強調した。||The speaker stressed the need for thrift.
 潜性|せんせい|recessive|91|隱性|d|||
 瀬戸内海|せとないかい|Seto Inland Sea, Inland Sea|91|瀨戶內海|h|||
@@ -20446,7 +20446,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 節分|せつぶん|setsubun, last day of winter in the traditional Japanese calendar on which a bean scattering ceremon|91|節分；立春前夜|h|節分には、二つの季節を分けるという意味があります。||Setsubun means "the day between two seasons."
 納付|のうふ|payment, supply|91|繳納|h|授業料は本月２５日限り納付の事。||Tuition fees must be paid not later than the 25th of this month.
 純真|じゅんしん|pure, innocent, naive|91|純；純粹|b|メアリーは純真な学生です。||Mary is an ingenuous student.
-素振り|そぶり|behavior, behaviour, manner|91|品行|b|||
+素振り|そぶり|behavior, behaviour, manner|91|舉動；空揮|v|||
 素晴らしき|すばらしき|magnificent, wonderful|91|華；華美|b|素晴らしき日をお迎えください。||All the best wishes on this wonderful day.
 細々|こまごま|minutely, in detail, with particular attention|91|詳細；瑣細；微薄|d|彼は細々とおもちゃやをやっている。||He keeps a toyshop in a small way.
 細心|さいしん|meticulous, careful, discreet|91|縝密|b|彼は細心の注意を払ったが、それでも間違えた。||He took great care, yet he made a mistake.
@@ -20456,7 +20456,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 緊迫|きんぱく|tension, strain|91|張力|b|第３世界の貧困問題は緊迫している。||The issue of Third World poverty is very pressing.
 総計|そうけい|total, sum total, total amount|91|總計；總額|a|入場料は総計２５００ドルになった。||Admission charges aggregated $2500.
 縁組|えんぐみ|forming a familial relationship|91|承繼|b|縁組は天でなされる。||Marriage is made in heaven.
-繰り出す|くりだす|to draw, to let out|91|引；平手|b|今日は街へ繰り出すぞ！||I'm going downtown today.
+繰り出す|くりだす|to draw, to let out|91|派出；使出|v|今日は街へ繰り出すぞ！||I'm going downtown today.
 罪状|ざいじょう|crime, charge|91|罪行；罪惡|b|罪状は殺人らしいが、詳しい事は口に出そうとしない。||His criminal record is apparently for murder, but he won't start to talk about the details.
 美麗|びれい|beautiful, gorgeous|91|美麗；美|a|||
 義姉|ぎし|sister-in-law|91|嫂嫂；大姨子|d|メアリーはトムの義姉です。||Mary is Tom's stepsister.
@@ -20483,7 +20483,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 蝉声|せんせい|cicada singing|91|蟬鳴|h|||
 血小板|けっしょうばん|platelet, thrombocyte|91|血小板|h|||
 血清|けっせい|serum, blood serum|91|血清|a|||
-行きつけ|いきつけ|regular, usual, favourite|91|正規；有序|b|近所に行きつけの店があるから、今日はそこでランチを食べよう。||There's a restaurant nearby that I often go to. Let's have lunch there today.
+行きつけ|いきつけ|regular, usual, favourite|91|常去的|v|近所に行きつけの店があるから、今日はそこでランチを食べよう。||There's a restaurant nearby that I often go to. Let's have lunch there today.
 行き着く|いきつく|to arrive, to reach|91|至；到來|b|人はそれぞれ異なる道を進んでも、行き着く先は一つだ。||Although each person follows a different path, our destinations are the same.
 装う|よそおう|to dress, to attire oneself in, to adorn|91|服裝；著裝|b|時々周りで起きていることに無関心を装う。||He sometimes affects indifference to what's happening around him.
 裏付ける|うらづける|to support, to back up, to substantiate|91|支；架|b|私の意見を裏付ける証拠はたくさんある。||I have a couple of pieces of evidence to support my opinion.
@@ -20491,9 +20491,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 要人|ようじん|important person|91|要人|a|弟は超重要人物だ。すくなくとも奴はそう思っている。|我弟弟非常重要。至少他認為他是。|My brother is very important. At least he thinks he is.
 見せつける|みせつける|to make a display of, to show off, to flaunt|91|賣弄；逞|b|||
 見向き|みむき|looking towards, taking notice, showing interest|91|回頭看；理睬|h|彼女はその申し出に見向きもしない。||She won't even look at the offer.
-見張り|みはり|watch, guard, lookout|91|錶；收看|b|２人の男が見張りをしていた。||Two men kept guard.
+見張り|みはり|watch, guard, lookout|91|監視；守衛|v|２人の男が見張りをしていた。||Two men kept guard.
 託す|たくす|to entrust with, to leave with someone, to place under someone's care|91|託付；寄託|h|彼は弁護士にその書類を託すことにした。||He decided to trust the lawyer with the document.
-訴追|そつい|prosecution, indictment, impeachment|91|檢方；控方|b|||
+訴追|そつい|prosecution, indictment, impeachment|91|起訴；追訴|v|||
 護身|ごしん|self-protection, self-defence|91|防身|b|彼女は護身術の夜間講座を取った。|她在夜校上自衛術課程。|She took night classes in the art of self-defense.
 護送|ごそう|escort, convoy|91|護送|a|||
 讃岐|さぬき|Sanuki|91|讚岐|h|||
@@ -20505,7 +20505,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 踏み出し|ふみだし|rear step out|91|踏出；起步|h|両者は解決に向かって一歩踏み出した。||Both parties took a step towards a solution.
 身辺|しんぺん|one's person, around one's person|91|身邊；周圍|h|彼は自分の身辺を整理した。||He put his affairs in order.
 転身|てんしん|changing|91|轉行；改變|h|||
-辛辣|しんらつ|bitter, sharp, biting|91|苦；嚴酷|b|||
+辛辣|しんらつ|bitter, sharp, biting|91|辛辣；尖刻|v|||
 近距離|きんきょり|short distance, close range|91|近距離；短距離|a|||
 追いつく|おいつく|to catch up, to draw level, to pull even|91|追上；趕上|h|急げば彼に追いつくでしょう。|再快點就會追上他了吧。|If you hurry, you'll catch up with him.
 追い風|おいかぜ|tailwind, fair wind, favorable wind|91|順風；助力|h|追い風の時に帆を上げよ。||Hoist your sail when the wind is fair.
@@ -20517,7 +20517,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 通年|つうねん|all year, year round|91|全年；一整年|h|ハワイで通年航行中できます。||In Hawaii, you can cruise all year round.
 連投|れんとう|pitching in consecutive games, making multiple posts|91|連續投球；接連發文|h|||
 遊び場|あそびば|playground, play space|91|操場；遊樂場|b|子どもと遊び場の関係は葉と森林の関係と同じである。||Children are to the playground what leaves are to the forest.
-適う|かなう|to suit, to serve, to meet|91|一套；西裝|b|||
+適う|かなう|to suit, to serve, to meet|91|符合；適合|v|||
 選任|せんにん|nomination, selection, election|91|選任；選出|h|かつての鑑定人の選任は非常に不明朗でした。||The old selection process for judges was very unfair.
 邦人|ほうじん|Japanese national, fellow countryman|91|日本人；本國人|h|子供はみんな異邦人だ。||Children are all foreigners.
 酷評|こくひょう|severe criticism, sharp criticism, scathing criticism|91|嚴厲批評；苛評|h|||
@@ -20554,23 +20554,23 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 黙認|もくにん|tacit approval, tacit permission, connivance|91|默認|a|どうして君はそのような行いが黙認できるのだろうか。||How can you tolerate such a deed?
 ２月|にがつ|February, second month of the lunar calendar|91|二月|d|クリスマスは１２月２５日です。|十二月二十五號聖誕節。|Christmas is on December twenty-fifth.
 あいこ|あいこ|draw, tie, quits|91|引；平手|b|私が１ドル払えば、おあいこでしょ。||If I pay you a dollar, we'll be even.
-あたら|あたら|alas, regrettably, to my great regret|91|嗚呼|b|天気予報はめったにあたらない。||Weather reports rarely come true.
+あたら|あたら|alas, regrettably, to my great regret|91|可惜；白白地|v|天気予報はめったにあたらない。||Weather reports rarely come true.
 あはは|あはは|a-ha-ha|91|哈哈|h|あははは、ほんっと、隠し事するのが苦手なんだね～。||A-hahaha, you really are bad at keeping secrets.
 あへん|あへん|opium|91|鴉片|b|あへん法により、ケシの栽培や所持等は禁止されています。||According to the Opium Control Act, the cultivation or possession of opium is prohibited.
 いさ|いさ|I don't know, who knows|91|不知道；誰知道|h|君はここに座っていさえすればいい。|你只要坐在這兒就行了。|All you need to do is just sit here.
 いびつ|いびつ|distorted, crooked, irregular, oval|91|歪扭；不規則；橢圓|d|いびつな野菜はお嫌いですか？||Do you hate misshapen vegetables?
-いぶき|いぶき|Chinese juniper|91|柏樹；刺柏|d|||
+いぶき|いぶき|Chinese juniper|91|檜柏；氣息|v|||
 いわし|いわし|pilchard, sardine|91|沙丁魚；鯷魚|d|||
 うろ覚え|うろおぼえ|faint memory, vague memory, dim memory|91|模糊的記憶|h|そのことはうろ覚えに覚えてはいる。||I have a faint recollection of the event.
 えせ|えせ|false, pseudo-, quasi-|91|偽；虛偽|b|||
 おごり|おごり|luxury, extravagance, treat|91|奢侈；請客|h|いいえ、それは私のおごりです。||No, no, it's on me.
 おとぎ話|おとぎばなし|fairy tale, fairy story, nursery tale|91|童話故事|b|少女はおとぎ話を読むのに夢中だった。||The little girl was absorbed in reading a fairy tale.
-お墨付き|おすみつき|certificate, certified document, authorization|91|證；證明書|b|芽衣さんのお墨付きがもらえるなんて、すごく嬉しいです。||I'm really happy to receive Mei's endorsement.
+お墨付き|おすみつき|certificate, certified document, authorization|91|官方許可；保證|v|芽衣さんのお墨付きがもらえるなんて、すごく嬉しいです。||I'm really happy to receive Mei's endorsement.
 お蔵|おくら|shelving, closing down, cancelling|91|擱置；封存；停止|h|||
 かまきり|かまきり|praying mantis|91|螳螂|d|||
 からくり|からくり|mechanism, machinery, contrivance, trick|91|機構；機制|b|||
 くるり|くるり|turning around, suddenly|91|突然轉身；一轉身|h|||
-ぐいぐい|ぐいぐい|without hesitation, with great optimism, vigorously|91|毅然決然|b|彼の力強い演説は聴衆をぐいぐいひっぱっていった。||His powerful speech carried the audience with him.
+ぐいぐい|ぐいぐい|without hesitation, with great optimism, vigorously|91|使勁地；毫不猶豫地|v|彼の力強い演説は聴衆をぐいぐいひっぱっていった。||His powerful speech carried the audience with him.
 こそこそ|こそこそ|sneakily, secretly, stealthily|91|偷偷摸摸；鬼鬼祟祟|h|さっきから何を二人でこそこそやってるの？||What have you two been sneaking around for?
 これこれ|これこれ|this and that, such and such|91|這樣那樣；某某|h|||
 ごま油|ごまあぶら|sesame oil|91|香油|b|４．中華鍋にごま油を熱してバターを溶かす。||4. Heat the sesame oil in the wok and melt the butter.
@@ -20588,7 +20588,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 はいはい|はいはい|crawling|91|爬行；好好|h|その赤ん坊ははいはいしている。||The baby is crawling.
 はみ出し|はみだし|sticking out, jutting out, protruding|91|超出；突出；溢出|h|||
 ひえ|ひえ|barnyard millet, Japanese millet, sanwa millet|91|稗；稗子|d|水はひえひえだよ。||The water is icy.
-ひつ|ひつ|chest, coffer, rice tub|91|心裡；胸|b|ひつじは我々に羊毛を供給する。||Sheep provide us with wool.
+ひつ|ひつ|chest, coffer, rice tub|91|櫃子；箱子|v|ひつじは我々に羊毛を供給する。||Sheep provide us with wool.
 ひらがな|ひらがな|hiragana, cursive Japanese syllabary used primarily for native Japanese words|91|平假名|d|ひらがなって手書きできる？||Can you write hiragana?
 ふらっと|ふらっと|aimlessly, by chance, accidentally|91|隨意；漫不經心地；偶然|d|昨日の夜、彼はふらっと私の家を訪ねてきた。||He dropped in at my house last night.
 ぶゆ|ぶゆ|black fly, gnat|91|蠓；小黑蚊|h|||
@@ -20611,7 +20611,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 イット|イット|"it", sex appeal|91|魅力；性感；它|d|||
 イングリッシュ|イングリッシュ|English, English|91|英語；英格蘭的|d|プレインイングリッシュは語学習得の近道です。||Plain English is a shortcut to the goal of language learning.
 インサイド|インサイド|inside, inside|91|內；裡面|b|||
-インスパイア|インスパイア|to inspire, inspiration|91|授意|b|||
+インスパイア|インスパイア|to inspire, inspiration|91|啟發；靈感|v|||
 ウェイトレス|ウェイトレス|waitress|91|女服務生|h|ウェイトレスはジュースを私の前に置いた。||The waitress set a glass of juice in front of me.
 ウェルカム|ウェルカム|welcome|91|歡迎；迎來|b|||
 ウェーブ|ウェーブ|wave, wave|91|波；揮|b|ハワイのビーチはビッグウェーブで有名だよ。||The beaches in Hawaii are famous for their huge waves.
@@ -20645,7 +20645,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 コバルト|コバルト|cobalt, cobalt blue|91|鈷|b|||
 コミット|コミット|committing, commitment, involvement|91|提交；承諾；投入|d|||
 コロシアム|コロシアム|Colosseum, coliseum|91|競技場；羅馬競技場|h|||
-コンスタント|コンスタント|constant, steady, constant|91|不變；常數|b|||
+コンスタント|コンスタント|constant, steady, constant|91|持續；常數|v|||
 コンドル|コンドル|condor|91|禿鷹；安第斯神鷹|h|コンドルは動物園では決して育たない。||Condors have never bred in zoos.
 コンビニエンスストア|コンビニエンスストア|convenience store|91|便利店；便利商店|b|私はコンビニエンスストアの近くに住んでいます。||I live close to a convenience store.
 ゴタゴタ|ゴタゴタ|trouble, difficulties, dispute, confusion|91|紛亂；糾紛；混亂|d|彼の発言がゴタゴタを起こした。||His remark gave rise to trouble.
@@ -20683,7 +20683,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タンブラー|タンブラー|tumble dryer, tumbler, tumbler dryer, drinking cup|91|烘乾機；玻璃杯|h|||
 タール|タール|tar|91|焦油|b|トムはエメンタールチーズが好きだ。||Tom likes Swiss cheese.
 ダンディ|ダンディ|dandy, fop, esthete|91|紳士；時髦男子|h|||
-チャーター|チャーター|charter|91|憲章|b|私たちはバスをチャーターした。||We chartered a bus.
+チャーター|チャーター|charter|91|包租；憲章|v|私たちはバスをチャーターした。||We chartered a bus.
 チャーミング|チャーミング|charming|91|迷人；可愛|d|今日はとてもチャーミングだね。||You look very charming today.
 チューリッヒ|チューリッヒ|Zürich, Zurich|91|蘇黎世|h|チューリッヒはロンドンに次ぐ世界第二位の金市場である。|蘇黎世是僅次於倫敦的世界排行第二名的黃金市場。|Zurich is the second largest gold market in the world after London.
 チョン|チョン|Korean, idiot|91|朝鮮人；蔑稱；笨蛋|h|クエスチョンマークは句読点です。||A question mark is a punctuation mark.
@@ -20732,7 +20732,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 プレイステーション|プレイステーション|PlayStation|91|索尼遊戲主機|h|その子はプレイステーションの新しいソフトが欲しいとだだをこねた。||When the kid wanted the latest PlayStation software, he acted like a spoiled child.
 プレイリスト|プレイリスト|playlist|91|播放清單|h|あれ？この曲・・・。プレイリストが一周してるな。||Eh? This tune ... The playlist has looped.
 プレゼンテーション|プレゼンテーション|presentation|91|簡報|b|立て板に水の如きプレゼンテーション、おそれ入りました。|這場滔滔不絕的簡報，讓人甘拜下風。|Your presentation was so smooth and fluent - what can I say?
-プードル|プードル|powder, flour|91|粉；麵子|b|||
+プードル|プードル|powder, flour|91|貴賓犬|v|||
 ヘリウム|ヘリウム|helium|91|氦；氦氣|b|||
 ヘルニア|ヘルニア|hernia|91|疝氣；椎間盤突出|d|椎間板ヘルニアをわずらっています。||I have a slipped disc.
 ベター|ベター|better, preferable|91|更好的|h|||
@@ -20772,7 +20772,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 レガシー|レガシー|legacy, inheritance, bequest, legacy|91|遺產；傳承|d|||
 レクリエーション|レクリエーション|recreation, re-creation|91|娛樂；休閒活動|d|スキーをすることは良いレクリエーションである。||Skiing is a good form of recreation.
 ロンド|ロンド|rondo|91|迴旋曲|h|彼女はロンドンからパリへ行った。|她從倫敦去了巴黎。|She went from London to Paris.
-ローバー|ローバー|Rover, Lauber|91|流浪者|b|メグは四つ葉のクローバーを見つけた。|梅格發現了四片葉子的三葉草。|Meg found a four leaf clover.
+ローバー|ローバー|Rover, Lauber|91|流浪者；荒原路華|v|メグは四つ葉のクローバーを見つけた。|梅格發現了四片葉子的三葉草。|Meg found a four leaf clover.
 ローマ帝国|ローマていこく|Roman Empire|91|羅馬帝國|d|神聖ローマ帝国は１８０６年に終わりを告げた。||The Holy Roman Empire came to an end in the year 1806.
 一丸|いちがん|one lump, one body, one group|91|團結一致；合為一體|h|世界が一丸となって気候変動の問題に取り組む必要がある。||The whole world needs to tackle the problem of climate change together.
 一人っ子|ひとりっこ|only child|91|獨生子女|b|私一人っ子がよかった。|我要是個獨子就好了。|I wish I were an only child.
@@ -20849,7 +20849,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 君が代|きみがよ|Imperial reign, Kimigayo|92|君之代|h|もし彼が来られない場合、君が代わりをしなければならない。||You will have to take his place in case he cannot come.
 命日|めいにち|anniversary of a person's death, monthly return of the date of someone's death|92|忌日|h|その石には彼の命日が刻まれていた。||The stone was inscribed with the date of his death.
 和装|わそう|Japanese clothing, being dressed in a kimono|92|和服；穿和服|h|||
-商会|しょうかい|firm, company|92|堅定；果斷|b|||
+商会|しょうかい|firm, company|92|商會；公司|v|||
 啖呵|たんか|caustic words, defiant words|92|咄咄逼人的言辭；罵人的狠話|h|あいつが俺に向かって啖呵を切った。||He hurled defiance at me.
 団員|だんいん|group member|92|團員；組員|a|ボーイスカウトの団員が増えた。||The membership of the Boy Scout troop swelled.
 図師|ずし|instructor, guide, specialist in making diagrams, charts, etc.|92|講師；指導員|b|||
@@ -20870,7 +20870,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 変性|へんせい|denaturation, degeneration|92|變性|a|||
 外界|がいかい|outside world, physical world|92|外界|a|||
 大御所|おおごしょ|leading figure, influential figure, mogul|92|大人物；權威；重鎮|h|||
-失効|しっこう|lapse, abatement, invalidation|92|失誤|b|||
+失効|しっこう|lapse, abatement, invalidation|92|失效|v|||
 奉行|ぶぎょう|magistrate, shogunate administrator|92|判官|b|||
 奔走|ほんそう|running about, making every effort, busying oneself|92|奔走；四處奔波|h|||
 奥行き|おくゆき|depth, length|92|深度；水深|b|間口も広いが奥行きも同様に深い。||It's as deep as it is wide.
@@ -20882,19 +20882,19 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 婚礼|こんれい|marriage ceremony, wedding|92|婚禮|a|イエスも、また弟子たちも、その婚礼に招かれた。||And Jesus and his disciples had also been invited to the wedding.
 嫌疑|けんぎ|suspicion|92|嫌疑；疑心|a|彼に窃盗の嫌疑がかかっている。||He is under suspicion of theft.
 孤島|ことう|solitary island, isolated island|92|孤島|a|俺は絶海の孤島の漂流者。||I am just a castaway on an island lost at sea.
-孤高|ここう|aloof, proudly independent, standing apart|92|無動於衷|b|ニューヨークはただ規模の点で長いこと孤高を保ってきた。||New York City has long been unusual because of its sheer size.
+孤高|ここう|aloof, proudly independent, standing apart|92|孤高；清高|v|ニューヨークはただ規模の点で長いこと孤高を保ってきた。||New York City has long been unusual because of its sheer size.
 学区|がっく|school district, school area|92|學區|a|||
 学名|がくめい|scientific name, binomial name, Latin name|92|學名|a|彼の病気の医学名はＡＬＳである。||The medical name for his disease is ALS.
 官公庁|かんこうちょう|government and municipal offices, public agencies|92|官方及公家機關；政府機關|h|||
 定説|ていせつ|established theory, accepted opinion, accepted explanation|92|定論；公認學說|h|||
-実刑|じっけい|prison sentence|92|徒刑|b|||
+実刑|じっけい|prison sentence|92|實刑；有期徒刑|v|||
 宣教師|せんきょうし|missionary|92|傳教士|b|三人の宣教師が人食い部族に殺され、食べられた。||Three missionaries were killed and eaten by cannibals.
 害悪|がいあく|harm, injury, evil|92|損害；損傷|b|彼女は窃盗の害悪について私に述べた。||She told me about the evils of stealing.
 家柄|いえがら|social standing of a family, lineage, parentage|92|世系|b|彼は金持ちで、その上家柄がよい。||He is rich and, moreover, well-born.
 家業|かぎょう|family business, family trade, one's occupation|92|家業；家傳職業|h|彼に家業を継ぐようにときつけた。||I persuaded him to take on the family business.
 密会|みっかい|secret meeting, clandestine meeting|92|密會|a|私たちは秘密会議を開いた。||We had a secret meeting.
 小判|こばん|koban, small oval gold coin used in the Edo period|92|小判金幣|h|君のせっかくの名講義は猫に小判だったね。||Your wonderful lecture was pearls before swine.
-屈強|くっきょう|robust, brawny, muscular|92|健全；健壯|b|||
+屈強|くっきょう|robust, brawny, muscular|92|健壯；強壯|v|||
 屈服|くっぷく|yielding, submission, surrender|92|屈服|a|ついに彼は屈服した。|他終於投降了。|At last he yielded.
 山地|さんち|mountainous region, mountainous district, hilly district|92|山地|a|彼らは去年の夏は山地の保養地へ行った。||They went to a resort in the mountains last summer.
 山荘|さんそう|mountain villa, mountain retreat, mountain cottage|92|山莊；山中別墅|h|||
@@ -20908,7 +20908,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 広範|こうはん|wide, extensive, comprehensive|92|寬；廣|b|彼の研究は広範囲にわたっている。||His study covers a wide area.
 広義|こうぎ|wide sense, broad sense|92|廣義|a|まあ、広義的には間違っていませんね。||Well, broadly speaking that's right.
 度重なる|たびかさなる|to occur repeatedly, to repeat, to be repeated|92|屢次；反覆發生|h|度重なる失敗をものともせず、宇宙開発計画が進められている。|不顧無以記數的失敗，宇宙開發計劃在繼續推進。|
-引数|ひきすう|argument|92|論點；論調|b|||
+引数|ひきすう|argument|92|參數；引數|v|||
 強打|きょうだ|heavy blow, thump, wallop|92|重擊；猛擊|d|強打者が簡単に凡退した。||The slugger was easily put out.
 弾劾|だんがい|impeachment, denunciation|92|彈劾|h|||
 形見|かたみ|memento, keepsake, heirloom|92|遺物；紀念品|h|この指輪ね、祖母の形見なの。||This ring is a memento from grandma.
@@ -20937,9 +20937,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 我が身|わがみ|myself, oneself, I|92|自身；我自己|d|明日は我が身。||Tomorrow it might be me.
 手すり|てすり|handrail, railing, banister|92|扶手|b|手すりにしっかりつかまりなさい。||Hold on firmly to the handrail.
 手ぶら|てぶら|empty-handed, lapse of manners of paying a visit without taking a gift|92|空手|b|手ぶらで来ない者は歓迎される。||Those who bring something with them are welcome.
-批准|ひじゅん|ratification|92|批准|h|||
+批准|ひじゅん|ratification|92|批准；認可|v|||
 投機|とうき|speculation, venture, stockjobbing|92|推測|b|彼は投機に手を出して財産の大半を失った。||He lost the greater part of his fortune in speculation.
-拘留|こうりゅう|custody, detention, confinement|92|監護權；撫養權|b|警官は彼を拘留した。||The police held him in custody.
+拘留|こうりゅう|custody, detention, confinement|92|拘留|v|警官は彼を拘留した。||The police held him in custody.
 持ち味|もちあじ|inherent flavor, inherent flavour, natural taste|92|特色；本色；特長|h|「当たって砕けよ」が俺の持ち味だからね。||My strong point is my philosophy - nothing ventured nothing gained.
 捲り|めくり|program board, act-announcement sheets|92|節目單；翻開|h|||
 探し出す|さがしだす|to track down, to locate, to find out|92|找出；尋獲|d|彼を探し出す可能性はない。||There is no possibility of our finding him.
@@ -20947,7 +20947,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 擬態|ぎたい|mimicry, mimesis, camouflage|92|擬態|a|||
 散髪|さんぱつ|haircut, hair-cutting, hair-dressing|92|剪頭髮|b|散髪をすべき時だ。|你到了該去理髮的時候了。|It is time you had a haircut!
 敵国|てきこく|enemy nation|92|敵國|h|||
-斐紙|ひし|traditional Japanese paper made from the fibre of plant species Diplomorpha sikokiana|92|斐紙|h|||
+斐紙|ひし|traditional Japanese paper made from the fibre of plant species Diplomorpha sikokiana|92|雁皮紙|v|||
 旅先|たびさき|destination, place one stays during a trip|92|目的地|b|旅先で仕事の話しないでよ。||Don't talk about work. We're on vacation.
 旅客機|りょかくき|passenger plane|92|客機|b|旅客機がアメリカに向けて出発した。||A passenger airplane took off for the USA.
 旧式|きゅうしき|old type, old style|92|舊式|a|この機械は旧式になってしまった。||This machine has gone out of date.
@@ -20985,7 +20985,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 班長|はんちょう|squad leader, group leader, team leader|92|班長|a|ジャスティン班長、亜空間レーダーに反応出ました！||Squad Leader Justin, a blip's appeared on the hyperspace radar!
 球技|きゅうぎ|ball game|92|球類運動|h|私は、野球、バスケットボールなどたくさんの球技をやります。||I play many ball games; baseball, basketball, and so on.
 甘酒|あまざけ|amazake, sweet drink made from fermented rice or sake lees|92|甜酒；米甜酒|h|||
-生い立ち|おいたち|growth, development, one's early life|92|增殖|b|||
+生い立ち|おいたち|growth, development, one's early life|92|成長經歷；身世|v|||
 生き延びる|いきのびる|to survive, to live long|92|存活；倖存|b|全ての生き物は、生き延びるための本能的衝動を持っている。||All forms of life have an instinctive urge to survive.
 生まれながら|うまれながら|by nature, naturally, by birth|92|天生；與生俱來|h|トムは生まれながらのアスリートだ。|湯姆天生就是個運動員。|Tom is a natural athlete.
 生理学|せいりがく|physiology|92|生理學；生理|a|生理学は３単位です。||Human physiology is a three-credit course.
@@ -21002,7 +21002,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 皮紙|ひし|parchment, vellum|92|羊皮紙；皮紙|d|||
 皮脂|ひし|sebum, sebaceous matter|92|皮脂|h|||
 眉墨|まゆずみ|eyebrow makeup, eyebrow pencil, blackened eyebrows|92|眉筆；畫眉墨|d|||
-真先|まさき|the head, the foremost, beginning|92|頭；首|b|||
+真先|まさき|the head, the foremost, beginning|92|最先；首先|v|||
 真拆|まさき|Asiatic jasmine, Asian jasmine|92|亞洲絡石|h|||
 着火|ちゃっか|ignition, catching fire, setting on fire|92|著火；點燃|h|||
 知り合う|しりあう|to get to know each other, to make acquaintance|92|相識；結識|h|有名人と知り合うチャンスがあるかしら。||Do you think we'll get a chance to rub shoulders with any celebrities?
@@ -21042,7 +21042,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 聡明|そうめい|wise, sagacious, intelligent|92|哲；英明|b|彼は聡明だと信じる。|我相信他是個聰明人。|I believe him to be intelligent.
 肉眼|にくがん|naked eye, the physical eye|92|肉眼|a|微粒子は肉眼ではほとんど見えない。||Minute particles are hardly visible to the naked eye.
 股関節|こかんせつ|hip joint, coxa|92|髖關節|d|||
-胸糞|むなくそ|feeling, mood, disgusting|92|情感|b|||
+胸糞|むなくそ|feeling, mood, disgusting|92|心情惡劣；噁心|v|||
 脳裏|のうり|one's mind|92|胸中|b|大学生の頃の思い出が脳裏に浮かぶ。||Memories of my college days come to my mind.
 腐れ|くされ|rotting, spoiling, decaying, rotten|92|腐爛；腐敗|d|そんなに運動神経がいいのにスポーツをやらないなんて、宝の持ち腐れだよ。|運動細胞那麼好，卻不運動，白白浪費天分嘛。|It would be a waste of talent not to play sports despite being so athletic.
 臨海|りんかい|coastal, seaside, oceanfront|92|沿海；海岸|b|||
@@ -21050,7 +21050,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 荷台|にだい|load-carrying tray, luggage carrier, roof rack|92|載貨台；車斗|h|その車には屋根に荷台がついています。||That car has a roof rack.
 荻|おぎ|Amur silvergrass|92|荻草|h|||
 菱|ひし|water caltrop, water chestnut|92|菱|a|彼は悲しみにうちひしがれている。||His heart is broken.
-落ち度|おちど|mistake, error, fault|92|錯；誤|b|それはわたしの落ち度ではなかった。||It wasn't my mistake.
+落ち度|おちど|mistake, error, fault|92|過失；疏漏|v|それはわたしの落ち度ではなかった。||It wasn't my mistake.
 葉巻|はまき|cigar|92|雪茄|b|トムは自分の葉巻に火をつけた。||Tom lit his cigar.
 蒲|かば|common cattail, broadleaf cattail, common bulrush|92|蒲|a|昨日彼のかばんが盗まれた。|昨天他的包被偷了。|His bag was stolen yesterday.
 蕊|しべ|pistil, stamen|92|蕊|a|||
@@ -21064,7 +21064,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 補習|ほしゅう|supplementary lessons|92|補習；補課|h|||
 西方|せいほう|western direction, Western Pure Land|92|西方；西方淨土|h|その島は日本の西方にある。||The island lies to the west of Japan.
 要事|ようじ|important matter, necessary thing, requirement|92|要事|a|重要事項は彼らが決定するのではない。||They don't decide important matters.
-見せ場|みせば|highlight, high point, climax, show-off scene|92|亮點；看點|b|||
+見せ場|みせば|highlight, high point, climax, show-off scene|92|精彩場面；高潮|v|||
 見識|けんしき|views, opinion, discernment, pride|92|見識；眼界|h|我々は時代に一歩先んじた見識を持たねばならない。||We must be a step ahead of the times in our outlook.
 規程|きてい|official regulations, inner rules|92|規程；規章|h|||
 観劇|かんげき|theatre-going, theater-going|92|看戲；觀劇|h|私は観劇中だった。||I was at the theater.
@@ -21074,7 +21074,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 諮問|しもん|consultation, question, enquiry|92|參考；會診|b|顧問は学長を推戴し、本会の重要事項に関し諮問に応じる。||The consultant, who is under the authority of the Chancellor, gives the committee advice on important questions.
 譚歌|たんか|ballad|92|民謠|b|||
 豪邸|ごうてい|magnificent house, luxurious home, palatial residence|92|豪宅|h|この豪邸には寝室が十二もあります。||There are no fewer than a dozen bedrooms in this mansion.
-負け犬|まけいぬ|loser, failure, underdog, unmarried and childless older woman|92|失敗者；輸家|b|負け犬になるわけにはいかない。||I can't stand getting beaten.
+負け犬|まけいぬ|loser, failure, underdog, unmarried and childless older woman|92|敗犬；輸家|v|負け犬になるわけにはいかない。||I can't stand getting beaten.
 財務局|ざいむきょく|finance bureau|92|財務局|h|||
 貸付|かしつけ|loan|92|貸款|b|その貸付金は、８分の利益を生む。||The loan bears an 8% interest.
 賑わい|にぎわい|prosperity, bustle, activity|92|熱鬧；繁榮|h|||
@@ -21221,10 +21221,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ずぶ濡れ|ずぶぬれ|dripping wet, soaked, drenched|92|淋漓|b|ひどい雨でさ、全身ずぶ濡れだよ。今から車で迎えに来てくれない？|我渾身都被雨水給淋溼了。你現在能不能開車來接我？|I'm completely wet because of the heavy rain. Will you come and pick me up with your car?
 せいうち|せいうち|walrus, elephant seal|92|海象|b|||
 せっかち|せっかち|hasty, impatient, restless|92|匆忙|b|トムはちょっとせっかちすぎると思う。|我覺得湯姆有些過於性急了。|I think that Tom is a bit too impatient.
-その上で|そのうえで|moreover, in addition|92|況且；況|b|||
+その上で|そのうえで|moreover, in addition|92|在此基礎上；而且|v|||
 それどころ|それどころ|so much, that much|92|這麼；甚至於|b|「あなたは仕事が気に入っていると思います」「いやそれどころか、嫌いです」|「我相信你很喜歡你的工作。」「不是的，我其實很討厭這份工作的。」|"I think you like your job." "On the contrary, I hate it."
 たそ|たそ|diminutive suffix|92|小稱後綴|h|彼女はモデルだったそうだ。|據說她曾經是一個模特兒。|She is said to have been a model.
-たらし|たらし|seduction, deception, seducer|92|花言巧語者；勾引人|h|彼女は昔金持ちであったらしい。|她看上去像是個曾經很有錢的人。|She appears to have been rich.
+たらし|たらし|seduction, deception, seducer|92|花花公子；欺騙|v|彼女は昔金持ちであったらしい。|她看上去像是個曾經很有錢的人。|She appears to have been rich.
 だんまり|だんまり|silence, keeping silent, taciturnity, giving no notice|92|沉寂；消音|b|||
 ちっぽけ|ちっぽけ|very small, tiny, insignificant|92|小小；甚微|b|彼は山の中のちっぽけな町からやってきた。||He came from a tiny mountain town.
 つきもの|つきもの|natural accompaniment, inseparable pair, something that naturally goes with|92|不可或缺之物；附屬品|h|白ワインは魚料理にはつきものだ。||White wine is the usual companion of fish.
@@ -21322,7 +21322,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 インカ|インカ|inka|92|印加|h|インカ族は幅広い興味を持っていた。||The Incas had a wide range of interests.
 インセンティブ|インセンティブ|incentive|92|誘因；獎勵|d|||
 インタラクティブ|インタラクティブ|interactive|92|互動式|h|ＰＣインタラクティブ社のハリソン氏をご紹介していただけませんでしょうか。||I wonder if it would be possible for you to introduce me to Mr. Harrison of PC Interactive Co. Ltd.
-インテリジェンス|インテリジェンス|intelligence|92|智力|b|||
+インテリジェンス|インテリジェンス|intelligence|92|智慧；情報|v|||
 インプット|インプット|input|92|投放；錄入|b|チケット購入に必要な個人情報をインプットする。||To purchase a ticket, you need to enter your personal details.
 ウィスコンシン|ウィスコンシン|Wisconsin|92|威斯康辛|d|||
 ウガンダ|ウガンダ|Uganda|92|烏干達|d|ウガンダ人は国に収入をもたらすのにコーヒーの収穫に頼っている。||The Ugandans depend on their coffee crop to bring money into the country.
@@ -21346,7 +21346,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 オデッセイ|オデッセイ|Odyssey|92|奧德賽；長途旅程|h|||
 オデュッセイア|オデュッセイア|The Odyssey|92|奧德賽|h|||
 オニオン|オニオン|onion|92|洋蔥|b|得意料理はオニオングラタンスープです。||My specialty is French onion gratin soup.
-オペ|オペ|operation|92|行動；手術|b|メアリーはトムをオペラに誘った。|瑪麗邀請湯姆去欣賞歌劇。|Mary asked Tom to go to the opera with her.
+オペ|オペ|operation|92|手術；操作|v|メアリーはトムをオペラに誘った。|瑪麗邀請湯姆去欣賞歌劇。|Mary asked Tom to go to the opera with her.
 オムニバス|オムニバス|omnibus|92|全集|b|||
 オラオラ|オラオラ|hey!, c'mon!, pushy|92|哎|b|||
 オラクル|オラクル|oracle|92|神諭；神諭者|d|||
@@ -21382,7 +21382,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 キジ|キジ|green pheasant, Japanese green pheasant|92|雉雞|h|何百羽とキジを撃った。||We shot pheasants by the hundred.
 キックオフ|キックオフ|kickoff|92|開球|h|||
 キモヲタ|キモヲタ|creepy geek, disgusting otaku, extreme geek|92|令人厭惡的宅男|h|||
-キャッチボール|キャッチボール|catch, playing catch|92|染上；捉住|b|お父さんとキャッチボールをしたよ。||I played catch with my dad.
+キャッチボール|キャッチボール|catch, playing catch|92|傳接球|v|お父さんとキャッチボールをしたよ。||I played catch with my dad.
 キャッツ|キャッツ|cats|92|貓|h|||
 キャット|キャット|cat|92|貓|b|||
 キャパ|キャパ|capacity|92|量；容量|b|ホールはキャパ一杯だった。||The hall was filled to capacity.
@@ -21466,7 +21466,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ジッパー|ジッパー|zipper, zip, zip fastener|92|拉鍊|b|彼はかばんのジッパーを開けた。||He zipped open his bag.
 ジャイロ|ジャイロ|gyro, gyroscope, gyro|92|陀螺儀|d|||
 ジャカルタ|ジャカルタ|Jakarta|92|雅加達|h|ジャガイモはジャカルタからオランダ人によって伝えられました。||Potatoes were introduced by the Dutch from Jakarta.
-ジャパニーズ|ジャパニーズ|Japanese|92|日本人；日本的|h|||
+ジャパニーズ|ジャパニーズ|Japanese|92|日本人；日語；日本的|v|||
 ジャブ|ジャブ|jab|92|戳|b|サミの娘、ヒジャブしてたわよ。||Sami's daughter wore the hijab.
 ジョイフル|ジョイフル|joyful|92|愉悅；愷|b|||
 ジンギスカン|ジンギスカン|jingisukan, dish of mutton or lamb grilled with vegetables at the table on a domed grill|92|成吉思汗烤羊肉|h|||
@@ -21487,7 +21487,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 スプラッシュ|スプラッシュ|splash|92|潑；濺|b|||
 スペ|スペ|insert a space|92|空格；空白|h|エスペラントの勉強を始めました。|我開始學習世界語了。|I began to learn Esperanto.
 スペード|スペード|spades|92|黑桃|h|スペードはトランプのマークです。||Spades are the trump suit.
-スモーク|スモーク|smoke, smoked|92|抽菸；吸煙|b|スモークソーセージが大好きです。||I love smoked sausages.
+スモーク|スモーク|smoke, smoked|92|煙；煙燻；抽菸|v|スモークソーセージが大好きです。||I love smoked sausages.
 スラング|スラング|slang|92|俚語|b|外国語のスラングを知るのは楽しい。|學習外語裡的俚語很有趣。|It's fun to learn slang words in foreign languages.
 スリット|スリット|slit, slitting|92|狹縫；開衩|d|||
 スルタン|スルタン|sultan|92|蘇丹|b|||
@@ -21499,7 +21499,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 セイコー|セイコー|Seiko|92|精工|h|||
 セイバー|セイバー|Saber, Sabre|92|劍兵；軍刀|d|||
 セグメント|セグメント|segment|92|環節|b|||
-セットアップ|セットアップ|setup, installation, matching two-piece clothes|92|設定；套裝|h|||
+セットアップ|セットアップ|setup, installation, matching two-piece clothes|92|套裝；設定|v|||
 セラミック|セラミック|ceramic|92|陶瓷|h|||
 セリーグ|セリーグ|Central League|92|中央聯盟|h|||
 センチュリー|センチュリー|century, Centuri|92|世紀|b|||
@@ -21525,15 +21525,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ダリア|ダリア|dahlia|92|大麗花|d|ダリアは綺麗な花です。|大麗花是美麗的花。|Dahlias are beautiful flowers.
 ダンベル|ダンベル|dumbbell|92|啞鈴|b|||
 ダヴィンチ|ダヴィンチ|da Vinci|92|達文西|h|モナリザはレオナルド・ダヴィンチによって描かれた。||The Mona Lisa was painted by Leonardo da Vinci.
-チア|チア|cheer, cheerleading|92|助陣|b|チアリーダーの練習はどうなの。||How is cheerleading practice?
+チア|チア|cheer, cheerleading|92|啦啦隊；歡呼|v|チアリーダーの練習はどうなの。||How is cheerleading practice?
 チアリーダー|チアリーダー|cheerleader|92|啦啦隊員|h|チアリーダーの練習はどうなの。||How is cheerleading practice?
 チクチク|チクチク|prickling, stinging, tingling|92|刺痛；刺刺地|h|このセーター、首のところがチクチクする。||This sweater irritates my neck.
 チャイ|チャイ|chai, masala chai|92|印度奶茶；茶|h|トムさんはチャイムを押しました。||Tom rang the doorbell.
 チューハイ|チューハイ|chūhai, shōchū highball, cocktail of shōchū with tonic water|92|燒酎調酒|h|||
 チーク|チーク|teak|92|柚木|h|チークって、４０メートルまで育つことがある落葉樹なんだよ。||The teak is a deciduous tree that can grow to a height of 40 metres.
-ツイスト|ツイスト|twist, twist|92|扭曲；絞|b|ディケンズは『オリバー・ツイスト』の著者です。||Dickens was the author of 'Oliver Twist'.
+ツイスト|ツイスト|twist, twist|92|扭轉；扭扭舞|v|ディケンズは『オリバー・ツイスト』の著者です。||Dickens was the author of 'Oliver Twist'.
 ツモ|ツモ|drawing a tile from the wall, win with a self-drawn tile|92|自摸|h|||
-ツー|ツー|dash|92|突；飛奔|b|画面下にツールバーが見えますか？||Can you see the toolbar at the bottom of the screen?
+ツー|ツー|dash|92|二；內行|v|画面下にツールバーが見えますか？||Can you see the toolbar at the bottom of the screen?
 ティア|ティア|tier|92|階層；層級|h|彼はボランティア活動に専念した。||He devoted himself to the volunteer activity.
 テスラ|テスラ|tesla|92|特斯拉|b|||
 テディーベア|テディーベア|teddy bear|92|泰迪熊|b|||
@@ -21558,17 +21558,17 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 トランジスタ|トランジスタ|transistor|92|晶體管|b|トランジスターの発明は新時代を画した。||The invention of the transistor marked a new era.
 トランポリン|トランポリン|trampoline|92|蹦床|b|||
 トリップ|トリップ|trip, excursion, trip|92|旅遊；旅|b|||
-トリートメント|トリートメント|treatment|92|待遇|b|||
+トリートメント|トリートメント|treatment|92|護髮；治療；對待|v|||
 トルネード|トルネード|tornado|92|龍捲風|b|||
-トレイル|トレイル|trail|92|線索|b|||
+トレイル|トレイル|trail|92|小徑；痕跡|v|||
 トレント|トレント|torrent, torrenting|92|激流；急流|b|||
-トレーダー|トレーダー|trader|92|商販|b|||
+トレーダー|トレーダー|trader|92|交易員；商人|v|||
 トロピカル|トロピカル|tropical, tropical worsted fabric|92|熱帶的；熱帶風|h|どんなトロピカルドリンクがありますか。||What kinds of tropical drinks do you have?
 トート|トート|tote|92|托特包|h|||
 ドカン|ドカン|with a bang|92|轟然一聲|h|ダイナマイトがドカンと爆発した。||The dynamite went off with a bang.
 ドキッと|ドキッと|being startled, getting a shock|92|心頭一震；嚇一跳|h|彼女のクールな視線に、俺はドキッとした。||Her cool gaze made my heart skip a beat.
 ドタキャン|ドタキャン|last-minute cancellation|92|臨時取消|h|ドタキャンくらったの。来週に持ち越しだって。||Got cancelled at the last minute. 'Deferred to next week'.
-ドトール|ドトール|Doutor|92|羅多倫|h|||
+ドトール|ドトール|Doutor|92|羅多倫咖啡|v|||
 ドブン|ドブン|plop, splash|92|撲通；噗通|d|||
 ドリアン|ドリアン|durian, Dorian|92|榴槤|h|そのドリアンは、買いたくないな。||I don’t want to buy that durian.
 ドリー|ドリー|dolly|92|手推車；台車|h|マドリードから来た人たちは変わっている。|從馬德里來的人都很怪。|People from Madrid are weird.
@@ -21616,7 +21616,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 バンドル|バンドル|bundle, bundling|92|捆綁；打包|h|||
 バンビ|バンビ|Bambi, Bambi|92|小鹿斑比|h|||
 バンプ|バンプ|vamp|92|吸血鬼；誘惑女|h|パララックスよりバンプマッピングの方が負荷かかるんですか？||Does bump mapping generate more graphics load than parallax?
-パオ|パオ|batons|92|蒙古包|h|カヤパオを食べるのが好きです。||I love to eat kaya pau.
+パオ|パオ|batons|92|蒙古包；警棍|v|カヤパオを食べるのが好きです。||I love to eat kaya pau.
 パクチー|パクチー|coriander, cilantro, dhania|92|香菜|b|||
 パシャ|パシャ|pasha|92|帕夏|d|||
 パセリ|パセリ|parsley|92|荷蘭芹；巴西利|d|マリアはパセリが苦手なのよ。||Maria doesn't like parsley.
@@ -21643,7 +21643,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ヒ素|ひそ|arsenic|92|砷|b|||
 ビッグバン|ビッグバン|big bang|92|大爆炸|d|||
 ビデオカメラ|ビデオカメラ|video camera, video camcorder|92|攝像機|b|新しいビデオカメラを買うためにバイト探してるんだ。|為了買新攝影機，我在找打工。|I'm searching for a part-time job so that I can buy a new video camera.
-ビュー|ビュー|view|92|視圖|b|彼は首相にインタビューした。||He had an interview with the Prime Minister.
+ビュー|ビュー|view|92|視野；觀看次數|v|彼は首相にインタビューした。||He had an interview with the Prime Minister.
 ビー|ビー|bee, honey bee|92|蜜蜂；蜂|b|私はビールはぜんぜん飲みません。|我從不喝啤酒。|I never touch beer.
 ピクルス|ピクルス|pickles, pickled food|92|醃黃瓜；醃菜|h|冷蔵庫にピクルスの入った瓶がある。||There's a jar of pickles in the fridge.
 ファウスト|ファウスト|Faust|92|浮士德|h|ファウスト博士は、錬金術に精通していた。||Dr. Faust was well versed in alchemy.
@@ -21663,7 +21663,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 フライドポテト|フライドポテト|French fries, chips|92|薯條|b|トムはフライドポテトを調理している。||Tom is making french fries.
 フラミンゴ|フラミンゴ|flamingo|92|紅鶴；火烈鳥|d|至る所でフラミンゴに出会います。||I see flamingos everywhere.
 フランケンシュタイン|フランケンシュタイン|Frankenstein, Frankenstein's monster|92|科學怪人|d|||
-フリック|フリック|flick, flick|92|拂|b|||
+フリック|フリック|flick, flick|92|輕彈；滑動|v|||
 フリンジ|フリンジ|fringe|92|流蘇；邊緣|h|||
 フリース|フリース|fleece|92|抓絨；刷毛布料|h|||
 フロート|フロート|float, pontoon, float|92|浮；漂浮|b|ルートビアフロートはいかがですか？||Would you like a root beer float?
@@ -21725,7 +21725,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 マザーズ|マザーズ|Mothers, Market of the High-growth and Emerging Stocks|92|新興市場|h|||
 マジレス|マジレス|serious reply|92|認真回覆；正經答覆|h|ネタにマジレスするな。||Don't feed the troll!
 マスキング|マスキング|masking|92|遮蔽；掩蔽|h|||
-マッシュ|マッシュ|mash|92|搗碎；蘑菇頭髮型|d|マッシュルームが大好きです。||I love mushrooms.
+マッシュ|マッシュ|mash|92|泥；蘑菇頭|v|マッシュルームが大好きです。||I love mushrooms.
 マッシュルーム|マッシュルーム|common mushroom, white mushroom|92|洋菇|h|マッシュルームが大好きです。||I love mushrooms.
 マッピング|マッピング|mapping|92|映射；地圖繪製|d|パララックスよりバンプマッピングの方が負荷かかるんですか？||Does bump mapping generate more graphics load than parallax?
 マミー|マミー|mammy, mommy|92|媽咪|d|||
@@ -21847,7 +21847,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 三菱重工|みつびしじゅうこう|Mitsubishi Heavy Industries|93|三菱重工|h|||
 上出来|じょうでき|good performance, good work, great success|93|表現優異；做得好|h|上出来でしたね。||You've done a very good job.
 下っ端|したっぱ|underling, person of low standing, grunt|93|下屬；小嘍囉|d|||
-下劣|げれつ|base, mean, vulgar|93|基地；卑鄙|b|そんな下劣なやつとは付き合っていられない。||You must not keep company with such a mean fellow.
+下劣|げれつ|base, mean, vulgar|93|卑劣；下流|v|そんな下劣なやつとは付き合っていられない。||You must not keep company with such a mean fellow.
 下欄|からん|text at the foot of a page, document, screen, etc.|93|下欄；下方欄位|h|注はページの下欄についている。||The notes are at the bottom of the page.
 下腹|したはら|abdomen, stomach, abdominal region|93|腹部；腹|b|下腹部が張ります。||My lower abdomen feels bloated.
 下限|かげん|lower limit, infimum|93|下限；最低限度|h|||
@@ -21933,7 +21933,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 作り直す|つくりなおす|to remake, to rebuild|93|重做；重新製作|h|||
 作務衣|さむえ|samue, monk's working clothes|93|作務衣|h|||
 使い分ける|つかいわける|to use properly, to use for different purposes|93|分別使用；靈活運用|h|アメリカも本音と建前を使い分ける国だ。||America is also a country that separates public actions and statements from private ones.
-俄然|がぜん|suddenly, all of a sudden, abruptly, very|93|俄；霍|b|ウオーッ、みんなの励ましをもらって俄然やる気が出てきたぞ！||All right! Everybody around me is so encouraging I'm getting a rush of motivation.
+俄然|がぜん|suddenly, all of a sudden, abruptly, very|93|突然；猛然|v|ウオーッ、みんなの励ましをもらって俄然やる気が出てきたぞ！||All right! Everybody around me is so encouraging I'm getting a rush of motivation.
 俥|くるま|rickshaw, jinrikisha|93|人力車|b|彼が戻ってくるまでここで待ちます。|我會在這裡等著到他回來的。|Until he comes back, I will wait here.
 倒錯|とうさく|perversion, inversion|93|倒錯；變態|h|エロチックな描写が倒錯的過ぎてこの人の本は俺には合わない。||This author's books don't suit me because the erotic descriptions are too perverted.
 偏頭痛|へんずつう|migraine|93|偏頭痛|a|トムは何年も偏頭痛に苦しんだ。||For years, Tom suffered from migraine headaches.
@@ -22079,18 +22079,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 取っ手|とって|handle, grip, knob|93|辦事；處置|b|彼はドアの取っ手を左手で回した。||He turned the doorknob with his left hand.
 取りやめ|とりやめ|cancellation, suspension|93|取消；作罷|h|君は計画を取りやめたほうがよい。||You had better call off your plan.
 取り手|とりて|recipient, receiver, acceptor, skilled practitioner|93|得主；獲得者|b|||
-受け皿|うけざら|saucer, person to take over a position or matter|93|碟子|b|カップを受け皿の上に置いてください。||Please place the cup on the saucer.
+受け皿|うけざら|saucer, person to take over a position or matter|93|接水盤；承接者|v|カップを受け皿の上に置いてください。||Please place the cup on the saucer.
 口説き|くどき|entreaty, imploring, begging, spoken portion of a song|93|勸說；求愛；曲中唸白|h|||
 古器|こき|antique vessel, antique utensil, antique|93|古器物；古代器皿|h|||
 古希|こき|70th birthday, ancient Greek|93|七十大壽；古稀|h|||
 古強者|ふるつわもの|feudal warrior, samurai, old soldier|93|老將；老練的武士|h|||
 古文|こぶん|ancient writing, classical literature|93|古文；古典文學|d|彼は物置の中で偶然いくつかの古文書を見つけた。||He came across some old documents in the closet.
-古期|こき|old, ancient|93|舊；蒼老|b|||
+古期|こき|old, ancient|93|古期；古代|v|||
 古本屋|ふるほんや|secondhand bookshop, secondhand bookstore, secondhand bookseller|93|舊書店|h|ぼくはこの本を古本屋で見つけた。||I found this book at a second-hand bookshop.
 古臭い|ふるくさい|stale, old fashioned, hackneyed|93|老舊；過時；陳腐|h|お前の考え方は、なんか古臭いよ。||Your opinion is somewhat old-fashioned.
 古記|こき|ancient records|93|古代記錄；古籍|h|||
 古風|こふう|old-fashioned, archaic, antique|93|過時；老式|b|私の母はとても古風なんです。||My mother is really of the old school.
-可否|かひ|propriety, right and wrong, advisability|93|分寸|b|この問題に対して可否の論が色々とあった。||There were a lot of opinions, pro and con, on this question.
+可否|かひ|propriety, right and wrong, advisability|93|可否；是否可行|v|この問題に対して可否の論が色々とあった。||There were a lot of opinions, pro and con, on this question.
 可燃|かねん|inflammable, flammable, combustible|93|可燃|a|||
 右図|うず|the right figure, figure on the right|93|右圖；右邊的圖|h|||
 右端|みぎはし|right end, right edge|93|右端；最右邊|h|五輪旗の右端の輪っかって何色だったっけか？||What color is the far right ring on the Olympic flag?
@@ -22109,7 +22109,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 名指し|なざし|calling by name, designation, nomination|93|點名；指名|h|彼女は彼を名指しで呼んだ。||She called him by name.
 名画|めいが|famous picture, masterpiece, excellent film|93|名畫；傑作|d|とりわけ、彼は名画の鑑識眼がある。||Among other things, he has an eye for good pictures.
 名著|めいちょ|famous book, masterpiece|93|名著|a|||
-吐息|といき|sigh, long breath|93|感嘆；誒|b|それを聞いて安心の吐息をはいた。||I sighed with relief to hear it.
+吐息|といき|sigh, long breath|93|嘆息；氣息|v|それを聞いて安心の吐息をはいた。||I sighed with relief to hear it.
 君子|くんし|man of virtue, wise man, gentleman|93|君子|h|お前も聖人君子じゃないだろう。||You're not a saint, either.
 吸気|きゅうき|inhalation, inhaled air, intake|93|吸氣；進氣|h|||
 吸着|きゅうちゃく|adsorption, adhesion|93|吸附；附著|d|||
@@ -22121,7 +22121,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 呼気|こき|exhaled air, exhalation, expiration|93|呼氣|h|||
 呼起|こき|recollection, calling to mind|93|回想；喚起記憶|h|||
 和え|あえ|food with dressing on it|93|拌料；涼拌菜|h|||
-品格|ひんかく|dignity, quality, grace|93|尊嚴|b|||
+品格|ひんかく|dignity, quality, grace|93|品格；格調|v|||
 哨戒|しょうかい|patrol, patrolling|93|巡邏；巡|b|||
 善行|ぜんこう|good deed, good conduct, benevolence|93|善行；善舉|h|人々に善行を施すのに積極的であれ。||Be active in doing good for people.
 喚問|かんもん|summons|93|傳喚；傳票|b|証人を月曜日に喚問するよう提案します。||I move that the witness be summoned on Monday.
@@ -22211,7 +22211,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 女好き|おんなずき|fondness for women, woman admirer, lustful man|93|好色；愛女色|h|トムは熟女好きなのよ。||Tom likes mature women.
 女学院|じょがくいん|girls college|93|女子學院|h|私の妹は神戸女学院の３回生です。||My sister is a junior at Kobe College.
 好戦|こうせん|belligerence|93|好戰；好鬥|h|||
-好都合|こうつごう|convenient, favorable, favourable|93|便利；便當|b|円高は我が社にとって好都合であった。||The strong yen was advantageous to our company.
+好都合|こうつごう|convenient, favorable, favourable|93|合適；方便|v|円高は我が社にとって好都合であった。||The strong yen was advantageous to our company.
 如来|にょらい|Tathagata, perfected one|93|如來|a|||
 姫君|ひめぎみ|daughter of a person of high rank|93|公主；貴族千金|h|姫君は皇帝に寛恕を請いました。|公主向皇帝請求饒恕。|The princess begged forgiveness from the emperor.
 威勢|いせい|power, might, authority, spirits|93|威勢；權力|a|さあ、駆けつけ三杯、威勢よくぱっといきましょう。||Anybody who shows up late has to chug!
@@ -22250,14 +22250,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 小さじ|こさじ|teaspoon|93|茶匙|d|小さじ？大さじって言わなかった？||Teaspoons? I thought you said tablespoons.
 小夜|さよ|evening|93|晚上；晚|b|||
 小文字|こもじ|lowercase letter, small letter|93|小寫字母|h|小文字で書いてあります。||It's written in lowercase.
-小春|こはる|10th month of the lunisolar calendar, late autumn, late fall|93|深秋|b|||
+小春|こはる|10th month of the lunisolar calendar, late autumn, late fall|93|小陽春；農曆十月|v|||
 小生|しょうせい|I, me, my humble self|93|予；老夫|b|小生のレポートをご高覧に供したいと思います。||I would like to submit my report for your perusal.
-小石|こいし|pebble, small stone|93|鵝卵石|b|そこに八つの小石があった。|那裡有八塊小圓石。|There were eight pebbles there.
+小石|こいし|pebble, small stone|93|小石子|v|そこに八つの小石があった。|那裡有八塊小圓石。|There were eight pebbles there.
 小節|こぶし|undulating melodic ornamentation or embellishment, esp. in folk and popular songs|93|小節；轉音裝飾|h|彼は小節を利かして歌っています。||He is singing with a lot of ornamentation.
 小銃|しょうじゅう|rifle, small arms|93|鎗；步槍|b|||
 小雨|こさめ|light rain, drizzle|93|小雨|a|小雨になりました。開始できます。||The rain has let up, so we can begin.
 少年院|しょうねんいん|reformatory, juvenile training school, reform school|93|少年感化院|h|||
-尾行|びこう|shadow, tail, following|93|陰影；影子|b|トムは探偵に尾行されていると思っている。||Tom thinks that he's being shadowed by a private detective.
+尾行|びこう|shadow, tail, following|93|跟蹤|v|トムは探偵に尾行されていると思っている。||Tom thinks that he's being shadowed by a private detective.
 局地|きょくち|locality, local area, limited area|93|局部地區；局地|h|先週の雪はほんの局地的なものであった。||Last week's snow was limited to a very small area.
 局部|きょくぶ|part, section, affected part|93|局部；部位|a|２時間毎に局部を湿布しなさい。||Apply a compress to the affected part every two hours.
 屏風|びょうぶ|folding screen|93|屏風|h|坊主が屏風に上手に坊主の絵を描いた。||A priest skillfully drew a picture of a priest on a folding screen.
@@ -22281,7 +22281,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 左端|ひだりはし|left end, left edge|93|左端；最左邊|h|上の左端の動物は、竜のつもりでしょう。||The animal in the top left-hand corner is meant to be a dragon.
 左遷|させん|demotion, relegation, reduction in rank|93|貶職；降職|h|彼は部長の娘さんを妊娠させて、左遷されました。||He got the section chief's daughter pregnant and was demoted.
 差し止め|さしとめ|prohibition, ban, suspension|93|禁令；禁制令|b|そのニュースは当分の間差し止めになった。||The news was suppressed for the time being.
-差し込む|さしこむ|to insert, to put in, to thrust in, to come in|93|插；穿插|b|カーテンの隙間から光が差し込む。||Light flows in through a gap in the curtain.
+差し込む|さしこむ|to insert, to put in, to thrust in, to come in|93|插入；照射進來|v|カーテンの隙間から光が差し込む。||Light flows in through a gap in the curtain.
 市外|しがい|outside the city, suburbs|93|市外；郊區|h|市外局番もダイヤルするのですか。||Do I have to dial the area code, too?
 市政|しせい|municipal government|93|市政|h|彼は市政の堕落を暴露した。||He exposed corruption in the city government.
 布置|ふち|arrangement, grouping|93|佈局；條理|b|||
@@ -22298,7 +22298,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 平家|へいけ|Heike family, Taira family, The Tale of the Heike|93|平氏家族；平房|h|驕る平家は久しからず。||Pride will have a fall.
 平時|へいじ|peacetime, time of peace, ordinary times|93|平時；太平時期|h|||
 平衡|へいこう|balance, equilibrium|93|平衡；餘額|a|彼は平衡を失ってはしごから落ちた。|他失去了平衡，從梯子上摔了下來。|He lost his balance and fell off the ladder.
-年会|ねんかい|conference, annual convention|93|座談會|b|あなたは昨年会った時から変わった。||You've changed since I saw you last year.
+年会|ねんかい|conference, annual convention|93|年會|v|あなたは昨年会った時から変わった。||You've changed since I saw you last year.
 年少|ねんしょう|young, juvenile, child in the first year of kindergarten|93|年少；年輕|a|どの少年少女も彼を知っている。||Every boy and girl knows him.
 年来|ねんらい|of long standing, long-pending, long-cherished|93|多年來；長久以來|h|トムとメアリーは3年来の友人だ。||Tom and Mary have been friends for three years.
 年老|としおい|old person|93|老人；年長者|h|彼は、去年老齢の為、なくなった。||He died last year of old age.
@@ -22330,11 +22330,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 後書き|あとがき|afterword, postscript|93|後記；後語|d|||
 従属|じゅうぞく|subordination, dependency|93|從屬；附屬|h|子供は親に従属している。||Children are subject to their parents' rules.
 従文|じゅうぶん|subordinate clause|93|從屬子句|h|||
-得体|えたい|nature, character|93|性；自然|b|何か得体の知れない奴らに襲われてる。||We are being attacked by an unknown enemy.
+得体|えたい|nature, character|93|來歷；本質|v|何か得体の知れない奴らに襲われてる。||We are being attacked by an unknown enemy.
 得手|えて|forte, strong point|93|擅長；拿手|h|誰にでも得手不得手がある。||Everyone has their own strong and weak points.
 得策|とくさく|good policy, wise policy, best plan|93|上策；良策|h|iPhoneは来月新しいのが出るから、今買うのは得策じゃないと思うよ。|iPhone 下個月出新品，所以我覺得現在買不太划算。|There's a new iPhone coming out next month so I think that it's not such a bright idea to buy one now.
 御三家|ごさんけ|three branches of the Tokugawa family|93|御三家；德川家三大分支|h|||
-御上|おかみ|the Emperor, His Majesty, the government|93|皇帝；皇上|b|||
+御上|おかみ|the Emperor, His Majesty, the government|93|皇上；政府當局|v|||
 御嶽|うたき|sacred site, sacred grove|93|御嶽；神聖林地|h|||
 御所|ごしょ|imperial palace, imperial residence, residence of a shogun, minister, etc.|93|皇宮；王宮|b|私は彼を京都御所に連れて行きました。||I took him to the Kyoto Imperial Palace.
 御曹司|おんぞうし|son of a distinguished family, son of a noble|93|貴公子；豪門少爺|h|||
@@ -22370,7 +22370,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 惨殺|ざんさつ|slaughter, massacre|93|慘殺；屠|a|||
 惨状|さんじょう|disastrous scene, terrible spectacle|93|慘狀|h|この惨状はあなたのせいですか？||Are you responsible for this mess?
 意訳|いやく|free translation, liberal translation|93|意譯|a|これは意訳なんかじゃない。飛訳だよ。||This is not a free translation. It's a nonsense translation.
-愛でる|めでる|to love, to cherish, to admire|93|戀愛；寵|b|心静かに花鳥風月を愛でる気持ちの余裕も最近になってでてきたよ。||Lately I've had the time to quietly enjoy the wonders of nature.
+愛でる|めでる|to love, to cherish, to admire|93|愛惜；欣賞|v|心静かに花鳥風月を愛でる気持ちの余裕も最近になってでてきたよ。||Lately I've had the time to quietly enjoy the wonders of nature.
 感傷|かんしょう|sentiment, sentimentality|93|情愫|b|子供が泣いてるのを見ると、いつも感傷的になってしまうんだ。||I get emotional every time I see a child cry.
 感化|かんか|influence, inspiration|93|感化；影響|a|||
 感嘆|かんたん|admiration, wonder, astonishment|93|感嘆；讚嘆|h|「ああ！」は感嘆詞だ。|“啊！”是一個感嘆詞。|"Ah!" is an interjection.
@@ -22447,7 +22447,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 新地|しんち|new area, newly-opened region|93|新地；新開發的土地|h|||
 新報|しんぽう|news|93|新聞|b|||
 新天地|しんてんち|new land, new world, new sphere of activity|93|新天地；新境界|h|||
-新手|あらて|fresh troops, fresh players, newcomer|93|生力軍|b|これはなんだ。キャッチセールスじゃないのなら、新手の逆ナンだろうか。||Then what is this, I wonder? If it isn't dodgy door-to-door sales, then could it be a new kind of pickup technique for the ladies?
+新手|あらて|fresh troops, fresh players, newcomer|93|新手；生力軍|v|これはなんだ。キャッチセールスじゃないのなら、新手の逆ナンだろうか。||Then what is this, I wonder? If it isn't dodgy door-to-door sales, then could it be a new kind of pickup technique for the ladies?
 新譜|しんぷ|newly released music, new release, new sheet music|93|新曲譜；新發行的樂譜|h|||
 新陳代謝|しんちんたいしゃ|renewal, replacement, regeneration, metabolism|93|新陳代謝|a|||
 旅費|りょひ|travel expenses|93|旅費；路費|a|私は旅費がなくなった。|我把旅費耗光了。|I have run out of my traveling expenses.
@@ -22458,7 +22458,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 旧姓|きゅうせい|one's original family name, maiden name|93|舊姓；娘家姓|d|奥さんの旧姓って、何て言うの？||What is your wife's maiden name?
 旧暦|きゅうれき|Japan's old calendar|93|舊曆；農曆|h|中国では、旧暦にしたがって正月を祝う。||In China, they celebrate the New Year by the lunar calendar.
 旧約|きゅうやく|old promise, old agreement, old covenant|93|舊約；舊盟約|h|||
-早う|はよう|early, right away, at once, early time|93|早|b|なぜ、早くないのに、「お早う」というのでしょう？||Why does one say "Good day" when the day is not good?
+早う|はよう|early, right away, at once, early time|93|早點；快點|v|なぜ、早くないのに、「お早う」というのでしょう？||Why does one say "Good day" when the day is not good?
 早稲|わせ|early ripening rice, early-ripening fruit|93|早稻；早熟稻|h|今日早稲田対慶応の試合がある。||There is going to be a game between Waseda and Keio today.
 早退|そうたい|leaving early|93|早退|h|できたら、今日は早退したいな。|可以的話，我今天想早退。|I would like to leave work early today if possible.
 明星|みょうじょう|morning star, Venus, preeminent person|93|晨星；金星；傑出人物|d|私たちはそれを宵の明星と呼ぶ。||We call it the Evening Star.
@@ -22470,9 +22470,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 昼前|ひるまえ|morning, forenoon, just before noon|93|上午；晨|b|彼らは昼前に連絡します。||They will contact us before midday today.
 時分|じぶん|time, hour, season, suitable time|93|時分；時間|a|彼は若い時分に多くの苦難を味わった。||He went through many hardships in his youth.
 晩酌|ばんしゃく|drink at home with one's evening meal, dinner-time drink|93|晚酌；晚餐時小酌|h|晩酌はしないよ。||I don't drink with my dinner.
-晴らす|はらす|to dispel, to clear away, to refresh|93|打消|b|私はその事に対する疑いを晴らす事ができなかった。||I wasn't able to get rid of my doubts about that.
+晴らす|はらす|to dispel, to clear away, to refresh|93|消除；洗刷|v|私はその事に対する疑いを晴らす事ができなかった。||I wasn't able to get rid of my doubts about that.
 暇人|ひまじん|person with a lot of free time on their hands, person of leisure, idler|93|閒人；有閒之人|h|||
-暗証|あんしょう|code, cipher, password|93|代碼；編碼|b|暗証番号を入力してください。||Please enter your PIN.
+暗証|あんしょう|code, cipher, password|93|密碼|v|暗証番号を入力してください。||Please enter your PIN.
 暴く|あばく|to disclose, to divulge, to expose, to open|93|揭露；揭發；掘出|d|||
 暴風雨|ぼうふうう|rainstorm, storm|93|暴風雨|a|その暴風雨は大損害をもたらした。||The storm brought heavy losses.
 曲目|きょくもく|name of a piece of music, number|93|曲目；號碼|a|ダンサーたちはラテン音楽の曲目の間、実に活気づいた。||The dancers really came to life during the Latin numbers.
@@ -22484,8 +22484,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 最年長|さいねんちょう|eldest, oldest|93|最年長|a|彼はクラスの中で最年長にあたる。||He is older than any other student in his class.
 月経|げっけい|menstruation, menstrual period|93|月經|a|月経周期は約４週間です。||My menstrual cycle is about every four weeks.
 有価|ゆうか|valuable, negotiable|93|寶貴；值錢|b|||
-朝廷|ちょうてい|Imperial Court|93|皇朝|b|||
-朝陽|ちょうよう|morning sun, sunrise|93|朝日|b|||
+朝廷|ちょうてい|Imperial Court|93|朝廷|v|||
+朝陽|ちょうよう|morning sun, sunrise|93|朝陽|v|||
 朝顔|あさがお|Japanese morning glory, picotee morning glory, ivy morning glory|93|牽牛花；朝顏|h|私は毎朝顔を洗います。||I wash my face every morning.
 木の下|このした|under a tree|93|樹下|h|彼は木の下で寝ていました。|他在樹下睡覺。|He was sleeping under the tree.
 未読|みどく|unread|93|未讀|h|||
@@ -22493,10 +22493,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 末等|まっとう|last place|93|末等；最末名|h|||
 本望|ほんもう|long-cherished desire, satisfaction|93|心願；心滿意足|h|||
 本稿|ほんこう|this article, this paper, this manuscript|93|本稿；本文稿件|h|本稿の結論をどこまで一般化できるかは、今後の研究で明らかにしていきたい。||I want to clarify in further research to what extent the conclusions of this paper can be generalized.
-本道|ほんどう|highway, main road, the right road, internal medicine|93|公路|b|「これは・・・」「軍手とスコップ。園芸部基本道具のひとつだよ」||"This is ..." "Working glove and trowel. One of a gardening club's basic tools."
+本道|ほんどう|highway, main road, the right road, internal medicine|93|正道；主幹道|v|「これは・・・」「軍手とスコップ。園芸部基本道具のひとつだよ」||"This is ..." "Working glove and trowel. One of a gardening club's basic tools."
 朱雀|すざく|Vermilion Bird|93|朱雀；四神之一|h|||
 机上|きじょう|on the desk, theoretical|93|桌上；紙上談兵|h|机上では学べないこともある。||There are some things you can't learn from books.
-来年度|らいねんど|next year, next fiscal year|93|明年|b|来年度は、英語を教えます。||I'm teaching English next school year.
+来年度|らいねんど|next year, next fiscal year|93|明年度|v|来年度は、英語を教えます。||I'm teaching English next school year.
 来館|らいかん|coming to an embassy, theatre, library, etc.|93|到館；入館|h|||
 東ドイツ|ひがしドイツ|East Germany, German Democratic Republic|93|東德|d|東ドイツには多くのヌーディストビーチがある。||There are many nudist beaches in East Germany.
 東海道新幹線|とうかいどうしんかんせん|Tōkaidō Shinkansen|93|東海道新幹線|h|東海道新幹線は１９６４年に完成した。||The New Tokaido Line was completed in 1964.
@@ -22529,7 +22529,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 歌い手|うたいて|singer, vocalist, amateur singer who records and uploads songs to online video platforms|93|歌手；歌唱家|b|恵子さんは歌い手です。||Keiko is a singer.
 正々堂々|せいせいどうどう|fair and square, open and aboveboard, bold and forthright|93|光明正大；堂堂正正|h|彼らは敵軍と正々堂々と戦った。||They fought a fair battle with the enemy.
 武家|ぶけ|samurai family, samurai class, samurai stock|93|武家；武士階級|h|||
-歪曲|わいきょく|distortion, falsification, perversion|93|畸變|b|||
+歪曲|わいきょく|distortion, falsification, perversion|93|歪曲；扭曲|v|||
 歯磨き粉|はみがきこ|tooth powder, toothpaste|93|牙膏；牙粉|d|最近、歯磨き粉ってどれ使ってる？||Which toothpaste have you been using lately?
 歴任|れきにん|successive jobs, consecutive jobs|93|歷任；歷經擔任|h|||
 死守|ししゅ|defending to the last, desperate defence, stubborn defence|93|死守；拼死守住|h|||
@@ -22764,7 +22764,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 空回り|からまわり|racing, idling, spinning|94|空轉；白忙一場|h|議論が空回りして一向に発展しなかった。||The discussion produced a great deal of noise, but no forward motion.
 突き進む|つきすすむ|to push on, to plunge forward, to push one's way to|94|挺進；勇往直前|h|機が熟したら、大胆に突き進むべきだ。僕が側にいる。||When the time is ripe, be bold and go for it! I'll stand by you.
 突風|とっぷう|gust, blast|94|陣風|b|||
-窪|くぼ|hollow, cavity, sunken place, vagina|94|空虛；空心|b|メアリーには、えくぼがあります。||Mary has dimples.
+窪|くぼ|hollow, cavity, sunken place, vagina|94|凹陷；坑洞|v|メアリーには、えくぼがあります。||Mary has dimples.
 立て直す|たてなおす|to put back up, to stand back up, to restore|94|重整；振作；重建|h|会社を立て直すために新しい指導者が必要だ。||We need a new leader to pull our company together.
 競演|きょうえん|contest, competitive performance|94|競演；同台演出|h|||
 竹林|ちくりん|bamboo thicket, bamboo grove|94|竹林|h|パンダは竹林に住んでるんだよ。||Pandas live in bamboo groves.
@@ -22813,7 +22813,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 繁忙|はんぼう|busy, high-stress, hectic|94|繁忙；忙|a|||
 罪深い|つみぶかい|sinful, wicked, immoral|94|罪孽深重|h|人間は罪深い者です。||Man is sinful.
 罷免|ひめん|dismissal, discharge|94|罷免|h|このスキャンダルで一部の高官が罷免される可能性がある。||The scandal could lead to the firing of some senior officials.
-羅針盤|らしんばん|compass|94|規；指南針|b|羅針盤の針は常に北を示す。||The compass pointer always seeks north.
+羅針盤|らしんばん|compass|94|指南針|v|羅針盤の針は常に北を示す。||The compass pointer always seeks north.
 美意識|びいしき|sense of beauty, aesthetic sense, attention to one's appearance|94|美感|b|あなたの美意識を満足させるものは何ですか？||What is it that satisfies your aesthetic sense?
 美的|びてき|esthetic, aesthetic|94|美的；審美的|h|彼女は美的感覚に欠けている。||She is lacking in sense of beauty.
 羞恥心|しゅうちしん|shyness, shame|94|羞恥心|h|彼女は無邪気なのか羞恥心がないのか。||Is she an innocent, or is she just shameless?
@@ -22821,7 +22821,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 義援金|ぎえんきん|donation money, contribution|94|捐款；賑災款|d|||
 羽織|はおり|haori|94|羽織；日式外褂|h|彼はコートを羽織ってなかったよ。||He had no coat on.
 習い事|ならいごと|accomplishment, lessons, practice|94|成就；素養|b|||
-翡翠|ひすい|jade, kingfisher|94|玉；玉石|b|||
+翡翠|ひすい|jade, kingfisher|94|翡翠；翠鳥|v|||
 耳かき|みみかき|earpick, ear cleaning|94|耳挖子；挖耳朵|d|||
 耳鳴り|みみなり|tinnitus, ringing in the ears|94|耳鳴|b|耳鳴りがしますか？|耳鳴嗎？|Do you have ringing in your ears?
 耳鼻|じび|nose and ears|94|耳鼻|h|トムは、耳鼻咽喉科の先生です。||Tom is an otorhinolaryngologist.
@@ -22841,12 +22841,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 胡散臭い|うさんくさい|suspicious-looking, shady, questionable|94|可疑；來路不明|h|随分と胡散臭い話だな。||That's an awfully fishy story.
 胡蝶|こちょう|butterfly|94|蝴蝶；蝶|b|||
 胤|たね|issue, offspring, paternal blood|94|胤；發表|a|暗くなってきたね。雨降るのかな？|天變暗了。我不知道是不是要下雨。|It's getting dark. I wonder if it's going to rain.
-脱字|だつじ|omitted character, omitted letter|94|漏字|h|誤字脱字だらけで申し訳ないです。||Sorry for all the typos.
+脱字|だつじ|omitted character, omitted letter|94|漏字；脫字|v|誤字脱字だらけで申し訳ないです。||Sorry for all the typos.
 脱帽|だつぼう|removing one's hat, admiring greatly|94|脫帽；敬佩|h|あなたの優れた御判断には脱帽です。||I bow to your superior judgement.
 脱法|だっぽう|evasion of the law, circumvention of the law|94|脫法；鑽法律漏洞|h|法は脱法されるために作られる。||Laws are made to be broken.
 脱臼|だっきゅう|dislocation|94|脫臼|a|右腕の関節が脱臼したようです。||I'm afraid that I dislocated my right arm.
 脳死|のうし|brain death|94|腦死|h|学生たちは脳死の問題について長々と議論した。|學生們對於腦死亡的問題討論了很久。|Students discussed the problem of brain death for a long time.
-腕力|わんりょく|strength in one's arms, physical strength, muscular strength|94|力氣；體力|b|喧嘩の勝敗は腕力では決まらない。||Whether you win or lose the fight is not determined by your physical strength.
+腕力|わんりょく|strength in one's arms, physical strength, muscular strength|94|臂力；武力|v|喧嘩の勝敗は腕力では決まらない。||Whether you win or lose the fight is not determined by your physical strength.
 腹立たしい|はらだたしい|irritating, aggravating, upsetting|94|令人生氣；可惱|h|腹立たしいったらありゃしない。||It makes me so angry.
 腹腔|ふくくう|abdominal cavity|94|腹腔|a|||
 膝元|ひざもと|near one's knee, one's side|94|膝前；身邊；膝下|h|彼はまもなく親の膝元を離れる。||He leaves the parental roof soon.
@@ -22921,9 +22921,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 要項|ようこう|important points, main points, gist|94|要點；重點事項|h|||
 覇気|はき|spirit, drive, vigour, ambition|94|精神；精靈|b|ホントにどうしたんですか？いつもの覇気がないですよ。||Really - what's up? Where's your go-for-it attitude?
 覇王|はおう|supreme ruler, autocrat, dynast|94|霸王|h|||
-見ず知らず|みずしらず|strange, unfamiliar, unknown, unfamiliarity|94|奇怪；奇|b|彼は決して見ず知らずの人ではない。||He is no stranger to me.
-見せしめ|みせしめ|lesson, example, warning|94|課業|b|彼は他の生徒の見せしめになっただろう。||He was punished as a warning to other students.
-見下す|みくだす|to look down, to condescend|94|俯|b|貧しい人を見下すのはよくないよ。||We shouldn't look down on poor people.
+見ず知らず|みずしらず|strange, unfamiliar, unknown, unfamiliarity|94|素不相識；陌生|v|彼は決して見ず知らずの人ではない。||He is no stranger to me.
+見せしめ|みせしめ|lesson, example, warning|94|殺雞儆猴；懲戒|v|彼は他の生徒の見せしめになっただろう。||He was punished as a warning to other students.
+見下す|みくだす|to look down, to condescend|94|俯視；輕視|v|貧しい人を見下すのはよくないよ。||We shouldn't look down on poor people.
 見捨てる|みすてる|to abandon, to fail, to desert|94|棄；丟下|b|鼠は沈みかかった船を見捨てる。||Rats desert a sinking ship.
 見本市|みほんいち|trade fair|94|交易會|b|今月は国際貿易見本市が開かれている。||We are having an international trade fair this month.
 見渡し|みわたし|viewing, view, viewpoint|94|眺望；視野|h|彼女は不思議そうに周りを見渡した。||She looked around in wonder.
@@ -22960,11 +22960,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 諸説|しょせつ|various opinions, various theories, various rumors|94|各種說法；諸說|h|||
 謀略|ぼうりゃく|scheme, plot, artifice|94|謀劃|b|||
 謝礼|しゃれい|reward, honorarium, remuneration|94|謝禮；獎勵|a|君は彼に謝礼をすると言った。||You told him that he should have a reward.
-謡う|うたう|to chant|94|吟唱|b|||
+謡う|うたう|to chant|94|吟唱；謠傳|v|||
 謳歌|おうか|rejoicing, glorification, exultation|94|歌頌；盡情享受|h|||
 警鐘|けいしょう|alarm bell, fire bell, warning|94|警鐘；警鈴|a|||
 豪州|ごうしゅう|Australia|94|澳洲|d|||
-豪語|ごうご|boasting, big talk, bombast, Australian English|94|誇口；大話|h|||
+豪語|ごうご|boasting, big talk, bombast, Australian English|94|豪語；吹牛|v|||
 貞操|ていそう|chastity, virtue, fidelity|94|貞操；貞潔|a|||
 負けず嫌い|まけずぎらい|hating to lose, unyielding, unbending|94|好勝；不服輸|h|君って負けず嫌いだよね？||You hate to lose, don't you?
 負値|ふち|negative value|94|負值|b|||
@@ -22980,7 +22980,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 足下|そっか|at one's feet, underfoot, written after the addressee's name in a formal letter to show respect|94|腳下；足下|h|暗いから、足下に気をつけて。||It's dark, so watch your step.
 踊り子|おどりこ|dancer|94|舞者；舞蹈家|b|踊り子たちは美しく着飾っていた。|跳舞的孩子們穿著很美。|The dancers were beautifully got up.
 踏みつけ|ふみつけ|stepping, trampling, trampling on|94|踩踏；踐踏|h|芝生を踏みつけるな。||Don't trample on the grass.
-踏み台|ふみだい|stool, small stepladder|94|凳子|b|||
+踏み台|ふみだい|stool, small stepladder|94|踏腳凳；墊腳石|v|||
 躍起|やっき|desperate, frantic, excited|94|急躁；拼命；激動|h|警察は群衆を制止するのに躍起になっている。||The police are going all out just to hold back the crowd.
 身毒|しんどく|India|94|身毒；古印度的舊稱|h|||
 車中|しゃちゅう|in a train, on a train|94|車中；車上|h|今朝車中で思いがけず彼にあった。||I met him by chance in the train this morning.
@@ -23012,7 +23012,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 造園|ぞうえん|landscape gardening, landscape architecture|94|造園；園藝|h|造園のために庭師が呼ばれた。||A gardener was called in to design the garden.
 造成|ぞうせい|development, preparation, reclamation|94|發展|b|人工干潟を造成する試みが全国的に展開されている。||Artificial tidelands are being developed on a country-wide basis.
 進学校|しんがっこう|school with a high proportion of graduates accepted into high-ranking universities, school focused o|94|升學名校|h|||
-進数|しんすう|base|94|基地；卑鄙|b|これは十進数表記です。||This is a decimal number.
+進数|しんすう|base|94|進位制|v|これは十進数表記です。||This is a decimal number.
 進級|しんきゅう|promotion|94|升格|b|||
 逸品|いっぴん|excellent article, fine item, rare beauty|94|精品；佳品|h|これらの花は彼女の庭で咲いた逸品である。||These flowers are the choice of her garden.
 逸走|いっそう|escape, flight, running away, running off the track|94|逃；逃避|b|||
@@ -23133,7 +23133,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 風物詩|ふうぶつし|feature of the season, something characteristic of a particular season|94|應景之物；季節代表事物|h|夏祭りや花火大会はその街の夏の風物詩だ。||Summer festivals and firework shows are a quintessential part of summer in that town.
 風花|かざばな|flurry of snow in a clear sky, winter wind which brings scattered snowflakes or raindrops|94|風花；晴空下飄雪|h|||
 颯爽|さっそう|gallant, dashing, jaunty|94|颯爽；英姿勃勃|h|猫が颯爽と塀をよじ登った。||The cat climbed lightly over the wall.
-食い止める|くいとめる|to check, to hold back, to keep at bay|94|考；查詢|b|人類は生態系の衰退を食い止めることができるのでしょうか？||Will humanity be able to prevent the degradation of ecosystems?
+食い止める|くいとめる|to check, to hold back, to keep at bay|94|阻止；遏止|v|人類は生態系の衰退を食い止めることができるのでしょうか？||Will humanity be able to prevent the degradation of ecosystems?
 食み|はみ|eating|94|啃食；吃|h|||
 飯店|はんてん|Chinese restaurant|94|飯店；中式餐館|h|横浜の中華飯店へ食べに行きました。|我去橫濱的中華餐廳吃飯了。|I went to eat at a Chinese restaurant in Yokohama.
 養生|ようじょう|taking care of one's health, recuperation|94|養生；保養身體|h|彼は不養生がたたって今入院している。||He neglected his health and now he's sick in bed.
@@ -23167,13 +23167,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 鳴子|なるこ|clapper, noisemaker, bird rattle, naruko|94|鳴子；驅鳥的響板|h|||
 麺類|めんるい|noodles, vermicelli|94|麵條|b|麺類が好きです。||I like noodles.
 黒船|くろふね|black ships, Western ships that came to Japan between the 16th and 19th centuries, esp. those of the|94|黑船；江戶末期來到日本的西方船隻|h|||
-鼓す|こす|to beat, to pluck up courage|94|贏；攷|b|||
-鼓する|こする|to beat, to pluck up courage|94|贏；攷|b|||
+鼓す|こす|to beat, to pluck up courage|94|擊鼓；鼓舞|v|||
+鼓する|こする|to beat, to pluck up courage|94|擊鼓；鼓舞|v|||
 鼓舞|こぶ|encouragement, inspiration, rousing|94|鼓舞；激勵|h|兵士たちはその歌に士気を鼓舞された。||The soldiers were animated by the song.
 鼻毛|はなげ|nasal hair, nose hair, being infatuated with women|94|鼻毛|a|||
 龗|おかみ|water god, rain and snow god, dragon god|94|龍神；雨神|h|おおかみが吠えているのが聞こえた。||I heard a wolf crying.
 １対１|いちたいいち|one-to-one, one-on-one|94|一對一|h|その合併は１対１で行われた。||The merger was implemented on a 50-50 ratio.
-２|ツー|two|94|兩；二|b|画面下にツールバーが見えますか？||Can you see the toolbar at the bottom of the screen?
+２|ツー|two|94|二|v|画面下にツールバーが見えますか？||Can you see the toolbar at the bottom of the screen?
 ６月|ろくがつ|June, sixth month of the lunar calendar|94|六月份|b|日本では６月に雨がたくさん降る。|在日本，6月的時候會下很多雨。|It rains a lot in June in Japan.
 ７月|しちがつ|July, seventh month of the lunar calendar|94|七月份|b|我々はここに７月以来住んでいる。|從七月開始我們一直住在這裡。|We've been living here since July.
 ８９３|やくざ|yakuza|94|黑道；暴力團|h|||
@@ -23202,12 +23202,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 あながち|あながち|necessarily, entirely, altogether|94|未必；一概；完全|h|彼の言うことはあながち間違っていない。||He is not altogether wrong.
 あなご|あなご|conger eel, garden eel|94|海鰻；星鰻|h|||
 あの手この手|あのてこのて|this way and that, various means, every means|94|千方百計；各種手段|h|彼はあの手この手を使って彼女に接近しようとした。||He tried getting close to her using every means possible.
-ありがたみ|ありがたみ|value, worth, virtue|94|值；估價|b|健康を失って初めて健康のありがたみがわかる。||People do not know the blessing of good health until they lose it.
+ありがたみ|ありがたみ|value, worth, virtue|94|感激之情；價值；恩惠|v|健康を失って初めて健康のありがたみがわかる。||People do not know the blessing of good health until they lose it.
 ありったけ|ありったけ|all, all, everything|94|所有；全|b|私はありったけの力を出して走った。||I ran as fast as I could.
 あり得る|ありうる|possible, conceivable, likely|94|可能；有可能；或許|d|ことによっては意外な結末もあり得る。||Depending on how things go, it's possible there'll be a surprise ending.
 あれい|あれい|dumbbell|94|啞鈴|b|||
 あわよくば|あわよくば|if there is a chance, if possible, if circumstances permit|94|如果有機會；說不定；若有可能|h|||
-いじくる|いじくる|to finger, to play with, to fiddle with, to make changes to|94|指；手指|b|||
+いじくる|いじくる|to finger, to play with, to fiddle with, to make changes to|94|玩弄；擺弄|v|||
 いちじく|いちじく|common fig, fig, fig tree|94|無花果|d|これはいちじくです。||This is a fig tree.
 いつぞや|いつぞや|some time ago, the other day, at some time or other|94|前些日子；不久前；某次|h|||
 いとも|いとも|extremely|94|極；極其|b|私は行けないし、行きたいとも思わない。|我不能去那裡，而且我根本不想去。|I can't go, nor do I want to.
@@ -23281,15 +23281,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 けが人|けがにん|wounded person, injured person|94|傷員|b|気をつけないと、けが人が出るよ。||If we aren't careful, someone will get hurt.
 けじめ|けじめ|distinction, difference|94|分寸；界線；區分|h|公私のけじめをつけなければいけません。||We should draw the line between public and private affairs.
 げら|げら|person who laughs a lot|94|愛笑的人|h|事故のために交通が妨げられた。|事故耽誤了交通。|The accident held up traffic.
-こぐ|こぐ|to row, to paddle, to scull, to pedal|94|划；一排|b|私たちは川の強い流れにさからってボートをこぐことができなかった。||We couldn't row against the strong current.
+こぐ|こぐ|to row, to paddle, to scull, to pedal|94|划；踩踏板|v|私たちは川の強い流れにさからってボートをこぐことができなかった。||We couldn't row against the strong current.
 こしひかり|こしひかり|Koshihikari|94|越光米；越光稻米|h|||
 こじつけ|こじつけ|distortion, stretch, strained interpretation|94|畸變|b|何か、全部、こじつけって感じがするんだけど・・・。||Somehow, all those reasons sound rather far fetched.
 こね粉|こねこ|dough|94|麵團|b|||
-こめかみ|こめかみ|temple|94|廟；寺廟|b|||
+こめかみ|こめかみ|temple|94|太陽穴|v|||
 こらえる|こらえる|to bear, to stand, to endure, to restrain|94|負；負擔|b|笑をこらえることができなかった。||I couldn't help but laugh.
 さぎ|さぎ|heron|94|鷺|b|野うさぎを手で捕まえるのは難しい。|徒手捉野兔很難。|It's difficult to catch a wild rabbit by hand.
 ささげ|ささげ|cowpea, cow pea, black-eyed pea|94|豇豆|d|現役を引退した後、テレサは孤児の世話に一身をささげた。|退休後，德蕾莎投身照顧孤兒的工作。|After retirement, Teresa devoted herself to caring for orphans.
-ささやく|ささやく|to whisper, to murmur, to rumor|94|聶|b|||
+ささやく|ささやく|to whisper, to murmur, to rumor|94|低語；耳語|v|||
 さとうきび|さとうきび|sugarcane|94|甘蔗|h|||
 さばき|さばき|handling, control, use|94|處理；裁決；操控|d|彼のボールさばきは魔術に近い。||His handling of the ball borders on wizardry.
 さまよう|さまよう|to loiter, to putter, to prowl|94|流連；浪蕩|b|||
@@ -23344,7 +23344,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 たんまり|たんまり|quite a lot|94|大量；很多；相當多|h|彼は金をたんまり持っているといった。||He said that he had a lot of money.
 だんじり|だんじり|decorative portable shrine, float used in festivals|94|節慶花車；神轎|h|||
 ちっちゃな|ちっちゃな|tiny, little, wee|94|微；細微|b|そのちっちゃな女の子は手に人形を持っている。||The little girl has a doll in her hands.
-ちびっこ|ちびっこ|small child, kid, kiddy|94|倪|b|||
+ちびっこ|ちびっこ|small child, kid, kiddy|94|小孩；小朋友|v|||
 ちゃんぽん|ちゃんぽん|mixing things of different type, mixture|94|融合|b|||
 ちょこ|ちょこ|sake cup, small deep porcelain bowl for serving food|94|小酒杯；小盅；小碗|h|料理をちょこっと残してしまった。||I left part of the meal uneaten.
 ちょんまげ|ちょんまげ|chonmage, topknot hairstyle worn by men in the Edo period, and sumo wrestlers today|94|丁髷；丁髻髮型|h|||
@@ -23414,7 +23414,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 べったり|べったり|sticking, clinging, with a smack|94|黏住；緊貼；全部|h|人間は考えたりしゃべったりできるという点で動物と異なる。|人和動物的區別在於人能思考和說話。|Human beings differ from animals in that they can think and speak.
 べっぴん|べっぴん|beautiful woman, pretty girl, high-quality goods|94|美女；佳人|b|メアリーって、べっぴんさんね。||Mary is a beauty.
 ぺら|ぺら|thin sheet of paper, 200-character writing paper|94|薄紙；稿紙；單薄|h|私は彼の薄っぺらな性格が嫌だ。||I don't like his shallow personality.
-ほくろ|ほくろ|mole, lentigo, beauty mark|94|摩爾；鼴鼠|b|あの人は眼の横にほくろがある。||That person has a mole at the side of his eye.
+ほくろ|ほくろ|mole, lentigo, beauty mark|94|痣；黑痣|v|あの人は眼の横にほくろがある。||That person has a mole at the side of his eye.
 ほっとく|ほっとく|to leave alone, to leave as is, to ignore|94|放任；不管；置之不理|d|彼をしばらくほっとくことにした。||We decided to leave him alone for a while.
 ほっぺ|ほっぺ|cheek|94|臉頰；臉蛋|b|彼女は彼のほっぺにキスをした。|她親吻他的臉頰。|She kissed his cheek.
 ほろ酔い|ほろよい|slight intoxication, being tipsy, mellowness|94|微醺；薄醉|h|ほろ酔い気分ですよ。||I'm getting high.
@@ -23423,7 +23423,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 まかなう|まかなう|to supply, to cover, to pay|94|補給；供養|b|父親は家族の生活をまかなう。||A father provides for his family.
 まさぐる|まさぐる|to grope, to feel around|94|摸索；撫摸；探摸|d|||
 まじき|まじき|should not be, must not be|94|不應該的；不得的；不可以的|h|教師にあるまじき行為だ。||Such conduct is unworthy of a teacher.
-まじなう|まじなう|to pray that one avoids disaster or illness|94|詛咒|b|||
+まじなう|まじなう|to pray that one avoids disaster or illness|94|祈求消災；施咒|v|||
 まとう|まとう|to put on, to wear, to be clothed in|94|戴上；配戴|b|彼は私に金を貸せとつきまとう。||He is always bothering me to lend him money.
 まばら|まばら|sparse, thin, scattered|94|稀少；稀疏|b|９月の海は、人がまばらだね。|九月的海灘，人真少呢。|In September, there are just a few people here and there on the beach.
 ままごと|ままごと|playing house|94|扮家家酒；過家家|h|子供たちはままごとをして遊んでいた。||The children were playing at keeping house.
@@ -23439,14 +23439,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 やぐら|やぐら|caves dug as tombs in and around Kamakura during the Kamakura and Muromachi periods|94|岩窟墓；櫓台；櫓|h|||
 やっとこ|やっとこ|pincers, nippers, pliers|94|鉗|b|今年になってやっとこれらの記録が一般に公開された。||It was not until this year that these documents were made available to the public.
 やっとこさ|やっとこさ|at last, finally, barely|94|終於|b|||
-やむを得ず|やむをえず|unavoidably, inevitably, necessarily|94|未免|b|彼らはやむを得ず出発を延期した。||They were compelled to postpone their departure.
+やむを得ず|やむをえず|unavoidably, inevitably, necessarily|94|不得已；無可奈何|v|彼らはやむを得ず出発を延期した。||They were compelled to postpone their departure.
 やもり|やもり|gecko, house lizard|94|壁虎；守宮|h|||
 やりくり|やりくり|making do, getting by, managing|94|張羅；週轉；安排|h|やりくりするために一生懸命働いた。||We worked hard to make ends meet.
 やり手|やりて|skilled person, capable person, shrewd person|94|能幹的人；精明的人；有手腕的人|h|シャロンはやり手にちがいない。||There's no doubt that Sharon is capable.
 やんま|やんま|darner, devil's darning needle|94|蜻蜓；大蜻蜓|h|||
 やんわり|やんわり|softly, mildly, gently|94|委婉地；輕柔地；溫和地|h|やんわりと注意された。||I was politely warned.
 ゆらゆら|ゆらゆら|swaying, swinging, rocking|94|搖晃；搖擺；晃蕩|h|||
-よす|よす|to stop, to cease, to desist|94|卡；停|b|小さなことでくよくよするな。||Don't trouble about small things.
+よす|よす|to stop, to cease, to desist|94|停止；作罷|v|小さなことでくよくよするな。||Don't trouble about small things.
 よそ見|よそみ|looking away, looking aside, outsider's perspective|94|東張西望；走神；分心|h|そこの男子、授業中によそ見しない！||Boys, stop staring off into space in class!
 らっこ|らっこ|sea otter|94|海獺|d|||
 れんげ|れんげ|lotus flower, Chinese milk vetch|94|蓮花|b|||
@@ -23496,7 +23496,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 アレス|アレス|Ares|94|阿瑞斯；戰神|h|トムはよくケアレスミスをする。||Tom often makes careless mistakes.
 アレー|アレー|alley, lane, alleyway, lane|94|小巷；巷子|b|||
 アンクル|アンクル|uncle|94|叔；老伯|b|||
-アングラ|アングラ|underground, unconventional, alternative|94|井下|b|||
+アングラ|アングラ|underground, unconventional, alternative|94|地下文化；另類|v|||
 アンタッチャブル|アンタッチャブル|untouchable|94|不可碰觸的人；不可侵犯的|h|||
 アンチエージング|アンチエージング|anti-aging|94|抗老化；抗衰老|h|||
 アンバサダー|アンバサダー|ambassador|94|大使|b|||
@@ -23520,7 +23520,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 イントネーション|イントネーション|intonation|95|語調|b|英語を話す時は、もっとイントネーションに注意しなさい。||Pay more attention to intonation when you speak English.
 インド洋|インドよう|Indian Ocean|95|印度洋|d|それから彼らはインド洋へとまわり南極まで飛んでいきます。||Then they fly round to the Indian Ocean and down to Antarctica.
 インバーター|インバーター|inverter|95|逆變器|b|||
-インペリアル|インペリアル|imperial|95|鑾|b|||
+インペリアル|インペリアル|imperial|95|帝國的；皇家的|v|||
 ウィリー|ウィリー|wheelie|95|翹頭；抬前輪|h|「ヘイ、ウィリー」農家は大声で叫んだ。||"Hey, Willie," the farmer shouted out.
 ウインカー|ウインカー|turn signal, blinker, indicator|95|方向燈；轉向燈|h|トムは車線変更の前にウインカーを出さなかった。||Tom didn't signal before changing lanes.
 ウインク|ウインク|wink|95|瞬|b|ウインクが彼のたった一つの返事だった。||A wink was his only answer.
@@ -23530,7 +23530,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ウェブブラウザ|ウェブブラウザ|web browser|95|網頁瀏覽器|h|||
 ウェブページ|ウェブページ|web page, webpage|95|網頁|b|私のウェブページに来て私のことをもっと知ってください。||Visit my webpage and find out more about me.
 ウエスタン|ウエスタン|Western, country and western music|95|西部風；西部片；西部音樂|d|||
-ウォレット|ウォレット|wallet, digital wallet|95|皮夾|b|||
+ウォレット|ウォレット|wallet, digital wallet|95|錢包；電子錢包|v|||
 ウォーズ|ウォーズ|wars|95|戰爭；戰役|h|私はスターウォーズエピソード１を見ていません。||I didn't watch Star Wars episode 1.
 ウォーム|ウォーム|worm|95|蠕蟲|b|||
 ウォール街|ウォールがい|Wall Street|95|華爾街|h|||
@@ -23626,7 +23626,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ガーデナー|ガーデナー|gardener|95|園丁|b|||
 ガーデニング|ガーデニング|gardening|95|園藝|b|退職後、彼はガーデニングを始めた。||He started gardening after his retirement.
 ガーリック|ガーリック|garlic|95|蒜；大蒜|b|ガーリックトーストはお好きですか？||Do you like garlic bread?
-ガールズバー|ガールズバー|small shot bar with an all-female staff|95|女僕酒吧；女性服務酒吧|h|||
+ガールズバー|ガールズバー|small shot bar with an all-female staff|95|女孩酒吧；女性陪侍酒吧|v|||
 ガーン|ガーン|boom, bang, wham, Oh my God!|95|咚；轟鳴|b|ガーン。彼女にふられたショックで頭が混乱した。||When she dumped me, the shock of it was like a huge gong going off and scrambling all my thoughts.
 キエフ|キエフ|Kiev, Kyiv|95|基輔|h|キエフはウクライナの首都です。|基輔是烏克蘭的首都。|Kiev is the capital of Ukraine.
 キックボクシング|キックボクシング|kickboxing, kick-boxing|95|泰拳；踢拳|d|||
@@ -23799,9 +23799,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 スコーン|スコーン|scone|95|司康餅|h|スコーンが食べたいな。||I want to eat some scones.
 スタジオジブリ|スタジオジブリ|Studio Ghibli|95|吉卜力工作室|h|||
 スタンガン|スタンガン|stun gun|95|電擊槍；防身電擊器|h|||
-ステッキ|ステッキ|stick, cane, wand|95|貼；棒|b|彼は私にステッキで殴りかかった。||He struck at me with a stick.
+ステッキ|ステッキ|stick, cane, wand|95|手杖；拐杖|v|彼は私にステッキで殴りかかった。||He struck at me with a stick.
 ステンドグラス|ステンドグラス|stained glass|95|彩色玻璃；彩繪玻璃|h|この教会にはステンドグラスがあるんだ。||This church has stained glass windows.
-ステート|ステート|state|95|聲明；說道|b|エンパイアステートビルの高さはどのくらいですか。||What's the height of the Empire State Building?
+ステート|ステート|state|95|州；國家；狀態|v|エンパイアステートビルの高さはどのくらいですか。||What's the height of the Empire State Building?
 ストックホルム|ストックホルム|Stockholm|95|斯德哥爾摩|h|スウェーデンの首都がストックホルムだとはな。||I didn't know the capital of Sweden is Stockholm.
 ストリッパー|ストリッパー|stripper|95|脫衣舞者；脫衣舞孃|h|||
 ストーキング|ストーキング|stalking|95|跟蹤；跟蹤騷擾|h|||
@@ -23846,10 +23846,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 タンザニア|タンザニア|Tanzania|95|坦尚尼亞|d|深煎りタンザニア、豆のままで２００グラムお願いします。||200 grams of Tanzania dark roast coffee beans, please.
 タンバリン|タンバリン|tambourine|95|鈴鼓；手鼓|d|私はタンバリンを父に上げました。|我給我的老爸送了一個鈴鼓。|
 タンポン|タンポン|tampon, surgical pad|95|衛生棉條；止血棉條|d|タンポンはどこにありますか。||Where are the tampons?
-タートル|タートル|turtle, turtleneck sweater|95|海龜|b|||
-ダイナー|ダイナー|diner|95|食客|b|チャックス・ダイナーは閉店しました。||Chuck's Diner has closed.
+タートル|タートル|turtle, turtleneck sweater|95|高領毛衣；海龜|v|||
+ダイナー|ダイナー|diner|95|美式餐廳；食客|v|チャックス・ダイナーは閉店しました。||Chuck's Diner has closed.
 ダイン|ダイン|dyne|95|達因|d|||
-ダウト|ダウト|I doubt it, cheat, bluff, I doubt that|95|懷疑；不相信；詐欺指控|h|||
+ダウト|ダウト|I doubt it, cheat, bluff, I doubt that|95|懷疑；吹牛（撲克牌遊戲）|v|||
 ダウン症|ダウンしょう|Down's syndrome|95|唐氏症；唐氏綜合症|h|||
 ダガー|ダガー|dagger|95|匕首；尖刀|b|||
 ダチ|ダチ|friend, pal, buddy|95|朋友；友|b|救援作戦はオペレーション・トモダチと名付けられた。|救援行動被命名為「盟友行動」。|The rescue operation was called "Operation Tomodachi".
@@ -23923,7 +23923,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ドンピシャ|ドンピシャ|right on, dead on, fitting to a T|95|正中；剛好；恰好|h|||
 ドーパミン|ドーパミン|dopamine|95|多巴胺|b|||
 ナイトメア|ナイトメア|nightmare|95|噩夢；惡夢|b|||
-ナイーブ|ナイーブ|innocent, sensitive, uncomplicated|95|無罪|b|彼女はナイーブだった。||She was naive.
+ナイーブ|ナイーブ|innocent, sensitive, uncomplicated|95|天真；敏感；純真|v|彼女はナイーブだった。||She was naive.
 ナックル|ナックル|knuckle, knuckleball|95|指節；蝴蝶球|d|||
 ナビゲーション|ナビゲーション|navigation|95|領航|b|||
 ナレーター|ナレーター|narrator|95|旁白；解說員；敘述者|h|||
@@ -23939,12 +23939,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ネプチューン|ネプチューン|Neptune, Neptune|95|海王星|d|||
 ノスタルジア|ノスタルジア|nostalgia|95|鄉愁；懷舊；思鄉之情|d|||
 ノスタルジー|ノスタルジー|nostalgia|95|懷舊；鄉愁|d|||
-ノワール|ノワール|black, dark, dark|95|黑；黑色|b|あの美術館にはピカソが１枚とルノワールが３枚あるそうだよ。||They say there's a Picasso and three Renoirs in that museum.
+ノワール|ノワール|black, dark, dark|95|黑色；暗黑；黑色電影|v|あの美術館にはピカソが１枚とルノワールが３枚あるそうだよ。||They say there's a Picasso and three Renoirs in that museum.
 ノーコメント|ノーコメント|no comment|95|無可奉告；不予置評|d|トムはノーコメントだった。||Tom made no comment.
 ノースカロライナ|ノースカロライナ|North Carolina|95|北卡羅來納州|h|トムはノースカロライナに住んでいる。||Tom lives in North Carolina.
 ノースリーブ|ノースリーブ|sleeveless clothing|95|無袖衣物；無袖|h|メアリーはノースリーブのサマードレスを着ていました。||Mary was wearing a sleeveless summer dress.
 ノーム|ノーム|gnome|95|地精；侏儒|d|||
-ノーラン|ノーラン|no run|95|諾蘭；無跑|h|||
+ノーラン|ノーラン|no run|95|無失分；諾蘭|v|||
 ハイカラ|ハイカラ|stylish, smart, fashionable, dressed in a Western style|95|時髦的；洋派的；摩登的|h|||
 ハイカラー|ハイカラー|high color|95|高領；高立領|h|||
 ハイクオリティ|ハイクオリティ|high quality|95|高質量|b|||
@@ -23954,7 +23954,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ハッタリ|ハッタリ|bluff|95|虛張聲勢；吹牛；唬人|d|||
 ハツ|ハツ|animal heart|95|雞心；動物心臟|h|ハツカネズミとドブネズミは異なる。||Mice are distinct from rats.
 ハミング|ハミング|humming|95|哼唱；哼歌|h|ハミングバードには３４０種類がある。||There are 340 species of hummingbirds.
-ハムレット|ハムレット|hamlet|95|村鎮|b|学生たちは「ハムレット」を演じた。|學生們表演哈姆雷特。|The pupils performed Hamlet.
+ハムレット|ハムレット|hamlet|95|小村莊；哈姆雷特|v|学生たちは「ハムレット」を演じた。|學生們表演哈姆雷特。|The pupils performed Hamlet.
 ハレルヤ|ハレルヤ|hallelujah|95|哈利路亞；感謝主|d|||
 ハロゲン|ハロゲン|halogen|95|鹵素|b|||
 ハロン|ハロン|halon|95|哈龍；滅火劑|h|||
@@ -23963,7 +23963,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ハンドボール|ハンドボール|handball|95|手球|b|ハンドボールは団体競技です。||Handball is a team sport.
 ハンモック|ハンモック|hammock|95|吊床|d|彼女はハンモックに寝そべって多くの時間を過ごした。||She idled away many hours lying in the hammock.
 ハードボイルド|ハードボイルド|hard-boiled, tough|95|硬派；冷酷；硬漢風|h|あいつはハードボイルドなやつだ。||He is a hard boiled egg.
-ハーネス|ハーネス|harness, harness|95|駕|b|||
+ハーネス|ハーネス|harness, harness|95|背帶；安全帶；馬具|v|||
 バイオレット|バイオレット|violet|95|紫羅蘭；紫色|d|||
 バイリンガル|バイリンガル|bilingual|95|雙語|b|君はバイリンガル？||Are you bilingual?
 バインダー|バインダー|binder, clipboard|95|文件夾；活頁夾；夾子|h|||
@@ -23982,7 +23982,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 バリケード|バリケード|barricade|95|路障；障礙物；防禦工事|d|反逆者たちは道路にバリケードを築いた。||The rebels made a barricade across the road.
 バルサ|バルサ|balsa|95|輕木；巴沙木|h|トムはモデナでバルサミコを買ったよ。||Tom bought a bottle of balsamic vinegar in Modena.
 バレッタ|バレッタ|barrette, hair clasp, hair slide|95|髮夾；髮夾子|h|||
-バレット|バレット|balletto|95|芭蕾；芭蕾舞劇|h|バレット氏は女性として5人目の最高裁判事となる。||Mrs. Barrett will become the fifth female Supreme Court justice.
+バレット|バレット|balletto|95|芭蕾；子彈|v|バレット氏は女性として5人目の最高裁判事となる。||Mrs. Barrett will become the fifth female Supreme Court justice.
 バンダナ|バンダナ|bandana|95|頭巾；方巾；頭巾式手帕|h|トムは頭に青いバンダナをしている。||Tom is wearing a blue bandana on his head.
 バーク|バーク|barque, bark|95|三桅帆船；樹皮|h|こっちにきてから、ずっと近所でビバークしてたの？大変だったね。|你來這裡之後，就一直在附近露天過夜嗎？那可太辛苦了。|You've been camping out ever since you came over here? Must have been terrible.
 バーサーカー|バーサーカー|berserker|95|狂戰士；狂暴的人|d|||
@@ -24016,7 +24016,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ヒートアップ|ヒートアップ|heat up|95|白熱化；熱烈起來；激動|h|||
 ヒーラー|ヒーラー|healer|95|治療師；療癒者；補師|d|||
 ビアガーデン|ビアガーデン|beer garden|95|啤酒花園；露天啤酒屋|h|ビアガーデンに客がたくさんいるかどうかは天気次第だ。||Whether or not beer gardens get a lot of customers depends on the weather.
-ビビリ|ビビリ|being easily frightened, losing one's nerve, coward|95|膽小鬼；害怕；膽怯者|d|||
+ビビリ|ビビリ|being easily frightened, losing one's nerve, coward|95|膽小；膽小鬼；害怕|v|||
 ビリビリ|ビリビリ|to pieces, apart, up, with a rattle|95|撕成碎片；震動；劈啪|h|トムは写真をビリビリに破った。||Tom tore the picture into pieces.
 ビーコン|ビーコン|beacon|95|信標；燈塔；指示器|h|||
 ピア|ピア|peer|95|細看；同齡人|b|有名なピアニストは微笑みました。|著名的鋼琴家露出了微笑。|The famous pianist smiled.
@@ -24064,7 +24064,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ブティック|ブティック|boutique|95|精品店|b|||
 ブドウ糖|ぶどうとう|dextrose, glucose, grape sugar|95|葡萄糖|h|||
 ブラウン管|ブラウンかん|cathode-ray tube, CRT, Braun tube|95|陰極射線管；映像管|h|テレビを点け、彼女がブラウン管の前で遊弋している。「おい、飯だぞ？」||Television turned on, she patrols in front of the CRT. "Hey you, food's up!"
-ブラザーズ|ブラザーズ|brothers|95|兄弟；弟兄|b|||
+ブラザーズ|ブラザーズ|brothers|95|兄弟|v|||
 ブランケット|ブランケット|blanket, blanket|95|毛毯；毯|b|ブランケットの縫い目がほつれてる。||The blanket's seam has unraveled.
 ブリザード|ブリザード|blizzard|95|暴風雪；雪暴|h|||
 ブリヂストン|ブリヂストン|Bridgestone|95|普利司通|d|||
@@ -24093,7 +24093,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ヘルシンキ|ヘルシンキ|Helsinki|95|赫爾辛基|h|ヘルシンキはフィンランドの首都です。||Helsinki is the capital of Finland.
 ヘルツ|ヘルツ|hertz, Hz|95|赫茲|d|||
 ヘルペス|ヘルペス|herpes|95|皰疹；疱疹|d|唇にヘルペスができています。||I have a cold sore on my lip.
-ベアリング|ベアリング|bearing|95|舉止；軸承|b|||
+ベアリング|ベアリング|bearing|95|軸承|v|||
 ベイルート|ベイルート|Beirut|95|貝魯特|h|||
 ベクレル|ベクレル|becquerel, Bq|95|貝克|b|||
 ベリーズ|ベリーズ|Belize|95|貝里斯|d|||
@@ -24128,7 +24128,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ボンバーマン|ボンバーマン|Bomberman|95|炸彈人|h|||
 ボーイスカウト|ボーイスカウト|Boy Scouts|95|童子軍|h|ボーイスカウトの団員が増えた。||The membership of the Boy Scout troop swelled.
 ボーカリスト|ボーカリスト|vocalist|95|歌手；主唱|h|||
-ボールド|ボールド|bold, boldface|95|豪邁|b|||
+ボールド|ボールド|bold, boldface|95|粗體；大膽的|v|||
 ポセイドン|ポセイドン|Poseidon|95|波賽頓；海神|h|||
 ポピー|ポピー|poppy|95|罌粟花；虞美人|h|うちのわんこ「ポピー」って言うんだ。||Our dog is called "Poppy".
 ポリエステル|ポリエステル|polyester|95|聚酯|b|||
@@ -24193,7 +24193,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 モアイ|モアイ|moai|95|摩艾石像；復活島石像|h|||
 モコ|モコ|rock cavy, mocó, moco|95|豚鼠；巖豚鼠|h|テレビのリモコンがソファーの下にある。|電視遙控器在沙發下面。|The TV remote control is under the couch.
 モコモコ|モコモコ|fluffy, lumpy|95|蓬鬆|b|トムはパジャマ姿にモコモコのスリッパを履いて、寝室から出てきた。||Tom came out of his bedroom wearing pajamas and fluffy slippers.
-モデム|モデム|modem|95|調制解調器|b|モデムはコンピューターの中に組み込まれた。||The modem was built into the computer.
+モデム|モデム|modem|95|數據機|v|モデムはコンピューターの中に組み込まれた。||The modem was built into the computer.
 モデルチェンジ|モデルチェンジ|model change, model changeover, restyling|95|改款；換新款；換裝|h|||
 モルヒネ|モルヒネ|morphine|95|嗎啡|b|彼女はモルヒネ注射によって無痛の状態になった。||She was kept under with morphine injections.
 モンテカルロ|モンテカルロ|Monte Carlo|95|蒙地卡羅|h|||
@@ -24220,13 +24220,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ラビリンス|ラビリンス|labyrinth|95|迷宮；迷陣|d|||
 ラブリー|ラブリー|lovely|95|嫵媚|b|||
 ランカー|ランカー|person who occupies a position or rank, person who is good enough to be ranked in a sport|95|排名者；上榜選手；頂尖者|h|||
-ラング|ラング|language, lung|95|語言；文|b|外国語のスラングを知るのは楽しい。|學習外語裡的俚語很有趣。|It's fun to learn slang words in foreign languages.
+ラング|ラング|language, lung|95|語言；肺|v|外国語のスラングを知るのは楽しい。|學習外語裡的俚語很有趣。|It's fun to learn slang words in foreign languages.
 ランチタイム|ランチタイム|lunchtime|95|午餐時間；午休|h|||
 ランチャー|ランチャー|launcher, launcher|95|發射器；啟動器|h|||
 ランデブー|ランデブー|rendezvous, date|95|幽會；約會；會合|d|||
 ランボルギーニ|ランボルギーニ|Lamborghini|95|藍寶堅尼|h|僕の夢はランボルギーニトラクターを買うことなんです。||My dream is to buy a Lamborghini tractor.
 ラー油|ラーユ|chili oil, chile oil, chilli oil|95|辣油；辣椒油|h|||
-リアリズム|リアリズム|realism|95|寫實；質感|b|||
+リアリズム|リアリズム|realism|95|現實主義；寫實|v|||
 リウマチ|リウマチ|rheumatism|95|風濕|b|||
 リクライニング|リクライニング|reclining|95|可調躺椅；椅背可調|h|||
 リコー|リコー|Ricoh|95|理光|h|ボブとメアリーはリコーダーを演奏します。|鮑伯和瑪麗演奏直笛​​。|Bob and Mary play the recorder.
@@ -24253,8 +24253,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ルーブル|ルーブル|Louvre|95|羅浮宮；盧布|h|1911年、ルーブル美術館からモナリザが盗まれました。||The Mona Lisa was stolen from the Louvre in 1911.
 ルーメン|ルーメン|lumen|95|流明|d|||
 レアアイテム|レアアイテム|rare item, unusual item|95|稀有道具；稀有物品|h|||
-レアリティ|レアリティ|rarity|95|尤物；異物|b|||
-レアル|レアル|real|95|實；活生生|b|||
+レアリティ|レアリティ|rarity|95|稀有度|v|||
+レアル|レアル|real|95|雷亞爾；皇家|v|||
 レイズ|レイズ|raising, raising|95|加注；加碼；加薪|h|||
 レイド|レイド|raid, RAID|95|團體副本；突襲；團戰|h|||
 レオタード|レオタード|leotard|95|緊身衣；體操服|h|||
@@ -24292,10 +24292,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ワンタッチ|ワンタッチ|single touch, one-touch operation|95|一鍵式；一觸即發；一觸式|h|||
 ワンポイント|ワンポイント|one point, stitched ornament|95|重點；點綴圖案；繡花圖樣|h|||
 ワンルーム|ワンルーム|one room apartment, studio apartment|95|套房；單房公寓|h|学生の頃は、ワンルームに住んでました。||When I was a student, I lived in a bedsit.
-ワーム|ワーム|worm, worm|95|蠕蟲|b|||
+ワーム|ワーム|worm, worm|95|蠕蟲；電腦蠕蟲|v|||
 ヴィーナス|ヴィーナス|Venus, Venus|95|維納斯；金星|d|ミロのヴィーナスは美の極致だ。||The Venus de Milo is the perfection of beauty.
 ヴェネツィア|ヴェネツィア|Venice|95|威尼斯|d|ヴェネツィアは水の都です。||Venice is a city on water.
-一世|いっせい|generation, lifetime, the age|95|一世|a|百年は一世紀と呼ばれる。||A hundred years is called a century.
+一世|いっせい|generation, lifetime, the age|95|一世；一生；當代|v|百年は一世紀と呼ばれる。||A hundred years is called a century.
 一人ぼっち|ひとりぼっち|aloneness, loneliness, solitude|95|孤伶伶；孤單；獨自一人|d|彼女はいなくて一人ぼっちだった。|她不在，我很孤獨。|I was lonely without her.
 一人娘|ひとりむすめ|only daughter|95|獨生女；獨女|h|彼女はあなたの一人娘なのですか？||Is she your only daughter?
 一任|いちにん|entrusting, leaving entirely with|95|全權委託；交付|h|家計のことは妻に一任していた。||I entrusted my wife with the family finances.
@@ -24371,12 +24371,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 中央アジア|ちゅうおうアジア|Central Asia|95|中亞|d|彼は中央アジアの旅行から戻ってきた。||He's back from his travels in Central Asia.
 中将|ちゅうじょう|lieutenant general, vice-admiral|95|中將|h|||
 中性子|ちゅうせいし|neutron|95|中子|b|原子は陽子・中性子・電子で構成されている。||Atoms are composed of protons, neutrons, and electrons.
-中段|ちゅうだん|half-way up a slope or stairway, landing|95|著陸|b|||
+中段|ちゅうだん|half-way up a slope or stairway, landing|95|中間；樓梯轉角平台|v|||
 中米|ちゅうべい|Central America|95|中美洲|d|戦争中米国は英国との交易を中断しようとした。||During the war, America tried to stop trading with England.
 中華民国|ちゅうかみんこく|Republic of China, ROC, Taiwan, Republic of China|95|中華民國；台灣|d|||
 中西部|ちゅうせいぶ|middle west, Midwest|95|中西部|a|私はアメリカ中西部の小さな町の出身です。||I come from a small town in the Midwest.
 中規模|ちゅうきぼ|mid-range, mid-scale, mid-size|95|中型規模；中等規模|h|||
-中越|ちゅうえつ|Chūetsu, China and Vietnam|95|中國與越南|h|||
+中越|ちゅうえつ|Chūetsu, China and Vietnam|95|中越地區；中國與越南|v|||
 中距離|ちゅうきょり|middle-distance, intermediate-range|95|中程；中距離|h|||
 中頃|なかごろ|about the middle|95|中間時期；大約中間|h|４月の中頃には、たくさんの種類の花が咲く。||Many kinds of flowers come out in the middle of April.
 串カツ|くしカツ|kushikatsu, deep-fried skewered meat and vegetables|95|炸串；串炸|h|||
@@ -24460,34 +24460,34 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 仰せ|おおせ|order, command, what you say|96|令；命令|b|||
 件名|けんめい|subject, title, subject|96|話題；課|b|内容が件名で判断出来ますので、記入をお願い致します。||I use the subject line to determine the contents so please fill it in.
 伏す|ふす|to lie face down, to lie flat, to fall prostrate|96|趴下；伏臥|h|海賊は降伏するしかなかった。|海盜只能投降。|The pirates had no choice but to surrender.
-伏せる|ふせる|to lay face down, to place upside down, to turn over|96|扣放；翻面朝下；隱瞞|h|彼を待ち伏せる一計を案じた。||He has a plan to ambush him.
+伏せる|ふせる|to lay face down, to place upside down, to turn over|96|趴下；蓋住；隱瞞|v|彼を待ち伏せる一計を案じた。||He has a plan to ambush him.
 休刊|きゅうかん|suspension of publication|96|停刊|h|東京の日経新聞は、祝日のため休刊日でした。||The Nikkei in Tokyo was closed for a public holiday.
 会わせる|あわせる|to make meet, to let meet|96|使見面；使會面|h|両家の何代にもわたる不和を解消するために、両家の指導者を会わせるべきだ。||Both leaders should be brought together to bring down the curtain on generations of feuding between the two clans.
 伯耆|ほうき|Hōki|96|伯耆；日本舊國名|h|||
-伴侶|はんりょ|companion, partner, spouse|96|伴侶；夥|a|二人は伴侶三人は仲間割れ。|一個和尚挑水吃，兩個和尚抬水吃，三個和尚沒水吃。|Two is company, but three is none.
+伴侶|はんりょ|companion, partner, spouse|96|伴侶；夥伴|v|二人は伴侶三人は仲間割れ。|一個和尚挑水吃，兩個和尚抬水吃，三個和尚沒水吃。|Two is company, but three is none.
 伸度|しんど|elasticity|96|彈力|b|||
-伸長|しんちょう|expansion, extension, elongation|96|擴張|b|||
+伸長|しんちょう|expansion, extension, elongation|96|伸長；延長；擴張|v|||
 佃煮|つくだに|preserved food boiled in sweetened soy sauce|96|佃煮；醬油甜煮小菜|h|||
 低俗|ていぞく|vulgar, lowbrow, coarse|96|低俗；粗俗|a|||
 体つき|からだつき|body build, figure|96|體格；身材|d|彼の体つきはいかにも強そうだった。||His body showed every mark of his strength.
 余波|よは|waves that remain after the wind has subsided|96|餘波|a|台風の余波で２日間停電した。||There was no electricity for two days in the aftermath of the typhoon.
-作り物|つくりもの|artificial product, man-made product, imitation|96|人造物；假的東西；道具|h|||
-作業場|さぎょうば|workshop, works|96|坊；車間|b|||
+作り物|つくりもの|artificial product, man-made product, imitation|96|人造物；贗品；道具|v|||
+作業場|さぎょうば|workshop, works|96|工作場所；工坊；工廠|v|||
 使い切る|つかいきる|to use up, to exhaust, to wear out|96|盡；窮盡|b|彼は使い切ることが出来ないほどのお金を持っている。||He has more money than he can spend.
 使節|しせつ|envoy, ambassador, delegate|96|使節|a|政府は外国へ使節を派遣した。||The government dispatched missions abroad.
 使途|しと|purpose for which money is spent, the way money is spent, how goods are used|96|用途|h|||
 例示|れいじ|exemplification, illustrating by example|96|舉例說明|h|||
 侍史|じし|respectfully, private secretary|96|侍史；書信用語|h|||
 供犠|くぎ|sacrifice, sacrificial animal|96|祀；犧|b|||
-供託|きょうたく|deposit|96|存放；押金|b|||
+供託|きょうたく|deposit|96|提存；寄存|v|||
 侮蔑|ぶべつ|scorn, disdain, contempt|96|侮蔑|a|||
 侯爵|こうしゃく|marquis, marquess|96|侯爵|a|||
 係争|けいそう|dispute, contention, conflict|96|糾紛；辯|b|||
 俊彦|しゅんげん|gifted man, accomplished man|96|俊彥；傑出之人|h|||
 俊敏|しゅんびん|quick-witted and agile, keen and nimble|96|敏捷；機敏|h|||
 保冷|ほれい|keeping cool|96|保冷；保持低溫|h|||
-信義|しんぎ|faith, fidelity, loyalty|96|信念|b|||
-俯す|ふす|to lower|96|減；壓低|b|||
+信義|しんぎ|faith, fidelity, loyalty|96|信義；誠信|v|||
+俯す|ふす|to lower|96|俯身；低頭|v|||
 個々人|ここじん|each individual, each person|96|個人；每一個人|h|||
 倍数|ばいすう|multiple|96|倍數|a|最小公倍数を求めなさい。||Find the lowest common denominator.
 倚藉|いしゃ|relying on, depending on|96|依靠；憑藉|h|||
@@ -24531,7 +24531,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 光明|こうみょう|bright light, hope|96|光明；希望|d|スイスは風光明媚なことで有名である。||Switzerland is famous for its scenic beauty.
 光機|こうき|optical instrument, optical equipment|96|光學器材|h|||
 光熱|こうねつ|light and heat|96|光與熱；能源|h|||
-光輝|こうき|brightness, splendour, splendor|96|亮度|b|天才とは、彼らの世紀を照らして光輝くべく運命づけられた流星である。||Men of genius are meteors destined to burn in order to illuminate their century.
+光輝|こうき|brightness, splendour, splendor|96|光輝；光彩|v|天才とは、彼らの世紀を照らして光輝くべく運命づけられた流星である。||Men of genius are meteors destined to burn in order to illuminate their century.
 免罪|めんざい|acquittal, indulgence|96|赦免罪過；免罪|h|||
 児子|じし|child, children|96|孩子；兒童|b|||
 入出力|にゅうしゅつりょく|input and output, input-output, IO|96|輸入輸出|h|||
@@ -24605,7 +24605,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 切り抜き|きりぬき|clipping, cutting, scrap|96|剪報；剪貼；剪下|h|箱の中には新聞や雑誌の切り抜きがあった。||Inside the box were cuttings from newspapers and magazines.
 切り捨てる|きりすてる|to cut off and throw away, to abandon|96|棄；丟下|b|||
 切り盛り|きりもり|management, administration, running|96|操持；經營；打理|h|母は家事を切り盛りするのに忙しい。||Mother is busy keeping house.
-切り裂く|きりさく|to cut up, to split open, to rip to pieces|96|分割；切成|b|||
+切り裂く|きりさく|to cut up, to split open, to rip to pieces|96|割裂；撕裂|v|||
 切り返し|きりかえし|counterattack, slashing back, railway switchback|96|反攻；反撲|b|||
 切り開く|きりひらく|to cut open, to clear|96|劃破；剖|b|||
 切望|せつぼう|earnest desire, eager hope, longing|96|渴望；殷切期望|h|私たちは平和を切望している。|我們渴望和平。|We are anxious for peace.
@@ -24651,7 +24651,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 割愛|かつあい|omitting, leaving out, dropping|96|割愛；忍痛捨棄|h|その事件の説明は、紙面が足りないため割愛された。||The explanation of the event was omitted for lack of space.
 割烹|かっぽう|cooking, cuisine, restaurant|96|割烹；烹飪；日式料理|h|||
 創党|そうとう|founding of a party|96|建黨；創黨|h|||
-創意|そうい|original idea, originality|96|本意；創見|b|||
+創意|そうい|original idea, originality|96|創意；獨創性|v|||
 力作|りきさく|painstaking piece of work, work of great effort, tour de force|96|力作；精心之作|h|今回発売されたアルバムは、ストーリー仕立てになっていて力作だ。||Her latest album is a tour de force. It even has a storyline.
 力戦|りきせん|hard fighting|96|惡鬥|b|||
 力持ち|ちからもち|muscleman, strong man|96|大力士；力氣大的人|d|私は力持ちに見えるかもしれないが、実はそうでもない。|我看上去像是很有力氣的人，可實際上並非如此。|I may look strong, but I'm honestly not.
@@ -24665,7 +24665,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 動体|どうたい|moving body|96|動體；運動物體|h|水も空気も両方とも流動体である。||Water and air are both fluids.
 動悸|どうき|palpitation, pounding, throbbing|96|心悸|b|動悸が激しくなることがよくあります。||I often experience palpitations of the heart.
 動議|どうぎ|motion|96|動議|a|討論を継続することを動議します。||I move that we continue the discussion.
-動静|どうせい|state, condition, developments|96|聲明；說道|b|警察はそのグループの動静を常に監視する。||The police is always watching the movements of the group.
+動静|どうせい|state, condition, developments|96|動靜；情況|v|警察はそのグループの動静を常に監視する。||The police is always watching the movements of the group.
 勘案|かんあん|taking into consideration, giving consideration|96|斟酌；考量|h|||
 勝山|かつやま|Katsuyama hairstyle, Edo-period woman's hairstyle made popular by a Yoshiwara prostitute called Kats|96|勝山髻；勝山髮型|h|||
 勢ぞろい|せいぞろい|assembling, muster, lining up|96|齊聚；齊集；大集合|h|||
@@ -24689,10 +24689,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 南ア|なんア|South Africa|96|南非|d|オーストラリアは南アメリカより小さい。|澳洲比南美洲小。|Australia is smaller than South America.
 南北戦争|なんぼくせんそう|American Civil War|96|南北戰爭|h|南北戦争はいつ始まったのかしら。||I wonder when the Civil War started.
 単車|たんしゃ|two-wheeled motor vehicle, motorcycle, motorbike|96|摩托車；機車|d|日本ではほとんど全ての道路は単車線だ。||In Japan, almost all roads are single-lane.
-博愛|はくあい|charity, benevolence, philanthropy|96|慈善機構|b|「自由・平等・博愛」はハイチ共和国のスローガンでもある。||"Freedom, Equality, Brotherhood" is also Haiti's motto.
+博愛|はくあい|charity, benevolence, philanthropy|96|博愛；慈善|v|「自由・平等・博愛」はハイチ共和国のスローガンでもある。||"Freedom, Equality, Brotherhood" is also Haiti's motto.
 博打|ばくち|gambling, gaming, speculation|96|博彩|b|これが博打だってことは分かってます。||I understand that this is a gamble.
 印刷物|いんさつぶつ|printed matter|96|印刷品；印刷物|h|印刷物には、特別郵袋印刷物というのがあります。||Included in the printed matter category is what is called 'special mailbag printed matter'.
-印税|いんぜい|royalty|96|王權；版稅|b|||
+印税|いんぜい|royalty|96|版稅|v|||
 危機一髪|ききいっぱつ|by a hair's breadth, in the nick of time, touch and go|96|千鈞一髮；危在旦夕|h|危機一髪だった。||That was a close shave.
 危篤|きとく|critical condition, being on the verge of death|96|病危；瀕危|h|首相は危篤だとささやかれている。||It is whispered that the Prime Minister is critically ill.
 卵黄|らんおう|egg yolk|96|卵黃；蛋黃|a|私は卵黄が大好きです。|我愛蛋黃。|
@@ -24712,7 +24712,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 反米|はんべい|anti-American|96|反美|b|||
 反証|はんしょう|proof to the contrary, disproof, counter-evidence|96|反證|a|芳男は反証があるにもかかわらず、そう信じ続けた。||Yoshio persisted in believing that in spite of the evidence.
 収賄|しゅうわい|accepting a bribe|96|收賄；受賄|h|収賄事件は政府に疑惑を投げかけた。||The bribery scandal cast doubts on the government.
-取り合う|とりあう|to join, to take|96|配|b|あなたは、スミス氏と連絡を取り合うべきです。||You should keep in touch with Mr. Smith.
+取り合う|とりあう|to join, to take|96|爭奪；理睬|v|あなたは、スミス氏と連絡を取り合うべきです。||You should keep in touch with Mr. Smith.
 取り壊し|とりこわし|demolition, pulling down, destruction|96|拆除；拆毀|h|彼らはその古い家を取り壊した。||They demolished the old house.
 取り急ぎ|とりいそぎ|in haste, for now|96|匆忙；暫且；先行|h|取り急ぎ連絡いたします。||I will contact you soon.
 取り直し|とりなおし|rematch|96|重來；重新比賽|h|気を取り直して仕事に掛かった。||I pulled myself together and started my work.
@@ -24777,7 +24777,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 名付け親|なづけおや|godparent, namer|96|取名者；命名人|h|彼は私の長男の名付け親であった。||He stood godfather to my first son.
 名士|めいし|celebrity, personage|96|名士；知名人士|d|市長のほかにたくさんの名士が出席していた。||Beside the mayor, many other distinguished guests were present.
 名子|なご|lower class peasant, peasant working for a land-owning farmer|96|佃農；名子|h|||
-名実|めいじつ|in name and in reality, nominally and virtually, form and contents|96|名實；名與實|h|||
+名実|めいじつ|in name and in reality, nominally and virtually, form and contents|96|名實|v|||
 名店|めいてん|well-known store, famous shop|96|名店；知名店鋪|h|今や有名店ですね。||The store is making a mark.
 名鑑|めいかん|directory, list|96|名錄|b|||
 名馬|めいば|fine horse, famous horse|96|駿馬|b|||
@@ -24788,7 +24788,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 吹き込む|ふきこむ|to blow in, to blow into|96|吹入；灌入；吹進|h|新貿易協定は国際経済に新風を吹き込むことになるでしょう。||The new trade accord will pump fresh blood into the international economy.
 吹き飛ぶ|ふきとぶ|to be blown off, to blow off, to blow away|96|吹飛；吹走；炸飛|h|カラオケで思い切り歌うとストレスが吹き飛ぶ。||When I sing my heart out at karaoke, all my stress just flies away.
 吹聴|ふいちょう|spreading around, making widely known, making public|96|宣揚；散播；吹噓|h|||
-吾兄|あせ|you|96|你；妳|b|||
+吾兄|あせ|you|96|兄長；你|v|||
 吾子|あこ|my child|96|吾子；我兒|h|||
 呈する|ていする|to present, to offer, to show|96|遞交；饋|b|土曜日にはこの通りは買い物客で活気を呈するのが常だ。||This street will come alive with shoppers on Saturday.
 呑吐|どんと|swallowing and spitting out|96|吞吐；吞吐量|h|||
@@ -24814,13 +24814,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 咳く|せく|to cough|96|咳嗽|b|||
 咽頭|いんとう|pharynx|96|咽頭|a|||
 哀悼|あいとう|condolence, regret, tribute|96|哀悼；哀悼之情|h|ロシア：人質事件の犠牲となった方々に哀悼の意を表す。|俄羅斯對在人質事件中犧牲的人們表示哀悼。|Russia expresses regret for those lost in the hostage incident.
-品性|ひんせい|character, personality|96|文字；質|b|||
+品性|ひんせい|character, personality|96|品性；品格|v|||
 品評|ひんぴょう|estimation, criticism, comment|96|品評；評論|d|彼女は自分のテリア犬を犬品評会に出した。||She entered her terrier in a dog show.
 哺乳|ほにゅう|suckling, nursing, lactation|96|哺乳|h|蝙蝠は鳥ではなく哺乳類だ。|蝙蝠不是鳥，是哺乳類動物。|Bats are not birds, they're mammals.
 唸り|うなり|groan, moan, growl|96|哼|b|犬は「ここには木があらへん」と唸り声をあげました。||"There's no tree here", growled the dog.
 唾棄|だき|disdain, contempt, scorn|96|唾棄|a|||
 商工会|しょうこうかい|commerce and industry association, chamber of commerce and industry|96|商工會；工商會|h|||
-啓く|ひらく|to enlighten, to edify|96|啟發；迪|b|||
+啓く|ひらく|to enlighten, to edify|96|啟發；開導|v|||
 喘ぐ|あえぐ|to gasp, to pant, to breathe hard, to suffer|96|喘|b|不況に喘ぐ店が急増している。||There is a rapid increase in shops struggling in the depression.
 喜怒哀楽|きどあいらく|human emotions, feelings|96|人情|b|喜怒哀楽を見せるな。||Don't let your feelings show.
 喧伝|けんでん|spreading around, talking about widely, noising about|96|喧傳；四處宣揚|h|||
@@ -24865,7 +24865,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 地政学|ちせいがく|geopolitics|96|地緣政治學|d|||
 地方裁判所|ちほうさいばんしょ|district court, local court|96|地方法院|d|||
 地酒|じざけ|local sake|96|當地清酒；地方酒|h|旅に出たら地酒を飲まなきゃ。||When you travel, you've got to try the local brew.
-均し|ならし|average, leveling, levelling|96|平平|b|平均して１日何マイル歩きますか。||On an average how many miles do you walk a day?
+均し|ならし|average, leveling, levelling|96|平均；弄平|v|平均して１日何マイル歩きますか。||On an average how many miles do you walk a day?
 城塞|じょうさい|fortress, stronghold, citadel|96|城塞；堡壘|h|||
 城跡|しろあと|castle site, ruins of a castle|96|城址；古城遺址|h|||
 城門|じょうもん|castle gate|96|城門|h|||
@@ -24878,9 +24878,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 堕ろす|おろす|to abort|96|墮胎|h|||
 報奨|ほうしょう|bonus, bounty, reward|96|獎勵；獎金|d|捜査特別報奨金を支払います。||There's a price on our heads.
 塗り絵|ぬりえ|picture for coloring in|96|塗色畫；著色畫|h|||
-塗布|とふ|application, coating|96|申請書|b|息子の歯にフッソを塗布してください。||Please give him a fluoride treatment.
+塗布|とふ|application, coating|96|塗抹；塗佈|v|息子の歯にフッソを塗布してください。||Please give him a fluoride treatment.
 塞く|せく|to dam up, to dam|96|堵塞；阻塞|h|||
-塩基|えんき|base|96|基地；卑鄙|b|||
+塩基|えんき|base|96|鹼基|v|||
 塩尻|しおじり|cone-shaped|96|鹽尻；圓錐形堆|h|||
 塩焼き|しおやき|grilling with salt, broiling with salt|96|鹽烤|h|||
 塩酸|えんさん|hydrochloric acid|96|鹽酸|a|||
@@ -24895,7 +24895,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 声楽|せいがく|vocal music|96|聲樂；唱腔|a|彼は声楽家になろうと決心している。||He is bent on becoming a vocalist.
 声質|せいしつ|voice quality, type of voice|96|音質；嗓音特質|h|||
 声高|こわだか|loud|96|高聲；大聲|d|労働者達は声高に賃上げを要求した。||Workers made loud demands for higher wages.
-売り子|うりこ|salesperson, shop assistant, hawker, male prostitute|96|業務員|b|彼女は売り子だったことを秘密にしていた。||She concealed the fact that she used to be a salesgirl.
+売り子|うりこ|salesperson, shop assistant, hawker, male prostitute|96|店員；叫賣員；推銷員|v|彼女は売り子だったことを秘密にしていた。||She concealed the fact that she used to be a salesgirl.
 売り込む|うりこむ|to build a market for, to promote, to sell|96|提升；提倡|b|||
 売人|ばいにん|trader, smuggler, pusher|96|商販|b|レイラの彼氏は、ヤクの売人だった。||Layla's boyfriend was a drug dealer.
 変わり者|かわりもの|eccentric, oddball, character|96|奇人|b|母は変わり者です。|我母親是個奇特的人。|My mother is eccentric.
@@ -24935,7 +24935,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 大掛かり|おおがかり|large-scale|96|大規模；大型|d|我々は大掛かりな大衆の抵抗に直面した。||We came up against massive popular resistance.
 大損|おおぞん|heavy loss|96|大虧；重大損失|h|その暴風雨は大損害をもたらした。||The storm brought heavy losses.
 大政|たいせい|sovereign power, the reins of government|96|大政；國政|h|彼は世にもまれな大政治家である。||He is as great a statesman as any.
-大本|たいほん|foundation, basic principles|96|基金會；根基|b|大本教は日本の新興宗教の一つに数えられる。||Oomoto can be included among the new religions of Japan.
+大本|たいほん|foundation, basic principles|96|根本；大本營|v|大本教は日本の新興宗教の一つに数えられる。||Oomoto can be included among the new religions of Japan.
 大根おろし|だいこんおろし|grated daikon, daikon grater|96|蘿蔔泥|h|||
 大棗|たいそう|jujube, Chinese date, red date|96|紅棗|b|||
 大漁|たいりょう|big catch, good haul|96|大豐收；豐收|h|||
@@ -24963,18 +24963,18 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 天満宮|てんまんぐう|Tenmangu shrine|96|天滿宮|h|||
 天然記念物|てんねんきねんぶつ|natural monument, protected species|96|天然紀念物|h|||
 天王|てんのう|heavenly king, Gozu Tenno|96|天王；牛頭天王|h|四天王寺は日本最古の寺です。||The Shitennouji is the most ancient temple in Japan.
-天真爛漫|てんしんらんまん|innocent, naive, artless|96|無罪|b|あの子たち、みんな天真爛漫ね。||They're all innocent children.
+天真爛漫|てんしんらんまん|innocent, naive, artless|96|天真爛漫|v|あの子たち、みんな天真爛漫ね。||They're all innocent children.
 天窓|てんまど|skylight, head|96|天窗；頭頂|d|天窓のある部屋がいいです。||A room with a skylight would be fine.
 天竺|てんじく|cotton sheeting, foreign|96|天竺；印度；棉布|h|||
-天資|てんし|nature, natural elements|96|性；自然|b|||
+天資|てんし|nature, natural elements|96|天資；稟賦|v|||
 天賜|てんし|heavenly gift, imperial gift|96|天賜；天賜之物|h|||
 天路|あまじ|deva realm, path in the heavens|96|天路；天界之路|h|||
 天道|てんとう|the sun, god of heaven and the earth|96|日；太陽|b|||
 太っ腹|ふとっぱら|generous, magnanimous, big-hearted|96|大方|b|||
-太め|ふとめ|plump, somewhat large|96|肥厚|b|やっぱり太めの凛々しい眉毛だね。||He really does have such thick, imposing eyebrows.
+太め|ふとめ|plump, somewhat large|96|偏粗；偏胖|v|やっぱり太めの凛々しい眉毛だね。||He really does have such thick, imposing eyebrows.
 太夫|たゆう|high-ranking noh actor, head of a school of noh performance|96|太夫；能樂流派首領|h|彼は百地三太夫です。||He is Sandayu Momochi.
 太師|たいし|Senior Grand Tutor|96|太師；太傅|h|||
-太平|たいへい|peace, tranquility, tranquillity, happy-go-lucky|96|和平|b|彼は三十日で太平洋を渡った。|他用30天橫渡了太平洋。|He crossed the Pacific Ocean in thirty days.
+太平|たいへい|peace, tranquility, tranquillity, happy-go-lucky|96|太平；和平|v|彼は三十日で太平洋を渡った。|他用30天橫渡了太平洋。|He crossed the Pacific Ocean in thirty days.
 失せる|うせる|to disappear, to vanish, to fade away, to go|96|消失；不見；消逝|d|||
 失念|しつねん|forgetting, lapse of memory|96|忘記；失念|h|||
 失意|しつい|disappointment, despair, despondency|96|失意；失望|d|ビルは失意のうちに死んだ。||Bill died a disappointed man.
@@ -24987,7 +24987,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 奇怪|きかい|strange, wonderful, weird|96|奇怪；奇|a|彼は奇怪な体験を詳しく話した。||He recounted his unusual experiences.
 奇数|きすう|odd number|96|奇數|a|奇数と偶数は交互に現れる。||Odd numbers alternate with even ones.
 奇譚|きたん|mysterious story|96|奇談；奇聞|h|||
-奥地|おくち|interior, backwoods, hinterland|96|內部|b|トムはヒマラヤの奥地で質素な暮らしをしている。||Tom lives a simple life far away in the Himalayas.
+奥地|おくち|interior, backwoods, hinterland|96|內地；深處|v|トムはヒマラヤの奥地で質素な暮らしをしている。||Tom lives a simple life far away in the Himalayas.
 奥山|おくやま|remote mountain, mountain recesses|96|深山；深山老林|h|||
 奪い合い|うばいあい|scramble|96|爭奪；搶奪|h|||
 奮発|ふんぱつ|strenuous efforts, exerting oneself, stirring oneself up|96|振奮；努力；大方花錢|h|彼は奮発して新車を買った。|他花很多錢買了輛新車。|He treated himself to a new car.
@@ -25000,7 +25000,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 女系|じょけい|female line, matrilinear|96|女系；母系|h|||
 好投|こうとう|good pitching|96|好投；投得好|h|||
 好期|こうき|ideal time|96|好時機；良機|h|||
-如し|ごとし|like, as if, the same as|96|同；喜愛|b|光陰矢の如し。|光陰如箭，日月如梭。|How time flies!
+如し|ごとし|like, as if, the same as|96|如同；好像|v|光陰矢の如し。|光陰如箭，日月如梭。|How time flies!
 如実|にょじつ|reality, actuality, actual conditions, ultimate reality|96|實際|b|||
 妖狐|ようこ|fox with supernatural powers, fox spirit|96|妖狐；狐妖|h|||
 妖魔|ようま|ghost, monster, demon|96|妖魔；鬼魂|a|||
@@ -25062,7 +25062,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 対支|たいし|concerning China|96|對華；對中國|h|||
 対極|たいきょく|antipodes, other extreme|96|對極；相反極端|h|||
 対義語|たいぎご|antonym|96|反義詞|b|||
-封じる|ふうじる|to seal, to prevent|96|海豹；印章|b|||
+封じる|ふうじる|to seal, to prevent|96|封印；封鎖|v|||
 専科|せんか|specialized course, specialised course, something that is specialized for a certain field or applica|96|專科；專門課程|h|||
 尊大|そんだい|haughty, arrogant, pompous|96|傲慢；自大|d|その政治家は尊大な態度で話した。||The politician spoke with an important air.
 尊師|そんし|holy master, guru|96|尊師；敬師|h|||
@@ -25082,7 +25082,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 屁理屈|へりくつ|sophism, chop logic, far-fetched argument|96|歪理；強詞奪理|h|お前の屁理屈はもう聞き飽きたよ。||I'm tired of hearing you pull arguments out of who knows where.
 居候|いそうろう|lodger who pays nothing for room and board, freeloader, sponger|96|寄食者；食客|d|彼はいつもどこかの家に居候しているようだ。||He always seems to be living rent-free in somebody's house.
 居座る|いすわる|to remain, to stay|96|剩|b|この辺に居座るんじゃない。||Don't stay around here.
-屈する|くっする|to yield, to give in, to be daunted, to bend|96|讓；降服|b|退屈するどころか、結構楽しかった。||Far from being bored, I had a great time.
+屈する|くっする|to yield, to give in, to be daunted, to bend|96|屈服；彎曲|v|退屈するどころか、結構楽しかった。||Far from being bored, I had a great time.
 属国|ぞっこく|vassal state, vassal nation, dependency|96|屬國；諸侯國|a|||
 山上|さんじょう|mountain top|96|山上；山頂|h|飛行機は富士山上空を飛行しました。||The plane flew over Mt. Fuji.
 山吹|やまぶき|kerria, Japanese yellow rose|96|棣棠；山吹|h|葉が山吹色になる。||The leaves turn to gold.
@@ -25099,12 +25099,12 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 工面|くめん|contrivance, managing, one's financial condition|96|籌措；張羅|h|今日は借金の工面で東奔西走した。||I was on the go all day today looking for a loan.
 左舷|さげん|port|96|左舷；港口|a|||
 巨神|きょしん|giant god, colossal deity, titan|96|巨神；巨人神|h|||
-巻き返し|まきかえし|rally, recovery, comeback, winding|96|拉力賽|b|||
+巻き返し|まきかえし|rally, recovery, comeback, winding|96|反撲；捲土重來|v|||
 巻物|まきもの|makimono, handscroll, rolled book, roll of cloth|96|卷軸；捲軸|h|この本は二巻物です。||This book comes in two volumes.
 巾着|きんちゃく|drawstring purse, money pouch, pouch of fried tofu stuffed with var. ingredients, used in oden|96|荷包；束口袋|h|||
 市中|しちゅう|in the city, in the community|96|市內；城市裡|h|市中心部の地価はうなぎのぼりです。||The price of land in the center of the city is soaring.
 市井|しせい|the street, the town|96|市井；街|a|||
-市松|いちまつ|check, ichimatsu doll|96|考；查詢|b|||
+市松|いちまつ|check, ichimatsu doll|96|市松紋；格子紋|v|||
 市況|しきょう|market conditions|96|市況；行情|h|||
 市町|しちょう|cities and towns|96|城鎮；市町|d|||
 市部|しぶ|urban areas|96|市區；城市地區|h|大部分の人々は都市部に住んでいる。||Most people live in urban areas.
@@ -25165,7 +25165,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 弁天|べんてん|Benten|96|辯天；辯財天|h|||
 弁済|べんさい|repayment, settlement, paying off|96|還款|b|||
 弄ぶ|もてあそぶ|to play with, to fiddle with|96|耍；玩弄|b|||
-弊|へい|bad habit, harm, my|96|弊；惡習|a|彼は外国へいったことがありません。|他從沒出過國。|He's never been abroad.
+弊|へい|bad habit, harm, my|96|弊端；敝|v|彼は外国へいったことがありません。|他從沒出過國。|He's never been abroad.
 引き渡す|ひきわたす|to deliver, to extradite, to stretch across|96|付給；送達|b|最終的に、彼を警察に引き渡すことにした。||We finally decided to hand him over to the cops.
 引き立て|ひきたて|favor, favour, patronage, support|96|恩典；恩惠|b|赤いドレスは彼女を引き立てた。||Her red dress made her stand out.
 引き落とし|ひきおとし|debit, withdrawal, pulling down|96|扣款；自動扣繳|h|||
@@ -25200,7 +25200,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 御供え|おそなえ|offering|96|祭品；供品|b|||
 御利益|ごりやく|divine grace, divine favour, blessing, benefit|96|神佛恩惠；利益|d|||
 御堂|みどう|enshrinement hall, temple, cathedral|96|佛堂；殿堂|h|||
-御年|おんとし|age|96|時代；年齡|b|||
+御年|おんとし|age|96|高壽；年齡|v|||
 御簾|みす|bamboo blind|96|簾子；竹簾|h|||
 御苑|ぎょえん|imperial garden|96|御苑；皇家庭園|h|||
 御霊|みたま|spirit of a deceased person, the Holy Ghost|96|亡靈；御靈|h|御霊によって生まれるものも、皆そのとおりです。||So it is with everyone born of the Spirit.
@@ -25247,7 +25247,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 悪日|あくにち|unlucky day|96|凶日；不吉之日|h|||
 悪玉|あくだま|bad character, bad person, villain|96|壞人；壞角色|d|一方を善玉、 他方を悪玉と簡単に決めつけるわけにはいかない。||We cannot simply label one as good and the other as bad.
 悲哀|ひあい|sorrow, grief, sadness|96|悲哀；哀傷|h|知識を増す者は悲哀を増す。||He that increases knowledge increases sorrows.
-悲痛|ひつう|grief, sorrow, extreme sadness|96|沉痛；慼|b|||
+悲痛|ひつう|grief, sorrow, extreme sadness|96|悲痛|v|||
 悶々|もんもん|anguished, distressed, worried, horny|96|煩悶；苦悶|h|||
 悶える|もだえる|to writhe, to be in agony, to be anguished|96|痛苦掙扎；苦悶|h|||
 惚れる|ほれる|to fall in love, to fall for, to become enamored|96|鍾情|b|望みのない誰かに惚れるなんて、ばかばかしいよ。||It is foolish to fall in love with someone who has no desires.
@@ -25256,7 +25256,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 惰気|だき|indolence, listlessness|96|懶散；怠惰|h|||
 想到|そうとう|thinking of, hitting upon|96|想到；想起|h|||
 愚民|ぐみん|ignorant masses, untaught populace, unlearned people|96|愚民|a|||
-愚者|ぐしゃ|fool, nitwit, The Fool|96|呆子；糊弄|b|愚者はすぐ奥の手を出し行き詰まる。||A fool's bolt is soon shot.
+愚者|ぐしゃ|fool, nitwit, The Fool|96|愚者；傻瓜|v|愚者はすぐ奥の手を出し行き詰まる。||A fool's bolt is soon shot.
 愚行|ぐこう|foolish act, folly|96|愚行；蠢事|d|彼は自分の愚行を恥じた。||He was ashamed of troubling you.
 愛しき|いとしき|dear|96|親愛|b|||
 愛し合う|あいしあう|to love one another, to be affectionate towards each other|96|相愛；彼此相愛|h|若い二人はすぐに愛し合うようになった。|這兩個人馬上墜入愛河。|The young couple fell in love with each other very soon.
@@ -25289,15 +25289,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 戦火|せんか|wartime fire, war|97|戰火|h|若者は戦火というものを頭でしか知らない。||Young people know the disasters of war only in the abstract.
 戯画|ぎが|caricature, cartoon, comics|97|漫畫；諷刺畫|h|||
 戸数|こすう|number of houses, number of households|97|戶數|h|||
-所作|しょさ|conduct, behaviour, movements|97|指揮；傳導|b|||
-所望|しょもう|desire, wish, request|97|慾；願望|b|何をご所望ですか？||What can I do for you?
-所轄|しょかつ|jurisdiction|97|司法權；審判權|b|いったんポストに入れたものは、郵便局の所轄になる。||Once a thing is posted, it is in the care of the Post Office.
+所作|しょさ|conduct, behaviour, movements|97|舉止；動作|v|||
+所望|しょもう|desire, wish, request|97|期望；渴望|v|何をご所望ですか？||What can I do for you?
+所轄|しょかつ|jurisdiction|97|管轄|v|いったんポストに入れたものは、郵便局の所轄になる。||Once a thing is posted, it is in the care of the Post Office.
 手ぬぐい|てぬぐい|tenugui, towel|97|手巾；毛巾|d|||
 手の甲|てのこう|back of the hand|97|手背|d|トムはガラスの破片で右手の甲に怪我をした。||The back of Tom's right hand was injured by a splinter of glass.
 手一杯|ていっぱい|having one's hands full, not having any room to do more, at the limit|97|忙得不可開交；力不從心|h|今日は手一杯でそれはできないよ。||I'm busy today, so I can't do that.
-手厚い|てあつい|warm, kind, cordial|97|溫暖；暖|b|彼らは手厚い看護を受けている。||They're well looked after.
-手土産|てみやげ|present, gift|97|遞交；饋|b|||
-手応え|てごたえ|feeling in the hands, resistance|97|阻力；抵抗力|b|||
+手厚い|てあつい|warm, kind, cordial|97|優厚；殷勤；周到|v|彼らは手厚い看護を受けている。||They're well looked after.
+手土産|てみやげ|present, gift|97|伴手禮|v|||
+手応え|てごたえ|feeling in the hands, resistance|97|手感；反響；成效|v|||
 手料理|てりょうり|home cooking|97|家常菜|b|トムは手料理の方が好きなの。||Tom prefers home-cooked meals.
 手相|てそう|lines of the palm, appearance of the palm of the hand|97|手相；掌紋|h|占い師に手相を見せました。||A fortune-teller read my hand.
 手綱|たづな|reins, bridle, control|97|韁繩；控制|d|競馬の騎手は、レースが始まる前、はやる馬を抑えて、手綱を握りしめる。||Before the horse race begins, the jockeys grip the reins tightly to restrain the impatient horses.
@@ -25364,11 +25364,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 換気扇|かんきせん|ventilation fan, extractor fan|97|排風扇；抽風機|h|部屋の換気扇を回すとドアの隙間から冷たい風が入り込んでくる。||When I turn the fan on in the room, a cool breeze comes in from under the door.
 揮発|きはつ|volatilization, volatilisation|97|揮發|h|その液から溶剤を揮発させる。残るのは、香り成分と植物ワックスの塊。|將液體中的溶劑揮發掉。留下來的，是香氣成分與植物蠟組成的塊。|Vaporise the solvent from the liquid. What's left is the perfume component and a lump of vegetable wax.
 揺らぎ|ゆらぎ|quiver, quaver, flutter, statistical fluctuation|97|抖動|b|||
-揺らす|ゆらす|to rock, to shake, to swing|97|石；岩石|b|ゆりかごを揺らす手は世界を支配する。||The hand that rocks the cradle rules the world.
+揺らす|ゆらす|to rock, to shake, to swing|97|搖晃；擺動|v|ゆりかごを揺らす手は世界を支配する。||The hand that rocks the cradle rules the world.
 損ねる|そこねる|to harm, to hurt, to injure, to miss one's chance to|97|損害；損傷|b|急がないと、お昼食べ損ねるよ。||Hurry up, or you'll miss lunch.
 損保|そんぽ|non-life insurance, general insurance, property and casualty insurance|97|財產保險；損害保險|h|||
 損益|そんえき|profit and loss, advantage and disadvantage|97|損益；盈虧|a|||
-摩耗|まもう|wear, abrasion|97|身穿；佩戴|b|||
+摩耗|まもう|wear, abrasion|97|磨損|v|||
 撓める|ためる|to bend, to train|97|彎；彎曲|b|||
 播磨|はりま|Harima|97|播磨國；兵庫縣西南部|h|||
 撰|せん|anthology, compilation, collection|97|選集|b|何と言ったら良いか分かりません。|我不知道應該說什麼才好。|I don't know what I should say.
@@ -25380,7 +25380,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 改称|かいしょう|renaming, retitling|97|改稱；更名|h|||
 改編|かいへん|reorganization, reorganisation|97|改編；重組|h|||
 改選|かいせん|election|97|改選；重選|h|||
-放免|ほうめん|release, discharge, liberation|97|發布；釋出|b|うつ病だから，何を言っても無罪放免さ。|因為他有憂鬱症，所以不管你說什麼他都會被無罪釋放。|By definition the fact it’s depression means it’ll be an acquittal.
+放免|ほうめん|release, discharge, liberation|97|釋放；無罪釋放|v|うつ病だから，何を言っても無罪放免さ。|因為他有憂鬱症，所以不管你說什麼他都會被無罪釋放。|By definition the fact it’s depression means it’ll be an acquittal.
 放熱|ほうねつ|radiant heat, heat radiation, heat dissipation|97|放熱；散熱|h|||
 政局|せいきょく|political situation|97|政局|a|新しい政党の名前は「政局より政策」と決まった。||It was decided that the new political party's name would be "Policy over Politics".
 政教|せいきょう|religion and politics, church and state|97|政教|a|||
@@ -25402,7 +25402,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 斗掻き|とかき|strickle|97|量斗刮板；斗掻|h|||
 断ち切る|たちきる|to cut, to cut off, to sever|97|割；切割|b|あのグループとの関係は断ち切るべきだ。||You should cut off your connections with that group.
 断続|だんぞく|intermittence, being intermittent, occurring intermittently|97|斷續；間歇|d|その日は雨が断続的に降っていた。||It rained on and off all day.
-断罪|だんざい|judgment, conviction, condemnation|97|判決|b|トムさんは断罪されて、死刑判決を受けました。||Tom was convicted and sentenced to death.
+断罪|だんざい|judgment, conviction, condemnation|97|定罪；判罪|v|トムさんは断罪されて、死刑判決を受けました。||Tom was convicted and sentenced to death.
 新体操|しんたいそう|rhythmic gymnastics|97|韻律體操；藝術體操|d|||
 新入り|しんいり|newcomer, initiate, rookie|97|新人；新來者|h|誰もが新入りの女の子に親切だった。||Everyone was friendly to the new girl.
 新大陸|しんたいりく|New World|97|新大陸|a|||
@@ -25522,7 +25522,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 林間|りんかん|in the forest|97|林間；林中|h|||
 果てしない|はてしない|endless, boundless, everlasting|97|無窮；無盡|b|この話は果てしない宇宙の中の旅です。||This tale is a trip through infinite space.
 果てし無く|はてしなく|eternally, interminably|97|無止境地；無窮無盡地|h|||
-果肉|かにく|flesh, pulp|97|血肉|b|このスイカの果肉は柔らかすぎてイマイチです。|這西瓜瓤兒太肉。|
+果肉|かにく|flesh, pulp|97|果肉|v|このスイカの果肉は柔らかすぎてイマイチです。|這西瓜瓤兒太肉。|
 枝垂れる|しだれる|to droop, to hang down, to weep|97|下垂|b|||
 架線|かせん|overhead power line, aerial wiring, overhead line|97|架空電線；架線|h|そのうち、小さな村落の真上を高架線が行ったり来たりするようになりました。||Pretty soon, there was an elevated train going back and forth just above the small village.
 架間|かかん|between equipment|97|機器之間；架子之間|h|||
@@ -25561,10 +25561,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 楽チン|らくチン|easy-peasy, easy, simple, pleasant|97|輕鬆；省事；舒服|h|||
 概して|がいして|generally, as a rule|97|大致上；一般而言|h|概して女性のほうが男性より語学が得意だ。|總體上說，女人是比男人好的語言學家。|Generally speaking, women are better linguists than men.
 概算|がいさん|approximation, rough estimate, ballpark figure|97|概算；粗估|d|彼の財産は１億ドルと概算された。||His property was estimated at one hundred million dollars.
-構う|かまう|to mind, to care about, to be concerned about|97|心目；心思|b|もう構うのはやめてくれよ。||Call off your dogs.
+構う|かまう|to mind, to care about, to be concerned about|97|介意；理睬；照顧|v|もう構うのはやめてくれよ。||Call off your dogs.
 槌|つち|hammer, mallet, sledgehammer|97|槌；錘|a|私たちは家具を二つちょうど購入したところだ。||We have just bought two pieces of furniture.
 標準時|ひょうじゅんじ|standard time|97|標準時|a|ＪＳＴは日本標準時を表わす。|JST代表日本標準時間。|JST stands for Japan Standard Time.
-模造|もぞう|imitation, counterfeit, fake|97|模擬；高仿|b|彼はその模造品を本物と比較した。||He compared the imitation with the original.
+模造|もぞう|imitation, counterfeit, fake|97|仿造；偽造|v|彼はその模造品を本物と比較した。||He compared the imitation with the original.
 横たわる|よこたわる|to lie down, to stretch out, to lie ahead|97|臥倒；倒頭|b|||
 横ばい|よこばい|sidewise crawl, crawling sideways|97|持平；停滯不前|h|||
 横並び|よこならび|positioning side-by-side, parallel arrangement|97|並排；齊頭並進|h|||
@@ -25574,7 +25574,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 横転|おうてん|toppling sideways, turning sideways, falling over sideways|97|翻倒；橫倒|h|そしたら横転したの手伝ってやっからよ。||Then I'll help you overturn the wagon.
 横長|よこなが|oblong, landscape orientation|97|橫長；橫向|h|||
 樹海|じゅかい|sea of trees, broad expanse of dense woodland, abundant leafage|97|林海；茂密森林|h|||
-樹皮|じゅひ|bark|97|吠|b|樹皮からエキスを抽出する。||Extract an essence from the bark of a tree.
+樹皮|じゅひ|bark|97|樹皮|v|樹皮からエキスを抽出する。||Extract an essence from the bark of a tree.
 樹齢|じゅれい|age of a tree|97|樹齡|d|この木は、樹齢100年以上です。||This tree is more than a century old.
 橋梁|きょうりょう|bridge|97|橋梁；橋|a|トラックが橋梁に接触した。||A truck came into contact with the bridge supports.
 橙色|だいだいいろ|orange|97|橙色；橘色|a|オレンジはずっと橙色なの？||Are oranges always orange?
@@ -25607,8 +25607,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 母港|ぼこう|home port|97|母港|a|船はやっと母港についた。|船終於駛進了母港。|The ship at length reached the home port.
 母艦|ぼかん|mother ship|97|母艦|h|||
 毎時|まいじ|every hour, hourly|97|每小時|h|ニュースは毎時放送しています。||We broadcast news on the hour.
-比類|ひるい|parallel, equal, match|97|平行|b|||
-毛並み|けなみ|coat, lie of hair|97|襖|b|あの猫、毛並みがきれいだな。||That cat has beautiful fur.
+比類|ひるい|parallel, equal, match|97|比擬；匹敵|v|||
+毛並み|けなみ|coat, lie of hair|97|毛色；毛順；門第|v|あの猫、毛並みがきれいだな。||That cat has beautiful fur.
 毛嫌い|けぎらい|antipathy, prejudice|97|厭惡；反感|d|どうして、日本語を毛嫌いするの？||Why do you hate Japanese?
 毛深い|けぶかい|hairy, thickly haired, shaggy|97|多毛；毛多|h|毛深いまゆ毛が彼の顔の特徴だった。||His bushy brows accented his face.
 毛虫|けむし|hairy caterpillar, woolly bear, pest|97|毛毛蟲|h|この毛虫は、蝶々になるんだよ。||The caterpillar is turning into a butterfly.
@@ -25649,7 +25649,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 求愛|きゅうあい|courting, wooing, making advances|97|求愛；追求|h|||
 汚水|おすい|filthy water, sewage|97|污水|a|||
 汚点|おてん|stain, blot, flaw|97|污點；玷污|a|工場はこの風景の汚点となっている。||These factories are a blot on the landscape.
-決裁|けっさい|sanction, approval, decision|97|裁決；批准|h|||
+決裁|けっさい|sanction, approval, decision|97|核准；批示|v|||
 決裂|けつれつ|breakdown, breaking off, rupture|97|決裂|a|交渉の決裂は戦争を引き起こすことになるだろう。||A breakdown in the negotiations will mean war.
 決起|けっき|rising to action, standing up against, jumping to one's feet|97|起義；奮起|h|||
 沖合|おきあい|off the coast, offshore, out at sea|97|近海；外海|d|数艘のヨットが、はるか沖合を並んで航行していた。|數艘遊艇在遠方的海洋並列航行。|Several yachts were sailing side by side far out at sea.
@@ -25657,7 +25657,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 油彩|ゆさい|oil painting|97|油畫|b|||
 油揚げ|あぶらあげ|abura-age, thin deep-fried slices of tofu|97|油豆腐|h|鳶に油揚げをさらわれたようなものだ。||I was robbed of my rightful share.
 油田|ゆでん|oil field|97|油田|a|彼は新しい油田に全財産を賭けた。||He risked his whole fortune to discover new oil fields.
-治世|ちせい|rule, reign, peaceful times|97|規律；統治|b|||
+治世|ちせい|rule, reign, peaceful times|97|治世；統治時期|v|||
 治水|ちすい|river management, river improvement, flood control|97|治水；防洪|d|||
 沼地|ぬまち|marshland, wetland, swampland|97|沼澤地|h|沼地に建物は建てられない。|你不能在沼澤地上建造建築物。|You can't build buildings on swampy land.
 法事|ほうじ|Buddhist memorial service|97|法事；佛事|h|文法事項としては、現在完了の受動態が含まれています。||The grammar section includes the passive voice of the present perfect.
@@ -25686,7 +25686,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 流量|りゅうりょう|flow rate, quantity of flow, capacity|97|流量|h|||
 浅はか|あさはか|shallow, superficial, thoughtless|97|淺；粗淺|b|トムって、めっちゃ浅はかだよね？||Tom is very shallow, isn't he?
 浅瀬|あさせ|shoal, shallows, sand bar|97|淺灘；淺水處|d|負うた子に教えられて浅瀬を渡る。||A child on your back may guide you across a ford.
-浮かび上がる|うかびあがる|to rise to the surface, to come to the front|97|來得；浮出|b|||
+浮かび上がる|うかびあがる|to rise to the surface, to come to the front|97|浮現；浮出水面|v|||
 浮世|うきよ|fleeting life, this transient world, floating world|97|浮世；人世|h|浮世の心配事のない人はない。||No one is free from worldly cares.
 海上保安庁|かいじょうほあんちょう|Japan Coast Guard, JCG|97|海上保安廳|h|||
 海保|かいほ|Japan Coast Guard, JCG|97|海上保安廳|h|||
@@ -25785,7 +25785,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 片栗粉|かたくりこ|potato starch, starch of dogtooth violet|97|太白粉；地瓜粉|d|||
 片腕|かたうで|one arm, one's right-hand man|97|一隻手臂；得力助手|h|俺の片腕となって手助けしてくれ。||Be my right-hand man.
 片鱗|へんりん|part, portion, glimpse|97|局部；部位|b|この壁画からは古代人の生活の片鱗をうかがうことができる。||We can get a glimpse of the lifestyle of ancient people from this wall painting.
-牧草|ぼくそう|pasture, grass|97|牧場|b|羊が牧草地で草を食べている。||Sheep are feeding in the meadow.
+牧草|ぼくそう|pasture, grass|97|牧草|v|羊が牧草地で草を食べている。||Sheep are feeding in the meadow.
 物干し|ものほし|frame for drying clothes, clotheshorse|97|晾衣架；曬衣竿|h|洗濯物干してくれる？||Could you hang up the laundry?
 物性|ぶっせい|physical properties, properties of matter, physicality|97|物性；物質性質|h|今日は動物性タンパク質を摂りたくない気分だ。||I don't feel like eating animal proteins today.
 物色|ぶっしょく|looking for, searching for, hunting out|97|物色；尋找|h|||
@@ -25873,7 +25873,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 癪|しゃく|annoyance, irritation, vexation, abdominal spasms|97|癪|a|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
 発がん|はつがん|carcinogenesis, oncogenesis|97|致癌|h|しかしながら、これらの溶剤は発がん性が指摘された。||However, these solvents were identified as carcinogenic.
 発汗|はっかん|sweating, perspiration, sudation|97|發汗；出汗|h|暖かい天候の時は、発汗作用が体温の調節をする上で役立つ。||During warm weather, sweating helps man regulate his body temperature.
-発疹|ほっしん|rash, eruption|97|皮疹；狂躁|b|台所洗剤で手に発疹ができた。||I got a rash on my hands from dishwasher detergent.
+発疹|ほっしん|rash, eruption|97|發疹；皮疹|v|台所洗剤で手に発疹ができた。||I got a rash on my hands from dishwasher detergent.
 発起|ほっき|originating, coming up with the idea, starting|97|發起；倡議|h|その費用はみな発起人にかかります。||All the expenses will fall on the sponsor.
 発起人|ほっきにん|originator, promoter|97|發起人|h|その費用はみな発起人にかかります。||All the expenses will fall on the sponsor.
 登坂|とうはん|climbing a slope, ascending a hill|97|上坡；爬坡|h|||
@@ -25897,7 +25897,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 皆既|かいき|total eclipse, totality|97|全蝕|d|昨日の皆既月食見た？||Did you see yesterday's total lunar eclipse?
 皇女|こうじょ|imperial princess|97|皇女；公主|h|||
 皇紀|こうき|Imperial era, system of counting years from the start of Emperor Jimmu's reign in 660 BCE|97|皇紀；日本建國紀年|h|||
-皮質|ひしつ|cortex|97|皮質；皮層|a|||
+皮質|ひしつ|cortex|97|皮質|v|||
 皮革|ひかく|leather, hide|97|皮革|a|人造皮革は本物の皮にかなわない。|人造皮革是比不上真皮的。|Artificial leather can't compare with the real thing.
 盗作|とうさく|plagiarism, plagiarised work|97|抄襲；剽竊|h|これは盗作だよ。||This is plagiarism.
 盗用|とうよう|embezzlement, fraudulent use, plagiarism|97|盜用；濫用|h|||
@@ -25959,7 +25959,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 石碑|せきひ|stone monument|97|石碑|h|その著名な哲学者に敬意を表して、巨大な石碑が建てられた。||An immense monument was erected in honor of the eminent philosopher.
 石膏|せっこう|plaster, gypsum, calcium sulphate|97|石膏|a|||
 砂丘|さきゅう|sand dune, sand hill|97|沙丘|b|||
-砂場|すなば|sandpit, sandbox|97|沙場|b|その子は砂場にトンネルを掘った。||That child dug a tunnel in the sandpit.
+砂場|すなば|sandpit, sandbox|97|沙坑；沙池|v|その子は砂場にトンネルを掘った。||That child dug a tunnel in the sandpit.
 砂時計|すなどけい|hourglass, sandglass|97|沙漏|d|叔父から砂時計が与えられた。||My uncle gave me an hourglass.
 研鑽|けんさん|diligent study, devoting oneself to one's studies|97|研磨；鑽研|h|||
 破天荒|はてんこう|unheard-of, unprecedented, daring|97|破天荒|a|||
@@ -26019,7 +26019,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 空目|そらめ|thinking one saw something that wasn't actually there, hallucination|97|看錯；錯看|h|||
 空耳|そらみみ|mishearing, deafness|97|聽錯；幻聽|h|それは君の空耳だ。||You only imagine you've heard it.
 空言|そらごと|falsehood, lie|97|空話；謊言|d|真実と空言を区別するのは難しい。||It is hard to distinguish truth from a lie.
-突き刺さる|つきささる|to stick, to pierce, to enter at full speed|97|貼；棒|b|||
+突き刺さる|つきささる|to stick, to pierce, to enter at full speed|97|刺入；扎進|v|||
 突き止める|つきとめる|to determine, to pin down, to ascertain|97|測定；下決心|b|失敗した理由を突き止める必要があるな。||I need to find out exactly what went wrong.
 突き落とし|つきおとし|thrusting down|97|推落；推下|h|彼はその猫をプールに突き落とした。|他把那隻貓推進了泳池。|He pushed the cat into the swimming pool.
 窓辺|まどべ|by the window|97|窗邊|h|「僕のサボテンはどこ？」「窓辺だよ」||"Where is my cactus?" "On the windowsill."
@@ -26049,7 +26049,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 筑前|ちくぜん|Chikuzen|97|筑前國|h|||
 筑波大学|つくばだいがく|University of Tsukuba|97|筑波大學|h|||
 筒抜け|つつぬけ|being heard, being overheard, being leaked|97|洩漏；被偷聽|h|||
-答申|とうしん|report, reply, findings|97|報道；報導|b|陪審員は有罪の判決を答申した。||The jury has returned a verdict of guilty.
+答申|とうしん|report, reply, findings|97|答覆；審議報告|v|陪審員は有罪の判決を答申した。||The jury has returned a verdict of guilty.
 策士|さくし|tactician, schemer, intriguer|97|謀士；策略家|d|||
 管楽器|かんがっき|wind instrument|97|管樂器|a|||
 管財|かんざい|administration of property, custodianship, receivership|97|財產管理|h|||
@@ -26057,13 +26057,13 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 箱舟|はこぶね|ark|97|方舟|b|あなたはノアの箱舟を知っていますか。||Do you know Noah's ark?
 築城|ちくじょう|castle construction, building a castle, fortification|97|築城|a|||
 簒奪|さんだつ|usurpation|97|篡奪|h|||
-簡便|かんべん|simple, easy, convenient|97|單純；簡|b|問題を解決する最も簡便な方法は、往々にして最も良い方法である。|解決問題最簡便的方法往往是最好的辦法。|The best way to solve a problem is sometimes the simplest.
+簡便|かんべん|simple, easy, convenient|97|簡便；方便|v|問題を解決する最も簡便な方法は、往々にして最も良い方法である。|解決問題最簡便的方法往往是最好的辦法。|The best way to solve a problem is sometimes the simplest.
 粉ミルク|こなミルク|milk powder, baby formula|97|奶粉|h|日本で、粉ミルクから放射性セシウムが検出された。||In Japan, radioactive cesium was detected in baby formula.
 粉飾|ふんしょく|embellishment, ornamentation, decoration|97|粉飾；修飾|h|||
 粘剤|ねり|mucilaginous material used to make washi|97|黏劑|h|||
 精油|せいゆ|essential oil, volatile oil, refined oil|97|精油|a|||
 精米|せいまい|rice polishing, polished rice|97|精米；白米|h|||
-精肉|せいにく|meat, processed meat, small goods|97|肉；肉類|b|彼は逃げるように野菜売り場を立ち去って、精肉コーナーへ。||As if fleeing, he left the vegetable aisle to go to the meat corner.
+精肉|せいにく|meat, processed meat, small goods|97|生肉；鮮肉|v|彼は逃げるように野菜売り場を立ち去って、精肉コーナーへ。||As if fleeing, he left the vegetable aisle to go to the meat corner.
 紅旗|こうき|red flag|97|紅旗|a|||
 紆余曲折|うよきょくせつ|turns and twists, ups and downs, meandering|97|曲折；波折|h|あの問題も、紆余曲折を経て解決した。||There were a lot of twists and turns to the story, but we finally solved the problem.
 納屋|なや|barn, shed, outbuilding|97|倉；穀倉|b|嵐を避けて近くの納屋に逃げ込んだ。||We took refuge from the storm in a nearby barn.
@@ -26075,7 +26075,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 素足|すあし|bare feet|97|光腳|b|熱い砂の上を素足では歩けない。||We cannot walk on the hot sand with bare feet.
 素通り|すどおり|passing through without stopping, passing by|97|過門不入；路過不停|h|||
 素養|そよう|grounding, knowledge, training|97|素養；修養|d|パパはラテン語の素養もあったのです。||Papa had a classical education.
-紡ぐ|つむぐ|to spin, to make yarn, to spin|97|績；紡|b|||
+紡ぐ|つむぐ|to spin, to make yarn, to spin|97|紡紗；編織|v|||
 紡糸|ぼうし|spinning, spun cotton|97|紡絲|a|||
 細め|ほそめ|thinnish, somewhat narrow|97|偏細；略細|h|||
 終値|おわりね|closing price|97|收盤價|b|その会社の株の昨日の終値は９３２円だった。||This company's stock closed at 932 yen yesterday.
@@ -26088,7 +26088,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 経常|けいじょう|ordinary|97|凡；平常|b|||
 結び目|むすびめ|knot|97|結；纈|b|その結び目を守るのは重要なことだ。||Maintaining that tie is important.
 結実|けつじつ|fruition, fructification, bearing fruit, bearing fruit|97|結果；開花結果|h|||
-絞り込む|しぼりこむ|to squeeze, to wring out, to narrow down|97|縮小範圍；擠壓|h|||
+絞り込む|しぼりこむ|to squeeze, to wring out, to narrow down|97|縮小範圍；篩選；擠出|v|||
 絞首刑|こうしゅけい|death by hanging, execution by hanging|97|吊死|b|彼は殺人罪で絞首刑に処せられた。||He was hanged for murder.
 絡める|からめる|to entwine, to twine around, to mix together|97|纏繞；混合|h|||
 絢爛|けんらん|gorgeous, brilliant, dazzling|97|絢爛；華麗|a|||
@@ -26101,7 +26101,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 継母|ままはは|stepmother|97|繼母；後媽|a|この地所は私の継母のものです。||This part of the land belongs to my stepmother.
 綱紀|こうき|law and order, discipline|97|綱紀；治安|a|県警察本部長は警察官の綱紀を正そうとした。||The prefectural police chief tried to tighten his police officers' discipline.
 網戸|あみど|window screen, insect screen, mosquito screen|97|紗窗；紗門|h|||
-綴る|つづる|to spell, to write|97|拼寫；魔咒|b|あなたの苗字はどのように綴るのですか？||How do you spell your last name?
+綴る|つづる|to spell, to write|97|拼寫；撰寫|v|あなたの苗字はどのように綴るのですか？||How do you spell your last name?
 綺譚|きたん|beautiful story|97|奇譚|h|||
 綺麗事|きれいごと|whitewashing, glossing over, lip service|97|漂亮話；表面好聽的話|h|綺麗事は抜きにして、正直に言いなさいよ。||Enough with the empty words. Speak straight with me.
 緊密|きんみつ|rigour, rigor, closeness|97|緊密；密切|h|私どもの関係がより緊密になることを願っております。||We hope to establish a closer relationship between us.
@@ -26187,7 +26187,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 自制心|じせいしん|self-control, self-restraint|98|自制力|b|彼は自分の自制心を誇りに思っていた。||He prided himself on his self-control.
 自助|じじょ|self-help, self-reliance|98|自助；自立|h|自助は最上の助け。|自助是最好的幫助。|Self-help is the best help.
 自問自答|じもんじとう|answering one's own question, wondering to oneself, soliloquizing|98|自問自答|h|||
-自害|じがい|suicide|98|自殺式|b|||
+自害|じがい|suicide|98|自殺|v|||
 自家用|じかよう|for private or home use|98|自家用；自用|h|彼は自家用車を持っている。||He has a car.
 自暴自棄|じぼうじき|desperation, despair, self-abandonment|98|自暴自棄|h|その学生は自暴自棄になった。|這個學生自暴自棄了。|The student gave himself up to despair.
 自死|じし|suicide, apoptosis|98|自殺式|b|||
@@ -26202,7 +26202,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 舞妓|まいこ|maiko, apprentice geisha|98|舞妓|a|||
 航法|こうほう|sailing, navigation|98|航法；航海術|h|||
 般若|はんにゃ|prajna|98|般若|h|般若とは鬼女の能面の事です。||The hannya (般若) is a Noh mask of a female demon.
-船首|せんしゅ|bow, prow, stem|98|弓；鞠躬|b|||
+船首|せんしゅ|bow, prow, stem|98|船首；船頭|v|||
 艦橋|かんきょう|bridge|98|艦橋；橋|a|||
 艦艇|かんてい|naval vessels, warships|98|艦艇；軍艦|h|||
 良作|りょうさく|fine piece, good work|98|佳作|h|||
@@ -26213,7 +26213,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 芋煮|いもに|imoni|98|芋煮；芋頭燉湯|h|||
 芒|のぎ|arista, awn, beard|98|芒|a|二社がしのぎを削っている。||The two companies are competing with each other.
 花冠|かかん|corolla, garland|98|花冠|a|||
-花形|はながた|floral pattern, flourish, ornament, star|98|花紋；明星|h|トムは Tatoeba の花形です。||Tom is the star of Tatoeba.
+花形|はながた|floral pattern, flourish, ornament, star|98|花紋；台柱；明星|v|トムは Tatoeba の花形です。||Tom is the star of Tatoeba.
 花托|かたく|receptacle, torus|98|花托；容器|a|||
 花札|はなふだ|hanafuda, flower cards, playing cards consisting of 12 suits of 4 cards, each suit representing a mo|98|花牌；日本紙牌|h|花札のやり方、誰か教えてください。||Can someone please teach me how to play hanafuda?
 花畑|はなばたけ|field of flowers, flower garden, flower bed|98|花田；花圃|h|||
@@ -26231,7 +26231,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 草花|くさばな|flower, flowering plant|98|花；蘤|b|そうすると鮮やかな色をした鳥や草花や葉が見えて来ました。|他看見色彩鮮豔的鳥、花朵和樹葉。|He saw brightly-colored birds, flowers and leaves.
 荒地|あれち|wasteland, wilderness, abandoned land|98|荒地；荒原|a|||
 荒波|あらなみ|raging waves, stormy seas, hardships|98|驚濤駭浪；苦難|h|小舟は荒波で激しく揺れた。||The little boat bobbed on the rough sea.
-荘厳|そうごん|solemn, sublime, grand|98|穆|b|荘厳な寺院で神聖な儀式が行われた。||The sacred ceremony was held in the magnificent temple.
+荘厳|そうごん|solemn, sublime, grand|98|莊嚴|v|荘厳な寺院で神聖な儀式が行われた。||The sacred ceremony was held in the magnificent temple.
 菌類|きんるい|fungus, fungi|98|菌類|a|||
 菓子パン|かしパン|baked sweet goods, sweet pastry, sweet bread|98|甜麵包|h|||
 落ち着ける|おちつける|to quiet, to calm down, to compose oneself|98|安靜；寂靜|b|||
@@ -26286,8 +26286,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 表層|ひょうそう|surface, outer layer|98|表面；地表|b|||
 表彰台|ひょうしょうだい|victory stand, winners' podium|98|頒獎台|h|トムは表彰台まで歩いた。||Tom walked to the podium.
 表裏|ひょうり|front and back, inside and outside, two sides|98|表裡；內外|d|彼は服を表裏反対に着ていた。|他把衣服裡外穿反了。|He was wearing his clothes inside out.
-裁断|さいだん|cutting, judgement|98|裁斷；裁決|h|布に応じて服を裁断せよ。||Cut your coat according to your cloth.
-装丁|そうてい|binding, design|98|約束力|b|||
+裁断|さいだん|cutting, judgement|98|裁剪；裁決|v|布に応じて服を裁断せよ。||Cut your coat according to your cloth.
+装丁|そうてい|binding, design|98|裝幀；裝訂|v|||
 装具|そうぐ|equipment, harness, fittings, orthotic|98|裝備；器材|b|||
 装束|しょうぞく|costume, dress, attire|98|裝束|a|||
 裏地|うらじ|lining, land that does not adjoin to public or private roads|98|裡；裡子|b|どの雲にも銀の裏地がついている。||Every cloud has a silver lining.
@@ -26325,7 +26325,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 見渡せる|みわたせる|to look out over, to look onto|98|一望；看得見|h|屋上からは、何マイルも見渡せる。||You can see for miles from the roof.
 見聞|けんぶん|information, experience, knowledge|98|見聞；資訊|a|彼の話からその見聞の広さがうかがわれた。||His talk led me to believe that he knows a great deal.
 見返す|みかえす|to look back at, to look at again|98|回頭看；重看|h|||
-見開き|みひらき|spread, two pages opposite each other|98|敷；散播|b|結婚前は両目を見開き、結婚したら片目をつぶれ。||Keep your eyes wide open before marriage and half shut afterwards.
+見開き|みひらき|spread, two pages opposite each other|98|跨頁；對開頁|v|結婚前は両目を見開き、結婚したら片目をつぶれ。||Keep your eyes wide open before marriage and half shut afterwards.
 覚書|おぼえがき|memo, memorandum, note, memorandum|98|備忘錄；備忘|d|||
 親孝行|おやこうこう|filial piety, being kind to one's parents, taking care of one's parents|98|孝道；孝心|b|親孝行したいときには親はなし。||By the time you wish to be a good son, your parents are long gone.
 親王|しんのう|prince of royal blood, Imperial prince|98|親王|h|||
@@ -26404,7 +26404,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 貴公子|きこうし|young nobleman, scion of a noble family, princely young man|98|貴公子|h|||
 貴殿|きでん|you, your residence|98|你；妳|b|貴殿の娘さんは麻薬漬けです。||Your daughter's on drugs.
 買い付け|かいつけ|buying, purchase, buying in|98|採購；買進|d|父のしごとは羊毛の買い付けです。||My father's work is to buy wool.
-買い取る|かいとる|to buy, to purchase, to buy out|98|買；購|b|||
+買い取る|かいとる|to buy, to purchase, to buy out|98|買下；收購|v|||
 買い戻し|かいもどし|repurchase, redemption|98|買回；贖回|d|彼は質屋から時計買い戻した。||He redeemed his watch from the pawnbroker.
 買い換える|かいかえる|to buy a replacement, to replace|98|換購；換新|h|電子レンジの調子がおかしい。修理するより買い換えるほうがいいかな。||My microwave is acting up. I think I'd rather get a new one than repair this one.
 買春|ばいしゅん|buying sex, hiring a prostitute|98|買春|h|||
@@ -26415,7 +26415,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 賃料|ちんりょう|rent, rental|98|出租；租金|b|来月より賃料が上がります。||The rent will go up next month.
 資する|しする|to contribute, to play a part in, to have a hand in|98|貢獻；捐贈|b|政府は農業にもっと投資するべきだ。|政府應該加大對農業的投資。|The government should invest more money in agriculture.
 資料集|しりょうしゅう|document collection|98|資料集|h|||
-資金繰り|しきんぐり|fundraising, financing, cash flow|98|籌款|b|||
+資金繰り|しきんぐり|fundraising, financing, cash flow|98|資金周轉；籌措資金|v|||
 賊|ぞく|thief, robber, burglar, rebel|98|小偷；竊賊|b|もらい者の馬の口の中をのぞくな。||Don't look a gift horse in the mouth.
 賛辞|さんじ|eulogy, compliment|98|讚辭；讚美|h|従業員も一緒に顧客からの賛辞の言葉を読むことができた。||Employees were allowed to share in reading customer compliments.
 賞与|しょうよ|bonus, reward|98|獎金；獎勵|d|社員には給料六ヶ月分の賞与金が出る||Employees will receive a bonus equivalent to six months' salary.
@@ -26434,14 +26434,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 足湯|あしゆ|footbath, hot spring bath designed for soaking one's feet|98|足浴|h|||
 足腰|あしこし|legs and loins, lower body, foundations|98|腿腳；下半身|d|||
 足踏み|あしぶみ|stepping, stamping, stomping|98|原地踏步；跺腳|h|兵士たちは足踏みをしていた。||The soldiers were marking time.
-跋|ばつ|epilogue, postscript, envoi|98|跋；後記|a|あちゃー、こいつはばつが悪いわ。||Oh boy, that's embarrassing.
+跋|ばつ|epilogue, postscript, envoi|98|跋；跋文|v|あちゃー、こいつはばつが悪いわ。||Oh boy, that's embarrassing.
 跡形|あとかた|trace, vestige, evidence|98|遺跡；蹤影|b|彼は跡形もなく姿を消してしまったんだ。||He disappeared without a trace.
-路肩|ろかた|shoulder, berm|98|肩膀；擔負|b|警察官は、私に車を路肩に寄せるよう指示した。||The patrolman motioned me to pull over.
+路肩|ろかた|shoulder, berm|98|路肩；路邊|v|警察官は、私に車を路肩に寄せるよう指示した。||The patrolman motioned me to pull over.
 跳躍|ちょうやく|jump, leap, skip|98|跳躍；跳|a|いったん着地した怪物は、瞬間ふたたび跳躍して私の頭上にいた。||Having once landed the monster immediately jumped again and was over my head.
 蹄|ひづめ|hoof|98|蹄；蹄子|a|||
 躍り|おどり|leaping, jumping, spring|98|跳躍；舞動|h|彼はうれしさのあまり小躍りした。||He was so happy he did a little dance.
 躍る|おどる|to jump up, to spring up, to leap, to move around|98|跳躍；雀躍|d|胸躍る日が終わりに近づいている。||An exciting day is drawing to a close.
-身だしなみ|みだしなみ|appearance, grooming|98|相；樣子|b|朝は洗顔はもちろん身だしなみを整えてからここに集まるんだ。||Obviously wash your face, but you must also take care of your appearance before assembling here.
+身だしなみ|みだしなみ|appearance, grooming|98|儀容；打扮|v|朝は洗顔はもちろん身だしなみを整えてからここに集まるんだ。||Obviously wash your face, but you must also take care of your appearance before assembling here.
 身の丈|みのたけ|stature, body height, one's means|98|身材|b|身の丈に合った生活を心掛けなさい。||Try to live within your means.
 身軽|みがる|agile, nimble, light, casual|98|利落|b|捕らえることのできないもの、身軽で素早いもののたとえ、だそうです。||It's apparently a metaphor for something uncatchable, light of body and fleet of foot.
 車窓|しゃそう|train window, car window|98|車窗|h|車窓から富士山が見えました。||I saw Mt Fuji through the train window.
@@ -26453,7 +26453,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 転出|てんしゅつ|moving out, moving to a different place|98|遷出；搬出|h|||
 転子|てんし|trochanter|98|轉子；股骨大轉子|h|||
 転属|てんぞく|changing assignments|98|調職；改派|h|||
-軽やか|かろやか|light, easy, non-serious|98|輕；輕鬆|b|彼女の足取りは妖精のように軽やかだった。||Her footsteps were as light as a fairy's.
+軽やか|かろやか|light, easy, non-serious|98|輕盈；輕快|v|彼女の足取りは妖精のように軽やかだった。||Her footsteps were as light as a fairy's.
 軽薄|けいはく|frivolous, flippant, superficial, flattery|98|輕薄；輕浮|a|||
 輝度|きど|brightness, luminance|98|亮度|b|||
 輪っか|わっか|ring, loop, halo|98|環；戒指|b|五輪旗の右端の輪っかって何色だったっけか？||What color is the far right ring on the Olympic flag?
@@ -26469,7 +26469,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 返納|へんのう|returning, restoring|98|歸還；繳回|h|||
 追い払う|おいはらう|to drive away, to clear, to scatter|98|驅離；趕跑|b|その儀式は悪霊を追い払うためのものである。||The ceremony is to turn away evil spirits.
 追い討ち|おいうち|attacking a fleeing enemy, additional blow to an already unfortunate situation|98|追擊；雪上加霜|h|||
-追伸|ついしん|postscript, post scriptum, PS|98|跋|b|追伸愛してます。||P. S. I love you.
+追伸|ついしん|postscript, post scriptum, PS|98|附言；又及|v|追伸愛してます。||P. S. I love you.
 退席|たいせき|leaving one's seat|98|退席；離席|h|随時に退席してもかまいません。||You may leave your seat at will.
 退行|たいこう|retrogression, regression|98|退化；倒退|h|彼は幼児退行しちゃう人なんだ。||He's an age regressor.
 送り込み|おくりこみ|feed|98|餵；餵養|b|||
@@ -26521,11 +26521,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 適法|てきほう|legal, lawful, legitimate|98|依法|b|||
 遮光|しゃこう|shading, shielding from light|98|遮光|h|||
 遺影|いえい|portrait of a deceased person|98|遺像|h|||
-遺構|いこう|remains, remnants, ancient foundation|98|遺體；殘骸|b|||
+遺構|いこう|remains, remnants, ancient foundation|98|遺構；遺跡|v|||
 邁進|まいしん|pushing forward, pushing on, striving|98|邁進；奮進|h|||
 邪気|じゃき|malice, ill will, bad air|98|惡意|b|彼女の事で私が一番感心するのは無邪気な事です。|她最讓我欽佩的地方是她的天真爛漫。|What strikes me most about her is her innocence.
 酌|しゃく|pouring alcohol, person pouring alcohol|98|斟酒；斟酒者|h|店員が突然かんしゃくを起こした。|店員突然間發起脾氣來。|All of a sudden, the clerk lost his temper.
-配水|はいすい|water supply|98|水務|b|||
+配水|はいすい|water supply|98|配水；供水|v|||
 配流|はいる|exile, banishment|98|流放|b|||
 酷暑|こくしょ|intense heat, severe heat|98|酷暑|a|日本列島は酷暑に苛まれている。||The Japanese archipelago is struck by a terrible heat wave.
 酸っぱい|すっぱい|sour, acid|98|酸|b|そのさくらんぼ、酸っぱい？甘い？||Is it a sour or sweet cherry?
@@ -26550,7 +26550,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 量子力学|りょうしりきがく|quantum mechanics|98|量子力學|a|シュレーディンガー方程式は量子力学系の時間発展を記述する。||Schrodinger's equation describes the time evolution of quantum mechanics.
 金券|きんけん|gold certificate, tradeable coupon redeemable for goods or services|98|禮券；商品券|h|||
 金品|きんぴん|money and goods|98|金錢與財物|h|男はその老婦人から金品を強奪したことを白状した。||The man confessed that he had robbed the old woman.
-金時|きんとき|red, red kidney bean|98|紅；紅色|b|彼は先生から金時計を与えられた。||He was given a gold watch by the teacher.
+金時|きんとき|red, red kidney bean|98|紅豆；金時|v|彼は先生から金時計を与えられた。||He was given a gold watch by the teacher.
 金物|かなもの|metal utensil, ironware, metal fittings|98|五金；金屬器具|h|それは金物店で売っています。||That is sold at hardware stores.
 金目|かねめ|valuable, high-priced, precious, monetary value|98|寶貴；值錢|b|トムは金目当てで結婚したんだよ。||Tom married for money.
 金策|きんさく|raising money|98|籌錢；張羅資金|h|||
@@ -26569,7 +26569,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 銃声|じゅうせい|sound of a gunshot, report of a gun|98|槍聲；槍響|h|突然私たちは銃声を聞いた。||All at once we heard a shot.
 銃身|じゅうしん|gun barrel|98|槍管；槍桿子|b|||
 鋩子|ぼうし|the edge at the very tip of a sword|98|刀尖；刀鋒尖端|h|||
-鋭利|えいり|sharp, keen, acute|98|利；尖銳|b|手荷物の中に、液体あるいは鋭利なものは入っていませんか？||Are there any liquids or sharp objects in your luggage?
+鋭利|えいり|sharp, keen, acute|98|銳利；鋒利|v|手荷物の中に、液体あるいは鋭利なものは入っていませんか？||Are there any liquids or sharp objects in your luggage?
 鋲|びょう|rivet, tack, thumbtack|98|鉚釘|b|彼は掲示板にそのビラをびょうで留めた。||He stuck the notice on the board with tacks.
 鋸|のこ|saw|98|鋸|a|誰も私のことを分かってくれない。|沒人理解我。|Nobody understands me.
 鋼材|こうざい|steel material|98|鋼材|h|鋼材不足にも関わらず、工業生産高は５％だけ増加した。||Despite a shortage of steel, industrial output has increased by five percent.
@@ -26591,7 +26591,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 開眼|かいがん|enlightenment, spiritual awakening, opening one's eyes to the truth|98|開眼；覺悟|h|||
 開門|かいもん|opening of a gate|98|開門|h|開門しなさい。||Open the gate.
 開院|かいいん|opening a new hospital, institution, temple, etc.|98|開業；開院|h|||
-閑散|かんさん|deserted, quiet, still|98|空空盪盪|b|市場は今日は閑散としていた。||The market was quiet today.
+閑散|かんさん|deserted, quiet, still|98|冷清；清閒|v|市場は今日は閑散としていた。||The market was quiet today.
 間取り|まどり|layout, arrangement of rooms|98|房間格局；平面配置|h|私たちはこの店と１６年間取り引きをしている。||We have dealt with this store for 16 years.
 間口|まぐち|frontage, width|98|門面寬度；間口|h|間口も広いが奥行きも同様に深い。||It's as deep as it is wide.
 間合い|まあい|pause, interval, distance|98|間距；時機|h|||
@@ -26628,15 +26628,15 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 隊士|たいし|regimental soldier|98|隊士；隊員|h|||
 隔たり|へだたり|distance, difference, gap|98|隔閡；差距|h|２人の生徒の意見には大きな隔たりがある。||There is a wide gap in the opinions between the two students.
 隔絶|かくぜつ|isolation, separation, remoteness|98|隔絕；隔離|h|||
-際限|さいげん|limits, end, bounds|98|界線|b|彼女のお金への執着心には際限がない。||Her love of money is without bounds.
+際限|さいげん|limits, end, bounds|98|際限；限度|v|彼女のお金への執着心には際限がない。||Her love of money is without bounds.
 障礙|しょうげ|obstacle, impediment, hindrance|98|障礙；障礙物|a|||
 隠し子|かくしご|illegitimate child, secret love child|98|私生子|h|||
-隠れ蓑|かくれみの|cover, front, guise|98|包；套|b|||
+隠れ蓑|かくれみの|cover, front, guise|98|隱身衣；幌子|v|||
 隠匿|いんとく|concealment, sheltering, harboring|98|隱匿；藏匿|h|||
 隷属|れいぞく|subordination, servitude, servility, subordinate|98|隸屬；從屬|d|我々は抵抗か隷属かの二者択一を迫られている。||We are faced with the alternatives of resistance or slavery.
 雁が音|かりがね|call of a wild goose, wild goose|98|雁；大雁|b|||
 雄叫び|おたけび|roar, cry, battle cry, screech|98|吼；咆哮|b|||
-雄弁|ゆうべん|eloquence, fluency|98|口才|b|雄弁は銀、沈黙は金。|開口是銀，沉默是金。|Speech is silver, silence is golden.
+雄弁|ゆうべん|eloquence, fluency|98|雄辯；口才好|v|雄弁は銀、沈黙は金。|開口是銀，沉默是金。|Speech is silver, silence is golden.
 集権|しゅうけん|centralization, centralisation|98|集權|h|||
 雑炊|ぞうすい|rice porridge made by simmering cooked rice in a seasoned broth, often containing vegetables, fish,|98|雜炊；粥狀炊飯|h|||
 雑菌|ざっきん|microorganisms, saprophyte, saprophytic bacteria|98|雜菌；細菌|h|||
@@ -26646,7 +26646,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 離反|りはん|estrangement, alienation, disaffection, churn|98|背離；離心|h|||
 離着陸|りちゃくりく|takeoff and landing|98|起降|h|離着陸の際にはシートベルトをしめて下さい。||Please fasten your seat belt during takeoff and landing.
 難なく|なんなく|without trouble, easily, readily|98|輕易地；毫不費力|h|彼はそのなぞなぞを難なく解いた。||He had no difficulty explaining the mystery.
-難破|なんぱ|shipwreck|98|沉船；海難|b|船は出航したが、２日後に難破した。||The ship set sail only to be wrecked two days after.
+難破|なんぱ|shipwreck|98|海難；船難|v|船は出航したが、２日後に難破した。||The ship set sail only to be wrecked two days after.
 雨林|うりん|rainforest|98|雨林|a|熱帯雨林は地球に多くの恩恵を与える。||Rainforests provide the earth with many benefits.
 雨漏り|あまもり|roof leak|98|漏雨|h|うちの屋根ね、雨漏りしてるの。||The roof of our house is leaking.
 雨雲|あまぐも|rain cloud|98|雨雲|h|雨雲がかかってきました。||The rain clouds started to come.
@@ -26655,7 +26655,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 雪かき|ゆきかき|snow shoveling, snow clearing, snow removal|98|清雪；掃雪|h|トムは外で雪かきしてるよ。|湯姆在外頭鏟雪。|Tom is out shoveling snow.
 雪見|ゆきみ|snow viewing, snow-scene viewing|98|賞雪|h|||
 雲海|うんかい|sea of clouds|98|雲海|a|天気に恵まれず、雲海を見ることはできませんでした。||I was not blessed by the weather and was unable to see the Unkai, the Sea of Clouds.
-零細|れいさい|insignificant, trifling, paltry|98|區區；無足輕重|b|零細企業はインフレで苦境に陥っています。||Small enterprises are feeling the squeeze of inflation.
+零細|れいさい|insignificant, trifling, paltry|98|微薄；小規模|v|零細企業はインフレで苦境に陥っています。||Small enterprises are feeling the squeeze of inflation.
 雷神|らいじん|god of thunder, Raijin|98|雷神|a|||
 雷鳴|らいめい|thunder, thunderclap, crash of thunder|98|雷；雷聲|b|雷鳴を聞いて動物たちは怖がった。||The animals were scared by the thunder.
 電光|でんこう|lightning, electric illumination|98|電；閃電|b|彼はそれを電光石火の早さで仕上げた。||He finished it as quick as lightning.
@@ -26681,8 +26681,8 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 革靴|かわぐつ|leather shoes, leather boots|98|皮鞋|b|革靴を買ったんだ。||I bought a pair of leather shoes.
 靴帯|かたい|ankle strap|98|鞋帶|h|||
 鞍替え|くらがえ|changing, switching over|98|改行；轉業|h|||
-順当|じゅんとう|proper, right, reasonable|98|宜|b|||
-領有|りょうゆう|possession|98|所有物|b|中国は釣魚島の領有権を主張している。|中國主張釣魚島的主權。|
+順当|じゅんとう|proper, right, reasonable|98|妥當；順利|v|||
+領有|りょうゆう|possession|98|領有；佔有|v|中国は釣魚島の領有権を主張している。|中國主張釣魚島的主權。|
 領空|りょうくう|territorial airspace|98|領空|h|||
 頭蓋|ずがい|cranium, skull|98|頭蓋|a|何か重い兇器でやられたらしく、頭蓋骨は粉砕された。||His head had been shattered by a savage blow from some heavy weapon.
 頸部|けいぶ|neck|98|頸部；領|a|||
@@ -26690,7 +26690,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 顆粒|かりゅう|granule|98|顆粒；沙|a|||
 題目|だいもく|title, heading, topic|98|標題；頭銜|b|||
 額縁|がくぶち|frame, architrave|98|框架；框|b|これはプラスチック製の額縁です。||This is a picture frame made of plastic.
-顔ぶれ|かおぶれ|personnel, members, lineup, announcement of next day's match-ups|98|人事|b|||
+顔ぶれ|かおぶれ|personnel, members, lineup, announcement of next day's match-ups|98|陣容；成員名單|v|||
 顔料|がんりょう|pigment, paint|98|顏料；色素|a|||
 顔負け|かおまけ|being put to shame, being outshone, being eclipsed|98|相形見絀；自愧不如|h|あの子には大人も顔負けだ。||The child puts adults to shame.
 顕現|けんげん|manifestation|98|顯現；顯露|h|||
@@ -26702,7 +26702,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 風神|ふうじん|god of the wind, wind god, Fūjin|98|風神|h|||
 風穴|かざあな|air hole, windhole, air vent, deep cave from which cold wind blows|98|風穴；通風口|d|||
 風見|かざみ|weather vane|98|風向標；風信旗|d|風見は北をさしている。||The weather vane points north.
-風通し|かぜとおし|ventilation, communication|98|通氣|b|この中は風通しが悪いですね。|這裡的通風很差呢。|It's very stuffy in here.
+風通し|かぜとおし|ventilation, communication|98|通風；溝通順暢|v|この中は風通しが悪いですね。|這裡的通風很差呢。|It's very stuffy in here.
 風鈴|ふうりん|wind chime, wind bell|98|風鈴|h|トムは風鈴の音を嫌っている。||Tom hates the sound of wind chimes.
 風雲|ふううん|winds and clouds, nature, the elements, situation|98|風雲；局勢|d|||
 風靡|ふうび|overwhelming, conquering, dominating|98|壓倒性|b|||
@@ -26729,7 +26729,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 駅長|えきちょう|station master|98|站長|h|日本には猫が駅長を務める駅がある。|在日本，有站長是貓的車站。|In Japan there are train stations with a cat for a stationmaster.
 駆け抜ける|かけぬける|to run through, to sweep through|98|貫穿|b|||
 駆け落ち|かけおち|elopement, running away with a lover|98|私奔|h|彼女の娘は若い作家と駆け落ちしたよ。||Her daughter eloped with a young writer.
-駐める|とめる|to park|98|公園；停放|b|||
+駐める|とめる|to park|98|停放；駐留|v|||
 駿河|するが|Suruga|98|駿河國|h|駿河湾から見た富士山は美しい。|從駿河灣看, 富士山很美麗。|Mt. Fuji as seen from Suruga Bay is beautiful.
 騎兵隊|きへいたい|cavalry|98|騎兵；馬隊|b|||
 騎虎|きこ|riding a tiger|98|騎虎難下；騎虎|h|||
@@ -26771,7 +26771,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 黒目|くろめ|pupil and iris of the eye|98|瞳孔；黑眼珠|h|彼は黒目の黒髪です。||He has dark eyes and dark hair.
 黒糖|こくとう|brown sugar, muscovado|98|黑糖；紅糖|a|||
 黙秘|もくひ|remaining silent, keeping secret|98|保持沉默；緘默|h|黙秘権を行使したいと思います。||I wish to exercise my right to remain silent.
-鼓|つづみ|tsuzumi, hourglass-shaped Japanese hand drum|98|鼓|a|||
+鼓|つづみ|tsuzumi, hourglass-shaped Japanese hand drum|98|手鼓；小鼓|v|||
 鼓膜|こまく|eardrum, tympanic membrane|98|鼓膜|h|銃声のせいで鼓膜が破れた。||My eardrums burst because of the gunshot.
 鼻くそ|はなくそ|nasal discharge, nasal mucus, snot|98|鼻屎|h|目くそ鼻くそを笑う。||The pot calls the kettle black.
 鼻歌|はなうた|humming, crooning|98|哼歌；鼻哼|h|恭子は鼻歌を歌いながら行ってしまった。||Kyoko went away, humming a song.
@@ -26816,7 +26816,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 おめかし|おめかし|dressing up, putting on makeup, dolling up|98|打扮；盛裝|h|そんなおめかししてどこ行くの？||Where are you going dressed up like that?
 おめく|おめく|to shout, to cry, to yell|98|叫；嘑|b|||
 お下がり|おさがり|hand-me-down, food offering to the gods|98|舊衣；他人用過的東西|h|線の内側にお下がり下さい。||Please step back and keep behind the line.
-お厠|おかわ|chamber pot, bedpan|98|馬桶|b|||
+お厠|おかわ|chamber pot, bedpan|98|廁所；便器|v|||
 お召し|おめし|summoning, calling, riding, silk crepe|98|召見；穿著；絲綢縐綢|h|ぜひパイをお召し上がりください。||You have to have a piece of pie.
 お呼ばれ|およばれ|being invited|98|受邀；應邀|h|トムのパーティーにお呼ばれされた。||I was invited to Tom's party.
 お山|おやま|mountain|98|山嶽|b|人はだれでもお山の大将になれる。||Every cock crows on his own dunghill.
@@ -26847,7 +26847,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 くすん|くすん|sniffling, sniffing|98|抽噎；吸鼻子|h|全力を尽くすんだよ。||Do your very best.
 くそったれ|くそったれ|shithead, bastard, fucking|98|混帳；該死|h|殺してやる！ぶっ殺して、踏み潰してやる！くそったれ！死ね！||I'll kill you! Knock your block off and grind you underfoot! You shithead! Die!
 くつろぐ|くつろぐ|to relax, to feel at home|98|放寬；鬆散|b|そこではくつろぐ暇がなかった。||I had no chance to relax there.
-くつろげる|くつろげる|to loose, to ease, to relax|98|鬆；鬆動|b|君は頭痛がしていてはくつろげるはずが無い。||You can't feel at ease with a headache.
+くつろげる|くつろげる|to loose, to ease, to relax|98|放鬆；使寬鬆|v|君は頭痛がしていてはくつろげるはずが無い。||You can't feel at ease with a headache.
 くねくね|くねくね|winding, meandering, wriggling|98|曲折|b|道はくねくねと畑の中を走っていた。||The road wound through the fields.
 くよくよ|くよくよ|to fret, to brood, to mope|98|憂慮；鬱悶|h|過去の失敗をくよくよ考えるなよ。||Don't dwell on your past failures.
 くるぶし|くるぶし|ankle, malleolus, ankle bone|98|腳踝|b|くるぶしが腫れてるんだ。||My ankle is swollen.
@@ -26885,7 +26885,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 しょんぼり|しょんぼり|downheartedly, dejectedly, dispiritedly|98|垂頭喪氣；落寞|h|彼女は今日、しょんぼりしている。||She is in low spirits today.
 しんみり|しんみり|quietly, softly, seriously, solemnly|98|悄然；悄無聲息|b|||
 じゃぶじゃぶ|じゃぶじゃぶ|splashing, splashing about, with a splash|98|嘩啦嘩啦；水聲|h|||
-じりじり|じりじり|slowly, gradually, bit-by-bit|98|徐；緩緩|b|砂漠の太陽が彼にじりじり照りつけた。||The desert sun grilled him.
+じりじり|じりじり|slowly, gradually, bit-by-bit|98|漸漸；焦急；火辣辣|v|砂漠の太陽が彼にじりじり照りつけた。||The desert sun grilled him.
 じろじろ|じろじろ|staringly, scrutinizing, scrutinising|98|盯著看；上下打量|h|他人の顔をじろじろ見るんじゃない。||Don't stare at others.
 じんましん|じんましん|hives, nettle rash, urticaria|98|蕁麻疹|h|卵を食べるとじんましんが出ます。||She gets hives when she eats eggs.
 すいせん|すいせん|daffodil, narcissus|98|水仙|h|||
@@ -26902,7 +26902,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 それとなく|それとなく|indirectly, obliquely, implicitly|98|含蓄地；婉轉地|h|彼女は彼の不品行にそれとなくふれた。||She made an allusion to his misconduct.
 そんなふうに|そんなふうに|in that manner, like that|98|那樣地；那般|h|そんなふうにジロジロ見るのはやめてくれ。|不要再這麼盯著我了。|Stop staring at me like that.
 たかな|たかな|leaf mustard, mustard greens|98|芥菜|d|私の書いたことが正しかったかな。|我在想我寫的對不對。|I wonder if what I wrote was correct.
-たしなみ|たしなみ|taste, manners|98|味兒|b|夫はたまに御酒をたしなみます。||My husband enjoys his glass once in a while.
+たしなみ|たしなみ|taste, manners|98|嗜好；修養；禮儀|v|夫はたまに御酒をたしなみます。||My husband enjoys his glass once in a while.
 たしなむ|たしなむ|to have a taste for, to be fond of, to enjoy|98|喜|b|彼はジャズをたしなむようなタイプではない。||He is not the sort of person who likes to listen to jazz.
 たすき|たすき|cord used to tuck up the sleeves of a kimono|98|襷；綁袖帶|h|||
 たたら|たたら|foot-operated bellows, foot bellows, traditional Japanese clay furnace for smelting iron|98|踏風箱；傳統鼓風爐|h|||
@@ -26925,11 +26925,11 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 とうき|とうき|dong dang gui|98|當歸|h|彼はとうとうきませんでした。||He didn't come after all.
 とくほ|とくほ|food for specified health uses, designated health food|98|特定保健食品|h|||
 とっつき|とっつき|beginning, commencement, outset, first|98|開頭；朔|b|彼はとっつきにくい老人だった。||He was a disagreeable old man.
-とばっちり|とばっちり|splash, spray, chance blow|98|潑；濺|b|お前もとんだとばっちりだったよな。||You got involved in something bad, huh?
+とばっちり|とばっちり|splash, spray, chance blow|98|池魚之殃；飛濺|v|お前もとんだとばっちりだったよな。||You got involved in something bad, huh?
 とべ|とべ|last|98|歷時|b|髪の毛がべとべとしている。||My hair is greasy.
 とまれ|とまれ|anyway, in any case|98|反正|b|日本語のできる人、この指とまれ。|會日語的人這邊來。|Let the moving finger stop on - someone who understands Japanese.
-とろみ|とろみ|thickness, viscosity, thick consistency|98|厚度|b|コーンスターチで、ホワイトソースにとろみがつきます。||Corn starch gives the white sauce its consistency.
-とんがり|とんがり|point|98|點點|b|||
+とろみ|とろみ|thickness, viscosity, thick consistency|98|濃稠度；勾芡|v|コーンスターチで、ホワイトソースにとろみがつきます。||Corn starch gives the white sauce its consistency.
+とんがり|とんがり|point|98|尖端；尖銳|v|||
 とんと|とんと|completely, entirely, absolutely, not at all|98|總體；全然|b|この問の意味がとんと分からない。||I don't understand this question at all.
 どうどう|どうどう|with a roaring sound, sound of feet stamping on the ground|98|轟隆；咆哮|h|||
 どこら|どこら|where, whereabouts|98|焉|b|どこらへんを？||Where?
@@ -26947,9 +26947,9 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 にゃんこ|にゃんこ|kitty cat|98|小貓咪|h|わたし、にゃんこよ！|我是喵喵！|I'm a kitty cat.
 にゃんにゃん|にゃんにゃん|meow, miaow, cat|98|喵|b|どうしてにゃんにゃんしているの？||Why are you meowing?
 ぬんちゃく|ぬんちゃく|nunchaku, nunchucks|98|雙節棍|d|||
-ねばねば|ねばねば|sticky, gluey, gummy, stickiness|98|置頂|b|納豆はねばねばしている。||Natto is sticky.
+ねばねば|ねばねば|sticky, gluey, gummy, stickiness|98|黏糊糊；黏性|v|納豆はねばねばしている。||Natto is sticky.
 のこのこ|のこのこ|unconcernedly, nonchalantly, shamelessly|98|厚著臉皮；大搖大擺地|h|||
-のす|のす|to stretch, to extend, to lengthen, to gain influence|98|伸；舒|b|祖父は私の誕生のすぐ後に死んだ。|我出生不久之後我的外公就去世了。|My grandfather died shortly after my birth.
+のす|のす|to stretch, to extend, to lengthen, to gain influence|98|伸展；打倒；出人頭地|v|祖父は私の誕生のすぐ後に死んだ。|我出生不久之後我的外公就去世了。|My grandfather died shortly after my birth.
 のぼせ|のぼせ|hot flash, rush of blood to the head|98|頭暈；血衝腦門；上火|h|その野心家は自分の成功にのぼせあがった。||The ambitious man became intoxicated with his own success.
 はしか|はしか|measles|98|麻疹|b|その双子ははしかにかかっていた。||The twins have come down with measles.
 はしご高|はしごだか|ladder form of "high" kanji|98|梯形寫法的「高」字|h|||
@@ -26973,10 +26973,10 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ふくよか|ふくよか|plump, fleshy, well-rounded, pleasant|98|肥厚|b|||
 ふける|ふける|to indulge in, to give oneself up to, to be obsessed by|98|耽|b|彼は時々たわいもない空想にふける。||He sometimes indulges himself in idle speculation.
 ふさふさ|ふさふさ|in tufts, tufty, bushy|98|茂密；蓬鬆|h|トムの髪の毛はふさふさだ。||Tom's hair is thick.
-ふすま|ふすま|wheat bran|98|麥麩；隔扇|d|||
+ふすま|ふすま|wheat bran|98|紙拉門；麥麩|v|||
 ふな|ふな|crucian carp|98|鯽魚|b|||
 ふれる|ふれる|to go mad|98|發瘋|b|春になると川がここであふれる。|每當春天來到，這條河流總是氾濫成災。|Every spring the river floods here.
-ぶちまける|ぶちまける|to dump, to empty by overturning, to throw out|98|拋售；傾銷|b|||
+ぶちまける|ぶちまける|to dump, to empty by overturning, to throw out|98|傾倒；全盤托出|v|||
 ぶち壊す|ぶちこわす|to destroy, to break, to smash|98|殘；銷毀|b|||
 ぶっ飛ばす|ぶっとばす|to knock off their feet, to knock down|98|擊倒；撞倒|b|||
 ぶるぶる|ぶるぶる|trembling, shivering, shaking|98|瑟瑟|b|しゃべり出した時彼の両手はぶるぶる震えた。||His hands quivered when he began to speak.
@@ -26992,7 +26992,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ほどなく|ほどなく|soon, before long, shortly thereafter|98|眼看|b|彼女はほどなくもどるでしょう。||She will be back before long.
 ほのめかし|ほのめかし|hint, intimation, suggestion|98|示意|b|講演者は政界の腐敗をほのめかした。||The speaker hinted at corruption in the political world.
 ぽろぽろ|ぽろぽろ|in large drops|98|簌簌；大顆地掉|h|||
-まいる|まいる|to go, to come, to lose|98|于；去|b|||
+まいる|まいる|to go, to come, to lose|98|去；來；認輸；參拜|v|||
 まじまじ|まじまじ|staringly, fixedly, unblinkingly|98|盯著看；凝視|h|何をまじまじと見てるの？||What're you staring at?
 まつエク|まつエク|eyelash extensions|98|睫毛嫁接；睫毛接長|h|||
 まやかし|まやかし|deception, make-believe, fake|98|假象；騙局；仿冒品|d|||
@@ -27007,7 +27007,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 もず|もず|shrike, bull-headed shrike|98|伯勞鳥|d|彼は正直な人だし、これからもずっとそうだろう。|他是一個正直的人，今後也是。|He is an honest man and will always remain so.
 もっさり|もっさり|slow, sluggish, dim-witted, bushy|98|慢；緩|b|||
 もんじゅ|もんじゅ|fast-breeder reactor|98|文殊快中子增殖反應爐|h|||
-やきもち|やきもち|jealousy, yakimochi|98|嫉|b|やきもち焼きの女性は大嫌いだ。||I hate jealous women.
+やきもち|やきもち|jealousy, yakimochi|98|吃醋；嫉妒；烤年糕|v|やきもち焼きの女性は大嫌いだ。||I hate jealous women.
 やべー|やべー|dangerous, risky|98|險惡；兇險|b|やべー緊張してきたわ。||Geez - I'm getting nervous.
 やまぐるま|やまぐるま|wheel tree|98|昆欄樹|h|||
 やり遂げる|やりとげる|to accomplish, to finish, to carry through|98|做到|b|一日かかってもやり遂げる。|就算要花掉一整天我們也要完成它。|We'll finish it if it takes us all day.
@@ -27024,7 +27024,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 わかし|わかし|young Japanese amberjack|98|幼年鰤魚；小鰤|h|太陽が地面をからからにかわかした。||The sun has dried up the ground.
 わだかまり|わだかまり|bad feeling, cares, ill feeling|98|隔閡；芥蒂|h|||
 わめく|わめく|to shout, to cry, to yell|98|叫；嘑|b|わめくのをやめて、お願いだから。||Stop yelling, I beg you.
-アイキャッチ|アイキャッチ|short clip used to begin and end commercial breaks on Japanese TV|98|電視節目轉場片段|h|||
+アイキャッチ|アイキャッチ|short clip used to begin and end commercial breaks on Japanese TV|98|過場動畫；吸睛元素|v|||
 アイシング|アイシング|icing, frosting, icing|98|糖霜；裝飾糖衣|h|||
 アイマスク|アイマスク|sleep mask, eye mask, blindfold|98|眼罩；睡眠眼罩|d|||
 アイメイク|アイメイク|eye makeup|98|眼妝|h|スモーキーアイメイクは、必ず濃いアイシャドウで。|煙燻妝一定要用深色眼影。|
@@ -27044,7 +27044,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 アスタリスク|アスタリスク|asterisk|98|星號|h|||
 アステカ|アステカ|Aztecs, Aztec Empire|98|阿茲特克；阿茲特克帝國|h|||
 アスピリン|アスピリン|aspirin|98|阿司匹林|b|アスピリンはどんな物質から成っていますか。|阿司匹林是用什麼做的？|What does aspirin consist of?
-アスペクト|アスペクト|aspect|98|局面|b|||
+アスペクト|アスペクト|aspect|98|方面；層面；外觀|v|||
 アセスメント|アセスメント|assessment|98|估算|b|||
 アセンブリ|アセンブリ|assembly, assembly|99|組裝；集會|d|||
 アップダウン|アップダウン|ups and downs, up-and-down|99|起伏；高低|d|||
@@ -27084,7 +27084,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 イラストレーション|イラストレーション|illustration|99|插圖；插畫|b|||
 インカレ|インカレ|intercollegiate, intercollegiate game|99|跨校大賽；跨校比賽|h|||
 インクジェット|インクジェット|ink jet|99|噴墨|h|||
-インシデント|インシデント|incident|99|事變|b|||
+インシデント|インシデント|incident|99|事件；意外事故|v|||
 インスタレーション|インスタレーション|installation|99|裝置藝術|h|||
 インピーダンス|インピーダンス|impedance|99|阻抗|h|||
 インフィニティ|インフィニティ|infinity|99|無限|h|||
@@ -27122,7 +27122,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 エッチング|エッチング|etching|99|蝕刻；蝕刻畫|h|競走馬を描いたエッチングで彼に並ぶものはいない。||Nothing rivals his racehorse etching.
 エトセトラ|エトセトラ|et cetera, and so forth|99|等等|b|||
 エニグマ|エニグマ|enigma|99|謎；恩尼格瑪密碼機|h|||
-エバー|エバー|ever|99|永遠|h|||
+エバー|エバー|ever|99|永遠；曾經|v|||
 エピック|エピック|epic|99|史詩|b|||
 エピローグ|エピローグ|epilogue|99|後記|b|||
 エプソン|エプソン|Epson|99|愛普生|h|||
@@ -27130,7 +27130,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 エリンギ|エリンギ|king trumpet mushroom, king oyster mushroom|99|杏鮑菇|d|||
 エレクトーン|エレクトーン|Electone|99|電子琴|h|||
 エロチック|エロチック|erotic|99|情色|b|エロチックな描写が倒錯的過ぎてこの人の本は俺には合わない。||This author's books don't suit me because the erotic descriptions are too perverted.
-エンター|エンター|enter|99|駛入|b|エンターを押して。||Press Enter.
+エンター|エンター|enter|99|輸入；進入|v|エンターを押して。||Press Enter.
 エンターテイナー|エンターテイナー|entertainer|99|藝人；表演者|h|ショーに来る人々を楽しませるのがエンターテイナーだ。||The man whose work it is to amuse people who attend a show is an entertainer.
 エントロピー|エントロピー|entropy, entropy|99|熵|b|宇宙では、エントロピーは無際限に増大している。|宇宙中的熵正在無限增大。|
 エーゲ海|エーゲかい|Aegean Sea|99|愛琴海|d|||
@@ -27213,7 +27213,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 クリスマスイブ|クリスマスイブ|Christmas Eve|99|聖誕夜|h|12月24日はクリスマスイブです。||December 24th is Christmas Eve.
 クリプトン|クリプトン|krypton|99|氪|b|||
 クリーミー|クリーミー|creamy|99|奶油般的；滑順|h|||
-クリーンアップ|クリーンアップ|heart of the batting order, 3-4-5 hitters|99|中心打者；清打者|h|||
+クリーンアップ|クリーンアップ|heart of the batting order, 3-4-5 hitters|99|中心打者；清理|v|||
 クレンジング|クレンジング|cleansing|99|卸妝；清潔|h|||
 クロスカントリー|クロスカントリー|cross-country|99|越野；越野賽跑|h|||
 クローク|クローク|cloakroom, checkroom|99|寄物處；衣帽間|d|私は鞄と傘をクロークに預けた。||I checked my briefcase and umbrella in the cloakroom.
@@ -27290,7 +27290,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 サンタフェ|サンタフェ|Santa Fe|99|聖塔菲|h|||
 サンダーバード|サンダーバード|thunderbird|99|雷鳥|d|||
 サーロイン|サーロイン|sirloin|99|西冷牛排|h|||
-ザクザク|ザクザク|walking on frost, crunching|99|嘎吱嘎吱；大量|h|1/4カットの白菜を太めの千切りにザクザク切る。||Cut the quartered Chinese cabbage into wide strips.
+ザクザク|ザクザク|walking on frost, crunching|99|嘎吱嘎吱；大量；酥脆|v|1/4カットの白菜を太めの千切りにザクザク切る。||Cut the quartered Chinese cabbage into wide strips.
 シェイプ|シェイプ|shape|99|形態|b|||
 シエル|シエル|sky|99|天空|b|||
 シチズン|シチズン|citizen|99|公民|b|||
@@ -27299,7 +27299,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 シナジー|シナジー|synergy|99|綜效；協同效應|d|||
 シミュレート|シミュレート|simulation|99|模擬；模擬演練|h|||
 シャカシャカ|シャカシャカ|nylon track suit|99|尼龍運動服；沙沙聲|h|||
-シャコ|シャコ|giant clam|99|瀨蝦；螳蝦|h|||
+シャコ|シャコ|giant clam|99|蝦蛄；瀨尿蝦|v|||
 シャベル|シャベル|shovel|99|鍬|b|彼等はシャベルで除雪していた。|他們在鏟雪。|They were shoveling the snow away.
 シャンソン|シャンソン|chanson|99|香頌；法式歌曲|d|||
 シャーク|シャーク|shark|99|鯊魚；鯊|b|||
@@ -27317,14 +27317,14 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 シーバス|シーバス|sea bass|99|海鱸|d|||
 ジェイド|ジェイド|jade|99|玉；玉石|b|||
 ジェノサイド|ジェノサイド|genocide|99|種族滅絕|b|||
-ジェラシー|ジェラシー|jealousy|99|嫉|b|||
+ジェラシー|ジェラシー|jealousy|99|嫉妒|v|||
 ジェントルマン|ジェントルマン|gentleman|99|紳士|b|ジェントルマンとボヤールの違いって何なの？||What is the difference between a gentleman and a boyar?
 ジグソーパズル|ジグソーパズル|jigsaw puzzle, jigsaw, puzzle|99|拼圖|b|||
 ジタバタ|ジタバタ|struggling, wriggling, floundering|99|掙扎；手忙腳亂|h|||
 ジハード|ジハード|jihad, jehad|99|聖戰|d|||
 ジャグジー|ジャグジー|jacuzzi, jet bath spa, whirlpool bath|99|按摩浴缸；漩渦浴池|h|||
 ジャグリング|ジャグリング|juggling|99|雜耍；耍球|d|ジャグリングのやり方がわかりますか。||Do you know how to juggle?
-ジャスパー|ジャスパー|jasper|99|瓊；碧玉|b|||
+ジャスパー|ジャスパー|jasper|99|碧玉|v|||
 ジャッカル|ジャッカル|jackal|99|胡狼|d|||
 ジャッキ|ジャッキ|jack|99|千斤頂|d|トムはフロアジャッキを使った。||Tom used the floor jack.
 ジャパネット|ジャパネット|Japanet|99|日本購物公司|h|||
@@ -27338,7 +27338,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 スクイズ|スクイズ|squeeze, discomfort or pain caused by increasing water pressure compressing body air spaces and push|99|短打搶分；潛水壓迫感|h|||
 スコーピオン|スコーピオン|scorpion|99|蠍子；蠍|b|||
 スシロー|スシロー|Sushiro|99|壽司郎|h|||
-スタディー|スタディー|study|99|書房；修習|b|||
+スタディー|スタディー|study|99|學習；研究；書房|v|||
 スタント|スタント|stunt|99|特技；特技表演|d|アシスタントが２ドル取りました。|助手留了2美金。|The assistant kept $2.
 ステイ|ステイ|stay, sojourn, stay|99|下榻；駐留|b|『ステイン・アライヴ』っていう歌が好きなの？||Do you like the song Stayin' Alive?
 ステッチ|ステッチ|stitch|99|縫線；針法|d|||
@@ -27361,7 +27361,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 スミソニアン|スミソニアン|Smithsonian Institution|99|史密森尼學會|h|||
 スラー|スラー|slur|99|連奏線；誹謗|h|そのレスラーは試合中右足を骨折した。||The wrestler had his right leg broken in a bout.
 スリラー|スリラー|thriller|99|驚悚片；驚悚小說|h|ジャックの冒険は、多くのスリラー物の主人公の冒険よりも素晴らしい。||Jack's adventures are more amazing than those of the hero in many thrillers.
-スリリング|スリリング|thrilling|99|刺激性|b|スリリングなテレビゲームに熱中させられた。||The thrilling video game took all my attention.
+スリリング|スリリング|thrilling|99|驚險刺激|v|スリリングなテレビゲームに熱中させられた。||The thrilling video game took all my attention.
 スロベニア|スロベニア|Slovenia|99|斯洛維尼亞|d|スロベニアで１番高い山はトリグラウ山です。||The highest mountain of Slovenia is the Triglav.
 スローモーション|スローモーション|slow motion, moving slowly|99|慢動作|b|スローモーションでその場面を見せた。||They showed the scene in slow motion.
 スーパーファミコン|スーパーファミコン|Super Famicom, Super Nintendo Entertainment System|99|超級任天堂|h|||
@@ -27405,7 +27405,7 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ダイオード|ダイオード|diode|99|二極管|b|||
 ダイコン|ダイコン|dive computer|99|潛水電腦|h|||
 ダイレクトメール|ダイレクトメール|direct mail|99|直郵廣告；直接郵件|h|||
-ダッジ|ダッジ|Dodge|99|閃；閃避|b|||
+ダッジ|ダッジ|Dodge|99|閃避；道奇|v|||
 ダブ|ダブ|dab, dabbing|99|輕拍；配音|h|ダブルルームをおねがいします。|我想要雙人房。|I'd like a double room.
 ダライ|ダライ|lathe|99|車床|b|||
 ダラー|ダラー|dollar|99|美元|h|||
@@ -27487,6 +27487,6 @@ LEXBANK("ja",`はあ|はあ|yes, indeed, well, ha!|1|哈；是啊|d|僕はあま
 ニーハイ|ニーハイ|over-the-knee socks, overknee socks|99|過膝襪；長統襪|h|||
 ヌーディスト|ヌーディスト|nudist|99|裸體主義者|d|東ドイツには多くのヌーディストビーチがある。||There are many nudist beaches in East Germany.
 ネアンデルタール|ネアンデルタール|Neanderthal|99|尼安德塔人|h|||
-ネカマ|ネカマ|male who pretends to be female online, Guy In Real Life, GIRL|99|少女；姑娘|b|||
+ネカマ|ネカマ|male who pretends to be female online, Guy In Real Life, GIRL|99|人妖；網路偽娘|v|||
 ネキ|ネキ|sis, person who can be relied upon, dependable woman|99|妹；可靠的女生|h|||
 ネメシス|ネメシス|Nemesis|99|剋星|b|||`);
