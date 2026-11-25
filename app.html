@@ -13,7 +13,7 @@
 <div id="splash" style="visibility:hidden"><div id="bstage"></div><div class="sp-in"><div class="emblem">LEX-01</div><div class="wm">LANG CARDS</div><div class="sp-bar"><i></i></div>
 <div class="hud">ENGLISH · 日本語 · 中文</div><button class="btn p big sp-go">點一下開始 · TAP TO START</button></div></div>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><filter id="tbgoo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b"/><feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="g"/><feComposite in="SourceGraphic" in2="g" operator="atop"/></filter></defs></svg>
-<script>const APP_VER="1.1.129";</script>
+<script>const APP_VER="1.1.130";</script>
 <script>window.LEX_BANK_EXT=true;</script>
 <script>/* ================= web / Mac build only: stands in for the Claude runtime =================
 AI      -> Google Gemini with the user's OWN key (typed in Settings, kept in this browser only; no key is in the code)
@@ -379,9 +379,9 @@ async function webResetCheck(force){try{
 const d=await Promise.race([fsDoc('config','reset').get(),new Promise((_,j)=>setTimeout(j,6000))]);if(!d.exists)return false;
 const T=+d.data().t||0;if(T<=(+GLS('lex-reset-seen')||0))return false;
 const r=force?null:await stGet();GLS('lex-reset-seen',String(T));/* forced (admin button): the old cloud copy is irrelevant, so it is not even read */
-if(!force&&r&&(r.savedAt||0)>=T)return false;
+if(!force&&r&&(r.savedAt||0)>=T&&(+r.rst||0)<T)return false;/* rst>=T: the cloud copy is the blank the admin reset itself uploaded (savedAt is newer than T), not someone starting over */
 window.LEX_RESETTING=true;/* nothing may write the old progress back before the reload */
-const blank=JSON.parse(JSON.stringify(DEF()));blank.v=3;blank.savedAt=Date.now();
+const blank=JSON.parse(JSON.stringify(DEF()));blank.v=3;blank.rst=T;blank.savedAt=Date.now();
 GA.pulled=true;await gQueue(ST_FILE,blank);await gFlush();
 try{localStorage.removeItem(KEY)}catch(e){}
 location.reload();return true}catch(e){window.LEX_RESETTING=false;if(force)throw e;return false}}
